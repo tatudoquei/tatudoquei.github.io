@@ -4,9 +4,9 @@ item_id: 2417771610
 title: >-
     Brasil assina pacto global de migração, mas chanceler de Bolsonaro anuncia retirada
 author: Tatu D'Oquei
-date: 2018-12-11 17:12:18
-pub_date: 2018-12-11 17:12:18
-time_added: 2018-12-11 11:29:06
+date: 2018-12-11 11:29:06
+pub_date: 2018-12-11 11:29:06
+time_added: 2018-12-11 17:12:18
 category: avisamos
 image: https://ep00.epimg.net/brasil/imagenes/2018/12/10/internacional/1544438184_274731_1544488683_rrss_normal.jpg
 ---

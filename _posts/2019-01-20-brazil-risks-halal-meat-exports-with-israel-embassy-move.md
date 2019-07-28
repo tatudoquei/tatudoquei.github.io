@@ -4,9 +4,9 @@ item_id: 2460710652
 title: >-
     Brazil risks halal meat exports with Israel embassy move
 author: Tatu D'Oquei
-date: 2019-01-20 09:05:36
-pub_date: 2019-01-20 09:05:36
-time_added: 2019-01-20 08:05:36
+date: 2019-01-20 08:05:36
+pub_date: 2019-01-20 08:05:36
+time_added: 2019-01-20 09:05:36
 category: avisamos
 image: https://www.ft.com/__assets/creatives/brand-ft/icons/v3/open-graph.png
 ---

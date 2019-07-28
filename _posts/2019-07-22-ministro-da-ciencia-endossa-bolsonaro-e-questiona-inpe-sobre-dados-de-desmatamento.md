@@ -4,9 +4,9 @@ item_id: 2667356782
 title: >-
     Ministro da Ciência endossa Bolsonaro e questiona Inpe sobre dados de desmatamento
 author: Tatu D'Oquei
-date: 2019-07-22 22:01:57
-pub_date: 2019-07-22 22:01:57
-time_added: 2019-07-22 00:04:36
+date: 2019-07-22 00:04:36
+pub_date: 2019-07-22 00:04:36
+time_added: 2019-07-22 22:01:57
 category: 
 image: https://sustentabilidade.estadao.com.br/blogs/ambiente-se/wp-content/uploads/sites/92/2019/07/WhatsApp-Image-2019-07-20-at-10.55.58.jpeg
 ---

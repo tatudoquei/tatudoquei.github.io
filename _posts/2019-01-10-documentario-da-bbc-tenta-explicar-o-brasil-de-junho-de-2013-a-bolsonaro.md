@@ -4,9 +4,9 @@ item_id: 2449461831
 title: >-
     Documentário da BBC tenta explicar o Brasil de junho de 2013 a Bolsonaro
 author: Tatu D'Oquei
-date: 2019-01-10 15:55:00
-pub_date: 2019-01-10 15:55:00
-time_added: 2019-01-10 04:01:00
+date: 2019-01-10 04:01:00
+pub_date: 2019-01-10 04:01:00
+time_added: 2019-01-10 15:55:00
 category: refletimos
 image: https://conteudo.imguol.com.br/blogs/2/files/2019/01/whathappenedtobrazil-615x300.jpg
 ---

@@ -4,9 +4,9 @@ item_id: 2473916972
 title: >-
     Professora recebe segunda denúncia por citar Paulo Freire
 author: Tatu D'Oquei
-date: 2019-01-31 22:08:28
-pub_date: 2019-01-31 22:08:28
-time_added: 2019-01-31 13:18:26
+date: 2019-01-31 13:18:26
+pub_date: 2019-01-31 13:18:26
+time_added: 2019-01-31 22:08:28
 category: avisamos
 image: https://www.sul21.com.br/wp-content/uploads/2018/05/20180530-sul21_300518_jb_0054-03.jpg
 ---

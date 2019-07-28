@@ -4,9 +4,9 @@ item_id: 2660931167
 title: >-
     “Nas indústrias, há poucos que fazem uso da grande capacidade científica das universidades”, diz José Goldemberg
 author: Tatu D'Oquei
-date: 2019-07-16 21:12:47
-pub_date: 2019-07-16 21:12:47
-time_added: 2019-07-16 15:51:16
+date: 2019-07-16 15:51:16
+pub_date: 2019-07-16 15:51:16
+time_added: 2019-07-16 21:12:47
 category: 
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/07/goldemberg1.jpg
 ---

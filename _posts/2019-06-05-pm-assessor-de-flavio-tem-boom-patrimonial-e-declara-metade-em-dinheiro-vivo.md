@@ -4,9 +4,9 @@ item_id: 2616348791
 title: >-
     PM assessor de Flávio tem boom patrimonial e declara metade em dinheiro vivo
 author: Tatu D'Oquei
-date: 2019-06-05 18:21:15
-pub_date: 2019-06-05 18:21:15
-time_added: 2019-06-05 06:44:00
+date: 2019-06-05 06:44:00
+pub_date: 2019-06-05 06:44:00
+time_added: 2019-06-05 18:21:15
 category: 
 image: https://f.i.uol.com.br/fotografia/2019/05/13/15577943825cda0e4eadc25_1557794382_3x2_rt.jpg
 ---

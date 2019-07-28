@@ -4,9 +4,9 @@ item_id: 2526011963
 title: >-
     Datena e o jornalismo mundo cão vendem o ódio bolsonarista há 3 décadas na TV
 author: Tatu D'Oquei
-date: 2019-03-17 21:22:31
-pub_date: 2019-03-17 21:22:31
-time_added: 2019-03-17 10:44:00
+date: 2019-03-17 10:44:00
+pub_date: 2019-03-17 10:44:00
+time_added: 2019-03-17 21:22:31
 category: refletimos
 image: https://theintercept.imgix.net/wp-uploads/sites/1/2019/03/arte-wando-3-1552923651.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800
 ---

@@ -4,9 +4,9 @@ item_id: 2494802719
 title: >-
     Governo pode mudar lei e colocar militares da reserva em cargos públicos
 author: Tatu D'Oquei
-date: 2019-02-18 23:53:48
-pub_date: 2019-02-18 23:53:48
-time_added: 2019-02-18 14:25:34
+date: 2019-02-18 14:25:34
+pub_date: 2019-02-18 14:25:34
+time_added: 2019-02-18 23:53:48
 category: avisamos
 image: https://abrilexame.files.wordpress.com/2017/04/tongro-images-inc.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

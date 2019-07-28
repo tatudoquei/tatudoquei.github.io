@@ -4,9 +4,9 @@ item_id: 2586906411
 title: >-
     Militares atiraram mais de 200 vezes em ação que terminou com morte de músico e catador
 author: Tatu D'Oquei
-date: 2019-05-09 22:47:13
-pub_date: 2019-05-09 22:47:13
-time_added: 2019-05-09 14:39:49
+date: 2019-05-09 14:39:49
+pub_date: 2019-05-09 14:39:49
+time_added: 2019-05-09 22:47:13
 category: 
 ---
 

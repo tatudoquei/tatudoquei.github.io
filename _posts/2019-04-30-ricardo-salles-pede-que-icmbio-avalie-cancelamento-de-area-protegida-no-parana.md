@@ -4,9 +4,9 @@ item_id: 2577414231
 title: >-
     Ricardo Salles pede que ICMBio avalie cancelamento de área protegida no Paraná
 author: Tatu D'Oquei
-date: 2019-04-30 19:34:38
-pub_date: 2019-04-30 19:34:38
-time_added: 2019-04-30 16:08:00
+date: 2019-04-30 16:08:00
+pub_date: 2019-04-30 16:08:00
+time_added: 2019-04-30 19:34:38
 category: 
 image: https://img.estadao.com.br/resources/jpg/4/6/1550055879464.jpg
 ---

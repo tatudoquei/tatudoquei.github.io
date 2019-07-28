@@ -4,9 +4,9 @@ item_id: 2441715322
 title: >-
     Equipe econômica vai propor aposentadoria aos 65 anos na reforma da Previdência
 author: Tatu D'Oquei
-date: 2019-01-03 13:52:01
-pub_date: 2019-01-03 13:52:01
-time_added: 2019-01-03 03:30:00
+date: 2019-01-03 03:30:00
+pub_date: 2019-01-03 03:30:00
+time_added: 2019-01-03 13:52:01
 category: avisamos
 ---
 

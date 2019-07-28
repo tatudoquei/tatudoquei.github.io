@@ -4,9 +4,9 @@ item_id: 2494949290
 title: >-
     Governo oficializa exoneração de Bebianno e alega 'foro íntimo'
 author: Tatu D'Oquei
-date: 2019-02-18 23:47:56
-pub_date: 2019-02-18 23:47:56
-time_added: 2019-02-18 17:26:00
+date: 2019-02-18 17:26:00
+pub_date: 2019-02-18 17:26:00
+time_added: 2019-02-18 23:47:56
 category: avisamos
 ---
 

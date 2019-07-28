@@ -4,9 +4,9 @@ item_id: 2596339874
 title: >-
     Ministro diz que encontrou problemas em contratos de ONGs com Fundo Amazônia
 author: Tatu D'Oquei
-date: 2019-05-17 23:16:46
-pub_date: 2019-05-17 23:16:46
-time_added: 2019-05-17 15:15:00
+date: 2019-05-17 15:15:00
+pub_date: 2019-05-17 15:15:00
+time_added: 2019-05-17 23:16:46
 category: 
 image: https://f.i.uol.com.br/fotografia/2019/05/17/15581057685cdecea802749_1558105768_3x2_xl.jpg
 ---

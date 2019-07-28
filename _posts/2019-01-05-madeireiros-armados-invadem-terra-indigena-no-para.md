@@ -4,9 +4,9 @@ item_id: 2442580955
 title: >-
     Madeireiros armados invadem terra indígena no Pará
 author: Tatu D'Oquei
-date: 2019-01-05 09:36:41
-pub_date: 2019-01-05 09:36:41
-time_added: 2019-01-05 08:36:41
+date: 2019-01-05 08:36:41
+pub_date: 2019-01-05 08:36:41
+time_added: 2019-01-05 09:36:41
 category: avisamos
 image: http://www.diarioonline.com.br/app/painel/modulo-noticia/img/imagensdb/original/destaque-566366-indigenas-madeireiros-altamira.jpg
 ---

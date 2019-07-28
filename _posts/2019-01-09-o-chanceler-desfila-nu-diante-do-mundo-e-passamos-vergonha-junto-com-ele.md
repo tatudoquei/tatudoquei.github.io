@@ -4,9 +4,9 @@ item_id: 2449018793
 title: >-
     O chanceler desfila nu diante do mundo. E passamos vergonha junto com ele
 author: Tatu D'Oquei
-date: 2019-01-09 23:48:09
-pub_date: 2019-01-09 23:48:09
-time_added: 2019-01-09 08:52:00
+date: 2019-01-09 08:52:00
+pub_date: 2019-01-09 08:52:00
+time_added: 2019-01-09 23:48:09
 category: refletimos
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/01/chance-615x300.jpg
 ---

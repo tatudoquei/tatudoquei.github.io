@@ -4,9 +4,9 @@ item_id: 2538500935
 title: >-
     Você comemoraria a escravidão ou o holocausto?
 author: Tatu D'Oquei
-date: 2019-03-27 22:16:43
-pub_date: 2019-03-27 22:16:43
-time_added: 2019-03-27 21:16:43
+date: 2019-03-27 21:16:43
+pub_date: 2019-03-27 21:16:43
+time_added: 2019-03-27 22:16:43
 category: refletimos
 image: http://casadademocracia.org/wp-content/uploads/2019/03/COLUNISTASa.jpg
 ---

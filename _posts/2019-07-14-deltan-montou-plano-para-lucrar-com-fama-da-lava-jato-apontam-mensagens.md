@@ -4,9 +4,9 @@ item_id: 2658304145
 title: >-
     Deltan montou plano para lucrar com fama da Lava Jato, apontam mensagens
 author: Tatu D'Oquei
-date: 2019-07-14 22:46:58
-pub_date: 2019-07-14 22:46:58
-time_added: 2019-07-14 00:00:00
+date: 2019-07-14 00:00:00
+pub_date: 2019-07-14 00:00:00
+time_added: 2019-07-14 22:46:58
 category: 
 image: https://f.i.uol.com.br/fotografia/2019/02/08/15496732385c5e2316cc99f_1549673238_3x2_rt.jpg
 ---

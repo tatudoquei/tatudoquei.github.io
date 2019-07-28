@@ -4,9 +4,9 @@ item_id: 2627268419
 title: >-
     Conversas sobre Odebrecht sugerem que Moro e Deltan ignoraram limites da lei
 author: Tatu D'Oquei
-date: 2019-06-15 15:33:28
-pub_date: 2019-06-15 15:33:28
-time_added: 2019-06-15 00:00:00
+date: 2019-06-15 00:00:00
+pub_date: 2019-06-15 00:00:00
+time_added: 2019-06-15 15:33:28
 category: 
 image: https://f.i.uol.com.br/fotografia/2019/02/08/15496732245c5e230889ab1_1549673224_3x2_rt.jpg
 ---

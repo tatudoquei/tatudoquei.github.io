@@ -4,9 +4,9 @@ item_id: 2422326263
 title: >-
     Funcionários de Flávio Bolsonaro na Alerj repassaram até 99% de seus salários
 author: Tatu D'Oquei
-date: 2018-12-15 21:51:10
-pub_date: 2018-12-15 21:51:10
-time_added: 2018-12-15 09:02:32
+date: 2018-12-15 09:02:32
+pub_date: 2018-12-15 09:02:32
+time_added: 2018-12-15 21:51:10
 category: avisamos
 ---
 

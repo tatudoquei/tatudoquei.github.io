@@ -4,9 +4,9 @@ item_id: 2418411506
 title: >-
     A principal lição do AI-5 está na cara: tudo pode piorar
 author: Tatu D'Oquei
-date: 2018-12-12 23:35:10
-pub_date: 2018-12-12 23:35:10
-time_added: 2018-12-12 10:17:00
+date: 2018-12-12 10:17:00
+pub_date: 2018-12-12 10:17:00
+time_added: 2018-12-12 23:35:10
 category: refletimos
 image: https://theintercept.imgix.net/wp-uploads/sites/1/2018/12/236820-high-1544547155-e1544547307844.jpeg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800
 ---

@@ -4,9 +4,9 @@ item_id: 2475642609
 title: >-
     Mourão fará maratona de entrevistas apesar de pressão por discrição
 author: Tatu D'Oquei
-date: 2019-02-02 16:05:54
-pub_date: 2019-02-02 16:05:54
-time_added: 2019-02-02 01:01:00
+date: 2019-02-02 01:01:00
+pub_date: 2019-02-02 01:01:00
+time_added: 2019-02-02 16:05:54
 category: refletimos
 image: https://f.i.uol.com.br/fotografia/2019/01/24/15483663415c4a3205c674f_1548366341_3x2_rt.jpg
 ---

@@ -4,9 +4,9 @@ item_id: 2645601533
 title: >-
     [despedida] Tesouro perdido
 author: Tatu D'Oquei
-date: 2019-07-09 06:34:42
-pub_date: 2019-07-09 06:34:42
-time_added: 2019-07-09 04:34:42
+date: 2019-07-09 04:34:42
+pub_date: 2019-07-09 04:34:42
+time_added: 2019-07-09 06:34:42
 category: 
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/06/154_despedida_redes.jpg
 ---

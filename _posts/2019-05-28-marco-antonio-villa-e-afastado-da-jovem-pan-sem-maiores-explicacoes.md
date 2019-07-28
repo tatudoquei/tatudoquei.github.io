@@ -4,9 +4,9 @@ item_id: 2607108257
 title: >-
     Marco Antonio Villa é afastado da Jovem Pan sem maiores explicações
 author: Tatu D'Oquei
-date: 2019-05-28 20:59:26
-pub_date: 2019-05-28 20:59:26
-time_added: 2019-05-28 01:44:11
+date: 2019-05-28 01:44:11
+pub_date: 2019-05-28 01:44:11
+time_added: 2019-05-28 20:59:26
 category: 
 image: https://www.revistaforum.com.br/wp-content/uploads/2018/09/villajp.png
 ---

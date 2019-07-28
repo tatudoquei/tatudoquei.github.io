@@ -4,9 +4,9 @@ item_id: 2447693560
 title: >-
     Bancos públicos vão encolher e Caixa apertará juros para classe média
 author: Tatu D'Oquei
-date: 2019-01-08 21:18:50
-pub_date: 2019-01-08 21:18:50
-time_added: 2019-01-08 01:02:21
+date: 2019-01-08 01:02:21
+pub_date: 2019-01-08 01:02:21
+time_added: 2019-01-08 21:18:50
 category: avisamos
 image: https://img.estadao.com.br/resources/jpg/4/4/1546905501544.jpg
 ---

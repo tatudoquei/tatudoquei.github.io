@@ -4,9 +4,9 @@ item_id: 2446497073
 title: >-
     Maioria no país defende educação sexual e discussão sobre política nas escolas
 author: Tatu D'Oquei
-date: 2019-01-07 21:07:27
-pub_date: 2019-01-07 21:07:27
-time_added: 2019-01-07 11:00:00
+date: 2019-01-07 11:00:00
+pub_date: 2019-01-07 11:00:00
+time_added: 2019-01-07 21:07:27
 category: resistimos
 image: https://f.i.uol.com.br/fotografia/2018/12/06/15440707475c08a65b1a727_1544070747_3x2_rt.jpg
 ---

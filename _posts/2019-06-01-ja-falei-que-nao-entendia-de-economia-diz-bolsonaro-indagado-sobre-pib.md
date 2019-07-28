@@ -4,9 +4,9 @@ item_id: 2612468975
 title: >-
     'Já falei que não entendia de economia?', diz Bolsonaro, indagado sobre PIB
 author: Tatu D'Oquei
-date: 2019-06-01 23:21:25
-pub_date: 2019-06-01 23:21:25
-time_added: 2019-06-01 17:14:00
+date: 2019-06-01 17:14:00
+pub_date: 2019-06-01 17:14:00
+time_added: 2019-06-01 23:21:25
 category: 
 image: https://conteudo.imguol.com.br/c/interacao/facebook/uol-economia.png
 ---

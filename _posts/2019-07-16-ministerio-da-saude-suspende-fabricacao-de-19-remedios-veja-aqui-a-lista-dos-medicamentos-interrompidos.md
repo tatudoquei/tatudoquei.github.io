@@ -4,9 +4,9 @@ item_id: 2660931046
 title: >-
     Ministério da Saúde suspende fabricação de 19 remédios; veja aqui a lista dos medicamentos interrompidos
 author: Tatu D'Oquei
-date: 2019-07-16 21:12:40
-pub_date: 2019-07-16 21:12:40
-time_added: 2019-07-16 06:00:00
+date: 2019-07-16 06:00:00
+pub_date: 2019-07-16 06:00:00
+time_added: 2019-07-16 21:12:40
 category: 
 image: https://ogimg.infoglobo.com.br/sociedade/22998835-592-6c6/FT1086A/652/sofosbuvir.jpg
 ---

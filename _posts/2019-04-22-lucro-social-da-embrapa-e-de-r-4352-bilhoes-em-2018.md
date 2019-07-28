@@ -4,9 +4,9 @@ item_id: 2568321824
 title: >-
     Lucro Social da Embrapa é de R$ 43,52 bilhões em 2018
 author: Tatu D'Oquei
-date: 2019-04-22 19:16:02
-pub_date: 2019-04-22 19:16:02
-time_added: 2019-04-22 17:16:02
+date: 2019-04-22 17:16:02
+pub_date: 2019-04-22 17:16:02
+time_added: 2019-04-22 19:16:02
 category: 
 image: https://www.embrapa.br/image/journal/article?img_id=42779861&t=1555944109488
 ---

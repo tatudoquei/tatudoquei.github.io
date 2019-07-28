@@ -4,9 +4,9 @@ item_id: 2475797041
 title: >-
     Supremo abre caminho para investigação do caso Queiroz
 author: Tatu D'Oquei
-date: 2019-02-01 22:43:24
-pub_date: 2019-02-01 22:43:24
-time_added: 2019-02-01 21:43:24
+date: 2019-02-01 21:43:24
+pub_date: 2019-02-01 21:43:24
+time_added: 2019-02-01 22:43:24
 category: resistimos
 ---
 

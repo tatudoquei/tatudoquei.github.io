@@ -4,9 +4,9 @@ item_id: 2606808159
 title: >-
     Bolsonaro divulga foto de 2015 para ilustrar manifestações deste domingo
 author: Tatu D'Oquei
-date: 2019-05-27 21:30:32
-pub_date: 2019-05-27 21:30:32
-time_added: 2019-05-27 20:09:09
+date: 2019-05-27 20:09:09
+pub_date: 2019-05-27 20:09:09
+time_added: 2019-05-27 21:30:32
 category: 
 image: https://abrilvejasp.files.wordpress.com/2019/05/1558986639845181.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

@@ -4,9 +4,9 @@ item_id: 2594105815
 title: >-
     Manifestação contra cortes na educação teve um toque de Junho de 2013
 author: Tatu D'Oquei
-date: 2019-05-16 18:51:28
-pub_date: 2019-05-16 18:51:28
-time_added: 2019-05-16 01:09:00
+date: 2019-05-16 01:09:00
+pub_date: 2019-05-16 01:09:00
+time_added: 2019-05-16 18:51:28
 category: 
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/05/talkey-615x300.jpg
 ---

@@ -4,9 +4,9 @@ item_id: 2453133642
 title: >-
     Registros de intolerância triplicaram em SP na última campanha eleitoral
 author: Tatu D'Oquei
-date: 2019-01-13 18:42:40
-pub_date: 2019-01-13 18:42:40
-time_added: 2019-01-13 01:00:00
+date: 2019-01-13 01:00:00
+pub_date: 2019-01-13 01:00:00
+time_added: 2019-01-13 18:42:40
 category: avisamos
 image: https://f.i.uol.com.br/fotografia/2019/01/12/15473226405c3a451015862_1547322640_3x2_rt.jpg
 ---

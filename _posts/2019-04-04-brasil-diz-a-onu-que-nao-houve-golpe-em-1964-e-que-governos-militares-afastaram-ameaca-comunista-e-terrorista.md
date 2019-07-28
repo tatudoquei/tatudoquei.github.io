@@ -4,9 +4,9 @@ item_id: 2547642253
 title: >-
     Brasil diz à ONU que não houve golpe em 1964 e que governos militares afastaram ameaça comunista e terrorista
 author: Tatu D'Oquei
-date: 2019-04-04 18:08:06
-pub_date: 2019-04-04 18:08:06
-time_added: 2019-04-04 11:22:00
+date: 2019-04-04 11:22:00
+pub_date: 2019-04-04 11:22:00
+time_added: 2019-04-04 18:08:06
 category: 
 image: https://f.i.uol.com.br/fotografia/2019/03/31/15540699095ca139955cfcf_1554069909_3x2_rt.jpg
 ---

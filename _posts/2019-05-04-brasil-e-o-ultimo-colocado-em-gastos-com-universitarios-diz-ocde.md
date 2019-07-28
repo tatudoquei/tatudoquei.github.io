@@ -4,9 +4,9 @@ item_id: 2581731140
 title: >-
     Brasil é o último colocado em gastos com universitários, diz OCDE
 author: Tatu D'Oquei
-date: 2019-05-04 17:37:36
-pub_date: 2019-05-04 17:37:36
-time_added: 2019-05-04 07:00:00
+date: 2019-05-04 07:00:00
+pub_date: 2019-05-04 07:00:00
+time_added: 2019-05-04 17:37:36
 category: 
 image: https://conteudo.imguol.com.br/blogs/275/files/2019/05/weintraub-615x300.jpg
 ---

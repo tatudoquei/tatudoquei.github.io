@@ -4,9 +4,9 @@ item_id: 2471796051
 title: >-
     Sob intervenção do governo, TV Brasil suspende programa 'Sem Censura'
 author: Tatu D'Oquei
-date: 2019-01-29 23:52:15
-pub_date: 2019-01-29 23:52:15
-time_added: 2019-01-29 19:50:00
+date: 2019-01-29 19:50:00
+pub_date: 2019-01-29 19:50:00
+time_added: 2019-01-29 23:52:15
 category: avisamos
 image: https://f.i.uol.com.br/fotografia/2019/01/12/15472901755c39c63fd0e6a_1547290175_3x2_rt.jpg
 ---

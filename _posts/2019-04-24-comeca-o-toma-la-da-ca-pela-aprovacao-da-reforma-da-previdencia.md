@@ -4,9 +4,9 @@ item_id: 2570985841
 title: >-
     Começa o "toma lá, dá cá" pela aprovação da Reforma da Previdência
 author: Tatu D'Oquei
-date: 2019-04-24 22:29:15
-pub_date: 2019-04-24 22:29:15
-time_added: 2019-04-24 01:41:00
+date: 2019-04-24 01:41:00
+pub_date: 2019-04-24 01:41:00
+time_added: 2019-04-24 22:29:15
 category: 
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/02/bolsonaro_maia-615x300.jpg
 ---

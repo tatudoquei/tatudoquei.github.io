@@ -4,9 +4,9 @@ item_id: 2519527782
 title: >-
     Presidente da República pode publicar informação falsa na internet?
 author: Tatu D'Oquei
-date: 2019-03-18 19:36:09
-pub_date: 2019-03-18 19:36:09
-time_added: 2019-03-18 18:36:09
+date: 2019-03-18 18:36:09
+pub_date: 2019-03-18 18:36:09
+time_added: 2019-03-18 19:36:09
 category: refletimos
 ---
 

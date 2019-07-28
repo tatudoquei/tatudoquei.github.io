@@ -4,9 +4,9 @@ item_id: 2557800865
 title: >-
     Prefeito de Nova York chama Bolsonaro de perigoso, racista e homofóbico
 author: Tatu D'Oquei
-date: 2019-04-13 13:35:12
-pub_date: 2019-04-13 13:35:12
-time_added: 2019-04-13 04:39:19
+date: 2019-04-13 04:39:19
+pub_date: 2019-04-13 04:39:19
+time_added: 2019-04-13 13:35:12
 category: 
 image: https://img.estadao.com.br/resources/jpg/7/9/1555129251497.jpg
 ---

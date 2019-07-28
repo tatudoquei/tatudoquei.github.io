@@ -4,9 +4,9 @@ item_id: 2663947640
 title: >-
     Kim Kataguiri troca licença ambiental do agro por Cadastro Ambiental Rural
 author: Tatu D'Oquei
-date: 2019-07-19 22:53:31
-pub_date: 2019-07-19 22:53:31
-time_added: 2019-07-19 07:12:00
+date: 2019-07-19 07:12:00
+pub_date: 2019-07-19 07:12:00
+time_added: 2019-07-19 22:53:31
 category: 
 image: https://ambiencia.blogfolha.uol.com.br/files/2019/07/kim.jpg
 ---

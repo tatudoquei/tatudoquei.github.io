@@ -4,9 +4,9 @@ item_id: 2446497080
 title: >-
     Nota de Esclarecimento
 author: Tatu D'Oquei
-date: 2019-01-07 21:07:44
-pub_date: 2019-01-07 21:07:44
-time_added: 2019-01-07 13:11:00
+date: 2019-01-07 13:11:00
+pub_date: 2019-01-07 13:11:00
+time_added: 2019-01-07 21:07:44
 category: resistimos
 ---
 

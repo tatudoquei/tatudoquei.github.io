@@ -4,9 +4,9 @@ item_id: 2531653530
 title: >-
     Campeã de requerimentos minerários, Terra Indígena Yanomami sofre com explosão do garimpo
 author: Tatu D'Oquei
-date: 2019-03-24 07:11:15
-pub_date: 2019-03-24 07:11:15
-time_added: 2019-03-24 06:11:15
+date: 2019-03-24 06:11:15
+pub_date: 2019-03-24 06:11:15
+time_added: 2019-03-24 07:11:15
 category: avisamos
 image: https://www.socioambiental.org/sites/blog.socioambiental.org/files/styles/twitter-card/public/blogs/09_rogerioassis-isa_rs20035.jpg?itok=XTFBsYY_
 ---

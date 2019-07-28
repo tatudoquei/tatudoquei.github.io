@@ -4,9 +4,9 @@ item_id: 2578876008
 title: >-
     O Exército vai pagar um tour milionário de coronéis pela Europa
 author: Tatu D'Oquei
-date: 2019-05-02 21:30:33
-pub_date: 2019-05-02 21:30:33
-time_added: 2019-05-02 06:02:00
+date: 2019-05-02 06:02:00
+pub_date: 2019-05-02 06:02:00
+time_added: 2019-05-02 21:30:33
 category: 
 image: https://theintercept.com/wp-uploads/sites/1/2019/04/Militares-Ferias-Arte-redes-1556655409.jpg
 ---

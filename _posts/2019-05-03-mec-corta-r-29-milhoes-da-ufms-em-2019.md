@@ -4,9 +4,9 @@ item_id: 2580946113
 title: >-
     MEC corta R$ 29 milhões da UFMS em 2019
 author: Tatu D'Oquei
-date: 2019-05-03 22:10:01
-pub_date: 2019-05-03 22:10:01
-time_added: 2019-05-03 01:53:41
+date: 2019-05-03 01:53:41
+pub_date: 2019-05-03 01:53:41
+time_added: 2019-05-03 22:10:01
 category: 
 image: https://www.ufms.br/wp-content/uploads/2019/05/Imagem1.jpg
 ---

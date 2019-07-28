@@ -4,9 +4,9 @@ item_id: 2648345364
 title: >-
     10 mitos sobre a universidade pública no Brasil
 author: Tatu D'Oquei
-date: 2019-07-18 06:28:32
-pub_date: 2019-07-18 06:28:32
-time_added: 2019-07-18 04:28:32
+date: 2019-07-18 04:28:32
+pub_date: 2019-07-18 04:28:32
+time_added: 2019-07-18 06:28:32
 category: 
 image: https://jornal.usp.br/wp-content/uploads/2019/06/20190628_00_destaque_mitos1.jpg
 ---

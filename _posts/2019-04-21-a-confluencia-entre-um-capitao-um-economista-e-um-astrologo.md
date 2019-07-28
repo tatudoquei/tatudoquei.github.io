@@ -4,9 +4,9 @@ item_id: 2567349230
 title: >-
     A confluência entre um capitão, um economista e um astrólogo
 author: Tatu D'Oquei
-date: 2019-04-21 23:19:08
-pub_date: 2019-04-21 23:19:08
-time_added: 2019-04-21 00:00:00
+date: 2019-04-21 00:00:00
+pub_date: 2019-04-21 00:00:00
+time_added: 2019-04-21 23:19:08
 category: 
 image: https://f.i.uol.com.br/fotografia/2019/04/17/15555252235cb76e67612e6_1555525223_3x2_rt.jpg
 ---

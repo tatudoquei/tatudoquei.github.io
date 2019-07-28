@@ -4,9 +4,9 @@ item_id: 2495283229
 title: >-
     Milícia é o maior temor de 29% dos moradores de comunidade, aponta pesquisa
 author: Tatu D'Oquei
-date: 2019-02-18 23:51:54
-pub_date: 2019-02-18 23:51:54
-time_added: 2019-02-18 12:20:00
+date: 2019-02-18 12:20:00
+pub_date: 2019-02-18 12:20:00
+time_added: 2019-02-18 23:51:54
 category: refletimos
 image: https://ogimg.infoglobo.com.br/rio/23186186-f1b-dd1/FT1086A/652/Screenshot_2.png
 ---

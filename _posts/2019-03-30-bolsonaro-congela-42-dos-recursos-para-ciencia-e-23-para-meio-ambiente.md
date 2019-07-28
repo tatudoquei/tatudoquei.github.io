@@ -4,9 +4,9 @@ item_id: 2541743993
 title: >-
     Bolsonaro congela 42% dos recursos para Ciência e 23% para Meio Ambiente
 author: Tatu D'Oquei
-date: 2019-03-30 23:39:33
-pub_date: 2019-03-30 23:39:33
-time_added: 2019-03-30 16:36:51
+date: 2019-03-30 16:36:51
+pub_date: 2019-03-30 16:36:51
+time_added: 2019-03-30 23:39:33
 category: 
 image: http://www.diretodaciencia.com/wp-content/uploads/2019/04/DC_FB_og.jpg
 ---

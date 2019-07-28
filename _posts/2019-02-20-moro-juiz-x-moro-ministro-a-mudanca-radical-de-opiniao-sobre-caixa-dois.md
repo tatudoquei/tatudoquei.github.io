@@ -4,9 +4,9 @@ item_id: 2496234490
 title: >-
     Moro juiz x Moro ministro: a mudança radical de opinião sobre caixa dois
 author: Tatu D'Oquei
-date: 2019-02-20 13:59:55
-pub_date: 2019-02-20 13:59:55
-time_added: 2019-02-20 09:50:49
+date: 2019-02-20 09:50:49
+pub_date: 2019-02-20 09:50:49
+time_added: 2019-02-20 13:59:55
 category: refletimos
 image: https://ep00.epimg.net/brasil/imagenes/2019/02/19/politica/1550605130_002550_1550610582_rrss_normal.jpg
 ---

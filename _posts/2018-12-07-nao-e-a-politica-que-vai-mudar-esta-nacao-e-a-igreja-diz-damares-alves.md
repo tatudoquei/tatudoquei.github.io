@@ -4,9 +4,9 @@ item_id: 2413355203
 title: >-
     ‘Não é a política que vai mudar esta nação, é a igreja’, diz Damares Alves
 author: Tatu D'Oquei
-date: 2018-12-07 20:52:16
-pub_date: 2018-12-07 20:52:16
-time_added: 2018-12-07 00:02:08
+date: 2018-12-07 00:02:08
+pub_date: 2018-12-07 00:02:08
+time_added: 2018-12-07 20:52:16
 category: avisamos
 image: http://www.estadao.com.br/estadao/novo/img/estadao.gif
 ---

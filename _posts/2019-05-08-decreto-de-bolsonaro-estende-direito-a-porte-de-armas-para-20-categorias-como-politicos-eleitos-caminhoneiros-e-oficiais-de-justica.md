@@ -4,9 +4,9 @@ item_id: 2586025056
 title: >-
     Decreto de Bolsonaro estende direito a porte de armas para 20 categorias, como políticos eleitos, caminhoneiros e oficiais de Justiça
 author: Tatu D'Oquei
-date: 2019-05-08 16:28:33
-pub_date: 2019-05-08 16:28:33
-time_added: 2019-05-08 11:02:00
+date: 2019-05-08 11:02:00
+pub_date: 2019-05-08 11:02:00
+time_added: 2019-05-08 16:28:33
 category: 
 ---
 

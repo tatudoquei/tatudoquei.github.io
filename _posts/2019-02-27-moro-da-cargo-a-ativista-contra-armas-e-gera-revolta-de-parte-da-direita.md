@@ -4,9 +4,9 @@ item_id: 2505544477
 title: >-
     Moro dá cargo a ativista contra armas e gera revolta de parte da direita
 author: Tatu D'Oquei
-date: 2019-02-27 22:56:41
-pub_date: 2019-02-27 22:56:41
-time_added: 2019-02-27 21:56:41
+date: 2019-02-27 21:56:41
+pub_date: 2019-02-27 21:56:41
+time_added: 2019-02-27 22:56:41
 category: avisamos
 image: https://www.gazetadopovo.com.br/ra/media/Pub/GP/p5/2019/02/27/Republica/Imagens/Cortadas/Ilona-ID000002-1200x800@GP-Web.png
 ---

@@ -4,9 +4,9 @@ item_id: 2594867499
 title: >-
     Parentes de Bolsonaro devolviam 90% dos salários
 author: Tatu D'Oquei
-date: 2019-05-16 19:14:12
-pub_date: 2019-05-16 19:14:12
-time_added: 2019-05-16 13:05:00
+date: 2019-05-16 13:05:00
+pub_date: 2019-05-16 13:05:00
+time_added: 2019-05-16 19:14:12
 category: 
 ---
 

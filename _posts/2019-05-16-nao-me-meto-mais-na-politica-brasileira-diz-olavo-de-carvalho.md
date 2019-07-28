@@ -4,9 +4,9 @@ item_id: 2594685633
 title: >-
     'Não me meto mais na política brasileira', diz Olavo de Carvalho
 author: Tatu D'Oquei
-date: 2019-05-16 18:56:24
-pub_date: 2019-05-16 18:56:24
-time_added: 2019-05-16 13:28:00
+date: 2019-05-16 13:28:00
+pub_date: 2019-05-16 13:28:00
+time_added: 2019-05-16 18:56:24
 category: 
 image: https://conteudo.imguol.com.br/c/interacao/facebook/uol-noticias-600px.jpg
 ---

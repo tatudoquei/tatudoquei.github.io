@@ -4,9 +4,9 @@ item_id: 2471796049
 title: >-
     Hospital das Forças armadas vai pagar despesas de Bolsonaro no Einstein
 author: Tatu D'Oquei
-date: 2019-01-29 23:52:04
-pub_date: 2019-01-29 23:52:04
-time_added: 2019-01-29 19:01:00
+date: 2019-01-29 19:01:00
+pub_date: 2019-01-29 19:01:00
+time_added: 2019-01-29 23:52:04
 category: avisamos
 ---
 

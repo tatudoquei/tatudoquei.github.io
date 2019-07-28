@@ -4,9 +4,9 @@ item_id: 2655653985
 title: >-
     Brasil se alia a islâmicos em temas de sexo e família na ONU
 author: Tatu D'Oquei
-date: 2019-07-11 18:51:44
-pub_date: 2019-07-11 18:51:44
-time_added: 2019-07-11 08:20:00
+date: 2019-07-11 08:20:00
+pub_date: 2019-07-11 08:20:00
+time_added: 2019-07-11 18:51:44
 category: 
 image: https://conteudo.imguol.com.br/66/2019/02/11/jamil-chade-facebook-1549911067141_956x500.png
 ---

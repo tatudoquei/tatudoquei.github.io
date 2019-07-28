@@ -4,9 +4,9 @@ item_id: 2585330184
 title: >-
     'Os Bolsonaros têm relações com a esgotosfera do crime', diz Padilha
 author: Tatu D'Oquei
-date: 2019-05-08 14:37:11
-pub_date: 2019-05-08 14:37:11
-time_added: 2019-05-08 00:57:00
+date: 2019-05-08 00:57:00
+pub_date: 2019-05-08 00:57:00
+time_added: 2019-05-08 14:37:11
 category: 
 image: https://f.i.uol.com.br/fotografia/2018/03/16/15212216045aabffe4c43bd_1521221604_3x2_rt.jpg
 ---

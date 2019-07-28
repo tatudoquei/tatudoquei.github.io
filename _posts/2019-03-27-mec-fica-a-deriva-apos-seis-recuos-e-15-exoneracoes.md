@@ -4,9 +4,9 @@ item_id: 2538495487
 title: >-
     MEC fica à deriva após seis recuos e 15 exonerações
 author: Tatu D'Oquei
-date: 2019-03-27 22:10:37
-pub_date: 2019-03-27 22:10:37
-time_added: 2019-03-27 06:11:20
+date: 2019-03-27 06:11:20
+pub_date: 2019-03-27 06:11:20
+time_added: 2019-03-27 22:10:37
 category: recuadas
 image: http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2019/03/27/1553653253696.jpg
 ---

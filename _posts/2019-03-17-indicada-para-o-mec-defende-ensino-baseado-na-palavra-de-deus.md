@@ -4,9 +4,9 @@ item_id: 2526249736
 title: >-
     Indicada para o MEC defende ensino baseado na “palavra de Deus”
 author: Tatu D'Oquei
-date: 2019-03-17 21:18:26
-pub_date: 2019-03-17 21:18:26
-time_added: 2019-03-17 13:58:18
+date: 2019-03-17 13:58:18
+pub_date: 2019-03-17 13:58:18
+time_added: 2019-03-17 21:18:26
 category: avisamos
 image: https://abrilexame.files.wordpress.com/2019/03/53762929_567519850421144_2370753613952664299_n-e1552592908373.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

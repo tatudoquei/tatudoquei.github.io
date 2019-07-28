@@ -4,9 +4,9 @@ item_id: 2615630590
 title: >-
     Capes anuncia novo corte de 2,7 mil bolsas de mestrado, doutorado e pós-doutorado
 author: Tatu D'Oquei
-date: 2019-06-04 21:11:07
-pub_date: 2019-06-04 21:11:07
-time_added: 2019-06-04 19:14:49
+date: 2019-06-04 19:14:49
+pub_date: 2019-06-04 19:14:49
+time_added: 2019-06-04 21:11:07
 category: 
 image: https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png
 ---

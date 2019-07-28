@@ -4,9 +4,9 @@ item_id: 2660927599
 title: >-
     “É preciso valorizar as ideias”, afirma José Israel Vargas
 author: Tatu D'Oquei
-date: 2019-07-16 21:08:41
-pub_date: 2019-07-16 21:08:41
-time_added: 2019-07-16 15:47:35
+date: 2019-07-16 15:47:35
+pub_date: 2019-07-16 15:47:35
+time_added: 2019-07-16 21:08:41
 category: 
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/07/JoseIsraelVargas-Foto-UFMG.jpg
 ---

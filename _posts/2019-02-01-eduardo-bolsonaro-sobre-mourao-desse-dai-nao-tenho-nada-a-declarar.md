@@ -4,9 +4,9 @@ item_id: 2475797051
 title: >-
     Eduardo Bolsonaro sobre Mourão: "Desse daí não tenho nada a declarar"
 author: Tatu D'Oquei
-date: 2019-02-01 22:48:12
-pub_date: 2019-02-01 22:48:12
-time_added: 2019-02-01 12:15:00
+date: 2019-02-01 12:15:00
+pub_date: 2019-02-01 12:15:00
+time_added: 2019-02-01 22:48:12
 category: refletimos
 ---
 

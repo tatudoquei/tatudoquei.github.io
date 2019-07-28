@@ -4,9 +4,9 @@ item_id: 2599848620
 title: >-
     A razia de Bolsonaro
 author: Tatu D'Oquei
-date: 2019-05-21 19:39:29
-pub_date: 2019-05-21 19:39:29
-time_added: 2019-05-21 06:00:00
+date: 2019-05-21 06:00:00
+pub_date: 2019-05-21 06:00:00
+time_added: 2019-05-21 19:39:29
 category: 
 image: http://www.estadao.com.br/estadao/novo/img/estadao.gif
 ---

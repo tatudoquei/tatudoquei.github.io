@@ -1,17 +1,17 @@
 ---
 layout: post
-item_id: 2580945924
+item_id: 2581244466
 title: >-
     Itamaraty foge de padrão ao condecorar Eduardo e Flávio Bolsonaro
 author: Tatu D'Oquei
-date: 2019-05-03 22:09:36
-pub_date: 2019-05-03 22:09:36
-time_added: 2019-05-03 11:11:32
+date: 2019-05-03 10:54:00
+pub_date: 2019-05-03 10:54:00
+time_added: 2019-05-04 06:25:47
 category: 
-image: https://abrilexame.files.wordpress.com/2018/12/bolsonaro9.jpg?quality=70&strip=info&w=680&h=453&crop=1
+image: https://imgsapp.em.com.br/app/noticia_127983242361/2019/05/03/1050870/20190503082418660805o.jpg
 ---
 
-Brasília – O presidente Jair Bolsonaro entrega nesta sexta-feira (3), a Ordem Nacional de Rio Branco, a mais distinta condecoração do Itamaraty, aos seus filhos Flávio e Eduardo Bolsonaro. Eles serão homenageados no grau de Grande-Oficial, o segundo mais importante.
+Eduardo e Flávio Bolsonaro (foto: Sérgio Lima e Mauro Pimentel/AFP) O presidente Jair Bolsonaro entrega nesta sexta-feira(3) a Ordem Nacional de Rio Branco, a mais distinta condecoração do Itamaraty, aos seus filhos Flávio e Eduardo Bolsonaro.
 
-**Link:** [https://exame.abril.com.br/brasil/itamaraty-foge-de-padrao-ao-condecorar-eduardo-e-flavio-bolsonaro/](https://exame.abril.com.br/brasil/itamaraty-foge-de-padrao-ao-condecorar-eduardo-e-flavio-bolsonaro/)
+**Link:** [https://www.em.com.br/app/noticia/politica/2019/05/03/interna_politica,1050870/itamaraty-foge-de-padrao-ao-condecorar-eduardo-e-flavio-bolsonaro.shtml](https://www.em.com.br/app/noticia/politica/2019/05/03/interna_politica,1050870/itamaraty-foge-de-padrao-ao-condecorar-eduardo-e-flavio-bolsonaro.shtml)
 

@@ -4,9 +4,9 @@ item_id: 2569576540
 title: >-
     O futuro da CT&I brasileira na pauta de negociações com o governo
 author: Tatu D'Oquei
-date: 2019-04-23 19:11:42
-pub_date: 2019-04-23 19:11:42
-time_added: 2019-04-23 13:31:30
+date: 2019-04-23 13:31:30
+pub_date: 2019-04-23 13:31:30
+time_added: 2019-04-23 19:11:42
 category: 
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/04/congresso-nacional.jpg
 ---

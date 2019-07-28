@@ -4,9 +4,9 @@ item_id: 2421699783
 title: >-
     Funcionários de Flávio Bolsonaro repassaram até 99% dos salários
 author: Tatu D'Oquei
-date: 2018-12-15 21:53:19
-pub_date: 2018-12-15 21:53:19
-time_added: 2018-12-15 04:00:42
+date: 2018-12-15 04:00:42
+pub_date: 2018-12-15 04:00:42
+time_added: 2018-12-15 21:53:19
 category: avisamos
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2018/12/Flavio-1.jpg
 ---

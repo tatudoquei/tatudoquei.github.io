@@ -4,9 +4,9 @@ item_id: 2564464046
 title: >-
     Alvo de Bolsonaro, estatuto de terras indígenas foi criado pelo regime militar
 author: Tatu D'Oquei
-date: 2019-04-19 07:33:28
-pub_date: 2019-04-19 07:33:28
-time_added: 2019-04-19 00:00:00
+date: 2019-04-19 00:00:00
+pub_date: 2019-04-19 00:00:00
+time_added: 2019-04-19 07:33:28
 category: 
 image: https://f.i.uol.com.br/fotografia/2019/04/17/15555353225cb795dab79a8_1555535322_3x2_xl.jpg
 ---

@@ -4,9 +4,9 @@ item_id: 2612471772
 title: >-
     "Não há dinheiro sujo", diz Bolsonaro sobre imóveis negociados por Flávio
 author: Tatu D'Oquei
-date: 2019-06-01 23:26:14
-pub_date: 2019-06-01 23:26:14
-time_added: 2019-06-01 13:35:00
+date: 2019-06-01 13:35:00
+pub_date: 2019-06-01 13:35:00
+time_added: 2019-06-01 23:26:14
 category: 
 image: https://conteudo.imguol.com.br/c/noticias/8b/2019/05/31/29mai2019---o-presidente-jair-bolsonaro-fala-com-a-imprensa-em-brasilia-1559331515037_v2_615x300.jpg
 ---

@@ -4,9 +4,9 @@ item_id: 2595404636
 title: >-
     Dilma: “Bolsonaro vai responder na Justiça as mentiras lançadas contra mim”
 author: Tatu D'Oquei
-date: 2019-05-17 17:54:01
-pub_date: 2019-05-17 17:54:01
-time_added: 2019-05-17 20:54:01
+date: 2019-05-17 20:54:01
+pub_date: 2019-05-17 20:54:01
+time_added: 2019-05-17 17:54:01
 category: 
 ---
 

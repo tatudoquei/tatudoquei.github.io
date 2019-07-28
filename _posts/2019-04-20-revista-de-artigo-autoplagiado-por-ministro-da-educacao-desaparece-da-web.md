@@ -4,9 +4,9 @@ item_id: 2566182718
 title: >-
     Revista de artigo autoplagiado por ministro da Educação ‘desaparece’ da web
 author: Tatu D'Oquei
-date: 2019-04-20 19:04:20
-pub_date: 2019-04-20 19:04:20
-time_added: 2019-04-20 10:37:13
+date: 2019-04-20 10:37:13
+pub_date: 2019-04-20 10:37:13
+time_added: 2019-04-20 19:04:20
 category: 
 image: http://www.diretodaciencia.com/wp-content/uploads/2019/04/31558507967_808edca66a_o.jpg
 ---

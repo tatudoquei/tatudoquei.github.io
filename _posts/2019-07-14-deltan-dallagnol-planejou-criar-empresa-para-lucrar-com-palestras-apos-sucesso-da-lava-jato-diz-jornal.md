@@ -4,9 +4,9 @@ item_id: 2658767858
 title: >-
     Deltan Dallagnol planejou criar empresa para lucrar com palestras após sucesso da Lava-Jato, diz jornal
 author: Tatu D'Oquei
-date: 2019-07-14 22:48:05
-pub_date: 2019-07-14 22:48:05
-time_added: 2019-07-14 11:34:00
+date: 2019-07-14 11:34:00
+pub_date: 2019-07-14 11:34:00
+time_added: 2019-07-14 22:48:05
 category: 
 ---
 

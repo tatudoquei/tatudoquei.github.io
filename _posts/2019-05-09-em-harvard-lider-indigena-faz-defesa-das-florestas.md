@@ -4,9 +4,9 @@ item_id: 2587489321
 title: >-
     Em Harvard, líder indígena faz defesa das florestas
 author: Tatu D'Oquei
-date: 2019-05-09 22:49:58
-pub_date: 2019-05-09 22:49:58
-time_added: 2019-05-09 08:00:01
+date: 2019-05-09 08:00:01
+pub_date: 2019-05-09 08:00:01
+time_added: 2019-05-09 22:49:58
 category: 
 image: https://www.valor.com.br/sites/default/files/imagecache/media_library_big_horizontal/gn/19/05/foto09bra-111-dani-a8.jpg
 ---

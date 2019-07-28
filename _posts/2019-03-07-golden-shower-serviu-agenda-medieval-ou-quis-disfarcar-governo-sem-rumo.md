@@ -4,9 +4,9 @@ item_id: 2514398505
 title: >-
     "Golden shower" serviu agenda medieval ou quis disfarçar governo sem rumo?
 author: Tatu D'Oquei
-date: 2019-03-07 11:39:09
-pub_date: 2019-03-07 11:39:09
-time_added: 2019-03-07 01:20:00
+date: 2019-03-07 01:20:00
+pub_date: 2019-03-07 01:20:00
+time_added: 2019-03-07 11:39:09
 category: refletimos
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/03/bolso-615x300.jpg
 ---

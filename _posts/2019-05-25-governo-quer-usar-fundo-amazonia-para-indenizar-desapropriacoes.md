@@ -4,9 +4,9 @@ item_id: 2604565303
 title: >-
     Governo quer usar Fundo Amazônia para indenizar desapropriações
 author: Tatu D'Oquei
-date: 2019-05-25 22:27:12
-pub_date: 2019-05-25 22:27:12
-time_added: 2019-05-25 06:00:00
+date: 2019-05-25 06:00:00
+pub_date: 2019-05-25 06:00:00
+time_added: 2019-05-25 22:27:12
 category: 
 image: https://img.estadao.com.br/resources/jpg/1/0/1508181014101.jpg
 ---

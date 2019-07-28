@@ -4,9 +4,9 @@ item_id: 2596069032
 title: >-
     Para Bolsonaro, investigação de corrupção só vale se for contra os outros
 author: Tatu D'Oquei
-date: 2019-05-17 23:16:18
-pub_date: 2019-05-17 23:16:18
-time_added: 2019-05-17 17:11:00
+date: 2019-05-17 17:11:00
+pub_date: 2019-05-17 17:11:00
+time_added: 2019-05-17 23:16:18
 category: 
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/01/flaja-615x300.jpg
 ---

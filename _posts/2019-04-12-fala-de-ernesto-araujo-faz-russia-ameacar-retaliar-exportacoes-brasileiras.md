@@ -4,9 +4,9 @@ item_id: 2557282975
 title: >-
     Fala de Ernesto Araújo faz Rússia ameaçar retaliar exportações brasileiras
 author: Tatu D'Oquei
-date: 2019-04-12 21:47:07
-pub_date: 2019-04-12 21:47:07
-time_added: 2019-04-12 07:00:00
+date: 2019-04-12 07:00:00
+pub_date: 2019-04-12 07:00:00
+time_added: 2019-04-12 21:47:07
 category: 
 ---
 

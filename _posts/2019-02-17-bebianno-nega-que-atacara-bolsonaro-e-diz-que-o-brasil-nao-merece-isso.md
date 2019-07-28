@@ -4,9 +4,9 @@ item_id: 2493304879
 title: >-
     Bebianno nega que atacará Bolsonaro e diz que 'o Brasil não merece isso'
 author: Tatu D'Oquei
-date: 2019-02-17 23:50:05
-pub_date: 2019-02-17 23:50:05
-time_added: 2019-02-17 10:23:00
+date: 2019-02-17 10:23:00
+pub_date: 2019-02-17 10:23:00
+time_added: 2019-02-17 23:50:05
 category: avisamos
 image: https://f.i.uol.com.br/fotografia/2019/02/15/15502465315c66e283598cf_1550246531_3x2_rt.jpg
 ---

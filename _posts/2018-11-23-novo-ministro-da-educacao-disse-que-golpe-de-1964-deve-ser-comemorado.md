@@ -4,9 +4,9 @@ item_id: 2397064090
 title: >-
     Novo ministro da Educação disse que golpe de 1964 deve ser comemorado
 author: Tatu D'Oquei
-date: 2018-11-23 13:18:53
-pub_date: 2018-11-23 13:18:53
-time_added: 2018-11-23 01:10:00
+date: 2018-11-23 01:10:00
+pub_date: 2018-11-23 01:10:00
+time_added: 2018-11-23 13:18:53
 category: avisamos
 image: https://painel.blogfolha.uol.com.br/files/2018/11/15429299935bf73e4999f38_1542929993_3x2_md.jpg
 ---

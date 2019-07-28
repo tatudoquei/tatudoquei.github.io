@@ -4,9 +4,9 @@ item_id: 2449018806
 title: >-
     Novo chefe da Marinha diz que Brasil esteve com EUA em 3 guerras mundiais
 author: Tatu D'Oquei
-date: 2019-01-09 23:57:51
-pub_date: 2019-01-09 23:57:51
-time_added: 2019-01-09 11:10:00
+date: 2019-01-09 11:10:00
+pub_date: 2019-01-09 11:10:00
+time_added: 2019-01-09 23:57:51
 category: avisamos
 image: https://conteudo.imguol.com.br/c/noticias/04/2018/11/21/almirante-de-esquadra-ilques-barbosa-junior-1542832732486_300x200.jpg
 ---

@@ -4,9 +4,9 @@ item_id: 2557279967
 title: >-
     'O Exército não matou ninguém, não', diz Bolsonaro sobre morte de músico no Rio
 author: Tatu D'Oquei
-date: 2019-04-12 21:43:24
-pub_date: 2019-04-12 21:43:24
-time_added: 2019-04-12 12:38:00
+date: 2019-04-12 12:38:00
+pub_date: 2019-04-12 12:38:00
+time_added: 2019-04-12 21:43:24
 category: 
 image: https://f.i.uol.com.br/fotografia/2019/04/12/15550904665cb0cc2210ec8_1555090466_3x2_rt.jpg
 ---

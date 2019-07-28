@@ -4,9 +4,9 @@ item_id: 2513341903
 title: >-
     Bolsonaro publica vídeo pornográfico no Twitter e pedido de impeachment vira assunto mais comentado do mundo
 author: Tatu D'Oquei
-date: 2019-03-06 15:41:56
-pub_date: 2019-03-06 15:41:56
-time_added: 2019-03-06 13:03:54
+date: 2019-03-06 13:03:54
+pub_date: 2019-03-06 13:03:54
+time_added: 2019-03-06 15:41:56
 category: avisamos
 image: http://blogs.opovo.com.br/politica/wp-content/uploads/sites/62/2019/03/0603_PRINT_BOLSO-e1551877375543-300x301.png
 ---

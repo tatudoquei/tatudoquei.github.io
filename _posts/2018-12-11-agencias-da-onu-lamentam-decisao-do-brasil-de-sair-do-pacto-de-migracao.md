@@ -4,9 +4,9 @@ item_id: 2417248869
 title: >-
     Agências da ONU lamentam decisão do Brasil de sair do Pacto de Migração
 author: Tatu D'Oquei
-date: 2018-12-11 23:40:04
-pub_date: 2018-12-11 23:40:04
-time_added: 2018-12-11 12:58:29
+date: 2018-12-11 12:58:29
+pub_date: 2018-12-11 12:58:29
+time_added: 2018-12-11 23:40:04
 category: avisamos
 image: https://img.estadao.com.br/resources/jpg/7/9/1544528831697.jpg
 ---

@@ -4,9 +4,9 @@ item_id: 2467706112
 title: >-
     EBC ordenou silêncio sobre ameaças a Jean Wyllys
 author: Tatu D'Oquei
-date: 2019-01-25 21:37:16
-pub_date: 2019-01-25 21:37:16
-time_added: 2019-01-25 14:10:00
+date: 2019-01-25 14:10:00
+pub_date: 2019-01-25 14:10:00
+time_added: 2019-01-25 21:37:16
 category: avisamos
 ---
 

@@ -4,9 +4,9 @@ item_id: 2543995236
 title: >-
     Hamas critica visita de Bolsonaro a Jerusalém e pede reação de países árabes
 author: Tatu D'Oquei
-date: 2019-04-01 21:50:06
-pub_date: 2019-04-01 21:50:06
-time_added: 2019-04-01 16:45:02
+date: 2019-04-01 16:45:02
+pub_date: 2019-04-01 16:45:02
+time_added: 2019-04-01 21:50:06
 category: 
 image: https://img.estadao.com.br/resources/jpg/7/9/1554129804297.jpg
 ---

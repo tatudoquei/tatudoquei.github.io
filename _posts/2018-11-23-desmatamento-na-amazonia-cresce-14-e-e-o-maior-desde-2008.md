@@ -4,9 +4,9 @@ item_id: 2397632473
 title: >-
     Desmatamento na Amazônia cresce 14% e é o maior desde 2008
 author: Tatu D'Oquei
-date: 2018-11-23 23:34:43
-pub_date: 2018-11-23 23:34:43
-time_added: 2018-11-23 17:25:00
+date: 2018-11-23 17:25:00
+pub_date: 2018-11-23 17:25:00
+time_added: 2018-11-23 23:34:43
 category: avisamos
 image: https://f.i.uol.com.br/fotografia/2018/09/08/15364474065b9453ae0b86d_1536447406_3x2_rt.jpg
 ---

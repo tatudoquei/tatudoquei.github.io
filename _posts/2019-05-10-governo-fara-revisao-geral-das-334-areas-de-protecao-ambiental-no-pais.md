@@ -4,9 +4,9 @@ item_id: 2588117758
 title: >-
     Governo fará revisão geral das 334 áreas de proteção ambiental no País
 author: Tatu D'Oquei
-date: 2019-05-10 13:10:07
-pub_date: 2019-05-10 13:10:07
-time_added: 2019-05-10 06:00:00
+date: 2019-05-10 06:00:00
+pub_date: 2019-05-10 06:00:00
+time_added: 2019-05-10 13:10:07
 category: 
 image: https://img.estadao.com.br/resources/jpg/7/6/1557460627967.jpg
 ---

@@ -4,9 +4,9 @@ item_id: 2537585084
 title: >-
     Ação Popular tenta barrar “devida” comemoração do golpe de 64 orientada por Bolsonaro
 author: Tatu D'Oquei
-date: 2019-03-27 07:08:08
-pub_date: 2019-03-27 07:08:08
-time_added: 2019-03-27 06:08:08
+date: 2019-03-27 06:08:08
+pub_date: 2019-03-27 06:08:08
+time_added: 2019-03-27 07:08:08
 category: resistimos
 ---
 

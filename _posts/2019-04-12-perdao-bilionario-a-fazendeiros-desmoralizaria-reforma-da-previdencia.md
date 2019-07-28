@@ -4,9 +4,9 @@ item_id: 2557278801
 title: >-
     Perdão bilionário a fazendeiros desmoralizaria Reforma da Previdência
 author: Tatu D'Oquei
-date: 2019-04-12 21:41:47
-pub_date: 2019-04-12 21:41:47
-time_added: 2019-04-12 04:39:00
+date: 2019-04-12 04:39:00
+pub_date: 2019-04-12 04:39:00
+time_added: 2019-04-12 21:41:47
 category: 
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/04/bolsonaro_chapeu-615x300.jpg
 ---

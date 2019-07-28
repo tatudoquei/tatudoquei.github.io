@@ -4,9 +4,9 @@ item_id: 2461317070
 title: >-
     Núcleo militar está incomodado e aguarda uma explicação convincente de Flávio Bolsonaro
 author: Tatu D'Oquei
-date: 2019-01-20 22:04:19
-pub_date: 2019-01-20 22:04:19
-time_added: 2019-01-20 13:23:00
+date: 2019-01-20 13:23:00
+pub_date: 2019-01-20 13:23:00
+time_added: 2019-01-20 22:04:19
 category: refletimos
 ---
 

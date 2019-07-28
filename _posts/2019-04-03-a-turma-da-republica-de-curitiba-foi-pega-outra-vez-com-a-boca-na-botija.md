@@ -4,9 +4,9 @@ item_id: 2545975040
 title: >-
     A turma da "República de Curitiba" foi pega outra vez com a boca na botija!
 author: Tatu D'Oquei
-date: 2019-04-03 20:19:39
-pub_date: 2019-04-03 20:19:39
-time_added: 2019-04-03 00:38:30
+date: 2019-04-03 00:38:30
+pub_date: 2019-04-03 00:38:30
+time_added: 2019-04-03 20:19:39
 category: 
 image: https://blogdacidadania.com.br/wp-content/uploads/2019/04/lava-jato.jpg
 ---

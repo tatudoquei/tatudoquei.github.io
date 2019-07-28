@@ -4,9 +4,9 @@ item_id: 2564565445
 title: >-
     Ministério do Meio Ambiente, de mal a pior
 author: Tatu D'Oquei
-date: 2019-04-19 07:33:33
-pub_date: 2019-04-19 07:33:33
-time_added: 2019-04-19 06:00:00
+date: 2019-04-19 06:00:00
+pub_date: 2019-04-19 06:00:00
+time_added: 2019-04-19 07:33:33
 category: 
 image: http://www.estadao.com.br/estadao/novo/img/estadao.gif
 ---

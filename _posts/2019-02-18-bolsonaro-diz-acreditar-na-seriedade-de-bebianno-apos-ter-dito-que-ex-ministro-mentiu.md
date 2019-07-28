@@ -4,9 +4,9 @@ item_id: 2494949293
 title: >-
     Bolsonaro diz acreditar na seriedade de Bebianno após ter dito que ex-ministro mentiu
 author: Tatu D'Oquei
-date: 2019-02-18 23:48:11
-pub_date: 2019-02-18 23:48:11
-time_added: 2019-02-18 18:38:00
+date: 2019-02-18 18:38:00
+pub_date: 2019-02-18 18:38:00
+time_added: 2019-02-18 23:48:11
 category: avisamos
 image: http://www3.redetv.uol.com.br/blog/reinaldo/wp-content/themes/layout/assets/images/reinaldo-thumb.jpg
 ---

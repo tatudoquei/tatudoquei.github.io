@@ -4,9 +4,9 @@ item_id: 2654931361
 title: >-
     Analisamos as principais provas apresentadas pelo Pavão Misterioso!
 author: Tatu D'Oquei
-date: 2019-07-11 18:52:24
-pub_date: 2019-07-11 18:52:24
-time_added: 2019-07-11 02:24:58
+date: 2019-07-11 02:24:58
+pub_date: 2019-07-11 02:24:58
+time_added: 2019-07-11 18:52:24
 category: 
 image: http://www.e-farsas.com/wp-content/uploads/pavao.jpg
 ---

@@ -4,9 +4,9 @@ item_id: 2448962022
 title: >-
     Ministro de Temer nega autoria de edital de livros publicado por Bolsonaro
 author: Tatu D'Oquei
-date: 2019-01-09 23:56:36
-pub_date: 2019-01-09 23:56:36
-time_added: 2019-01-09 18:52:00
+date: 2019-01-09 18:52:00
+pub_date: 2019-01-09 18:52:00
+time_added: 2019-01-09 23:56:36
 category: avisamos
 image: https://f.i.uol.com.br/fotografia/2019/01/09/15470704795c366c0f1bb0b_1547070479_3x2_rt.jpg
 ---

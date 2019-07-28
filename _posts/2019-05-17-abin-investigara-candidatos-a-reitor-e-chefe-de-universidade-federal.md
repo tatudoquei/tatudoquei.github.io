@@ -4,9 +4,9 @@ item_id: 2596098185
 title: >-
     Abin investigará candidatos a reitor e chefe de universidade federal
 author: Tatu D'Oquei
-date: 2019-05-17 17:53:35
-pub_date: 2019-05-17 17:53:35
-time_added: 2019-05-17 07:01:00
+date: 2019-05-17 07:01:00
+pub_date: 2019-05-17 07:01:00
+time_added: 2019-05-17 17:53:35
 category: 
 image: https://conteudo.imguol.com.br/c/noticias/3e/2019/01/11/o-ministro-chefe-da-secretaria-de-governo-carlos-alberto-dos-santos-cruz-1547248920229_v2_615x300.jpg
 ---

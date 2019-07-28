@@ -4,9 +4,9 @@ item_id: 2454546929
 title: >-
     Cardozo: “Sem mediação para demarcar terras, teremos problemas gravíssimos”
 author: Tatu D'Oquei
-date: 2019-01-15 23:53:48
-pub_date: 2019-01-15 23:53:48
-time_added: 2019-01-15 00:35:07
+date: 2019-01-15 00:35:07
+pub_date: 2019-01-15 00:35:07
+time_added: 2019-01-15 23:53:48
 category: refletimos
 image: https://ep00.epimg.net/brasil/imagenes/2019/01/08/politica/1546979199_233993_1546987930_rrss_normal.jpg
 ---

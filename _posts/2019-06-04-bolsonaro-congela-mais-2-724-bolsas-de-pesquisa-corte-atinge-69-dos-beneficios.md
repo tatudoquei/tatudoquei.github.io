@@ -4,9 +4,9 @@ item_id: 2615699258
 title: >-
     Bolsonaro congela mais 2.724 bolsas de pesquisa; corte atinge 6,9% dos benefícios
 author: Tatu D'Oquei
-date: 2019-06-04 22:35:49
-pub_date: 2019-06-04 22:35:49
-time_added: 2019-06-04 16:22:00
+date: 2019-06-04 16:22:00
+pub_date: 2019-06-04 16:22:00
+time_added: 2019-06-04 22:35:49
 category: 
 image: https://f.i.uol.com.br/fotografia/2019/06/04/15596831925cf6e078c1b8f_1559683192_3x2_xl.jpg
 ---

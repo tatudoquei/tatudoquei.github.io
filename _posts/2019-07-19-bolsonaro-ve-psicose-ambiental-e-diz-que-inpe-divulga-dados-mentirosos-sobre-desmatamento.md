@@ -4,9 +4,9 @@ item_id: 2664417694
 title: >-
     Bolsonaro vê "psicose ambiental" e diz que Inpe divulga dados "mentirosos" sobre desmatamento
 author: Tatu D'Oquei
-date: 2019-07-19 22:58:31
-pub_date: 2019-07-19 22:58:31
-time_added: 2019-07-19 17:28:48
+date: 2019-07-19 17:28:48
+pub_date: 2019-07-19 17:28:48
+time_added: 2019-07-19 22:58:31
 category: 
 image: https://s3.reutersmedia.net/resources/r/?m=02&d=20190719&t=2&i=1409770719&w=1200&r=LYNXNPEF6I19P-OBRTP
 ---

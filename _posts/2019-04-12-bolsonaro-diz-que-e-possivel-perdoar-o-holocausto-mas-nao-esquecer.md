@@ -4,9 +4,9 @@ item_id: 2556739673
 title: >-
     Bolsonaro diz que é possível perdoar o Holocausto, mas não esquecer
 author: Tatu D'Oquei
-date: 2019-04-12 21:47:29
-pub_date: 2019-04-12 21:47:29
-time_added: 2019-04-12 01:25:04
+date: 2019-04-12 01:25:04
+pub_date: 2019-04-12 01:25:04
+time_added: 2019-04-12 21:47:29
 category: 
 image: http://s01.video.glbimg.com/x720/7534364.jpg
 ---

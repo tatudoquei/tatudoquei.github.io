@@ -4,9 +4,9 @@ item_id: 2587486331
 title: >-
     Comissão derrota Moro e vota para tirar Coaf da Justiça
 author: Tatu D'Oquei
-date: 2019-05-09 22:46:17
-pub_date: 2019-05-09 22:46:17
-time_added: 2019-05-09 13:48:52
+date: 2019-05-09 13:48:52
+pub_date: 2019-05-09 13:48:52
+time_added: 2019-05-09 22:46:17
 category: 
 image: https://abrilveja.files.wordpress.com/2019/05/sergio-moro-20190508-001.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

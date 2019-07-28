@@ -4,9 +4,9 @@ item_id: 2623643939
 title: >-
     Brésil : la Cour suprême va réexaminer la demande de libération de Lula
 author: Tatu D'Oquei
-date: 2019-06-12 07:36:03
-pub_date: 2019-06-12 07:36:03
-time_added: 2019-06-12 05:36:03
+date: 2019-06-12 05:36:03
+pub_date: 2019-06-12 05:36:03
+time_added: 2019-06-12 07:36:03
 category: 
 image: https://img.lemde.fr/2019/06/10/0/0/5496/2745/1440/720/60/0/3796600_5024314-01-06.jpg
 ---

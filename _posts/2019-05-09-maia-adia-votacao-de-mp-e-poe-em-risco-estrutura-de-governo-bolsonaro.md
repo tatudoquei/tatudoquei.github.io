@@ -4,9 +4,9 @@ item_id: 2587487219
 title: >-
     Maia adia votação de MP e põe em risco estrutura de governo Bolsonaro
 author: Tatu D'Oquei
-date: 2019-05-09 22:47:21
-pub_date: 2019-05-09 22:47:21
-time_added: 2019-05-09 19:36:00
+date: 2019-05-09 19:36:00
+pub_date: 2019-05-09 19:36:00
+time_added: 2019-05-09 22:47:21
 category: 
 image: https://f.i.uol.com.br/fotografia/2019/05/09/15574301105cd47f5e6b80e_1557430110_3x2_rt.jpg
 ---

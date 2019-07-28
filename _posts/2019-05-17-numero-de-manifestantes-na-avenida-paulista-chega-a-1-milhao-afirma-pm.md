@@ -4,9 +4,9 @@ item_id: 2595544706
 title: >-
     Número de manifestantes na Avenida Paulista chega a 1 milhão, afirma PM
 author: Tatu D'Oquei
-date: 2019-05-17 07:50:59
-pub_date: 2019-05-17 07:50:59
-time_added: 2019-05-17 10:50:59
+date: 2019-05-17 10:50:59
+pub_date: 2019-05-17 10:50:59
+time_added: 2019-05-17 07:50:59
 category: 
 image: http://s04.video.glbimg.com/x720/4036683.jpg
 ---

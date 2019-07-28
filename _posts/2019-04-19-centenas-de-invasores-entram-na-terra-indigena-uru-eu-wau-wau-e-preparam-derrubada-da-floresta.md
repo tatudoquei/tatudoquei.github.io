@@ -4,9 +4,9 @@ item_id: 2564568612
 title: >-
     Centenas de invasores entram na Terra Indígena Uru-Eu-Wau-Wau e preparam derrubada da floresta
 author: Tatu D'Oquei
-date: 2019-04-19 07:37:42
-pub_date: 2019-04-19 07:37:42
-time_added: 2019-04-19 05:37:42
+date: 2019-04-19 05:37:42
+pub_date: 2019-04-19 05:37:42
+time_added: 2019-04-19 07:37:42
 category: 
 image: https://www.socioambiental.org/sites/blog.socioambiental.org/files/styles/twitter-card/public/blogs/_121a9641.jpg?itok=WzVUKkH6
 ---

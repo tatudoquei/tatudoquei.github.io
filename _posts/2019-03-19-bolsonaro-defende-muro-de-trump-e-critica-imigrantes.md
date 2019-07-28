@@ -4,9 +4,9 @@ item_id: 2528484799
 title: >-
     Bolsonaro defende muro de Trump e critica imigrantes
 author: Tatu D'Oquei
-date: 2019-03-19 22:23:10
-pub_date: 2019-03-19 22:23:10
-time_added: 2019-03-19 21:23:10
+date: 2019-03-19 21:23:10
+pub_date: 2019-03-19 21:23:10
+time_added: 2019-03-19 22:23:10
 category: avisamos
 image: https://www.dw.com/image/47973499_304.jpg
 ---

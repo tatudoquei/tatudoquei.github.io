@@ -4,9 +4,9 @@ item_id: 1248860623
 title: >-
     Simplificação do licenciamento ambiental, não; mais participação, sim
 author: Tatu D'Oquei
-date: 2019-06-27 05:35:37
-pub_date: 2019-06-27 05:35:37
-time_added: 2019-06-27 03:35:37
+date: 2019-06-27 03:35:37
+pub_date: 2019-06-27 03:35:37
+time_added: 2019-06-27 05:35:37
 category: 
 image: https://www.socioambiental.org/sites/blog.socioambiental.org/files/styles/twitter-card/public/nsa/dsc_0147.jpg?itok=fSnvp0t1
 ---

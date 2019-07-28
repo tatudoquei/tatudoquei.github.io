@@ -4,9 +4,9 @@ item_id: 2550111187
 title: >-
     A eloquência dos não ditos do ministro do Meio Ambiente
 author: Tatu D'Oquei
-date: 2019-04-09 18:47:45
-pub_date: 2019-04-09 18:47:45
-time_added: 2019-04-09 16:47:45
+date: 2019-04-09 16:47:45
+pub_date: 2019-04-09 16:47:45
+time_added: 2019-04-09 18:47:45
 category: 
 image: https://www.nexojornal.com.br/incoming/imagens/O-ministro-do-Meio-Ambiente-Ricardo-Salles/ALTERNATES/LANDSCAPE_720/O%20ministro%20do%20Meio%20Ambiente%20Ricardo%20Salles
 ---

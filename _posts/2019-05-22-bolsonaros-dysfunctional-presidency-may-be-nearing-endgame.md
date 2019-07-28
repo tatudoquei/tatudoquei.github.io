@@ -4,9 +4,9 @@ item_id: 2601527539
 title: >-
     Bolsonaro’s dysfunctional presidency may be nearing endgame
 author: Tatu D'Oquei
-date: 2019-05-22 19:42:39
-pub_date: 2019-05-22 19:42:39
-time_added: 2019-05-22 00:00:00
+date: 2019-05-22 00:00:00
+pub_date: 2019-05-22 00:00:00
+time_added: 2019-05-22 19:42:39
 category: 
 image: https://www.irishtimes.com/image-creator/?id=1.3899581&origw=1440
 ---

@@ -4,9 +4,9 @@ item_id: 2495283234
 title: >-
     Bolsonaro supera Geisel, Médici e Figueiredo em ministros militares
 author: Tatu D'Oquei
-date: 2019-02-18 23:52:47
-pub_date: 2019-02-18 23:52:47
-time_added: 2019-02-18 22:10:09
+date: 2019-02-18 22:10:09
+pub_date: 2019-02-18 22:10:09
+time_added: 2019-02-18 23:52:47
 category: refletimos
 image: https://abrilveja.files.wordpress.com/2019/02/brasil-militares-governo-bolsonaro.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

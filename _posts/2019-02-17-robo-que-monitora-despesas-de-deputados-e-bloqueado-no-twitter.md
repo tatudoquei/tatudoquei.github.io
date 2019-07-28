@@ -4,9 +4,9 @@ item_id: 2493764762
 title: >-
     Robô que monitora despesas de deputados é bloqueado no Twitter
 author: Tatu D'Oquei
-date: 2019-02-17 23:47:44
-pub_date: 2019-02-17 23:47:44
-time_added: 2019-02-17 13:54:00
+date: 2019-02-17 13:54:00
+pub_date: 2019-02-17 13:54:00
+time_added: 2019-02-17 23:47:44
 category: refletimos
 image: https://f.i.uol.com.br/fotografia/2019/02/17/15504189235c6983ebe59a2_1550418923_3x2_md.jpg
 ---

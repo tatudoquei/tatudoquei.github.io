@@ -4,9 +4,9 @@ item_id: 2624024167
 title: >-
     'Não tenho ideologias, sou um funcionário de TI', disse suposto hacker da Lava Jato
 author: Tatu D'Oquei
-date: 2019-06-12 20:50:30
-pub_date: 2019-06-12 20:50:30
-time_added: 2019-06-12 09:13:00
+date: 2019-06-12 09:13:00
+pub_date: 2019-06-12 09:13:00
+time_added: 2019-06-12 20:50:30
 category: 
 ---
 

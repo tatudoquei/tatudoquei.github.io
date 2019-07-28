@@ -4,9 +4,9 @@ item_id: 2584575610
 title: >-
     Ex-ministros do Meio Ambiente vão discutir a atual gestão ambiental no Brasil
 author: Tatu D'Oquei
-date: 2019-05-08 16:27:36
-pub_date: 2019-05-08 16:27:36
-time_added: 2019-05-08 19:27:36
+date: 2019-05-08 19:27:36
+pub_date: 2019-05-08 19:27:36
+time_added: 2019-05-08 16:27:36
 category: 
 image: http://s03.video.glbimg.com/x720/7594522.jpg
 ---

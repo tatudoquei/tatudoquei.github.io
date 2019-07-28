@@ -4,9 +4,9 @@ item_id: 2417044679
 title: >-
     Bolsonaros agem como se Donald Trump fosse governar para sempre –e sem o Congresso
 author: Tatu D'Oquei
-date: 2018-12-11 23:40:20
-pub_date: 2018-12-11 23:40:20
-time_added: 2018-12-11 11:57:40
+date: 2018-12-11 11:57:40
+pub_date: 2018-12-11 11:57:40
+time_added: 2018-12-11 23:40:20
 category: refletimos
 image: http://www.estadao.com.br/estadao/novo/img/estadao.gif
 ---

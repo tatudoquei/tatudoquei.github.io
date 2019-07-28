@@ -4,9 +4,9 @@ item_id: 2546534067
 title: >-
     PSOL pede explicações sobre convite para grupo de empresários instalar escritório de lobby
 author: Tatu D'Oquei
-date: 2019-04-03 20:19:10
-pub_date: 2019-04-03 20:19:10
-time_added: 2019-04-03 00:01:33
+date: 2019-04-03 00:01:33
+pub_date: 2019-04-03 00:01:33
+time_added: 2019-04-03 20:19:10
 category: 
 image: https://img.estadao.com.br/resources/jpg/4/7/1553736093574.jpg
 ---

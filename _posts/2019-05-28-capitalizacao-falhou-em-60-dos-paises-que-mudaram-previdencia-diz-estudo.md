@@ -4,9 +4,9 @@ item_id: 2607782125
 title: >-
     Capitalização falhou em 60% dos países que mudaram Previdência, diz estudo
 author: Tatu D'Oquei
-date: 2019-05-28 17:14:33
-pub_date: 2019-05-28 17:14:33
-time_added: 2019-05-28 02:00:00
+date: 2019-05-28 02:00:00
+pub_date: 2019-05-28 02:00:00
+time_added: 2019-05-28 17:14:33
 category: 
 image: https://conteudo.imguol.com.br/c/noticias/40/2016/12/15/previdencia-reforma-da-previdencia-idoso-poupanca-aposentado-aposentadoria-guardar-dinheiro-cofre-cofrinho-porquinho-economia-divida-pagamento-1481823657791_v2_615x300.jpg
 ---

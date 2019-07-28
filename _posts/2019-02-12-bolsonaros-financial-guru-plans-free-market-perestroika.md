@@ -4,9 +4,9 @@ item_id: 2488055723
 title: >-
     Bolsonaro’s financial guru plans free-market perestroika
 author: Tatu D'Oquei
-date: 2019-02-12 23:26:51
-pub_date: 2019-02-12 23:26:51
-time_added: 2019-02-12 22:26:51
+date: 2019-02-12 22:26:51
+pub_date: 2019-02-12 22:26:51
+time_added: 2019-02-12 23:26:51
 category: avisamos
 image: https://www.ft.com/__assets/creatives/brand-ft/icons/v3/open-graph.png
 ---

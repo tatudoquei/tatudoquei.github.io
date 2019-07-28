@@ -4,9 +4,9 @@ item_id: 2633904593
 title: >-
     Estudo indica prejuízo de R$ 118 bilhões ao país com a privatização de terras na Amazônia
 author: Tatu D'Oquei
-date: 2019-06-25 05:23:11
-pub_date: 2019-06-25 05:23:11
-time_added: 2019-06-25 03:23:11
+date: 2019-06-25 03:23:11
+pub_date: 2019-06-25 03:23:11
+time_added: 2019-06-25 05:23:11
 category: 
 image: https://k6f2r3a6.stackpathcdn.com/wp-content/uploads/2019/06/brendaartigosite-1.jpeg
 ---

@@ -4,9 +4,9 @@ item_id: 2588117299
 title: >-
     Sete histórias de quem perdeu o sustento e a bolsa de pós-graduação nos cortes da educação
 author: Tatu D'Oquei
-date: 2019-05-10 13:09:40
-pub_date: 2019-05-10 13:09:40
-time_added: 2019-05-10 07:30:00
+date: 2019-05-10 07:30:00
+pub_date: 2019-05-10 07:30:00
+time_added: 2019-05-10 13:09:40
 category: 
 ---
 

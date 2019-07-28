@@ -4,9 +4,9 @@ item_id: 2580946186
 title: >-
     Produção industrial cai 1,3% em março, diz IBGE
 author: Tatu D'Oquei
-date: 2019-05-03 22:10:08
-pub_date: 2019-05-03 22:10:08
-time_added: 2019-05-03 12:00:30
+date: 2019-05-03 12:00:30
+pub_date: 2019-05-03 12:00:30
+time_added: 2019-05-03 22:10:08
 category: 
 image: https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png
 ---

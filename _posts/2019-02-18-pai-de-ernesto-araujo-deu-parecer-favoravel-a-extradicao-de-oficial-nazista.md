@@ -4,9 +4,9 @@ item_id: 2494949281
 title: >-
     Pai de Ernesto Araújo deu parecer favorável à extradição de oficial nazista
 author: Tatu D'Oquei
-date: 2019-02-18 19:28:30
-pub_date: 2019-02-18 19:28:30
-time_added: 2019-02-18 18:28:30
+date: 2019-02-18 18:28:30
+pub_date: 2019-02-18 18:28:30
+time_added: 2019-02-18 19:28:30
 category: refletimos
 ---
 

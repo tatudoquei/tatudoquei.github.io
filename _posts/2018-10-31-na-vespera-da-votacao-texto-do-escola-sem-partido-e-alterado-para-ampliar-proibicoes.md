@@ -4,9 +4,9 @@ item_id: 2372737868
 title: >-
     Na véspera da votação, texto do Escola Sem Partido é alterado para ampliar proibições
 author: Tatu D'Oquei
-date: 2018-10-31 22:11:45
-pub_date: 2018-10-31 22:11:45
-time_added: 2018-10-31 07:57:00
+date: 2018-10-31 07:57:00
+pub_date: 2018-10-31 07:57:00
+time_added: 2018-10-31 22:11:45
 category: avisamos
 ---
 

@@ -4,9 +4,9 @@ item_id: 2457609704
 title: >-
     Ministro do Meio Ambiente fará 'visitas-surpresa' a ONGs que recebem dinheiro do governo
 author: Tatu D'Oquei
-date: 2019-01-17 23:55:02
-pub_date: 2019-01-17 23:55:02
-time_added: 2019-01-17 09:00:41
+date: 2019-01-17 09:00:41
+pub_date: 2019-01-17 09:00:41
+time_added: 2019-01-17 23:55:02
 category: avisamos
 image: https://s2.glbimg.com/KrNVJ1qCC4ZrnvgoRF_neDV5Gw8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/F/k/IlKLlQQnSkvyP5RJx8OQ/ricardo-salles.jpg
 ---

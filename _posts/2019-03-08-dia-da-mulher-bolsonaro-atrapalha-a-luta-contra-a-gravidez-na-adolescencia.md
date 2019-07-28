@@ -4,9 +4,9 @@ item_id: 2515748905
 title: >-
     Dia da Mulher: Bolsonaro atrapalha a luta contra a gravidez na adolescência
 author: Tatu D'Oquei
-date: 2019-03-08 20:51:49
-pub_date: 2019-03-08 20:51:49
-time_added: 2019-03-08 10:07:00
+date: 2019-03-08 10:07:00
+pub_date: 2019-03-08 10:07:00
+time_added: 2019-03-08 20:51:49
 category: refletimos
 ---
 

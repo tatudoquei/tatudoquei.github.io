@@ -4,9 +4,9 @@ item_id: 2458214117
 title: >-
     Supremo manda suspender investigação de Queiroz e outros servidores, diz MP
 author: Tatu D'Oquei
-date: 2019-01-17 23:52:24
-pub_date: 2019-01-17 23:52:24
-time_added: 2019-01-17 15:38:29
+date: 2019-01-17 15:38:29
+pub_date: 2019-01-17 15:38:29
+time_added: 2019-01-17 23:52:24
 category: avisamos
 image: https://img.estadao.com.br/resources/jpg/1/4/1545860853441.jpg
 ---

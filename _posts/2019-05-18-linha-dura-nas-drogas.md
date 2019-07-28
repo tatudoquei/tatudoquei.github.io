@@ -4,9 +4,9 @@ item_id: 2596878871
 title: >-
     Linha-dura nas drogas
 author: Tatu D'Oquei
-date: 2019-05-18 13:42:41
-pub_date: 2019-05-18 13:42:41
-time_added: 2019-05-18 00:00:00
+date: 2019-05-18 00:00:00
+pub_date: 2019-05-18 00:00:00
+time_added: 2019-05-18 13:42:41
 category: 
 image: https://f.i.uol.com.br/fotografia/2019/05/17/15581406815cdf5709312d3_1558140681_3x2_rt.jpg
 ---

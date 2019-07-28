@@ -4,9 +4,9 @@ item_id: 2615690065
 title: >-
     Ex-ministros da Justiça e mais de 70 entidades atacam liberação de armas e pacote de Moro
 author: Tatu D'Oquei
-date: 2019-06-04 22:24:05
-pub_date: 2019-06-04 22:24:05
-time_added: 2019-06-04 09:18:10
+date: 2019-06-04 09:18:10
+pub_date: 2019-06-04 09:18:10
+time_added: 2019-06-04 22:24:05
 category: 
 ---
 

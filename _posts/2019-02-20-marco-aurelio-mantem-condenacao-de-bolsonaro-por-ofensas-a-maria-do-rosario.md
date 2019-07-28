@@ -4,9 +4,9 @@ item_id: 2495707881
 title: >-
     Marco Aurélio mantém condenação de Bolsonaro por ofensas a Maria do Rosário
 author: Tatu D'Oquei
-date: 2019-02-20 08:50:05
-pub_date: 2019-02-20 08:50:05
-time_added: 2019-02-20 07:50:05
+date: 2019-02-20 07:50:05
+pub_date: 2019-02-20 07:50:05
+time_added: 2019-02-20 08:50:05
 category: resistimos
 ---
 

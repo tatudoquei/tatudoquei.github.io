@@ -4,9 +4,9 @@ item_id: 2446767727
 title: >-
     Uma sugestão para Paulo Guedes: acabar com a mamata das isenções fiscais bilionárias para agrotóxicos
 author: Tatu D'Oquei
-date: 2019-01-08 21:20:40
-pub_date: 2019-01-08 21:20:40
-time_added: 2019-01-08 02:00:00
+date: 2019-01-08 02:00:00
+pub_date: 2019-01-08 02:00:00
+time_added: 2019-01-08 21:20:40
 category: refletimos
 image: https://theintercept.imgix.net/wp-uploads/sites/1/2018/12/12-12-18-agrotoxicos-1544634274.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800
 ---

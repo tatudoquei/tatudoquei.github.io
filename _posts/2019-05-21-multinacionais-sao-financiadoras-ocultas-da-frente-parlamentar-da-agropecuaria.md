@@ -4,9 +4,9 @@ item_id: 2600347916
 title: >-
     Multinacionais são financiadoras ocultas da Frente Parlamentar da Agropecuária
 author: Tatu D'Oquei
-date: 2019-05-21 19:35:47
-pub_date: 2019-05-21 19:35:47
-time_added: 2019-05-21 13:04:09
+date: 2019-05-21 13:04:09
+pub_date: 2019-05-21 13:04:09
+time_added: 2019-05-21 19:35:47
 category: 
 image: https://deolhonosruralistas.com.br/wp-content/uploads/2019/05/FPA-financiamento-recorte.jpg
 ---

@@ -4,9 +4,9 @@ item_id: 2587490151
 title: >-
     Comissão vota para tirar Coaf de Sérgio Moro
 author: Tatu D'Oquei
-date: 2019-05-09 22:51:00
-pub_date: 2019-05-09 22:51:00
-time_added: 2019-05-09 13:58:32
+date: 2019-05-09 13:58:32
+pub_date: 2019-05-09 13:58:32
+time_added: 2019-05-09 22:51:00
 category: 
 image: https://img.estadao.com.br/resources/jpg/1/4/1547608801341.jpg
 ---

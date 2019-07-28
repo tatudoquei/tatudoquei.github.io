@@ -4,9 +4,9 @@ item_id: 2587486006
 title: >-
     Bem pior que uma decepção
 author: Tatu D'Oquei
-date: 2019-05-09 22:46:04
-pub_date: 2019-05-09 22:46:04
-time_added: 2019-05-09 06:00:00
+date: 2019-05-09 06:00:00
+pub_date: 2019-05-09 06:00:00
+time_added: 2019-05-09 22:46:04
 category: 
 image: http://www.estadao.com.br/estadao/novo/img/estadao.gif
 ---

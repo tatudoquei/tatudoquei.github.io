@@ -4,9 +4,9 @@ item_id: 2448600643
 title: >-
     Governo Bolsonaro flexibiliza controle de erros e passa a permitir propagandas em livros didáticos
 author: Tatu D'Oquei
-date: 2019-01-09 23:40:11
-pub_date: 2019-01-09 23:40:11
-time_added: 2019-01-09 11:52:11
+date: 2019-01-09 11:52:11
+pub_date: 2019-01-09 11:52:11
+time_added: 2019-01-09 23:40:11
 category: avisamos
 image: https://educacao.estadao.com.br/blogs/blog-renata-cafardo/wp-content/uploads/sites/704/2019/01/livraria-nilton-fukuda-estadao-conteudo-300x300.jpg
 ---

@@ -4,9 +4,9 @@ item_id: 2672682552
 title: >-
     Ministro publica propaganda em rede social e diz 'daqui para a frente, só de Chevrolet'
 author: Tatu D'Oquei
-date: 2019-07-27 18:12:24
-pub_date: 2019-07-27 18:12:24
-time_added: 2019-07-27 12:00:00
+date: 2019-07-27 12:00:00
+pub_date: 2019-07-27 12:00:00
+time_added: 2019-07-27 18:12:24
 category: 
 image: https://f.i.uol.com.br/fotografia/2019/04/16/15554631225cb67bd24d625_1555463122_3x2_rt.jpg
 ---

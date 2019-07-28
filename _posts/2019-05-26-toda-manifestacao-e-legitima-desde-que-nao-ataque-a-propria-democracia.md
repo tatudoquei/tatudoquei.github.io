@@ -4,9 +4,9 @@ item_id: 2605751119
 title: >-
     Toda manifestação é legítima, desde que não ataque a própria democracia
 author: Tatu D'Oquei
-date: 2019-05-26 20:53:48
-pub_date: 2019-05-26 20:53:48
-time_added: 2019-05-26 10:16:00
+date: 2019-05-26 10:16:00
+pub_date: 2019-05-26 10:16:00
+time_added: 2019-05-26 20:53:48
 category: 
 image: https://conteudo.imguol.com.br/6b/2018/10/29/sakamoto---share-1540825181920_956x500.png
 ---

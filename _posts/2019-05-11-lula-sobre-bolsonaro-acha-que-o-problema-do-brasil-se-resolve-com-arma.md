@@ -4,9 +4,9 @@ item_id: 2589075795
 title: >-
     Lula sobre Bolsonaro: 'Acha que o problema do Brasil se resolve com arma'
 author: Tatu D'Oquei
-date: 2019-05-11 11:38:27
-pub_date: 2019-05-11 11:38:27
-time_added: 2019-05-11 02:05:00
+date: 2019-05-11 02:05:00
+pub_date: 2019-05-11 02:05:00
+time_added: 2019-05-11 11:38:27
 category: 
 image: https://conteudo.imguol.com.br/c/interacao/facebook/uol-noticias-600px.jpg
 ---

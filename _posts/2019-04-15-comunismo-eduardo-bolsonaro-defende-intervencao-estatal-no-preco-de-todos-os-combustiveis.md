@@ -4,9 +4,9 @@ item_id: 2557583248
 title: >-
     Comunismo: Eduardo Bolsonaro defende intervenção estatal no preço de todos os combustíveis
 author: Tatu D'Oquei
-date: 2019-04-15 06:03:35
-pub_date: 2019-04-15 06:03:35
-time_added: 2019-04-15 04:03:35
+date: 2019-04-15 04:03:35
+pub_date: 2019-04-15 04:03:35
+time_added: 2019-04-15 06:03:35
 category: 
 image: https://www.diariodocentrodomundo.com.br/wp-content/uploads/2019/04/eduardo-bolsonaro.jpg
 ---

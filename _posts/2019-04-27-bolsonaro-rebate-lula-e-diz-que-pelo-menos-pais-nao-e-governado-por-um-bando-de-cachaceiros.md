@@ -4,9 +4,9 @@ item_id: 2574279860
 title: >-
     Bolsonaro rebate Lula e diz, que, pelo menos, País não é governado por 'um bando de cachaceiros'
 author: Tatu D'Oquei
-date: 2019-04-27 22:20:57
-pub_date: 2019-04-27 22:20:57
-time_added: 2019-04-27 15:44:43
+date: 2019-04-27 15:44:43
+pub_date: 2019-04-27 15:44:43
+time_added: 2019-04-27 22:20:57
 category: 
 image: https://img.estadao.com.br/resources/jpg/2/4/1556389605342.jpg
 ---

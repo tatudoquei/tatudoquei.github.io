@@ -4,9 +4,9 @@ item_id: 2544210952
 title: >-
     Provocações de Olavo Carvalho jogam militares contra bolsonaristas radicais
 author: Tatu D'Oquei
-date: 2019-04-01 22:54:37
-pub_date: 2019-04-01 22:54:37
-time_added: 2019-04-01 16:44:00
+date: 2019-04-01 16:44:00
+pub_date: 2019-04-01 16:44:00
+time_added: 2019-04-01 22:54:37
 category: 
 ---
 

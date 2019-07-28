@@ -4,9 +4,9 @@ item_id: 2587487266
 title: >-
     Gestão Bolsonaro corta bolsas de mestrado e doutorado em todo país
 author: Tatu D'Oquei
-date: 2019-05-09 22:47:24
-pub_date: 2019-05-09 22:47:24
-time_added: 2019-05-09 16:51:00
+date: 2019-05-09 16:51:00
+pub_date: 2019-05-09 16:51:00
+time_added: 2019-05-09 22:47:24
 category: 
 image: https://s2.glbimg.com/CamwOibtC5z7kleK8qJ26S6e7SI=/e.glbimg.com/og/ed/f/original/2019/05/09/biology-doctor-health-4154.jpg
 ---

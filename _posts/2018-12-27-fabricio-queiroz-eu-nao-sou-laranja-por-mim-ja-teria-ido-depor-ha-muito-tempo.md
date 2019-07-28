@@ -4,9 +4,9 @@ item_id: 2434012026
 title: >-
     Fabrício Queiroz: “Eu não sou laranja. Por mim, já teria ido depor há muito tempo”
 author: Tatu D'Oquei
-date: 2018-12-27 01:09:35
-pub_date: 2018-12-27 01:09:35
-time_added: 2018-12-27 01:20:48
+date: 2018-12-27 01:20:48
+pub_date: 2018-12-27 01:20:48
+time_added: 2018-12-27 01:09:35
 category: avisamos
 image: https://ep00.epimg.net/brasil/imagenes/2018/12/27/politica/1545866037_984133_1545866811_rrss_normal.jpg
 ---

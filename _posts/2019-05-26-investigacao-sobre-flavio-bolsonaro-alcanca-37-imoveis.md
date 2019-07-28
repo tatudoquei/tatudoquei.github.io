@@ -4,9 +4,9 @@ item_id: 2605841954
 title: >-
     Investigação sobre Flávio Bolsonaro alcança 37 imóveis
 author: Tatu D'Oquei
-date: 2019-05-26 23:05:45
-pub_date: 2019-05-26 23:05:45
-time_added: 2019-05-26 09:00:00
+date: 2019-05-26 09:00:00
+pub_date: 2019-05-26 09:00:00
+time_added: 2019-05-26 23:05:45
 category: 
 image: https://img.estadao.com.br/resources/jpg/3/3/1558835158233.jpg
 ---

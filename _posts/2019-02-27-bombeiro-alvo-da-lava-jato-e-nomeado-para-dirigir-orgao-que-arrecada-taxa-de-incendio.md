@@ -4,9 +4,9 @@ item_id: 2505712821
 title: >-
     Bombeiro alvo da Lava Jato é nomeado para dirigir órgão que arrecada taxa de incêndio
 author: Tatu D'Oquei
-date: 2019-02-27 23:45:18
-pub_date: 2019-02-27 23:45:18
-time_added: 2019-02-27 14:08:31
+date: 2019-02-27 14:08:31
+pub_date: 2019-02-27 14:08:31
+time_added: 2019-02-27 23:45:18
 category: refletimos
 ---
 

@@ -1,17 +1,17 @@
 ---
 layout: post
-item_id: 2530927361
+item_id: 2537642345
 title: >-
     As crianças sequestradas e adotadas ilegalmente por militares durante a ditadura brasileira
 author: Tatu D'Oquei
-date: 2019-03-22 08:02:03
-pub_date: 2019-03-22 08:02:03
-time_added: 2019-03-20 23:00:00
+date: 2019-03-22 00:20:22
+pub_date: 2019-03-22 00:20:22
+time_added: 2019-03-27 07:08:26
 category: refletimos
-image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/1B4E/production/_106109960_certidao.jpg
+image: https://s2.glbimg.com/11nbIcDCem0LCiIltf_-a03LFQA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/M/7/IrFu53SV6D0NuUb12YRA/106109960-certidao.jpg
 ---
 
-]]> Pelo menos 19 crianças foram sequestradas e adotadas ilegalmente por famílias de militares ou famílias ligadas às Forças Armadas durante a Ditadura Militar do Brasil (1964-1985) - em um mecanismo similar ao ocorrido em outros regimes militares sul-americanos do período, segundo o livro Cat
+Por BBC 21/03/2019 21h20Atualizado 2019-03-22T00:20:31.
 
-**Link:** [https://www.bbc.com/portuguese/brasil-47615019](https://www.bbc.com/portuguese/brasil-47615019)
+**Link:** [https://g1.globo.com/politica/noticia/2019/03/21/as-criancas-sequestradas-e-adotadas-ilegalmente-por-militares-durante-a-ditadura-brasileira.ghtml](https://g1.globo.com/politica/noticia/2019/03/21/as-criancas-sequestradas-e-adotadas-ilegalmente-por-militares-durante-a-ditadura-brasileira.ghtml)
 

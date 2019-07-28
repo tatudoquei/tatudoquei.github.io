@@ -4,9 +4,9 @@ item_id: 2584788821
 title: >-
     'Sofri pressão do governo pela manutenção de contratos espúrios', diz diretora demitida da Apex
 author: Tatu D'Oquei
-date: 2019-05-07 20:37:31
-pub_date: 2019-05-07 20:37:31
-time_added: 2019-05-07 14:10:29
+date: 2019-05-07 14:10:29
+pub_date: 2019-05-07 14:10:29
+time_added: 2019-05-07 20:37:31
 category: 
 image: https://img.estadao.com.br/resources/jpg/7/8/1557237511987.jpg
 ---

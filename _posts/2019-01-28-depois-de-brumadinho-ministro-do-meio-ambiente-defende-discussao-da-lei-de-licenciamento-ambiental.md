@@ -4,9 +4,9 @@ item_id: 2469790466
 title: >-
     Depois de Brumadinho, ministro do Meio Ambiente defende discussão da lei de licenciamento ambiental
 author: Tatu D'Oquei
-date: 2019-01-28 19:57:56
-pub_date: 2019-01-28 19:57:56
-time_added: 2019-01-28 09:44:23
+date: 2019-01-28 09:44:23
+pub_date: 2019-01-28 09:44:23
+time_added: 2019-01-28 19:57:56
 category: avisamos
 image: https://s2.glbimg.com/wfHhzmHdfFDa7VNsY1q8qomdVmg=/1200x/smart/filters:cover():strip_icc()/s03.video.glbimg.com/x720/7333478.jpg
 ---

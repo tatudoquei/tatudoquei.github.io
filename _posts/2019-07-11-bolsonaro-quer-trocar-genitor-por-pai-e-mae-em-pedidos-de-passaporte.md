@@ -4,9 +4,9 @@ item_id: 2655653779
 title: >-
     Bolsonaro quer trocar "genitor" por "pai" e "mãe" em pedidos de passaporte
 author: Tatu D'Oquei
-date: 2019-07-11 18:51:27
-pub_date: 2019-07-11 18:51:27
-time_added: 2019-07-11 11:07:00
+date: 2019-07-11 11:07:00
+pub_date: 2019-07-11 11:07:00
+time_added: 2019-07-11 18:51:27
 category: 
 image: https://conteudo.imguol.com.br/c/noticias/e9/2019/07/11/11jul2019---presidente-jair-bolsonaro-psl-participa-de-cafe-da-manha-com-a-bancada-evangelica-do-congresso-no-palacio-do-planalto-1562858811870_v2_615x300.jpg
 ---

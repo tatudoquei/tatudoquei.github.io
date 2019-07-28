@@ -4,9 +4,9 @@ item_id: 2439618627
 title: >-
     Um dia de cão
 author: Tatu D'Oquei
-date: 2019-01-01 23:53:33
-pub_date: 2019-01-01 23:53:33
-time_added: 2019-01-01 12:52:00
+date: 2019-01-01 12:52:00
+pub_date: 2019-01-01 12:52:00
+time_added: 2019-01-01 23:53:33
 category: refletimos
 image: https://f.i.uol.com.br/fotografia/2019/01/01/15463578755c2b8c73eadff_1546357875_3x2_md.jpg
 ---

@@ -4,9 +4,9 @@ item_id: 2604868062
 title: >-
     Previdência: Governo não desiste de pobres pagarem a conta, diz deputado
 author: Tatu D'Oquei
-date: 2019-05-25 22:26:50
-pub_date: 2019-05-25 22:26:50
-time_added: 2019-05-25 09:38:00
+date: 2019-05-25 09:38:00
+pub_date: 2019-05-25 09:38:00
+time_added: 2019-05-25 22:26:50
 category: 
 image: https://conteudo.imguol.com.br/blogs/61/files/2018/12/idosoo-615x300.jpeg
 ---

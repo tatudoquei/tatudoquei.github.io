@@ -4,9 +4,9 @@ item_id: 2441630817
 title: >-
     Ernesto Araújo estreia ‘olavismo’ no Itamaraty e dedica pouco espaço à pauta comercial
 author: Tatu D'Oquei
-date: 2019-01-03 13:53:23
-pub_date: 2019-01-03 13:53:23
-time_added: 2019-01-03 04:52:43
+date: 2019-01-03 04:52:43
+pub_date: 2019-01-03 04:52:43
+time_added: 2019-01-03 13:53:23
 category: avisamos
 image: https://ep00.epimg.net/brasil/imagenes/2019/01/02/politica/1546464944_513470_1546470285_rrss_normal.jpg
 ---

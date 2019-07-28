@@ -4,9 +4,9 @@ item_id: 2398637236
 title: >-
     O novo jeito de fazer política de Bolsonaro já naufragou
 author: Tatu D'Oquei
-date: 2018-11-25 23:37:59
-pub_date: 2018-11-25 23:37:59
-time_added: 2018-11-25 00:50:00
+date: 2018-11-25 00:50:00
+pub_date: 2018-11-25 00:50:00
+time_added: 2018-11-25 23:37:59
 category: avisamos
 image: https://theintercept.imgix.net/wp-uploads/sites/1/2018/11/bolsie-1543082163.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800
 ---

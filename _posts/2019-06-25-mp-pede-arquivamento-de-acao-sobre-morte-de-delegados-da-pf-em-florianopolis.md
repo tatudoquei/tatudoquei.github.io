@@ -4,9 +4,9 @@ item_id: 2636266517
 title: >-
     MP pede arquivamento de ação sobre morte de delegados da PF em Florianópolis
 author: Tatu D'Oquei
-date: 2019-06-25 05:25:10
-pub_date: 2019-06-25 05:25:10
-time_added: 2019-06-25 03:25:10
+date: 2019-06-25 03:25:10
+pub_date: 2019-06-25 03:25:10
+time_added: 2019-06-25 05:25:10
 category: 
 image: http://dc.rbsdirect.com.br/imagesrc/23349247.jpg?w=800
 ---

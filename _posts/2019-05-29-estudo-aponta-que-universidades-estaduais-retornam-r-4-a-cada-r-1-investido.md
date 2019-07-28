@@ -4,9 +4,9 @@ item_id: 2609083058
 title: >-
     Estudo aponta que universidades estaduais retornam R$ 4 a cada R$ 1 investido
 author: Tatu D'Oquei
-date: 2019-05-29 19:38:08
-pub_date: 2019-05-29 19:38:08
-time_added: 2019-05-29 17:38:08
+date: 2019-05-29 17:38:08
+pub_date: 2019-05-29 17:38:08
+time_added: 2019-05-29 19:38:08
 category: 
 image: http://s03.video.glbimg.com/x720/7623198.jpg
 ---

@@ -4,9 +4,9 @@ item_id: 2476985761
 title: >-
     Flávio Bolsonaro homenageou sete colegas de suspeito de integrar 'guarnição da morte'
 author: Tatu D'Oquei
-date: 2019-02-04 23:44:15
-pub_date: 2019-02-04 23:44:15
-time_added: 2019-02-04 11:26:01
+date: 2019-02-04 11:26:01
+pub_date: 2019-02-04 11:26:01
+time_added: 2019-02-04 23:44:15
 category: avisamos
 ---
 

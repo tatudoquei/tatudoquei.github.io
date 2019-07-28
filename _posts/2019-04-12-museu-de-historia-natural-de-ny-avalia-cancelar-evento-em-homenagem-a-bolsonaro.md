@@ -4,9 +4,9 @@ item_id: 2557124851
 title: >-
     Museu de História Natural de NY avalia cancelar evento em homenagem a Bolsonaro
 author: Tatu D'Oquei
-date: 2019-04-12 22:13:51
-pub_date: 2019-04-12 22:13:51
-time_added: 2019-04-12 07:40:00
+date: 2019-04-12 07:40:00
+pub_date: 2019-04-12 07:40:00
+time_added: 2019-04-12 22:13:51
 category: 
 image: https://f.i.uol.com.br/fotografia/2019/04/12/15550729055cb08789a9b1a_1555072905_3x2_rt.jpg
 ---

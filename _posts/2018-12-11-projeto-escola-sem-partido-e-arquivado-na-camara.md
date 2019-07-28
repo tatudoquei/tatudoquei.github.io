@@ -4,9 +4,9 @@ item_id: 2417891735
 title: >-
     Projeto Escola sem Partido é arquivado na Câmara
 author: Tatu D'Oquei
-date: 2018-12-11 23:42:09
-pub_date: 2018-12-11 23:42:09
-time_added: 2018-12-11 22:42:09
+date: 2018-12-11 22:42:09
+pub_date: 2018-12-11 22:42:09
+time_added: 2018-12-11 23:42:09
 category: resistimos
 image: https://www.dw.com/image/16920864_304.jpg
 ---

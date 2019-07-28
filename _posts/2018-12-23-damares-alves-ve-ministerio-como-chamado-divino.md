@@ -4,9 +4,9 @@ item_id: 2430392590
 title: >-
     Damares Alves vê ministério como 'chamado divino'
 author: Tatu D'Oquei
-date: 2018-12-23 20:05:47
-pub_date: 2018-12-23 20:05:47
-time_added: 2018-12-23 08:00:00
+date: 2018-12-23 08:00:00
+pub_date: 2018-12-23 08:00:00
+time_added: 2018-12-23 20:05:47
 category: avisamos
 image: https://img.estadao.com.br/resources/jpg/8/0/1545525798808.jpg
 ---

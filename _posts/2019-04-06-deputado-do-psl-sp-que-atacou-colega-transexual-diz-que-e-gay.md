@@ -4,9 +4,9 @@ item_id: 2549155437
 title: >-
     Deputado do PSL-SP que atacou colega transexual diz que é gay
 author: Tatu D'Oquei
-date: 2019-04-06 00:19:17
-pub_date: 2019-04-06 00:19:17
-time_added: 2019-04-06 05:43:34
+date: 2019-04-06 05:43:34
+pub_date: 2019-04-06 05:43:34
+time_added: 2019-04-06 00:19:17
 category: 
 image: https://extra.globo.com/incoming/23576623-83e-71d/w976h550-PROP/deputado.jpg
 ---

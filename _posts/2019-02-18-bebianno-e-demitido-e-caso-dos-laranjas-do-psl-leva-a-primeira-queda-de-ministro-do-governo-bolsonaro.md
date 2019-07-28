@@ -4,9 +4,9 @@ item_id: 2495059338
 title: >-
     Bebianno é demitido, e caso dos laranjas do PSL leva à primeira queda de ministro do governo Bolsonaro
 author: Tatu D'Oquei
-date: 2019-02-18 23:52:25
-pub_date: 2019-02-18 23:52:25
-time_added: 2019-02-18 17:26:00
+date: 2019-02-18 17:26:00
+pub_date: 2019-02-18 17:26:00
+time_added: 2019-02-18 23:52:25
 category: avisamos
 image: https://f.i.uol.com.br/fotografia/2019/02/15/15502434305c66d66624726_1550243430_3x2_rt.jpg
 ---

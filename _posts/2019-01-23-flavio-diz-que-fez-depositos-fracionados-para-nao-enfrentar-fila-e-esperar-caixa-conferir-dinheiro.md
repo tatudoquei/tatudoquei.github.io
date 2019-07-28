@@ -4,9 +4,9 @@ item_id: 2464941448
 title: >-
     Flávio diz que fez depósitos fracionados para não enfrentar fila e esperar caixa conferir dinheiro
 author: Tatu D'Oquei
-date: 2019-01-23 12:27:22
-pub_date: 2019-01-23 12:27:22
-time_added: 2019-01-23 11:24:28
+date: 2019-01-23 11:24:28
+pub_date: 2019-01-23 11:24:28
+time_added: 2019-01-23 12:27:22
 category: avisamos
 ---
 

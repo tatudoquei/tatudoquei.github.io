@@ -4,9 +4,9 @@ item_id: 2564092173
 title: >-
     Em apenas duas hashtags, levantamento aponta cem mil ataques ao STF
 author: Tatu D'Oquei
-date: 2019-04-18 20:44:18
-pub_date: 2019-04-18 20:44:18
-time_added: 2019-04-18 02:30:00
+date: 2019-04-18 02:30:00
+pub_date: 2019-04-18 02:30:00
+time_added: 2019-04-18 20:44:18
 category: 
 ---
 

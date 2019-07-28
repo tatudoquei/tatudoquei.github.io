@@ -4,9 +4,9 @@ item_id: 2643412676
 title: >-
     Leia trechos das mensagens entre procuradores sobre peça-chave na prisão de Lula
 author: Tatu D'Oquei
-date: 2019-06-30 22:13:37
-pub_date: 2019-06-30 22:13:37
-time_added: 2019-06-30 00:00:00
+date: 2019-06-30 00:00:00
+pub_date: 2019-06-30 00:00:00
+time_added: 2019-06-30 22:13:37
 category: 
 image: https://f.i.uol.com.br/fotografia/2018/01/25/15168872095a69dca90345f_1516887209_3x2_rt.jpg
 ---

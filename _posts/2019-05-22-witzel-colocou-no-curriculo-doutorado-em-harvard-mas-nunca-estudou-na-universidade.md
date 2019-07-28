@@ -1,12 +1,12 @@
 ---
 layout: post
-item_id: 2601527641
+item_id: 2601965819
 title: >-
     Witzel colocou no currículo doutorado em Harvard, mas nunca estudou na universidade
 author: Tatu D'Oquei
-date: 2019-05-22 19:42:50
-pub_date: 2019-05-22 19:42:50
-time_added: 2019-05-22 10:15:00
+date: 2019-05-22 10:15:00
+pub_date: 2019-05-22 10:15:00
+time_added: 2019-05-23 05:47:48
 category: 
 ---
 

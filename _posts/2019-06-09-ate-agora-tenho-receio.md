@@ -4,9 +4,9 @@ item_id: 2620916457
 title: >-
     ‘Até agora tenho receio’
 author: Tatu D'Oquei
-date: 2019-06-09 22:08:08
-pub_date: 2019-06-09 22:08:08
-time_added: 2019-06-09 18:57:00
+date: 2019-06-09 18:57:00
+pub_date: 2019-06-09 18:57:00
+time_added: 2019-06-09 22:08:08
 category: 
 image: https://theintercept.com/wp-uploads/sites/1/2019/06/deltan-redes-1560094387.jpg
 ---

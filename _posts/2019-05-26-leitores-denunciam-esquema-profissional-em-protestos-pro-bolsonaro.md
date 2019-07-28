@@ -4,9 +4,9 @@ item_id: 2605826784
 title: >-
     Leitores denunciam esquema profissional em protestos pró-Bolsonaro
 author: Tatu D'Oquei
-date: 2019-05-26 22:42:10
-pub_date: 2019-05-26 22:42:10
-time_added: 2019-05-26 15:51:33
+date: 2019-05-26 15:51:33
+pub_date: 2019-05-26 15:51:33
+time_added: 2019-05-26 22:42:10
 category: 
 image: https://www.revistaforum.com.br/wp-content/uploads/2019/05/bandeiras-reprodi-globonews-e1558884971761.jpg
 ---

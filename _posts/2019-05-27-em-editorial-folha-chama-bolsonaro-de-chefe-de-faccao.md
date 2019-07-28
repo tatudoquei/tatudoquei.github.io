@@ -4,9 +4,9 @@ item_id: 2606859156
 title: >-
     Em editorial, Folha chama Bolsonaro de ‘chefe de facção’
 author: Tatu D'Oquei
-date: 2019-05-27 21:36:22
-pub_date: 2019-05-27 21:36:22
-time_added: 2019-05-27 11:14:10
+date: 2019-05-27 11:14:10
+pub_date: 2019-05-27 11:14:10
+time_added: 2019-05-27 21:36:22
 category: 
 image: https://catracalivre.com.br/wp-content/uploads/2019/05/bolsonaro-brasilia1.jpg
 ---

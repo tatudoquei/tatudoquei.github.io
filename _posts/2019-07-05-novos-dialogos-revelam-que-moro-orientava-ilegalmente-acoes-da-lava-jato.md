@@ -4,9 +4,9 @@ item_id: 2648772653
 title: >-
     Novos diálogos revelam que Moro orientava ilegalmente ações da Lava Jato
 author: Tatu D'Oquei
-date: 2019-07-05 19:19:19
-pub_date: 2019-07-05 19:19:19
-time_added: 2019-07-05 09:30:38
+date: 2019-07-05 09:30:38
+pub_date: 2019-07-05 09:30:38
+time_added: 2019-07-05 19:19:19
 category: 
 image: https://abrilveja.files.wordpress.com/2019/07/190703015238.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

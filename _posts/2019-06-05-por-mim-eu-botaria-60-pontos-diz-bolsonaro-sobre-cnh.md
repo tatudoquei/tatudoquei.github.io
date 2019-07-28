@@ -4,9 +4,9 @@ item_id: 2616763132
 title: >-
     'Por mim, eu botaria 60 (pontos)', diz Bolsonaro sobre CNH
 author: Tatu D'Oquei
-date: 2019-06-05 20:56:10
-pub_date: 2019-06-05 20:56:10
-time_added: 2019-06-05 18:00:05
+date: 2019-06-05 18:00:05
+pub_date: 2019-06-05 18:00:05
+time_added: 2019-06-05 20:56:10
 category: 
 image: https://img.estadao.com.br/resources/jpg/9/7/1559758462979.jpg
 ---

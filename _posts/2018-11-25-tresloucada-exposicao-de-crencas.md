@@ -4,9 +4,9 @@ item_id: 2398722727
 title: >-
     Tresloucada exposição de crenças
 author: Tatu D'Oquei
-date: 2018-11-25 23:39:37
-pub_date: 2018-11-25 23:39:37
-time_added: 2018-11-25 01:00:00
+date: 2018-11-25 01:00:00
+pub_date: 2018-11-25 01:00:00
+time_added: 2018-11-25 23:39:37
 category: refletimos
 image: https://f.i.uol.com.br/fotografia/2018/11/24/15430951255bf9c3557498d_1543095125_3x2_xl.jpg
 ---

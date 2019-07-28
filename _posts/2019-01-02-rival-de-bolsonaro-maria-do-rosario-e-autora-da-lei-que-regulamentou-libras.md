@@ -4,9 +4,9 @@ item_id: 2441080194
 title: >-
     Rival de Bolsonaro, Maria do Rosário é autora da lei que regulamentou Libras
 author: Tatu D'Oquei
-date: 2019-01-02 22:57:28
-pub_date: 2019-01-02 22:57:28
-time_added: 2019-01-02 07:50:00
+date: 2019-01-02 07:50:00
+pub_date: 2019-01-02 07:50:00
+time_added: 2019-01-02 22:57:28
 category: refletimos
 image: https://f.i.uol.com.br/fotografia/2019/01/01/15463904255c2c0b99d0701_1546390425_3x2_rt.jpg
 ---

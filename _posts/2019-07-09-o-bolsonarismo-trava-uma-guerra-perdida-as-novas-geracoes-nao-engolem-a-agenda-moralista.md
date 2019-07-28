@@ -4,9 +4,9 @@ item_id: 2652565736
 title: >-
     O bolsonarismo trava uma guerra perdida: as novas gerações não engolem a agenda moralista
 author: Tatu D'Oquei
-date: 2019-07-09 18:19:29
-pub_date: 2019-07-09 18:19:29
-time_added: 2019-07-09 01:03:00
+date: 2019-07-09 01:03:00
+pub_date: 2019-07-09 01:03:00
+time_added: 2019-07-09 18:19:29
 category: 
 image: https://theintercept.imgix.net/wp-uploads/sites/1/2019/07/bolsonarismo-novas-gera%C3%A7%C3%B5es-1562611669.jpeg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800
 ---

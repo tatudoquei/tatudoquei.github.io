@@ -4,9 +4,9 @@ item_id: 2607786194
 title: >-
     Ministro ataca Fiocruz e diz que 'não confia' em estudo sobre drogas, engavetado pelo governo
 author: Tatu D'Oquei
-date: 2019-05-28 22:02:15
-pub_date: 2019-05-28 22:02:15
-time_added: 2019-05-28 04:00:00
+date: 2019-05-28 04:00:00
+pub_date: 2019-05-28 04:00:00
+time_added: 2019-05-28 22:02:15
 category: 
 ---
 

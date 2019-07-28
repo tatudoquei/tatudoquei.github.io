@@ -4,9 +4,9 @@ item_id: 2470745815
 title: >-
     Cientista da USP dá nome de Moro a molusco
 author: Tatu D'Oquei
-date: 2019-01-29 23:48:25
-pub_date: 2019-01-29 23:48:25
-time_added: 2019-01-29 01:00:00
+date: 2019-01-29 01:00:00
+pub_date: 2019-01-29 01:00:00
+time_added: 2019-01-29 23:48:25
 category: refletimos
 image: https://f.i.uol.com.br/fotografia/2019/01/22/15481502215c46e5cdc7345_1548150221_3x2_rt.jpg
 ---

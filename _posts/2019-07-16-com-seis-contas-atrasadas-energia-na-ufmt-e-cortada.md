@@ -4,9 +4,9 @@ item_id: 2660931234
 title: >-
     Com seis contas atrasadas, energia na UFMT é cortada
 author: Tatu D'Oquei
-date: 2019-07-16 21:12:52
-pub_date: 2019-07-16 21:12:52
-time_added: 2019-07-16 19:12:52
+date: 2019-07-16 19:12:52
+pub_date: 2019-07-16 19:12:52
+time_added: 2019-07-16 21:12:52
 category: 
 image: http://www.olhardireto.com.br/imgsite/noticias/ufmt-olhar-direto-(1)(1).jpg
 ---

@@ -4,9 +4,9 @@ item_id: 2593872115
 title: >-
     Manifestantes já ocupam a Avenida Paulista contra cortes na educação
 author: Tatu D'Oquei
-date: 2019-05-15 20:04:11
-pub_date: 2019-05-15 20:04:11
-time_added: 2019-05-15 18:17:00
+date: 2019-05-15 18:17:00
+pub_date: 2019-05-15 18:17:00
+time_added: 2019-05-15 20:04:11
 category: 
 image: https://conteudo.imguol.com.br/23/2019/05/15/manifestacao-contra-contes-na-educacao-acontece-na-avenida-paulista-em-sao-paulo-1557946503485_750x421.jpg
 ---

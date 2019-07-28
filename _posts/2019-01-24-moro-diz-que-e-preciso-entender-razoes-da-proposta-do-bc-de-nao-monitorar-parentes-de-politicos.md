@@ -4,9 +4,9 @@ item_id: 2465690780
 title: >-
     Moro diz que é preciso entender razões da proposta do BC de não monitorar parentes de políticos
 author: Tatu D'Oquei
-date: 2019-01-24 21:19:26
-pub_date: 2019-01-24 21:19:26
-time_added: 2019-01-24 11:42:00
+date: 2019-01-24 11:42:00
+pub_date: 2019-01-24 11:42:00
+time_added: 2019-01-24 21:19:26
 category: avisamos
 image: https://f.i.uol.com.br/fotografia/2019/01/24/15483408805c49ce90c7966_1548340880_3x2_rt.jpg
 ---

@@ -4,9 +4,9 @@ item_id: 2473106830
 title: >-
     Sem experiência, defensora do ensino domiciliar assume pasta na educação
 author: Tatu D'Oquei
-date: 2019-01-31 23:39:02
-pub_date: 2019-01-31 23:39:02
-time_added: 2019-01-31 00:29:41
+date: 2019-01-31 00:29:41
+pub_date: 2019-01-31 00:29:41
+time_added: 2019-01-31 23:39:02
 category: avisamos
 image: https://abrilexame.files.wordpress.com/2016/10/size_960_16_9_fachada-do-ministerio-da-educacao-mec-em-brasilia1.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

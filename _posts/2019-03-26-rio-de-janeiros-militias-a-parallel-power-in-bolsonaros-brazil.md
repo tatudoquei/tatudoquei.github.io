@@ -4,9 +4,9 @@ item_id: 2537100670
 title: >-
     Rio de Janeiro’s militias: a parallel power in Bolsonaro’s Brazil
 author: Tatu D'Oquei
-date: 2019-03-26 19:30:47
-pub_date: 2019-03-26 19:30:47
-time_added: 2019-03-26 18:30:47
+date: 2019-03-26 18:30:47
+pub_date: 2019-03-26 18:30:47
+time_added: 2019-03-26 19:30:47
 category: refletimos
 image: https://www.ft.com/__assets/creatives/brand-ft/icons/v3/open-graph.png
 ---

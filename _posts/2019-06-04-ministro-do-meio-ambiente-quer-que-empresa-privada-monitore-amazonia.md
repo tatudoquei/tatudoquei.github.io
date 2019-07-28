@@ -4,9 +4,9 @@ item_id: 2615062795
 title: >-
     Ministro do Meio Ambiente quer que empresa privada monitore Amazônia
 author: Tatu D'Oquei
-date: 2019-06-04 22:25:00
-pub_date: 2019-06-04 22:25:00
-time_added: 2019-06-04 00:45:17
+date: 2019-06-04 00:45:17
+pub_date: 2019-06-04 00:45:17
+time_added: 2019-06-04 22:25:00
 category: 
 image: https://s2.glbimg.com/DeTCCEyttopJ_3CbgHdNVHiUHfk=/1200x/smart/filters:cover():strip_icc()/s01.video.glbimg.com/x720/7665084.jpg
 ---

@@ -4,9 +4,9 @@ item_id: 2536626875
 title: >-
     Procura-se um presidente
 author: Tatu D'Oquei
-date: 2019-03-26 12:37:37
-pub_date: 2019-03-26 12:37:37
-time_added: 2019-03-26 06:00:00
+date: 2019-03-26 06:00:00
+pub_date: 2019-03-26 06:00:00
+time_added: 2019-03-26 12:37:37
 category: refletimos
 image: http://www.estadao.com.br/estadao/novo/img/estadao.gif
 ---

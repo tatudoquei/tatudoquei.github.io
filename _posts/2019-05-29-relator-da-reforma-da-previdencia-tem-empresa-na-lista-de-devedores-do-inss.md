@@ -4,9 +4,9 @@ item_id: 2609082886
 title: >-
     Relator da Reforma da Previdência tem empresa na lista de devedores do INSS
 author: Tatu D'Oquei
-date: 2019-05-29 19:37:54
-pub_date: 2019-05-29 19:37:54
-time_added: 2019-05-29 17:37:54
+date: 2019-05-29 17:37:54
+pub_date: 2019-05-29 17:37:54
+time_added: 2019-05-29 19:37:54
 category: 
 image: http://conteudo.imguol.com.br/c/noticias/af/2017/02/01/27jan2017---deputado-arthur-maia-pps-ba-em-entrevista-ao-uol-1485976764329_615x300.jpg
 ---

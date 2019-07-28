@@ -4,9 +4,9 @@ item_id: 2414811298
 title: >-
     Saída de médicos cubanos expõe desigualdade na saúde do Brasil
 author: Tatu D'Oquei
-date: 2018-12-09 13:42:34
-pub_date: 2018-12-09 13:42:34
-time_added: 2018-12-09 08:26:01
+date: 2018-12-09 08:26:01
+pub_date: 2018-12-09 08:26:01
+time_added: 2018-12-09 13:42:34
 category: refletimos
 image: https://s2.glbimg.com/v5U0BUp8gvZzY4lXS_WRkngkFV8=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2016/11/05/pai195588_610x340.jpg
 ---

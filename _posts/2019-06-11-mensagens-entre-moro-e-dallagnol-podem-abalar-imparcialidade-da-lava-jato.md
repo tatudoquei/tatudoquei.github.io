@@ -4,9 +4,9 @@ item_id: 2623102212
 title: >-
     Mensagens entre Moro e Dallagnol podem abalar imparcialidade da Lava Jato
 author: Tatu D'Oquei
-date: 2019-06-11 19:16:20
-pub_date: 2019-06-11 19:16:20
-time_added: 2019-06-11 01:14:25
+date: 2019-06-11 01:14:25
+pub_date: 2019-06-11 01:14:25
+time_added: 2019-06-11 19:16:20
 category: 
 image: https://ep00.epimg.net/brasil/imagenes/2019/06/10/politica/1560128085_319045_1560131449_rrss_normal.jpg
 ---

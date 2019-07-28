@@ -4,9 +4,9 @@ item_id: 2545372553
 title: >-
     Não há dúvida de que nazismo foi movimento de esquerda, diz Bolsonaro em Israel 
 author: Tatu D'Oquei
-date: 2019-04-02 21:35:40
-pub_date: 2019-04-02 21:35:40
-time_added: 2019-04-02 12:45:00
+date: 2019-04-02 12:45:00
+pub_date: 2019-04-02 12:45:00
+time_added: 2019-04-02 21:35:40
 category: 
 image: https://ogimg.infoglobo.com.br/mundo/23567933-c2a-cc2/FT1086A/652/81982880_President-of-the-Federative-Republic-of-Brazil-Jair-Bolsonaro-2nd-L-lays-a-wreath-at-theH.jpg
 ---

@@ -4,9 +4,9 @@ item_id: 2425676272
 title: >-
     Sete maneiras de ser presidente e não se preocupar em dizer a verdade
 author: Tatu D'Oquei
-date: 2018-12-18 22:37:57
-pub_date: 2018-12-18 22:37:57
-time_added: 2018-12-18 16:16:00
+date: 2018-12-18 16:16:00
+pub_date: 2018-12-18 16:16:00
+time_added: 2018-12-18 22:37:57
 category: refletimos
 image: https://conteudo.imguol.com.br/blogs/61/files/2018/12/espantalho-615x300.jpg
 ---

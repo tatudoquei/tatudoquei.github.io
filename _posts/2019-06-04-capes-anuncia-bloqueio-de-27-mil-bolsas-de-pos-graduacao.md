@@ -4,9 +4,9 @@ item_id: 2615699209
 title: >-
     Capes anuncia bloqueio de 2,7 mil bolsas de pós-graduação
 author: Tatu D'Oquei
-date: 2019-06-04 22:35:46
-pub_date: 2019-06-04 22:35:46
-time_added: 2019-06-04 15:29:00
+date: 2019-06-04 15:29:00
+pub_date: 2019-06-04 15:29:00
+time_added: 2019-06-04 22:35:46
 category: 
 ---
 

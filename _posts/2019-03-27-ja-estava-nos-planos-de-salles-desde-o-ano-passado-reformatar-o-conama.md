@@ -4,9 +4,9 @@ item_id: 2538493560
 title: >-
     Já estava nos planos de Salles desde o ano passado ‘reformatar o Conama’
 author: Tatu D'Oquei
-date: 2019-03-27 22:08:39
-pub_date: 2019-03-27 22:08:39
-time_added: 2019-03-27 12:33:59
+date: 2019-03-27 12:33:59
+pub_date: 2019-03-27 12:33:59
+time_added: 2019-03-27 22:08:39
 category: avisamos
 image: http://www.diretodaciencia.com/wp-content/uploads/2019/03/mcmgo_abr_170120192717df.jpg
 ---

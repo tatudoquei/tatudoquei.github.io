@@ -4,9 +4,9 @@ item_id: 2637544585
 title: >-
     Laudo sobre morte de delegados federais apresenta divergências entre versões e evidências 
 author: Tatu D'Oquei
-date: 2019-06-25 05:25:05
-pub_date: 2019-06-25 05:25:05
-time_added: 2019-06-25 03:25:05
+date: 2019-06-25 03:25:05
+pub_date: 2019-06-25 03:25:05
+time_added: 2019-06-25 05:25:05
 category: 
 image: http://cbndiario.rbsdirect.com.br/imagesrc/23449436.jpg?w=680&a=c
 ---

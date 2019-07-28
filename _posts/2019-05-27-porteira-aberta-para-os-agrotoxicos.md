@@ -4,9 +4,9 @@ item_id: 2606462553
 title: >-
     Porteira aberta para os agrotóxicos
 author: Tatu D'Oquei
-date: 2019-05-27 21:30:27
-pub_date: 2019-05-27 21:30:27
-time_added: 2019-05-27 07:55:00
+date: 2019-05-27 07:55:00
+pub_date: 2019-05-27 07:55:00
+time_added: 2019-05-27 21:30:27
 category: 
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/05/agrotoxicos_redes.jpg
 ---

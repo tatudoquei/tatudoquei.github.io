@@ -4,9 +4,9 @@ item_id: 2425603754
 title: >-
     Ruralista vai cuidar de demarcação de terras indígenas e licença ambiental no governo Bolsonaro
 author: Tatu D'Oquei
-date: 2018-12-18 22:35:57
-pub_date: 2018-12-18 22:35:57
-time_added: 2018-12-18 12:48:00
+date: 2018-12-18 12:48:00
+pub_date: 2018-12-18 12:48:00
+time_added: 2018-12-18 22:35:57
 category: avisamos
 ---
 

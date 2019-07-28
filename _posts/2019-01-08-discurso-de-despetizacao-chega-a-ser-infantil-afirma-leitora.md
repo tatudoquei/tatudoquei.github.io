@@ -4,9 +4,9 @@ item_id: 2447693554
 title: >-
     'Discurso de despetização chega a ser infantil', afirma leitora
 author: Tatu D'Oquei
-date: 2019-01-08 21:16:33
-pub_date: 2019-01-08 21:16:33
-time_added: 2019-01-08 01:00:00
+date: 2019-01-08 01:00:00
+pub_date: 2019-01-08 01:00:00
+time_added: 2019-01-08 21:16:33
 category: resistimos
 image: https://f.i.uol.com.br/fotografia/2018/12/18/15451831225c199f92d7c76_1545183122_3x2_rt.jpg
 ---

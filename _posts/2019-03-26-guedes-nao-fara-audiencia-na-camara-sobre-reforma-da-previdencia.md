@@ -4,9 +4,9 @@ item_id: 2537100779
 title: >-
     Guedes não fará audiência na Câmara sobre reforma da Previdência
 author: Tatu D'Oquei
-date: 2019-03-26 19:30:54
-pub_date: 2019-03-26 19:30:54
-time_added: 2019-03-26 10:19:00
+date: 2019-03-26 10:19:00
+pub_date: 2019-03-26 10:19:00
+time_added: 2019-03-26 19:30:54
 category: avisamos
 image: https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook.jpg
 ---

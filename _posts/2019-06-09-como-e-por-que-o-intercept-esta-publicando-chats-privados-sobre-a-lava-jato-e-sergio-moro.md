@@ -4,9 +4,9 @@ item_id: 2620916434
 title: >-
     Como e por que o Intercept está publicando chats privados sobre a Lava Jato e Sergio Moro
 author: Tatu D'Oquei
-date: 2019-06-09 21:57:11
-pub_date: 2019-06-09 21:57:11
-time_added: 2019-06-09 18:57:00
+date: 2019-06-09 18:57:00
+pub_date: 2019-06-09 18:57:00
+time_added: 2019-06-09 21:57:11
 category: 
 image: https://theintercept.com/wp-uploads/sites/1/2019/06/editorial_redes-1560104243.jpg
 ---

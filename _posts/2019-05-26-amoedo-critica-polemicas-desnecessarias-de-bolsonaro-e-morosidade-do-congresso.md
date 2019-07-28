@@ -4,9 +4,9 @@ item_id: 2605482355
 title: >-
     Amoêdo critica 'polêmicas desnecessárias' de Bolsonaro e morosidade do Congresso
 author: Tatu D'Oquei
-date: 2019-05-26 22:46:10
-pub_date: 2019-05-26 22:46:10
-time_added: 2019-05-26 00:00:00
+date: 2019-05-26 00:00:00
+pub_date: 2019-05-26 00:00:00
+time_added: 2019-05-26 22:46:10
 category: 
 image: https://f.i.uol.com.br/fotografia/2019/05/24/15587451465ce8903a8fd99_1558745146_3x2_rt.jpg
 ---

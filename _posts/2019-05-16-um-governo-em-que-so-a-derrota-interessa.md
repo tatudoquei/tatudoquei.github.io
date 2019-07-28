@@ -4,9 +4,9 @@ item_id: 2594239944
 title: >-
     Um governo em que só a derrota interessa
 author: Tatu D'Oquei
-date: 2019-05-16 19:14:33
-pub_date: 2019-05-16 19:14:33
-time_added: 2019-05-16 03:00:00
+date: 2019-05-16 03:00:00
+pub_date: 2019-05-16 03:00:00
+time_added: 2019-05-16 19:14:33
 category: 
 image: https://ogcss.infoglobo.com.br/9876543210/img/oglobo.jpg
 ---

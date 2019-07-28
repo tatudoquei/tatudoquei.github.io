@@ -4,9 +4,9 @@ item_id: 2659847798
 title: >-
     Se está sendo criticado, é sinal de que é a pessoa adequada, diz Bolsonaro sobre Eduardo
 author: Tatu D'Oquei
-date: 2019-07-15 22:20:35
-pub_date: 2019-07-15 22:20:35
-time_added: 2019-07-15 08:49:00
+date: 2019-07-15 08:49:00
+pub_date: 2019-07-15 08:49:00
+time_added: 2019-07-15 22:20:35
 category: 
 image: https://f.i.uol.com.br/fotografia/2019/03/12/15524373875c88508b3d8eb_1552437387_3x2_rt.jpg
 ---

@@ -4,9 +4,9 @@ item_id: 2594888929
 title: >-
     Racismo estrutural: Desemprego entre negros é maior que a média nacional
 author: Tatu D'Oquei
-date: 2019-05-16 19:15:02
-pub_date: 2019-05-16 19:15:02
-time_added: 2019-05-16 16:53:00
+date: 2019-05-16 16:53:00
+pub_date: 2019-05-16 16:53:00
+time_added: 2019-05-16 19:15:02
 category: 
 image: https://conteudo.imguol.com.br/6b/2018/10/29/sakamoto---share-1540825181920_956x500.png
 ---

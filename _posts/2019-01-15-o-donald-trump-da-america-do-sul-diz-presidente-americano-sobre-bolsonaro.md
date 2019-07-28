@@ -4,9 +4,9 @@ item_id: 2455767293
 title: >-
     O 'Donald Trump da América do Sul', diz presidente americano sobre Bolsonaro
 author: Tatu D'Oquei
-date: 2019-01-15 23:53:28
-pub_date: 2019-01-15 23:53:28
-time_added: 2019-01-15 00:14:34
+date: 2019-01-15 00:14:34
+pub_date: 2019-01-15 00:14:34
+time_added: 2019-01-15 23:53:28
 category: refletimos
 image: https://img.estadao.com.br/resources/jpg/1/7/1547507456471.jpg
 ---

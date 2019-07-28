@@ -4,9 +4,9 @@ item_id: 2634160475
 title: >-
     “Hoje há mais escravos do que havia antes da proibição da escravidão”, constata Manfred Max Neef, economista
 author: Tatu D'Oquei
-date: 2019-06-21 20:54:04
-pub_date: 2019-06-21 20:54:04
-time_added: 2019-06-21 18:54:04
+date: 2019-06-21 18:54:04
+pub_date: 2019-06-21 18:54:04
+time_added: 2019-06-21 20:54:04
 category: 
 image: http://www.ihu.unisinos.br/images/midias_sociais/compartilhamento/default.png
 ---

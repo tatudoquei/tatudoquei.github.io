@@ -4,9 +4,9 @@ item_id: 2649230915
 title: >-
     Ibama decide que multa a Bolsonaro por pesca ilegal está prescrita
 author: Tatu D'Oquei
-date: 2019-07-05 19:19:21
-pub_date: 2019-07-05 19:19:21
-time_added: 2019-07-05 07:18:00
+date: 2019-07-05 07:18:00
+pub_date: 2019-07-05 07:18:00
+time_added: 2019-07-05 19:19:21
 category: 
 ---
 

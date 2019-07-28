@@ -4,9 +4,9 @@ item_id: 2439556276
 title: >-
     Jair Bolsonaro's inauguration: the day progressive Brazil has dreaded
 author: Tatu D'Oquei
-date: 2019-01-01 16:50:14
-pub_date: 2019-01-01 16:50:14
-time_added: 2019-01-01 14:26:50
+date: 2019-01-01 14:26:50
+pub_date: 2019-01-01 14:26:50
+time_added: 2019-01-01 16:50:14
 category: refletimos
 image: https://i.guim.co.uk/img/media/1dc41961f9a80e3e0721b1b0ad2afe7e66e049a4/0_0_4512_2708/master/4512.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=905e04ac20a84a026e2e2c3a29f411ca
 ---

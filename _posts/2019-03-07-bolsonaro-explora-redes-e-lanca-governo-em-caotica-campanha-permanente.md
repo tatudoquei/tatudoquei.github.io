@@ -4,9 +4,9 @@ item_id: 2514399108
 title: >-
     Bolsonaro explora redes e lança Governo em caótica campanha permanente
 author: Tatu D'Oquei
-date: 2019-03-07 11:39:48
-pub_date: 2019-03-07 11:39:48
-time_added: 2019-03-07 02:35:06
+date: 2019-03-07 02:35:06
+pub_date: 2019-03-07 02:35:06
+time_added: 2019-03-07 11:39:48
 category: refletimos
 image: https://ep00.epimg.net/brasil/imagenes/2019/03/06/politica/1551894626_534498_1551919860_rrss_normal.jpg
 ---

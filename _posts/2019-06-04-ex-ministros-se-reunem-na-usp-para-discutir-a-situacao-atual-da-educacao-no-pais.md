@@ -4,9 +4,9 @@ item_id: 2615342431
 title: >-
     Ex-ministros se reúnem na USP para discutir a situação atual da educação no País
 author: Tatu D'Oquei
-date: 2019-06-04 15:38:10
-pub_date: 2019-06-04 15:38:10
-time_added: 2019-06-04 13:04:11
+date: 2019-06-04 13:04:11
+pub_date: 2019-06-04 13:04:11
+time_added: 2019-06-04 15:38:10
 category: 
 image: https://jornal.usp.br/wp-content/uploads/20161108_00_campus_ao_vivo3-1.jpg
 ---

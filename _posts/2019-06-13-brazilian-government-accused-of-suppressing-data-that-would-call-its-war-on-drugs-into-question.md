@@ -4,9 +4,9 @@ item_id: 2625329330
 title: >-
     Brazilian government accused of suppressing data that would call its war on drugs into question
 author: Tatu D'Oquei
-date: 2019-06-13 22:16:15
-pub_date: 2019-06-13 22:16:15
-time_added: 2019-06-13 16:11:37
+date: 2019-06-13 16:11:37
+pub_date: 2019-06-13 16:11:37
+time_added: 2019-06-13 22:16:15
 category: 
 image: https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/Brazil%20patrol_16x9.jpg?itok=mTBp8Ww8
 ---

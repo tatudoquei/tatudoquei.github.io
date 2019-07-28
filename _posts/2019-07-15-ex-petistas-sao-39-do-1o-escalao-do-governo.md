@@ -4,9 +4,9 @@ item_id: 2659244934
 title: >-
     ‘Ex-petistas’ são 39% do 1º escalão do governo
 author: Tatu D'Oquei
-date: 2019-07-15 19:39:44
-pub_date: 2019-07-15 19:39:44
-time_added: 2019-07-15 08:00:00
+date: 2019-07-15 08:00:00
+pub_date: 2019-07-15 08:00:00
+time_added: 2019-07-15 19:39:44
 category: 
 image: https://img.estadao.com.br/resources/jpg/0/3/1563154136130.jpg
 ---

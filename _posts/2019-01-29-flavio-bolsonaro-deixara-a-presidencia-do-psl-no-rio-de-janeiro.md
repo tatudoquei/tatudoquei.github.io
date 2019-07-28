@@ -4,9 +4,9 @@ item_id: 2471796052
 title: >-
     Flávio Bolsonaro deixará a presidência do PSL no Rio de Janeiro
 author: Tatu D'Oquei
-date: 2019-01-29 23:52:22
-pub_date: 2019-01-29 23:52:22
-time_added: 2019-01-29 18:04:00
+date: 2019-01-29 18:04:00
+pub_date: 2019-01-29 18:04:00
+time_added: 2019-01-29 23:52:22
 category: avisamos
 ---
 

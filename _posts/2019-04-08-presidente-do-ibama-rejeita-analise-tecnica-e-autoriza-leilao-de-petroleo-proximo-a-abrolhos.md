@@ -4,9 +4,9 @@ item_id: 2552248407
 title: >-
     Presidente do Ibama rejeita análise técnica e autoriza leilão de petróleo próximo a Abrolhos
 author: Tatu D'Oquei
-date: 2019-04-08 20:38:55
-pub_date: 2019-04-08 20:38:55
-time_added: 2019-04-08 08:00:00
+date: 2019-04-08 08:00:00
+pub_date: 2019-04-08 08:00:00
+time_added: 2019-04-08 20:38:55
 category: 
 image: http://www.estadao.com.br/estadao/novo/img/estadao.gif
 ---

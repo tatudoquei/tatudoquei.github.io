@@ -4,9 +4,9 @@ item_id: 2516129942
 title: >-
     Após mais uma sequência de polêmicas, Bolsonaro ganha "rodinhas"
 author: Tatu D'Oquei
-date: 2019-03-08 17:06:22
-pub_date: 2019-03-08 17:06:22
-time_added: 2019-03-08 02:42:00
+date: 2019-03-08 02:42:00
+pub_date: 2019-03-08 02:42:00
+time_added: 2019-03-08 17:06:22
 category: refletimos
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/03/rodinhas-615x300.jpg
 ---

@@ -4,9 +4,9 @@ item_id: 2372442867
 title: >-
     Em editorial, China faz alerta a Bolsonaro e diz que 'custo' pode ser grande para o Brasil
 author: Tatu D'Oquei
-date: 2018-10-31 22:14:20
-pub_date: 2018-10-31 22:14:20
-time_added: 2018-10-31 15:16:08
+date: 2018-10-31 15:16:08
+pub_date: 2018-10-31 15:16:08
+time_added: 2018-10-31 22:14:20
 category: refletimos
 image: https://img.estadao.com.br/resources/jpg/9/5/1540383907859.jpg
 ---

@@ -4,9 +4,9 @@ item_id: 2467093608
 title: >-
     As ameaças que levaram Jean Wyllys a sair do Brasil: 'Vou te matar com explosivos', 'quebrar seu pescoço'
 author: Tatu D'Oquei
-date: 2019-01-25 21:37:03
-pub_date: 2019-01-25 21:37:03
-time_added: 2019-01-25 14:28:00
+date: 2019-01-25 14:28:00
+pub_date: 2019-01-25 14:28:00
+time_added: 2019-01-25 21:37:03
 category: refletimos
 image: https://ogimg.infoglobo.com.br/in/23398896-947-228/FT1086A/652/jeanwyllys.jpg
 ---

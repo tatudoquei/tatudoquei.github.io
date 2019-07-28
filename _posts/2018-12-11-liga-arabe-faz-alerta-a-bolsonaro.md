@@ -4,9 +4,9 @@ item_id: 2417890156
 title: >-
     Liga Árabe faz alerta a Bolsonaro
 author: Tatu D'Oquei
-date: 2018-12-11 23:40:13
-pub_date: 2018-12-11 23:40:13
-time_added: 2018-12-11 22:40:13
+date: 2018-12-11 22:40:13
+pub_date: 2018-12-11 22:40:13
+time_added: 2018-12-11 23:40:13
 category: avisamos
 image: https://www.dw.com/image/41737680_304.jpg
 ---

@@ -4,9 +4,9 @@ item_id: 2580756012
 title: >-
     Nota à comunidade sobre orçamento
 author: Tatu D'Oquei
-date: 2019-05-07 06:13:32
-pub_date: 2019-05-07 06:13:32
-time_added: 2019-05-07 09:13:32
+date: 2019-05-07 09:13:32
+pub_date: 2019-05-07 09:13:32
+time_added: 2019-05-07 06:13:32
 category: 
 image: http://www.unifesp.br/media/k2/items/cache/40d0140983445f5e86b79526fd64258c_M.jpg
 ---

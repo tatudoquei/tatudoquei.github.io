@@ -4,9 +4,9 @@ item_id: 2537100337
 title: >-
     Bolsonaro determina comemoração do golpe de 1964
 author: Tatu D'Oquei
-date: 2019-03-26 19:30:27
-pub_date: 2019-03-26 19:30:27
-time_added: 2019-03-26 18:30:27
+date: 2019-03-26 18:30:27
+pub_date: 2019-03-26 18:30:27
+time_added: 2019-03-26 19:30:27
 category: avisamos
 image: https://www.dw.com/image/47010340_7.jpg
 ---

@@ -4,9 +4,9 @@ item_id: 2467706096
 title: >-
     'Quem ameaça parlamentar está cometendo um crime contra a democracia', diz Mourão
 author: Tatu D'Oquei
-date: 2019-01-25 21:35:50
-pub_date: 2019-01-25 21:35:50
-time_added: 2019-01-25 14:33:18
+date: 2019-01-25 14:33:18
+pub_date: 2019-01-25 14:33:18
+time_added: 2019-01-25 21:35:50
 category: refletimos
 image: https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png
 ---

@@ -4,9 +4,9 @@ item_id: 2584358802
 title: >-
     Lista com as notas oficiais das universidades federais sobre os bloqueios no orçamento
 author: Tatu D'Oquei
-date: 2019-05-07 06:35:41
-pub_date: 2019-05-07 06:35:41
-time_added: 2019-05-07 15:21:51
+date: 2019-05-07 15:21:51
+pub_date: 2019-05-07 15:21:51
+time_added: 2019-05-07 06:35:41
 category: 
 image: https://cdn-images-1.medium.com/max/1200/0*RBmYEK01CZt6ugfQ.jpg
 ---

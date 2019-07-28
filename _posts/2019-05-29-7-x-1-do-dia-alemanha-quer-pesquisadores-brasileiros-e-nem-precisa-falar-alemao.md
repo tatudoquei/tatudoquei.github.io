@@ -4,9 +4,9 @@ item_id: 2609083012
 title: >-
     7 x 1 do dia: Alemanha quer pesquisadores brasileiros, e nem precisa falar alemão
 author: Tatu D'Oquei
-date: 2019-05-29 19:38:05
-pub_date: 2019-05-29 19:38:05
-time_added: 2019-05-29 17:38:05
+date: 2019-05-29 17:38:05
+pub_date: 2019-05-29 17:38:05
+time_added: 2019-05-29 19:38:05
 category: 
 image: https://www.hypeness.com.br/wp-content/uploads/2019/05/Alemanha_Pesquisa_horizontal.jpg
 ---

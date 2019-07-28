@@ -4,9 +4,9 @@ item_id: 2631667769
 title: >-
     Entrevista com Sérgio Moro derruba a audiência do Programa do Ratinho; confira prévia
 author: Tatu D'Oquei
-date: 2019-06-19 19:08:39
-pub_date: 2019-06-19 19:08:39
-time_added: 2019-06-19 04:03:01
+date: 2019-06-19 04:03:01
+pub_date: 2019-06-19 04:03:01
+time_added: 2019-06-19 19:08:39
 category: 
 image: https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2019/06/sergio-moro-no-programa-do-ratinho-foto-gabriel-cardoso-sbt.jpg
 ---

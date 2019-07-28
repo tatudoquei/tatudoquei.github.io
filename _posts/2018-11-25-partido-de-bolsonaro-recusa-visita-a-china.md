@@ -4,9 +4,9 @@ item_id: 2398960154
 title: >-
     Partido de Bolsonaro recusa visita à China
 author: Tatu D'Oquei
-date: 2018-11-25 23:37:10
-pub_date: 2018-11-25 23:37:10
-time_added: 2018-11-25 00:59:00
+date: 2018-11-25 00:59:00
+pub_date: 2018-11-25 00:59:00
+time_added: 2018-11-25 23:37:10
 category: avisamos
 image: https://painel.blogfolha.uol.com.br/files/2018/11/bivar-2.jpg
 ---

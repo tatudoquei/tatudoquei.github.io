@@ -4,9 +4,9 @@ item_id: 2437244857
 title: >-
     Advertência ao presidente eleito
 author: Tatu D'Oquei
-date: 2018-12-30 13:42:03
-pub_date: 2018-12-30 13:42:03
-time_added: 2018-12-30 01:00:00
+date: 2018-12-30 01:00:00
+pub_date: 2018-12-30 01:00:00
+time_added: 2018-12-30 13:42:03
 category: refletimos
 image: https://f.i.uol.com.br/fotografia/2018/12/28/15459629585c2585cead7ba_1545962958_3x2_xl.jpg
 ---

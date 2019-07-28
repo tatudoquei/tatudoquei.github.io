@@ -4,9 +4,9 @@ item_id: 2609500121
 title: >-
     Popularidade de Bolsonaro já sofre desgaste entre os mais ricos
 author: Tatu D'Oquei
-date: 2019-05-30 17:56:41
-pub_date: 2019-05-30 17:56:41
-time_added: 2019-05-30 00:00:00
+date: 2019-05-30 00:00:00
+pub_date: 2019-05-30 00:00:00
+time_added: 2019-05-30 17:56:41
 category: 
 image: https://f.i.uol.com.br/fotografia/2019/05/29/15591742585cef1c7286976_1559174258_3x2_xl.jpg
 ---

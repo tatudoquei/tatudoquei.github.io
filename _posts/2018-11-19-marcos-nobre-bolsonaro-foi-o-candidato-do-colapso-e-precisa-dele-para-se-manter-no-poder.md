@@ -4,9 +4,9 @@ item_id: 2391938464
 title: >-
     Marcos Nobre: “Bolsonaro foi o candidato do colapso e precisa dele para se manter no poder”
 author: Tatu D'Oquei
-date: 2018-11-19 20:10:30
-pub_date: 2018-11-19 20:10:30
-time_added: 2018-11-19 10:28:10
+date: 2018-11-19 10:28:10
+pub_date: 2018-11-19 10:28:10
+time_added: 2018-11-19 20:10:30
 category: refletimos
 image: https://ep00.epimg.net/brasil/imagenes/2018/11/14/politica/1542228843_630245_1542229014_rrss_normal.jpg
 ---

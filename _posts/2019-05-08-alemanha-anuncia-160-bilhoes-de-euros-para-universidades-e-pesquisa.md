@@ -4,9 +4,9 @@ item_id: 2585958752
 title: >-
     Alemanha anuncia 160 bilhões de euros para universidades e pesquisa
 author: Tatu D'Oquei
-date: 2019-05-08 19:38:33
-pub_date: 2019-05-08 19:38:33
-time_added: 2019-05-08 15:03:00
+date: 2019-05-08 15:03:00
+pub_date: 2019-05-08 15:03:00
+time_added: 2019-05-08 19:38:33
 category: 
 image: https://conteudo.imguol.com.br/c/interacao/facebook/uol-noticias-600px.jpg
 ---

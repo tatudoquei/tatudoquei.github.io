@@ -4,9 +4,9 @@ item_id: 2403400552
 title: >-
     Brasil, um país do passado
 author: Tatu D'Oquei
-date: 2018-11-28 23:00:43
-pub_date: 2018-11-28 23:00:43
-time_added: 2018-11-28 22:00:43
+date: 2018-11-28 22:00:43
+pub_date: 2018-11-28 22:00:43
+time_added: 2018-11-28 23:00:43
 category: refletimos
 image: https://www.dw.com/image/46065908_7.jpg
 ---

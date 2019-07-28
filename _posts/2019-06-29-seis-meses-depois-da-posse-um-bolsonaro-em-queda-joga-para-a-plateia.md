@@ -4,9 +4,9 @@ item_id: 2642609106
 title: >-
     Seis meses depois da posse, um Bolsonaro em queda joga para a plateia
 author: Tatu D'Oquei
-date: 2019-06-29 17:32:33
-pub_date: 2019-06-29 17:32:33
-time_added: 2019-06-29 15:32:33
+date: 2019-06-29 15:32:33
+pub_date: 2019-06-29 15:32:33
+time_added: 2019-06-29 17:32:33
 category: 
 image: https://www.valor.com.br/sites/default/files/videocloud_files/still/6053164867001.jpg
 ---

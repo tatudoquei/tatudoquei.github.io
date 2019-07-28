@@ -4,9 +4,9 @@ item_id: 2617840431
 title: >-
     Auditorias veem ágio sem justificativa em compras de fundos geridos por Guedes
 author: Tatu D'Oquei
-date: 2019-06-06 19:42:36
-pub_date: 2019-06-06 19:42:36
-time_added: 2019-06-06 00:00:00
+date: 2019-06-06 00:00:00
+pub_date: 2019-06-06 00:00:00
+time_added: 2019-06-06 19:42:36
 category: 
 image: https://f.i.uol.com.br/fotografia/2019/06/04/15596935005cf708bcf41ae_1559693500_3x2_rt.jpg
 ---

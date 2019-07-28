@@ -4,9 +4,9 @@ item_id: 2586083321
 title: >-
     Sessão com Moro na Câmara tem desagravo a general Villas Bôas
 author: Tatu D'Oquei
-date: 2019-05-08 19:12:16
-pub_date: 2019-05-08 19:12:16
-time_added: 2019-05-08 17:18:12
+date: 2019-05-08 17:18:12
+pub_date: 2019-05-08 17:18:12
+time_added: 2019-05-08 19:12:16
 category: 
 image: https://img.estadao.com.br/resources/jpg/3/1/1522887722113.jpg
 ---

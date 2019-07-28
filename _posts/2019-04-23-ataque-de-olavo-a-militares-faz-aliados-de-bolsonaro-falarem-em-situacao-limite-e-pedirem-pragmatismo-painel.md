@@ -4,9 +4,9 @@ item_id: 2569099493
 title: >-
     Ataque de Olavo a militares faz aliados de Bolsonaro falarem em 'situação limite' e pedirem 'pragmatismo' : Painel
 author: Tatu D'Oquei
-date: 2019-04-23 18:59:15
-pub_date: 2019-04-23 18:59:15
-time_added: 2019-04-23 00:00:00
+date: 2019-04-23 00:00:00
+pub_date: 2019-04-23 00:00:00
+time_added: 2019-04-23 18:59:15
 category: 
 image: https://painel.blogfolha.uol.com.br/files/2019/01/olavo-de-carvalho.jpg
 ---

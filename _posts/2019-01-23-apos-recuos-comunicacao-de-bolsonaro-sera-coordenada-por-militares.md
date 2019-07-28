@@ -4,9 +4,9 @@ item_id: 2464941472
 title: >-
     Após recuos, comunicação de Bolsonaro será coordenada por militares
 author: Tatu D'Oquei
-date: 2019-01-23 15:51:48
-pub_date: 2019-01-23 15:51:48
-time_added: 2019-01-23 01:11:23
+date: 2019-01-23 01:11:23
+pub_date: 2019-01-23 01:11:23
+time_added: 2019-01-23 15:51:48
 category: recuadas
 image: https://img.estadao.com.br/resources/jpg/4/1/1547505205714.jpg
 ---

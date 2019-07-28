@@ -4,9 +4,9 @@ item_id: 2493250883
 title: >-
     Em desabafo, Bebianno diz que deve desculpas ao país por ter viabilizado candidatura de Bolsonaro
 author: Tatu D'Oquei
-date: 2019-02-17 23:45:44
-pub_date: 2019-02-17 23:45:44
-time_added: 2019-02-17 12:57:36
+date: 2019-02-17 12:57:36
+pub_date: 2019-02-17 12:57:36
+time_added: 2019-02-17 23:45:44
 category: refletimos
 image: https://s2.glbimg.com/TCnvCPynmg-fTfrSEKjWVYhyNlc=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2019/02/16/bebianno.jpg
 ---

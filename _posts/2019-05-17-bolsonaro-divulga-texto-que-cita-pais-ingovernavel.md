@@ -4,9 +4,9 @@ item_id: 2596017715
 title: >-
     Bolsonaro divulga texto que cita País ‘ingovernável’
 author: Tatu D'Oquei
-date: 2019-05-17 23:16:42
-pub_date: 2019-05-17 23:16:42
-time_added: 2019-05-17 16:13:57
+date: 2019-05-17 16:13:57
+pub_date: 2019-05-17 16:13:57
+time_added: 2019-05-17 23:16:42
 category: 
 image: https://img.estadao.com.br/resources/jpg/3/3/1556819970233.jpg
 ---

@@ -4,9 +4,9 @@ item_id: 2590684129
 title: >-
     ‘Meu erro talvez tenha sido confiar no Queiroz’, diz Flávio Bolsonaro
 author: Tatu D'Oquei
-date: 2019-05-13 15:34:27
-pub_date: 2019-05-13 15:34:27
-time_added: 2019-05-13 03:20:04
+date: 2019-05-13 03:20:04
+pub_date: 2019-05-13 03:20:04
+time_added: 2019-05-13 15:34:27
 category: 
 image: https://abrilveja.files.wordpress.com/2019/04/flavio-bolsonaro-2019-2345.jpg.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

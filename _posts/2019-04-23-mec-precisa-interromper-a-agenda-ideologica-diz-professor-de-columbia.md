@@ -4,9 +4,9 @@ item_id: 2569575494
 title: >-
     ‘MEC precisa interromper a agenda ideológica’, diz professor de Columbia
 author: Tatu D'Oquei
-date: 2019-04-23 19:10:32
-pub_date: 2019-04-23 19:10:32
-time_added: 2019-04-23 06:00:00
+date: 2019-04-23 06:00:00
+pub_date: 2019-04-23 06:00:00
+time_added: 2019-04-23 19:10:32
 category: 
 image: https://img.estadao.com.br/resources/jpg/1/0/1555983677901.jpg
 ---

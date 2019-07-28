@@ -4,9 +4,9 @@ item_id: 2557303514
 title: >-
     Exército não matou ninguém, diz Bolsonaro. No Brasil, negro pobre é ninguém
 author: Tatu D'Oquei
-date: 2019-04-12 22:13:58
-pub_date: 2019-04-12 22:13:58
-time_added: 2019-04-12 15:21:00
+date: 2019-04-12 15:21:00
+pub_date: 2019-04-12 15:21:00
+time_added: 2019-04-12 22:13:58
 category: 
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/04/evaldorosa-615x300.jpg
 ---

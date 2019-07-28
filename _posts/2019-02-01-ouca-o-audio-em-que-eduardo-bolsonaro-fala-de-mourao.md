@@ -4,9 +4,9 @@ item_id: 2475465878
 title: >-
     Ouça o áudio em que Eduardo Bolsonaro fala de Mourão
 author: Tatu D'Oquei
-date: 2019-02-01 22:48:22
-pub_date: 2019-02-01 22:48:22
-time_added: 2019-02-01 16:07:00
+date: 2019-02-01 16:07:00
+pub_date: 2019-02-01 16:07:00
+time_added: 2019-02-01 22:48:22
 category: refletimos
 ---
 

@@ -4,9 +4,9 @@ item_id: 2672491472
 title: >-
     Para planeta sobreviver, agricultura terá de passar por nova revolução
 author: Tatu D'Oquei
-date: 2019-07-27 18:16:00
-pub_date: 2019-07-27 18:16:00
-time_added: 2019-07-27 02:00:00
+date: 2019-07-27 02:00:00
+pub_date: 2019-07-27 02:00:00
+time_added: 2019-07-27 18:16:00
 category: 
 image: https://conteudo.imguol.com.br/blogs/275/files/2019/06/amazonia-535x300.jpg
 ---

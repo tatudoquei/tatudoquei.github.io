@@ -4,9 +4,9 @@ item_id: 2461317074
 title: >-
     Preocupação com violência faz base de Bolsonaro hesitar sobre porte de armas
 author: Tatu D'Oquei
-date: 2019-01-20 22:10:26
-pub_date: 2019-01-20 22:10:26
-time_added: 2019-01-20 00:59:00
+date: 2019-01-20 00:59:00
+pub_date: 2019-01-20 00:59:00
+time_added: 2019-01-20 22:10:26
 category: refletimos
 image: https://painel.blogfolha.uol.com.br/files/2019/01/bolsonaro_decreto.jpg
 ---

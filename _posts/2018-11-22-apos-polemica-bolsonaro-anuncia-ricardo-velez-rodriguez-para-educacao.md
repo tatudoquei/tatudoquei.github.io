@@ -4,9 +4,9 @@ item_id: 2396584275
 title: >-
     Após polêmica, Bolsonaro anuncia Ricardo Vélez Rodríguez para Educação
 author: Tatu D'Oquei
-date: 2018-11-22 23:40:12
-pub_date: 2018-11-22 23:40:12
-time_added: 2018-11-22 20:15:00
+date: 2018-11-22 20:15:00
+pub_date: 2018-11-22 20:15:00
+time_added: 2018-11-22 23:40:12
 category: recuadas
 image: http://conteudo.imguol.com.br/c/noticias/3c/2018/11/22/22nov218---ricardo-velez-rodriguez-sera-ministro-da-educacao-de-bolsonaro-1542928781482_v2_300x300.jpg
 ---

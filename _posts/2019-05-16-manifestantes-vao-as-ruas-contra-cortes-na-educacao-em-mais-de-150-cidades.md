@@ -4,9 +4,9 @@ item_id: 2594984170
 title: >-
     Manifestantes vão às ruas contra cortes na educação em mais de 150 cidades
 author: Tatu D'Oquei
-date: 2019-05-16 18:52:33
-pub_date: 2019-05-16 18:52:33
-time_added: 2019-05-16 00:30:00
+date: 2019-05-16 00:30:00
+pub_date: 2019-05-16 00:30:00
+time_added: 2019-05-16 18:52:33
 category: 
 image: https://f.i.uol.com.br/fotografia/2019/05/15/15579511965cdc72dcf406f_1557951196_3x2_rt.jpg
 ---

@@ -4,9 +4,9 @@ item_id: 2424531063
 title: >-
     Bolsonaro confirma que deve rever reserva indígena Raposa Serra do Sol
 author: Tatu D'Oquei
-date: 2018-12-17 23:42:12
-pub_date: 2018-12-17 23:42:12
-time_added: 2018-12-17 13:30:00
+date: 2018-12-17 13:30:00
+pub_date: 2018-12-17 13:30:00
+time_added: 2018-12-17 23:42:12
 category: avisamos
 image: http://imgsapp.diariodepernambuco.com.br/app/noticia_127983242361/2018/12/17/771274/20181217143702281483u.jpg
 ---

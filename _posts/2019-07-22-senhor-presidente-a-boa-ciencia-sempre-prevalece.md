@@ -4,9 +4,9 @@ item_id: 2667272753
 title: >-
     Senhor Presidente: a boa ciência sempre prevalece
 author: Tatu D'Oquei
-date: 2019-07-22 22:02:39
-pub_date: 2019-07-22 22:02:39
-time_added: 2019-07-22 16:40:37
+date: 2019-07-22 16:40:37
+pub_date: 2019-07-22 16:40:37
+time_added: 2019-07-22 22:02:39
 category: 
 image: http://www.diretodaciencia.com/wp-content/uploads/2019/07/Amazonia-2011_Nasa-Goddard.jpg
 ---

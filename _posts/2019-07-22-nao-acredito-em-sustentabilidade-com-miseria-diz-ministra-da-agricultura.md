@@ -4,9 +4,9 @@ item_id: 2666737474
 title: >-
     Não acredito em sustentabilidade com miséria, diz ministra da Agricultura
 author: Tatu D'Oquei
-date: 2019-07-22 23:30:06
-pub_date: 2019-07-22 23:30:06
-time_added: 2019-07-22 00:00:00
+date: 2019-07-22 00:00:00
+pub_date: 2019-07-22 00:00:00
+time_added: 2019-07-22 23:30:06
 category: 
 image: https://f.i.uol.com.br/fotografia/2019/07/21/15637619995d351d4faf4b5_1563761999_3x2_rt.jpg
 ---

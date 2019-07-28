@@ -4,9 +4,9 @@ item_id: 2414611482
 title: >-
     Eduardo Bolsonaro diz que ainda não fez as pazes com Joice Hasselmann, mas que 'discussões internas são saudáveis'
 author: Tatu D'Oquei
-date: 2018-12-09 13:41:58
-pub_date: 2018-12-09 13:41:58
-time_added: 2018-12-09 01:22:25
+date: 2018-12-09 01:22:25
+pub_date: 2018-12-09 01:22:25
+time_added: 2018-12-09 13:41:58
 category: avisamos
 image: https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png
 ---

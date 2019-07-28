@@ -4,9 +4,9 @@ item_id: 2653328798
 title: >-
     A pedido de evangélicos, Bolsonaro afrouxará obrigações fiscais de igrejas
 author: Tatu D'Oquei
-date: 2019-07-09 18:23:20
-pub_date: 2019-07-09 18:23:20
-time_added: 2019-07-09 02:30:00
+date: 2019-07-09 02:30:00
+pub_date: 2019-07-09 02:30:00
+time_added: 2019-07-09 18:23:20
 category: 
 ---
 

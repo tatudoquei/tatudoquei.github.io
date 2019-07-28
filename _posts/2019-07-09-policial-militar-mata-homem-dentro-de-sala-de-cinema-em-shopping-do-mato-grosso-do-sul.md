@@ -4,9 +4,9 @@ item_id: 2653328909
 title: >-
     Policial militar mata homem dentro de sala de cinema, em shopping do Mato Grosso do Sul
 author: Tatu D'Oquei
-date: 2019-07-09 18:23:26
-pub_date: 2019-07-09 18:23:26
-time_added: 2019-07-09 04:40:17
+date: 2019-07-09 04:40:17
+pub_date: 2019-07-09 04:40:17
+time_added: 2019-07-09 18:23:26
 category: 
 ---
 

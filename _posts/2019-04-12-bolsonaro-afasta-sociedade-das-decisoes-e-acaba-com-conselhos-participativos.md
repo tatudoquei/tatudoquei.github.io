@@ -1,12 +1,12 @@
 ---
 layout: post
-item_id: 2557278895
+item_id: 2557231932
 title: >-
     Bolsonaro afasta sociedade das decisões e acaba com conselhos participativos
 author: Tatu D'Oquei
-date: 2019-04-12 21:41:57
-pub_date: 2019-04-12 21:41:57
-time_added: 2019-04-12 19:41:57
+date: 2019-04-12 20:16:00
+pub_date: 2019-04-12 20:16:00
+time_added: 2019-04-13 13:34:59
 category: 
 image: https://samiabomfim.com.br/static/9237de8b3eca2e9b7b9c408b43528ab3/7cfee/g_p1d4dosamv17mh1u4jvth4ch1ern4.jpg
 ---

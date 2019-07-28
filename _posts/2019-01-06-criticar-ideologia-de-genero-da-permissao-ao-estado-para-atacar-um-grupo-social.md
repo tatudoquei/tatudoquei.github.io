@@ -4,9 +4,9 @@ item_id: 2444770214
 title: >-
     “Criticar ‘ideologia de gênero’ dá permissão ao Estado para atacar um grupo social”
 author: Tatu D'Oquei
-date: 2019-01-06 09:08:38
-pub_date: 2019-01-06 09:08:38
-time_added: 2019-01-06 21:20:26
+date: 2019-01-06 21:20:26
+pub_date: 2019-01-06 21:20:26
+time_added: 2019-01-06 09:08:38
 category: refletimos
 image: https://ep00.epimg.net/brasil/imagenes/2019/01/01/politica/1546360520_432279_1546384668_rrss_normal.jpg
 ---

@@ -4,9 +4,9 @@ item_id: 2414730473
 title: >-
     Vidraças de Bolsonaro
 author: Tatu D'Oquei
-date: 2018-12-09 13:42:29
-pub_date: 2018-12-09 13:42:29
-time_added: 2018-12-09 07:00:00
+date: 2018-12-09 07:00:00
+pub_date: 2018-12-09 07:00:00
+time_added: 2018-12-09 13:42:29
 category: refletimos
 image: http://www.estadao.com.br/estadao/novo/img/estadao.gif
 ---

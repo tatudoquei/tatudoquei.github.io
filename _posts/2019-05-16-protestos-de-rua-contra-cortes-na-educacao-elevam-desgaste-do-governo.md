@@ -4,9 +4,9 @@ item_id: 2594881746
 title: >-
     Protestos de rua contra cortes na Educação elevam desgaste do governo
 author: Tatu D'Oquei
-date: 2019-05-16 16:57:01
-pub_date: 2019-05-16 16:57:01
-time_added: 2019-05-16 01:13:02
+date: 2019-05-16 01:13:02
+pub_date: 2019-05-16 01:13:02
+time_added: 2019-05-16 16:57:01
 category: 
 image: https://img.estadao.com.br/resources/jpg/5/2/1557968353925.jpg
 ---

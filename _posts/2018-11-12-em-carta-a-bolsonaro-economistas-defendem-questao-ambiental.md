@@ -4,9 +4,9 @@ item_id: 2384904518
 title: >-
     Em carta a Bolsonaro, economistas defendem questão ambiental
 author: Tatu D'Oquei
-date: 2018-11-12 08:55:29
-pub_date: 2018-11-12 08:55:29
-time_added: 2018-11-12 01:00:00
+date: 2018-11-12 01:00:00
+pub_date: 2018-11-12 01:00:00
+time_added: 2018-11-12 08:55:29
 category: resistimos
 image: https://f.i.uol.com.br/fotografia/2018/10/31/15410338245bda4f601ce60_1541033824_3x2_rt.jpg
 ---

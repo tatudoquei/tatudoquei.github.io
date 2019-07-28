@@ -4,9 +4,9 @@ item_id: 2577415345
 title: >-
     MP Militar pede soltura de militares presos por fuzilamento de músico e catador em Guadalupe
 author: Tatu D'Oquei
-date: 2019-04-30 19:35:56
-pub_date: 2019-04-30 19:35:56
-time_added: 2019-04-30 13:28:39
+date: 2019-04-30 13:28:39
+pub_date: 2019-04-30 13:28:39
+time_added: 2019-04-30 19:35:56
 category: 
 ---
 

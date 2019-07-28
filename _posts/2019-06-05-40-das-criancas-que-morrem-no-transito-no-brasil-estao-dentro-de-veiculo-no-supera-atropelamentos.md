@@ -4,9 +4,9 @@ item_id: 2616587194
 title: >-
     40% das crianças que morrem no trânsito no Brasil estão dentro de veículo; nº supera atropelamentos
 author: Tatu D'Oquei
-date: 2019-06-05 20:56:03
-pub_date: 2019-06-05 20:56:03
-time_added: 2019-06-05 15:16:44
+date: 2019-06-05 15:16:44
+pub_date: 2019-06-05 15:16:44
+time_added: 2019-06-05 20:56:03
 category: 
 image: https://img.estadao.com.br/resources/jpg/5/7/1480615296475.jpg
 ---

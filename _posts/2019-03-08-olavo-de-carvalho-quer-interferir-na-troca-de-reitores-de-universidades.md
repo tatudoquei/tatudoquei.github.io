@@ -4,9 +4,9 @@ item_id: 2515664468
 title: >-
     Olavo de Carvalho quer interferir na troca de reitores de universidades
 author: Tatu D'Oquei
-date: 2019-03-08 17:20:18
-pub_date: 2019-03-08 17:20:18
-time_added: 2019-03-08 11:00:51
+date: 2019-03-08 11:00:51
+pub_date: 2019-03-08 11:00:51
+time_added: 2019-03-08 17:20:18
 category: avisamos
 image: https://abrilveja.files.wordpress.com/2017/10/olavo-de-carvalho-png.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

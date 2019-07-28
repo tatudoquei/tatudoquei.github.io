@@ -4,9 +4,9 @@ item_id: 2547555579
 title: >-
     Defesa de 64 irrita militares, que pedem saída de Vélez do MEC
 author: Tatu D'Oquei
-date: 2019-04-04 23:13:51
-pub_date: 2019-04-04 23:13:51
-time_added: 2019-04-04 09:01:00
+date: 2019-04-04 09:01:00
+pub_date: 2019-04-04 09:01:00
+time_added: 2019-04-04 23:13:51
 category: 
 image: https://f.i.uol.com.br/fotografia/2019/01/03/15465376845c2e4ad412a21_1546537684_3x2_xl.jpg
 ---

@@ -4,9 +4,9 @@ item_id: 2556348888
 title: >-
     Nota da Universidade Federal do Maranhão sobre bolsas de Pesquisa e Extensão da UNA-SUS
 author: Tatu D'Oquei
-date: 2019-04-12 03:53:46
-pub_date: 2019-04-12 03:53:46
-time_added: 2019-04-12 01:53:46
+date: 2019-04-12 01:53:46
+pub_date: 2019-04-12 01:53:46
+time_added: 2019-04-12 03:53:46
 category: 
 ---
 

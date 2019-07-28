@@ -4,9 +4,9 @@ item_id: 2670786090
 title: >-
     A absoluta constitucionalidade do trabalho do The Intercept
 author: Tatu D'Oquei
-date: 2019-07-25 21:50:35
-pub_date: 2019-07-25 21:50:35
-time_added: 2019-07-25 17:57:47
+date: 2019-07-25 17:57:47
+pub_date: 2019-07-25 17:57:47
+time_added: 2019-07-25 21:50:35
 category: 
 image: https://static.congressoemfoco.uol.com.br/2019/07/deltan-dallagnol-pedro-de-oliveira-alep-1.jpg
 ---

@@ -4,9 +4,9 @@ item_id: 2538494018
 title: >-
     Artigo no Financial Times diz que mercado pode estar despreparado para a incompetência de Bolsonaro
 author: Tatu D'Oquei
-date: 2019-03-27 22:08:56
-pub_date: 2019-03-27 22:08:56
-time_added: 2019-03-27 13:11:00
+date: 2019-03-27 13:11:00
+pub_date: 2019-03-27 13:11:00
+time_added: 2019-03-27 22:08:56
 category: avisamos
 image: https://img.estadao.com.br/resources/jpg/7/0/1553622929507.jpg
 ---

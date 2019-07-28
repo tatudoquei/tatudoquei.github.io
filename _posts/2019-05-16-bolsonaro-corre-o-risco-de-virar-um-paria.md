@@ -4,9 +4,9 @@ item_id: 2594548672
 title: >-
     Bolsonaro corre o risco de virar um pária
 author: Tatu D'Oquei
-date: 2019-05-16 19:14:39
-pub_date: 2019-05-16 19:14:39
-time_added: 2019-05-16 01:59:00
+date: 2019-05-16 01:59:00
+pub_date: 2019-05-16 01:59:00
+time_added: 2019-05-16 19:14:39
 category: 
 image: https://s2.glbimg.com/D731zIp-dyibei0hl30HY9w-mOg=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/05/15/imagem_bolsonaro_e_trump_2.jpg
 ---

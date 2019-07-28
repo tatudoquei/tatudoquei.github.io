@@ -4,9 +4,9 @@ item_id: 2557189825
 title: >-
     When a Natural History Museum Hosts a President Bent on Destroying Nature
 author: Tatu D'Oquei
-date: 2019-04-12 21:43:44
-pub_date: 2019-04-12 21:43:44
-time_added: 2019-04-12 19:47:40
+date: 2019-04-12 19:47:40
+pub_date: 2019-04-12 19:47:40
+time_added: 2019-04-12 21:43:44
 category: 
 image: https://cdn.theatlantic.com/assets/media/img/mt/2019/04/GettyImages_894475966/facebook.jpg?1555095364
 ---

@@ -4,9 +4,9 @@ item_id: 2540371181
 title: >-
     As origens ideológicas do nazismo
 author: Tatu D'Oquei
-date: 2019-03-29 23:51:28
-pub_date: 2019-03-29 23:51:28
-time_added: 2019-03-29 22:51:28
+date: 2019-03-29 22:51:28
+pub_date: 2019-03-29 22:51:28
+time_added: 2019-03-29 23:51:28
 category: refletimos
 ---
 

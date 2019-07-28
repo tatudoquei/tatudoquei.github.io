@@ -4,9 +4,9 @@ item_id: 2581731161
 title: >-
     Na contramão do discurso oficial, MEC congela R$ 2,4 bi da educação básica
 author: Tatu D'Oquei
-date: 2019-05-04 17:37:39
-pub_date: 2019-05-04 17:37:39
-time_added: 2019-05-04 06:00:00
+date: 2019-05-04 06:00:00
+pub_date: 2019-05-04 06:00:00
+time_added: 2019-05-04 17:37:39
 category: 
 image: https://img.estadao.com.br/resources/jpg/3/5/1556935986453.jpg
 ---

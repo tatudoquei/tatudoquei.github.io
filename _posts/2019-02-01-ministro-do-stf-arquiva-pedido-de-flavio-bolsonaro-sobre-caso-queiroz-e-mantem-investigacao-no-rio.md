@@ -4,9 +4,9 @@ item_id: 2475797184
 title: >-
     Ministro do STF arquiva pedido de Flávio Bolsonaro sobre caso Queiroz e mantém investigação no Rio
 author: Tatu D'Oquei
-date: 2019-02-01 22:51:44
-pub_date: 2019-02-01 22:51:44
-time_added: 2019-02-01 15:03:06
+date: 2019-02-01 15:03:06
+pub_date: 2019-02-01 15:03:06
+time_added: 2019-02-01 22:51:44
 category: resistimos
 image: https://ep00.epimg.net/brasil/imagenes/2019/01/24/politica/1548370587_148791_1548371528_rrss_normal.jpg
 ---

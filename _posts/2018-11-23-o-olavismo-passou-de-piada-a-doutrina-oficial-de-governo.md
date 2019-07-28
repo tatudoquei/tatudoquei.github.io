@@ -4,9 +4,9 @@ item_id: 2397050897
 title: >-
     O olavismo passou de piada a doutrina oficial de governo
 author: Tatu D'Oquei
-date: 2018-11-23 23:39:18
-pub_date: 2018-11-23 23:39:18
-time_added: 2018-11-23 05:00:00
+date: 2018-11-23 05:00:00
+pub_date: 2018-11-23 05:00:00
+time_added: 2018-11-23 23:39:18
 category: refletimos
 image: https://s2.glbimg.com/uIfsQG0k_r08QVI-N2nXQ-qlG2E=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2018/11/22/68123830.jpg
 ---

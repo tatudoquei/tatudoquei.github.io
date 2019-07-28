@@ -4,9 +4,9 @@ item_id: 2439401849
 title: >-
     Cerimonial da posse de Bolsonaro impõe série de restrições a jornalistas
 author: Tatu D'Oquei
-date: 2019-01-01 10:48:03
-pub_date: 2019-01-01 10:48:03
-time_added: 2019-01-01 15:55:36
+date: 2019-01-01 15:55:36
+pub_date: 2019-01-01 15:55:36
+time_added: 2019-01-01 10:48:03
 category: avisamos
 image: https://ep00.epimg.net/brasil/imagenes/2018/12/31/politica/1546277389_982663_1546278394_rrss_normal.jpg
 ---

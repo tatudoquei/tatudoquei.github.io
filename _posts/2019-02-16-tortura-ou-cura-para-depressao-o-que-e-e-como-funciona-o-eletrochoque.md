@@ -4,9 +4,9 @@ item_id: 2492088014
 title: >-
     Tortura ou cura para depressão? O que é e como funciona o eletrochoque
 author: Tatu D'Oquei
-date: 2019-02-16 09:26:24
-pub_date: 2019-02-16 09:26:24
-time_added: 2019-02-16 03:00:00
+date: 2019-02-16 03:00:00
+pub_date: 2019-02-16 03:00:00
+time_added: 2019-02-16 09:26:24
 category: refletimos
 image: https://conteudo.imguol.com.br/c/noticias/85/2019/02/15/em-imagem-de-arquivo-enfermeiros-atendem-um-paciente-que-recebe-tratamento-com-eletrodo-em-hospital-psiquiatrico-1550254434516_v2_750x421.jpg
 ---

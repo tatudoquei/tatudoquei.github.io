@@ -4,9 +4,9 @@ item_id: 2625099908
 title: >-
     "Não dá para negociar nada com Bolsonaro"
 author: Tatu D'Oquei
-date: 2019-06-15 09:53:57
-pub_date: 2019-06-15 09:53:57
-time_added: 2019-06-15 07:53:57
+date: 2019-06-15 07:53:57
+pub_date: 2019-06-15 07:53:57
+time_added: 2019-06-15 09:53:57
 category: 
 image: https://www.dw.com/image/48617230_304.jpg
 ---

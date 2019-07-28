@@ -4,9 +4,9 @@ item_id: 2666834036
 title: >-
     Os impulsos do presidente
 author: Tatu D'Oquei
-date: 2019-07-22 22:00:58
-pub_date: 2019-07-22 22:00:58
-time_added: 2019-07-22 06:00:00
+date: 2019-07-22 06:00:00
+pub_date: 2019-07-22 06:00:00
+time_added: 2019-07-22 22:00:58
 category: 
 image: https://www.estadao.com.br/estadao/novo/img/estadao.gif
 ---

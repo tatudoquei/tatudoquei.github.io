@@ -4,9 +4,9 @@ item_id: 2564824198
 title: >-
     Salles decide militarizar Ministério do Meio Ambiente
 author: Tatu D'Oquei
-date: 2019-04-19 15:05:17
-pub_date: 2019-04-19 15:05:17
-time_added: 2019-04-19 08:00:00
+date: 2019-04-19 08:00:00
+pub_date: 2019-04-19 08:00:00
+time_added: 2019-04-19 15:05:17
 category: 
 image: https://img.estadao.com.br/resources/jpg/9/2/1555642457129.jpg
 ---

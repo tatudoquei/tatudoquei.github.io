@@ -4,9 +4,9 @@ item_id: 2446497069
 title: >-
     Bolsonaro: 'Não podemos errar, se errarmos sabemos quem poderá voltar'
 author: Tatu D'Oquei
-date: 2019-01-07 21:07:07
-pub_date: 2019-01-07 21:07:07
-time_added: 2019-01-07 13:58:58
+date: 2019-01-07 13:58:58
+pub_date: 2019-01-07 13:58:58
+time_added: 2019-01-07 21:07:07
 category: avisamos
 image: https://www.otempo.com.br/image/contentid/policy:1.2087966:1546876655/mcmgo_abr_070120192560df.jpg?f=3x2&w=620&$p$f$w=b1f58bc
 ---

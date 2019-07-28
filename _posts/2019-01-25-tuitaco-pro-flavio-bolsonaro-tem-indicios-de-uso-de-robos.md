@@ -4,9 +4,9 @@ item_id: 2466539107
 title: >-
     Tuitaço pró-Flávio Bolsonaro tem indícios de uso de robôs
 author: Tatu D'Oquei
-date: 2019-01-25 21:37:46
-pub_date: 2019-01-25 21:37:46
-time_added: 2019-01-25 05:00:00
+date: 2019-01-25 05:00:00
+pub_date: 2019-01-25 05:00:00
+time_added: 2019-01-25 21:37:46
 category: avisamos
 image: https://ogimg.infoglobo.com.br/in/23398977-649-b03/FT1086A/652/Flavio-Bolsonaro.jpg
 ---

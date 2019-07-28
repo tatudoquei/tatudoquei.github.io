@@ -4,9 +4,9 @@ item_id: 2659847674
 title: >-
     Capes permitirá pela primeira vez cursos de pós-graduação a distância
 author: Tatu D'Oquei
-date: 2019-07-15 22:20:25
-pub_date: 2019-07-15 22:20:25
-time_added: 2019-07-15 02:30:00
+date: 2019-07-15 02:30:00
+pub_date: 2019-07-15 02:30:00
+time_added: 2019-07-15 22:20:25
 category: 
 ---
 

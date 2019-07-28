@@ -4,9 +4,9 @@ item_id: 2599085726
 title: >-
     O grande problema do Brasil é a classe política, diz Bolsonaro
 author: Tatu D'Oquei
-date: 2019-05-20 22:30:35
-pub_date: 2019-05-20 22:30:35
-time_added: 2019-05-20 12:25:00
+date: 2019-05-20 12:25:00
+pub_date: 2019-05-20 12:25:00
+time_added: 2019-05-20 22:30:35
 category: 
 image: https://f.i.uol.com.br/fotografia/2019/05/20/15583738415ce2e5d1e7b1c_1558373841_3x2_rt.jpg
 ---

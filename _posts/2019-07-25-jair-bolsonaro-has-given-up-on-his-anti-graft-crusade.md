@@ -4,9 +4,9 @@ item_id: 2670726298
 title: >-
     Jair Bolsonaro has given up on his anti-graft crusade
 author: Tatu D'Oquei
-date: 2019-07-25 21:49:43
-pub_date: 2019-07-25 21:49:43
-time_added: 2019-07-25 15:07:39
+date: 2019-07-25 15:07:39
+pub_date: 2019-07-25 15:07:39
+time_added: 2019-07-25 21:49:43
 category: 
 image: https://www.economist.com/sites/default/files/images/print-edition/20190727_AMP002_0.jpg
 ---

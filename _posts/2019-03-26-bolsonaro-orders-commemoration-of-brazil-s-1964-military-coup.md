@@ -4,9 +4,9 @@ item_id: 2537318717
 title: >-
     Bolsonaro Orders Commemoration of Brazil's 1964 Military Coup
 author: Tatu D'Oquei
-date: 2019-03-26 23:38:47
-pub_date: 2019-03-26 23:38:47
-time_added: 2019-03-26 22:38:47
+date: 2019-03-26 22:38:47
+pub_date: 2019-03-26 22:38:47
+time_added: 2019-03-26 23:38:47
 category: avisamos
 image: https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqN4gjnnFGgo/v1/1200x783.jpg
 ---

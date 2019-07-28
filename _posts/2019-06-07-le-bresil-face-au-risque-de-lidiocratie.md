@@ -4,9 +4,9 @@ item_id: 2618174499
 title: >-
     Le Brésil face au risque de « l’idiocratie »
 author: Tatu D'Oquei
-date: 2019-06-07 20:51:50
-pub_date: 2019-06-07 20:51:50
-time_added: 2019-06-07 18:51:50
+date: 2019-06-07 18:51:50
+pub_date: 2019-06-07 18:51:50
+time_added: 2019-06-07 20:51:50
 category: 
 image: https://img.lemde.fr/2019/06/07/731/0/4378/2189/1440/720/60/0/b31909f_8ur58xwPpj34ihVhEcbS9qfU.jpg
 ---

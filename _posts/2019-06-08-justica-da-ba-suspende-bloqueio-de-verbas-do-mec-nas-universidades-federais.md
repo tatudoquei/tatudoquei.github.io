@@ -4,9 +4,9 @@ item_id: 2620025858
 title: >-
     Justiça da BA suspende bloqueio de verbas do MEC nas universidades federais
 author: Tatu D'Oquei
-date: 2019-06-08 22:09:43
-pub_date: 2019-06-08 22:09:43
-time_added: 2019-06-08 07:04:00
+date: 2019-06-08 07:04:00
+pub_date: 2019-06-08 07:04:00
+time_added: 2019-06-08 22:09:43
 category: 
 image: https://f.i.uol.com.br/fotografia/2019/04/16/15554295025cb5f87edbf3a_1555429502_3x2_rt.jpg
 ---

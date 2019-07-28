@@ -4,9 +4,9 @@ item_id: 2595673185
 title: >-
     In Brazil, 'useful idiots' protest cuts to research and education
 author: Tatu D'Oquei
-date: 2019-05-17 21:08:53
-pub_date: 2019-05-17 21:08:53
-time_added: 2019-05-17 10:15:37
+date: 2019-05-17 10:15:37
+pub_date: 2019-05-17 10:15:37
+time_added: 2019-05-17 21:08:53
 category: 
 image: https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/News_Insider_1280x720_0.png?itok=DYMPb5tA
 ---

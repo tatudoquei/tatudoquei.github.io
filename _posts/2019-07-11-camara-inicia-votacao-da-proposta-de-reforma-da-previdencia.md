@@ -4,9 +4,9 @@ item_id: 2655654497
 title: >-
     Câmara inicia votação da proposta de reforma da Previdência
 author: Tatu D'Oquei
-date: 2019-07-11 18:52:30
-pub_date: 2019-07-11 18:52:30
-time_added: 2019-07-11 16:52:30
+date: 2019-07-11 16:52:30
+pub_date: 2019-07-11 16:52:30
+time_added: 2019-07-11 18:52:30
 category: 
 image: https://www.estadao.com.br/estadao/novo/img/estadao.gif
 ---

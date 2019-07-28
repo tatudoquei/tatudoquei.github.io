@@ -4,9 +4,9 @@ item_id: 2424531159
 title: >-
     Governo eleito de Bolsonaro chamou Maduro para posse, mas voltou atrás, diz Itamaraty
 author: Tatu D'Oquei
-date: 2018-12-17 23:44:27
-pub_date: 2018-12-17 23:44:27
-time_added: 2018-12-17 14:23:00
+date: 2018-12-17 14:23:00
+pub_date: 2018-12-17 14:23:00
+time_added: 2018-12-17 23:44:27
 category: recuadas
 image: https://operamundi.uol.com.br/thumb/YjAzNzBhMzI3MjI3OGY3ZWNiNzJmMjFkMTIwZmEwZGRfZmI2ZTNkZDZkOTZiY2RlYjhhYTQ2Yjc4YTIyNTdjMWIucG5n
 ---

@@ -4,9 +4,9 @@ item_id: 2569450138
 title: >-
     Governo ainda precisa fazer cálculos para divulgar impactos da reforma da Previdência, diz secretário
 author: Tatu D'Oquei
-date: 2019-04-23 18:59:11
-pub_date: 2019-04-23 18:59:11
-time_added: 2019-04-23 10:21:00
+date: 2019-04-23 10:21:00
+pub_date: 2019-04-23 10:21:00
+time_added: 2019-04-23 18:59:11
 category: 
 image: https://f.i.uol.com.br/fotografia/2019/04/02/15542537755ca407cfb4264_1554253775_3x2_rt.jpg
 ---

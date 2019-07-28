@@ -4,9 +4,9 @@ item_id: 2455767169
 title: >-
     Presa por racismo é nomeada secretária da Igualdade Racial
 author: Tatu D'Oquei
-date: 2019-01-15 23:36:10
-pub_date: 2019-01-15 23:36:10
-time_added: 2019-01-15 13:53:58
+date: 2019-01-15 13:53:58
+pub_date: 2019-01-15 13:53:58
+time_added: 2019-01-15 23:36:10
 category: avisamos
 image: https://catracalivre.com.br/wp-content/uploads/2019/01/maria-luiza.jpg
 ---

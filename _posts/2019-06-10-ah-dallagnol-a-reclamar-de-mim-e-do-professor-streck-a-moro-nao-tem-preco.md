@@ -4,9 +4,9 @@ item_id: 2621482217
 title: >-
     Ah, Dallagnol a reclamar de mim e do professor Streck a Moro não tem preço!
 author: Tatu D'Oquei
-date: 2019-06-10 13:53:38
-pub_date: 2019-06-10 13:53:38
-time_added: 2019-06-10 05:09:00
+date: 2019-06-10 05:09:00
+pub_date: 2019-06-10 05:09:00
+time_added: 2019-06-10 13:53:38
 category: 
 image: https://conteudo.imguol.com.br/blogs/278/files/2019/04/lulafundonegro-615x300.jpg
 ---

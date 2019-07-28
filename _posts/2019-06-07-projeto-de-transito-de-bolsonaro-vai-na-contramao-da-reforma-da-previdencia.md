@@ -4,9 +4,9 @@ item_id: 2619041473
 title: >-
     Projeto de Trânsito de Bolsonaro vai na contramão da Reforma da Previdência
 author: Tatu D'Oquei
-date: 2019-06-07 21:01:43
-pub_date: 2019-06-07 21:01:43
-time_added: 2019-06-07 02:00:00
+date: 2019-06-07 02:00:00
+pub_date: 2019-06-07 02:00:00
+time_added: 2019-06-07 21:01:43
 category: 
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/06/ciclista-615x300.jpeg
 ---

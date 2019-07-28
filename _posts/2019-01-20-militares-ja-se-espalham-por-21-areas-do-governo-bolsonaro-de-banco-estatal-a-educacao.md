@@ -4,9 +4,9 @@ item_id: 2461317072
 title: >-
     Militares já se espalham por 21 áreas do governo Bolsonaro, de banco estatal à Educação
 author: Tatu D'Oquei
-date: 2019-01-20 22:10:19
-pub_date: 2019-01-20 22:10:19
-time_added: 2019-01-20 01:00:00
+date: 2019-01-20 01:00:00
+pub_date: 2019-01-20 01:00:00
+time_added: 2019-01-20 22:10:19
 category: avisamos
 image: https://f.i.uol.com.br/fotografia/2018/12/12/15446399625c1155da49cf8_1544639962_3x2_rt.jpg
 ---

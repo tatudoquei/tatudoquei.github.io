@@ -4,9 +4,9 @@ item_id: 2643518052
 title: >-
     Entenda reportagem e diálogos que mostram que Lula foi condenado sem provas
 author: Tatu D'Oquei
-date: 2019-06-30 22:19:20
-pub_date: 2019-06-30 22:19:20
-time_added: 2019-06-30 08:48:00
+date: 2019-06-30 08:48:00
+pub_date: 2019-06-30 08:48:00
+time_added: 2019-06-30 22:19:20
 category: 
 image: https://conteudo.imguol.com.br/blogs/278/files/2019/06/deltanmoroladoalado-557x300.jpg
 ---

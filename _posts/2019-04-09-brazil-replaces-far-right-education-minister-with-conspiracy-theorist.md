@@ -4,9 +4,9 @@ item_id: 2552882935
 title: >-
     Brazil replaces far-right education minister with conspiracy theorist
 author: Tatu D'Oquei
-date: 2019-04-09 19:16:25
-pub_date: 2019-04-09 19:16:25
-time_added: 2019-04-09 07:01:12
+date: 2019-04-09 07:01:12
+pub_date: 2019-04-09 07:01:12
+time_added: 2019-04-09 19:16:25
 category: 
 image: https://i.guim.co.uk/img/media/f1c5a8230a434f563840c76a95cee7c3dbbb7f85/1353_574_4120_2472/master/4120.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=c4002165127ab7cf090c9b4b1bd5cd31
 ---

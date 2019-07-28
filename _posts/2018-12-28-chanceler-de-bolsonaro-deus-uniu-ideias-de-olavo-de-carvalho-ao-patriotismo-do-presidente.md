@@ -4,9 +4,9 @@ item_id: 2435603897
 title: >-
     Chanceler de Bolsonaro: “Deus uniu ideias de Olavo de Carvalho ao patriotismo do presidente”
 author: Tatu D'Oquei
-date: 2018-12-28 22:41:30
-pub_date: 2018-12-28 22:41:30
-time_added: 2018-12-28 12:44:37
+date: 2018-12-28 12:44:37
+pub_date: 2018-12-28 12:44:37
+time_added: 2018-12-28 22:41:30
 category: avisamos
 image: https://ep00.epimg.net/brasil/imagenes/2018/12/27/politica/1545925083_475905_1545925505_rrss_normal.jpg
 ---

@@ -4,9 +4,9 @@ item_id: 2405348416
 title: >-
     Adesão ao Mais Médicos cria déficit no SUS
 author: Tatu D'Oquei
-date: 2018-11-30 21:26:45
-pub_date: 2018-11-30 21:26:45
-time_added: 2018-11-30 06:00:00
+date: 2018-11-30 06:00:00
+pub_date: 2018-11-30 06:00:00
+time_added: 2018-11-30 21:26:45
 category: avisamos
 image: https://img.estadao.com.br/resources/jpg/0/8/1543546983180.jpg
 ---

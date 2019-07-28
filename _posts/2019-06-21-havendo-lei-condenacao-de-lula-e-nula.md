@@ -4,9 +4,9 @@ item_id: 2633807656
 title: >-
     Havendo lei, condenação de Lula é nula
 author: Tatu D'Oquei
-date: 2019-06-21 20:56:28
-pub_date: 2019-06-21 20:56:28
-time_added: 2019-06-21 00:00:00
+date: 2019-06-21 00:00:00
+pub_date: 2019-06-21 00:00:00
+time_added: 2019-06-21 20:56:28
 category: 
 image: https://f.i.uol.com.br/fotografia/2019/06/20/15610801865d0c317a03e4c_1561080186_3x2_rt.jpg
 ---

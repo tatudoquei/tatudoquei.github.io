@@ -4,9 +4,9 @@ item_id: 2516379348
 title: >-
     Will Bolsonaro’s ‘culture wars’ jinx Brazil’s economic reforms?
 author: Tatu D'Oquei
-date: 2019-03-10 12:24:22
-pub_date: 2019-03-10 12:24:22
-time_added: 2019-03-10 11:24:22
+date: 2019-03-10 11:24:22
+pub_date: 2019-03-10 11:24:22
+time_added: 2019-03-10 12:24:22
 category: refletimos
 image: https://www.ft.com/__assets/creatives/brand-ft/icons/v3/open-graph.png
 ---

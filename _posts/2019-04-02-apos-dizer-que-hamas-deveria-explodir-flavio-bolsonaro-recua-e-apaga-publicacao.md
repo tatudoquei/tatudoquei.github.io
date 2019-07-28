@@ -4,9 +4,9 @@ item_id: 2545434590
 title: >-
     Após dizer que Hamas deveria explodir, Flávio Bolsonaro recua e apaga publicação
 author: Tatu D'Oquei
-date: 2019-04-02 22:51:02
-pub_date: 2019-04-02 22:51:02
-time_added: 2019-04-02 16:00:00
+date: 2019-04-02 16:00:00
+pub_date: 2019-04-02 16:00:00
+time_added: 2019-04-02 22:51:02
 category: 
 image: https://f.i.uol.com.br/fotografia/2019/03/31/15540583925ca10c98a99ee_1554058392_3x2_xl.jpg
 ---

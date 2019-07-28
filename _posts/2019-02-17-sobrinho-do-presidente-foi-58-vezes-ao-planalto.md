@@ -4,9 +4,9 @@ item_id: 2493764808
 title: >-
     Sobrinho do presidente foi 58 vezes ao Planalto
 author: Tatu D'Oquei
-date: 2019-02-17 23:49:54
-pub_date: 2019-02-17 23:49:54
-time_added: 2019-02-17 07:00:00
+date: 2019-02-17 07:00:00
+pub_date: 2019-02-17 07:00:00
+time_added: 2019-02-17 23:49:54
 category: avisamos
 image: https://img.estadao.com.br/resources/jpg/2/4/1550361243342.jpg
 ---
