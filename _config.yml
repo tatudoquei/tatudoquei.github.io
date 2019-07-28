@@ -1,8 +1,8 @@
 # Site
 name: 'Tá tudo ok'
 description: 'Documentando o desmonte da democracia no regime Bolsonaro.'
-logo: 'assets/images/tatu.png'
-favicon: 'assets/images/tatu.png'
+logo: ''
+favicon: 'assets/images/favicon.ico'
 baseurl: ''
 avatar: ''
 disqus: ''
