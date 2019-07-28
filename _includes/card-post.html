@@ -1,0 +1,63 @@
+<div class="card card-pin  raco" {% unless post.image %} style="min-height:250px;background:#333;" {% endunless %}>
+        
+    {% unless post.image %}
+    
+       <a href="{{site.baseurl}}{{post.url}}"  class="d-block p-3">
+        <h2 class="card-title title text-white mb-3">{{ post.title }}</h2>         
+           <small class="d-block text-muted">{{ post.content | strip_html | truncatewords:25 }}</small>
+         <div class="moredate ml-2 mb-2">
+             <a href="{{site.baseurl}}{{post.url}}" class="text-white"><i class="fa"></i>{{ post.date | date: '%d/%m/%Y' }}</a>
+	 </div>
+        <div class="more mr-2 mb-2">                
+		<a href="{{site.baseurl}}{{post.url}}"><i class="fa fa-arrow-circle-right text-white" aria-hidden="true"></i></a>
+        </div> 
+
+        </a>
+        
+    {% endunless %}
+        
+    {% if post.image %} 
+    
+    <div class="wrapcat">
+
+         <span class="postdate">
+             <a href="{{site.baseurl}}{{post.url}}" class="text-dark"><i class="fa"></i>{{ post.date | date: '%d/%m/%Y' }}</a>
+	 </span>
+
+         <span class="gotopost">
+             <a href="{{site.baseurl}}{{post.url}}" class="text-dark"><i class="fa fa-arrow-circle-right"></i>Abrir</a>
+         </span> 
+
+        <div class="showcat">
+            {% for category in post.categories %}
+              <a class="btn btn-sm btn-primary mb-1" href="{{site.baseurl}}/categorias.html#{{ category | downcase }}">
+                {{ category }}
+              </a>
+            {% endfor %}
+
+            {% for tag in post.tags %}
+              <a class="btn btn-sm btn-secondary mb-1" href="{{site.baseurl}}/marcadores.html#{{ tag | downcase }}">
+                {{ tag }}
+              </a>
+            {% endfor %}
+        </div>
+
+    </div>
+    
+        <a href="{{site.baseurl}}{{post.url}}">
+         
+        <img class="card-img lozad" data-src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ post.image | absolute_url }}{% endif %}" alt="{{ post.title }}">             
+            <div class="notraco">
+                <h2 class="card-title title">{{ post.title }}</h2>
+
+                <div class="more">                
+                <i class="fa fa-arrow-circle-right text-muted" aria-hidden="true"></i>
+                </div>
+
+            </div>
+            
+         </a>
+    
+    {% endif %}
+   
+</div>
