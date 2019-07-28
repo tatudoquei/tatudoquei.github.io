@@ -1,1 +1,1 @@
-Nada vai mudar, eles disseram.
+Nada vai mudar... disseram.
