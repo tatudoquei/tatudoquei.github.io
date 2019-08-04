@@ -10,6 +10,8 @@ Nada vai mudar... disseram. As instituições continuariam funcionando e nossa
 sólida democracia não seria afetada... replicaram. A corrupção seria
 extirpada... garantiram. Estariam certos?
 
+Foi assim que começou o [Tá tudo ok](https://tatudoquei.github.io/).
+
 ## Objetivo
 
 Documentar os retrocessos causados pelo governo Bolsonaro da eleição ao fim.
