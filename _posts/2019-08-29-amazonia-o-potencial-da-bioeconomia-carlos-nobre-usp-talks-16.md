@@ -12,5 +12,5 @@ category:
 
 Como desenvolver a Amazônia sem destruí-la? Como fomentar o desenvolvimento social e econômico da região sem colocar a floresta abaixo para isso? Agropecuária, mineração e conservação ambiental podem conviver pacificamente no mesmo espaço?Esta foi a fala do pesquisador Carlos Nobre, um dos
 
-**Link:** [https://www.youtube.com/watch?v=k-AOoopfwwA](https://www.youtube.com/watch?v=k-AOoopfwwA)
+**Link:** [https://www.youtube.com/watch](https://www.youtube.com/watch)
 
