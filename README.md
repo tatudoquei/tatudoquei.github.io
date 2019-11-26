@@ -31,5 +31,4 @@ ainda.
 
 ## Afazeres
 
-- [x] Implementar categorias (avisamos, resistimos, etc)
 - [ ] Implementar marcadores (meio ambiente, saúde, etc)
