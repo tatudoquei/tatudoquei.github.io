@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-11-25 05:13:00
 pub_date: 2019-11-25 05:13:00
-time_added: 2019-11-26 20:13:17
+time_added: 2019-11-27 20:49:06
 category: 
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/05/educacao-615x300.jpg
 ---
