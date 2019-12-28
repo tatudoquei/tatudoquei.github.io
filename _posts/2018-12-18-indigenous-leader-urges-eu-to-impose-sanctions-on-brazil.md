@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2018-12-18 06:00:49
 pub_date: 2018-12-18 06:00:49
-time_added: 2018-12-25 10:42:53
+time_added: 2019-12-23 21:19:31
 category: resistimos
 image: https://i.guim.co.uk/img/media/a1e8b3ac458b5d8c4ea27fbd6f8961f380808af4/0_193_4928_2957/master/4928.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=554b8b51d63467bc6747281c45d80de7
 ---

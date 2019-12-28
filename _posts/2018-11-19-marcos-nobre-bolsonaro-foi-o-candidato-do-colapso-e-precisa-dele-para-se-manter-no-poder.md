@@ -6,12 +6,12 @@ title: >-
 author: Tatu D'Oquei
 date: 2018-11-19 10:28:10
 pub_date: 2018-11-19 10:28:10
-time_added: 2018-11-19 20:10:30
+time_added: 2019-12-23 21:19:30
 category: refletimos
-image: https://ep00.epimg.net/brasil/imagenes/2018/11/14/politica/1542228843_630245_1542229014_rrss_normal.jpg
+image: https://arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/BIVK5MBMFCMAMO66RZ4LX2RI5Y.jpg
 ---
 
-Precisamos distinguir o que é ameaça que vem do Governo Bolsonaro e ameaças que vêm da base da sociedade, de pessoas mais radicais e que se sentem autorizadas a fazer coisas que antes não faziam. As pessoas estão se sentindo angustiadas porque, em primeiro lugar, as ameaças são reais.
+As forças políticas que não estão alinhadas ao governo de Jair Bolsonaro precisam se unir em torno de uma frente democrática para resistir às suas investidas autoritárias ao mesmo tempo em que buscam repactuar as regras da democracia brasileira.
 
 **Link:** [https://brasil.elpais.com/brasil/2018/11/14/politica/1542228843_630245.html](https://brasil.elpais.com/brasil/2018/11/14/politica/1542228843_630245.html)
 

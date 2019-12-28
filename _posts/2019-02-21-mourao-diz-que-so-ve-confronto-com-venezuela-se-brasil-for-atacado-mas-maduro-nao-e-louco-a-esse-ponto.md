@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-02-21 23:00:00
 pub_date: 2019-02-21 23:00:00
-time_added: 2019-02-23 19:29:10
+time_added: 2019-12-23 21:21:00
 category: refletimos
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/13D70/production/_105746218_gen_0200.jpg
 ---

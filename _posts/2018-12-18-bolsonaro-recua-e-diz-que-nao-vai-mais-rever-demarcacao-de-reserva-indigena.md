@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2018-12-18 18:33:00
 pub_date: 2018-12-18 18:33:00
-time_added: 2018-12-19 23:40:24
+time_added: 2019-12-23 21:15:16
 category: recuadas
 image: https://estaticos.globoradio.globo.com/fotos/2018/12/9e9cc50e-b39e-4612-889b-512ff4bc5ac1.png.640x360_q75_box-0%2C18%2C671%2C395_crop_detail.jpg
 ---

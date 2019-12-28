@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2018-12-18 16:16:00
 pub_date: 2018-12-18 16:16:00
-time_added: 2018-12-18 22:37:57
+time_added: 2019-12-23 21:41:23
 category: refletimos
 image: https://conteudo.imguol.com.br/blogs/61/files/2018/12/espantalho-615x300.jpg
 ---

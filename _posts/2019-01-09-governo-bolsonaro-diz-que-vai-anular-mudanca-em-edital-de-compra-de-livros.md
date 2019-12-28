@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-01-09 18:04:00
 pub_date: 2019-01-09 18:04:00
-time_added: 2019-01-09 23:56:46
+time_added: 2019-12-23 21:15:16
 category: recuadas
 image: https://f.i.uol.com.br/fotografia/2019/01/07/15468870645c339f981ae00_1546887064_3x2_rt.jpg
 ---

@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2018-10-29 12:01:40
 pub_date: 2018-10-29 12:01:40
-time_added: 2018-10-31 22:28:33
+time_added: 2019-12-23 21:19:29
 category: avisamos
 image: https://img.estadao.com.br/resources/jpg/0/2/1540814162820.jpg
 ---

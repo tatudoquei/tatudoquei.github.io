@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-01-07 01:00:00
 pub_date: 2019-01-07 01:00:00
-time_added: 2019-01-09 00:03:08
+time_added: 2019-12-23 21:15:16
 category: recuadas
 image: https://painel.blogfolha.uol.com.br/files/2019/01/maismedicos.jpg
 ---

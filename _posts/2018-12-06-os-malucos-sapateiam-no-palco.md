@@ -6,9 +6,9 @@ title: >-
 author: Tatu D'Oquei
 date: 2018-12-06 18:03:53
 pub_date: 2018-12-06 18:03:53
-time_added: 2018-12-07 20:51:59
+time_added: 2019-12-23 21:15:16
 category: refletimos
-image: https://ep00.epimg.net/brasil/imagenes/2018/12/06/politica/1544113288_218824_1544115291_rrss_normal.jpg
+image: https://arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/3QNITZDZPLQKW2DQZUZAKYONZM.jpg
 ---
 
 Nas últimas décadas existiu um consenso de que, diante dos absurdos que eram ditos nas redes e em outros espaços, a melhor estratégia era não responder.

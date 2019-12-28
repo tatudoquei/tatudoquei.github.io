@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-02-19 17:13:00
 pub_date: 2019-02-19 17:13:00
-time_added: 2019-02-20 08:50:10
+time_added: 2019-12-23 21:37:47
 category: refletimos
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/02/bebi-615x300.jpg
 ---

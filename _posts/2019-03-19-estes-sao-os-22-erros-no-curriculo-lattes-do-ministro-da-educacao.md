@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-03-19 23:00:00
 pub_date: 2019-03-19 23:00:00
-time_added: 2019-03-22 07:17:09
+time_added: 2019-12-23 21:19:33
 category: refletimos
 image: https://www.nexojornal.com.br/incoming/imagens/O-ministro-da-Educa%C3%A7%C3%A3o-Ricardo-V%C3%A9lez-Rodr%C3%ADguez/ALTERNATES/LANDSCAPE_720/O%20ministro%20da%20Educa%C3%A7%C3%A3o,%20Ricardo%20V%C3%A9lez%20Rodr%C3%ADguez
 ---

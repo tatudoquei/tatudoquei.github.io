@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-01-13 01:00:00
 pub_date: 2019-01-13 01:00:00
-time_added: 2019-01-13 17:58:31
+time_added: 2019-12-23 21:19:31
 category: resistimos
 image: https://f.i.uol.com.br/fotografia/2019/01/12/15472883485c39bf1c0558b_1547288348_3x2_rt.jpg
 ---

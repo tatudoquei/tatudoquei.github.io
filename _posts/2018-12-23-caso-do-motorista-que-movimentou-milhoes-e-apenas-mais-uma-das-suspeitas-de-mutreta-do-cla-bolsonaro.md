@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2018-12-23 10:19:00
 pub_date: 2018-12-23 10:19:00
-time_added: 2018-12-23 20:02:35
+time_added: 2019-12-21 09:00:03
 category: avisamos
 image: https://theintercept.imgix.net/wp-uploads/sites/1/2018/12/queiroz-1545508488.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800
 ---

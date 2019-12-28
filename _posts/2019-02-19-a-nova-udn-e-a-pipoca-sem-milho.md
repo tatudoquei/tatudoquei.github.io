@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-02-19 05:01:00
 pub_date: 2019-02-19 05:01:00
-time_added: 2019-02-20 08:51:05
+time_added: 2019-12-23 21:37:47
 category: refletimos
 image: https://s2.glbimg.com/p3Ew2Uss3R3SK-pNRO35ORAO8WQ=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/01/10/80273875_bsb_-_brasilia_-_brasil_-_12-12-2018_-_pa_-_entrevista_coletiva_no_ccbb_onde_esta_monta.jpg
 ---

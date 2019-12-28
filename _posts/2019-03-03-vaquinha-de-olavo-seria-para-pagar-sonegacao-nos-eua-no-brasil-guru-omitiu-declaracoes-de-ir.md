@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-03-03 13:45:20
 pub_date: 2019-03-03 13:45:20
-time_added: 2019-03-06 11:37:30
+time_added: 2019-12-23 21:21:00
 category: refletimos
 image: https://www.revistaforum.com.br/wp-content/uploads/2018/11/olavo-eduardo-bolsonaro-e1541410345621.jpg
 ---

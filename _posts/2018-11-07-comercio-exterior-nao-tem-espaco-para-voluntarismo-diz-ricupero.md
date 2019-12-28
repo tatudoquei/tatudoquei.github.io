@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2018-11-07 10:00:16
 pub_date: 2018-11-07 10:00:16
-time_added: 2018-11-09 18:37:14
+time_added: 2019-12-23 21:19:30
 category: refletimos
 image: https://abrilveja.files.wordpress.com/2016/12/rubens_ricupero_min_bc-1344070.jpg?quality=70&strip=info&w=600&h=400&crop=1
 ---

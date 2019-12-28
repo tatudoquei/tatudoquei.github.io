@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-01-11 16:31:00
 pub_date: 2019-01-11 16:31:00
-time_added: 2019-01-13 17:46:16
+time_added: 2019-12-23 21:41:24
 category: refletimos
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/01/LorenzoniMoscas_redes_07jan2019.jpg
 ---

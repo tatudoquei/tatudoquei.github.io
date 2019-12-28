@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-02-20 20:31:00
 pub_date: 2019-02-20 20:31:00
-time_added: 2019-02-21 10:07:09
+time_added: 2019-12-23 21:37:47
 category: refletimos
 image: https://imgsapp2.correiobraziliense.com.br/app/noticia_127983242361/2019/02/20/738801/20190220174626229501a.jpg
 ---

@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2018-12-18 03:30:00
 pub_date: 2018-12-18 03:30:00
-time_added: 2018-12-18 22:36:24
+time_added: 2019-12-23 21:19:31
 category: resistimos
 image: https://ogimg.infoglobo.com.br/in/23312479-f88-69b/FT1086A/652/24834938_BsbBrasiliaBrasil10-12-2008PAPlenario-do-STF-durante-o-julgamento-da-d.jpg
 ---

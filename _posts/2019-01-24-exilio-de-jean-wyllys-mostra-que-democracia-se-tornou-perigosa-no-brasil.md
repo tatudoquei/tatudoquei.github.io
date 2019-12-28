@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-01-24 16:37:00
 pub_date: 2019-01-24 16:37:00
-time_added: 2019-01-27 21:56:57
+time_added: 2019-12-23 21:37:43
 category: refletimos
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/01/jean-615x300.jpg
 ---

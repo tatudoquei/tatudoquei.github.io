@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-01-03 23:24:12
 pub_date: 2019-01-03 23:24:12
-time_added: 2019-01-09 00:01:03
+time_added: 2019-12-23 21:41:24
 category: refletimos
 image: https://www.revistaforum.com.br/wp-content/uploads/2018/12/ricardo-sales.jpg
 ---

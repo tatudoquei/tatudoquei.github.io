@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-01-09 09:50:00
 pub_date: 2019-01-09 09:50:00
-time_added: 2019-01-11 07:26:02
+time_added: 2019-12-23 21:41:24
 category: refletimos
 image: https://conteudo.imguol.com.br/blogs/137/files/2019/01/umberto-eco-615x300.jpg
 ---

@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-02-10 03:00:00
 pub_date: 2019-02-10 03:00:00
-time_added: 2019-02-12 23:54:35
+time_added: 2019-12-23 21:37:46
 category: refletimos
 image: https://conteudo.imguol.com.br/c/noticias/b8/2019/01/21/sistema-s-senai-sesi-sebrae-senac-18dez2018---fachada-do-senac-do-sistema-s-em-salvador-ba-nesta-terca-feira-18-o-futuro-ministro-da-economia-paulo-guedes-disse-que-instituicoes-do-1548116322349_v2_615x300.jpg
 ---

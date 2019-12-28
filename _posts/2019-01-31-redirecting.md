@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-01-31 03:39:09
 pub_date: 2019-01-31 03:39:09
-time_added: 2019-02-01 22:51:53
+time_added: 2019-12-23 21:37:44
 category: refletimos
 image: https://politica.estadao.com.br/blogs/estadao-verifica/wp-content/uploads/sites/690/2019/01/jean-wyllys.jpg
 ---

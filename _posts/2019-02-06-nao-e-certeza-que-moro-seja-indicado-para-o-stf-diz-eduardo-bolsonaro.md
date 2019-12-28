@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-02-06 20:10:42
 pub_date: 2019-02-06 20:10:42
-time_added: 2019-02-10 00:13:09
+time_added: 2019-12-23 21:37:45
 category: refletimos
 image: https://i0.wp.com/apublica.org/wp-content/uploads/2019/02/06022019-nao-e-certeza-que-moro-seja-indicado-para-o-stf-diz-eduardo-bolsonaro-img2.jpg?fit=1140%2C760&ssl=1
 ---

@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-03-12 17:11:14
 pub_date: 2019-03-12 17:11:14
-time_added: 2019-03-18 19:45:49
+time_added: 2019-12-23 21:21:01
 category: refletimos
 image: https://www.valor.com.br/sites/all/themes/basic/images/facebook/valor-big.jpg
 ---

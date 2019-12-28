@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2018-11-20 06:07:00
 pub_date: 2018-11-20 06:07:00
-time_added: 2018-11-22 22:18:52
+time_added: 2019-12-23 21:15:15
 category: refletimos
 image: https://www3.redetv.uol.com.br/blog/reinaldo/wp-content/themes/layout/assets/images/reinaldo-thumb.jpg
 ---

@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-02-17 03:30:00
 pub_date: 2019-02-17 03:30:00
-time_added: 2019-02-17 23:44:13
+time_added: 2019-12-23 21:37:46
 category: refletimos
 image: https://ogimg.infoglobo.com.br/in/23459152-7df-415/FT1086A/652/INFOCHPDPICT000080888672.jpg
 ---

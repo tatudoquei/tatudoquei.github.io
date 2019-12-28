@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-01-24 15:39:00
 pub_date: 2019-01-24 15:39:00
-time_added: 2019-01-24 21:22:41
+time_added: 2019-12-23 21:19:31
 category: resistimos
 image: https://conteudo.imguol.com.br/c/noticias/9d/2019/01/24/17mai2018---o-vereador-david-miranda-psol-durante-sessao-na-camara-municipal-do-rio-de-janeiro-1548354067483_v2_615x300.jpg
 ---

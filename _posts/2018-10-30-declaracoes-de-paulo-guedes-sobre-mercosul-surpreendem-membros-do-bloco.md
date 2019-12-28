@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2018-10-30 06:37:00
 pub_date: 2018-10-30 06:37:00
-time_added: 2018-10-30 17:14:57
+time_added: 2019-12-23 21:19:29
 category: avisamos
 image: https://conteudo.imguol.com.br/c/noticias/a5/2018/10/19/paulo-guedes-economista-da-campanha-de-bolsonaro-1539985859513_v2_615x300.jpg
 ---

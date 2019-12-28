@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-02-23 18:40:00
 pub_date: 2019-02-23 18:40:00
-time_added: 2019-02-24 15:12:47
+time_added: 2019-12-23 21:21:00
 category: refletimos
 image: https://ogimg.infoglobo.com.br/in/23476841-41e-64b/FT1086A/652/salles2.jpg
 ---

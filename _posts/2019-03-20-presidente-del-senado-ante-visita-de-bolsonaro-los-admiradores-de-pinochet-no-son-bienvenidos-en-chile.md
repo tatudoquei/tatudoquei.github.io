@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-03-20 18:45:00
 pub_date: 2019-03-20 18:45:00
-time_added: 2019-03-24 07:10:59
+time_added: 2019-12-23 21:19:33
 category: resistimos
 image: https://www.cnnchile.com/_templates/globals/img/logo.png
 ---

@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-01-16 10:33:00
 pub_date: 2019-01-16 10:33:00
-time_added: 2019-01-17 23:44:28
+time_added: 2019-12-23 21:41:24
 category: refletimos
 image: http://ambiencia.blogfolha.uol.com.br/files/2019/01/WhatsApp-Image-2019-01-15-at-19.57.55.jpeg
 ---

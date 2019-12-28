@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2018-11-14 22:55:00
 pub_date: 2018-11-14 22:55:00
-time_added: 2018-11-15 18:49:07
+time_added: 2019-12-23 21:19:30
 category: refletimos
 image: https://conteudo.imguol.com.br/blogs/61/files/2018/11/bolsos.jpg
 ---

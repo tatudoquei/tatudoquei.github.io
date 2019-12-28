@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-18 22:00:00
 pub_date: 2019-05-18 22:00:00
 time_added: 2019-05-20 22:36:27
-category: 
+category: recuadas
 ---
 
 Pressão de prefeito impõe nova derrota ao ministro do Meio Ambiente, que enfrenta um inferno astral de bronca de antecessores e constrangimento com doadores do Fundo Amazônia e CGU DO OC – O ministro do Meio Ambiente, Ricardo Salles, precisou engolir o acarajé.

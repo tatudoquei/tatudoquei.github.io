@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-31 00:53:30
 pub_date: 2019-10-31 00:53:30
 time_added: 2019-10-31 08:56:45
-category: 
+category: recuadas
 image: http://p2.trrsf.com/image/fget/cf/800/450/middle/s1.trrsf.com/atm/3/core/_img/terra-logo-white-bg-v3.jpg
 ---
 

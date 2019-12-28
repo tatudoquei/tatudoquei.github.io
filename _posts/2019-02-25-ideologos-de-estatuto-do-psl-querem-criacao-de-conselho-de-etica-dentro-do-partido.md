@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-02-25 01:00:00
 pub_date: 2019-02-25 01:00:00
-time_added: 2019-02-27 01:28:44
+time_added: 2019-12-23 21:21:00
 category: refletimos
 image: https://painel.blogfolha.uol.com.br/files/2018/11/bivar-2.jpg
 ---

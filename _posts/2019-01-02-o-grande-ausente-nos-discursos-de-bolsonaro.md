@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-01-02 18:01:09
 pub_date: 2019-01-02 18:01:09
-time_added: 2019-01-02 01:17:12
+time_added: 2019-12-23 21:41:23
 category: refletimos
 image: https://ep00.epimg.net/brasil/imagenes/2019/01/02/opinion/1546384646_676194_1546385041_rrss_normal.jpg
 ---

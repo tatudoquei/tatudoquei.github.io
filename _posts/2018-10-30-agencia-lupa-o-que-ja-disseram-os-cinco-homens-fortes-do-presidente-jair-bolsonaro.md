@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2018-10-30 10:00:16
 pub_date: 2018-10-30 10:00:16
-time_added: 2018-10-31 00:34:29
+time_added: 2019-12-23 21:19:29
 category: refletimos
 image: https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2018/10/MinistrosBolsonaro.jpg
 ---

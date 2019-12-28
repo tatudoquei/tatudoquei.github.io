@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-01-27 23:49:23
 pub_date: 2019-01-27 23:49:23
-time_added: 2019-01-31 22:07:38
+time_added: 2019-12-23 21:37:44
 category: refletimos
 image: http://agenciambrasil.com.br/wp-content/uploads/2019/01/ciro-benev-guedes-bolso.jpeg
 ---

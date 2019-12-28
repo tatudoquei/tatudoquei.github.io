@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-01-28 06:00:58
 pub_date: 2019-01-28 06:00:58
-time_added: 2019-01-29 23:49:04
+time_added: 2019-12-23 21:37:44
 category: refletimos
 image: https://static.poder360.com.br/2019/01/TCU-Jose-Mucio-Monteiro-Poder360-CafeDaManha-320-1-1200x630.jpg
 ---

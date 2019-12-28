@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2018-12-27 15:17:26
 pub_date: 2018-12-27 15:17:26
-time_added: 2018-12-28 22:45:00
+time_added: 2019-12-23 21:19:31
 category: resistimos
 image: https://abrilveja.files.wordpress.com/2018/12/tulio-gadelha-alexandre-frota.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

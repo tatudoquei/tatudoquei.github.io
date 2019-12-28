@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-02-28 17:19:39
 pub_date: 2019-02-28 17:19:39
-time_added: 2019-03-06 22:24:53
+time_added: 2019-12-23 21:21:00
 category: refletimos
 image: https://abrilveja.files.wordpress.com/2019/02/mundo-ernesto-araujo-juan-guaido.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

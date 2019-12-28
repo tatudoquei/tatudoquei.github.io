@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-02-16 11:37:00
 pub_date: 2019-02-16 11:37:00
-time_added: 2019-02-27 11:27:02
+time_added: 2019-12-23 21:21:00
 category: refletimos
 image: https://f.i.uol.com.br/fotografia/2019/02/16/15503278525c68202ca5dd3_1550327852_3x2_xl.jpg
 ---

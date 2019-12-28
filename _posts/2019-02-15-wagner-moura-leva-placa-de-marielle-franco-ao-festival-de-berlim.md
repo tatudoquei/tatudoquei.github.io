@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-02-15 14:14:00
 pub_date: 2019-02-15 14:14:00
-time_added: 2019-02-16 09:21:05
+time_added: 2019-12-23 21:19:31
 category: resistimos
 image: https://ogimg.infoglobo.com.br/in/23456063-940-daf/FT1086A/652/wagner-moura-margihella.jpg
 ---

@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-01-10 15:18:26
 pub_date: 2019-01-10 15:18:26
-time_added: 2019-01-12 11:52:42
+time_added: 2019-12-23 21:19:31
 category: resistimos
 image: http://psol50.org.br/wp-content/uploads/2018/09/capa-546x365.png
 ---

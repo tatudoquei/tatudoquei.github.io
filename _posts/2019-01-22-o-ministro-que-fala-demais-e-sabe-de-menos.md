@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-01-22 20:29:00
 pub_date: 2019-01-22 20:29:00
-time_added: 2019-01-24 21:20:04
+time_added: 2019-12-23 21:41:25
 category: refletimos
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/01/RicardoSallesPerfil_redes_22jan2019.jpg
 ---

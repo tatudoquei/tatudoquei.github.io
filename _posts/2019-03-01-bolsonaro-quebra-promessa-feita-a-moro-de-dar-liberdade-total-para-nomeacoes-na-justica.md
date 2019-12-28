@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-03-01 08:13:00
 pub_date: 2019-03-01 08:13:00
-time_added: 2019-03-04 12:41:08
+time_added: 2019-12-23 21:15:17
 category: recuadas
 image: https://ogimg.infoglobo.com.br/in/22145283-fbe-27d/FT1086A/652/72263543_RI-Rio-de-Janeiro-RJ-16-10-20172018-Brasil-do-Amanha-Ilona-Szabo-instituto-igarape-L.jpg
 ---

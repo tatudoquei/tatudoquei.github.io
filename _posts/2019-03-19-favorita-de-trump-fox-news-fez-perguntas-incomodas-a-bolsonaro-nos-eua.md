@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-03-19 10:26:00
 pub_date: 2019-03-19 10:26:00
-time_added: 2019-03-22 08:01:41
+time_added: 2019-12-23 21:19:33
 category: refletimos
 image: https://ogimg.infoglobo.com.br/in/23533680-0b7-fca/FT1086A/652/bolsonarofox.jpg
 ---

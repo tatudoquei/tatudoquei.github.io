@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-02-21 06:00:00
 pub_date: 2019-02-21 06:00:00
-time_added: 2019-02-24 02:51:50
+time_added: 2019-12-23 21:37:47
 category: refletimos
 image: https://epoca.globo.com/23469275-980-1b7/FT1086A/652/80906923_BSBBrasiliaBrasil01-02-2019PAPosse-dos-Deputados-Fe.jpg
 ---

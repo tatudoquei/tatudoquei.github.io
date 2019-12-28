@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-02-28 19:06:00
 pub_date: 2019-02-28 19:06:00
-time_added: 2019-03-07 00:22:50
+time_added: 2019-12-23 21:21:00
 category: refletimos
 image: https://s3.amazonaws.com/static-colunistas.gazetadopovo.com.br/wp-content/uploads/sites/222/2019/02/28200534/stroessner.jpg
 ---

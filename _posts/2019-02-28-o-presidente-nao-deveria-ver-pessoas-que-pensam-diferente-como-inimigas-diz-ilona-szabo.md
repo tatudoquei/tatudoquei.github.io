@@ -1,12 +1,12 @@
 ---
 layout: post
-item_id: 2510775238
+item_id: 2513785427
 title: >-
     'O presidente não deveria ver pessoas que pensam diferente como inimigas', diz Ilona Szabó
 author: Tatu D'Oquei
 date: 2019-02-28 19:41:00
 pub_date: 2019-02-28 19:41:00
-time_added: 2019-03-04 12:44:11
+time_added: 2019-12-23 21:21:00
 category: refletimos
 ---
 

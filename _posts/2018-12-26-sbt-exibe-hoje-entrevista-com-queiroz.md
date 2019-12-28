@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2018-12-26 06:10:04
 pub_date: 2018-12-26 06:10:04
-time_added: 2018-12-27 00:30:38
+time_added: 2019-12-23 21:41:23
 category: refletimos
 image: https://politica.estadao.com.br/blogs/coluna-do-estadao/wp-content/uploads/sites/352/2018/09/FLAVIO-BOLSONARO-11.jpg
 ---

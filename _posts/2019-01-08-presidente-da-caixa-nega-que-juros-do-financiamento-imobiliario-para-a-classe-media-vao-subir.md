@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-01-08 15:51:08
 pub_date: 2019-01-08 15:51:08
-time_added: 2019-01-08 21:21:43
+time_added: 2019-12-23 21:15:16
 category: recuadas
 image: https://s2.glbimg.com/JPYyy1THSUGb_vwNFpXYiNw90as=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/Q/w/hLuixoTkWG4pTC0E4USA/pedro-guimaraes-caixa.jpg
 ---

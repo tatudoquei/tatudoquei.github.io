@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2018-11-05 17:16:00
 pub_date: 2018-11-05 17:16:00
-time_added: 2018-11-06 00:25:20
+time_added: 2019-12-23 21:19:30
 category: avisamos
 image: https://f.i.uol.com.br/fotografia/2018/11/05/15414491185be0a59e9319f_1541449118_3x2_rt.jpg
 ---

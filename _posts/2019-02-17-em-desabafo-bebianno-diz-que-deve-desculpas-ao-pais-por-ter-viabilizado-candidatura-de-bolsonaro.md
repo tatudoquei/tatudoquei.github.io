@@ -6,12 +6,12 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-02-17 12:57:36
 pub_date: 2019-02-17 12:57:36
-time_added: 2019-02-17 23:45:44
+time_added: 2019-12-23 21:37:46
 category: refletimos
-image: https://s2.glbimg.com/TCnvCPynmg-fTfrSEKjWVYhyNlc=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2019/02/16/bebianno.jpg
+image: https://s2.glbimg.com/v5Xah3cK5n52qrVO7SA8i9CcIaI=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/J/a/EaghyyRsqbZUyfLFWS7Q/gerson-camarotti.png
 ---
 
-"Preciso pedir desculpas ao Brasil por ter viabilizado a candidatura de Bolsonaro. Nunca imaginei que ele seria um presidente tão fraco", disse Bebianno para um aliado, numa referência à influência no rumos do governo dos filhos do presidente, especialmente o vereador Carlos Bolsonaro.
+"Preciso pedir desculpas ao Brasil por ter viabilizado a candidatura de Bolsonaro. Nunca imaginei que ele seria um presidente tão fraco", disse Bebianno para um aliado, numa referência à influência dos filhos do presidente no rumos do governo, especialmente o vereador Carlos Bolsonaro.
 
 **Link:** [https://g1.globo.com/politica/blog/gerson-camarotti/post/2019/02/17/em-desabafo-bebianno-diz-que-deve-desculpas-ao-pais-por-ter-viabilizado-candidatura-de-bolsonaro.ghtml](https://g1.globo.com/politica/blog/gerson-camarotti/post/2019/02/17/em-desabafo-bebianno-diz-que-deve-desculpas-ao-pais-por-ter-viabilizado-candidatura-de-bolsonaro.ghtml)
 

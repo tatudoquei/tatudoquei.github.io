@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-03-20 09:57:52
 pub_date: 2019-03-20 09:57:52
-time_added: 2019-03-24 07:09:28
+time_added: 2019-12-23 21:19:33
 category: refletimos
 image: http://www.diretodaciencia.com/wp-content/uploads/2017/05/fisc-bahia2.jpg
 ---

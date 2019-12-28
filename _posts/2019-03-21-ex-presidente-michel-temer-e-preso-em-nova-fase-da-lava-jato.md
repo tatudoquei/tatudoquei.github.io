@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-03-21 10:52:00
 pub_date: 2019-03-21 10:52:00
-time_added: 2019-03-22 07:17:53
+time_added: 2019-12-23 21:19:33
 category: refletimos
 image: https://s2.glbimg.com/BhEmRaB6qsox7jwnt-peLb-FbfU=/780x440/e.glbimg.com/og/ed/f/original/2016/11/09/temer_beto_barata_pr.jpg
 ---

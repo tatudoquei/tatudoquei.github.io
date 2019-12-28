@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2018-12-07 17:29:00
 pub_date: 2018-12-07 17:29:00
-time_added: 2018-12-08 15:54:20
+time_added: 2019-12-23 21:15:16
 category: refletimos
 image: https://conteudo.imguol.com.br/blogs/61/files/2018/12/onyx2-615x300.jpg
 ---

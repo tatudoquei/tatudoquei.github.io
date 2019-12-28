@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-03-20 12:38:47
 pub_date: 2019-03-20 12:38:47
-time_added: 2019-03-22 08:02:06
+time_added: 2019-12-23 21:15:17
 category: recuadas
 image: https://img.estadao.com.br/resources/jpg/5/1/1553085339315.jpg
 ---

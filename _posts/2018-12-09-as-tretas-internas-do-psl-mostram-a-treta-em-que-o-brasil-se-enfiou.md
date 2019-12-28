@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2018-12-09 10:14:00
 pub_date: 2018-12-09 10:14:00
-time_added: 2018-12-09 22:23:02
+time_added: 2019-12-23 21:15:16
 category: refletimos
 image: https://theintercept.imgix.net/wp-uploads/sites/1/2018/12/pslinho-1544317604.jpeg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800
 ---

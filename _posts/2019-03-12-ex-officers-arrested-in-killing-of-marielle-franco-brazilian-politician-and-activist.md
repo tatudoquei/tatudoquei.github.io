@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-03-12 14:50:08
 pub_date: 2019-03-12 14:50:08
-time_added: 2019-03-18 19:45:57
+time_added: 2019-12-23 21:19:32
 category: refletimos
 image: https://static01.nyt.com/images/2019/03/12/world/12brazil2/12brazil2-facebookJumbo.jpg
 ---

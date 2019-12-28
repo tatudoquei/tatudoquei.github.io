@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-02-14 19:23:00
 pub_date: 2019-02-14 19:23:00
-time_added: 2019-02-16 00:50:12
+time_added: 2019-12-23 21:19:31
 category: resistimos
 image: https://img.buzzfeed.com/buzzfeed-static/static/2019-02/14/12/enhanced/buzzfeed-prod-web-03/original-605-1550165586-2.jpg?crop=1200:628;0,0
 ---

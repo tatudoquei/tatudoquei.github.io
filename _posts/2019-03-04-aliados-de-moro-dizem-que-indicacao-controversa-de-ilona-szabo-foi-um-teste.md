@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-03-04 00:54:00
 pub_date: 2019-03-04 00:54:00
-time_added: 2019-03-06 05:08:38
+time_added: 2019-12-23 21:21:00
 category: refletimos
 image: https://painel.blogfolha.uol.com.br/files/2018/12/moro.jpg
 ---

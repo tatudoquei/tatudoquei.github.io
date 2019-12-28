@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2018-12-22 02:02:00
 pub_date: 2018-12-22 02:02:00
-time_added: 2018-12-23 20:04:27
+time_added: 2019-12-23 21:19:31
 category: resistimos
 image: https://theintercept.imgix.net/wp-uploads/sites/1/2018/12/12607583-high-1544643285.jpeg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800
 ---

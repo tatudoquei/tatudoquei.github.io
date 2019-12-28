@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-01-06 15:20:59
 pub_date: 2019-01-06 15:20:59
-time_added: 2019-01-07 21:02:30
+time_added: 2019-12-23 21:41:24
 category: refletimos
 image: https://www.opopular.com.br/polopoly_fs/1.1253521.1546798818!/image/image.jpg_gen/derivatives/landscape_800/image.jpg
 ---

@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-02-22 08:02:00
 pub_date: 2019-02-22 08:02:00
-time_added: 2019-02-23 19:27:08
+time_added: 2019-12-23 21:21:00
 category: refletimos
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/02/flavio_redes_20022019.jpg
 ---

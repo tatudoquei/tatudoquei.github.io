@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-03-21 04:18:14
 pub_date: 2019-03-21 04:18:14
-time_added: 2019-03-22 07:18:24
+time_added: 2019-12-23 21:19:33
 category: refletimos
 image: https://i1.wp.com/noticiabrasilonline.com/wp-content/uploads/2019/03/marcelo-freixo-rodrigo-maia.jpg?fit=1200%2C800&ssl=1
 ---

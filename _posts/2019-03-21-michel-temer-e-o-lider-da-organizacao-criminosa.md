@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-03-21 11:59:50
 pub_date: 2019-03-21 11:59:50
-time_added: 2019-03-22 07:18:14
+time_added: 2019-12-23 21:19:33
 category: refletimos
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2017/10/michel-temer-gabriela-bilo-estadao.jpg
 ---

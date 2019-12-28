@@ -6,9 +6,9 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-02-26 15:08:20
 pub_date: 2019-02-26 15:08:20
-time_added: 2019-02-27 11:34:58
+time_added: 2019-12-23 21:21:00
 category: refletimos
-image: https://i2.wp.com/apublica.org/wp-content/uploads/2019/02/valter-campanato-agencia-brasil.jpg?fit=1140%2C760&ssl=1
+image: https://apublica.org/wp-content/uploads/2019/02/valter-campanato-agencia-brasil.jpg
 ---
 
 Ao chegar eufórico ao gabinete de seu superior para revelar uma ideia que repentinamente lhe viera à cabeça, o tenente-coronel Alexandre Lara de Oliveira foi recebido com uma ducha de água fria.

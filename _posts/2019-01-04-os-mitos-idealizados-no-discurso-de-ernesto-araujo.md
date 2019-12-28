@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-01-04 09:21:00
 pub_date: 2019-01-04 09:21:00
-time_added: 2019-01-05 09:41:24
+time_added: 2019-12-23 21:41:23
 category: refletimos
 image: https://s3.amazonaws.com/static-colunistas.gazetadopovo.com.br/wp-content/uploads/sites/222/2019/01/04091645/ernesto-araujo.jpg
 ---

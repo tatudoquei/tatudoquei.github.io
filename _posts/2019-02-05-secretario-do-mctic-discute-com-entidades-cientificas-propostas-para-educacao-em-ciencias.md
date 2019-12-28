@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-02-05 18:46:58
 pub_date: 2019-02-05 18:46:58
-time_added: 2019-02-07 07:32:54
+time_added: 2019-12-23 21:19:31
 category: resistimos
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/02/reuniao2.jpg
 ---

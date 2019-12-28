@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-03-01 11:38:00
 pub_date: 2019-03-01 11:38:00
-time_added: 2019-03-04 12:41:22
+time_added: 2019-12-23 21:21:00
 category: refletimos
 image: https://conteudo.imguol.com.br/blogs/61/files/2018/12/flafabri-615x300.jpg
 ---

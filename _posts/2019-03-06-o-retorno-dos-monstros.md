@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-03-06 14:54:00
 pub_date: 2019-03-06 14:54:00
-time_added: 2019-03-07 11:39:52
+time_added: 2019-12-23 21:21:01
 category: refletimos
 image: https://conteudo.imguol.com.br/blogs/279/files/2019/03/28bf750de9a32daefcc78152715392ee7cf96600d37913588381feba8a9077e3_5c7848213adff-1-615x300.jpg
 ---

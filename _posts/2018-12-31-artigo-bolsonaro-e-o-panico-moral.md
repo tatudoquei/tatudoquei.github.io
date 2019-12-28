@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2018-12-31 12:53:41
 pub_date: 2018-12-31 12:53:41
-time_added: 2019-01-03 00:03:48
+time_added: 2019-12-23 21:41:23
 category: refletimos
 image: https://ponte.org/wp-content/uploads/2018/12/940768-bolsonaro_3.jpg
 ---

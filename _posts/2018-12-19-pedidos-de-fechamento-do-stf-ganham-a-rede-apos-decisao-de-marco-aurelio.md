@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2018-12-19 20:00:00
 pub_date: 2018-12-19 20:00:00
-time_added: 2018-12-21 07:36:53
+time_added: 2019-12-23 21:41:23
 category: refletimos
 image: https://conteudo.imguol.com.br/6b/2018/10/29/sakamoto---share-1540825181920_956x500.png
 ---

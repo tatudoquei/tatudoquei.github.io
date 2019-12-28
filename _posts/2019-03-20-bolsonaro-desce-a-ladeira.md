@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-03-20 15:08:00
 pub_date: 2019-03-20 15:08:00
-time_added: 2019-03-22 07:15:45
+time_added: 2019-12-23 21:19:33
 category: refletimos
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/03/teste_redes_2003.jpg
 ---

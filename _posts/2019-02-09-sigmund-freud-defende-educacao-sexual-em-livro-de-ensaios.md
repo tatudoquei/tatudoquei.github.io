@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-02-09 19:00:54
 pub_date: 2019-02-09 19:00:54
-time_added: 2019-02-12 23:46:05
+time_added: 2019-12-23 21:37:46
 category: refletimos
 image: https://img.estadao.com.br/resources/jpg/7/4/1549572827547.jpg
 ---

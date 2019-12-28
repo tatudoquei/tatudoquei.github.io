@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2018-11-29 18:58:00
 pub_date: 2018-11-29 18:58:00
-time_added: 2018-11-29 23:10:53
+time_added: 2019-12-23 21:15:16
 category: refletimos
 image: https://www.nexojornal.com.br/incoming/imagens/Bolsonaro_continencia.png/ALTERNATES/LANDSCAPE_720/Bolsonaro_continencia.png
 ---

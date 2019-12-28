@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-01-18 23:05:00
 pub_date: 2019-01-18 23:05:00
-time_added: 2019-01-20 09:03:43
+time_added: 2019-12-23 21:41:24
 category: refletimos
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/01/ComitivaChina_redes_18jan2019.jpg
 ---

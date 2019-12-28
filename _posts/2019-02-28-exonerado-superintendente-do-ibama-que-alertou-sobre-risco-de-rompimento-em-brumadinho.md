@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-02-28 10:33:00
 pub_date: 2019-02-28 10:33:00
-time_added: 2019-03-03 14:07:07
+time_added: 2019-12-23 21:21:00
 category: refletimos
 image: http://www.itatiaia.com.br/admin/Conteudo/noticias/119211/405x270/barragem---foto-uarl.jpg
 ---

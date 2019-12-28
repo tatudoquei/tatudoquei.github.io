@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-02-19 17:01:00
 pub_date: 2019-02-19 17:01:00
-time_added: 2019-02-20 08:24:37
+time_added: 2019-12-23 21:19:32
 category: resistimos
 image: https://conteudo.imguol.com.br/c/noticias/60/2019/02/01/1fev2019---deputados-e-familiares-no-plenario-da-camara-dos-deputados-momentos-antes-da-posse-dos-parlamentares-1549026168544_v2_615x300.jpg
 ---

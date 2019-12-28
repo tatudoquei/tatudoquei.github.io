@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-01-20 00:59:00
 pub_date: 2019-01-20 00:59:00
-time_added: 2019-01-20 22:10:26
+time_added: 2019-12-23 21:41:25
 category: refletimos
 image: https://painel.blogfolha.uol.com.br/files/2019/01/bolsonaro_decreto.jpg
 ---

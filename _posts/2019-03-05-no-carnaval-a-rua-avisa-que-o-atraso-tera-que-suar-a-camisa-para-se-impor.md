@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-03-05 19:08:00
 pub_date: 2019-03-05 19:08:00
-time_added: 2019-03-07 00:57:08
+time_added: 2019-12-23 21:19:32
 category: resistimos
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/03/cerca-615x300.jpg
 ---

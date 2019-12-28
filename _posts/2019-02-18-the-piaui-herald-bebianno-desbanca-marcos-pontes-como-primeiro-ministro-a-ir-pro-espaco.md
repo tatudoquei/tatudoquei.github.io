@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-02-18 16:51:00
 pub_date: 2019-02-18 16:51:00
-time_added: 2019-02-18 23:53:14
+time_added: 2019-12-23 21:37:47
 category: refletimos
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/02/herald_redes_18022019.jpg
 ---

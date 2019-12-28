@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-03-14 21:52:10
 pub_date: 2019-03-14 21:52:10
-time_added: 2019-03-18 20:07:06
+time_added: 2019-12-23 21:19:32
 category: refletimos
 image: http://blogs.correiobraziliense.com.br/nqv/wp-content/uploads/sites/22/2019/03/porcaria.jpg
 ---

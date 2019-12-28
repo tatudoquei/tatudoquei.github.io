@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-02-26 18:12:00
 pub_date: 2019-02-26 18:12:00
-time_added: 2019-02-27 23:45:42
+time_added: 2019-12-23 21:21:00
 category: refletimos
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/02/paraguai-615x300.jpg
 ---

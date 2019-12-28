@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-03-06 09:14:00
 pub_date: 2019-03-06 09:14:00
-time_added: 2019-03-07 00:56:53
+time_added: 2019-12-23 21:21:01
 category: refletimos
 image: https://conteudo.imguol.com.br/blogs/61/files/2018/12/bolsoso-615x300.jpg
 ---

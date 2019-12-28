@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-02-18 18:27:36
 pub_date: 2019-02-18 18:27:36
-time_added: 2019-02-18 23:56:04
+time_added: 2019-12-23 21:19:32
 category: resistimos
 image: https://video-images.vice.com/articles/5c6ae3866936f5000af74888/lede/1550510967135-WhatsApp-Image-2019-02-18-at-140351-1.jpeg?crop=1xw:0.5847xh;0xw,0.2208xh&resize=1200:*
 ---

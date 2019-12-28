@@ -6,12 +6,12 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-01-11 23:00:00
 pub_date: 2019-01-11 23:00:00
-time_added: 2019-01-17 23:46:11
+time_added: 2019-12-23 21:41:24
 category: refletimos
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/CE7F/production/_105136825_painelcampinas.jpg
 ---
 
-Tratada pelo como bode expiatório da má qualidade do ensino público brasileiro, a obra do educador Paulo Freire (1921-1997) pode ser controversa.
+Tratada pelo governo Bolsonaro como bode expiatório da má qualidade do ensino público brasileiro, a obra do educador Paulo Freire (1921-1997) pode ser controversa.
 
 **Link:** [https://www.bbc.com/portuguese/brasil-46830942](https://www.bbc.com/portuguese/brasil-46830942)
 

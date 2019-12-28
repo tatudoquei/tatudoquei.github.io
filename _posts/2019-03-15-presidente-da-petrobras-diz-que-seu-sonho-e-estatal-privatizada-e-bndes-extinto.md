@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-03-15 11:29:00
 pub_date: 2019-03-15 11:29:00
-time_added: 2019-03-17 21:18:18
+time_added: 2019-12-23 21:21:02
 category: refletimos
 image: https://ogimg.infoglobo.com.br/in/23524670-e22-71d/FT1086A/652/81338796_Roberto-Castello-Branco-President-of-Brazilian-Oil-Company-Petrobras-smiles-during-a-press.jpg
 ---

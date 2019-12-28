@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-03-11 20:51:11
 pub_date: 2019-03-11 20:51:11
-time_added: 2019-03-18 19:37:26
+time_added: 2019-12-23 21:19:32
 category: refletimos
 image: https://www.valor.com.br/sites/default/files/gn/18/05/foto01pol-211-tiburi-a6_0_0_755_494.jpg
 ---

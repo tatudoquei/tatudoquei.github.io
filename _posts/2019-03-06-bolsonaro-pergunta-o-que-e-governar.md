@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-03-06 17:13:00
 pub_date: 2019-03-06 17:13:00
-time_added: 2019-03-07 01:00:15
+time_added: 2019-12-23 21:21:01
 category: refletimos
 image: https://conteudo.imguol.com.br/blogs/278/files/2019/03/mirror-471x300.jpg
 ---
