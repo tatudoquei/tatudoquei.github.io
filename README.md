@@ -26,9 +26,4 @@ originais. Os posts estão divididos em quatro categorias:
 - **resistimos:** exemplos de resistência
 - **recuadas:** todas as recuadas
 
-Devido a enorme quantidade de notícias, nem todos os posts estão categorizados
-ainda.
-
-## Afazeres
-
-- [ ] Implementar marcadores (meio ambiente, saúde, etc)
+Devido a enorme quantidade de notícias, nem todos os posts estão categorizados.
