@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-04 01:00:00
 pub_date: 2020-01-04 01:00:00
 time_added: 2020-01-04 19:28:06
-category: 
+category: avisamos
 tags: []
 image: https://f.i.uol.com.br/fotografia/2019/09/24/15693569445d8a7c905fd73_1569356944_3x2_rt.jpg
 ---

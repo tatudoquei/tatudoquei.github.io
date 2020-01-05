@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2020-01-01 23:04:05
 pub_date: 2020-01-01 23:04:05
 time_added: 2020-01-02 00:04:05
-category: 
-tags: []
+category: avisamos
+tags: [bandido bom]
 image: https://www.dw.com/image/47208299_304.jpg
 ---
 
