@@ -8,6 +8,7 @@ date: 2019-05-27 22:00:00
 pub_date: 2019-05-27 22:00:00
 time_added: 2019-05-30 04:51:07
 category: 
+tags: []
 ---
 
 RIO – Fernanda Rodrigues da Silva, aos 32 anos, sonha se tornar médica. Mas ainda falta terminar o ensino médio. Aos 16 anos, ela abandonou os estudos para trabalhar e ajudar os pais, agricultores analfabetos.

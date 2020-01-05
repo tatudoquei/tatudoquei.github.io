@@ -8,6 +8,7 @@ date: 2019-09-13 16:44:51
 pub_date: 2019-09-13 16:44:51
 time_added: 2019-09-15 10:02:02
 category: 
+tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/09/ildeu-e-representante-ministerio-da-economia2.jpg
 ---
 

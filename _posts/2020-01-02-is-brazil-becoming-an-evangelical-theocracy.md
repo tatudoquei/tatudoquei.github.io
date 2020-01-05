@@ -8,6 +8,7 @@ date: 2020-01-02 15:15:25
 pub_date: 2020-01-02 15:15:25
 time_added: 2020-01-04 13:18:34
 category: 
+tags: []
 image: https://sojo.net/sites/default/files/blog/2019-12-20t213954z_1_lynxmpefbj1ta_rtroptp_4_g20-summit.jpeg
 ---
 

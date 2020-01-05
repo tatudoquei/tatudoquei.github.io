@@ -8,6 +8,7 @@ date: 2019-11-01 21:05:34
 pub_date: 2019-11-01 21:05:34
 time_added: 2019-11-01 22:05:34
 category: 
+tags: []
 image: https://renatoterra.blogfolha.uol.com.br/files/2019/11/romario.jpg
 ---
 

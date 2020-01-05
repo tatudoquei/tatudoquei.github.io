@@ -8,6 +8,7 @@ date: 2019-12-02 17:27:00
 pub_date: 2019-12-02 17:27:00
 time_added: 2019-12-03 12:02:43
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/24113548-4c8-b3f/FT1086A/652/Baile17.jpg
 ---
 

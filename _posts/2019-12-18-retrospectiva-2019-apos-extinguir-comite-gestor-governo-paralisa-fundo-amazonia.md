@@ -8,6 +8,7 @@ date: 2019-12-18 11:00:05
 pub_date: 2019-12-18 11:00:05
 time_added: 2019-12-23 11:15:18
 category: 
+tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2019/12/R5-Gilberto-SoaresMMA.jpg
 ---
 

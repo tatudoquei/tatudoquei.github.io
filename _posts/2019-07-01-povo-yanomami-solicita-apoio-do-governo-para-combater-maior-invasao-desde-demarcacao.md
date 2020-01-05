@@ -8,6 +8,7 @@ date: 2019-07-01 03:00:00
 pub_date: 2019-07-01 03:00:00
 time_added: 2019-05-30 08:45:24
 category: 
+tags: []
 image: https://www.socioambiental.org/sites/blog.socioambiental.org/files/styles/twitter-card/public/nsa/rs20040_oficinacacau_garimpo_aereas13-lpr_1.jpg?itok=YML06CRr
 ---
 

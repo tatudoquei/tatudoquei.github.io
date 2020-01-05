@@ -8,6 +8,7 @@ date: 2019-08-03 20:43:06
 pub_date: 2019-08-03 20:43:06
 time_added: 2019-08-05 22:35:46
 category: 
+tags: []
 image: http://www.sbfisica.org.br/v1/home/images/acontece-na-sbf/2019/agosto/acontece-2019-08-03.png
 ---
 

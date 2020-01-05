@@ -8,6 +8,7 @@ date: 2019-02-02 22:02:42
 pub_date: 2019-02-02 22:02:42
 time_added: 2019-02-04 23:42:49
 category: avisamos
+tags: []
 image: https://jornalistaslivres.org/wp-content/uploads/2019/02/Foto-Manato-1024x554.jpg
 ---
 

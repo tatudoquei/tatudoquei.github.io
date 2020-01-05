@@ -8,6 +8,7 @@ date: 2019-07-31 03:34:15
 pub_date: 2019-07-31 03:34:15
 time_added: 2019-08-04 08:00:10
 category: 
+tags: []
 image: http://climainfo.org.br/wp-content/uploads/2019/07/governador-do-Acre.jpg
 ---
 

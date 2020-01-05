@@ -8,6 +8,7 @@ date: 2019-11-12 11:08:00
 pub_date: 2019-11-12 11:08:00
 time_added: 2019-11-12 22:57:24
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/8b/2019/04/24/28mar2019---o-deputado-eduardo-bolsonaro-psl-sp-filho-do-presidente-jair-bolsonaro-1556117196869_v2_750x421.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-03-04 00:54:00
 pub_date: 2019-03-04 00:54:00
 time_added: 2019-12-23 21:21:00
 category: refletimos
+tags: []
 image: https://painel.blogfolha.uol.com.br/files/2018/12/moro.jpg
 ---
 

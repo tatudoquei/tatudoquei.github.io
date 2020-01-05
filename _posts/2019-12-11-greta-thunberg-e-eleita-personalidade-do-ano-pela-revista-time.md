@@ -8,6 +8,7 @@ date: 2019-12-11 08:47:00
 pub_date: 2019-12-11 08:47:00
 time_added: 2019-12-15 00:33:57
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/fd/2019/12/11/a-ativista-greta-thunberg-eleita-personalidade-do-ano-pela-revista-time-1576068421345_v2_750x421.jpg
 ---
 

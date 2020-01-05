@@ -8,6 +8,7 @@ date: 2019-12-27 15:07:59
 pub_date: 2018-01-12 07:33:00
 time_added: 2019-12-27 15:07:59
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2018/01/se-os-bolsonaros-tivessem-guardado-ao-longo-da-vida-100-de-seus-salarios-total-ainda-seria-inferior-a-patrimonio-594x300.jpg
 ---
 

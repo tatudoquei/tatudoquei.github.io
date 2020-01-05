@@ -8,6 +8,7 @@ date: 2019-02-01 00:11:03
 pub_date: 2019-02-01 00:11:03
 time_added: 2019-02-01 22:39:04
 category: avisamos
+tags: []
 image: https://cultura.estadao.com.br/blogs/direto-da-fonte/wp-content/uploads/sites/290/2018/01/fernando-collor-AFP-PHOTO-EVARISTO-SA-460x306.jpg
 ---
 

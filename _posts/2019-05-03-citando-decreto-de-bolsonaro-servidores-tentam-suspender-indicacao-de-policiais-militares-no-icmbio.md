@@ -8,6 +8,7 @@ date: 2019-05-03 09:55:14
 pub_date: 2019-05-03 09:55:14
 time_added: 2019-05-07 06:31:54
 category: 
+tags: []
 image: https://politica.estadao.com.br/blogs/coluna-do-estadao/wp-content/uploads/sites/352/2019/05/ricardo-salles.jpg
 ---
 

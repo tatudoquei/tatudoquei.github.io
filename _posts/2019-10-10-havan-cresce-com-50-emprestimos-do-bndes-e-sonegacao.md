@@ -8,6 +8,7 @@ date: 2019-10-10 21:06:59
 pub_date: 2018-02-08 13:52:36
 time_added: 2019-10-10 21:06:59
 category: 
+tags: []
 image: https://jornalggn.com.br/sites/default/files/capa/destaques-secundarios/sartori-hang-luiz-chavespalacio-piratini.jpg
 ---
 

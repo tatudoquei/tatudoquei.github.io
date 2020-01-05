@@ -8,6 +8,7 @@ date: 2019-08-02 22:59:34
 pub_date: 2019-08-02 22:59:34
 time_added: 2019-08-03 22:33:00
 category: 
+tags: []
 image: https://static01.nyt.com/images/2019/08/02/world/BRAZIL/merlin_158744343_6e41e2e6-b1e4-4aa1-b960-e1c390335681-facebookJumbo.jpg
 ---
 

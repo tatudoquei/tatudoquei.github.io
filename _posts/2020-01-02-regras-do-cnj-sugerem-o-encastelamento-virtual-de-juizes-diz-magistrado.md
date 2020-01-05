@@ -8,6 +8,7 @@ date: 2020-01-02 10:10:00
 pub_date: 2020-01-02 10:10:00
 time_added: 2020-01-02 19:30:05
 category: 
+tags: []
 image: https://blogdofred.blogfolha.uol.com.br/files/2020/01/Guilherme-Feliciano-comenta-Bolsonaro.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-11-16 23:00:00
 pub_date: 2019-11-16 23:00:00
 time_added: 2019-11-17 22:40:47
 category: 
+tags: []
 ---
 
 DO OC – A taxa oficial de desmatamento na Amazônia, que será divulgada nesta segunda-feira (18) pelo governo, deve ultrapassar os 10 mil quilômetros quadrados. Caso isso aconteça, será a primeira vez desde 2008 que a cifra chega a cinco dígitos.

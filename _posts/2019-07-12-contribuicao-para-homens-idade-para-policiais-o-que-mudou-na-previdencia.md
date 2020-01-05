@@ -8,6 +8,7 @@ date: 2019-07-12 01:32:00
 pub_date: 2019-07-12 01:32:00
 time_added: 2019-07-13 07:26:16
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/00/2019/04/01/dinheiro-na-velhice-aposentadoria-financas-1554145040389_v2_615x300.jpg
 ---
 

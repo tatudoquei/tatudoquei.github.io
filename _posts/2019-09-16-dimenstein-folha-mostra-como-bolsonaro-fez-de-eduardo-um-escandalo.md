@@ -8,6 +8,7 @@ date: 2019-09-16 09:20:18
 pub_date: 2019-09-16 09:20:18
 time_added: 2019-09-17 16:07:06
 category: 
+tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2019/09/captura-de-tela-2019-09-16-as-061752.png
 ---
 

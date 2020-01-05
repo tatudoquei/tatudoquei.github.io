@@ -8,6 +8,7 @@ date: 2019-01-03 20:22:00
 pub_date: 2019-01-03 20:22:00
 time_added: 2019-01-05 09:43:42
 category: avisamos
+tags: []
 image: https://conteudo.imguol.com.br/6f/2019/01/03/bolsonaro-militares-1546507368821_615x300.jpg
 ---
 

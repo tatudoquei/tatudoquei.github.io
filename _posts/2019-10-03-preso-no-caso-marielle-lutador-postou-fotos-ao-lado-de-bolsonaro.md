@@ -8,6 +8,7 @@ date: 2019-10-03 13:06:16
 pub_date: 2019-10-03 13:06:16
 time_added: 2019-10-03 18:37:12
 category: 
+tags: []
 image: https://abrilveja.files.wordpress.com/2019/10/djaca.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

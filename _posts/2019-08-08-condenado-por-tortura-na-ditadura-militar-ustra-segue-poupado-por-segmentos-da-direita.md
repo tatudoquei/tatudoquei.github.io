@@ -8,6 +8,7 @@ date: 2019-08-08 16:54:00
 pub_date: 2019-08-08 16:54:00
 time_added: 2019-08-11 07:25:11
 category: 
+tags: []
 ---
 
 SÃO PAULO — Se o ex-chefe do DOI-Codi Carlos Alberto Brilhante Ustra, condenado em segunda instância por tortura na ditadura militar, provoca repulsa para muita gente, seu nome é poupado de críticas por segmentos da direita — e adorado pela ala mais radical.

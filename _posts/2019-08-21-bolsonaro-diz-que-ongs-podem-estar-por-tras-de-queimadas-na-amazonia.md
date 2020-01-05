@@ -8,6 +8,7 @@ date: 2019-08-21 07:11:00
 pub_date: 2019-08-21 07:11:00
 time_added: 2019-08-22 08:58:51
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ae/2019/07/25/o-presidente-da-republica-jair-bolsonaro-em-manaus-1564084089130_v2_750x421.jpg
 ---
 

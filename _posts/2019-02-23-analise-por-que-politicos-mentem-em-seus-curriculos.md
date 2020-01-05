@@ -8,6 +8,7 @@ date: 2019-02-23 18:40:00
 pub_date: 2019-02-23 18:40:00
 time_added: 2019-12-23 21:21:00
 category: refletimos
+tags: []
 ---
 
 O ministro do Meio Ambiente, Ricardo Salles, usa ternos bem cortados, óculos com aros de tartaruga, relógios caros, sabe conjugar verbos e costuma acertar o uso do plural.

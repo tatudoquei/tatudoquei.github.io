@@ -8,6 +8,7 @@ date: 2018-12-21 11:42:00
 pub_date: 2018-12-21 11:42:00
 time_added: 2019-02-12 23:25:38
 category: avisamos
+tags: []
 image: https://imgsapp2.correiobraziliense.com.br/app/noticia_127983242361/2018/12/21/726738/20181221084118100243e.jpg
 ---
 

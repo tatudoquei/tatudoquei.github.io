@@ -8,6 +8,7 @@ date: 2019-09-23 04:28:09
 pub_date: 2019-09-23 04:28:09
 time_added: 2019-09-23 06:28:09
 category: 
+tags: []
 image: http://www.mpf.mp.br/pa/sala-de-imprensa/noticias-pa/mpf-pede-ordem-judicial-para-reativacao-de-guaritas-de-seguranca-no-pds-esperanca-em-anapu-pa/@@images/e4f452d2-b145-4d70-aa16-45be5f17fe4e.jpeg
 ---
 

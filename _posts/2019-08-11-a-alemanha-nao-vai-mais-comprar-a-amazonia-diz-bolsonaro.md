@@ -8,6 +8,7 @@ date: 2019-08-11 16:41:28
 pub_date: 2019-08-11 16:41:28
 time_added: 2019-08-11 19:51:46
 category: 
+tags: []
 ---
 
 Meio Ambiente | 11.08.2019 Bolsonaro vem antagonizando com a Alemanha e outros países europeus que demonstram preocupação com a política ambiental do governo brasileiro Presidente diz que Brasil "não precisa" de dinheiro alemão para preservar a floresta.

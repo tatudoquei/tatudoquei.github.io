@@ -8,6 +8,7 @@ date: 2019-01-07 21:26:09
 pub_date: 2019-01-07 21:26:09
 time_added: 2019-12-23 21:41:24
 category: refletimos
+tags: []
 image: https://static.poder360.com.br/2019/01/Moro-e-Rosangela-942x630.jpg
 ---
 

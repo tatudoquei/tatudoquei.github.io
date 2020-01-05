@@ -8,6 +8,7 @@ date: 2019-11-27 20:09:00
 pub_date: 2019-11-27 20:09:00
 time_added: 2019-11-28 22:12:13
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ab/2019/11/26/area-de-protecao-ambiental-municipal-em-alter-do-chao-atinginda-por-incendios-em-setembro-1574788768455_v2_615x300.jpg
 ---
 

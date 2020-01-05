@@ -8,6 +8,7 @@ date: 2019-07-02 22:00:00
 pub_date: 2019-07-02 22:00:00
 time_added: 2019-07-04 22:20:33
 category: 
+tags: []
 ---
 
 Autoridades se reuniram nesta quarta-feira (03) com ministro do Meio Ambiente, Ricardo Salles. Até fim de julho, decisão sobre o fundo será tomada

@@ -8,6 +8,7 @@ date: 2019-09-13 04:50:45
 pub_date: 2019-09-13 04:50:45
 time_added: 2019-09-15 09:32:34
 category: 
+tags: []
 image: https://i2.wp.com/blogdoberta.com/wp-content/uploads/2019/09/iptu_capa.png?fit=615%2C411&ssl=1
 ---
 

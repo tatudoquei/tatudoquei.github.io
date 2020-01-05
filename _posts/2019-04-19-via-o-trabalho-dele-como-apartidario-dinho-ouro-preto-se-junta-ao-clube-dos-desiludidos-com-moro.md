@@ -8,6 +8,7 @@ date: 2019-04-19 23:52:15
 pub_date: 2019-04-19 23:52:15
 time_added: 2019-04-20 07:03:55
 category: 
+tags: []
 image: https://www.diariodocentrodomundo.com.br/wp-content/uploads/2019/04/screen-shot-2019-04-19-at-8-55-24-pm.png
 ---
 

@@ -8,6 +8,7 @@ date: 2019-11-20 23:36:21
 pub_date: 2019-11-20 23:36:21
 time_added: 2019-11-22 06:37:23
 category: 
+tags: []
 image: https://static.poder360.com.br/2019/11/carlos-marielle-1200x630.jpg
 ---
 

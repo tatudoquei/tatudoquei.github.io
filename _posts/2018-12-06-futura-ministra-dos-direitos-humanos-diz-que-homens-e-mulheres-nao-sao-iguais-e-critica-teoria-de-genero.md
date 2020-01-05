@@ -8,6 +8,7 @@ date: 2018-12-06 14:50:00
 pub_date: 2018-12-06 14:50:00
 time_added: 2018-12-07 20:52:44
 category: avisamos
+tags: []
 ---
 
 BRASÍLIA - A futura ministra de Direitos Humanos, Damares Alves, tem uma filha indígena, é pastora da Igreja Quadrangular e trabalha como assessora no Congresso Nacional há mais de 20 anos, sempre próxima da bancada evangélica.

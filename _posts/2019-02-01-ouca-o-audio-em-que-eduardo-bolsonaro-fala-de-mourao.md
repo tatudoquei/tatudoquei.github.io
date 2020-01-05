@@ -8,6 +8,7 @@ date: 2019-02-01 16:07:00
 pub_date: 2019-02-01 16:07:00
 time_added: 2019-12-23 21:37:44
 category: refletimos
+tags: []
 ---
 
 Eduardo Bolsonaro afirmou que, quando perguntado sobre uma declaração do general Mourão, ele não teria dito "Desse daí não tenho nada a declarar, não". Ouça o áudio em que o deputado diz a frase.

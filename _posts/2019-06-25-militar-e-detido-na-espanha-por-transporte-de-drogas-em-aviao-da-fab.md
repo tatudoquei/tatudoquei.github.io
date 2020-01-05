@@ -8,6 +8,7 @@ date: 2019-06-25 18:12:03
 pub_date: 2019-06-25 18:12:03
 time_added: 2019-06-25 22:18:22
 category: 
+tags: []
 image: https://abrilveja.files.wordpress.com/2019/06/b-temc381tica-concursos-e-empregos-concurso-cadetes-do-ar-aeronc3a1utica.cadetes-do-ar.divulgac3a7c3a3o.jpg.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

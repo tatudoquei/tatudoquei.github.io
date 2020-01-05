@@ -8,6 +8,7 @@ date: 2019-12-10 07:05:34
 pub_date: 2019-12-10 07:05:34
 time_added: 2019-12-30 02:26:17
 category: 
+tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/11/159_tribunalivre_redes.jpg
 ---
 

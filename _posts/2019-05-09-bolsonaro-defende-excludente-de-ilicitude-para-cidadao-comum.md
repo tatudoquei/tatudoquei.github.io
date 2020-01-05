@@ -8,6 +8,7 @@ date: 2019-05-09 20:34:36
 pub_date: 2019-05-09 20:34:36
 time_added: 2019-05-11 02:37:51
 category: 
+tags: []
 image: http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2019/05/09/2019-05-09T203841Z_1_LYNXNPEF481NF_RTROPTP_4_POLITICA-BOLSONARO-ARMAS-VIASPUBLICAS.JPG
 ---
 

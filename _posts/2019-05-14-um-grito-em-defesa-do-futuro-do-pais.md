@@ -8,6 +8,7 @@ date: 2019-05-14 22:00:00
 pub_date: 2019-05-14 22:00:00
 time_added: 2019-05-21 18:46:51
 category: 
+tags: []
 ---
 
 As ruas das principais cidades do País, de norte a sul, de leste a oeste, foram tomadas, nesta quarta-feira, 15 de maio, por milhares de manifestantes.

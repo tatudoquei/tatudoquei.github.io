@@ -8,6 +8,7 @@ date: 2019-06-07 16:39:03
 pub_date: 2019-06-07 16:39:03
 time_added: 2019-06-11 19:16:48
 category: 
+tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/06/20190607_paulo-saldiva.jpg
 ---
 

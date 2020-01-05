@@ -8,6 +8,7 @@ date: 2019-02-24 05:05:00
 pub_date: 2019-02-24 05:05:00
 time_added: 2019-12-23 21:21:00
 category: refletimos
+tags: []
 image: https://s2.glbimg.com/QbLd648yOYPWJLFPVz0JhuhZCeo=/640x424/top/i.glbimg.com/og/ig/infoglobo1/f/original/2019/02/22/81202198_gustavo_bebianno_president_of_psl_party_talks_with_presidential_candidate_jair_bolsonar.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-11-13 22:10:00
 pub_date: 2019-11-13 22:10:00
 time_added: 2019-11-14 06:39:29
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f4/2019/03/13/13mar2019---juiza-federal-gabriela-hardt-1552500324395_v2_615x300.jpg
 ---
 

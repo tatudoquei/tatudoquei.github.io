@@ -8,6 +8,7 @@ date: 2018-12-26 10:12:00
 pub_date: 2018-12-26 10:12:00
 time_added: 2019-12-23 21:19:31
 category: avisamos
+tags: []
 ---
 
 MANGARATIBA — A futura primeira-dama Michelle Bolsonaro deixou na manhã desta quarta-feira a Ilha da Marambaia, onde passou o Natal com o presidente eleito Jair Bolsonaro.

@@ -8,6 +8,7 @@ date: 2019-06-07 18:51:00
 pub_date: 2019-06-07 18:51:00
 time_added: 2019-06-09 09:43:44
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/sociedade/23677083-705-cf0/FT1086A/652/82679259_PA-ManifestacaoProtestoEstudantes15-05-2019-Atos-contra-bloqueio-de-verbas-da-Educ.jpg
 ---
 

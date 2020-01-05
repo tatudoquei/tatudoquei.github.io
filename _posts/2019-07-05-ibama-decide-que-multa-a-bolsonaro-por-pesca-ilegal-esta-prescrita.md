@@ -8,6 +8,7 @@ date: 2019-07-05 07:18:00
 pub_date: 2019-07-05 07:18:00
 time_added: 2019-07-05 19:19:21
 category: 
+tags: []
 ---
 
 BRASÍLIA - O Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama) decidiu que prescreveu a infração ambiental cometida pelo presidente Jair Bolsonaro, multado em R$ 10 mil por pesca ilegal em área de preservação ambiental em Angra dos Reis (RJ) onde são proibidas

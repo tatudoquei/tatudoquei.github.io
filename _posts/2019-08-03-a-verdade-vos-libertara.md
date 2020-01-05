@@ -8,6 +8,7 @@ date: 2019-08-03 09:00:00
 pub_date: 2019-08-03 09:00:00
 time_added: 2019-08-03 22:34:58
 category: 
+tags: []
 ---
 
 O episódio se passa em uma cidade da Inglaterra. O juiz alegou necessidade de férias e indicou para substituí-lo um cidadão acima de qualquer suspeita chamado Ângelo (=anjo). Contudo, em vez de viajar como prometera, o juiz se disfarçou de monge e se escondeu em uma paróquia da cidade.

@@ -8,6 +8,7 @@ date: 2019-07-15 22:00:00
 pub_date: 2019-07-15 22:00:00
 time_added: 2019-07-22 21:59:02
 category: 
+tags: []
 image: http://revistaquestaodeciencia.com.br/sites/default/files/styles/facebook/public/2019-07/ROLETA_HOME.jpg?itok=hloIm4yD
 ---
 

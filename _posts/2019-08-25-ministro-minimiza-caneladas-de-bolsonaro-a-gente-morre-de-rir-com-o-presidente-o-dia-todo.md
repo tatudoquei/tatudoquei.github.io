@@ -8,6 +8,7 @@ date: 2019-08-25 02:30:00
 pub_date: 2019-08-25 02:30:00
 time_added: 2019-08-29 05:20:24
 category: 
+tags: []
 ---
 
 BRASÍLIA — “Cara, como você trabalha com aquele maluco?”. A pergunta é feita com frequência a Jorge Oliveira, que comanda a Secretaria-Geral da Presidência da República.

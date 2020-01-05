@@ -8,6 +8,7 @@ date: 2019-08-21 15:39:46
 pub_date: 2019-08-21 15:39:46
 time_added: 2019-08-22 23:47:55
 category: 
+tags: []
 ---
 
 “O que pensaria o Almirante Álvaro Alberto do momento vivido pelo País hoje?”. Artigo deVanderlan da S. Bolzani, conselheira da SBPC O momento é adequado para pensar no que significa a anunciada suspensão de aproximadamente 80.

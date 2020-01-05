@@ -8,6 +8,7 @@ date: 2019-10-04 12:00:00
 pub_date: 2019-10-04 12:00:00
 time_added: 2019-10-06 08:37:09
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23995158-efc-0c3/FT1086A/652/80469232_Outgoing-Brazilian-president-Michel-Temer-R-hands-over-the-presidential-sash-to-Brazils-ne.jpg
 ---
 

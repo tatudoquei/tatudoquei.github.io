@@ -8,6 +8,7 @@ date: 2019-08-17 12:45:47
 pub_date: 2019-08-17 12:45:47
 time_added: 2019-08-18 21:01:35
 category: 
+tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2019/08/CNPq_image_gallery.jpeg
 ---
 

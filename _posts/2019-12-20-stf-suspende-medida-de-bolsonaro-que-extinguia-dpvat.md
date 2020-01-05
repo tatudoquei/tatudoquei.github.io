@@ -8,6 +8,7 @@ date: 2019-12-20 14:19:17
 pub_date: 2019-12-20 14:19:17
 time_added: 2019-12-21 10:44:36
 category: 
+tags: []
 image: https://bhaz.com.br/wp-content/uploads/2019/12/stf.jpg
 ---
 

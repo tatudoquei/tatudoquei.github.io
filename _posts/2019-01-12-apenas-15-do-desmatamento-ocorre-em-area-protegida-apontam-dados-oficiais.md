@@ -8,6 +8,7 @@ date: 2019-01-12 07:00:20
 pub_date: 2019-01-12 07:00:20
 time_added: 2019-12-23 21:41:24
 category: refletimos
+tags: [meio ambiente]
 image: https://sustentabilidade.estadao.com.br/blogs/ambiente-se/wp-content/uploads/sites/92/2019/01/46574304741_ca47aac9ad_k.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-11-28 12:12:00
 pub_date: 2019-11-28 12:12:00
 time_added: 2019-11-29 07:04:08
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/80/2019/10/31/31out2019---ex-presidente-lula-da-entrevista-para-jornalistas-da-agencia-publica-em-curitiba-1572527193819_v2_615x300.jpg
 ---
 

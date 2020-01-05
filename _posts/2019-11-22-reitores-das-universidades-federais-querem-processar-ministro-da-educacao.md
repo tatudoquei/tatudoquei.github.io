@@ -8,6 +8,7 @@ date: 2019-11-22 12:23:00
 pub_date: 2019-11-22 12:23:00
 time_added: 2019-11-27 22:16:31
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/24026341-902-39b/FT1086A/652/85105207_BSBBrasiliaBrasil10-10-2019Ministro-da-Educacao-Abraham-Weintraub-e-o-presiden.jpg
 ---
 

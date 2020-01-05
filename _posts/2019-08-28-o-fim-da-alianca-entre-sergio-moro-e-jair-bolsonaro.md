@@ -8,6 +8,7 @@ date: 2019-08-28 20:25:58
 pub_date: 2019-08-28 20:25:58
 time_added: 2019-08-29 05:59:22
 category: 
+tags: []
 image: https://abrilveja.files.wordpress.com/2018/11/brasil-bolsonaro-coletiva-20181107-003-copy.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

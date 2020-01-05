@@ -8,6 +8,7 @@ date: 2019-12-18 09:15:00
 pub_date: 2019-12-18 09:15:00
 time_added: 2019-12-19 07:33:13
 category: 
+tags: []
 ---
 
 RIO - A ação que mirou ex-assessores do senador Flávio Bolsonaro, entre eles o ex-chefe de segurança Fabrício Queiroz , tem como alvos parentes de Ana Cristina Siqueira Valle, ex-mulher do presidente Jair Bolsonaro .

@@ -8,6 +8,7 @@ date: 2019-11-22 18:43:00
 pub_date: 2019-11-22 18:43:00
 time_added: 2019-11-23 10:24:40
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/04/pauloguedes-1-615x300.jpg
 ---
 

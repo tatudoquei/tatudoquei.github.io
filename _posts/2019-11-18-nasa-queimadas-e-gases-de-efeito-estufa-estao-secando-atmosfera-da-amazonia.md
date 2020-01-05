@@ -8,6 +8,7 @@ date: 2019-11-18 23:34:32
 pub_date: 2019-11-18 23:34:32
 time_added: 2019-11-20 22:41:04
 category: 
+tags: []
 image: http://climainfo.org.br/wp-content/uploads/2019/11/gases-de-efeito-estufa.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-08-26 11:49:00
 pub_date: 2019-08-26 11:49:00
 time_added: 2019-08-27 06:27:25
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/db/2018/11/09/deputada-lider-da-bancada-ruralista-tereza-cristina-sera-ministra-da-agricultura-no-governo-bolsonaro-1541776510766_v2_615x300.jpg
 ---
 

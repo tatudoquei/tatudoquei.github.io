@@ -8,6 +8,7 @@ date: 2019-01-25 19:38:00
 pub_date: 2019-01-25 19:38:00
 time_added: 2019-12-23 21:37:44
 category: refletimos
+tags: [meio ambiente]
 ---
 
 Existe uma vacina contra desastres ambientais e ela está prevista na Constituição. É o licenciamento ambiental. A tragédia de Mariana mostrou ao país para que ele serve: dar segurança à população, ao entorno e também ao empreendedor.

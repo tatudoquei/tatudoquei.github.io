@@ -8,6 +8,7 @@ date: 2019-08-01 18:22:00
 pub_date: 2019-08-01 18:22:00
 time_added: 2019-08-03 18:52:56
 category: 
+tags: []
 ---
 
 BRASÍLIA E RIO — O ministro do Meio Ambiente, Ricardo Salles, afirmou nesta quinta-feira que os números mensais do desmatamento no Brasil não estão corretos e anunciou que o governo terá um novo modelo de acompanhamento.

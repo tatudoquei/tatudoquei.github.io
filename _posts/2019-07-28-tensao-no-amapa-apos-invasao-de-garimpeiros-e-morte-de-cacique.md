@@ -8,6 +8,7 @@ date: 2019-07-28 16:41:52
 pub_date: 2019-07-28 16:41:52
 time_added: 2019-07-28 21:39:00
 category: 
+tags: []
 ---
 
 Brasil | 28.07.2019 Índios Waiãpi em reserva indígena no Amapá, em foto de outubro de 2017 Policiais chegam à terra indígena dos Waiãpi, e MPF investiga invasão de homens armados à área demarcada e assassinato de líder indígena.

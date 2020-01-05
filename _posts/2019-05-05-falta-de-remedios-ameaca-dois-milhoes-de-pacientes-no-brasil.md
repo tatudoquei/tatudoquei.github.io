@@ -8,6 +8,7 @@ date: 2019-05-05 02:30:00
 pub_date: 2019-05-05 02:30:00
 time_added: 2019-05-29 19:39:15
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23642588-027-4aa/FT1086A/652/Medicamentos.jpg
 ---
 

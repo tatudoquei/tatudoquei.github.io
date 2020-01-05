@@ -8,6 +8,7 @@ date: 2019-05-27 15:34:00
 pub_date: 2019-05-27 15:34:00
 time_added: 2019-05-28 17:20:57
 category: 
+tags: []
 ---
 
 RIO — O juiz federal Bruno Savino, da 3ª vara da Justiça Federal em Juiz de Fora (MG), concluiu que Adélio Bispo de Oliveira, o autor da facada no presidente Jair Bolsonaro, tem transtorno delirante persistente, segundo pareceres médicos da defesa de Adélio e de peritos escolhidos pela acusa

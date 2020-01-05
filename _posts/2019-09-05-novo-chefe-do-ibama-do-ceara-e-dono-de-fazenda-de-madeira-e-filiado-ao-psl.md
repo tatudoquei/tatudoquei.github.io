@@ -8,6 +8,7 @@ date: 2019-09-05 04:59:09
 pub_date: 2019-09-05 04:59:09
 time_added: 2019-09-05 06:59:09
 category: 
+tags: []
 image: https://d1x4bjge7r9nas.cloudfront.net/wp-content/uploads/2019/09/04094219/coronel-bezerra.jpg
 ---
 

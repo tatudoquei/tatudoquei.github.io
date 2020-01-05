@@ -8,6 +8,7 @@ date: 2019-06-02 22:00:00
 pub_date: 2019-06-02 22:00:00
 time_added: 2019-06-04 20:28:11
 category: 
+tags: []
 ---
 
 RIO — Instituída por um decreto presidencial nesta semana, a redução do Conselho Nacional de Meio Ambiente (Conama) de cem para 21 integrantes provocou protestos entre ex-ministros , acadêmicos e membros da sociedade civil, que questionam se o colegiado conseguirá conduzir seus trabalhos dian

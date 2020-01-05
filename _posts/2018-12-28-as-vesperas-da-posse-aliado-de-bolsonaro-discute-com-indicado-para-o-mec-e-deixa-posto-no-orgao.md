@@ -8,6 +8,7 @@ date: 2018-12-28 15:38:00
 pub_date: 2018-12-28 15:38:00
 time_added: 2019-03-30 10:00:33
 category: 
+tags: []
 image: https://painel.blogfolha.uol.com.br/files/2018/12/ricardovelez.jpg
 ---
 

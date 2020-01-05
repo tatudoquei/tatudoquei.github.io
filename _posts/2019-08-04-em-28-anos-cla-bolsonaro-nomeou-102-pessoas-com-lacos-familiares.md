@@ -8,6 +8,7 @@ date: 2019-08-04 02:30:00
 pub_date: 2019-08-04 02:30:00
 time_added: 2019-08-05 22:32:42
 category: 
+tags: []
 ---
 
 RIO - Desde 1991, quando Jair Bolsonaro assumiu seu primeiro mandato como deputado e deu início à trajetória da família na política, o presidente e seus três filhos (Flávio, Carlos e Eduardo) empregaram mais de uma centena de funcionários com parentesco ou relação familiar entre si, vário

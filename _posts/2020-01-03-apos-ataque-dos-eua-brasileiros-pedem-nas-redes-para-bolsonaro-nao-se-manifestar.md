@@ -8,6 +8,7 @@ date: 2020-01-03 10:01:00
 pub_date: 2020-01-03 10:01:00
 time_added: 2020-01-05 09:54:03
 category: 
+tags: []
 image: https://hashtag.blogfolha.uol.com.br/files/2020/01/ataque-iraque.jpg
 ---
 

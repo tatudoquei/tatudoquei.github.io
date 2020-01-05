@@ -8,6 +8,7 @@ date: 2019-06-24 15:27:52
 pub_date: 2019-06-24 15:27:52
 time_added: 2019-06-28 07:08:07
 category: 
+tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2019/06/ric-1.jpg
 ---
 

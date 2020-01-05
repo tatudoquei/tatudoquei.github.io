@@ -8,6 +8,7 @@ date: 2019-05-03 23:37:00
 pub_date: 2019-05-03 23:37:00
 time_added: 2019-05-04 17:35:53
 category: 
+tags: []
 ---
 
 RIO — Frustração. Esta é a palavra usada por Nelson Cardoso Amaral, professor do Programa de Pós-Graduação em Educação da Universidade Federal de Goiás, ao referir-se às políticas públicas do governo federal para a educação.

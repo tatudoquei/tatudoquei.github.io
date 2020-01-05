@@ -8,6 +8,7 @@ date: 2019-04-19 02:30:00
 pub_date: 2019-04-19 02:30:00
 time_added: 2019-04-20 19:05:20
 category: 
+tags: []
 ---
 
 RIO - Antes de ser baleado em uma ação do Exército no último dia 7, em Guadalupe, o catador de material reciclável Luciano Macedo, de 27 anos, não só tentou salvar o músico Evaldo Rosa, fuzilado pelos militares, mas também o filho dele, de 7 anos.

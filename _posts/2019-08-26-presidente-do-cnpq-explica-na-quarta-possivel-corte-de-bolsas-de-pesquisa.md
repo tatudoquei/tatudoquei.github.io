@@ -8,6 +8,7 @@ date: 2019-08-26 15:56:17
 pub_date: 2019-08-26 15:56:17
 time_added: 2019-08-29 05:26:49
 category: 
+tags: []
 image: https://www12.senado.leg.br/noticias/materias/2019/08/26/presidente-do-cnpq-explica-na-quarta-possivel-corte-de-bolsas-de-pesquisa/cnpq_03.jpg
 ---
 

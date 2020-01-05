@@ -8,6 +8,7 @@ date: 2019-03-13 06:31:00
 pub_date: 2019-03-13 06:31:00
 time_added: 2019-12-23 21:19:32
 category: refletimos
+tags: []
 ---
 
 RIO - A Polícia Civil e o Ministério Público do Rio coletaram indícios, durante a investigação dos assassinatos da vereadora Marielle Franco e do motorista Anderson Gomes, de que o sargento aposentado Ronnie Lessa, preso pelo crime, é traficante de armas.

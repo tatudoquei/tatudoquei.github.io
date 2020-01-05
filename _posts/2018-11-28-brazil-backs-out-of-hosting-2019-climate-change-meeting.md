@@ -8,6 +8,7 @@ date: 2018-11-28 19:09:32
 pub_date: 2018-11-28 19:09:32
 time_added: 2018-11-29 07:25:40
 category: avisamos
+tags: []
 image: https://static01.nyt.com/images/2018/11/29/world/29brazilclimate1/29brazilclimate1-facebookJumbo.jpg
 ---
 

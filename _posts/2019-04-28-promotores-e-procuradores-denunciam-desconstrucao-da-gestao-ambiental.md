@@ -8,6 +8,7 @@ date: 2019-04-28 12:46:36
 pub_date: 2019-04-28 12:46:36
 time_added: 2019-04-29 18:51:29
 category: 
+tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2019/04/Desmatamento_Agencia-Brasil.jpg
 ---
 

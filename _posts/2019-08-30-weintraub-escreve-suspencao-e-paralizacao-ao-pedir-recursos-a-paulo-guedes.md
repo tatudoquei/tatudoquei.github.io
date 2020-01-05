@@ -8,6 +8,7 @@ date: 2019-08-30 09:50:00
 pub_date: 2019-08-30 09:50:00
 time_added: 2019-08-30 23:32:48
 category: 
+tags: []
 ---
 
 BRASÍLIA — O ministro da Educação, Abraham Weintraub, enviou um documento com erros de português ao ministro da Economia, Paulo Guedes, pedindo mais recursos para sua pasta.

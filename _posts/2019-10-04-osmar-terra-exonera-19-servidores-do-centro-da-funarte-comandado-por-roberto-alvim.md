@@ -8,6 +8,7 @@ date: 2019-10-04 10:43:00
 pub_date: 2019-10-04 10:43:00
 time_added: 2019-10-06 08:38:16
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23899794-060-936/FT1086A/652/20969217_SC-Rio-de-Janeiro-Brasil-03-05-2011Perfil-de-Roberto-Alvim-diretor-de-TeatroFoto.jpg
 ---
 

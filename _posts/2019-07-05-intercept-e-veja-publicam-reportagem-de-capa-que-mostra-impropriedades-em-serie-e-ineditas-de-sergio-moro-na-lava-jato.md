@@ -8,6 +8,7 @@ date: 2019-07-05 07:33:00
 pub_date: 2019-07-05 07:33:00
 time_added: 2019-07-07 08:14:01
 category: 
+tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/07/04-07-19-moro-redes-1562289517.jpg
 ---
 

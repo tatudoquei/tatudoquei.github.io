@@ -8,6 +8,7 @@ date: 2018-12-09 19:22:07
 pub_date: 2018-12-09 19:22:07
 time_added: 2018-12-11 17:13:46
 category: avisamos
+tags: []
 image: https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png
 ---
 

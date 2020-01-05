@@ -8,6 +8,7 @@ date: 2019-08-24 22:00:00
 pub_date: 2019-08-24 22:00:00
 time_added: 2019-08-10 12:53:49
 category: 
+tags: []
 image: https://s2.glbimg.com/iXZVwmPm-akuGf1GvRNFZhlthbA=/e.glbimg.com/og/ed/f/original/2019/08/08/cow-897533_960_720.jpg
 ---
 

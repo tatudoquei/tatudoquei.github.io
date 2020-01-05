@@ -8,6 +8,7 @@ date: 2019-04-10 16:51:00
 pub_date: 2019-04-10 16:51:00
 time_added: 2019-04-12 03:48:46
 category: 
+tags: []
 image: https://painel.blogfolha.uol.com.br/files/2019/04/selmarruda.jpg
 ---
 

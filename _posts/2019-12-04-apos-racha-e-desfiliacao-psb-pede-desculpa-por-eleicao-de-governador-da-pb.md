@@ -8,6 +8,7 @@ date: 2019-12-04 00:41:00
 pub_date: 2019-12-04 00:41:00
 time_added: 2019-12-06 06:57:20
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f0/2019/08/09/o-governador-da-paraiba-joao-azevedo-1565391640193_v2_615x300.jpg
 ---
 

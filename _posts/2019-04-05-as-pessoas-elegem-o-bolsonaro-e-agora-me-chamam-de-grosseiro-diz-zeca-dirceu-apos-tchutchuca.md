@@ -8,6 +8,7 @@ date: 2019-04-05 00:00:00
 pub_date: 2019-04-05 00:00:00
 time_added: 2019-04-06 00:18:09
 category: 
+tags: []
 image: https://f.i.uol.com.br/fotografia/2019/04/04/15544180705ca689962fafe_1554418070_3x2_rt.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-11-29 17:33:00
 pub_date: 2019-11-29 17:33:00
 time_added: 2019-11-30 11:23:13
 category: 
+tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/11/incendio_291119_redes.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-02-01 20:10:00
 pub_date: 2019-02-01 20:10:00
 time_added: 2019-02-04 23:51:33
 category: avisamos
+tags: []
 image: http://www3.redetv.uol.com.br/blog/reinaldo/wp-content/uploads/2019/02/golpismo-no-senado-1-votacao-encaminhada-por-alcolumbre-pau-mandado-de-onyx-ignora-os-artigos-60-401-e-412-do-regimento-interno-ai-e-o-vale-tudo.jpeg
 ---
 

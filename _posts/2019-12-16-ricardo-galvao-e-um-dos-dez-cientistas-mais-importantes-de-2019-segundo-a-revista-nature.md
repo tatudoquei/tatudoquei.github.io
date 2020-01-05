@@ -8,6 +8,7 @@ date: 2019-12-16 23:00:00
 pub_date: 2019-12-16 23:00:00
 time_added: 2019-12-21 20:09:28
 category: 
+tags: []
 ---
 
 Foto: Micah B. Rubin/Nature Principal revista científica multidisciplinar do mundo, a Nature publica anualmente uma lista de dez pessoas que foram importantes para a ciência no ano.

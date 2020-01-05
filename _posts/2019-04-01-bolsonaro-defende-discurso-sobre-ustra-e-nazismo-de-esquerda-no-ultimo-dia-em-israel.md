@@ -8,6 +8,7 @@ date: 2019-04-01 22:00:00
 pub_date: 2019-04-01 22:00:00
 time_added: 2019-04-09 19:18:24
 category: 
+tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/8AEF/production/_106276553_bolsoyadvashem1.jpg
 ---
 

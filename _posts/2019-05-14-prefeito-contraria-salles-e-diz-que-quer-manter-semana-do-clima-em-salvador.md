@@ -8,6 +8,7 @@ date: 2019-05-14 03:00:00
 pub_date: 2019-05-14 03:00:00
 time_added: 2019-05-16 19:09:35
 category: 
+tags: []
 ---
 
 DO OC – O prefeito de Salvador, ACM Neto (DEM), resolveu apimentar o acarajé do ministro do Meio Ambiente, Ricardo Salles (Novo-SP).

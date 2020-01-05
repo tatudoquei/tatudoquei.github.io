@@ -8,6 +8,7 @@ date: 2019-12-18 08:12:00
 pub_date: 2019-12-18 08:12:00
 time_added: 2019-12-18 19:56:14
 category: 
+tags: []
 image: https://s2.glbimg.com/bnye-A5tLORaGG8WKJn6pnFuby4=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/01/30/80424051_pa_-_flavio_bolsonaro_com_seu_assessor_fabricio_queiroz_simulando_uma_arma_de_fogo._fot_QIxwKAn.jpg
 ---
 

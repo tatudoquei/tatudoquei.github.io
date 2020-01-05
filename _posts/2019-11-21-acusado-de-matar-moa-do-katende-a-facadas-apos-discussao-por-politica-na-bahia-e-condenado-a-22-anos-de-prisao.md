@@ -8,6 +8,7 @@ date: 2019-11-21 23:24:05
 pub_date: 2019-11-21 23:24:05
 time_added: 2019-11-23 08:24:39
 category: 
+tags: []
 image: https://s2.glbimg.com/Dr273e0UpuZbLXY1IgT5jJB4dAw=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2018/11/05/foto_RttkCdo.jpg
 ---
 

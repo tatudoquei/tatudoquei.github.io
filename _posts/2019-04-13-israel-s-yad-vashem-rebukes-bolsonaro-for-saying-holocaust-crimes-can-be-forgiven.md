@@ -8,6 +8,7 @@ date: 2019-04-13 15:36:39
 pub_date: 2019-04-13 15:36:39
 time_added: 2019-04-15 06:20:47
 category: 
+tags: []
 image: https://www.haaretz.com/polopoly_fs/1.7112005.1555170033!/image/278336452.jpg_gen/derivatives/headline_1200x630/278336452.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-03-19 20:06:00
 pub_date: 2019-03-19 20:06:00
 time_added: 2019-03-20 13:10:49
 category: avisamos
+tags: []
 image: https://s.conjur.com.br/img/b/modesto-carvalhosa3.jpeg
 ---
 

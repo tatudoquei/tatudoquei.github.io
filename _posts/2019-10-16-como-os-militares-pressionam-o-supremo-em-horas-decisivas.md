@@ -8,6 +8,7 @@ date: 2019-10-16 22:00:00
 pub_date: 2019-10-16 22:00:00
 time_added: 2019-11-03 09:22:08
 category: 
+tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Villas-B%C3%B4as1/ALTERNATES/LANDSCAPE_720/Villas%20B%C3%B4as
 ---
 

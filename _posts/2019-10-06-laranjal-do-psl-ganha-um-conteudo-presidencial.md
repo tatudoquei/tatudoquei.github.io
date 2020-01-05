@@ -8,6 +8,7 @@ date: 2019-10-06 02:24:00
 pub_date: 2019-10-06 02:24:00
 time_added: 2019-10-07 15:55:39
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/58/files/2019/10/MarceloAlvaroAntonioPedroLadeiraFolha-615x300.jpg
 ---
 

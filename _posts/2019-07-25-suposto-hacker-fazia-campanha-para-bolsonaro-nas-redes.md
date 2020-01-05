@@ -8,6 +8,7 @@ date: 2019-07-25 22:13:59
 pub_date: 2019-07-25 22:13:59
 time_added: 2019-07-27 07:25:49
 category: 
+tags: []
 image: https://abrilveja.files.wordpress.com/2019/07/design-sem-nome-3-2.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

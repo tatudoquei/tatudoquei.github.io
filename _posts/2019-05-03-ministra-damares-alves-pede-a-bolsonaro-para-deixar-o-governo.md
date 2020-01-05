@@ -8,6 +8,7 @@ date: 2019-05-03 10:00:37
 pub_date: 2019-05-03 10:00:37
 time_added: 2019-05-04 06:26:42
 category: 
+tags: []
 image: https://abrilveja.files.wordpress.com/2019/05/brasil-damares-alves-20190221-022-copy.png
 ---
 

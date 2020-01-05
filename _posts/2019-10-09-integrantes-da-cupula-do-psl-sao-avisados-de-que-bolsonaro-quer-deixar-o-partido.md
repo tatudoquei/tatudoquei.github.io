@@ -8,6 +8,7 @@ date: 2019-10-09 12:10:00
 pub_date: 2019-10-09 12:10:00
 time_added: 2019-10-10 01:44:00
 category: 
+tags: []
 image: https://painel.blogfolha.uol.com.br/files/2018/11/bivar.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-12-03 20:56:22
 pub_date: 2019-12-03 20:56:22
 time_added: 2019-12-08 12:31:51
 category: 
+tags: []
 ---
 
 Na quinta-feira (28), o MPF pediu para analisar os inquéritos e os autos do processo. O objetivo era verificar se a competência do caso cabia à esfera federal ou estadual.

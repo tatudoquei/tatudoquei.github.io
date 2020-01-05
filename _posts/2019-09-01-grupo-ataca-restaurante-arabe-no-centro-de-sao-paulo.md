@@ -8,6 +8,7 @@ date: 2019-09-01 20:00:08
 pub_date: 2019-09-01 20:00:08
 time_added: 2019-09-02 22:05:02
 category: 
+tags: []
 image: https://abrilvejasp.files.wordpress.com/2019/09/ataque_aljaniah.jpg?quality=70&strip=info&crop=0px%2C116px%2C467px%2C318px&resize=680%2C453
 ---
 

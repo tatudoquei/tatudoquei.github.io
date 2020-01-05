@@ -8,6 +8,7 @@ date: 2019-11-29 10:46:00
 pub_date: 2019-11-29 10:46:00
 time_added: 2019-11-29 17:53:58
 category: 
+tags: []
 image: https://f.i.uol.com.br/fotografia/2019/11/03/15728197935dbf53519bb64_1572819793_3x2_md.jpg
 ---
 

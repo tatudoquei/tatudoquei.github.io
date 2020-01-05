@@ -8,6 +8,7 @@ date: 2019-05-09 06:00:00
 pub_date: 2019-05-09 06:00:00
 time_added: 2019-05-21 18:47:10
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23651735-1d2-ad5/FT1086A/652/agrotoxicos.jpg
 ---
 

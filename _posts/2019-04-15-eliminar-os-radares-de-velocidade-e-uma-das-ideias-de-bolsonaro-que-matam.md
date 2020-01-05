@@ -8,6 +8,7 @@ date: 2019-04-15 05:38:00
 pub_date: 2019-04-15 05:38:00
 time_added: 2019-04-18 21:19:18
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2019/04/acidente-568x300.jpg
 ---
 

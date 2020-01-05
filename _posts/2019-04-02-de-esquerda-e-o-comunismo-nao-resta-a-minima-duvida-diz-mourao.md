@@ -8,6 +8,7 @@ date: 2019-04-02 17:19:00
 pub_date: 2019-04-02 17:19:00
 time_added: 2019-04-04 23:14:04
 category: 
+tags: []
 image: https://epoca.globo.com/23563247-d47-055/FT1086A/652/80857014_BSBBrasiliaBrasil28-01-2019PAO-presidente-em-exercicio-Hamilton-Mourao-sai-d.jpg
 ---
 

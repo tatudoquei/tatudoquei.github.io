@@ -8,6 +8,7 @@ date: 2019-06-07 19:35:00
 pub_date: 2019-06-07 19:35:00
 time_added: 2019-06-08 22:12:22
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23726410-48b-ca8/FT1086A/652/82681359_BSBBrasiliaBrasil15-05-2019Ministro-da-Educacao-Abraham-Weintraub-vai-ao-plenra.jpg
 ---
 

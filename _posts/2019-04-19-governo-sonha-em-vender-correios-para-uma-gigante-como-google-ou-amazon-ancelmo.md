@@ -8,6 +8,7 @@ date: 2019-04-19 05:00:00
 pub_date: 2019-04-19 05:00:00
 time_added: 2019-04-20 19:03:19
 category: 
+tags: []
 image: https://s2.glbimg.com/PA_BiSFZ5AJD-g1qnab9B8fibVs=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2018/05/09/correios.jpg
 ---
 

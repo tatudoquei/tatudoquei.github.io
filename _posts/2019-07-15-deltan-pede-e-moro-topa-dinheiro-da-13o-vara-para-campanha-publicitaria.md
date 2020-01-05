@@ -8,6 +8,7 @@ date: 2019-07-15 16:47:00
 pub_date: 2019-07-15 16:47:00
 time_added: 2019-07-16 06:14:40
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2019/07/maopassandodinheiro-613x300.jpg
 ---
 

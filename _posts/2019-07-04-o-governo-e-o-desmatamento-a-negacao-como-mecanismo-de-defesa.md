@@ -8,6 +8,7 @@ date: 2019-07-04 22:00:00
 pub_date: 2019-07-04 22:00:00
 time_added: 2019-07-05 21:49:15
 category: 
+tags: []
 ---
 
 Em entrevista recente (03/07/2019) à BBC News, o General Augusto Heleno Ribeiro Pereira (Gabinete de Segurança Institucional) questiona os dados de desmatamento da Amazônia e, em grave acusação, aponta que os mesmos são manipulados.

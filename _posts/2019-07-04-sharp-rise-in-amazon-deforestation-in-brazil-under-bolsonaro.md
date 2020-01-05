@@ -8,6 +8,7 @@ date: 2019-07-04 18:29:26
 pub_date: 2019-07-04 18:29:26
 time_added: 2019-07-05 21:49:31
 category: 
+tags: []
 image: https://static.euronews.com/articles/stories/04/00/18/10/1000x563_cmsv2_b15737a3-a42d-5a50-be39-583aa04f613d-4001810.jpg
 ---
 

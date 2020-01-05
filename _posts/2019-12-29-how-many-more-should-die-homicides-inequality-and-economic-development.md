@@ -8,6 +8,7 @@ date: 2019-12-29 09:30:49
 pub_date: 2016-06-23 18:27:49
 time_added: 2019-12-29 09:30:49
 category: 
+tags: []
 image: https://rzeidandotcom.files.wordpress.com/2016/06/violence-and-inequality.jpg
 ---
 

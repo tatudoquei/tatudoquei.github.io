@@ -8,6 +8,7 @@ date: 2019-08-22 21:55:12
 pub_date: 2019-08-22 21:55:12
 time_added: 2019-08-22 23:42:33
 category: 
+tags: []
 image: https://abrilexame.files.wordpress.com/2019/08/mat-capa-ping-1-e1565807210656.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

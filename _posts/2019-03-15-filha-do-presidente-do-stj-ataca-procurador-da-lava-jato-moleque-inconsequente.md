@@ -8,6 +8,7 @@ date: 2019-03-15 02:27:32
 pub_date: 2019-03-15 02:27:32
 time_added: 2019-12-23 21:19:32
 category: refletimos
+tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2019/03/WhatsApp-Image-2019-03-15-at-13.11.14.jpeg
 ---
 

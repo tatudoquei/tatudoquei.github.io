@@ -8,6 +8,7 @@ date: 2019-11-08 18:04:00
 pub_date: 2019-11-08 18:04:00
 time_added: 2019-11-09 01:10:04
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/76/2019/11/08/augusto-nunes-retorna-ao-ar-um-dia-depois-de-agredir-glenn-greenwald-1573250091600_v2_615x300.jpg
 ---
 

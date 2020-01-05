@@ -8,6 +8,7 @@ date: 2019-08-07 09:03:12
 pub_date: 2019-08-07 09:03:12
 time_added: 2019-08-08 05:43:56
 category: 
+tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2019/08/Gilmar-Mendes-Beto-Barata.jpg
 ---
 

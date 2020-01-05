@@ -8,6 +8,7 @@ date: 2019-04-28 22:00:00
 pub_date: 2019-04-28 22:00:00
 time_added: 2019-07-05 05:11:34
 category: 
+tags: []
 ---
 
 Com participação de Tasso Azevedo e Camila Pitanga, filme cruza duas bases de dados para mostrar que país tem espaço para ampliar a proteção às florestas e a agropecuária SÃO PAULO, 29 DE ABRIL DE 2019 – “O Brasil é o país do mundo que mais preserva.

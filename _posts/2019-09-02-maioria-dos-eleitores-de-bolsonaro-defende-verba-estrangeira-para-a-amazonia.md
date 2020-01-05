@@ -8,6 +8,7 @@ date: 2019-09-02 20:05:21
 pub_date: 2019-09-02 20:05:21
 time_added: 2019-09-02 22:05:21
 category: 
+tags: []
 image: https://painel.blogfolha.uol.com.br/files/2019/03/bolsonaro_sindicatos.jpg
 ---
 

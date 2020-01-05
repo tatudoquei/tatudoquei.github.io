@@ -8,6 +8,7 @@ date: 2019-09-02 13:48:00
 pub_date: 2019-09-02 13:48:00
 time_added: 2019-09-04 23:00:29
 category: 
+tags: []
 ---
 
 BRASÍLIA - A Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) anunciou nesta segunda-feira um corte de 5.613 bolsas de pós-graduação no país. O número equivale a 6% do total de 92.

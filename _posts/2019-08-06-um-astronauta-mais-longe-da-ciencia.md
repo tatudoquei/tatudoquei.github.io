@@ -8,6 +8,7 @@ date: 2019-08-06 13:19:00
 pub_date: 2019-08-06 13:19:00
 time_added: 2019-08-07 19:24:22
 category: 
+tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/08/inpe_interna_05082019.jpg
 ---
 

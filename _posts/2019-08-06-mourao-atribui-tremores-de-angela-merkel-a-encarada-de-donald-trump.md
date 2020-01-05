@@ -8,6 +8,7 @@ date: 2019-08-06 19:46:00
 pub_date: 2019-08-06 19:46:00
 time_added: 2019-08-07 20:13:51
 category: 
+tags: []
 ---
 
 BRASÍLIA — Ao falar sobre os desafios do mundo atual em uma palestra em Santa Cruz do Sul (RS), nesta terça-feira, o vice-presidente Hamilton Mourão mostrou uma foto de líderes dos países desenvolvidos e ironizou os “tremores” da chanceler alemã Angela Merkel.

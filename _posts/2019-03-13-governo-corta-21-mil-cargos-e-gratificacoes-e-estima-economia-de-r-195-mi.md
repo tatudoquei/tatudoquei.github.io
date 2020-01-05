@@ -8,6 +8,7 @@ date: 2019-03-13 12:50:36
 pub_date: 2019-03-13 12:50:36
 time_added: 2019-03-18 19:59:13
 category: avisamos
+tags: []
 image: https://abrilveja.files.wordpress.com/2019/03/brasil-jair-bolsonaro-01.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

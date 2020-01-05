@@ -8,6 +8,7 @@ date: 2019-06-07 16:42:00
 pub_date: 2019-06-07 16:42:00
 time_added: 2019-06-08 22:10:20
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/06/fiscalizacao-615x300.jpg
 ---
 

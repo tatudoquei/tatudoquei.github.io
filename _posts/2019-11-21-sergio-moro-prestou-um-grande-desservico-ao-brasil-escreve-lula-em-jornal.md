@@ -8,6 +8,7 @@ date: 2019-11-21 15:44:00
 pub_date: 2019-11-21 15:44:00
 time_added: 2019-11-22 06:53:38
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/6f/2019/11/08/poucos-minutos-apos-o-fim-do-julgamento-no-stf-o-termo-lula-passou-a-liderar-o-ranking-dos-temas-mais-falados-no-twitter-mundial-1573211300539_v2_615x300.jpg
 ---
 

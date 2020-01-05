@@ -8,6 +8,7 @@ date: 2019-03-13 23:39:24
 pub_date: 2019-03-13 23:39:24
 time_added: 2019-03-18 19:58:03
 category: avisamos
+tags: []
 image: https://abrilexame.files.wordpress.com/2019/03/2019-03-13t192447z_1_lynxnpef2c1xq_rtroptp_4_brazil-paraguay.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

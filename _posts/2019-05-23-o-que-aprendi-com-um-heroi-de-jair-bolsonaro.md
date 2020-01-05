@@ -8,6 +8,7 @@ date: 2019-05-23 10:00:00
 pub_date: 2019-05-23 10:00:00
 time_added: 2019-05-26 20:55:28
 category: 
+tags: []
 ---
 
 Professor de uma universidade pública no Reino Unido, ele já admitiu que gasta parte de seu tempo deliberadamente com pesquisas que não dão nenhum retorno para a sociedade. Já usou ímãs para levitar sapos, o que lhe rendeu um prêmio IgNobel, o Nobel da pesquisa inútil.

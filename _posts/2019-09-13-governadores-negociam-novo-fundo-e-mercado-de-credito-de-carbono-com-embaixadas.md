@@ -8,6 +8,7 @@ date: 2019-09-13 14:20:53
 pub_date: 2019-09-13 14:20:53
 time_added: 2019-09-14 08:10:37
 category: 
+tags: []
 image: https://static.congressoemfoco.uol.com.br/2019/09/WhatsApp-Image-2019-09-13-at-14.10.33-1200x630.jpeg
 ---
 

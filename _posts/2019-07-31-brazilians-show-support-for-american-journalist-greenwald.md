@@ -8,6 +8,7 @@ date: 2019-07-31 02:27:20
 pub_date: 2019-07-31 02:27:20
 time_added: 2019-07-31 22:02:17
 category: 
+tags: []
 image: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
 ---
 

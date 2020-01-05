@@ -8,6 +8,7 @@ date: 2019-09-27 04:30:41
 pub_date: 2019-09-27 04:30:41
 time_added: 2018-11-04 00:41:10
 category: 
+tags: [fake news]
 image: https://ep00.epimg.net/internacional/imagenes/2018/10/07/america/1538877922_089599_1538878608_rrss_normal.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-01-07 09:11:00
 pub_date: 2019-01-07 09:11:00
 time_added: 2019-01-09 00:01:10
 category: avisamos
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23332003-3cd-af5/FT1086A/652/Flavio-Bolsonaro.jpg
 ---
 

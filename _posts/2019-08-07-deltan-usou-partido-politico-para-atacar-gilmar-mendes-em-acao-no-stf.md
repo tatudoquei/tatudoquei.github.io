@@ -8,6 +8,7 @@ date: 2019-08-07 02:01:00
 pub_date: 2019-08-07 02:01:00
 time_added: 2019-08-08 05:45:29
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a5/2019/03/08/o-procurador-da-republica-e-uma-das-faces-mais-conhecidas-da-operacao-lava-jato-deltan-dallagnol-durante-palestra-em-seminario-no-hotel-maksoud-plaza-1552089393914_v2_750x421.jpg
 ---
 

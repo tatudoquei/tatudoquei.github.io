@@ -8,6 +8,7 @@ date: 2019-06-06 18:31:00
 pub_date: 2019-06-06 18:31:00
 time_added: 2019-06-07 21:03:06
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/bf/2019/05/10/baeta-neves-avalia-haver-desconhecimento-do-governo-bolsonaro-sobre-as-universidades-publicas-1557514484839_v2_615x300.jpg
 ---
 

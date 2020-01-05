@@ -8,6 +8,7 @@ date: 2019-08-12 14:05:00
 pub_date: 2019-08-12 14:05:00
 time_added: 2019-08-14 22:44:16
 category: 
+tags: []
 ---
 
 RIO — O movimento econômico global, com a guerra comercial estremecida entre Estados Unidos e China, as perspectivas de que o presidente da Argentina, Mauricio nas eleições de outubro e a prévia negativa do PIB no segundo trimestre de 2019, geraram reflexos na cotação das moedas internaciona

@@ -8,6 +8,7 @@ date: 2018-10-31 23:00:00
 pub_date: 2018-10-31 23:00:00
 time_added: 2019-12-23 21:19:30
 category: refletimos
+tags: []
 ---
 
 Em suas primeiras 48 horas de governo de transição, Jair Bolsonaro já criou cizânia: dois de seus principais assessores, Ônyx Lorenzoni e Paulo “Posto Ipiranga” Guedes, afirmaram na terça-feira (30) que as pastas de Meio Ambiente (MMA) e Agricultura (Mapa) serão fundidas, afinal.

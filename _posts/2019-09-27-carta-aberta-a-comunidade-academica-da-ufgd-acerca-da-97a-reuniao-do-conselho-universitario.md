@@ -8,6 +8,7 @@ date: 2019-09-27 15:57:58
 pub_date: 2019-09-27 15:57:58
 time_added: 2019-09-28 06:30:07
 category: 
+tags: []
 image: http://www.anpg.org.br/wp-content/uploads/2019/09/WhatsApp-Image-2019-09-27-at-12.35.36.jpeg
 ---
 

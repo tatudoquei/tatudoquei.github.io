@@ -8,6 +8,7 @@ date: 2019-08-15 10:02:00
 pub_date: 2019-08-15 10:02:00
 time_added: 2019-08-18 20:24:15
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/85/2019/08/14/eduardo-bolsonaro-1565808311831_v2_615x300.jpg
 ---
 

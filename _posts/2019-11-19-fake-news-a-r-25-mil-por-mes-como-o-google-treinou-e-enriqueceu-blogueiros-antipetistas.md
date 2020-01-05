@@ -8,6 +8,7 @@ date: 2019-11-19 04:02:00
 pub_date: 2019-11-19 04:02:00
 time_added: 2019-11-19 07:01:47
 category: 
+tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/11/grana-por-cliques-redes-1573327741.jpg
 ---
 

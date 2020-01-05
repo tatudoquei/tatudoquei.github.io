@@ -8,6 +8,7 @@ date: 2019-06-11 20:20:30
 pub_date: 2019-06-11 20:20:30
 time_added: 2019-06-12 21:34:58
 category: 
+tags: []
 image: https://static.poder360.com.br/2019/06/pln-1200x630.jpg
 ---
 

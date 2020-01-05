@@ -8,6 +8,7 @@ date: 2019-09-13 16:03:00
 pub_date: 2019-09-13 16:03:00
 time_added: 2019-09-15 10:03:14
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/bf/2019/09/13/o-governador-do-rio-de-janeiro-wilson-witzel-1568408552064_v2_615x300.jpg
 ---
 

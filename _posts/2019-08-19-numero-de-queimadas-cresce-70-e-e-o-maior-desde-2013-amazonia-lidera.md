@@ -8,6 +8,7 @@ date: 2019-08-19 13:30:00
 pub_date: 2019-08-19 13:30:00
 time_added: 2019-08-20 08:00:40
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/cb/2019/08/19/jul2019---queimada-na-br-364-em-rondonia-1566230638808_v2_750x421.jpg
 ---
 

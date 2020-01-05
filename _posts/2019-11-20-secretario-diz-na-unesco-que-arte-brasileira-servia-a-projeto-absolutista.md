@@ -8,6 +8,7 @@ date: 2019-11-20 08:40:00
 pub_date: 2019-11-20 08:40:00
 time_added: 2019-11-20 22:29:50
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/7d/2019/08/12/roberto-alvim-diretor-de-teatro-para-materia-sobre-teatros-independentes-no-club-noir-r-augusta-331-1565642892880_v2_615x300.jpg
 ---
 

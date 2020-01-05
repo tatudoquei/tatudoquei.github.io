@@ -8,6 +8,7 @@ date: 2019-09-11 17:09:00
 pub_date: 2019-09-11 17:09:00
 time_added: 2019-09-15 09:32:47
 category: recuadas
+tags: [ciência]
 image: https://f.i.uol.com.br/fotografia/2019/09/11/15682395705d796fd2686cf_1568239570_3x2_rt.jpg
 ---
 

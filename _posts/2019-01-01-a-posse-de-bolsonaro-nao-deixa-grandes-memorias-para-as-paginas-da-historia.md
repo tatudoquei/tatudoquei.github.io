@@ -8,6 +8,7 @@ date: 2019-01-01 20:09:00
 pub_date: 2019-01-01 20:09:00
 time_added: 2019-12-23 21:41:23
 category: refletimos
+tags: []
 ---
 
 Cerimônias como essa costumam ser ensaiadas e produzidas de forma a criar um senso teatral da República. Trata-se, afinal, daqueles momentos em que a Nação celebra sua democracia com solenidade, medita sobre o futuro e realinha os chacras para os próximos quatro anos.

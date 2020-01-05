@@ -8,6 +8,7 @@ date: 2019-04-02 18:35:00
 pub_date: 2019-04-02 18:35:00
 time_added: 2019-04-03 20:23:45
 category: 
+tags: []
 ---
 
 Um novo corte no já reduzido orçamento do Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC), anunciando na semana passada pelo governo de Jair Bolsonaro, ameaça o pagamento de bolsas de estudo e, por extensão, a produção científica brasileira.

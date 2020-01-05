@@ -8,6 +8,7 @@ date: 2019-03-22 14:22:00
 pub_date: 2019-03-22 14:22:00
 time_added: 2019-03-24 07:37:30
 category: avisamos
+tags: []
 image: https://images.immedia.com.br/33/33295_2_L.jpg
 ---
 

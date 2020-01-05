@@ -8,6 +8,7 @@ date: 2019-04-05 17:40:00
 pub_date: 2019-04-05 17:40:00
 time_added: 2019-04-06 00:19:00
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23578099-31a-e33/FT1086A/652/Bolsonaro.jpg
 ---
 

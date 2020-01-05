@@ -8,6 +8,7 @@ date: 2019-06-26 14:19:48
 pub_date: 2019-06-26 14:19:48
 time_added: 2019-06-27 06:43:57
 category: 
+tags: []
 image: https://static.congressoemfoco.uol.com.br/2019/06/brumado-ricardo-stuckert-1200x630.jpg
 ---
 

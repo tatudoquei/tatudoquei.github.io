@@ -8,6 +8,7 @@ date: 2019-04-08 22:00:00
 pub_date: 2019-04-08 22:00:00
 time_added: 2019-04-09 19:02:10
 category: 
+tags: []
 ---
 
 Brasil | 08.04.2019 Cientistas desenvolvem pesquisa sobre o zika em laboratório da Fiocruz: saúde é uma das áreas ameaçadas Anos de cortes no Ministério da Ciência e Tecnologia atingem em cheio pesquisas em todas as áreas e já afetam parcerias com agências europeias.

@@ -8,6 +8,7 @@ date: 2019-06-10 03:41:06
 pub_date: 2019-06-10 03:41:06
 time_added: 2019-06-10 10:23:06
 category: 
+tags: []
 image: https://scd.france24.com/en/files/imagecache/home_1024/images/afp/6c2bdeaa4462d31f0a1945a33dd46a6f0749e207.jpg
 ---
 

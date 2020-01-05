@@ -8,6 +8,7 @@ date: 2019-05-15 14:50:00
 pub_date: 2019-05-15 14:50:00
 time_added: 2019-05-16 18:56:12
 category: 
+tags: []
 ---
 
 RIO - Em uma manhã de estresse no câmbio, o dólar turismo opera em alta de 1,02%. A divisa para quem vai viajar para o exterior chegou a ser vendida nesta quarta-feira R$ 4,20 em corretoras de câmbio do Rio.

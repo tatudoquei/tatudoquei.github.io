@@ -8,6 +8,7 @@ date: 2019-10-22 06:59:00
 pub_date: 2019-10-22 06:59:00
 time_added: 2019-10-22 22:35:27
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/01/chance-615x300.jpg
 ---
 

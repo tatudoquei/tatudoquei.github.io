@@ -8,6 +8,7 @@ date: 2019-12-18 15:19:00
 pub_date: 2019-12-18 15:19:00
 time_added: 2019-12-19 07:43:56
 category: 
+tags: []
 ---
 
 BRASÍLIA - O ministro da Economia, Paulo Guedes, afirmou nesta quarta-feira que o Brasil vai viver uma “avalanche de investimentos” em 2020, que virão tanto do mercado interno quanto de estrangeiros.

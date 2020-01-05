@@ -8,6 +8,7 @@ date: 2019-11-04 23:26:27
 pub_date: 2019-11-04 23:26:27
 time_added: 2019-11-12 23:12:13
 category: 
+tags: []
 ---
 
 “O Presidente da República, nos obriga, com suas declarações, a rememorar o que foi aquele período obscuro do País, do qual ele e seus filhos têm tanta saudade.

@@ -8,6 +8,7 @@ date: 2019-10-10 09:19:00
 pub_date: 2019-10-10 09:19:00
 time_added: 2019-10-10 21:06:43
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/interacao/facebook/uol-economia.png
 ---
 

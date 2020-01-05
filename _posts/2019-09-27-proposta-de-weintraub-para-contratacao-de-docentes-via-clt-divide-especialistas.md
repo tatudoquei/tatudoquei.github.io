@@ -8,6 +8,7 @@ date: 2019-09-27 02:30:00
 pub_date: 2019-09-27 02:30:00
 time_added: 2019-09-28 06:27:42
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23977867-5f3-445/FT1086A/652/84808391_Sao-PauloSP-26-09-2019Abraham-WeintraubFNESPEnsino-SuperiorEducacaoAbraham-W.jpg
 ---
 

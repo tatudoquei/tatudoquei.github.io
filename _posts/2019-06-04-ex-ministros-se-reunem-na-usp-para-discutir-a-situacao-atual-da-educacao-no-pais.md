@@ -8,6 +8,7 @@ date: 2019-06-04 13:04:11
 pub_date: 2019-06-04 13:04:11
 time_added: 2019-06-04 15:38:10
 category: 
+tags: []
 image: https://jornal.usp.br/wp-content/uploads/20161108_00_campus_ao_vivo3-1.jpg
 ---
 

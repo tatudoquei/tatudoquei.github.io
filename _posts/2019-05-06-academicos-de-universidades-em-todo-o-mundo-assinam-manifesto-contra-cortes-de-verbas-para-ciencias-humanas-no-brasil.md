@@ -8,6 +8,7 @@ date: 2019-05-06 18:15:00
 pub_date: 2019-05-06 18:15:00
 time_added: 2019-06-03 19:59:12
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/sociedade/23646084-35b-9cd/FT1086A/652/82124828_BSBBrasiliaBrasil09-04-2019PAPresidente-Jair-Bolsonaro-durante-cerimonia.jpg
 ---
 

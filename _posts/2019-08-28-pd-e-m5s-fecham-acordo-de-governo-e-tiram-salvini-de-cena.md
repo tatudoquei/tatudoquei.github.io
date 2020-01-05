@@ -8,6 +8,7 @@ date: 2019-08-28 18:30:00
 pub_date: 2019-08-28 18:30:00
 time_added: 2019-08-29 05:59:55
 category: 
+tags: []
 image: http://ansabrasil.com.br/webimages/foto_large/2019/8/28/4ef0041c392791e0465f86a410b9d94c.jpg
 ---
 

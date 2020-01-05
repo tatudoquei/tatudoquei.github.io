@@ -8,6 +8,7 @@ date: 2019-02-27 14:08:31
 pub_date: 2019-02-27 14:08:31
 time_added: 2019-12-23 21:21:00
 category: refletimos
+tags: []
 ---
 
 O coronel Marcus Belchior Correa Bento, acusado pela força-tarefa da Lava Jato de receber R$ 252 mil em propina por obras durante sua gestão como secretário de Conservação do município do Rio, é o novo diretor do Fundo Especial do Corpo de Bombeiros (Funesbom).

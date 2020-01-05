@@ -8,6 +8,7 @@ date: 2019-12-18 21:41:00
 pub_date: 2019-12-18 21:41:00
 time_added: 2019-12-21 10:23:24
 category: 
+tags: []
 image: https://i.em.com.br/_VwdIASBFWjgfQetDCgZPc1TIyo=/600x315/smart/imgsapp.em.com.br/app/noticia_127983242361/2019/12/18/1109202/20191218184919472745i.jpg
 ---
 

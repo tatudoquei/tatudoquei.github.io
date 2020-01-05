@@ -8,6 +8,7 @@ date: 2019-02-18 19:23:00
 pub_date: 2019-02-18 19:23:00
 time_added: 2019-12-23 21:37:47
 category: refletimos
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/02/foto-615x300.jpg
 ---
 

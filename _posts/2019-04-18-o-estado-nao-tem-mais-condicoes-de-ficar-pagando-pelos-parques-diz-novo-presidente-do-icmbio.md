@@ -8,6 +8,7 @@ date: 2019-04-18 14:53:00
 pub_date: 2019-04-18 14:53:00
 time_added: 2019-04-28 10:25:54
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23609539-59f-a64/FT1086A/652/Homero-de-Giorge-Cerqueira.jpg
 ---
 

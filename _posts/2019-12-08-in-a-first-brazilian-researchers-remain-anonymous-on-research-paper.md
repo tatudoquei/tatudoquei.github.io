@@ -8,6 +8,7 @@ date: 2019-12-08 10:03:02
 pub_date: 2019-12-08 10:03:02
 time_added: 2019-12-08 11:03:02
 category: 
+tags: []
 image: https://www.thehindu.com/sci-tech/energy-and-environment/dkrn8k/article30104283.ece/ALTERNATES/LANDSCAPE_615/JONATHAN-AMAZON4
 ---
 

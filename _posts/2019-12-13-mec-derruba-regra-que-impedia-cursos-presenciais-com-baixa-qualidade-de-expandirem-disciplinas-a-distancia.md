@@ -8,6 +8,7 @@ date: 2019-12-13 02:30:00
 pub_date: 2019-12-13 02:30:00
 time_added: 2019-12-14 17:08:55
 category: 
+tags: []
 ---
 
 Em 2018, uma portaria do MEC, ainda sob gestão do ministro Mendonça Filho (DEM) no governo de Michel Temer (MDB), definiu que cursos presenciais com Conceito de Curso (CC) 4 ou 5 (numa escala de 1 a 5) poderiam aumentar a oferta de aulas à distância de 20% para 40%.

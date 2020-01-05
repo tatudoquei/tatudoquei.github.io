@@ -8,6 +8,7 @@ date: 2019-03-29 10:22:00
 pub_date: 2019-03-29 10:22:00
 time_added: 2019-03-30 09:53:47
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2018/12/sindicato-615x300.jpg
 ---
 

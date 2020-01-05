@@ -8,6 +8,7 @@ date: 2019-06-11 10:44:00
 pub_date: 2019-06-11 10:44:00
 time_added: 2019-06-25 05:15:04
 category: 
+tags: []
 ---
 
 BRASÍLIA - O Conselho Nacional do Ministério Público (CNMP) determinou que o Ministério Público Federal (MPF) no Rio deixe de investigar o fuzilamento com 83 tiros praticado por militares do Exército em Guadalupe, na cidade do Rio.

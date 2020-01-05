@@ -8,6 +8,7 @@ date: 2018-10-31 10:46:00
 pub_date: 2018-10-31 10:46:00
 time_added: 2018-10-31 21:46:58
 category: 
+tags: [ciência]
 image: https://f.i.uol.com.br/fotografia/2018/10/31/15409967205bd9be70d60b2_1540996720_3x2_xl.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-01-10 09:43:44
 pub_date: 2019-01-10 09:43:44
 time_added: 2019-12-23 21:41:24
 category: refletimos
+tags: [bandido bom]
 image: https://static.congressoemfoco.uol.com.br/2019/01/antonio-cruz-mourao-abr-1200x630.jpg
 ---
 

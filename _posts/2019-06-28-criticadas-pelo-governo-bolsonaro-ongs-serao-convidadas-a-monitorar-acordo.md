@@ -8,6 +8,7 @@ date: 2019-06-28 18:09:00
 pub_date: 2019-06-28 18:09:00
 time_added: 2019-06-29 17:33:26
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/06/xbolsonaro-niobio.jpg.pagespeed.ic_.G92memUlOe-615x300.jpg
 ---
 

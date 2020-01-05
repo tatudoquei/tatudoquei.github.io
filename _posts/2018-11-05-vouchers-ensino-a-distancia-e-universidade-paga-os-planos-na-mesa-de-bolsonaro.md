@@ -8,6 +8,7 @@ date: 2018-11-05 15:11:03
 pub_date: 2018-11-05 15:11:03
 time_added: 2019-12-23 21:19:30
 category: refletimos
+tags: []
 image: https://ep00.epimg.net/brasil/imagenes/2018/11/01/politica/1541111385_565042_1541111554_rrss_normal.jpg
 ---
 

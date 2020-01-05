@@ -8,6 +8,7 @@ date: 2018-12-11 11:57:40
 pub_date: 2018-12-11 11:57:40
 time_added: 2019-12-23 21:15:16
 category: refletimos
+tags: []
 image: http://www.estadao.com.br/estadao/novo/img/estadao.gif
 ---
 

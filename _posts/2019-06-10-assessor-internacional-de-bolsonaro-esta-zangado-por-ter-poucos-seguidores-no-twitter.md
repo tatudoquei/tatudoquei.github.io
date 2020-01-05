@@ -8,6 +8,7 @@ date: 2019-06-10 06:00:00
 pub_date: 2019-06-10 06:00:00
 time_added: 2019-06-11 05:48:07
 category: 
+tags: []
 ---
 
 O assessor internacional de Jair Bolsonaro, Filipe G. Martins, foi ao Twitter ontem à noite para reclamar com o Twitter Brasil de que sua base de seguidores não cresce.

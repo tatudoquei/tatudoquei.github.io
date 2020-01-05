@@ -8,6 +8,7 @@ date: 2019-04-12 21:41:04
 pub_date: 2012-12-01 06:00:00
 time_added: 2019-04-12 21:41:04
 category: 
+tags: []
 image: https://ogcss.infoglobo.com.br/9876543210/img/oglobo.jpg
 ---
 

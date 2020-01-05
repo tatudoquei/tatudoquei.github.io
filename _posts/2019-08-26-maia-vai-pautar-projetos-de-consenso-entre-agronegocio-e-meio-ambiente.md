@@ -8,6 +8,7 @@ date: 2019-08-26 18:39:43
 pub_date: 2019-08-26 18:39:43
 time_added: 2019-08-26 20:39:43
 category: 
+tags: []
 image: https://www.camara.leg.br/midias/image/2019/08/img20190826160223576-768x512.jpg
 ---
 

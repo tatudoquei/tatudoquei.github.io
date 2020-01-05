@@ -8,6 +8,7 @@ date: 2019-09-02 10:22:00
 pub_date: 2019-09-02 10:22:00
 time_added: 2019-09-02 22:20:52
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/4c/2019/07/30/presidente-da-republica-jair-bolsonaro-durante-reuniao-da-comissao-de-etica-publica-1564494532670_v2_750x421.jpg
 ---
 

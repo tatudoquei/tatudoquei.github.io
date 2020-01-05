@@ -8,6 +8,7 @@ date: 2019-12-23 21:19:29
 pub_date: 2018-10-27 22:17:00
 time_added: 2019-12-23 21:19:29
 category: avisamos
+tags: [fake news]
 image: https://conteudo.imguol.com.br/c/noticias/36/2018/10/28/uol-confere-esther-1540736147464_v2_615x300.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-04-10 22:00:00
 pub_date: 2019-04-10 22:00:00
 time_added: 2019-06-19 19:08:23
 category: 
+tags: []
 ---
 
 A maioria dos brasileiros adultos (64%) avalia que a posse de armas deve ser proibida e um terço (34%) avalia que a posse de armas deve ser um direito. Uma parcela de 2% não opinou.

@@ -8,6 +8,7 @@ date: 2019-09-27 02:00:00
 pub_date: 2019-09-27 02:00:00
 time_added: 2019-09-28 06:22:31
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/42/2019/08/15/o-procurador-da-republica-deltan-dallagnol-coordenador-da-forca-tarefa-da-operacao-lava-jato-em-curitiba-1565901894313_v2_750x421.jpg
 ---
 

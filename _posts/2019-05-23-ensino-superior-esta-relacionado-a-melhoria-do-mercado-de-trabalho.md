@@ -8,6 +8,7 @@ date: 2019-05-23 15:35:52
 pub_date: 2019-05-23 15:35:52
 time_added: 2019-05-30 17:52:23
 category: 
+tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/05/20190523_00_ensinosuperior.jpg
 ---
 

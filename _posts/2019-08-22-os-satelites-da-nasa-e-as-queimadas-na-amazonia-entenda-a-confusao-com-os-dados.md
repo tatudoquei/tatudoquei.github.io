@@ -8,6 +8,7 @@ date: 2019-08-22 22:25:22
 pub_date: 2019-08-22 22:25:22
 time_added: 2019-08-23 21:24:11
 category: 
+tags: []
 image: https://abrilsuperinteressante.files.wordpress.com/2019/08/amazonia_fb.png
 ---
 

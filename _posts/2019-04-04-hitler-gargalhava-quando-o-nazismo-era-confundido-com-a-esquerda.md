@@ -8,6 +8,7 @@ date: 2019-04-04 01:02:00
 pub_date: 2019-04-04 01:02:00
 time_added: 2019-04-05 05:53:59
 category: 
+tags: []
 image: https://theintercept.imgix.net/wp-uploads/sites/1/2019/04/Hitler-1-min-1554325053.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800
 ---
 

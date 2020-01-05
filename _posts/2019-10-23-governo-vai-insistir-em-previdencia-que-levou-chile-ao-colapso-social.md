@@ -8,6 +8,7 @@ date: 2019-10-23 16:08:00
 pub_date: 2019-10-23 16:08:00
 time_added: 2019-10-23 22:15:10
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/09/jairpaulo-615x300.jpg
 ---
 

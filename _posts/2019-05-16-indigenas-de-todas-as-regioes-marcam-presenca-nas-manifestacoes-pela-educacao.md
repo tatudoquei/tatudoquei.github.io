@@ -8,6 +8,7 @@ date: 2019-05-16 00:19:12
 pub_date: 2019-05-16 00:19:12
 time_added: 2019-05-17 06:36:54
 category: 
+tags: []
 image: https://deolhonosruralistas.com.br/wp-content/uploads/2019/05/60466014_337091440337925_2879166399576539136_n.jpg
 ---
 

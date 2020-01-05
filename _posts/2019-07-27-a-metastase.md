@@ -8,6 +8,7 @@ date: 2019-07-27 16:10:50
 pub_date: 2019-07-27 16:10:50
 time_added: 2019-07-27 18:10:50
 category: 
+tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/03/150_anaisdatragediabrasileira_redes.jpg
 ---
 

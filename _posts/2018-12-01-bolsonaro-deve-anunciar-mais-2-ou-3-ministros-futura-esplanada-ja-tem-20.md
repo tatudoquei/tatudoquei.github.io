@@ -8,6 +8,7 @@ date: 2018-12-01 11:44:09
 pub_date: 2018-12-01 11:44:09
 time_added: 2018-12-03 07:53:27
 category: avisamos
+tags: []
 image: https://static.congressoemfoco.uol.com.br/2018/12/46057578941_dd54175fe9_k-e1543671694457-1200x630.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-08-17 02:30:00
 pub_date: 2019-08-17 02:30:00
 time_added: 2019-08-22 14:37:06
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23883511-937-0a1/FT1086A/652/84130102_SOCMarcello-Brito-presidente-da-Associacao-Brasileira-do-Agronegocio.jpg
 ---
 

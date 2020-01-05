@@ -8,6 +8,7 @@ date: 2019-10-02 16:00:00
 pub_date: 2019-10-02 16:00:00
 time_added: 2019-10-03 07:44:00
 category: 
+tags: []
 ---
 
 Em ofício na semana passada, Melchionna questionou se a PGR já identificou e indiciou suspeitos de ameaçar o youtuber Felipe Neto e Jean Wyllys, que renunciou ao mandato de deputado alegando ameaças.

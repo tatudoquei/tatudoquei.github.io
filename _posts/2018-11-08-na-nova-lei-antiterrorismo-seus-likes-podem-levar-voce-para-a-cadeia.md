@@ -8,6 +8,7 @@ date: 2018-11-08 01:03:00
 pub_date: 2018-11-08 01:03:00
 time_added: 2018-11-09 07:33:05
 category: refletimos
+tags: []
 image: https://theintercept.imgix.net/wp-uploads/sites/1/2018/11/policia-1-1541604538.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800
 ---
 

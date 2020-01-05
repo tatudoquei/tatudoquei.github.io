@@ -8,6 +8,7 @@ date: 2018-10-30 06:37:00
 pub_date: 2018-10-30 06:37:00
 time_added: 2019-12-23 21:19:29
 category: avisamos
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a5/2018/10/19/paulo-guedes-economista-da-campanha-de-bolsonaro-1539985859513_v2_615x300.jpg
 ---
 

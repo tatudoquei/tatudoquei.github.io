@@ -8,6 +8,7 @@ date: 2019-11-17 21:39:00
 pub_date: 2019-11-17 21:39:00
 time_added: 2019-11-17 22:39:00
 category: 
+tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/10/158_esquina6_redes.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-01-25 14:38:26
 pub_date: 2019-01-25 14:38:26
 time_added: 2019-01-26 08:54:45
 category: avisamos
+tags: []
 ---
 
 A ministra da Mulher, Família e Direitos Humanos, Damares Alves, afirmou em entrevista ao blog da jornalista Andréia Sadi, do G1, que o texto da medida provisória (MP) sobre o ensino domiciliar está pronto.

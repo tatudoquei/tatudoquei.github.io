@@ -8,6 +8,7 @@ date: 2019-04-03 20:21:01
 pub_date: 2016-05-09 19:02:13
 time_added: 2019-04-03 20:21:01
 category: 
+tags: []
 image: http://www.otempo.com.br/polopoly_fs/3.275243.1367017936!image/image.jpg_gen/derivatives/main-single-horizontal-img-article-fit_620/image.jpg
 ---
 

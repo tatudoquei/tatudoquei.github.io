@@ -8,6 +8,7 @@ date: 2018-11-24 14:18:27
 pub_date: 2018-11-24 14:18:27
 time_added: 2019-12-23 21:15:15
 category: refletimos
+tags: []
 image: https://ponte.org/wp-content/uploads/2018/11/policial-antifacismo.jpg
 ---
 

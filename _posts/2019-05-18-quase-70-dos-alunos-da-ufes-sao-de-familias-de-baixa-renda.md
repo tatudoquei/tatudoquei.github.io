@@ -8,6 +8,7 @@ date: 2019-05-18 18:25:12
 pub_date: 2019-05-18 18:25:12
 time_added: 2019-05-19 08:27:37
 category: 
+tags: []
 image: https://midiastm.gazetaonline.com.br/_midias/jpg/2019/05/17/cid180519gzp091_p01-6148592.jpg
 ---
 

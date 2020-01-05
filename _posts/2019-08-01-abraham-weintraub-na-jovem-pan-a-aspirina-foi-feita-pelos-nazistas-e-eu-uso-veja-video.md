@@ -8,6 +8,7 @@ date: 2019-08-01 18:04:32
 pub_date: 2019-08-01 18:04:32
 time_added: 2019-08-02 06:25:17
 category: 
+tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2019/08/weintraub3.jpg
 ---
 

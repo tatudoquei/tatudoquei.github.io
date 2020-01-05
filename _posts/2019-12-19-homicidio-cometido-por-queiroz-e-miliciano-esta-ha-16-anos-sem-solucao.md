@@ -8,6 +8,7 @@ date: 2019-12-19 14:24:53
 pub_date: 2019-12-19 14:24:53
 time_added: 2019-12-21 10:26:30
 category: 
+tags: []
 image: https://abrilveja.files.wordpress.com/2019/02/fabricio-queiroz-entrevista-sbtc-2018-2799-copy.jpg.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

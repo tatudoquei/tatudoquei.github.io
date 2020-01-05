@@ -8,6 +8,7 @@ date: 2019-06-27 06:37:17
 pub_date: 2019-06-27 06:37:17
 time_added: 2019-06-27 20:59:33
 category: 
+tags: []
 image: https://s2.glbimg.com/iEXN_tbGKB7WskmbudFKRUs5PL4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/x/1/HeKwAPQqAr9B3PmiG4VA/bolsonaro1.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-04-08 11:05:00
 pub_date: 2019-04-08 11:05:00
 time_added: 2019-04-09 18:50:08
 category: 
+tags: []
 image: https://painel.blogfolha.uol.com.br/files/2019/01/olavo-de-carvalho.jpg
 ---
 

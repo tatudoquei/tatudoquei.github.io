@@ -8,6 +8,7 @@ date: 2019-05-10 01:40:32
 pub_date: 2019-05-10 01:40:32
 time_added: 2019-05-09 22:40:32
 category: 
+tags: []
 image: http://www.mpf.mp.br/sp/sala-de-imprensa/noticias-sp/mpf-recomenda-ao-ministerio-da-saude-que-atue-contra-a-violencia-obstetrica-em-vez-de-proibir-o-uso-do-termo/@@images/f5ebf325-28de-4a5d-b088-7753c21f284e.png
 ---
 

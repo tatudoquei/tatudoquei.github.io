@@ -8,6 +8,7 @@ date: 2019-08-07 10:06:09
 pub_date: 2019-08-07 10:06:09
 time_added: 2019-08-07 19:25:30
 category: 
+tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2019/08/CNUC_MMA.jpg
 ---
 

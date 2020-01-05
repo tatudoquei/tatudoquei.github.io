@@ -8,6 +8,7 @@ date: 2019-08-24 03:20:31
 pub_date: 2019-08-24 03:20:31
 time_added: 2019-08-26 06:34:18
 category: 
+tags: []
 image: https://sustentabilidade.estadao.com.br/blogs/ambiente-se/wp-content/uploads/sites/92/2019/08/galvao.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-03-22 23:00:00
 pub_date: 2019-03-22 23:00:00
 time_added: 2019-03-24 14:38:05
 category: avisamos
+tags: []
 image: https://www.dw.com/image/48041357_304.jpg
 ---
 

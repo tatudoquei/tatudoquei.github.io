@@ -8,6 +8,7 @@ date: 2019-08-07 15:03:00
 pub_date: 2019-08-07 15:03:00
 time_added: 2019-08-08 05:44:52
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2019/06/lula-tenso-maos-615x300.jpg
 ---
 

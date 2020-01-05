@@ -8,6 +8,7 @@ date: 2019-11-03 04:01:00
 pub_date: 2019-11-03 04:01:00
 time_added: 2019-11-03 13:21:04
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/58/files/2019/11/BolsonaroBoinaMauroPimentelAFP-615x300.jpg
 ---
 

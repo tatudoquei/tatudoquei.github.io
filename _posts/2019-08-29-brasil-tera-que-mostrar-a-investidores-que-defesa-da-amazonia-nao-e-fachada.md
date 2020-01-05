@@ -8,6 +8,7 @@ date: 2019-08-29 14:38:00
 pub_date: 2019-08-29 14:38:00
 time_added: 2019-08-30 06:00:55
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/08/geocidio-615x300.jpg
 ---
 

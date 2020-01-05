@@ -8,6 +8,7 @@ date: 2019-06-04 20:35:42
 pub_date: 2019-06-04 20:35:42
 time_added: 2019-06-04 22:35:42
 category: 
+tags: []
 image: https://www.socioambiental.org/sites/blog.socioambiental.org/files/styles/twitter-card/public/blogs/rs4380_1020_20161109_2-lpr_0.jpg?itok=qPXyIs_3
 ---
 

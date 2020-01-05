@@ -8,6 +8,7 @@ date: 2018-12-11 20:26:42
 pub_date: 2018-12-11 20:26:42
 time_added: 2018-12-11 23:41:24
 category: avisamos
+tags: []
 image: https://s2.glbimg.com/pHE8kKHcgwl7uA33rnJRjjNE8ok=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2018/11/27/maismedicos1.jpg
 ---
 

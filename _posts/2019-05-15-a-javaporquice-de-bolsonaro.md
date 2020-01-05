@@ -8,6 +8,7 @@ date: 2019-05-15 18:26:00
 pub_date: 2019-05-15 18:26:00
 time_added: 2019-05-30 14:44:55
 category: 
+tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2018/07/toledoredes.jpg
 ---
 

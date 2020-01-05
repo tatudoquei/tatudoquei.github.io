@@ -8,6 +8,7 @@ date: 2019-12-06 13:07:00
 pub_date: 2019-12-06 13:07:00
 time_added: 2019-12-07 07:29:42
 category: 
+tags: []
 ---
 
 BRASÍLIA — Promessa do presidente Jair Bolsonaro feita antes mesmo de tomar posse, a ideia de transferência da Embaixada do Brasil de Tel Aviv para Jerusalém não está engavetada.

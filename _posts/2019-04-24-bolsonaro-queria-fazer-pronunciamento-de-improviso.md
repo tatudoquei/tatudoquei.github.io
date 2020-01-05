@@ -8,6 +8,7 @@ date: 2019-04-24 19:28:00
 pub_date: 2019-04-24 19:28:00
 time_added: 2019-04-26 03:57:33
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/economia/23619731-f3c-47f/FT1086A/652/82359425_PA-Rio-de-Janeiro-RJ-24-04-2019-Pronunciamento-do-Presidente-Jair-Bolsonaro-sobre-a-reforma.jpg
 ---
 

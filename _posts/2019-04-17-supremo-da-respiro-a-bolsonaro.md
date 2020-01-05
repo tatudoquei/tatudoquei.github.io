@@ -8,6 +8,7 @@ date: 2019-04-17 06:08:57
 pub_date: 2019-04-17 06:08:57
 time_added: 2019-04-18 22:22:58
 category: 
+tags: []
 image: https://statics.estadao.com.br/s2016/br18/br18.png
 ---
 

@@ -8,6 +8,7 @@ date: 2019-02-12 10:35:47
 pub_date: 2019-02-12 10:35:47
 time_added: 2019-12-23 21:37:46
 category: refletimos
+tags: [meio ambiente]
 ---
 
 É incrível como Chico Mendes, na sua simplicidade, teve a sabedoria e a visão pioneira para configurar grandes discussões da humanidade. Chico significou o conceito de socioambientalismo, ao integrar na prática proteção do meio ambiente com justiça social, e economia com ecologia.

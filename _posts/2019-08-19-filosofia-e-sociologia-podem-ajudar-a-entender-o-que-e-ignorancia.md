@@ -8,6 +8,7 @@ date: 2019-08-19 15:20:33
 pub_date: 2019-08-19 15:20:33
 time_added: 2019-08-22 08:57:19
 category: 
+tags: []
 image: https://jornal.usp.br/wp-content/uploads/2018/08/20180817_odio_redesocial.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-11-23 07:18:17
 pub_date: 2019-11-23 07:18:17
 time_added: 2019-11-23 08:18:17
 category: 
+tags: []
 image: https://ipam.org.br/wp-content/uploads/2017/09/LucasPaolucci.jpg
 ---
 

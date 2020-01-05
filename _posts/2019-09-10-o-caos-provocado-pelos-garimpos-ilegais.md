@@ -8,6 +8,7 @@ date: 2019-09-10 02:24:19
 pub_date: 2019-09-10 02:24:19
 time_added: 2019-09-11 20:56:16
 category: 
+tags: []
 image: http://climainfo.org.br/wp-content/uploads/2019/09/garimpeiros.jpg
 ---
 

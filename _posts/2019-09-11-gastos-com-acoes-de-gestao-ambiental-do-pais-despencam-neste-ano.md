@@ -8,6 +8,7 @@ date: 2019-09-11 03:02:15
 pub_date: 2019-09-11 03:02:15
 time_added: 2019-09-15 09:37:21
 category: 
+tags: []
 image: https://sustentabilidade.estadao.com.br/blogs/ambiente-se/wp-content/uploads/sites/92/2019/01/46574304741_ca47aac9ad_k.jpg
 ---
 

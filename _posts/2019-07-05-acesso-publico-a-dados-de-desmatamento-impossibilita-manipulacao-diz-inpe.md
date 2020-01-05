@@ -8,6 +8,7 @@ date: 2019-07-05 15:57:02
 pub_date: 2019-07-05 15:57:02
 time_added: 2019-07-07 15:38:57
 category: 
+tags: []
 ---
 
 Meio Ambiente | 05.07.2019 Alvo de desconfiança de autoridades, sistema que monitora desmatamento na Amazônia há 30 anos dá livre acesso a imagens de satélite que geram índices. Mecanismo de alerta em tempo real mostra tendência de alta em 2019.

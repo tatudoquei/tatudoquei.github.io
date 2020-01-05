@@ -8,6 +8,7 @@ date: 2019-05-21 13:04:09
 pub_date: 2019-05-21 13:04:09
 time_added: 2019-05-21 19:35:47
 category: 
+tags: []
 image: https://deolhonosruralistas.com.br/wp-content/uploads/2019/05/FPA-financiamento-recorte.jpg
 ---
 

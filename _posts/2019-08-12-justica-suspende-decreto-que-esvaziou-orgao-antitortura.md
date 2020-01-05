@@ -8,6 +8,7 @@ date: 2019-08-12 16:52:12
 pub_date: 2019-08-12 16:52:12
 time_added: 2019-08-14 07:01:03
 category: 
+tags: []
 ---
 
 Brasil | 12.08.2019 Entidades de direitos humanos haviam denunciado a medida de Bolsonaro como um "retrocesso" e um "desmantelamento" do MNPCT Medida de Jair Bolsonaro havia exonerado peritos independentes de mecanismo responsável por fiscalizar violações de direitos humanos em presídios.

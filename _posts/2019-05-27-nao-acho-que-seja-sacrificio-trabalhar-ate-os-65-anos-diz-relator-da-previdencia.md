@@ -8,6 +8,7 @@ date: 2019-05-27 14:12:41
 pub_date: 2019-05-27 14:12:41
 time_added: 2019-05-28 17:13:07
 category: 
+tags: []
 image: http://208.84.247.237/_midias/jpg/2019/05/07/2019_05_07t181924z_1_lynxnpef461if_rtroptp_4_brazil_politics_pensions-362555.jpg
 ---
 

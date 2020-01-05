@@ -8,6 +8,7 @@ date: 2019-02-18 22:10:09
 pub_date: 2019-02-18 22:10:09
 time_added: 2019-12-23 21:37:47
 category: refletimos
+tags: []
 image: https://abrilveja.files.wordpress.com/2019/02/brasil-militares-governo-bolsonaro.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

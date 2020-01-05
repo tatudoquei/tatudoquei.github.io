@@ -8,6 +8,7 @@ date: 2019-03-29 06:53:49
 pub_date: 2019-03-29 06:53:49
 time_added: 2019-03-30 09:49:07
 category: 
+tags: []
 image: https://cultura.estadao.com.br/blogs/babel/wp-content/uploads/sites/110/2019/03/babel-1.jpg
 ---
 

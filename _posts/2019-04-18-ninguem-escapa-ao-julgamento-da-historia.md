@@ -8,6 +8,7 @@ date: 2019-04-18 18:33:00
 pub_date: 2019-04-18 18:33:00
 time_added: 2019-05-16 22:11:59
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/279/files/2019/04/josepadilha-615x300.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-11-25 14:57:26
 pub_date: 2019-11-25 14:57:26
 time_added: 2019-11-25 23:01:54
 category: 
+tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/11/VICTOR-MORIYAMA-GREENPEACE.jpg
 ---
 

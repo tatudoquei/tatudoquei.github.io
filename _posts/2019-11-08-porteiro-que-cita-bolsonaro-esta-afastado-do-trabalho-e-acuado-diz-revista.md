@@ -8,6 +8,7 @@ date: 2019-11-08 08:07:00
 pub_date: 2019-11-08 08:07:00
 time_added: 2019-11-08 13:46:26
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/99/2019/11/08/reportagem-da-revista-veja-identifica-o-porteiro-que-citou-bolsonaro-como-alberto-jorge-ferreira-mateus-1573214255280_v2_615x300.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-07-27 14:20:00
 pub_date: 2019-07-27 14:20:00
 time_added: 2019-07-28 21:37:02
 category: 
+tags: []
 ---
 
 RIO E BRASÍLIA — O jornalista Glenn Greenwald criticou o presidente Jair Bolsonaro por ter insinuado, em entrevista coletiva neste sábado, que o editor do The Intercept Brasil poderia ser preso após a divulgação de mensagens do atual ministro da Justiça, Sergio Moro, e de procuradores da for

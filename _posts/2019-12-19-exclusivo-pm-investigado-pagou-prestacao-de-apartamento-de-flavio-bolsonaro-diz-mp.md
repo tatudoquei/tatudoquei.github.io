@@ -8,6 +8,7 @@ date: 2019-12-19 09:34:41
 pub_date: 2019-12-19 09:34:41
 time_added: 2019-12-18 20:18:43
 category: 
+tags: []
 image: https://cdn.crusoe.com.br/uploads/2019/05/40833174813_a3460b9c3e_o.jpg
 ---
 

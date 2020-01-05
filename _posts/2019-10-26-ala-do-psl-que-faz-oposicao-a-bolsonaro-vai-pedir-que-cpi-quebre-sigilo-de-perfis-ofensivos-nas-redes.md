@@ -8,6 +8,7 @@ date: 2019-10-26 00:00:00
 pub_date: 2019-10-26 00:00:00
 time_added: 2019-10-26 11:19:20
 category: 
+tags: []
 image: https://painel.blogfolha.uol.com.br/files/2019/10/bivar_bolsonaro.jpg
 ---
 

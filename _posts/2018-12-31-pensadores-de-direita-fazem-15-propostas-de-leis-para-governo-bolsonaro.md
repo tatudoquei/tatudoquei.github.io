@@ -8,6 +8,7 @@ date: 2018-12-31 03:00:00
 pub_date: 2018-12-31 03:00:00
 time_added: 2019-01-04 00:36:05
 category: avisamos
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/3b/2018/12/05/5dez2018---o-presidente-eleito-jair-bolsonaro-psl-concede-entrevista-no-quartel-general-do-exercito-em-brasilia-nesta-quarta-feira-5-ele-recebeu-a-medalha-do-pacificador-com-palma-do-exercito-1544035225997_v2_615x300.jpg
 ---
 

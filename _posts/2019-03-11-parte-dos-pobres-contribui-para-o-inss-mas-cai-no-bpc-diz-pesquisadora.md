@@ -8,6 +8,7 @@ date: 2019-03-11 10:17:00
 pub_date: 2019-03-11 10:17:00
 time_added: 2019-03-18 19:34:07
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2018/12/idosoo-615x300.jpeg
 ---
 

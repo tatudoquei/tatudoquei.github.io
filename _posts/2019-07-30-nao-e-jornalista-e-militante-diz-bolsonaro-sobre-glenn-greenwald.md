@@ -8,6 +8,7 @@ date: 2019-07-30 09:39:00
 pub_date: 2019-07-30 09:39:00
 time_added: 2019-08-01 21:06:04
 category: 
+tags: []
 ---
 
 BRASÍLIA - O presidente Jair Bolsonaro voltou a atacar, nesta terça-feira, o jornalista Glenn Greenwald, fundador do site "The Intercept", responsável por divulgar mensagens atribuídas a procuradores e políticos, a quem chamou de "militante".

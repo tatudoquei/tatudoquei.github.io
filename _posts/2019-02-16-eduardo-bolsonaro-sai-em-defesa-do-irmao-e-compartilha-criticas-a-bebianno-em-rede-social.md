@@ -8,6 +8,7 @@ date: 2019-02-16 17:06:00
 pub_date: 2019-02-16 17:06:00
 time_added: 2019-02-17 23:43:33
 category: avisamos
+tags: []
 ---
 
 BRASÍLIA — O deputado federal Eduardo Bolsonaro (PSL-SP) entrou, neste sábado, na briga na travada entre o ministro Gustavo Bebianno, da Secretaria-Geral da Presidência, e seu irmão, o vereador Carlos Bolsonaro (PSC-RJ).

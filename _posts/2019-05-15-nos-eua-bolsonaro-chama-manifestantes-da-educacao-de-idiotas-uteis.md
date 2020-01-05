@@ -8,6 +8,7 @@ date: 2019-05-15 15:19:00
 pub_date: 2019-05-15 15:19:00
 time_added: 2019-05-18 08:47:47
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/mundo/23667273-936-f5f/FT1086A/652/82672030_DallasTexas-15-05-2019-Presidente-da-Republica-Jair-Bolsonaro-fala-com-brasileiros-e.jpg
 ---
 

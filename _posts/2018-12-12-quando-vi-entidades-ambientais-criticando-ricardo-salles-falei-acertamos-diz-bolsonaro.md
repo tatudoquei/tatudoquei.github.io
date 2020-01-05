@@ -8,6 +8,7 @@ date: 2018-12-12 22:38:20
 pub_date: 2018-12-12 22:38:20
 time_added: 2018-12-13 07:22:49
 category: avisamos
+tags: []
 image: https://img.estadao.com.br/resources/jpg/8/7/1544651290478.jpg
 ---
 

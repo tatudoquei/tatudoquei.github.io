@@ -8,6 +8,7 @@ date: 2019-03-06 15:39:00
 pub_date: 2019-03-06 15:39:00
 time_added: 2019-03-07 11:38:24
 category: avisamos
+tags: []
 image: https://i.kinja-img.com/gawker-media/image/upload/s--v-r3fioh--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/rewfda23u2brh9xaxgz7.jpg
 ---
 

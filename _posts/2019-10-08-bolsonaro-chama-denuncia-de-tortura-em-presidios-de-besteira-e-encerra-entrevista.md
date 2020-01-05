@@ -8,6 +8,7 @@ date: 2019-10-08 08:41:00
 pub_date: 2019-10-08 08:41:00
 time_added: 2019-10-10 01:52:34
 category: 
+tags: []
 ---
 
 BRASÍLIA — O presidente Jair Bolsonaro chamou de "besteira" a denúncia do Ministério Público Federal (MPF) de um quadro de tortura na intervenção federal no sistema penitenciário do Pará, conforme O GLOBO mostrou nesta terça-feira, e encerrou uma entrevista após ser questionado sobre o a

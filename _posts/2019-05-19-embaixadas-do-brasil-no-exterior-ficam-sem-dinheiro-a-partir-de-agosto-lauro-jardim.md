@@ -8,6 +8,7 @@ date: 2019-05-19 09:00:00
 pub_date: 2019-05-19 09:00:00
 time_added: 2019-05-20 22:36:32
 category: 
+tags: []
 image: https://s2.glbimg.com/zfVoN6k9yIcT6BCMylyPGiga3rE=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2018/02/05/71583592_bsb_-_brasilia_-_brasil_-_11-09-2017_-_boa_viagem_-_palacio_do_itamaraty_foto_gival.jpg
 ---
 

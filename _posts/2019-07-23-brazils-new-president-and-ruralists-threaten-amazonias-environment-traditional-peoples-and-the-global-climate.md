@@ -8,6 +8,7 @@ date: 2019-07-23 22:00:00
 pub_date: 2019-07-23 22:00:00
 time_added: 2019-07-27 18:11:33
 category: 
+tags: []
 ---
 
 Full text views reflects the number of PDF downloads, PDFs sent to Google Drive, Dropbox and Kindle and HTML full text views.

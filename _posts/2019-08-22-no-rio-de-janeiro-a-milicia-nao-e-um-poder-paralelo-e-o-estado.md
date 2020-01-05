@@ -8,6 +8,7 @@ date: 2019-08-22 21:22:49
 pub_date: 2019-08-22 21:22:49
 time_added: 2019-08-22 14:37:16
 category: 
+tags: []
 image: https://ep00.epimg.net/brasil/imagenes/2019/01/29/politica/1548794774_637466_1548795850_rrss_normal.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-06-07 18:48:18
 pub_date: 2019-06-07 18:48:18
 time_added: 2019-07-25 20:43:55
 category: 
+tags: []
 image: https://luizmullerpt.files.wordpress.com/2019/06/guedes-bozo.jpg
 ---
 

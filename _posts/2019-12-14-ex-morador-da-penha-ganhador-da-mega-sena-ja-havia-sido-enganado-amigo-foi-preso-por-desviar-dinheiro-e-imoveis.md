@@ -8,6 +8,7 @@ date: 2019-12-14 15:59:26
 pub_date: 2019-12-14 15:59:26
 time_added: 2019-12-14 16:59:26
 category: 
+tags: []
 ---
 
 A vida de um ex-morador da Vila Cruzeiro, na Penha, Zona Norte do Rio, mudou da água para o vinho desde 2017, quando ele ganhou um prêmio de mais de R$ 100 milhões na Mega-sena.

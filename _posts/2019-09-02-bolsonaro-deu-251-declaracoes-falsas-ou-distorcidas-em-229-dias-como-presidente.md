@@ -8,6 +8,7 @@ date: 2019-09-02 19:46:28
 pub_date: 2019-09-02 19:46:28
 time_added: 2019-09-02 21:46:28
 category: 
+tags: []
 image: http://www.portalimprensa.com.br/content_file_storage/2019/08/22/bolso%201.png
 ---
 

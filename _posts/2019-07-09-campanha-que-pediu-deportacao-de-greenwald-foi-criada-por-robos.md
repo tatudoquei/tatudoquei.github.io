@@ -8,6 +8,7 @@ date: 2019-07-09 16:22:40
 pub_date: 2019-07-09 16:22:40
 time_added: 2019-07-09 18:22:40
 category: 
+tags: []
 image: https://www.diariodocentrodomundo.com.br/wp-content/uploads/2013/10/o-GLENN-GREENWALD-EDWARD-SNOWDEN-facebook.jpg
 ---
 

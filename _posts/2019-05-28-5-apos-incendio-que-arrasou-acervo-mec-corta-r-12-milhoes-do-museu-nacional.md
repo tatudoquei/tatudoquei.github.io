@@ -8,6 +8,7 @@ date: 2019-05-28 18:41:02
 pub_date: 2019-05-28 18:41:02
 time_added: 2019-05-29 19:42:52
 category: 
+tags: []
 ---
 
 Em 2019, o museu deve contar com R$ 85 milhões para a realização de obras de reconstrução e para a recuperação do acervo O bloqueio orçamentário anunciado pela gestão do presidente Jair Bolsonaro (PSL) para o MEC atinge recursos destinados para a reconstrução do Museu Nacional, atingido

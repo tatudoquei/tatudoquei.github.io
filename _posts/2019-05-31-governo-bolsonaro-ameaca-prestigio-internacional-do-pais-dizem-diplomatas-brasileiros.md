@@ -8,6 +8,7 @@ date: 2019-05-31 04:38:00
 pub_date: 2019-05-31 04:38:00
 time_added: 2019-06-02 05:01:45
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/06/2019/05/31/o-termo-soft-power-e-usado-para-definir-a-capacidade-que-um-pais-tem-de-influenciar-decisoes-internacionais-pela-persuasao-e-imagem-positiva-junta-a-outros-paises-sem-precisar-usar-coercao-poderio-1559295484669_v2_615x300.jpg
 ---
 

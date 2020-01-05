@@ -8,6 +8,7 @@ date: 2019-12-04 20:21:11
 pub_date: 2019-12-04 20:21:11
 time_added: 2019-12-06 07:11:26
 category: 
+tags: []
 image: https://s2.glbimg.com/EfYXkBIQLEq9SL6YYkdS31f6F0c=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/m/V/ANRnTBRaaGBqk4qG7dtw/sergio-nascimento.jpg
 ---
 

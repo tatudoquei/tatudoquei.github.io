@@ -8,6 +8,7 @@ date: 2019-07-29 06:00:00
 pub_date: 2019-07-29 06:00:00
 time_added: 2019-07-29 23:33:36
 category: 
+tags: []
 image: https://www.estadao.com.br/estadao/novo/img/estadao.gif
 ---
 

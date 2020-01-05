@@ -8,6 +8,7 @@ date: 2019-06-26 13:54:00
 pub_date: 2019-06-26 13:54:00
 time_added: 2019-06-27 05:35:09
 category: 
+tags: []
 ---
 
 RIO - O desembargador Antônio Carlos Nascimento Amado, da 3ª Câmara Criminal, negou na terça-feira habeas corpus pedido pelo senador Flávio Bolsonaro para suspender a quebra de sigilo fiscal e bancário dele feita a pedido do Ministério Público do Rio e deferida em abril.

@@ -8,6 +8,7 @@ date: 2019-05-15 20:08:00
 pub_date: 2019-05-15 20:08:00
 time_added: 2019-05-17 07:50:15
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23668104-4b2-660/FT1086A/652/82677730_BSBBrasiliaBrasil15-05-2019Ministro-da-Educacao-Abraham-Weintraub-vai-ao-pl.jpg
 ---
 

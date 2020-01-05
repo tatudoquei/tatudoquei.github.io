@@ -8,6 +8,7 @@ date: 2018-11-29 16:56:00
 pub_date: 2018-11-29 16:56:00
 time_added: 2018-12-07 00:24:16
 category: avisamos
+tags: []
 ---
 
 Na manhã desta quinta-feira, sexo oral, orgias, pênis eretos e homossexualidade foram o tema de uma palestra de Guilherme Schelb, procurador regional da República, para cerca de 40 colegas de Ministério Público.

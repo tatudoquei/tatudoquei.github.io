@@ -8,6 +8,7 @@ date: 2019-07-19 07:12:00
 pub_date: 2019-07-19 07:12:00
 time_added: 2019-07-19 22:53:31
 category: 
+tags: []
 image: https://ambiencia.blogfolha.uol.com.br/files/2019/07/kim.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-01-24 03:00:00
 pub_date: 2019-01-24 03:00:00
 time_added: 2019-12-23 21:37:44
 category: refletimos
+tags: []
 image: https://s2.glbimg.com/kcZr0NyRsvFFu9gx6B6VPveVs84=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/01/22/80757813_brazilian_president_jair_bolsonaro_enters_the_stage_prior_to_deliver_a_speech_during_the_wo.jpg
 ---
 

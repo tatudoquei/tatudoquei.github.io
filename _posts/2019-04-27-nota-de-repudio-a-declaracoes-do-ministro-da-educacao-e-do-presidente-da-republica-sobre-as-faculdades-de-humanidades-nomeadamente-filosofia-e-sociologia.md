@@ -8,6 +8,7 @@ date: 2019-04-27 07:51:56
 pub_date: 2019-04-27 07:51:56
 time_added: 2019-04-27 09:51:56
 category: 
+tags: []
 ---
 
 A Associação Nacional de Pós-graduação em Filosofia (ANPOF) e associações abaixo mencionadas repudiam veementemente as falas recentes do atual presidente da república e de seu ministro da educação sobre o ensino e a pesquisa na área de humanidades, especificamente em filosofia e sociologi

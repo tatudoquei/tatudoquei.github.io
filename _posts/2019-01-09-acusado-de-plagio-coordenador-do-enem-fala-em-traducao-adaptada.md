@@ -8,6 +8,7 @@ date: 2019-01-09 18:48:22
 pub_date: 2019-01-09 18:48:22
 time_added: 2019-01-09 23:52:55
 category: avisamos
+tags: []
 image: https://abrilveja.files.wordpress.com/2019/01/brasil-murilo-resende-20190109-002.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

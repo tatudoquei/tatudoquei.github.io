@@ -8,6 +8,7 @@ date: 2019-06-23 09:09:00
 pub_date: 2019-06-23 09:09:00
 time_added: 2019-06-25 05:25:46
 category: 
+tags: []
 ---
 
 BRASÍLIA -A Receita Federal descobriu um esquema bilionário de sonegação fiscal, capitaneado por produtores rurais de Minas Gerais, mas que pode ter alcançado ao menos 12 estados e o Distrito Federal.

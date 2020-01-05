@@ -8,6 +8,7 @@ date: 2019-04-11 17:10:56
 pub_date: 2019-04-11 17:10:56
 time_added: 2019-06-15 08:49:02
 category: 
+tags: []
 image: http://conexaoplaneta.com.br/wp-content/uploads/2018/11/lider-bancada-ruralista-sera-ministra-da-agricultura-foto-wilson-dias-agencia-brasil.jpg
 ---
 

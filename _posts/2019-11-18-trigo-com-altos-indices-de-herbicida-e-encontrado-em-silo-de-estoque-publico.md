@@ -8,6 +8,7 @@ date: 2019-11-18 22:11:38
 pub_date: 2019-11-18 22:11:38
 time_added: 2019-11-18 23:11:38
 category: 
+tags: []
 image: https://media.gazetadopovo.com.br/2019/11/07183003/trigo-660x372.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-09-04 05:51:00
 pub_date: 2019-09-04 05:51:00
 time_added: 2019-09-07 08:27:02
 category: 
+tags: []
 image: https://estaticos.globoradio.globo.com/fotos/2019/09/6bc43313-731f-4461-9a87-4447f4e17d15.jpg.640x360_q75_box-0%2C210%2C960%2C750_crop_detail.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-07-08 02:00:00
 pub_date: 2019-07-08 02:00:00
 time_added: 2019-07-12 06:09:59
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2b/2017/03/29/estudante-estudar-escrever-redacao-grupo-de-estudos-educacao-universidade-1490799732446_v2_615x300.jpg
 ---
 

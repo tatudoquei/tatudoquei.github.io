@@ -8,6 +8,7 @@ date: 2019-03-21 10:16:00
 pub_date: 2019-03-21 10:16:00
 time_added: 2019-12-23 21:19:33
 category: refletimos
+tags: []
 ---
 
 RIO - A força-tarefa da Lava-Jato prendeu na manhã desta quinta-feira o ex-presidente Michel Temer e seu ex-ministro das Minas e Energia Moreira Franco.

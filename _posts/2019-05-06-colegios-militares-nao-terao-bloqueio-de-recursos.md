@@ -8,6 +8,7 @@ date: 2019-05-06 03:00:00
 pub_date: 2019-05-06 03:00:00
 time_added: 2019-05-08 15:20:57
 category: 
+tags: []
 image: https://www.correiodopovo.com.br/image/policy:1.337279:1557197050/image.jpg?a=191%3A100&q=0.6&w=900&$p$a$q$w=61e089e
 ---
 

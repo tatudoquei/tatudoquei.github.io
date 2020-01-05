@@ -8,6 +8,7 @@ date: 2019-11-28 19:00:00
 pub_date: 2019-11-28 19:00:00
 time_added: 2019-11-29 07:05:13
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/96/2019/11/28/28nov2019---texto-manipula-dados-de-pesquisas-para-dizer-que-aprovacao-a-bolsonaro-cresceu-1574980520423_v2_615x300.png
 ---
 

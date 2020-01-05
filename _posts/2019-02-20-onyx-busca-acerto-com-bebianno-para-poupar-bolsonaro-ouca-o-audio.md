@@ -8,6 +8,7 @@ date: 2019-02-20 18:04:00
 pub_date: 2019-02-20 18:04:00
 time_added: 2019-02-21 10:07:30
 category: avisamos
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23460720-d21-e32/FT1086A/652/80475086_PA-Brasilia-BSB-02-01-2019-Um-dia-apos-a-posse-o-presidente-Jair-Bolsonaro-participou-n.jpg
 ---
 

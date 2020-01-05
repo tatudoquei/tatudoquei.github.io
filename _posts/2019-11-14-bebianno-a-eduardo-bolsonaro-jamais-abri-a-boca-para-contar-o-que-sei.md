@@ -8,6 +8,7 @@ date: 2019-11-14 18:17:26
 pub_date: 2019-11-14 18:17:26
 time_added: 2019-11-15 04:20:12
 category: 
+tags: []
 image: https://static.congressoemfoco.uol.com.br/2019/11/vac_abr_14011910416-1140x630.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2018-12-11 21:12:00
 pub_date: 2018-12-11 21:12:00
 time_added: 2018-12-12 23:35:02
 category: avisamos
+tags: []
 ---
 
 RIO — A maior parte dos depósitos em espécie na conta de Fabrício de Queiroz, ex-assessor do deputado estadual e senador eleito Flávio Bolsonaro, coincidem com as datas de pagamento na Assembleia Legislativa do Rio, segundo o Jornal Nacional.

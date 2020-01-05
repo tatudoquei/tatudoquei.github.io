@@ -8,6 +8,7 @@ date: 2019-08-29 00:00:00
 pub_date: 2019-08-29 00:00:00
 time_added: 2019-09-07 08:19:59
 category: 
+tags: []
 image: https://www.economist.com/sites/default/files/images/print-edition/20190831_AMD001_0.jpg
 ---
 

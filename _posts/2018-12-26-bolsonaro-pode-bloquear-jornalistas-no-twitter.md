@@ -8,6 +8,7 @@ date: 2018-12-26 23:00:00
 pub_date: 2018-12-26 23:00:00
 time_added: 2019-12-23 21:41:23
 category: refletimos
+tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Bolsonaro_Twitter.png/ALTERNATES/LANDSCAPE_720/Bolsonaro_Twitter.png
 ---
 

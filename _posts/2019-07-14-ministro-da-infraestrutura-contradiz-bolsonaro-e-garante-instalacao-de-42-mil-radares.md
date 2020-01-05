@@ -8,6 +8,7 @@ date: 2019-07-14 16:30:00
 pub_date: 2019-07-14 16:30:00
 time_added: 2019-07-15 22:20:05
 category: 
+tags: []
 ---
 
 BRASÍLIA E RIO - Na contramão de afirmações do presidente Jair Bolsonaro, o ministro da Infraestrutura, Tarcísio de Freitas, enviou à Câmara dos Deputados um ofício em que menciona a instalação de radares em 4.204 pontos de rodovias federais ainda este ano.

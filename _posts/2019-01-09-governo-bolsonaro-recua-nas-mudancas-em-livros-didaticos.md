@@ -8,6 +8,7 @@ date: 2019-01-09 05:52:50
 pub_date: 2019-01-09 05:52:50
 time_added: 2019-12-23 21:15:16
 category: recuadas
+tags: [educação]
 ---
 
 O governo de Jair Bolsonaro recuou da mudança nos critérios de avaliação dos livros didáticos, depois que a medida foi divulgada pelo Estadão.

@@ -8,6 +8,7 @@ date: 2019-01-31 00:29:41
 pub_date: 2019-01-31 00:29:41
 time_added: 2019-01-31 23:39:02
 category: avisamos
+tags: []
 image: https://abrilexame.files.wordpress.com/2016/10/size_960_16_9_fachada-do-ministerio-da-educacao-mec-em-brasilia1.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

@@ -8,6 +8,7 @@ date: 2019-02-03 16:57:00
 pub_date: 2019-02-03 16:57:00
 time_added: 2019-02-04 23:30:33
 category: avisamos
+tags: []
 ---
 
 RIO — O novo presidente do Senado, Davi Alcolumbre (DEM-AP), eleito no sábado em sessão tumultuada, é investigado em dois inquéritos no Supremo Tribunal Federal (STF), que investigam possíveis crimes ocorridos durante a campanha eleitoral de 2014, quando ele se elegeu senador.

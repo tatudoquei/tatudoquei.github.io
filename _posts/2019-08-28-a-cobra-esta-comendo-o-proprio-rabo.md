@@ -8,6 +8,7 @@ date: 2019-08-28 20:14:37
 pub_date: 2019-08-28 20:14:37
 time_added: 2019-08-28 22:14:37
 category: 
+tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/08/20190827_incendio_amazonia.jpg
 ---
 

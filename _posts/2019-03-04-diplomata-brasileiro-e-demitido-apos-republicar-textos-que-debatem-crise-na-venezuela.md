@@ -8,6 +8,7 @@ date: 2019-03-04 16:23:00
 pub_date: 2019-03-04 16:23:00
 time_added: 2019-12-23 21:21:00
 category: refletimos
+tags: []
 ---
 
 O embaixador Paulo Roberto de Almeida foi demitido nesta segunda-feira (4) do cargo de diretor do Instituto de Pesquisa de Relações Internacionais (Ipri), órgão vinculado ao Ministério das Relações Exteriores.

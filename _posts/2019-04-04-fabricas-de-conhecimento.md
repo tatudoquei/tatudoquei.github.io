@@ -8,6 +8,7 @@ date: 2019-04-04 22:00:00
 pub_date: 2019-04-04 22:00:00
 time_added: 2019-06-11 06:47:38
 category: refletimos
+tags: [ciência]
 image: https://jornal.usp.br/wp-content/uploads/2019/04/20190403_poli_naval_fluidos_800px.jpg
 ---
 

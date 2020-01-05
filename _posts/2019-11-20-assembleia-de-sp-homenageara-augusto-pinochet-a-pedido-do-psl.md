@@ -8,6 +8,7 @@ date: 2019-11-20 14:01:00
 pub_date: 2019-11-20 14:01:00
 time_added: 2019-11-20 21:56:15
 category: 
+tags: []
 ---
 
 Pinochet chegou ao poder no Chile em 1973 por meio de um golpe de Estado. Ficou no poder até 1990, em um governo marcado por mortes e prisões políticas. Morreu em 2006.

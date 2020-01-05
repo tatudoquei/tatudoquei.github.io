@@ -8,6 +8,7 @@ date: 2019-04-10 02:00:00
 pub_date: 2019-04-10 02:00:00
 time_added: 2019-04-13 13:36:04
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/03/camisa-615x300.jpg
 ---
 

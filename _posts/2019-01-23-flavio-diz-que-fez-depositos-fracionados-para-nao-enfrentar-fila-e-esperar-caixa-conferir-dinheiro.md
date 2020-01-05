@@ -8,6 +8,7 @@ date: 2019-01-23 11:24:28
 pub_date: 2019-01-23 11:24:28
 time_added: 2019-01-23 12:27:22
 category: avisamos
+tags: []
 ---
 
 O senador eleito Flávio Bolsonaro (PSL-RJ) disse nesta terça-feira que fez depósitos fracionados em dinheiro em um caixa eletônico da Assembleia Legislativa do Rio (Alerj) porque não queria enfrentar fila e esperar a caixa conferir o dinheiro na frente de várias pessoas.

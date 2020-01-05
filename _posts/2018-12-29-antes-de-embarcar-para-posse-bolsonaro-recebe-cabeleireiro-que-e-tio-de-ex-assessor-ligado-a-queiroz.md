@@ -8,6 +8,7 @@ date: 2018-12-29 09:41:00
 pub_date: 2018-12-29 09:41:00
 time_added: 2018-12-29 22:57:41
 category: avisamos
+tags: []
 ---
 
 RIO — No último dia no Rio de Janeiro antes de embarcar rumo a Brasília para as solenidades da posse, o presidente eleito, Jair Bolsonaro, recebeu neste sábado a visita do cabeleireiro Maxwell Gerbatim.

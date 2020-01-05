@@ -8,6 +8,7 @@ date: 2019-03-06 11:21:06
 pub_date: 2019-03-06 11:21:06
 time_added: 2019-12-23 21:19:32
 category: resistimos
+tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2019/03/flavio-dino-carnaval.jpg
 ---
 

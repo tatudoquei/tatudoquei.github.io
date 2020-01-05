@@ -8,6 +8,7 @@ date: 2019-01-24 15:04:00
 pub_date: 2019-01-24 15:04:00
 time_added: 2019-01-25 21:27:25
 category: avisamos
+tags: []
 image: https://conteudo.imguol.com.br/blogs/58/files/2019/01/BolsonaroMichelleReproducaoFacebook-615x300.jpg
 ---
 

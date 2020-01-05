@@ -8,6 +8,7 @@ date: 2019-07-16 09:52:00
 pub_date: 2019-07-16 09:52:00
 time_added: 2019-07-17 05:54:12
 category: 
+tags: []
 ---
 
 BRASÍLIA — O presidente do Supremo Tribunal Federal (STF), ministro Dias Toffoli, determinou nesta terça-feira a suspensão de todos os processos judiciais em que dados bancários de investigados tenham sido compartilhados por órgãos de controle sem autorização prévia do Poder Judiciário.

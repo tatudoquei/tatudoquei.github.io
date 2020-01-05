@@ -8,6 +8,7 @@ date: 2019-05-07 19:59:00
 pub_date: 2019-05-07 19:59:00
 time_added: 2019-05-08 15:25:20
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23648341-028-f59/FT1086A/652/82556263_BRASILBrasilia-DF07-05-2019O-presidente-Jair-Bolsonaro-assina-decreto-que-muda-as.jpg
 ---
 

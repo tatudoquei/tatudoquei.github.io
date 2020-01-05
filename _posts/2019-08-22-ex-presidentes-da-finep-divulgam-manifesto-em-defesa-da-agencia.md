@@ -8,6 +8,7 @@ date: 2019-08-22 10:39:45
 pub_date: 2019-08-22 10:39:45
 time_added: 2019-08-25 09:42:15
 category: 
+tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/08/ato-finep-foto-rodrigo-mariano.jpeg
 ---
 

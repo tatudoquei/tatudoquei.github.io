@@ -8,6 +8,7 @@ date: 2019-12-04 17:34:00
 pub_date: 2019-12-04 17:34:00
 time_added: 2019-12-05 15:56:26
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ca/2019/08/27/militares-lotam-plenario-em-1-audiencia-publica-da-comissao-especial-da-camara-que-debate-reforma-da-previdencia-1566938329635_v2_615x300.jpg
 ---
 

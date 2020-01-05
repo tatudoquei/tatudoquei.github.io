@@ -8,6 +8,7 @@ date: 2018-11-22 23:37:39
 pub_date: 2018-11-22 23:37:39
 time_added: 2019-05-31 05:49:31
 category: 
+tags: []
 image: https://abrilveja.files.wordpress.com/2018/11/brasil-luciano-hang.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

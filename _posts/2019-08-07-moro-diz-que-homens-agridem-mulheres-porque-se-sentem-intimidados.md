@@ -8,6 +8,7 @@ date: 2019-08-07 13:45:00
 pub_date: 2019-08-07 13:45:00
 time_added: 2019-08-08 21:57:21
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23861179-4b7-a72/FT1086A/652/84001592_BSBBrasiliaBrasil07-08-2019Lei-Maria-da-Penha-completa-13-anos-a-ministra-da-M.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-08-07 14:06:00
 pub_date: 2019-08-07 14:06:00
 time_added: 2019-08-08 05:44:57
 category: 
+tags: []
 ---
 
 BRASÍLIA - Por unanimidade, a Corte Especial do STJ aceitou queixa-crime apresentada pela família da vereadora Marielle Franco, assassinada em março do ano passado, contra a desembargadora Marília de Castro Neves Vieira, do Tribunal de Justiça do Rio de Janeiro (TJRJ).

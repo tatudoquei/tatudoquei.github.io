@@ -8,6 +8,7 @@ date: 2019-09-06 12:14:24
 pub_date: 2019-09-06 12:14:24
 time_added: 2019-09-09 23:16:14
 category: 
+tags: []
 image: https://i1.wp.com/cartacampinas.com.br/wordpress/wp-content/uploads/library-995182_640-foto-klimkin-pixabay-license.jpg?fit=640%2C441&ssl=1
 ---
 

@@ -8,6 +8,7 @@ date: 2019-09-10 02:00:00
 pub_date: 2019-09-10 02:00:00
 time_added: 2019-09-15 09:57:19
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d5/2019/09/09/elcimar-moreira-da-silva-estudante-de-fisica-da-uff-bateu-a-laje-da-universidade-onde-hoje-estuda-1568062057528_v2_615x300.jpg
 ---
 

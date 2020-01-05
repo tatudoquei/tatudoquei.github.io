@@ -8,6 +8,7 @@ date: 2019-03-03 20:03:38
 pub_date: 2019-03-03 20:03:38
 time_added: 2019-12-23 21:19:32
 category: resistimos
+tags: []
 ---
 
 Do bispo ao capitão. A época mais esperada dos foliões se aproxima e os blocos de carnaval já estão com os sambas próprios alinhados e investindo, mais uma vez, em temas políticos. E as fantasias nas ruas também estão recheadas de critiavidade para críticas sociais.

@@ -8,6 +8,7 @@ date: 2019-03-14 13:14:50
 pub_date: 2019-03-14 13:14:50
 time_added: 2019-03-18 22:44:12
 category: avisamos
+tags: []
 image: https://abrilveja.files.wordpress.com/2019/03/brasil-bolsonaro-marinha-20190307-001.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

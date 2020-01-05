@@ -8,6 +8,7 @@ date: 2019-08-01 13:32:00
 pub_date: 2019-08-01 13:32:00
 time_added: 2019-08-01 22:03:52
 category: 
+tags: []
 image: https://s.yimg.com/uu/api/res/1.2/XP3U2o6jZJ94lp8NVQkeBg--~B/aD0yNjY3O3c9NDAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https:/media.zenfs.com/pt/folhapress_805/b671a4fda7c658fd2753ec5b0fe47c7a
 ---
 

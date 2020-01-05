@@ -8,6 +8,7 @@ date: 2019-10-02 12:48:00
 pub_date: 2019-10-02 12:48:00
 time_added: 2019-10-03 18:25:49
 category: 
+tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/10/Selo_Redes-universidades_2-1570036483.png
 ---
 

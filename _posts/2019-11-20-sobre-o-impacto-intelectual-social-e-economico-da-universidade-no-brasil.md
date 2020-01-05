@@ -8,6 +8,7 @@ date: 2019-11-20 23:00:00
 pub_date: 2019-11-20 23:00:00
 time_added: 2019-11-23 08:37:46
 category: 
+tags: []
 ---
 
 Leia matéria da Unicamp sobre o evento “Diálogos pelo Brasil”, organizado pela ABC e realizado na Fapesp, em 12/11: Neste momento de forte crise da educação, ciência e inovação brasileiras, a Academia Brasileira de Ciências (ABC) promoveu a terceira edição de “Diálogos pelo Brasil

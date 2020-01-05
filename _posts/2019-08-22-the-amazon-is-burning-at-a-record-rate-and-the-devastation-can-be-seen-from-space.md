@@ -8,6 +8,7 @@ date: 2019-08-22 21:44:04
 pub_date: 2019-08-22 21:44:04
 time_added: 2019-08-22 23:44:04
 category: 
+tags: []
 image: https://www.sciencealert.com/images/2019-08/processed/AmazonRainforestBurningAtRecordRates_1024.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-07-26 18:53:20
 pub_date: 2019-07-26 18:53:20
 time_added: 2019-07-27 07:28:37
 category: 
+tags: []
 image: https://paranaportal.uol.com.br/wp-content/uploads/2018/04/Deltan-Folhapress-1024x683.jpeg
 ---
 

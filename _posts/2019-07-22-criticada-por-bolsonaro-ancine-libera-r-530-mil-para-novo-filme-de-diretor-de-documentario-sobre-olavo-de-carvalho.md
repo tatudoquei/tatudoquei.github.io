@@ -8,6 +8,7 @@ date: 2019-07-22 07:00:00
 pub_date: 2019-07-22 07:00:00
 time_added: 2019-07-23 18:04:13
 category: 
+tags: []
 image: https://www.bahianoticias.com.br/fotos/entretenimento_noticias/35435/IMAGEM_NOTICIA_9.jpg
 ---
 

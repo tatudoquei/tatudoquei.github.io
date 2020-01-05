@@ -8,6 +8,7 @@ date: 2019-11-07 16:58:00
 pub_date: 2019-11-07 16:58:00
 time_added: 2019-11-08 19:35:59
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/cc/2019/11/07/plenario-do-stf-supremo-tribunal-federal-durante-julgamento-sobre-prisao-apos-a-segunda-instancia-1573149869637_v2_615x300.jpg
 ---
 

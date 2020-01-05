@@ -8,6 +8,7 @@ date: 2019-05-09 13:48:52
 pub_date: 2019-05-09 13:48:52
 time_added: 2019-05-09 22:46:17
 category: 
+tags: []
 image: https://abrilveja.files.wordpress.com/2019/05/sergio-moro-20190508-001.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

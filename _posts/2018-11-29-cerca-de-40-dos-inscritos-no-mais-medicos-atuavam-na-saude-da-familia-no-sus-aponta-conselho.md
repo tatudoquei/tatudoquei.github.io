@@ -8,6 +8,7 @@ date: 2018-11-29 13:26:17
 pub_date: 2018-11-29 13:26:17
 time_added: 2018-12-17 23:42:29
 category: avisamos
+tags: []
 image: https://s2.glbimg.com/VmD_7AOznkXkdZmrLliG0LTTxc8=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2015/07/29/atendimento_2.jpg
 ---
 

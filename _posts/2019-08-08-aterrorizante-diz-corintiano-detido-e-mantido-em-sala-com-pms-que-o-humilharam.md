@@ -8,6 +8,7 @@ date: 2019-08-08 19:54:52
 pub_date: 2019-08-08 19:54:52
 time_added: 2019-08-08 21:54:52
 category: 
+tags: []
 image: https://ponte.org/wp-content/uploads/2019/08/detido-arena-corinthians.jpg
 ---
 

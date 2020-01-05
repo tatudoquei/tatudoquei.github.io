@@ -8,6 +8,7 @@ date: 2019-09-20 16:22:00
 pub_date: 2019-09-20 16:22:00
 time_added: 2019-09-23 06:17:14
 category: 
+tags: []
 ---
 
 RIO- O senador Flávio Bolsonaro (PSL-RJ) recorreu mais uma vez ao Supremo Tribunal Federal para tentar suspender atos da investigação sobre peculato e lavagem de dinheiro.

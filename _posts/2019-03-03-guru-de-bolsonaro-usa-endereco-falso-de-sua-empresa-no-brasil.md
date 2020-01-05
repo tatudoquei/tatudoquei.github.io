@@ -8,6 +8,7 @@ date: 2019-03-03 14:21:52
 pub_date: 2019-03-03 14:21:52
 time_added: 2019-03-07 00:52:14
 category: avisamos
+tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2019/03/captura-de-tela-2019-03-03-as-111144.png
 ---
 

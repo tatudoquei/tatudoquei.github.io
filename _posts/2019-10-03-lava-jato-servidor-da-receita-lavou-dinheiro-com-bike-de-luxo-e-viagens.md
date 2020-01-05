@@ -8,6 +8,7 @@ date: 2019-10-03 02:00:00
 pub_date: 2019-10-03 02:00:00
 time_added: 2019-10-06 08:23:50
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ed/2019/10/02/bicicleta-eletrica-strome-st5-comprada-por-r-415-mil-por-acusado-da-lava-jato-1570047318542_v2_615x300.jpg
 ---
 

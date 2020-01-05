@@ -8,6 +8,7 @@ date: 2019-12-02 17:24:00
 pub_date: 2019-12-02 17:24:00
 time_added: 2019-12-03 07:36:46
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/24070609-666-7dd/FT1086A/652/84389519_BSBRio-Branco-ACBrasil03-09-2019EVENTO-CGU-AGU-E-MPF-A-Controladoria-Geral-da.jpg
 ---
 

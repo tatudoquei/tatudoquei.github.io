@@ -8,6 +8,7 @@ date: 2019-09-17 15:44:00
 pub_date: 2019-09-17 15:44:00
 time_added: 2019-09-19 05:59:28
 category: 
+tags: []
 ---
 
 BRASÍLIA - O ministro da Ciência, Tecnologia, Inovações e Comunicações, Marcos Pontes, disse que o Instituto Nacional de Pesquisas Espaciais (Inpe) segue “firme e forte” e que nada mudou depois da saída do diretor Ricardo Galvão da instituição. .

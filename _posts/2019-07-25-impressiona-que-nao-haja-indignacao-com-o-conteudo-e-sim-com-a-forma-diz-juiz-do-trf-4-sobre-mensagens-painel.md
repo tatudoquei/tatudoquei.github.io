@@ -8,6 +8,7 @@ date: 2019-07-25 23:59:00
 pub_date: 2019-07-25 23:59:00
 time_added: 2019-07-27 07:31:09
 category: 
+tags: []
 image: https://painel.blogfolha.uol.com.br/files/2018/11/moro_bolso.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-07-22 14:37:00
 pub_date: 2019-07-22 14:37:00
 time_added: 2019-07-23 15:23:20
 category: 
+tags: []
 ---
 
 BRASÍLIA - O diretor do Instituto Nacional de Pesquisas Espaciais (Inpe), Ricardo Galvão, disse nesta segunda-feira que não volta atrás de nenhuma vírgula do que disse nos últimos dias.

@@ -8,6 +8,7 @@ date: 2019-05-01 11:01:23
 pub_date: 2019-05-01 11:01:23
 time_added: 2019-05-02 18:44:42
 category: 
+tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2019/04/bolsonaro-3-1.jpg
 ---
 

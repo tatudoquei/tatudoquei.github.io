@@ -8,6 +8,7 @@ date: 2019-10-09 22:00:00
 pub_date: 2019-10-09 22:00:00
 time_added: 2019-11-03 09:33:38
 category: 
+tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Durma-com-essa-encontro-de-Trump-e-Bolsonaro/ALTERNATES/LANDSCAPE_720/Durma%20com%20essa:%20encontro%20de%20Trump%20e%20Bolsonaro
 ---
 

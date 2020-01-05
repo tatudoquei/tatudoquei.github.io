@@ -8,6 +8,7 @@ date: 2019-07-09 01:38:28
 pub_date: 2019-07-09 01:38:28
 time_added: 2019-07-10 19:26:11
 category: 
+tags: []
 image: https://cultura.estadao.com.br/blogs/direto-da-fonte/wp-content/uploads/sites/290/2017/08/sergio-moro-DIDA-SAMPAIO-ESTADAO-525x350-460x307.jpg
 ---
 

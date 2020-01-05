@@ -8,6 +8,7 @@ date: 2019-01-22 23:00:00
 pub_date: 2019-01-22 23:00:00
 time_added: 2019-01-24 08:18:59
 category: avisamos
+tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/E3A8/production/_104708285_hi050848935.jpg
 ---
 

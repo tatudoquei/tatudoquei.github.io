@@ -8,6 +8,7 @@ date: 2019-10-23 18:14:32
 pub_date: 2019-10-23 18:14:32
 time_added: 2019-10-24 05:22:18
 category: 
+tags: []
 image: http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2019/10/23/praiasdemorrosaointerditadasapossurgiroleo372e03d9f40.jpeg
 ---
 

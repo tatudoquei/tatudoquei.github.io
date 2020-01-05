@@ -8,6 +8,7 @@ date: 2019-07-25 20:04:00
 pub_date: 2019-07-25 20:04:00
 time_added: 2019-07-27 07:24:06
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/21/2019/07/02/2jul2019---o-ministro-sergio-moro-na-comissao-de-constituicao-e-justica-da-camara-ccj-1562097648487_v2_615x300.jpg
 ---
 

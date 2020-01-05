@@ -8,6 +8,7 @@ date: 2019-03-26 10:07:00
 pub_date: 2019-03-26 10:07:00
 time_added: 2019-03-27 22:08:02
 category: avisamos
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/21/2019/02/07/7fev2019---o-ministro-da-justica-sergio-moro-durante-almoco-organizado-pelo-iasp-instituto-dos-advogados-de-sao-paulo-no-hotel-hyatt-em-sp-1549558303418_v2_615x300.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-11-21 18:46:00
 pub_date: 2019-11-21 18:46:00
 time_added: 2019-11-23 08:38:23
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/blogs/c8/2019/06/18/01042019---bolsonaro-publica-foto-com-arma-e-critica-desarmamento-1554160482103v615x300-1560870280807_v2_615x300.jpg
 ---
 

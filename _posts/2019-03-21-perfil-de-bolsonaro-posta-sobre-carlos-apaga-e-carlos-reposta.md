@@ -8,6 +8,7 @@ date: 2019-03-21 20:45:00
 pub_date: 2019-03-21 20:45:00
 time_added: 2019-12-23 21:19:33
 category: refletimos
+tags: []
 image: https://epoca.globo.com/guilherme-amado/23541707-40e-226/FT1086A/652/WhatsApp-Image-2019-03-21-at-21.21.01.jpeg.jpg
 ---
 

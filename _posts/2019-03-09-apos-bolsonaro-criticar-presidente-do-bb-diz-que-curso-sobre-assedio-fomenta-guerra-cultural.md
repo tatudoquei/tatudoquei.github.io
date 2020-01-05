@@ -8,6 +8,7 @@ date: 2019-03-09 13:48:00
 pub_date: 2019-03-09 13:48:00
 time_added: 2019-03-10 12:27:03
 category: avisamos
+tags: []
 ---
 
 BRASÍLIA — O presidente do Banco do Brasil, Rubem Novaes, defendeu as críticas que o presidente Jair Bolsonaro fez à exigência de cursos de ética, diversidade e contra assédio sexual para que funcionários do BB sejam promovidos.

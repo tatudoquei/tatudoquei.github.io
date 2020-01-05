@@ -8,6 +8,7 @@ date: 2019-06-22 17:12:12
 pub_date: 2019-06-22 17:12:12
 time_added: 2019-06-25 05:19:23
 category: 
+tags: []
 image: http://scd.br.rfi.fr/sites/brasil.filesrfi/imagecache/rfi_16x9_1024_578/sites/images.rfi.fr/files/aefimagesnew/aef_image/2019-06-20t115501z_1120795265_rc1bbe3405a0_rtrmadp_3_eu-summit.jpg
 ---
 

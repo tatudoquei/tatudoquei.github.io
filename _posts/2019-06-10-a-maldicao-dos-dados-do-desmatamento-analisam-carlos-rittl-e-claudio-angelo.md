@@ -8,6 +8,7 @@ date: 2019-06-10 05:50:08
 pub_date: 2019-06-10 05:50:08
 time_added: 2019-07-22 22:02:31
 category: 
+tags: []
 image: https://static.poder360.com.br/2019/06/amazonia-1200x630.jpg
 ---
 

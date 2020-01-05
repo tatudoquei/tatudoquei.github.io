@@ -8,6 +8,7 @@ date: 2019-07-24 18:39:04
 pub_date: 2019-07-24 18:39:04
 time_added: 2019-07-26 05:59:15
 category: 
+tags: []
 image: https://apublica.org/wp-content/uploads/2019/07/vitrine-da-taurus-e-companhia-brasileira-de-cartuchos-durante-a-principal-feira-de-armas-do-brasil-a-laad-defence-security-2019.jpg
 ---
 

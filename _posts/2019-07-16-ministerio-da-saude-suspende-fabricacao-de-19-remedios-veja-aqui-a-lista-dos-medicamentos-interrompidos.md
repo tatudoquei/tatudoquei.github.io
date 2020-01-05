@@ -8,6 +8,7 @@ date: 2019-07-16 06:00:00
 pub_date: 2019-07-16 06:00:00
 time_added: 2019-07-16 21:12:40
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/sociedade/22998835-592-6c6/FT1086A/652/sofosbuvir.jpg
 ---
 

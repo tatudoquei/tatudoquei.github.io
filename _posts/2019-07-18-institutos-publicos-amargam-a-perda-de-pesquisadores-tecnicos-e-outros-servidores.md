@@ -8,6 +8,7 @@ date: 2019-07-18 19:26:35
 pub_date: 2019-07-18 19:26:35
 time_added: 2019-07-19 06:13:23
 category: 
+tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/07/imagem_materia_Audiencia.jpg
 ---
 

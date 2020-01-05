@@ -8,6 +8,7 @@ date: 2019-05-28 16:48:47
 pub_date: 2019-05-28 16:48:47
 time_added: 2019-05-29 19:38:15
 category: 
+tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2019/02/mandetta-governo-de-transicao-flickr-900x600.jpg
 ---
 

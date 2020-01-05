@@ -8,6 +8,7 @@ date: 2019-04-15 15:45:00
 pub_date: 2019-04-15 15:45:00
 time_added: 2019-04-18 21:17:49
 category: 
+tags: []
 ---
 
 O Museu Americano de História Natural em Nova York, em que seria realizada a premiação de “Pessoa do Ano” para Jair Bolsonaro, pela Câmara de Comércio Brasil-Estados Unidos, acaba de decidir cancelar o evento. O museu acaba de publicar o seguinte texto em sua conta no Twitter.

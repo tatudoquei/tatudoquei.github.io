@@ -8,6 +8,7 @@ date: 2020-01-01 17:42:00
 pub_date: 2020-01-01 17:42:00
 time_added: 2020-01-02 00:02:06
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/8b/2020/01/01/jair-bolsonaro-usa-o-uniforme-do-cascavel-para-mostrar-solidariedade-ao-empresario-luciano-hang-da-havan-1577914509556_v2_615x300.jpg
 ---
 

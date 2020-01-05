@@ -8,6 +8,7 @@ date: 2019-06-04 21:45:20
 pub_date: 2019-06-04 21:45:20
 time_added: 2019-06-06 17:25:55
 category: 
+tags: []
 image: https://podcast.brasildefato.com.br/wp-content/uploads/2019/06/acidente-transito-ag-brasil.jpg
 ---
 

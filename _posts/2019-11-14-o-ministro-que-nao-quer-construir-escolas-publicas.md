@@ -8,6 +8,7 @@ date: 2019-11-14 14:34:00
 pub_date: 2019-11-14 14:34:00
 time_added: 2019-11-15 23:46:22
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/3c/2019/07/23/paulo-guedes-1563891041273_v2_615x300.jpg
 ---
 

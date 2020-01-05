@@ -8,6 +8,7 @@ date: 2019-11-21 15:35:23
 pub_date: 2019-11-21 15:35:23
 time_added: 2019-11-21 21:39:54
 category: 
+tags: []
 image: https://abrilveja.files.wordpress.com/2019/10/bolsonaro-chico-buarque-1.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

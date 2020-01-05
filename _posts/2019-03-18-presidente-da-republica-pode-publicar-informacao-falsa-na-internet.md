@@ -8,6 +8,7 @@ date: 2019-03-18 18:36:09
 pub_date: 2019-03-18 18:36:09
 time_added: 2019-12-23 21:21:01
 category: refletimos
+tags: [fake news]
 ---
 
 Este texto integra a cobertura de novos temas pela equipe do JOTA. Apoiadores participam da escolha dos temas, mas não interferem na produção editorial. Conheça o projeto!

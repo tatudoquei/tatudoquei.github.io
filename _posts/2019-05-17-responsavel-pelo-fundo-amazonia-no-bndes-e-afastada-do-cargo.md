@@ -8,6 +8,7 @@ date: 2019-05-17 21:02:00
 pub_date: 2019-05-17 21:02:00
 time_added: 2019-05-18 18:13:32
 category: 
+tags: []
 ---
 
 SÃO PAULO, SP, E RIO DE JANEIRO, RJ (FOLHAPRESS) - No mesmo dia em que Ricardo Salles, ministro do Meio Ambiente, afirmou haver indícios de irregularidades em contratos do Fundo Amazônia -gerido pelo BNDES (Banco Nacional de Desenvolvimento Econômico e Social)-, a chefe do departamento de meio a

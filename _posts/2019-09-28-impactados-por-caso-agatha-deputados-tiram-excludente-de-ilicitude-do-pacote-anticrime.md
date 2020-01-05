@@ -8,6 +8,7 @@ date: 2019-09-28 04:28:10
 pub_date: 2019-09-28 04:28:10
 time_added: 2019-09-28 06:28:10
 category: 
+tags: []
 image: https://media.gazetadopovo.com.br/2019/08/27174832/marcelo-freixo-640x372.jpg
 ---
 

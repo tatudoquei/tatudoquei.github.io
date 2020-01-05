@@ -8,6 +8,7 @@ date: 2019-04-18 15:25:49
 pub_date: 2019-04-18 15:25:49
 time_added: 2019-04-23 22:06:42
 category: 
+tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2019/04/ricardo-salles-2.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-08-27 20:20:15
 pub_date: 2019-08-27 20:20:15
 time_added: 2019-08-29 05:15:34
 category: 
+tags: []
 ---
 
 Brasil | 27.08.2019 Bolsonaro e os nove governadores da Amazônia Legal. Presidente pouco falou sobre queimadas e desmatamento Combate às queimadas fica em segundo plano em encontro recheado de críticas do presidente às demarcações, à imprensa e ao Fundo Amazônia.

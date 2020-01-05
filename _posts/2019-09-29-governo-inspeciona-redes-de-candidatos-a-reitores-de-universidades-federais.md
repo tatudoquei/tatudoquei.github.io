@@ -8,6 +8,7 @@ date: 2019-09-29 04:00:00
 pub_date: 2019-09-29 04:00:00
 time_added: 2019-10-03 07:29:16
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23977760-e26-8f8/FT1086A/652/Bolsonaro-ignora-Abin-e1554902957957.jpg
 ---
 

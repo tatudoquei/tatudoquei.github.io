@@ -8,6 +8,7 @@ date: 2019-04-16 16:13:00
 pub_date: 2019-04-16 16:13:00
 time_added: 2019-04-18 22:25:34
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23604198-993-eae/FT1086A/652/INFOCHPDPICT000082246609.jpg
 ---
 

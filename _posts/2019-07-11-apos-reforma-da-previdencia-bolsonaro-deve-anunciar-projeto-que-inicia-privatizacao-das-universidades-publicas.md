@@ -8,6 +8,7 @@ date: 2019-07-11 11:46:12
 pub_date: 2019-07-11 11:46:12
 time_added: 2019-07-13 07:23:07
 category: 
+tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2019/05/weintraub-bolsonaro.jpg
 ---
 

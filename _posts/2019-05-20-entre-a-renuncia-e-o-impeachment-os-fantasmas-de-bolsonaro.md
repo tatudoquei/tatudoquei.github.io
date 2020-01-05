@@ -8,6 +8,7 @@ date: 2019-05-20 15:49:15
 pub_date: 2019-05-20 15:49:15
 time_added: 2019-05-21 18:45:48
 category: 
+tags: []
 image: https://abrilsuperinteressante.files.wordpress.com/2019/05/janio_collor_fb.png
 ---
 

@@ -8,6 +8,7 @@ date: 2019-06-15 08:36:24
 pub_date: 2019-06-15 08:36:24
 time_added: 2019-06-18 15:59:35
 category: 
+tags: []
 image: https://politica.estadao.com.br/blogs/estadao-verifica/wp-content/uploads/sites/690/2019/06/telegram.jpg
 ---
 

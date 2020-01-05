@@ -8,6 +8,7 @@ date: 2019-11-29 09:33:36
 pub_date: 2019-11-29 09:33:36
 time_added: 2019-11-30 12:17:26
 category: 
+tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2019/11/Gilmar-Mendes-3.jpg
 ---
 

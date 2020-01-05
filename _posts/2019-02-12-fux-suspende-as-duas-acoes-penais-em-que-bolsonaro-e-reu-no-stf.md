@@ -8,6 +8,7 @@ date: 2019-02-12 08:40:00
 pub_date: 2019-02-12 08:40:00
 time_added: 2019-02-13 00:15:37
 category: avisamos
+tags: []
 ---
 
 BRASÍLIA - O ministro Luiz Fux, do Supremo Tribunal Federal (STF), suspendeu as duas ações penais em que o presidente Jair Bolsonaro é réu na Corte. A suspensão deve perdurar até o fim do mandato atual (caso ele não seja reeleito).

@@ -8,6 +8,7 @@ date: 2019-06-02 05:02:12
 pub_date: 2018-05-28 07:08:00
 time_added: 2019-06-02 05:02:12
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/22723555-530-b49/FT1086A/652/75057091_Rio-de-Janeiro-RJ-20-02-2018Sede-do-Comando-Militar-do-LesteFoto-Renee-Rocha.jpg
 ---
 

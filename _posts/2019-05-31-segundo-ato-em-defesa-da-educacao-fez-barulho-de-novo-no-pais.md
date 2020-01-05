@@ -8,6 +8,7 @@ date: 2019-05-31 15:11:14
 pub_date: 2019-05-31 15:11:14
 time_added: 2019-06-06 07:18:36
 category: 
+tags: []
 image: https://video-images.vice.com/articles/5cf12f014195ad0007a1c861/lede/1559315108250-manif.jpeg?crop=1xw:1xh;center,center&resize=1200:*
 ---
 

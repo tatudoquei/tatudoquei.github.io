@@ -8,6 +8,7 @@ date: 2019-05-31 09:06:00
 pub_date: 2019-05-31 09:06:00
 time_added: 2019-06-01 19:16:20
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/bol/brasil/df/2019/03/14/marielle-franco-na-camara-municipal-do-rio-de-janeiro-1552563444888_v2_615x300.jpg
 ---
 

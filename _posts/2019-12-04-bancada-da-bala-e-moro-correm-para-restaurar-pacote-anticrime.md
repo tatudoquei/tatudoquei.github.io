@@ -8,6 +8,7 @@ date: 2019-12-04 18:25:04
 pub_date: 2019-12-04 18:25:04
 time_added: 2019-12-05 08:03:59
 category: 
+tags: []
 image: https://static.poder360.com.br/2019/11/moromoromoro-1200x630.jpg
 ---
 

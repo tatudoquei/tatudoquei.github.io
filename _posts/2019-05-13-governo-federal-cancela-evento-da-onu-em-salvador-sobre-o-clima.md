@@ -8,6 +8,7 @@ date: 2019-05-13 18:47:00
 pub_date: 2019-05-13 18:47:00
 time_added: 2019-05-18 08:47:39
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23662632-464-149/FT1086A/652/82618122_A-skull-of-a-washed-ashore-fish-lies-amid-destroyed-soybeans-on-a-field-at-the-farm-of-Clar.jpg
 ---
 

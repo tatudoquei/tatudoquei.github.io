@@ -8,6 +8,7 @@ date: 2019-10-19 12:49:09
 pub_date: 2019-10-19 12:49:09
 time_added: 2019-10-20 13:08:53
 category: 
+tags: []
 image: https://abrilexame.files.wordpress.com/2019/10/26012019-encontro-de-trabalho_46157221434_o.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

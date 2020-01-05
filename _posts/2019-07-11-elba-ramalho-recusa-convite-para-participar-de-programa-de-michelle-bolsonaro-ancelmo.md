@@ -8,6 +8,7 @@ date: 2019-07-11 03:30:00
 pub_date: 2019-07-11 03:30:00
 time_added: 2019-07-11 17:45:36
 category: 
+tags: []
 image: https://s2.glbimg.com/WMruj_8Ra90sRRjP3fF55YH_0JM=/438x599/top/i.glbimg.com/og/ig/infoglobo1/f/original/2019/07/10/elba_ramalho.jpg
 ---
 

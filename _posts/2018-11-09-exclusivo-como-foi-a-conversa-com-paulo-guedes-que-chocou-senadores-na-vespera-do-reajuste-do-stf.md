@@ -8,6 +8,7 @@ date: 2018-11-09 21:16:00
 pub_date: 2018-11-09 21:16:00
 time_added: 2019-12-23 21:19:30
 category: refletimos
+tags: [economia]
 image: https://img.buzzfeed.com/buzzfeed-static/static/2018-11/9/15/asset/buzzfeed-prod-web-03/sub-buzz-15597-1541796345-25.jpg?crop=1077:564;49,0
 ---
 

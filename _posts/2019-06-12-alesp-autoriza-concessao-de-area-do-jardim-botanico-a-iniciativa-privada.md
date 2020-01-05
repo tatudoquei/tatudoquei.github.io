@@ -8,6 +8,7 @@ date: 2019-06-12 12:47:35
 pub_date: 2019-06-12 12:47:35
 time_added: 2019-06-12 20:48:28
 category: 
+tags: []
 image: https://apqcnoticias.files.wordpress.com/2019/06/jb-1.jpg
 ---
 

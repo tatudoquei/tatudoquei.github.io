@@ -8,6 +8,7 @@ date: 2019-08-26 02:01:53
 pub_date: 2019-08-26 02:01:53
 time_added: 2019-08-27 06:27:30
 category: 
+tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2019/08/Propriedade-.jpg
 ---
 

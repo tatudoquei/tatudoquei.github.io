@@ -8,6 +8,7 @@ date: 2019-07-13 08:31:00
 pub_date: 2019-07-13 08:31:00
 time_added: 2019-07-14 06:20:22
 category: 
+tags: []
 ---
 
 Pesquisador da memória, do sono e dos sonhos, o neurocientista e escritor brasiliense Sidarta Ribeiro participa da Flip neste sábado, às 19h, na mesa Massacará.

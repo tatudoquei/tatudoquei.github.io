@@ -8,6 +8,7 @@ date: 2019-03-28 15:55:54
 pub_date: 2019-03-28 15:55:54
 time_added: 2019-03-29 07:25:57
 category: recuadas
+tags: []
 image: https://www.valor.com.br/sites/all/themes/basic/images/facebook/valor-big.jpg
 ---
 

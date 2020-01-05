@@ -8,6 +8,7 @@ date: 2019-11-09 23:00:00
 pub_date: 2019-11-09 23:00:00
 time_added: 2019-11-12 07:01:29
 category: 
+tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/paulo_guajajara.jpg/ALTERNATES/LANDSCAPE_720/paulo_guajajara.jpg
 ---
 

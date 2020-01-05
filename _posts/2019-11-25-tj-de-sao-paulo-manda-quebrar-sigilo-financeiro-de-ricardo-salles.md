@@ -8,6 +8,7 @@ date: 2019-11-25 23:46:55
 pub_date: 2019-11-25 23:46:55
 time_added: 2019-11-26 06:51:47
 category: 
+tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2019/11/Ricardo-Salles.jpg
 ---
 

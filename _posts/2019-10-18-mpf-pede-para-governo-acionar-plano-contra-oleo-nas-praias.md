@@ -8,6 +8,7 @@ date: 2019-10-18 17:37:13
 pub_date: 2019-10-18 17:37:13
 time_added: 2019-10-20 06:02:59
 category: 
+tags: []
 image: http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2019/10/18/2019-10-18T173519Z_1_LYNXMPEF9H1T5_RTROPTP_4_AMBIENTE-JUSTICA-PLANO.JPG
 ---
 

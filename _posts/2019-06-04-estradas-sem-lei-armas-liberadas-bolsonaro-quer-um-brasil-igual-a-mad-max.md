@@ -8,6 +8,7 @@ date: 2019-06-04 17:53:00
 pub_date: 2019-06-04 17:53:00
 time_added: 2019-06-05 18:22:24
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/06/bolsonaro-615x300.jpg
 ---
 

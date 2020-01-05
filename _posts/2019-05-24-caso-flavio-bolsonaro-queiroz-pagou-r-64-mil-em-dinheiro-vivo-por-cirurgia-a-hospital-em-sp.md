@@ -8,6 +8,7 @@ date: 2019-05-24 07:51:00
 pub_date: 2019-05-24 07:51:00
 time_added: 2019-05-26 20:52:45
 category: 
+tags: []
 ---
 
 RIO - O ex-motorista do senador Flávio Bolsonaro (PSL-RJ) Fabrício Queiroz pagou em espécie R$ 64,58 mil por uma cirurgia ao hospital israelita Albert Einstein, em São Paulo. Queiroz foi internado na unidade em janeiro, quando retirou um câncer no cólon.

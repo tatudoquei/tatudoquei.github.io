@@ -8,6 +8,7 @@ date: 2019-08-27 02:26:27
 pub_date: 2019-08-27 02:26:27
 time_added: 2019-08-30 23:37:44
 category: 
+tags: []
 image: https://s2.glbimg.com/a1DJR3iOJM886AmmjJP1UAnXlyE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/c/Z/2SzJLkSSWxQonx85Ammg/ibama-carta.jpg
 ---
 

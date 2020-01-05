@@ -8,6 +8,7 @@ date: 2019-09-16 10:08:00
 pub_date: 2019-09-16 10:08:00
 time_added: 2019-09-17 16:06:52
 category: 
+tags: []
 ---
 
 RIO - O youtuber Felipe Neto desistiu de realizar uma palestra, que estava marcada para esta terça-feira, "devido a ameaças que atentam contra a sua vida e de sua família", segundo um comunicado enviado pela sua equipe.

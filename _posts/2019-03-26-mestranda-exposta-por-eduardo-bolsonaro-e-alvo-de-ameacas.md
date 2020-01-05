@@ -8,6 +8,7 @@ date: 2019-03-26 02:57:02
 pub_date: 2019-03-26 02:57:02
 time_added: 2019-03-26 18:49:00
 category: avisamos
+tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2019/03/eduardo-bolsonaro-2.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-08-12 13:10:49
 pub_date: 2019-08-12 13:10:49
 time_added: 2019-09-05 14:22:04
 category: 
+tags: []
 image: https://blogdacidadania.com.br/wp-content/uploads/2019/08/bozo-3.png
 ---
 

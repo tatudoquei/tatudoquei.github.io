@@ -8,6 +8,7 @@ date: 2019-04-18 13:08:06
 pub_date: 2019-04-18 13:08:06
 time_added: 2019-04-23 22:06:38
 category: 
+tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/04/20190418_carlos-nobre.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-04-08 12:23:47
 pub_date: 2019-04-08 12:23:47
 time_added: 2019-04-12 03:53:59
 category: 
+tags: []
 image: https://abrilexame.files.wordpress.com/2019/04/jubartes_em_abrolhos.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

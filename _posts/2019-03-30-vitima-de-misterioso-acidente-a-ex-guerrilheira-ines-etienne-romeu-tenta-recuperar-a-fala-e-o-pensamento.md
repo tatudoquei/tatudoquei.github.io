@@ -8,6 +8,7 @@ date: 2019-03-30 09:56:14
 pub_date: 2011-05-05 22:00:00
 time_added: 2019-03-30 09:56:14
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/2772976-6ec-443/FT1086A/652/Ines-Etienne-Romeu-ultima-presa-politica-a-ser-libertadaFoto-de-Marcos-Tristao.jpg
 ---
 

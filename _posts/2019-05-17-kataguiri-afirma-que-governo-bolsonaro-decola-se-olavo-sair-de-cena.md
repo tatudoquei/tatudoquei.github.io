@@ -8,6 +8,7 @@ date: 2019-05-17 15:13:00
 pub_date: 2019-05-17 15:13:00
 time_added: 2019-05-17 23:14:56
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/1e/2019/04/25/17abr2019---o-deputado-kim-kataguiri-dem-sp-1556207426078_v2_615x300.jpg
 ---
 

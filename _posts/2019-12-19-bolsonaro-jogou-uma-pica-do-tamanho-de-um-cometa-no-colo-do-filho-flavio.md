@@ -8,6 +8,7 @@ date: 2019-12-19 11:39:00
 pub_date: 2019-12-19 11:39:00
 time_added: 2019-12-19 20:46:14
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/blogs/60/2019/10/27/queiroz-1572190580307_v2_615x300.jpg
 ---
 

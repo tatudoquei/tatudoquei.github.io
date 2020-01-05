@@ -8,6 +8,7 @@ date: 2019-03-06 13:03:54
 pub_date: 2019-03-06 13:03:54
 time_added: 2019-03-06 15:41:56
 category: avisamos
+tags: []
 image: http://blogs.opovo.com.br/politica/wp-content/uploads/sites/62/2019/03/0603_PRINT_BOLSO-e1551877375543-300x301.png
 ---
 

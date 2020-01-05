@@ -8,6 +8,7 @@ date: 2019-02-26 21:30:00
 pub_date: 2019-02-26 21:30:00
 time_added: 2019-02-27 23:45:34
 category: avisamos
+tags: []
 ---
 
 BRASÍLIA — Para engrossar a defesa de um decreto do governo, o deputado Coronel Tadeu (PSL-SP) assinou, na lista de inscrição de oradores da Câmara dos Deputados, o nome de ao menos quatro colegas de partido favoráveis ao projeto.

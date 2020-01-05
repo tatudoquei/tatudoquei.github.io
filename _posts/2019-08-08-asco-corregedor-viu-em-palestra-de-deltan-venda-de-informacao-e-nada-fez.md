@@ -8,6 +8,7 @@ date: 2019-08-08 04:03:00
 pub_date: 2019-08-08 04:03:00
 time_added: 2019-08-09 06:06:44
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2019/07/chuvadedinheiro-613x300.jpg
 ---
 

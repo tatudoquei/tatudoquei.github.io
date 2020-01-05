@@ -8,6 +8,7 @@ date: 2019-05-25 22:24:13
 pub_date: 2018-10-04 02:00:00
 time_added: 2019-05-25 22:24:13
 category: 
+tags: []
 image: http://conteudo.imguol.com.br/c/noticias/49/2018/10/02/6ago2018---o-economista-paulo-guedes-durante-almoco-na-firjan-no-rio-1538525014402_956x500.jpg
 ---
 

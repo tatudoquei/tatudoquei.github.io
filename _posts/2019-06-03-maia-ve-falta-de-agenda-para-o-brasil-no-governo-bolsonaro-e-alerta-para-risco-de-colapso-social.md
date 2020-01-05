@@ -8,6 +8,7 @@ date: 2019-06-03 02:30:00
 pub_date: 2019-06-03 02:30:00
 time_added: 2019-06-04 06:17:49
 category: 
+tags: []
 ---
 
 BRASÍLIA - Alvo de críticas em protestos recentes organizados por seguidores do governo, o presidente da Câmara, Rodrigo Maia (DEM-RJ) ataca: o Executivo não tem uma agenda formulada e o país está caminhando para o "colapso social".

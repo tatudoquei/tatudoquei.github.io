@@ -8,6 +8,7 @@ date: 2019-05-19 18:16:09
 pub_date: 2019-05-19 18:16:09
 time_added: 2019-05-20 22:35:41
 category: 
+tags: []
 image: https://s2.glbimg.com/eyKO_boatxC55LUiDYdNdxajYVU=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/Z/C/2gzwqiSACgdHIlL6HQng/preco-medio-diesel-rodrigo-sanches-guilherme-gomes-gabriela-caesar-g1-17-05-2019-anp.jpg
 ---
 

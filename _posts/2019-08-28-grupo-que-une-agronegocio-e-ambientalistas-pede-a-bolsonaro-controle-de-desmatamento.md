@@ -8,6 +8,7 @@ date: 2019-08-28 04:47:57
 pub_date: 2019-08-28 04:47:57
 time_added: 2019-08-30 23:36:43
 category: 
+tags: []
 image: https://sustentabilidade.estadao.com.br/blogs/ambiente-se/wp-content/uploads/sites/92/2019/08/fumaca-1.jpg
 ---
 

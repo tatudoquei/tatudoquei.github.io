@@ -8,6 +8,7 @@ date: 2018-12-06 04:00:19
 pub_date: 2018-12-06 04:00:19
 time_added: 2018-12-07 00:18:17
 category: avisamos
+tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2018/12/Flavio.jpg
 ---
 

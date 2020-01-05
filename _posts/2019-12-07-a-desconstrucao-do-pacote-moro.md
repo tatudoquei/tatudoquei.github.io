@@ -8,6 +8,7 @@ date: 2019-12-07 03:00:01
 pub_date: 2019-12-07 03:00:01
 time_added: 2019-12-12 08:13:34
 category: 
+tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2019/12/1575759505466866.jpg
 ---
 

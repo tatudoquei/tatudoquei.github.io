@@ -8,6 +8,7 @@ date: 2018-11-01 02:11:17
 pub_date: 2018-11-01 02:11:17
 time_added: 2019-12-23 21:19:30
 category: refletimos
+tags: []
 image: https://ep00.epimg.net/brasil/imagenes/2018/11/01/opinion/1541030193_235658_1541030560_rrss_normal.jpg
 ---
 

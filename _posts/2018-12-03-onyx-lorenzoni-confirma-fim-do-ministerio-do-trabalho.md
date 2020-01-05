@@ -8,6 +8,7 @@ date: 2018-12-03 14:53:42
 pub_date: 2018-12-03 14:53:42
 time_added: 2018-12-05 07:55:16
 category: avisamos
+tags: []
 image: https://abrilveja.files.wordpress.com/2018/11/brasil-onyx-lorenzoni-20181112-043-copy.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

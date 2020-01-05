@@ -8,6 +8,7 @@ date: 2019-12-08 11:31:35
 pub_date: 2019-12-08 11:31:35
 time_added: 2019-12-08 12:31:35
 category: 
+tags: []
 image: https://www.dw.com/image/47592825_304.jpg
 ---
 

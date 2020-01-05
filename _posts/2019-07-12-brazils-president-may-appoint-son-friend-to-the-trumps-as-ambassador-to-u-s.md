@@ -8,6 +8,7 @@ date: 2019-07-12 18:24:31
 pub_date: 2019-07-12 18:24:31
 time_added: 2019-07-14 06:18:47
 category: 
+tags: []
 image: https://static01.nyt.com/images/2019/07/12/world/12bolsonaro/12bolsonaro-facebookJumbo.jpg
 ---
 

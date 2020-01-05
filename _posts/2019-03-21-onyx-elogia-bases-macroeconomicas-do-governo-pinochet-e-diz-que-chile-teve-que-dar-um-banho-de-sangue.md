@@ -8,6 +8,7 @@ date: 2019-03-21 13:17:00
 pub_date: 2019-03-21 13:17:00
 time_added: 2019-03-24 07:11:45
 category: avisamos
+tags: []
 ---
 
 BRASÍLIA - Horas antes de o presidente Jair Bolsonaro embarcar rumo a Santiago, para iniciar visita oficial ao Chile, o ministro-chefe da Casa Civil, Onyx Lorenzoni, elogiou as "bases macroeconômicas" fixadas no governo do ditador Augusto Pinochet (1973-1990) ao defender a necessidade de uma href=

@@ -8,6 +8,7 @@ date: 2019-04-09 22:00:00
 pub_date: 2019-04-09 22:00:00
 time_added: 2019-04-12 03:57:53
 category: 
+tags: []
 ---
 
 Coluna Cartas do Rio | 10.04.2019 Bolsonaro com o ministro Araújo durante a visita a Israel O que há de esperar de um presidente cujo único projeto é acabar com um socialismo que não existe e não existia no Brasil? Bolsonaro parece cada vez mais um Dom Quixote, escreve Philip Lichterbeck.

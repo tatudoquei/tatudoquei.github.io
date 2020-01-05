@@ -8,6 +8,7 @@ date: 2019-01-10 19:17:00
 pub_date: 2019-01-10 19:17:00
 time_added: 2019-01-11 07:30:24
 category: avisamos
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23362397-e58-4d1/FT1086A/652/80565208_Brazilian-Vice-President-Hamilton-Mourao-attends-the-swearing-in-ceremony-of-Admiral-Ilques.jpg
 ---
 

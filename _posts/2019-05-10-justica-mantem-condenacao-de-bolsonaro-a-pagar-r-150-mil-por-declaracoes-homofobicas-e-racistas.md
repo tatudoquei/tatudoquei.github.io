@@ -8,6 +8,7 @@ date: 2019-05-10 15:03:04
 pub_date: 2019-05-10 15:03:04
 time_added: 2019-05-11 02:40:17
 category: 
+tags: []
 ---
 
 A maioria dos desembargadores da Sexta Câmara Cívil do Tribunal de Justiça do Rio de Janeiro (TJRJ) decidiu manter nesta quinta-feira a condenação do presidente Jair Bolsonaro a pagar R$ 150 mil, por danos morais, ao Fundo de Defesa dos Direitos Difusos (FDDD), do Ministério da Justiça.

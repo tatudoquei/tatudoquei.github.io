@@ -8,6 +8,7 @@ date: 2019-06-04 15:29:00
 pub_date: 2019-06-04 15:29:00
 time_added: 2019-06-04 22:35:46
 category: 
+tags: []
 ---
 
 BRASÍLIA — A Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes), órgão vinculado ao Ministério da Educação (MEC), anunciou nesta terça-feira a ampliação do bloqueio de bolsas de pós-graduação.

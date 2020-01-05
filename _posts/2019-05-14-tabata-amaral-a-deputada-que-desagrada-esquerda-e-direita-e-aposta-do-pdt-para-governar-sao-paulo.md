@@ -8,6 +8,7 @@ date: 2019-05-14 13:30:00
 pub_date: 2019-05-14 13:30:00
 time_added: 2019-05-16 19:08:01
 category: 
+tags: []
 image: https://media.gazetadopovo.com.br/2019/05/14101938/tabata-amaral-660x372.jpeg
 ---
 

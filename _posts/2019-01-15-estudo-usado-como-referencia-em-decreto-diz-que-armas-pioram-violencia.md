@@ -8,6 +8,7 @@ date: 2019-01-15 21:16:45
 pub_date: 2019-01-15 21:16:45
 time_added: 2019-12-23 21:41:24
 category: refletimos
+tags: [segurança]
 image: https://abrilveja.files.wordpress.com/2017/12/contrabando-20150513-0003-copy.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

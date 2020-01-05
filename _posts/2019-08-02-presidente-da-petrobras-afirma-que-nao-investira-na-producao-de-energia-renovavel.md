@@ -8,6 +8,7 @@ date: 2019-08-02 20:00:00
 pub_date: 2019-08-02 20:00:00
 time_added: 2019-08-03 22:39:40
 category: 
+tags: []
 ---
 
 O presidente da Petrobras, Roberto Castello Branco, afirmou que a companhia não fará novos investimentos na produção de energias renováveis.

@@ -8,6 +8,7 @@ date: 2019-12-14 08:00:00
 pub_date: 2019-12-14 08:00:00
 time_added: 2019-12-15 19:53:12
 category: 
+tags: []
 ---
 
 Jair Bolsonaro reclamou a pelo menos dois interlocutores nas últimas semanas estar sentindo um cansaço extremo, fruto, segundo ele, da falta de descanso da campanha eleitoral até agora.

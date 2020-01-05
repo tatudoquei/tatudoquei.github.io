@@ -8,6 +8,7 @@ date: 2019-08-27 02:00:00
 pub_date: 2019-08-27 02:00:00
 time_added: 2019-08-29 05:21:43
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ee/2017/02/04/04fev2017----lula-se-emociona-ao-durante-o-velorio-de-sua-mulher-marisa-leticia-em-sao-bernardo-do-campo-sp-1486231000419_750x421.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-07-26 20:07:00
 pub_date: 2019-07-26 20:07:00
 time_added: 2019-07-27 07:30:58
 category: 
+tags: []
 ---
 
 O procurador da República Diogo Castor de Mattos foi afastado da força-tarefa da Operação Lava Jato no Paraná porque participou do financiamento de outdoors com uma campanha de apoio à Lava Jato, que os próprios colegas entenderam ser conflituoso com o exercício da função.

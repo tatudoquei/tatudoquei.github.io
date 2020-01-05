@@ -8,6 +8,7 @@ date: 2019-04-29 18:29:54
 pub_date: 2019-04-29 18:29:54
 time_added: 2019-04-29 20:29:54
 category: 
+tags: []
 ---
 
 Brazil, home to one of the planet's last great forests, is currently in trade negotiations with its second largest trading partner, the European Union (EU). We urge the EU to seize this critical opportunity to ensure that Brazil protects human rights and the environment.

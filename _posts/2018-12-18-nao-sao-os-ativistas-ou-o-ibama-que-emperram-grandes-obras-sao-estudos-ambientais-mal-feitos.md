@@ -8,6 +8,7 @@ date: 2018-12-18 02:02:00
 pub_date: 2018-12-18 02:02:00
 time_added: 2019-12-23 21:41:23
 category: refletimos
+tags: [meio ambiente]
 image: https://theintercept.imgix.net/wp-uploads/sites/1/2018/11/12496394-high-1542917501.jpeg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800
 ---
 

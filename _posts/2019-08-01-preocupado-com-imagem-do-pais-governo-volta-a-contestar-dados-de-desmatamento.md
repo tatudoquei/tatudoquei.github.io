@@ -8,6 +8,7 @@ date: 2019-08-01 23:47:04
 pub_date: 2019-08-01 23:47:04
 time_added: 2019-08-03 18:51:40
 category: 
+tags: []
 ---
 
 Brasil | 02.08.2019 Bolsonaro criticou funcionários do Inpe na coletiva Em coletiva ao lado de Bolsonaro, Salles alega falhas em sistema de monitoramento do Inpe e anuncia contratação de empresa privada. Especialistas dizem que governo tenta desviar atenção do problema real.

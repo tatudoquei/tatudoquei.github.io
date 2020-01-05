@@ -8,6 +8,7 @@ date: 2019-10-22 08:25:00
 pub_date: 2019-10-22 08:25:00
 time_added: 2019-10-22 21:35:25
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/24033925-65d-622/FT1086A/652/angela-davis.jpg
 ---
 

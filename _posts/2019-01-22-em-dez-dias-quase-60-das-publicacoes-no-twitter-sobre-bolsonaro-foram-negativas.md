@@ -8,6 +8,7 @@ date: 2019-01-22 09:00:00
 pub_date: 2019-01-22 09:00:00
 time_added: 2019-12-23 21:19:31
 category: resistimos
+tags: []
 ---
 
 O presidente Jair Bolsonaro passou por tempos difíceis nos últimos dias. Segundo levantamento da consultoria Levels, de 7 a 18 de janeiro quase 60% das publicações no Twitter sobre o presidente foram negativas.

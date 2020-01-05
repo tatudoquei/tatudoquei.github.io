@@ -8,6 +8,7 @@ date: 2018-11-06 22:01:00
 pub_date: 2018-11-06 22:01:00
 time_added: 2018-11-08 08:15:05
 category: recuadas
+tags: []
 image: https://img.buzzfeed.com/buzzfeed-static/static/2018-11/6/15/enhanced/buzzfeed-prod-web-06/original-3931-1541536692-2.jpg?crop=619:324;33,81
 ---
 

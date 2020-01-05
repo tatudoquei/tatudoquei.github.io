@@ -8,6 +8,7 @@ date: 2019-12-23 21:19:29
 pub_date: 2018-10-28 20:11:00
 time_added: 2019-12-23 21:19:29
 category: refletimos
+tags: []
 image: http://conteudo.imguol.com.br/c/noticias/db/2018/10/08/o-jornalista-josias-de-souza-blogueiro-do-uol-1539036574389_615x300.png
 ---
 

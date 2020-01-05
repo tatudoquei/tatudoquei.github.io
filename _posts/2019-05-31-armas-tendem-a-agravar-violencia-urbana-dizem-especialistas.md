@@ -8,6 +8,7 @@ date: 2019-05-31 21:28:29
 pub_date: 2019-05-31 21:28:29
 time_added: 2019-06-05 20:55:39
 category: 
+tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/05/20190531_00_usptalks_armas.jpg
 ---
 

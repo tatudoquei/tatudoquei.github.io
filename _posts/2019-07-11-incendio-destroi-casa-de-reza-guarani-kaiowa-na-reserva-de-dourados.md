@@ -8,6 +8,7 @@ date: 2019-07-11 15:52:58
 pub_date: 2019-07-11 15:52:58
 time_added: 2019-07-11 17:52:58
 category: 
+tags: []
 image: https://cimi.org.br/wp-content/uploads/2019/07/casa-reza-getulio-01.jpeg
 ---
 

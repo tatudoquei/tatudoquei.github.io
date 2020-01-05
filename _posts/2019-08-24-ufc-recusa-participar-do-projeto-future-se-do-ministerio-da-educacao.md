@@ -8,6 +8,7 @@ date: 2019-08-24 22:00:00
 pub_date: 2019-08-24 22:00:00
 time_added: 2019-08-16 20:59:03
 category: 
+tags: []
 image: https://diariodonordeste.verdesmares.com.br/polopoly_fs/1.2100094.1565824096!/image/image.jpg_gen/derivatives/originalImage/image.jpg
 ---
 

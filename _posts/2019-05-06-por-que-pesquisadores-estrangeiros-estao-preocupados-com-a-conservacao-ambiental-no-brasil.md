@@ -8,6 +8,7 @@ date: 2019-05-06 19:29:05
 pub_date: 2019-05-06 19:29:05
 time_added: 2019-05-07 06:16:30
 category: 
+tags: []
 image: https://s2.glbimg.com/WB3lQl1UC1tdK0gMvuiuLg5WV88=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/p/9/jMBB76SVAfGTR1LCGiYQ/fpi-desmatamento-alagoas-2-.jpeg
 ---
 

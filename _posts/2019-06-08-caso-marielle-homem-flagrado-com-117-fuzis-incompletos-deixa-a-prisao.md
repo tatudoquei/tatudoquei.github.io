@@ -8,6 +8,7 @@ date: 2019-06-08 10:54:00
 pub_date: 2019-06-08 10:54:00
 time_added: 2019-06-10 10:22:59
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/rio/23726980-7db-7a2/FT1086A/652/alexandre-motta.jpg
 ---
 

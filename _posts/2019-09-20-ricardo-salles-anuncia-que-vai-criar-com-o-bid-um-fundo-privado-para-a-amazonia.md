@@ -8,6 +8,7 @@ date: 2019-09-20 16:24:09
 pub_date: 2019-09-20 16:24:09
 time_added: 2019-09-23 06:27:54
 category: 
+tags: []
 ---
 
 Ricardo Salles anuncia criação de fundo privado para a Amazônia, mas não detalha como ele funcionará. Foto: Fabio Rodrigues Pozzebom/ Agência Brasil.

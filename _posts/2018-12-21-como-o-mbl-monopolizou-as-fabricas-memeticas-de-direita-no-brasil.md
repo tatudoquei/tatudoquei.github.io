@@ -8,6 +8,7 @@ date: 2018-12-21 17:26:21
 pub_date: 2018-12-21 17:26:21
 time_added: 2019-12-23 21:41:23
 category: refletimos
+tags: []
 image: https://video-images.vice.com/articles/5c1cf88c53ac15000693e25f/lede/1545405279350-mblesse.jpeg?crop=1xw:0.84375xh;center,center&resize=1200:*
 ---
 

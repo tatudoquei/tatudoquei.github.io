@@ -8,6 +8,7 @@ date: 2019-09-23 14:38:22
 pub_date: 2019-09-23 14:38:22
 time_added: 2019-09-24 19:11:24
 category: 
+tags: []
 image: https://i.guim.co.uk/img/media/e7cb6d4bf283f6942a8fe6242c746f53dcfe46ec/0_16_4534_2721/master/4534.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=5e359a2373a3e90f5bb51debf813f06c
 ---
 

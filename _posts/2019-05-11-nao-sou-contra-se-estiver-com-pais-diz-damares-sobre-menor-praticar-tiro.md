@@ -8,6 +8,7 @@ date: 2019-05-11 00:33:59
 pub_date: 2019-05-11 00:33:59
 time_added: 2019-05-11 02:40:33
 category: 
+tags: []
 image: https://abrilexame.files.wordpress.com/2018/12/damares-alves-arquivovalter-campanato-foto-da-agc3aancia-brasil.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

@@ -8,6 +8,7 @@ date: 2019-11-17 03:10:00
 pub_date: 2019-11-17 03:10:00
 time_added: 2019-11-17 22:16:33
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/58/files/2019/11/ToffoliTREMGDivulgacao-615x300.jpg
 ---
 

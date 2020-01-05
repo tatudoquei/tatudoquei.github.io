@@ -8,6 +8,7 @@ date: 2019-05-30 00:04:03
 pub_date: 2019-05-30 00:04:03
 time_added: 2019-05-30 04:51:49
 category: 
+tags: []
 image: http://blogs.correiobraziliense.com.br/cbpoder/wp-content/uploads/sites/5/2019/05/Sol-Nascente-Michelle-Bolsonaro-e1559173970429.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-04-30 22:57:57
 pub_date: 2019-04-30 22:57:57
 time_added: 2019-05-01 09:07:27
 category: 
+tags: []
 image: https://deolhonosruralistas.com.br/wp-content/uploads/2019/04/aviao-mst-agrotoxico.jpg
 ---
 

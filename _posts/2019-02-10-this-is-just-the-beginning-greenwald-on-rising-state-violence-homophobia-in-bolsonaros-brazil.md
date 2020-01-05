@@ -8,6 +8,7 @@ date: 2019-02-10 23:00:00
 pub_date: 2019-02-10 23:00:00
 time_added: 2019-12-23 21:37:46
 category: refletimos
+tags: []
 image: https://www.democracynow.org/images/story/43/46043/full_hd/SEG3-Bolsonaro.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-02-01 11:50:46
 pub_date: 2019-02-01 11:50:46
 time_added: 2019-12-23 21:19:31
 category: resistimos
+tags: [bandido bom]
 image: https://s2.glbimg.com/8h0v_qvDJ2BwVWTSy09T4jnTDCE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/9/X/kAwoMRRSipCpV8BS1CjA/andreia-sadi.png
 ---
 

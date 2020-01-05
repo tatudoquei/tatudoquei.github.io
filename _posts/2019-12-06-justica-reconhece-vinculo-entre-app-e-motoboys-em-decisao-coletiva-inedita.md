@@ -8,6 +8,7 @@ date: 2019-12-06 10:31:00
 pub_date: 2019-12-06 10:31:00
 time_added: 2019-12-07 08:16:05
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/12/loggi-615x300.jpg
 ---
 

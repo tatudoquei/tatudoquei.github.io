@@ -8,6 +8,7 @@ date: 2019-06-04 13:55:00
 pub_date: 2019-06-04 13:55:00
 time_added: 2019-06-04 20:28:37
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/bb/2019/04/10/multas-de-transito-1554925812585_v2_615x300.jpg
 ---
 

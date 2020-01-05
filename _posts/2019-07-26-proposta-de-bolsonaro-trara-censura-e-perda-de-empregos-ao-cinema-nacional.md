@@ -8,6 +8,7 @@ date: 2019-07-26 16:57:00
 pub_date: 2019-07-26 16:57:00
 time_added: 2019-07-27 18:09:27
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/07/live_bolso-615x300.jpg
 ---
 

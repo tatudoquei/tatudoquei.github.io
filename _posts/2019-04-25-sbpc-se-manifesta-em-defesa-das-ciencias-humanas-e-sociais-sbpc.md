@@ -8,6 +8,7 @@ date: 2019-04-25 22:00:00
 pub_date: 2019-04-25 22:00:00
 time_added: 2019-04-27 07:14:47
 category: 
+tags: []
 ---
 
 A Sociedade Brasileira para o Progresso da Ciência (SBPC) vem a público  manifestar sua discordância em relação à proposição feita nesta sexta-feira (26) pelo Exmo. Sr. Presidente da República de que não haveria mais investimentos federais para faculdades de Filosofia e Sociologia.

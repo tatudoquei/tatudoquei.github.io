@@ -8,6 +8,7 @@ date: 2018-11-18 12:58:00
 pub_date: 2018-11-18 12:58:00
 time_added: 2019-12-23 21:19:30
 category: resistimos
+tags: [saúde]
 ---
 
 RIO — O prefeito da cidade de Chapada, no Rio Grande do Sul, Carlos Alzenir Catto (PDT) , convidou o médico cubano Richel Collazo, que atua pelo programa Mais Médicos na cidade, para assumir o cargo de secretário municipal de Saúde.

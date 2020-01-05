@@ -8,6 +8,7 @@ date: 2019-12-05 10:14:00
 pub_date: 2019-12-05 10:14:00
 time_added: 2019-12-07 08:04:07
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/4a/2019/03/12/dinheiro-real-notas-salario-minimo-1552409131187_v2_615x300.jpg
 ---
 

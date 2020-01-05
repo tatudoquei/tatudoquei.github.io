@@ -8,6 +8,7 @@ date: 2019-02-09 10:26:00
 pub_date: 2019-02-09 10:26:00
 time_added: 2019-12-23 21:37:45
 category: refletimos
+tags: []
 image: https://f.i.uol.com.br/fotografia/2019/02/09/15496777605c5e34c01abb7_1549677760_3x2_rt.jpg
 ---
 

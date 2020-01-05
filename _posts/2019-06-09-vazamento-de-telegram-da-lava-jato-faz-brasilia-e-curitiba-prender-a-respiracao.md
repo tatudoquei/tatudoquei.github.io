@@ -8,6 +8,7 @@ date: 2019-06-09 19:44:00
 pub_date: 2019-06-09 19:44:00
 time_added: 2019-06-10 13:42:35
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23649752-de0-045/FT1086A/652/82565894_BSBBrasiliaBrasil08-05-2019Ministro-da-Justica-Sergio-Moro-na-Comissao-de.jpg
 ---
 

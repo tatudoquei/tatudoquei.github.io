@@ -8,6 +8,7 @@ date: 2019-07-27 05:31:57
 pub_date: 2019-07-27 05:31:57
 time_added: 2019-07-27 07:31:57
 category: 
+tags: []
 image: https://fotos.jornaldocarro.estadao.com.br/uploads/2019/07/26073443/1561136495734-300x151.jpg
 ---
 

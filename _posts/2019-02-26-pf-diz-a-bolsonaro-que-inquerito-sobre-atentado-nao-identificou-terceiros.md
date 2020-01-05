@@ -8,6 +8,7 @@ date: 2019-02-26 01:35:31
 pub_date: 2019-02-26 01:35:31
 time_added: 2019-02-27 11:28:16
 category: avisamos
+tags: []
 image: https://abrilveja.files.wordpress.com/2018/12/JAIR-BOLSONARO-JUIZ-DE-FORA-MG-ESFAQUEADO_2018-49.jpg_1.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

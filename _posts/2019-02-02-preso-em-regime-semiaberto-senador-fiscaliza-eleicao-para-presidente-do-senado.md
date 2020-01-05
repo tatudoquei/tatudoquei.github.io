@@ -8,6 +8,7 @@ date: 2019-02-02 15:31:00
 pub_date: 2019-02-02 15:31:00
 time_added: 2019-02-04 23:51:49
 category: avisamos
+tags: []
 ---
 
 BRASÍLIA — Condenado a quatro anos e seis meses de prisão por crimes contra o sistema financeiro, e atualmente cumprindo pena no regime semiaberto, o senador Acir Gurgacz (PDT-RO) participou da votação para a Presidência no Senado neste sábado.

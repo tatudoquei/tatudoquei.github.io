@@ -8,6 +8,7 @@ date: 2019-04-15 13:30:09
 pub_date: 2019-04-15 13:30:09
 time_added: 2019-06-11 06:48:35
 category: avisamos
+tags: [meio ambiente]
 image: https://abrilveja.files.wordpress.com/2019/03/brasil-ricardo-salles-25032019-01.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

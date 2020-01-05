@@ -8,6 +8,7 @@ date: 2019-05-12 15:30:00
 pub_date: 2019-05-12 15:30:00
 time_added: 2019-05-13 03:46:09
 category: 
+tags: []
 ---
 
 RIO — O presidente Jair Bolsonaro disse neste domingo que vai indicar o ministro da Justiça, Sergio Moro, para a primeira vaga no Supremo Tribunal Federal (STF), porque tem um compromisso com ele.

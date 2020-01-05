@@ -8,6 +8,7 @@ date: 2019-10-28 02:01:00
 pub_date: 2019-10-28 02:01:00
 time_added: 2019-10-28 07:14:26
 category: 
+tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/10/25-10-2019-funai-redes-1572032369.jpg
 ---
 

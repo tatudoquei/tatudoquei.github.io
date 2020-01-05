@@ -8,6 +8,7 @@ date: 2019-05-29 09:30:46
 pub_date: 2019-05-29 09:30:46
 time_added: 2019-05-29 19:38:35
 category: 
+tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2019/05/gabas-e1559095917110.jpg
 ---
 

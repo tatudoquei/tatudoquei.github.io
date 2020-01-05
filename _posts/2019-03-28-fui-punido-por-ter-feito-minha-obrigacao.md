@@ -8,6 +8,7 @@ date: 2019-03-28 21:46:00
 pub_date: 2019-03-28 21:46:00
 time_added: 2019-03-30 09:55:30
 category: 
+tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/03/ibama_redes_28032019.jpg
 ---
 

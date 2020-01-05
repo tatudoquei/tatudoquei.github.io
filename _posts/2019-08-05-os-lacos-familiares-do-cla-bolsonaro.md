@@ -8,6 +8,7 @@ date: 2019-08-05 20:35:29
 pub_date: 2019-08-05 20:35:29
 time_added: 2019-08-05 22:35:29
 category: 
+tags: []
 image: http://deoliyp60f2gq.cloudfront.net/os-lacos-familiares-do-cla-bolsonaro/share.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-05-06 03:00:00
 pub_date: 2019-05-06 03:00:00
 time_added: 2019-05-11 02:39:54
 category: 
+tags: []
 ---
 
 As atividades profissionais da Acadêmica Débora Foguel, que responde pelos assuntos relacionados ao tema Educação na Academia Brasileira de Ciências (ABC), são muitas.

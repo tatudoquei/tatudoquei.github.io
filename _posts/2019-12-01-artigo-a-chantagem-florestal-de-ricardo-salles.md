@@ -8,6 +8,7 @@ date: 2019-12-01 03:30:00
 pub_date: 2019-12-01 03:30:00
 time_added: 2019-12-02 07:32:35
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/24064257-d20-e97/FT1086A/652/Desmatamento.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-08-26 12:15:21
 pub_date: 2019-08-26 12:15:21
 time_added: 2019-08-27 06:27:44
 category: 
+tags: []
 image: https://abrilveja.files.wordpress.com/2018/12/mundo-protesto-franca-macron-20181210-001.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

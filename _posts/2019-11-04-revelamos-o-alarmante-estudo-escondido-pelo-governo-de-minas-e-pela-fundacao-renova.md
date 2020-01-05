@@ -8,6 +8,7 @@ date: 2019-11-04 18:00:17
 pub_date: 2019-11-04 18:00:17
 time_added: 2019-11-13 22:36:37
 category: 
+tags: []
 image: https://apublica.org/wp-content/uploads/2019/11/imagem-de-capa-sem-documento.jpg
 ---
 

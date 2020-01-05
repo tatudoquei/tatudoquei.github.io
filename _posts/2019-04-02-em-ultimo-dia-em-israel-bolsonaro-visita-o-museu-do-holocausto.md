@@ -8,6 +8,7 @@ date: 2019-04-02 09:08:00
 pub_date: 2019-04-02 09:08:00
 time_added: 2019-04-02 21:36:56
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/dc/2019/04/02/bolsonaro-no-muro-das-lamentacoes-nesta-segunda-feira-visita-ao-local-ao-lado-de-netanyahu-e-vista-por-alguns-como-apoio-tacito-a-soberania-de-israel-sobre-jerusalem-oriental-1554201218700_v2_750x421.jpg
 ---
 

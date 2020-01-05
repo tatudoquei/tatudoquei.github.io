@@ -8,6 +8,7 @@ date: 2019-08-08 19:55:53
 pub_date: 2019-08-08 19:55:53
 time_added: 2019-08-08 21:55:53
 category: 
+tags: []
 ---
 
 A Sociedade Brasileira para o Progresso da Ciência (SBPC) encaminhou nesta quinta-feira, 8 de agosto, a moção de apelo à união nacional contra o preconceito e a xenofobia  em solidariedade aos estados do Nordeste.

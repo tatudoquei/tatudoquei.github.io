@@ -8,6 +8,7 @@ date: 2019-12-24 19:27:00
 pub_date: 2019-12-24 19:27:00
 time_added: 2019-12-25 09:30:33
 category: 
+tags: []
 image: https://f.i.uol.com.br/fotografia/2019/12/12/15761931915df2cca707293_1576193191_3x2_lg.jpg
 ---
 

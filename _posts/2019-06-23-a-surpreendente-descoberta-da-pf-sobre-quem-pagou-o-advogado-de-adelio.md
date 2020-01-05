@@ -8,6 +8,7 @@ date: 2019-06-23 04:00:00
 pub_date: 2019-06-23 04:00:00
 time_added: 2019-06-25 05:16:13
 category: 
+tags: []
 image: https://s2.glbimg.com/VDMT6XKNocAZ3vgGoaFho1_HBQY=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2018/09/28/78757267_federal_police_agents_escort_adelio_bispo_de_oliveira_suspected_of_stabbing_brazilian_p.jpg
 ---
 

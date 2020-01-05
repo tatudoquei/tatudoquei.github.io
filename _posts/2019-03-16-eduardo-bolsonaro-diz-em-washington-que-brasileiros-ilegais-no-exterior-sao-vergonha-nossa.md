@@ -8,6 +8,7 @@ date: 2019-03-16 22:44:00
 pub_date: 2019-03-16 22:44:00
 time_added: 2019-03-18 19:04:37
 category: avisamos
+tags: []
 ---
 
 WASHINGTON - O deputado federal Eduardo Bolsonaro (PSL-SP) disse na noite deste sábado em Washington que os brasileiros que estão em situação migratória irregular fora do país são uma “vergonha nossa”.

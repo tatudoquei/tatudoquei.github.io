@@ -8,6 +8,7 @@ date: 2019-08-19 14:03:48
 pub_date: 2019-08-19 14:03:48
 time_added: 2019-08-20 07:54:00
 category: 
+tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2019/08/cefet-2-e1566223003667.jpg
 ---
 

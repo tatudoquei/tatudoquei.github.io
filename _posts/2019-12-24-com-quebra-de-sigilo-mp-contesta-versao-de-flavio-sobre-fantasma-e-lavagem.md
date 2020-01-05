@@ -8,6 +8,7 @@ date: 2019-12-24 03:04:00
 pub_date: 2019-12-24 03:04:00
 time_added: 2019-12-25 11:27:07
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/01/2019/11/21/21nov2019---o-presidente-jair-bolsonaro-e-senador-flavio-bolsonaro-falam-para-militantes-durante-convencao-nacional-para-criacao-da-executiva-nacional-do-novo-partido-alianca-pelo-brasil-no-royal-tulip-1574363142160_v2_615x300.jpg
 ---
 

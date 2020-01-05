@@ -8,6 +8,7 @@ date: 2019-05-21 13:39:00
 pub_date: 2019-05-21 13:39:00
 time_added: 2019-05-23 05:47:39
 category: 
+tags: []
 ---
 
 BRASÍLIA — Líder do Movimento Brasil Livre (MBL) e deputado federal eleito pelo DEM em São Paulo, Kim Kataguiri diz que o presidente Jair Bolsonaro erra ao pregar discurso de demonização da política.

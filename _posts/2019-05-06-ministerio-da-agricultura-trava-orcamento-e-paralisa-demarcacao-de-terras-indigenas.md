@@ -8,6 +8,7 @@ date: 2019-05-06 19:26:13
 pub_date: 2019-05-06 19:26:13
 time_added: 2019-05-08 14:37:24
 category: 
+tags: []
 image: https://cimi.org.br/wp-content/uploads/2019/04/Indigena_Senado.jpg
 ---
 

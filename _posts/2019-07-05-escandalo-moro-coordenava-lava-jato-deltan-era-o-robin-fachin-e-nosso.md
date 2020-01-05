@@ -8,6 +8,7 @@ date: 2019-07-05 07:48:00
 pub_date: 2019-07-05 07:48:00
 time_added: 2019-07-06 05:59:13
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2019/07/fachinedallagnol-594x300.jpg
 ---
 

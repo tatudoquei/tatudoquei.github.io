@@ -8,6 +8,7 @@ date: 2019-10-22 22:35:22
 pub_date: 2019-10-22 22:35:22
 time_added: 2019-10-24 19:54:09
 category: 
+tags: []
 ---
 
 As manchas de petróleo cru que contaminam o litoral do Nordeste apareceram na madrugada desta terça-feira (22) no município de Cairu, no sul da Bahia, atingindo alguns dos pontos turísticos mais importantes do estado: as praias do distrito do Morro de São Paulo, de Boipeba e de Garapuá.

@@ -8,6 +8,7 @@ date: 2019-08-08 02:17:09
 pub_date: 2019-08-08 02:17:09
 time_added: 2019-08-08 21:56:00
 category: 
+tags: []
 image: http://climainfo.org.br/wp-content/uploads/2019/07/CONAMA.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-12-06 05:45:00
 pub_date: 2019-12-06 05:45:00
 time_added: 2019-12-06 12:23:03
 category: recuadas
+tags: []
 image: https://f.i.uol.com.br/fotografia/2019/12/06/15756254265dea22d2a20fb_1575625426_3x2_rt.jpg
 ---
 

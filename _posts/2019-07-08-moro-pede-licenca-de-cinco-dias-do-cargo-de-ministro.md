@@ -8,6 +8,7 @@ date: 2019-07-08 13:53:59
 pub_date: 2019-07-08 13:53:59
 time_added: 2019-07-09 06:38:39
 category: 
+tags: []
 image: https://www.valor.com.br/sites/default/files/imagecache/media_library_big_horizontal/fotoweb/img_9146df.jpg
 ---
 

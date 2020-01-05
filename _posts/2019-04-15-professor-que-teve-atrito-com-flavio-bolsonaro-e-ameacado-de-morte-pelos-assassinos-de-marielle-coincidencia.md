@@ -8,6 +8,7 @@ date: 2019-04-15 20:32:34
 pub_date: 2019-04-15 20:32:34
 time_added: 2019-04-19 07:42:49
 category: 
+tags: []
 ---
 
 O professor Pedro Mara vive sob ameaça dos assassinos de Marielle Franco, do senador Flávio Bolsonaro e da Secretaria de Educação do Rio de Janeiro.

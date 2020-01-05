@@ -8,6 +8,7 @@ date: 2019-07-01 15:55:00
 pub_date: 2019-07-01 15:55:00
 time_added: 2019-07-05 05:08:39
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/03/pratras-615x300.jpg
 ---
 

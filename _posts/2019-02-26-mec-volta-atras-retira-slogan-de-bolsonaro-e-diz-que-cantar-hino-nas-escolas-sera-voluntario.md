@@ -8,6 +8,7 @@ date: 2019-02-26 10:15:00
 pub_date: 2019-02-26 10:15:00
 time_added: 2019-12-23 21:15:16
 category: recuadas
+tags: [educação]
 image: https://www.diariodocentrodomundo.com.br/wp-content/uploads/2019/01/velez-2.jpg
 ---
 

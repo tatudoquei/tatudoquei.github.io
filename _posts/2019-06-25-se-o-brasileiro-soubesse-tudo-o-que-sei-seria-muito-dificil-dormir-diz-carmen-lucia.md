@@ -8,6 +8,7 @@ date: 2019-06-25 05:25:20
 pub_date: 2017-10-07 14:03:00
 time_added: 2019-06-25 05:25:20
 category: 
+tags: []
 ---
 
 SÃO PAULO — A presidente do Supremo Tribunal Federal (STF), ministra Cármen Lúcia, afirmou nesta sábado que o brasileiro não dormiria, se conhecesse tudo o que ela sabe.

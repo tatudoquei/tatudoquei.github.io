@@ -8,6 +8,7 @@ date: 2019-03-20 17:17:00
 pub_date: 2019-03-20 17:17:00
 time_added: 2019-03-22 08:03:10
 category: avisamos
+tags: []
 image: https://conteudo.imguol.com.br/c/blogs/5a/2019/03/06/jair-bolsonaro-foto-marcos-correapr-1551899367562_v2_615x300.jpg
 ---
 

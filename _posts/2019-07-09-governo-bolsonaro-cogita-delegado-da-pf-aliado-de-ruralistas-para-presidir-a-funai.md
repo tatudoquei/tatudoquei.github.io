@@ -8,6 +8,7 @@ date: 2019-07-09 18:20:00
 pub_date: 2019-07-09 18:20:00
 time_added: 2019-07-11 18:52:34
 category: 
+tags: []
 ---
 
 BRASÍLIA — Um delegado da Polícia Federal (PF) ligado aos ruralistas, a favor da exploração de mineração em terras indígenas, que já atuou em oposição a grupos de índios e que já exerceu o cargo de assessor de um dos principais ministros do presidente Michel Temer passou a ser cogitado

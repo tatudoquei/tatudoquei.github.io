@@ -8,6 +8,7 @@ date: 2019-06-14 11:00:00
 pub_date: 2019-06-14 11:00:00
 time_added: 2019-06-15 08:51:26
 category: 
+tags: []
 ---
 
 BRASÍLIA - O presidente Jair Bolsonaro criticou, nesta sexta-feira, a decisão do Supremo Tribunal Federal (STF) de criminalizar a homofobia. Segundo ele, equiparar as práticas de homofobia e transfobia ao crime de racismo é um "completo equívoco".

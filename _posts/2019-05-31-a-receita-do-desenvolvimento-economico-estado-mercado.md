@@ -8,6 +8,7 @@ date: 2019-05-31 05:09:41
 pub_date: 2019-05-31 05:09:41
 time_added: 2019-06-01 19:17:56
 category: 
+tags: []
 image: https://i2.wp.com/www.paulogala.com.br/wp-content/uploads/2019/02/img_1582-1.jpg?fit=300%2C300
 ---
 

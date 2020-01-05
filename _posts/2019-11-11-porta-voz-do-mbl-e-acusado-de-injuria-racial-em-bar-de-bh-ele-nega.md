@@ -8,6 +8,7 @@ date: 2019-11-11 19:54:00
 pub_date: 2019-11-11 19:54:00
 time_added: 2019-11-12 06:38:29
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/3d/2019/11/11/thiago-dayrell-porta-voz-do-mbl-em-belo-horizonte-1573516418229_v2_615x300.jpg
 ---
 

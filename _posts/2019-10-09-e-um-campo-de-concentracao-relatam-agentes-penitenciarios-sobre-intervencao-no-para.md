@@ -8,6 +8,7 @@ date: 2019-10-09 04:00:00
 pub_date: 2019-10-09 04:00:00
 time_added: 2019-10-10 01:42:52
 category: 
+tags: []
 ---
 
 Depoimentos de agentes penitenciários estaduais que atuavam em presídios do Pará foram fundamentais para que o Ministério Público Federal (MPF) abrisse uma nova fase da investigação sobre a atuação da Força-Tarefa de Intervenção Penitenciária (FTIP) que atua no estado.

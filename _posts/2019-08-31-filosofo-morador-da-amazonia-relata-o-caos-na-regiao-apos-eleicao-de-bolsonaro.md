@@ -8,6 +8,7 @@ date: 2019-08-31 18:28:46
 pub_date: 2019-08-31 18:28:46
 time_added: 2019-09-06 06:26:18
 category: 
+tags: []
 image: http://bemblogado.com.br/site/wp-content/uploads/2017/07/grilagem-desmatamento-amazonia.jpg
 ---
 

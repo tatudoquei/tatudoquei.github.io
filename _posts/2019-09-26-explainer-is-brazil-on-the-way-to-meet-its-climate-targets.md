@@ -8,6 +8,7 @@ date: 2019-09-26 22:00:00
 pub_date: 2019-09-26 22:00:00
 time_added: 2019-09-27 21:47:08
 category: 
+tags: []
 ---
 
 Is Brazil on the way to meet its climate targets_ -1

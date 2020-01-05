@@ -8,6 +8,7 @@ date: 2019-07-17 18:22:00
 pub_date: 2019-07-17 18:22:00
 time_added: 2019-07-18 17:38:10
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/226/files/2019/07/future-615x300.jpeg
 ---
 

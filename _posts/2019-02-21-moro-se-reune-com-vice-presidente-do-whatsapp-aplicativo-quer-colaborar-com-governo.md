@@ -8,6 +8,7 @@ date: 2019-02-21 11:29:03
 pub_date: 2019-02-21 11:29:03
 time_added: 2019-02-23 19:26:09
 category: avisamos
+tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2019/02/sergio-moro-e1549449972428.jpg
 ---
 

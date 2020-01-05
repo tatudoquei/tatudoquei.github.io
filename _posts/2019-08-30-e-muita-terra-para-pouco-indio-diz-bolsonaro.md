@@ -8,6 +8,7 @@ date: 2019-08-30 13:44:41
 pub_date: 2019-08-30 13:44:41
 time_added: 2019-08-30 23:32:36
 category: 
+tags: []
 image: https://abrilexame.files.wordpress.com/2019/08/jair-bolsonaro-2.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

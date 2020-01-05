@@ -8,6 +8,7 @@ date: 2019-07-26 19:27:01
 pub_date: 2019-07-26 19:27:01
 time_added: 2019-07-27 07:57:52
 category: 
+tags: []
 image: https://static.nationalgeographicbrasil.com/files/styles/desktop/public/GettyImages-928307424%20%281%29%20copy.jpg?itok=te0Hl9-M
 ---
 

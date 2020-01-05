@@ -8,6 +8,7 @@ date: 2019-05-07 23:43:00
 pub_date: 2019-05-07 23:43:00
 time_added: 2019-05-08 14:37:28
 category: 
+tags: []
 ---
 
 BRASÍLIA — O Ministério da Defesa confirmou na noite desta quarta-feira o bloqueio de R$ 5,8 bilhões no orçamento das Forças Armadas. Conforme revelado pela colunista Miriam Leitão, o montante corresponde a 43% da verba.

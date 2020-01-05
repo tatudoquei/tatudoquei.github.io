@@ -8,6 +8,7 @@ date: 2019-05-24 17:57:00
 pub_date: 2019-05-24 17:57:00
 time_added: 2019-05-25 22:19:53
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/19/2019/05/08/bolsonaro-assinou-novo-decreto-para-flexibilizar-regras-sobre-armas-nesta-terca-1557341022406_v2_615x300.jpg
 ---
 

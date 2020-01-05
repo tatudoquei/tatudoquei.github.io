@@ -8,6 +8,7 @@ date: 2018-12-12 21:15:00
 pub_date: 2018-12-12 21:15:00
 time_added: 2018-12-13 23:03:48
 category: avisamos
+tags: []
 ---
 
 RIO — Outro ex-assessor parlamentar do deputado estadual Flávio Bolsonaro (PSL), o tenente-coronel da Polícia Militar do Rio Wellington Servulo Romano da Silva, de 48 anos, também é suspeito de irregularidades.

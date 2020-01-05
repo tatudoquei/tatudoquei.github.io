@@ -8,6 +8,7 @@ date: 2019-01-14 16:33:00
 pub_date: 2019-01-14 16:33:00
 time_added: 2019-12-23 21:41:24
 category: refletimos
+tags: []
 image: https://s2.glbimg.com/czqzIrjjUSn1toU44fFwVfhp09Q=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/01/14/80628898_italian_former_communist_militant_cesare_battisti_c_wanted_in_rome_for_four_murders_attribu.jpg
 ---
 

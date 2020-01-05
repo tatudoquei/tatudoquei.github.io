@@ -8,6 +8,7 @@ date: 2019-04-23 09:17:00
 pub_date: 2019-04-23 09:17:00
 time_added: 2019-04-24 22:30:05
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/5c/2018/08/21/21ago2018---militares-fazem-operacao-pelo-segundo-dia-seguido-no-complexo-da-penha-no-rio-1534854511358_v2_750x421.jpg
 ---
 

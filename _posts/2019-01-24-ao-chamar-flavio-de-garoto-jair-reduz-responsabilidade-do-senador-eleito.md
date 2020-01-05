@@ -8,6 +8,7 @@ date: 2019-01-24 09:46:00
 pub_date: 2019-01-24 09:46:00
 time_added: 2019-12-23 21:37:43
 category: refletimos
+tags: [bandido bom]
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/01/flavio-615x300.jpg
 ---
 

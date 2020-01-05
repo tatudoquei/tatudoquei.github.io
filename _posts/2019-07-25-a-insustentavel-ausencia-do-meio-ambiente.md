@@ -8,6 +8,7 @@ date: 2019-07-25 03:43:34
 pub_date: 2019-07-25 03:43:34
 time_added: 2019-07-25 21:49:39
 category: 
+tags: []
 image: http://climainfo.org.br/wp-content/uploads/2019/07/meio-ambiente-1.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2018-12-11 07:00:01
 pub_date: 2018-12-11 07:00:01
 time_added: 2018-12-13 23:04:03
 category: avisamos
+tags: []
 image: https://www.valor.com.br/sites/default/files/imagecache/media_library_big_horizontal/gn/18/12/foto11pol-101-missiona-a9.jpg
 ---
 

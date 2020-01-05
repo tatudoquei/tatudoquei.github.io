@@ -8,6 +8,7 @@ date: 2019-06-02 02:30:00
 pub_date: 2019-06-02 02:30:00
 time_added: 2019-06-04 06:18:23
 category: 
+tags: []
 ---
 
 RIO, GUARAPARI (ES) E RESENDE (RJ) — O senador Flávio Bolsonaro (PSL-RJ) empregou nove parentes de Ana Cristina Siqueira Valle, ex-mulher do presidente Jair Bolsonaro, no período em que foi deputado estadual na Assembleia Legislativa do Rio (Alerj).

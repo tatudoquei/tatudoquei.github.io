@@ -8,6 +8,7 @@ date: 2019-12-30 03:03:00
 pub_date: 2019-12-30 03:03:00
 time_added: 2019-12-30 23:05:38
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e5/2019/12/23/1mar2010--o-professor-de-filosofia-denis-rosenfield-autor-de-livros-como-o-que-e-democracia-e-o-estado-fraturado-1577125981231_v2_615x300.jpg
 ---
 

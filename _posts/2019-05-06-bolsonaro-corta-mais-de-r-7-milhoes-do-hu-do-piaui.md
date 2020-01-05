@@ -8,6 +8,7 @@ date: 2019-05-06 17:25:55
 pub_date: 2019-05-06 17:25:55
 time_added: 2019-05-09 22:44:16
 category: 
+tags: []
 image: https://i1.wp.com/www.portaldiariodonorte.com.br/wp-content/uploads/2019/05/hu_fachada-piaui.jpg?fit=680%2C453&ssl=1
 ---
 

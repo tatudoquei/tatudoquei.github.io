@@ -8,6 +8,7 @@ date: 2019-04-02 16:30:17
 pub_date: 2019-04-02 16:30:17
 time_added: 2019-04-09 19:18:21
 category: 
+tags: []
 image: https://forbes.uol.com.br/wp-content/uploads/2019/04/abre-negocios-nazismo-02abr2019-gettyimages.jpg
 ---
 

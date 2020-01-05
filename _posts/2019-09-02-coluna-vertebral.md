@@ -8,6 +8,7 @@ date: 2019-09-02 18:43:11
 pub_date: 2019-09-02 18:43:11
 time_added: 2019-09-02 21:58:44
 category: 
+tags: []
 image: https://i0.statig.com.br/bancodeimagens/dc/gq/uc/dcgquc2dafpwb71e5yyq0ywwk.jpg
 ---
 

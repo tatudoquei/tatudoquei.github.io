@@ -8,6 +8,7 @@ date: 2019-05-21 10:36:00
 pub_date: 2019-05-21 10:36:00
 time_added: 2019-05-26 22:48:26
 category: 
+tags: []
 ---
 
 RIO — O Ministério da Agricultura (Mapa) divulgou esta terça-feira (21) a liberação de 31 novos agrotóxicos para serem usados em lavouras brasileiras e, com isso, estabeleceu um recorde: nunca tantas permissões foram concedidas tão rapidamente no Brasil.

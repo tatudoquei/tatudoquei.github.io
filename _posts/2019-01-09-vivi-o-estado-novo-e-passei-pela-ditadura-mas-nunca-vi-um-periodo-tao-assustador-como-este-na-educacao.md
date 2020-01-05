@@ -8,6 +8,7 @@ date: 2019-01-09 23:00:00
 pub_date: 2019-01-09 23:00:00
 time_added: 2019-03-24 07:40:08
 category: refletimos
+tags: []
 image: https://nova-escola-producao.s3.amazonaws.com/qm53999MQ5vypWqS5upt3vvxAZBx4nBhUBfC5nfSMCkGrCe4ps3pW5fJkPxK/magda-soares-foto-ronaldo-guimaraes.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-07-05 09:30:42
 pub_date: 2019-07-05 09:30:42
 time_added: 2019-07-05 19:17:09
 category: 
+tags: []
 image: https://abrilveja.files.wordpress.com/2019/07/capas-moro-abre.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

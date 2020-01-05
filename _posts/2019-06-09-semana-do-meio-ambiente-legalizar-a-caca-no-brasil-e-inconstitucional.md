@@ -8,6 +8,7 @@ date: 2019-06-09 15:32:06
 pub_date: 2019-06-09 15:32:06
 time_added: 2019-06-10 13:54:06
 category: 
+tags: []
 ---
 
 Uma pesquisa divulgada pelo Instituto Brasileiro de Opinião Pública e Estatística (Ibope) em 22 de maio deste ano revelou que 93% dos brasileiros são contra a legalização da caça no país.

@@ -8,6 +8,7 @@ date: 2018-12-09 16:45:09
 pub_date: 2018-12-09 16:45:09
 time_added: 2018-12-09 22:22:22
 category: avisamos
+tags: []
 image: https://s2.glbimg.com/rcVTODvvDQglzEqXvLijw590umM=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/o/5/LYE3f7SMG8lu0hCyABAQ/secretario-meio-ambiente.jpg
 ---
 

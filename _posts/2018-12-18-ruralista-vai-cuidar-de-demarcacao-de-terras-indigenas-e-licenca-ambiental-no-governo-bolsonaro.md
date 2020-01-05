@@ -8,6 +8,7 @@ date: 2018-12-18 12:48:00
 pub_date: 2018-12-18 12:48:00
 time_added: 2018-12-18 22:35:57
 category: avisamos
+tags: []
 ---
 
 BRASÍLIA — O governo Jair Bolsonaro decidiu colocar nas mãos de uma liderança ruralista, aliada de primeira ordem durante a campanha presidencial, as atribuições de identificação e demarcação de terras indígenas e titulação de quilombolas, além de licenciamento ambiental e políticas

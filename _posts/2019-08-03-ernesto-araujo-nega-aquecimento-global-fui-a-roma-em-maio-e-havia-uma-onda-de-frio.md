@@ -8,6 +8,7 @@ date: 2019-08-03 10:01:00
 pub_date: 2019-08-03 10:01:00
 time_added: 2019-08-03 22:34:42
 category: 
+tags: []
 ---
 
 Ernesto Araújo deixou colegas do Itamaraty desconfortáveis ontem, durante uma reunião com os diplomatas da Secretaria de Assuntos de Soberania Nacional e Cidadania, ao negar a existência do aquecimento global e usar um exemplo pessoal para provar o seu ponto.

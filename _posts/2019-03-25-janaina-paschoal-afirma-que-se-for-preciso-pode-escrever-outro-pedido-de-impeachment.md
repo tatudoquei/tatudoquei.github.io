@@ -8,6 +8,7 @@ date: 2019-03-25 12:04:18
 pub_date: 2019-03-25 12:04:18
 time_added: 2019-03-26 18:44:28
 category: refletimos
+tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2018/11/brasil-senado-julgamento-dilma-quinto-dia-20160830-009-e1543141206411.jpg
 ---
 

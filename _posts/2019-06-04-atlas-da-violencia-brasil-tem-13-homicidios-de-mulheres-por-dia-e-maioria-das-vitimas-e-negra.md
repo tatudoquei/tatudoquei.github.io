@@ -8,6 +8,7 @@ date: 2019-06-04 22:00:00
 pub_date: 2019-06-04 22:00:00
 time_added: 2019-06-06 19:42:11
 category: 
+tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/0630/production/_107248510_1050932-1-23.08.2016_rvrs-9120.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-03-01 03:56:47
 pub_date: 2019-03-01 03:56:47
 time_added: 2019-08-11 07:25:04
 category: 
+tags: []
 image: https://i1.wp.com/noticiabrasilonline.com/wp-content/uploads/2019/03/cms-image-000616457.jpg?fit=1200%2C800&ssl=1
 ---
 

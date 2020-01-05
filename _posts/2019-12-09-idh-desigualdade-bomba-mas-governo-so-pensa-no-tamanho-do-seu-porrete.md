@@ -8,6 +8,7 @@ date: 2019-12-09 11:13:00
 pub_date: 2019-12-09 11:13:00
 time_added: 2019-12-09 23:42:59
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/12/foto-1-615x300.jpg
 ---
 

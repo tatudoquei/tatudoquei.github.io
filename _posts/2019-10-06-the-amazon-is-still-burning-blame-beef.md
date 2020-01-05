@@ -8,6 +8,7 @@ date: 2019-10-06 07:25:53
 pub_date: 2019-10-06 07:25:53
 time_added: 2019-10-06 21:35:11
 category: 
+tags: []
 image: https://static01.nyt.com/images/2019/10/06/world/americas/Brazil_McDonald_Moises_02/Brazil_McDonald_Moises_02-videoSixteenByNine1050.jpg
 ---
 

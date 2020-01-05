@@ -8,6 +8,7 @@ date: 2019-05-15 22:45:45
 pub_date: 2019-05-15 22:45:45
 time_added: 2019-05-16 18:49:32
 category: 
+tags: []
 image: https://abrilveja.files.wordpress.com/2018/12/brasil-flavio-bolsonaro-20180907-004.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

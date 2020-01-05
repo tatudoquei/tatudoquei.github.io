@@ -8,6 +8,7 @@ date: 2019-03-25 18:46:00
 pub_date: 2019-03-25 18:46:00
 time_added: 2019-03-26 18:49:30
 category: refletimos
+tags: []
 image: https://s3.amazonaws.com/static-colunistas.gazetadopovo.com.br/wp-content/uploads/sites/222/2019/03/25194249/general-pinochet2.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2018-10-28 09:08:56
 pub_date: 2018-10-19 20:11:02
 time_added: 2018-10-28 09:08:56
 category: 
+tags: [fake news]
 image: https://static01.nyt.com/images/2018/10/20/business/20whatsapp2/20whatsapp2-facebookJumbo.jpg
 ---
 

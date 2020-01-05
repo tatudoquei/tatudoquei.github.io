@@ -8,6 +8,7 @@ date: 2019-05-30 15:54:16
 pub_date: 2019-05-30 15:54:16
 time_added: 2019-05-30 17:54:16
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/35/2017/12/01/economia-real-bandeira-do-brasil-bandeira-pib-inflacao-investimentos-moedas-1512135300069_v2_1920x1080.jpg
 ---
 

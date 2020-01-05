@@ -8,6 +8,7 @@ date: 2018-11-05 17:24:00
 pub_date: 2018-11-05 17:24:00
 time_added: 2018-11-08 08:01:46
 category: avisamos
+tags: []
 image: https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-11-05 16:24:00
 pub_date: 2019-11-05 16:24:00
 time_added: 2019-11-05 22:24:06
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/10/bolsoguedes-615x300.jpg
 ---
 

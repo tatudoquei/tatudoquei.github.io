@@ -8,6 +8,7 @@ date: 2019-09-17 15:41:00
 pub_date: 2019-09-17 15:41:00
 time_added: 2019-09-18 22:27:28
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/18/2019/09/12/a-pgr-raquel-dodge-em-sessao-solene-manifesto-da-sociedade-civil-em-apoio-ao-stf-1568325267823_v2_615x300.jpg
 ---
 

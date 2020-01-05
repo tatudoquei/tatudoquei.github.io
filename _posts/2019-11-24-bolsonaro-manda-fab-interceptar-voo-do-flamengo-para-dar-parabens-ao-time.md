@@ -8,6 +8,7 @@ date: 2019-11-24 10:40:00
 pub_date: 2019-11-24 10:40:00
 time_added: 2019-11-25 07:11:22
 category: 
+tags: []
 ---
 
 BRASÍLIA — A Força Aérea Brasileira, a pedido do presidente Jair Bolsonaro , interceptou o avião que trazia jogadores e comissão técnica do Flamengo para parabenizar pela conquista do bicampeonato da Taça Libertadores da América.

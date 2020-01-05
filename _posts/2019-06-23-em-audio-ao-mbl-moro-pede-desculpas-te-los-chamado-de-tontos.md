@@ -8,6 +8,7 @@ date: 2019-06-23 03:15:03
 pub_date: 2019-06-23 03:15:03
 time_added: 2019-06-25 05:19:37
 category: 
+tags: []
 image: https://politica.estadao.com.br/blogs/coluna-do-estadao/wp-content/uploads/sites/352/2019/05/Sergio-Moro.jpg
 ---
 

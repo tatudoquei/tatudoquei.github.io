@@ -8,6 +8,7 @@ date: 2018-11-23 16:29:05
 pub_date: 2018-11-23 16:29:05
 time_added: 2019-12-23 21:19:30
 category: avisamos
+tags: []
 image: https://abrilveja.files.wordpress.com/2018/11/brasil-bolsonaro-maia-20181114-001.jpeg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

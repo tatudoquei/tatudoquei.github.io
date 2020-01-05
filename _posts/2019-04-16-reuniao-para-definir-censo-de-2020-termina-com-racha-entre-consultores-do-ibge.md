@@ -8,6 +8,7 @@ date: 2019-04-16 16:06:00
 pub_date: 2019-04-16 16:06:00
 time_added: 2019-04-20 06:56:27
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23604020-5a5-b4d/FT1086A/652/78635199_SO-EldoradoSP31-08-2018-Comunidade-Quilombo-Sao-Pedro-que-sera-incluido-pela-primeira-v.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-07-23 09:13:35
 pub_date: 2019-07-23 09:13:35
 time_added: 2019-07-24 19:46:46
 category: 
+tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2019/07/moro-camara.png
 ---
 

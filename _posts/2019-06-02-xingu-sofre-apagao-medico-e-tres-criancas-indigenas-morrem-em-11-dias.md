@@ -8,6 +8,7 @@ date: 2019-06-02 02:00:00
 pub_date: 2019-06-02 02:00:00
 time_added: 2019-06-03 06:43:43
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b1/2019/05/30/o-agente-indigena-de-saude-wyrasingi-kaiabi-atende-recem-nascido-no-improvisado-posto-de-saude-da-aldeia-sobradinho-1559245374433_v2_615x300.jpg
 ---
 

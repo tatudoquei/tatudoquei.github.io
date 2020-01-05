@@ -8,6 +8,7 @@ date: 2019-07-04 20:32:13
 pub_date: 2019-07-04 20:32:13
 time_added: 2019-07-04 22:32:13
 category: 
+tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/05/153_questoesbrasileiras_redes.jpg
 ---
 

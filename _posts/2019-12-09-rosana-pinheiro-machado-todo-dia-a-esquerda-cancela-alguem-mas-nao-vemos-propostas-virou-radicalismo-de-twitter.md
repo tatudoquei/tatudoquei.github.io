@@ -8,6 +8,7 @@ date: 2019-12-09 23:28:50
 pub_date: 2019-12-09 23:28:50
 time_added: 2019-12-10 08:01:14
 category: 
+tags: []
 ---
 
 Ao longo de vários anos de pesquisa de campo, a antropóloga Rosana Pinheiro-Machado esteve em contato com trabalhadores informais da base da pirâmide brasileira, ouvindo suas demandas e anseios.

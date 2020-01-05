@@ -8,6 +8,7 @@ date: 2019-11-20 15:42:04
 pub_date: 2019-11-20 15:42:04
 time_added: 2019-11-20 22:56:26
 category: 
+tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2019/11/a267c72f20c8a38fd3e8d8871f35e720.jpeg
 ---
 

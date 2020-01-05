@@ -8,6 +8,7 @@ date: 2019-04-25 16:09:00
 pub_date: 2019-04-25 16:09:00
 time_added: 2019-04-28 10:33:31
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23622446-ed2-f1e/FT1086A/652/floresta4.jpg
 ---
 

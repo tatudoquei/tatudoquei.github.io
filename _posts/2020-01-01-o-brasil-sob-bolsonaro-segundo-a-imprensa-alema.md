@@ -8,6 +8,7 @@ date: 2020-01-01 09:59:05
 pub_date: 2020-01-01 09:59:05
 time_added: 2020-01-01 13:31:42
 category: 
+tags: []
 ---
 
 Brasil | 01.01.2020 Symbolbild deutsche Presse Presseschau Em 12 meses, veículos destacaram derretimento da imagem do país após desmonte de políticas ambientais e queimadas. Suspeitas sobre Flávio Bolsonaro e declarações preconceituosas do presidente também foram abordadas.

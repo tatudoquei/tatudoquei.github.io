@@ -8,6 +8,7 @@ date: 2019-03-08 16:01:00
 pub_date: 2019-03-08 16:01:00
 time_added: 2019-03-09 02:19:29
 category: avisamos
+tags: []
 ---
 
 BRASÍLIA — O presidente Jair Bolsonaro minimizou nesta sexta-feira, durante cerimônia em homenagem em Dia Internacional da Mulher, o baixo número de ministras em seu governo.

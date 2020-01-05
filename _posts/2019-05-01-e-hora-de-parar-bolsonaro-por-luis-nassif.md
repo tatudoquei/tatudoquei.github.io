@@ -8,6 +8,7 @@ date: 2019-05-01 23:20:50
 pub_date: 2019-05-01 23:20:50
 time_added: 2019-05-02 19:35:57
 category: 
+tags: []
 image: https://jornalggn.com.br/sites/default/files/2019/04/e-hora-de-parar-bolsonaro-por-luis-nassif-collage-fotorbolsonaro-1024x614.jpg
 ---
 

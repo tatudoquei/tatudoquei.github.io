@@ -8,6 +8,7 @@ date: 2019-09-04 06:13:10
 pub_date: 2019-09-04 06:13:10
 time_added: 2019-09-07 08:23:42
 category: 
+tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2019/09/tortura.png
 ---
 

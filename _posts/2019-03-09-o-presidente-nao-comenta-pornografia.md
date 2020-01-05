@@ -8,6 +8,7 @@ date: 2019-03-09 17:00:00
 pub_date: 2019-03-09 17:00:00
 time_added: 2019-12-23 21:21:01
 category: refletimos
+tags: []
 ---
 
 Michel Temer evita entrar em polêmicas com Bolsonaro

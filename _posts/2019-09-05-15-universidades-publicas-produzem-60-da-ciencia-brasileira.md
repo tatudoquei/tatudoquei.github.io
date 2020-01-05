@@ -8,6 +8,7 @@ date: 2019-09-05 22:47:15
 pub_date: 2019-09-05 22:47:15
 time_added: 2019-09-07 08:27:07
 category: 
+tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/09/20190905_02_pesquisa_laboratorio.jpg
 ---
 

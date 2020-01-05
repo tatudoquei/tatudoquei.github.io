@@ -8,6 +8,7 @@ date: 2019-08-01 15:44:19
 pub_date: 2019-08-01 15:44:19
 time_added: 2019-08-01 22:03:02
 category: 
+tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/08/fachadamctic-1024x683.jpg
 ---
 

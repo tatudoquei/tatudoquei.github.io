@@ -8,6 +8,7 @@ date: 2019-10-08 07:40:00
 pub_date: 2019-10-08 07:40:00
 time_added: 2019-10-10 01:37:33
 category: 
+tags: []
 ---
 
 PARIS - A França não assinará o acordo entre União Europeia e Mercosul sobre questões agrícolas nas condições atuais, afirmou nesta terça-feira a ministra francesa do Meio Ambiente, Elisabeth Borne.

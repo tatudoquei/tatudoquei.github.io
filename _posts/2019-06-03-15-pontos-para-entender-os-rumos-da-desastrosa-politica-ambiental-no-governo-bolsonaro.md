@@ -8,6 +8,7 @@ date: 2019-06-03 09:00:13
 pub_date: 2019-06-03 09:00:13
 time_added: 2019-06-03 20:04:10
 category: 
+tags: []
 image: https://s2.glbimg.com/62xsVIAU2_0u0ryIUHBhiSjQKWc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/A/y/1OQnlJQomRCE70RrHDBA/011-f99a0991-marcelo-brandt-g1.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-03-27 21:02:00
 pub_date: 2019-03-27 21:02:00
 time_added: 2019-03-30 09:37:52
 category: avisamos
+tags: []
 image: https://imgsapp2.correiobraziliense.com.br/app/noticia_127983242361/2019/03/27/745771/20190327180205633475u.jpg
 ---
 

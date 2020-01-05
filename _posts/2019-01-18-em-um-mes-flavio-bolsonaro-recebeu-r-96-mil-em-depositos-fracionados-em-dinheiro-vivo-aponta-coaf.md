@@ -8,6 +8,7 @@ date: 2019-01-18 20:10:00
 pub_date: 2019-01-18 20:10:00
 time_added: 2019-01-19 01:06:13
 category: avisamos
+tags: []
 ---
 
 RIO - Um novo relatório do Conselho de Controle de Atividades Financeiras (Coaf) identificou, em um período de um mês, depósitos em dinheiro que somam cerca de R$ 96 mil na conta do senador eleito Flávio Bolsonaro (PSL-RJ). A informação é da TV Globo.

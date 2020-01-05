@@ -8,6 +8,7 @@ date: 2019-10-29 20:34:00
 pub_date: 2019-10-29 20:34:00
 time_added: 2019-10-30 07:53:54
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/8e/2018/10/01/fachada-do-condominio-vivendas-da-barra-localizado-na-barra-da-tijuca-na-zona-oeste-do-rio-de-janeiro-onde-jair-bolsonaro-psl-mora-com-a-familia-1538408756115_615x300.jpg
 ---
 

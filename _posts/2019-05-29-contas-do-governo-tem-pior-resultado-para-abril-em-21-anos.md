@@ -8,6 +8,7 @@ date: 2019-05-29 13:13:00
 pub_date: 2019-05-29 13:13:00
 time_added: 2019-06-01 12:13:09
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/economia/23339812-e41-a81/FT1086A/652/77185779_Notas-de-cem-e-cinquenta-reais-1.jpg
 ---
 

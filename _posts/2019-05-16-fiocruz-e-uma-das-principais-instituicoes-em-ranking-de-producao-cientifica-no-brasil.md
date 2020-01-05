@@ -8,6 +8,7 @@ date: 2019-05-16 03:00:00
 pub_date: 2019-05-16 03:00:00
 time_added: 2019-05-21 19:35:04
 category: 
+tags: []
 ---
 
 Av. Brasil 4.365 – Castelo Mourisco, salas 7, 113 e 114, Manguinhos, Rio de Janeiro – RJ - Brasil CEP: 21040-900. Tel.: +55 21 3885-1659 / +55 21 3885-1844 @2018 PORTAL DO OBSERVATÓRIO / VPEIC

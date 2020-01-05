@@ -8,6 +8,7 @@ date: 2019-01-09 23:00:00
 pub_date: 2019-01-09 23:00:00
 time_added: 2019-12-23 21:41:24
 category: refletimos
+tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/73AC/production/_105121692_colagem.jpg
 ---
 

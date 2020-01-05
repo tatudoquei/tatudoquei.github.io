@@ -8,6 +8,7 @@ date: 2018-12-12 01:03:00
 pub_date: 2018-12-12 01:03:00
 time_added: 2019-12-23 21:15:16
 category: refletimos
+tags: []
 image: https://theintercept.imgix.net/wp-uploads/sites/1/2018/12/GettyImages-1069063738-1544554783.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800
 ---
 

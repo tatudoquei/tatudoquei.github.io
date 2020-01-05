@@ -8,6 +8,7 @@ date: 2019-04-29 10:07:39
 pub_date: 2019-04-29 10:07:39
 time_added: 2019-04-29 20:29:42
 category: 
+tags: []
 image: https://extra.globo.com/incoming/23451212-7ad-641/w976h550-PROP/81014446_a-man-is-seen-next-to-the-wall-with-bullet-holes-at-a-house-where-police-officers-confronte-(2).jpg
 ---
 

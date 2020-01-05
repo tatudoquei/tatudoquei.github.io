@@ -8,6 +8,7 @@ date: 2019-07-08 22:01:00
 pub_date: 2019-07-08 22:01:00
 time_added: 2019-07-13 07:22:59
 category: 
+tags: []
 ---
 
 RIO — Enquanto o Brasil vive um recorde na liberação de agrotóxicos neste ano, os Estados Unidos vão na contramão dessa tendência e devem banir neste mês um velho conhecido por aqui: o clorpirifós, inseticida usado na produção agrícola brasileira desde a década de 1980.

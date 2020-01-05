@@ -8,6 +8,7 @@ date: 2019-02-18 18:38:00
 pub_date: 2019-02-18 18:38:00
 time_added: 2019-02-18 23:48:11
 category: avisamos
+tags: []
 image: http://www3.redetv.uol.com.br/blog/reinaldo/wp-content/themes/layout/assets/images/reinaldo-thumb.jpg
 ---
 

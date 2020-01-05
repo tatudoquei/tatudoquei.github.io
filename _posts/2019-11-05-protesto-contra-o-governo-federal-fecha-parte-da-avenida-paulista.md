@@ -8,6 +8,7 @@ date: 2019-11-05 23:33:38
 pub_date: 2019-11-05 23:33:38
 time_added: 2019-11-06 00:27:06
 category: 
+tags: []
 image: https://s2.glbimg.com/n6vrO889kIJISfkZQVT1aa6IJjA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/A/Q/dDJbbdTLAyzOvcYULVAA/protesto-paulista-dia-5.jpeg
 ---
 

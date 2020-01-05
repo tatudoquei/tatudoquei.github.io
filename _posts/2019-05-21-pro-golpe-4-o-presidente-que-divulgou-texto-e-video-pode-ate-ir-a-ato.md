@@ -8,6 +8,7 @@ date: 2019-05-21 06:02:00
 pub_date: 2019-05-21 06:02:00
 time_added: 2019-05-22 06:31:18
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2017/11/tres-decisoes-de-instancias-distintas-do-justica-indicam-bagunca-chegou-a-toga-fora-da-lei-1-522x300.jpg
 ---
 

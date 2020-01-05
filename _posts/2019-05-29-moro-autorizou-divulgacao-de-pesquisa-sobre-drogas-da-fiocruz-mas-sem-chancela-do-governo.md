@@ -8,6 +8,7 @@ date: 2019-05-29 02:30:00
 pub_date: 2019-05-29 02:30:00
 time_added: 2019-05-29 12:36:28
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/sociedade/23701026-a88-9c9/FT1086A/652/82901756_Brazils-Justice-minister-Sergio-Moro-attends-a-news-conference-during-Estoril-Conferen.jpg
 ---
 

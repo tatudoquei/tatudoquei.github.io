@@ -8,6 +8,7 @@ date: 2019-05-02 16:33:30
 pub_date: 2019-05-02 16:33:30
 time_added: 2019-05-04 08:04:33
 category: 
+tags: []
 image: https://paranaportal.uol.com.br/wp-content/uploads/2019/05/vac_abr_010520190142.jpg
 ---
 

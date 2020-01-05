@@ -8,6 +8,7 @@ date: 2019-05-20 02:00:00
 pub_date: 2019-05-20 02:00:00
 time_added: 2019-07-09 18:21:15
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/2012/06/11/o-sal-que-e-produzido-pela-dessalinizacao-da-agua-nao-e-aproveitado-e-e-devolvido-para-um-mar-sem-controle-de-aumento-do-ph-ou-de-impacto-na-vida-marinha-1339406091860_615x300.jpg
 ---
 

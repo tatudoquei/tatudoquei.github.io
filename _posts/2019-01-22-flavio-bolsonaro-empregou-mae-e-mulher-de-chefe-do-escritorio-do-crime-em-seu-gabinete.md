@@ -8,6 +8,7 @@ date: 2019-01-22 09:17:00
 pub_date: 2019-01-22 09:17:00
 time_added: 2019-02-04 23:31:45
 category: avisamos
+tags: []
 ---
 
 RIO - O gabinete do senador eleito e ex-deputado estadual Flávio Bolsonaro (PSL-RJ) empregou até novembro do ano passado a mãe e a mulher do capitão Adriano Magalhães da Nóbrega, tido pelo Ministério Público do Rio como o homem-forte do Escritório do Crime, organização suspeita do assassi

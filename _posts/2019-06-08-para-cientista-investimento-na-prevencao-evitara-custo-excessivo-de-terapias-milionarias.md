@@ -8,6 +8,7 @@ date: 2019-06-08 05:30:14
 pub_date: 2019-06-08 05:30:14
 time_added: 2019-06-10 06:26:13
 category: 
+tags: []
 image: https://politica.estadao.com.br/blogs/neumanne/wp-content/uploads/sites/339/2019/06/mayanamicros.jpg
 ---
 

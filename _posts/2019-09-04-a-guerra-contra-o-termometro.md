@@ -8,6 +8,7 @@ date: 2019-09-04 21:01:40
 pub_date: 2019-09-04 21:01:40
 time_added: 2019-09-15 09:54:11
 category: 
+tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/08/156_questoesambientais_redes.jpg
 ---
 

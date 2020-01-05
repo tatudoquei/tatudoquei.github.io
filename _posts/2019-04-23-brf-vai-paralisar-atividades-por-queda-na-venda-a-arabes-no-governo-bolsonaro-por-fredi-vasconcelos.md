@@ -8,6 +8,7 @@ date: 2019-04-23 14:15:51
 pub_date: 2019-04-23 14:15:51
 time_added: 2019-04-26 03:56:17
 category: 
+tags: []
 image: https://www.diariodocentrodomundo.com.br/wp-content/uploads/2019/04/brf.jpg
 ---
 

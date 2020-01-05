@@ -8,6 +8,7 @@ date: 2019-03-21 16:28:00
 pub_date: 2019-03-21 16:28:00
 time_added: 2019-12-23 21:19:33
 category: refletimos
+tags: []
 ---
 
 SANTIAGO - Os presidentes das duas Casas legislativas do Chile reagiram fortemente às declarações do ministro-chefe da Casa Civil, Onyx Lorenzoni, que elogoiu "as bases macroeconômicas" fixadas na ditadura Pinochet (1973-1990) ao defender a necessidade de uma reforma da Previdência no Brasil.

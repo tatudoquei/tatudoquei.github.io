@@ -8,6 +8,7 @@ date: 2019-05-16 14:04:36
 pub_date: 2019-05-16 14:04:36
 time_added: 2019-05-17 07:50:49
 category: 
+tags: []
 image: https://cdn-istoe-ssl.akamaized.net/wp-content/uploads/sites/14/2019/05/bolssonaro_oq.jpg
 ---
 

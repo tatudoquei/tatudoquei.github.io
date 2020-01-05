@@ -8,6 +8,7 @@ date: 2019-03-20 12:38:47
 pub_date: 2019-03-20 12:38:47
 time_added: 2019-12-23 21:15:17
 category: recuadas
+tags: []
 image: https://img.estadao.com.br/resources/jpg/5/1/1553085339315.jpg
 ---
 

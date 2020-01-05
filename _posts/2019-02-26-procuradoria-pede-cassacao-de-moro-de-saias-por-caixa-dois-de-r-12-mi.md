@@ -8,6 +8,7 @@ date: 2019-02-26 04:12:36
 pub_date: 2019-02-26 04:12:36
 time_added: 2019-02-27 23:45:07
 category: avisamos
+tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2018/10/selma-arruda-foto-tjmt.jpg
 ---
 

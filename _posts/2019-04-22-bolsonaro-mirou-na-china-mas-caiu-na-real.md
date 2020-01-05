@@ -8,6 +8,7 @@ date: 2019-04-22 22:00:00
 pub_date: 2019-04-22 22:00:00
 time_added: 2019-04-29 18:50:59
 category: 
+tags: []
 image: https://www.americasquarterly.org/sites/default/files/bolsonaro_lapper_top_0.jpg
 ---
 

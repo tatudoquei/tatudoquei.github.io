@@ -8,6 +8,7 @@ date: 2019-03-24 11:00:02
 pub_date: 2019-03-24 11:00:02
 time_added: 2019-03-30 09:46:02
 category: 
+tags: []
 image: https://abrilexame.files.wordpress.com/2018/10/faculdade.gif?w=680&h=453&crop=1
 ---
 

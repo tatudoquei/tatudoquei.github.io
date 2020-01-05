@@ -8,6 +8,7 @@ date: 2019-12-23 21:19:31
 pub_date: 2015-10-02 14:35:00
 time_added: 2019-12-23 21:19:31
 category: avisamos
+tags: []
 image: https://vtb.r7.com/399565/2015/10/02/560e970f9aab4e6d5400c55f/RJAR_BOUSONARO_73cc66cf-6900-11e5-931e-f33a92befb79.jpg?dimensions=600x315
 ---
 

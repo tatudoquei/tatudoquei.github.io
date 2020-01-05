@@ -8,6 +8,7 @@ date: 2019-12-04 10:54:00
 pub_date: 2019-12-04 10:54:00
 time_added: 2019-12-04 19:01:21
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/04/folha-615x300.jpg
 ---
 

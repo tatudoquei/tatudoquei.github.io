@@ -8,6 +8,7 @@ date: 2019-07-15 14:12:00
 pub_date: 2019-07-15 14:12:00
 time_added: 2019-07-16 06:06:48
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2019/07/rosemary-547x300.jpg
 ---
 

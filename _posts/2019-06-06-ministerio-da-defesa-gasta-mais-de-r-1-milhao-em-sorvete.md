@@ -8,6 +8,7 @@ date: 2019-06-06 11:36:31
 pub_date: 2019-06-06 11:36:31
 time_added: 2019-06-06 21:18:03
 category: 
+tags: []
 image: https://abrilveja.files.wordpress.com/2019/04/brasil-politica-fernando-azevedo-20190411-005.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

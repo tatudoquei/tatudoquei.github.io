@@ -8,6 +8,7 @@ date: 2019-09-11 17:26:00
 pub_date: 2019-09-11 17:26:00
 time_added: 2019-09-15 09:54:05
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/mundo/23941963-a14-69f/FT1086A/652/ernesto-araujo-washington2.png
 ---
 

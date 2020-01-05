@@ -8,6 +8,7 @@ date: 2019-10-31 08:03:16
 pub_date: 2019-10-31 08:03:16
 time_added: 2019-10-31 22:12:57
 category: 
+tags: []
 ---
 
 Segundo a Constituição, os congressistas são “invioláveis, civil e penalmente, por quaisquer de suas opiniões, palavras e votos”. Isso não significa, porém, que tudo é permitido pela Justiça.

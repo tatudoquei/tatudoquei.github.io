@@ -8,6 +8,7 @@ date: 2019-12-06 19:05:00
 pub_date: 2019-12-06 19:05:00
 time_added: 2019-12-07 16:49:40
 category: 
+tags: []
 image: https://s2.glbimg.com/dYbUkA7gZKQMM07iLw-a-cE_dQ8=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/12/06/86006209_eduardo_bolsonaro_e_cumprimentado_por_presidente_do_knesset_yuli-yoel_edelstein_na_vinicola.jpg
 ---
 

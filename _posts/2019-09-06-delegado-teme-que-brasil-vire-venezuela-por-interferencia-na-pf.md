@@ -8,6 +8,7 @@ date: 2019-09-06 05:00:00
 pub_date: 2019-09-06 05:00:00
 time_added: 2019-09-07 08:19:35
 category: 
+tags: []
 ---
 
 Luciano Leiro, delegado e vice-presidente da Associação dos Delegados da Polícia Federal (ADPF), afirmou que a PF está sob ameaça de interferência de Jair Bolsonaro e corre o risco de virar uma "polícia do presidente".

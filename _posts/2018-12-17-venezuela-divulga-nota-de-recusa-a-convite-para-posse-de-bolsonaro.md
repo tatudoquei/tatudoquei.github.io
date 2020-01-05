@@ -8,6 +8,7 @@ date: 2018-12-17 10:05:00
 pub_date: 2018-12-17 10:05:00
 time_added: 2019-12-23 21:15:16
 category: recuadas
+tags: []
 image: https://img.r7.com/images/maduro-venezuela-26092018120651514
 ---
 

@@ -8,6 +8,7 @@ date: 2019-07-15 04:59:03
 pub_date: 2019-07-15 04:59:03
 time_added: 2019-07-15 06:59:03
 category: 
+tags: []
 image: https://apublica.org/mindmap/wp-content/uploads/sites/34/2019/06/jair-bolsonaro-marcos-correa-pr.jpg
 ---
 

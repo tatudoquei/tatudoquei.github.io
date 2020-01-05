@@ -8,6 +8,7 @@ date: 2019-01-05 10:35:41
 pub_date: 2019-01-05 10:35:41
 time_added: 2019-01-07 20:53:33
 category: avisamos
+tags: []
 image: https://politica.estadao.com.br/blogs/coluna-do-estadao/wp-content/uploads/sites/352/2019/01/1546292021017.jpg
 ---
 

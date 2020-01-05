@@ -8,6 +8,7 @@ date: 2019-09-09 20:30:11
 pub_date: 2019-09-09 20:30:11
 time_added: 2019-09-15 09:55:09
 category: 
+tags: []
 image: https://www.inesc.org.br/wp-content/uploads/2019/09/foto.png
 ---
 

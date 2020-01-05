@@ -8,6 +8,7 @@ date: 2019-03-17 16:08:00
 pub_date: 2019-03-17 16:08:00
 time_added: 2019-12-23 21:21:02
 category: refletimos
+tags: [diplomacia]
 ---
 
 WASHINGTON - O deputado federal Eduardo Bolsonaro minimizou neste domingo as declarações feitas por ele na noite anterior de que brasileiros ilegais no exterior são uma "vergonha nossa".

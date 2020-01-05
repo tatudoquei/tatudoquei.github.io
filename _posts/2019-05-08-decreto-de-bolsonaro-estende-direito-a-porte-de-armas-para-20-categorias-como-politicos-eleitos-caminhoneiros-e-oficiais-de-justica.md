@@ -8,6 +8,7 @@ date: 2019-05-08 11:02:00
 pub_date: 2019-05-08 11:02:00
 time_added: 2019-05-08 16:28:33
 category: 
+tags: []
 ---
 
 RIO - O decreto assinado pelo presidente Jair Bolsonaro e publicado hoje no Diário Oficial da União (DOU) nesta quarta-feira amplia consideravelmente o porte de armas para um conjunto de 20 profissões como políticos eleitos, servidores públicos que trabalham na área de segurança pública, adv

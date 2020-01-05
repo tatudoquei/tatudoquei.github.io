@@ -8,6 +8,7 @@ date: 2019-05-23 22:00:00
 pub_date: 2019-05-23 22:00:00
 time_added: 2019-05-26 23:06:12
 category: 
+tags: []
 ---
 
 Confira abaixo a resposta da Coalizão Ciência e Sociedade a declaração do atual Ministro do Meio Ambiente, Ricardo Salles, sobre a manifestação dos sete ex-ministros do meio ambiente, que criticaram a atual gestão da pasta.

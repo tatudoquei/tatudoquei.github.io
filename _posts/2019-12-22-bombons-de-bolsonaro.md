@@ -8,6 +8,7 @@ date: 2019-12-22 06:00:00
 pub_date: 2019-12-22 06:00:00
 time_added: 2019-12-23 10:35:44
 category: 
+tags: []
 image: https://img.estadao.com.br/fotos3/icon/estadao.gif
 ---
 

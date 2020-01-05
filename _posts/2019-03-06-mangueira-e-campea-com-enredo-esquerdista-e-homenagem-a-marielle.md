@@ -8,6 +8,7 @@ date: 2019-03-06 19:43:00
 pub_date: 2019-03-06 19:43:00
 time_added: 2019-12-23 21:19:32
 category: resistimos
+tags: [arte]
 image: http://www.socialistamorena.com.br/wp-content/uploads/2019/03/40322721703_3a1e40823d_k-e1551911640301.jpg
 ---
 

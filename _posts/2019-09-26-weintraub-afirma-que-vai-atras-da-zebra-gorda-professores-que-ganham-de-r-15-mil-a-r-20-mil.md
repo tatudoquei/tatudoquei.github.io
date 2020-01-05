@@ -8,6 +8,7 @@ date: 2019-09-26 12:02:00
 pub_date: 2019-09-26 12:02:00
 time_added: 2019-09-28 06:31:39
 category: 
+tags: []
 ---
 
 SÃO PAULO — O ministro da Educação, Abraham Weintraub, afirmou, durante o 21º Fórum Nacional de Educação Superior Particular, que precisa “atacar a zebra mais gorda”: o salário de professor universitário federal.

@@ -8,6 +8,7 @@ date: 2019-12-16 23:00:00
 pub_date: 2019-12-16 23:00:00
 time_added: 2019-12-21 20:10:04
 category: 
+tags: []
 ---
 
 Enquanto o governo tentava convencer a comunidade internacional a fazer aportes na Amazônia durante a COP25, o Inpe revelou mais um recorde no avanço do desmatamento e o Supremo Tribunal Federal (STF) decidiu levar a julgamento o pedido de impeachment do ministro do Meio Ambiente, Ricardo Sal

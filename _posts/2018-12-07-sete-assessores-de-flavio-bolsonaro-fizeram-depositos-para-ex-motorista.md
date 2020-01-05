@@ -8,6 +8,7 @@ date: 2018-12-07 23:48:48
 pub_date: 2018-12-07 23:48:48
 time_added: 2018-12-08 16:00:47
 category: avisamos
+tags: []
 image: https://abrilveja.files.wordpress.com/2018/12/brasil-flavio-pm-queiroz-1.png
 ---
 

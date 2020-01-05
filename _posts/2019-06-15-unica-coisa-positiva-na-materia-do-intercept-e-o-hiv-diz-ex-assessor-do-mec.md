@@ -8,6 +8,7 @@ date: 2019-06-15 06:00:00
 pub_date: 2019-06-15 06:00:00
 time_added: 2019-06-18 16:02:20
 category: 
+tags: []
 ---
 
 Grimaldo foi assessor no MEC à época em que a pasta era chefiada por Ricardo Vélez. Fazia parte do grupo ligado a Olavo de Carvalho e pediu exoneração do cargo após acusar um "expurgo de alunos do Olavo de Carvalho do MEC".

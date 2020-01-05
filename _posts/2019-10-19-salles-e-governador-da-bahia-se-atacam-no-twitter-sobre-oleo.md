@@ -8,6 +8,7 @@ date: 2019-10-19 23:14:30
 pub_date: 2019-10-19 23:14:30
 time_added: 2019-10-20 05:59:33
 category: 
+tags: []
 image: http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2019/10/10/2019-10-10T194155Z_1_LYNXMPEF9922K_RTROPTP_4_AMBIENTE-MMA-PETROLEO-VENEZUELA.JPG
 ---
 

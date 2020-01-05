@@ -8,6 +8,7 @@ date: 2019-04-25 13:17:00
 pub_date: 2019-04-25 13:17:00
 time_added: 2019-04-26 04:00:36
 category: 
+tags: []
 ---
 
 Trecho do comercial do Banco do Brasil vetado pelo Palácio do Planalto

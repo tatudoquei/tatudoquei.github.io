@@ -8,6 +8,7 @@ date: 2019-07-16 09:38:00
 pub_date: 2019-07-16 09:38:00
 time_added: 2019-07-17 05:55:22
 category: 
+tags: []
 ---
 
 Embora Eduardo Bolsonaro tenha dito que fritou hambúrguer nos Estados Unidos, a lanchonete onde ele afirma ter trabalhado só serve frango frito.

@@ -8,6 +8,7 @@ date: 2019-05-31 15:31:10
 pub_date: 2019-05-31 15:31:10
 time_added: 2019-06-01 08:52:19
 category: 
+tags: []
 image: https://i2.wp.com/apublica.org/wp-content/uploads/2019/05/imagem-de-capa-governo-federal-fechou-r-140-milhoes-em-contratos-sem-licitacao-para-a-intervencao-no-rio.jpg?fit=1040%2C585&ssl=1
 ---
 

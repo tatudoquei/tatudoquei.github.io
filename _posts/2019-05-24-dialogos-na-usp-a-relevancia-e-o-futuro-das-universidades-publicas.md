@@ -8,6 +8,7 @@ date: 2019-05-24 15:23:03
 pub_date: 2019-05-24 15:23:03
 time_added: 2019-05-27 21:30:18
 category: 
+tags: []
 image: https://jornal.usp.br/wp-content/uploads/2018/11/20181206_00_rankings3.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-08-01 02:00:00
 pub_date: 2019-08-01 02:00:00
 time_added: 2019-08-03 22:16:30
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/07/oficina-615x300.jpg
 ---
 

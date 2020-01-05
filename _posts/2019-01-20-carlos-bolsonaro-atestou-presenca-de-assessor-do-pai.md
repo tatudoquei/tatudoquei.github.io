@@ -8,6 +8,7 @@ date: 2019-01-20 03:30:00
 pub_date: 2019-01-20 03:30:00
 time_added: 2019-01-20 22:11:04
 category: avisamos
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23386252-e4d-41d/FT1086A/652/INFOCHPDPICT000080506657.jpg
 ---
 

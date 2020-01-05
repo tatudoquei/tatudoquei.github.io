@@ -8,6 +8,7 @@ date: 2019-06-05 14:54:00
 pub_date: 2019-06-05 14:54:00
 time_added: 2019-06-06 17:25:19
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c7/2019/06/05/jair-bolsonaro-participa-do-programa-do-ratinho-1559724400304_v2_615x300.jpg
 ---
 

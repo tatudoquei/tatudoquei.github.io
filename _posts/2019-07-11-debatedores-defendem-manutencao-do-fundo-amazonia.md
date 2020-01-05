@@ -8,6 +8,7 @@ date: 2019-07-11 22:04:14
 pub_date: 2019-07-11 22:04:14
 time_added: 2019-07-13 07:23:28
 category: 
+tags: []
 image: https://www12.senado.leg.br/noticias/materias/2019/07/11/debatedores-defendem-manutencao-do-fundo-amazonia/20190711_02949pf.jpg
 ---
 

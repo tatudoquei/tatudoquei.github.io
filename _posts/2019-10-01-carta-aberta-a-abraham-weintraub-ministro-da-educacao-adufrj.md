@@ -8,6 +8,7 @@ date: 2019-10-01 17:08:40
 pub_date: 2019-10-01 17:08:40
 time_added: 2019-10-01 19:08:40
 category: 
+tags: []
 ---
 
 Felipe Rosa frosa@if.ufrj.

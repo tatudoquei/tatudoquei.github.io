@@ -8,6 +8,7 @@ date: 2019-10-29 15:32:47
 pub_date: 2019-10-29 15:32:47
 time_added: 2019-10-30 21:30:18
 category: 
+tags: []
 ---
 
 Em seminário em São Paulo, entidades e instituições científicas pedem regularidade e segurança no orçamento para a educação e a ciência As universidades e instituições de pesquisa brasileiras estão chegando ao fim de outubro com uma perda de 17.892 bolsas de estudos.

@@ -8,6 +8,7 @@ date: 2019-08-24 06:07:21
 pub_date: 2019-08-24 06:07:21
 time_added: 2019-08-24 08:07:21
 category: 
+tags: []
 image: https://cdn-prod.opendemocracy.net/media/images/forest-fire-3905868_1920.2e16d0ba.fill-1200x630.jpg
 ---
 

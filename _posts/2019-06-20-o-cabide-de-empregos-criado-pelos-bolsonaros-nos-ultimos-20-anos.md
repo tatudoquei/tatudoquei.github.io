@@ -8,6 +8,7 @@ date: 2019-06-20 04:00:00
 pub_date: 2019-06-20 04:00:00
 time_added: 2019-07-29 23:21:17
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23752477-bb2-822/FT1086A/652/cabides-header.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-07-17 08:49:00
 pub_date: 2019-07-17 08:49:00
 time_added: 2019-07-19 06:12:41
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/fb/2019/07/16/paulo-guedes-1563320404633_v2_615x300.jpg
 ---
 

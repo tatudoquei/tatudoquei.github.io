@@ -8,6 +8,7 @@ date: 2019-01-28 09:24:00
 pub_date: 2019-01-28 09:24:00
 time_added: 2019-01-29 23:43:51
 category: avisamos
+tags: []
 image: https://img.estadao.com.br/fotos/crop/360x360/fotos3/560x560/_RAU9748.jpg
 ---
 

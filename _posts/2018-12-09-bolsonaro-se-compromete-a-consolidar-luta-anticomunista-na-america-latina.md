@@ -8,6 +8,7 @@ date: 2018-12-09 01:49:08
 pub_date: 2018-12-09 01:49:08
 time_added: 2018-12-11 00:06:12
 category: avisamos
+tags: []
 image: https://abrilveja.files.wordpress.com/2018/12/brasil-jair-bolsonaro-20181204-002.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

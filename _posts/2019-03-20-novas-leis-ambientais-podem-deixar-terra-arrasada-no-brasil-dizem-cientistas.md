@@ -8,6 +8,7 @@ date: 2019-03-20 09:57:52
 pub_date: 2019-03-20 09:57:52
 time_added: 2019-12-23 21:19:33
 category: refletimos
+tags: [ciência, meio ambiente]
 image: http://www.diretodaciencia.com/wp-content/uploads/2017/05/fisc-bahia2.jpg
 ---
 

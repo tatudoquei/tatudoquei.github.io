@@ -8,6 +8,7 @@ date: 2018-11-02 23:20:03
 pub_date: 2018-11-02 23:20:03
 time_added: 2019-12-23 21:19:30
 category: refletimos
+tags: []
 ---
 
 Criminalizar o MST, mtst e outros movimentos ditos sociais que invadem propriedades, é a proposta de um cidadão no site do senado. No Brasil, de acordo com a Constituição Cidadã de 1988, o direito à propriedade é limitado.

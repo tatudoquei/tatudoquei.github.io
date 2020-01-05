@@ -8,6 +8,7 @@ date: 2018-12-24 17:51:49
 pub_date: 2018-12-24 17:51:49
 time_added: 2018-12-17 23:46:00
 category: avisamos
+tags: []
 image: https://www.diariodocentrodomundo.com.br/wp-content/uploads/2018/12/val-meliga-2.jpg
 ---
 

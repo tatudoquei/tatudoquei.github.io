@@ -8,6 +8,7 @@ date: 2019-02-07 18:49:00
 pub_date: 2019-02-07 18:49:00
 time_added: 2019-12-23 21:37:45
 category: refletimos
+tags: [economia]
 image: https://f.i.uol.com.br/fotografia/2019/02/07/15495762095c5ca811ec7f0_1549576209_3x2_rt.jpg
 ---
 

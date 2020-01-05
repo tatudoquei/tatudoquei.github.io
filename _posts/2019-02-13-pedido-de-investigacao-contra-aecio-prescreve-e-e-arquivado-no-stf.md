@@ -8,6 +8,7 @@ date: 2019-02-13 00:14:01
 pub_date: 2017-03-16 09:48:00
 time_added: 2019-02-13 00:14:01
 category: avisamos
+tags: []
 image: https://ogimg.infoglobo.com.br/in/15197562-682-f83/FT1086A/652/eleicoes-na-Camara.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-05-02 19:21:00
 pub_date: 2019-05-02 19:21:00
 time_added: 2019-05-04 07:00:27
 category: 
+tags: []
 image: https://www.ufpr.br/portalufpr/wp-content/uploads/2018/03/logo-ufpr.jpg
 ---
 

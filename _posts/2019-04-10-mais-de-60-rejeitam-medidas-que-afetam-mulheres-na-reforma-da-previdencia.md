@@ -8,6 +8,7 @@ date: 2019-04-10 19:09:00
 pub_date: 2019-04-10 19:09:00
 time_added: 2019-04-12 03:57:29
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/03/ha-615x300.jpg
 ---
 

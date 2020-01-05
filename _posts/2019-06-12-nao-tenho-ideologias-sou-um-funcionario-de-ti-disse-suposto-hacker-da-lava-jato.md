@@ -8,6 +8,7 @@ date: 2019-06-12 09:13:00
 pub_date: 2019-06-12 09:13:00
 time_added: 2019-06-12 20:50:30
 category: 
+tags: []
 ---
 
 O procurador regional José Robalinho Cavalcanti, ex-presidente da Associação Nacional dos Procuradores da República e candidato à lista tríplice para ser o novo procurador-geral da República, trocou mensagens ontem à noite com uma pessoa que disse ser o hacker que, nas últimas semanas, vem

@@ -8,6 +8,7 @@ date: 2019-12-04 12:52:00
 pub_date: 2019-12-04 12:52:00
 time_added: 2019-12-04 23:20:11
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/08/2019/12/04/condominio-em-anapolis-onde-um-garoto-foi-atingido-acidentalmente-pelo-irmao-1575478191110_v2_615x300.jpg
 ---
 

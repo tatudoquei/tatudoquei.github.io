@@ -8,6 +8,7 @@ date: 2019-09-26 19:57:09
 pub_date: 2019-09-26 19:57:09
 time_added: 2019-10-03 07:27:29
 category: 
+tags: []
 image: https://s2.glbimg.com/rUoKTGzLnFJZNoJqT25P4WUPA28=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2018/11/14/dji-0027.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-12-07 19:25:51
 pub_date: 2019-12-07 19:25:51
 time_added: 2019-12-08 01:38:31
 category: recuadas
+tags: []
 image: https://img.estadao.com.br/fotos3/icon/estadao.gif
 ---
 

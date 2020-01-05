@@ -8,6 +8,7 @@ date: 2019-12-30 14:24:16
 pub_date: 2019-12-30 14:24:16
 time_added: 2020-01-02 19:04:44
 category: 
+tags: []
 image: https://static.congressoemfoco.uol.com.br/2019/12/placas_energia_solar_1-1140x630.jpg
 ---
 

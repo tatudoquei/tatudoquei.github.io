@@ -8,6 +8,7 @@ date: 2019-10-25 12:30:32
 pub_date: 2019-10-25 12:30:32
 time_added: 2019-12-08 20:56:23
 category: 
+tags: []
 image: https://cdn-istoe-ssl.akamaized.net/wp-content/uploads/sites/14/2019/10/17_ie2600_bolsonaro1.jpg
 ---
 

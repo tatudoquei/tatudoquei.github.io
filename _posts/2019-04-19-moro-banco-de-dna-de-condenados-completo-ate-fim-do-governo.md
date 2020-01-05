@@ -8,6 +8,7 @@ date: 2019-04-19 22:00:00
 pub_date: 2019-04-19 22:00:00
 time_added: 2019-04-21 16:28:22
 category: 
+tags: []
 ---
 
 Brasil | 20.04.2019 Para ministro Sérgio Moro, trata-se de "uma das medidas mais importantes do projeto de lei anticrime" Atual banco genético do Brasil não passa de 30 mil perfis.

@@ -8,6 +8,7 @@ date: 2018-12-30 12:17:00
 pub_date: 2018-12-30 12:17:00
 time_added: 2019-01-01 10:31:03
 category: avisamos
+tags: []
 ---
 
 RIO — O presidente eleito do Brasil, Jair Bolsonaro, afirmou ao primeiro-ministro de Israel, Benjamin Netanyahu, que a embaixada brasileira naquele país será mesmo transferida de Tel Aviv para Jerusalém, afirmou neste domingo o chefe de governo do Estado judeu.

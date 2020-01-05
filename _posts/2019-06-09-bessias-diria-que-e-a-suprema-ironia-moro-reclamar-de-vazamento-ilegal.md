@@ -8,6 +8,7 @@ date: 2019-06-09 22:12:00
 pub_date: 2019-06-09 22:12:00
 time_added: 2019-06-10 10:20:07
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/02/sergio-615x300.jpg
 ---
 

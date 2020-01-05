@@ -8,6 +8,7 @@ date: 2019-04-08 11:57:00
 pub_date: 2019-04-08 11:57:00
 time_added: 2019-04-09 18:47:35
 category: 
+tags: []
 ---
 
 BRASÍLIA – O anúncio do economista Abraham Weintraub como novo ministro da Educação foi recebido com apreensão pelas universidades federais, ligadas à pasta.

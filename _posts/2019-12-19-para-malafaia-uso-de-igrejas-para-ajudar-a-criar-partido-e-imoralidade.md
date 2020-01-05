@@ -8,6 +8,7 @@ date: 2019-12-19 03:00:00
 pub_date: 2019-12-19 03:00:00
 time_added: 2019-12-21 10:22:30
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/7a/2019/11/10/silas-malafaia-gravou-video-para-se-retratar-por-espalhar-noticias-falsas-sobre-ligacao-de-adelio-bispo-e-pt-1573404249813_v2_615x300.jpg
 ---
 

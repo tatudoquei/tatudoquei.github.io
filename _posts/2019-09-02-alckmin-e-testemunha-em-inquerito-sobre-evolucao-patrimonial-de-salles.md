@@ -8,6 +8,7 @@ date: 2019-09-02 21:41:49
 pub_date: 2019-09-02 21:41:49
 time_added: 2019-09-04 22:56:58
 category: 
+tags: []
 image: http://www.valor.com.br/sites/default/files/imagecache/media_library_big_horizontal/fotoweb/apsalles.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-12-11 03:03:00
 pub_date: 2019-12-11 03:03:00
 time_added: 2020-01-05 08:07:11
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/f9/2019/11/07/donald-trump-e-jair-bolsonaro--foto-divulgacao-1573156959116_v2_615x300.png
 ---
 

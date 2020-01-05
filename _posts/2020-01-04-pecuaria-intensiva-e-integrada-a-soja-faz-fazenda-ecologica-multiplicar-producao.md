@@ -8,6 +8,7 @@ date: 2020-01-04 08:00:00
 pub_date: 2020-01-04 08:00:00
 time_added: 2020-01-05 20:43:38
 category: 
+tags: []
 image: https://img.estadao.com.br/resources/jpg/2/4/1578096588642.jpg
 ---
 

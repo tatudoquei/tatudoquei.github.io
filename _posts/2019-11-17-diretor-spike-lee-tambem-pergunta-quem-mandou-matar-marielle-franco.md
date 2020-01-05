@@ -8,6 +8,7 @@ date: 2019-11-17 21:41:08
 pub_date: 2019-11-17 21:41:08
 time_added: 2019-11-17 22:41:08
 category: 
+tags: []
 image: https://www.diariodocentrodomundo.com.br/wp-content/uploads/2019/11/spike-lee.png
 ---
 

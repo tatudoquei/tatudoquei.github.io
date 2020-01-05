@@ -8,6 +8,7 @@ date: 2019-06-23 02:30:00
 pub_date: 2019-06-23 02:30:00
 time_added: 2019-06-25 05:23:50
 category: 
+tags: []
 ---
 
 SÃO PAULO — Em uma nova realidade financeira por causa do bom desempenho na eleição do ano passado, o PSL, partido do presidente Jair Bolsonaro, tem usado o dinheiro extra para alugar novas sedes e reforçar o quadro de funcionários.

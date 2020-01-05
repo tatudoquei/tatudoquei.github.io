@@ -8,6 +8,7 @@ date: 2018-12-24 13:37:52
 pub_date: 2018-12-24 13:37:52
 time_added: 2019-12-23 21:41:23
 category: refletimos
+tags: [educação]
 image: https://arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/ZSPWJA5MY32KVANSNCEGU7QOYA.jpg
 ---
 

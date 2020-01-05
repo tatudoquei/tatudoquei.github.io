@@ -8,6 +8,7 @@ date: 2019-08-08 15:39:55
 pub_date: 2019-08-08 15:39:55
 time_added: 2019-08-08 21:57:25
 category: 
+tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/08/mocao-com-Diretoria.jpg
 ---
 

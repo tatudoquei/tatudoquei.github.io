@@ -8,6 +8,7 @@ date: 2019-04-21 02:08:00
 pub_date: 2019-04-21 02:08:00
 time_added: 2019-04-21 23:18:40
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/02/bolso-1-615x300.jpg
 ---
 

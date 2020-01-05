@@ -8,6 +8,7 @@ date: 2019-08-08 19:55:56
 pub_date: 2019-08-08 19:55:56
 time_added: 2019-08-08 21:55:56
 category: 
+tags: []
 ---
 
 A Sociedade Brasileira para o Progresso da Ciência (SBPC) encaminhou nesta quinta-feira, 8 de agosto, a moção “Ações emergenciais em 2019 para impedir o colapso do Sistema Nacional de Ciência, Tecnologia e Inovação (SNCTI)”.

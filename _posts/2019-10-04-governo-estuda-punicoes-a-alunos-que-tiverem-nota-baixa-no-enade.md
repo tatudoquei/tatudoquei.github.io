@@ -8,6 +8,7 @@ date: 2019-10-04 08:57:00
 pub_date: 2019-10-04 08:57:00
 time_added: 2019-10-06 08:29:58
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23995703-705-f3d/FT1086A/652/84754926_23-09-2019Coletivade-Abraham-Weintraub-sobre-Escola-De-TodosFotos-Gabriel-Jabur-MEC.jpg
 ---
 

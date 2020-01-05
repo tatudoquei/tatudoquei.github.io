@@ -8,6 +8,7 @@ date: 2019-12-06 16:37:00
 pub_date: 2019-12-06 16:37:00
 time_added: 2019-12-06 23:14:20
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e6/2017/05/11/linha-de-producao-do-frigorifico-sif-530-da-seara-do-grupo-jbs-em-lapa-pr-esta-e-uma-das-plantas-investigadas-na-operacao-carne-fraca-e-esta-com-a-licenca-de-exportacao-suspensa-1494531821250_615x300.jpg
 ---
 

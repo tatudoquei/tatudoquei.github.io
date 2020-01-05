@@ -8,6 +8,7 @@ date: 2019-06-18 13:12:20
 pub_date: 2019-06-18 13:12:20
 time_added: 2019-06-20 05:17:30
 category: 
+tags: []
 image: https://s2.glbimg.com/fyvuQ8X2GXXb46_qrprFz3aLugQ=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/Y/y/DYi6oXSOCwBgazprui6g/entrevista-bolsonaro-planalto.jpg
 ---
 

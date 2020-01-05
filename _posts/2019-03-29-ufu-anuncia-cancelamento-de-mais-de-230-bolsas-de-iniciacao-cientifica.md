@@ -8,6 +8,7 @@ date: 2019-03-29 23:45:00
 pub_date: 2019-03-29 23:45:00
 time_added: 2019-04-13 13:35:38
 category: 
+tags: []
 image: https://s2.glbimg.com/vVDBZU0iasX0XtbCWAZ4WR-Slq0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/H/R/hsM2mRRPSycuJ8iAGAmQ/imagem-destaque-dji-0159-1-1.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-08-02 18:55:00
 pub_date: 2019-08-02 18:55:00
 time_added: 2019-08-03 18:53:41
 category: 
+tags: []
 image: https://aosfatos.org/media/images/entries/trabalho_escravo.jpg.1860x1080_q85_box-75%2C107%2C1563%2C971_crop_upscale.jpg
 ---
 

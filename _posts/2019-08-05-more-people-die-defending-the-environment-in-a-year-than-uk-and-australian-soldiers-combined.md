@@ -8,6 +8,7 @@ date: 2019-08-05 16:55:00
 pub_date: 2019-08-05 16:55:00
 time_added: 2019-08-05 22:37:51
 category: 
+tags: []
 image: https://i.kinja-img.com/gawker-media/image/upload/s--RR8h8qJL--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/ptikxx29ypxzlcek1wor.jpg
 ---
 

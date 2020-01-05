@@ -8,6 +8,7 @@ date: 2019-01-08 10:59:00
 pub_date: 2019-01-08 10:59:00
 time_added: 2019-01-09 00:02:33
 category: avisamos
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23355121-060-366/FT1086A/652/queiroz2.jpg
 ---
 

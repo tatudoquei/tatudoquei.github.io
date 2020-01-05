@@ -8,6 +8,7 @@ date: 2019-09-11 16:45:00
 pub_date: 2019-09-11 16:45:00
 time_added: 2019-09-15 10:02:12
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d8/2019/09/02/o-ministro-da-educacao-abraham-weintraub-durante-apresentacao-do-compromisso-nacional-pela-educacao-basica-1567463435537_v2_615x300.jpg
 ---
 

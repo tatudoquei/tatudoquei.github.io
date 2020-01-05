@@ -8,6 +8,7 @@ date: 2019-12-19 05:18:13
 pub_date: 2019-12-19 05:18:13
 time_added: 2019-12-21 10:26:08
 category: 
+tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2019/12/Queiroz.jpg
 ---
 

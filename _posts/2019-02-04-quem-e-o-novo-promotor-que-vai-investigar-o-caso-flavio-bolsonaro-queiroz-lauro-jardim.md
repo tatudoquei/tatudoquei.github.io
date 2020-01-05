@@ -8,6 +8,7 @@ date: 2019-02-04 17:46:00
 pub_date: 2019-02-04 17:46:00
 time_added: 2019-02-05 00:51:08
 category: avisamos
+tags: []
 image: https://s2.glbimg.com/arCatmjJLcNAXO1SxlSIw1VkAEY=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/02/04/3632005.jpg
 ---
 

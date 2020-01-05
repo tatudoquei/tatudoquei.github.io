@@ -8,6 +8,7 @@ date: 2019-11-25 08:14:00
 pub_date: 2019-11-25 08:14:00
 time_added: 2019-11-26 20:23:46
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/23/2019/11/23/23nov2019---pequeno-fragmento-de-oleo-na-praia-de-grussai-sao-joao-da-barra-rj-1574516864698_v2_750x421.jpg
 ---
 

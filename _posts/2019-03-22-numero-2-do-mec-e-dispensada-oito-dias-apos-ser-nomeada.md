@@ -8,6 +8,7 @@ date: 2019-03-22 10:31:08
 pub_date: 2019-03-22 10:31:08
 time_added: 2019-03-24 07:31:39
 category: recuadas
+tags: [educação]
 image: https://abrilexame.files.wordpress.com/2019/03/53762929_567519850421144_2370753613952664299_n-e1552592908373.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

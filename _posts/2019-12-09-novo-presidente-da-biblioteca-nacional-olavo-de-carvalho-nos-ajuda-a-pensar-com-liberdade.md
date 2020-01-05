@@ -8,6 +8,7 @@ date: 2019-12-09 18:18:00
 pub_date: 2019-12-09 18:18:00
 time_added: 2019-12-11 20:35:06
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/24127913-d2b-d59/FT1086A/652/rafael-nogueira-biblioteca-nacional.jpg
 ---
 

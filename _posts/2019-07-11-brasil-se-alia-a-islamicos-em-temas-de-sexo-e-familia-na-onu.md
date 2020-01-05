@@ -8,6 +8,7 @@ date: 2019-07-11 08:20:00
 pub_date: 2019-07-11 08:20:00
 time_added: 2019-07-11 18:51:44
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/66/2019/02/11/jamil-chade-facebook-1549911067141_956x500.png
 ---
 

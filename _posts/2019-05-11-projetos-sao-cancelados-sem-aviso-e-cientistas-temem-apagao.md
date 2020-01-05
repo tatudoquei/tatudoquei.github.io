@@ -8,6 +8,7 @@ date: 2019-05-11 05:00:00
 pub_date: 2019-05-11 05:00:00
 time_added: 2019-05-11 21:09:11
 category: 
+tags: []
 image: https://f.i.uol.com.br/fotografia/2019/05/10/15575433035cd639876ecad_1557543303_3x2_xl.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2018-11-03 04:12:00
 pub_date: 2018-11-03 04:12:00
 time_added: 2019-12-23 21:19:30
 category: refletimos
+tags: []
 image: https://conteudo.imguol.com.br/blogs/58/files/2018/11/SergioMoroNovasMedidasEstelitaHassCarazzaiFolha.jpg
 ---
 

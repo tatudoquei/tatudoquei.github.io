@@ -8,6 +8,7 @@ date: 2019-12-23 21:19:29
 pub_date: 2018-10-25 22:55:00
 time_added: 2019-12-23 21:19:29
 category: avisamos
+tags: [ciência]
 image: https://f.i.uol.com.br/fotografia/2018/10/26/15405260495bd28fe14d0bc_1540526049_3x2_xl.jpg
 ---
 

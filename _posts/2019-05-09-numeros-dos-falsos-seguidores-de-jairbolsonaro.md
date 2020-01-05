@@ -8,6 +8,7 @@ date: 2019-05-09 14:03:29
 pub_date: 2019-05-09 14:03:29
 time_added: 2019-05-10 13:10:02
 category: 
+tags: []
 image: https://cultura.estadao.com.br/blogs/marcelo-rubens-paiva/wp-content/uploads/sites/111/2019/05/D52f6VsW4AAEc3d.jpg
 ---
 

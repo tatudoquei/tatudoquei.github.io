@@ -8,6 +8,7 @@ date: 2019-04-13 22:00:00
 pub_date: 2019-04-13 22:00:00
 time_added: 2019-04-16 22:44:44
 category: 
+tags: []
 image: https://horadopovo.org.br/wp-content/uploads/2019/04/ale.jpg
 ---
 

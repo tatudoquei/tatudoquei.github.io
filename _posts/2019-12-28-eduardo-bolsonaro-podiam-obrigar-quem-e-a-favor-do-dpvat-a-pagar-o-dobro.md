@@ -8,6 +8,7 @@ date: 2019-12-28 21:24:00
 pub_date: 2019-12-28 21:24:00
 time_added: 2019-12-29 22:54:48
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/85/2019/10/24/8out2019---eduardo-bolsonaro-psl-sp-deputado-federal-e-lider-do-seu-partido-na-camara-federal-1571934721148_v2_615x300.jpg
 ---
 

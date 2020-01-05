@@ -8,6 +8,7 @@ date: 2019-07-05 16:36:58
 pub_date: 2019-07-05 16:36:58
 time_added: 2019-07-07 08:14:07
 category: 
+tags: []
 image: https://abrilveja.files.wordpress.com/2019/06/brasil-sergio-moro-20190614-006-copy.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

@@ -8,6 +8,7 @@ date: 2019-05-29 05:58:53
 pub_date: 2019-05-29 05:58:53
 time_added: 2019-05-30 14:20:04
 category: 
+tags: []
 image: https://brasil.estadao.com.br/blogs/inconsciente-coletivo/wp-content/uploads/sites/646/2019/05/tabata_tiagoqueirozEstadao.jpg
 ---
 

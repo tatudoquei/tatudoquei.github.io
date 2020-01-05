@@ -8,6 +8,7 @@ date: 2019-10-28 05:38:00
 pub_date: 2019-10-28 05:38:00
 time_added: 2019-10-30 21:30:15
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/1e/2019/10/24/toquio-japao-23-10-2019---presidente-da-republica-jair-bolsonaro-conversa-com-a-imprensa-1571901748313_v2_750x421.jpg
 ---
 

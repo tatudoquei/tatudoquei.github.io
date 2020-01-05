@@ -8,6 +8,7 @@ date: 2019-07-29 10:14:00
 pub_date: 2019-07-29 10:14:00
 time_added: 2019-07-29 23:24:29
 category: 
+tags: []
 ---
 
 BRASÍLIA - Ao comentar as investigações sobre seu agressor Adélio Bispo de Oliveira, nesta segunda-feira, o presidente Jair Bolsonaro voltou a atacar o presidente da Ordem dos Advogados do Brasil (OAB), Felipe Santa Cruz, com acusações de que seu pai, Fernando Santa Cruz, desaparecido durante

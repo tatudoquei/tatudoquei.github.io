@@ -8,6 +8,7 @@ date: 2019-02-02 20:59:47
 pub_date: 2019-02-02 20:59:47
 time_added: 2019-02-04 23:51:06
 category: avisamos
+tags: []
 image: https://brazilian.report/wp-content/uploads/2019/02/fcpzzb_abr_01021911252.jpg
 ---
 

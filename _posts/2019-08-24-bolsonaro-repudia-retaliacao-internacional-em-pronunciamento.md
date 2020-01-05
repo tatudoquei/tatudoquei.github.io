@@ -8,6 +8,7 @@ date: 2019-08-24 00:38:29
 pub_date: 2019-08-24 00:38:29
 time_added: 2019-08-24 17:59:41
 category: 
+tags: []
 ---
 
 Brasil | 24.08.2019 Bolsonaro enfrenta pressão internacional diante incêndios florestais Presidente afirma que incêndios florestais existem em todo o mundo e não podem servir de pretexto para sanções. Segundo ele, seu governo tem "tolerância zero" com criminalidade também na área ambiental.

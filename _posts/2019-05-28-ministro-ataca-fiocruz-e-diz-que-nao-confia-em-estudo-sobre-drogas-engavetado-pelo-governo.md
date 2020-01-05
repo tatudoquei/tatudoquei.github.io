@@ -8,6 +8,7 @@ date: 2019-05-28 04:00:00
 pub_date: 2019-05-28 04:00:00
 time_added: 2019-05-28 22:02:15
 category: 
+tags: []
 ---
 
 RIO - Ao longo de três anos, a Fundação Oswaldo Cruz (Fiocruz) fez 16 mil entrevistas e destacou 500 pesquisadores para desenvolver o 3º Levantamento Nacional sobre o Uso de Drogas pela População Brasileira.

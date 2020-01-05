@@ -8,6 +8,7 @@ date: 2018-12-09 12:29:00
 pub_date: 2018-12-09 12:29:00
 time_added: 2019-12-23 21:15:16
 category: refletimos
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2018/12/cupula-615x300.jpg
 ---
 

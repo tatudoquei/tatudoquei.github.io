@@ -8,6 +8,7 @@ date: 2019-12-23 04:10:00
 pub_date: 2019-12-23 04:10:00
 time_added: 2019-12-23 09:14:30
 category: 
+tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/12/19-12-2019-Bevilacqua-redes-1576779652.jpg
 ---
 

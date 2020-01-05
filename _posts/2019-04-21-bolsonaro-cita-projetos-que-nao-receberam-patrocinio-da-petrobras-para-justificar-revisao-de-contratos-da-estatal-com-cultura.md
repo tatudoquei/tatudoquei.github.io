@@ -8,6 +8,7 @@ date: 2019-04-21 10:11:00
 pub_date: 2019-04-21 10:11:00
 time_added: 2019-04-23 22:08:47
 category: 
+tags: []
 ---
 
 RIO — O presidente Jair Bolsonaro postou neste domingo, nas redes sociais, um vídeo sobre a revisão da política de patrocínio cultural da Petrobras que contém imagens de projetos que não receberam dinheiro da empresa, entre elas a exposição "Queermuseu" e a peça "Macaquinhos".

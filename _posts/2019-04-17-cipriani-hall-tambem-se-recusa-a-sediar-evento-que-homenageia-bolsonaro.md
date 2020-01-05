@@ -8,6 +8,7 @@ date: 2019-04-17 01:52:34
 pub_date: 2019-04-17 01:52:34
 time_added: 2019-04-18 22:24:10
 category: 
+tags: []
 image: https://cultura.estadao.com.br/blogs/direto-da-fonte/wp-content/uploads/sites/290/2019/04/18576450836_285cfe4ef0_z-460x307.jpg
 ---
 

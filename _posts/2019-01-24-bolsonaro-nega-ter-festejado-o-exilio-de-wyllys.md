@@ -8,6 +8,7 @@ date: 2019-01-24 17:53:00
 pub_date: 2019-01-24 17:53:00
 time_added: 2019-12-23 21:15:16
 category: recuadas
+tags: []
 image: https://conteudo.imguol.com.br/blogs/58/files/2018/12/BolsonaroUOL-615x300.jpg
 ---
 

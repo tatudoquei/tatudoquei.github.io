@@ -8,6 +8,7 @@ date: 2019-01-23 20:33:00
 pub_date: 2019-01-23 20:33:00
 time_added: 2019-01-24 21:23:11
 category: avisamos
+tags: []
 image: https://conteudo.imguol.com.br/blogs/2/files/2019/01/bolsonarorecorddavos-1-615x300.jpg
 ---
 

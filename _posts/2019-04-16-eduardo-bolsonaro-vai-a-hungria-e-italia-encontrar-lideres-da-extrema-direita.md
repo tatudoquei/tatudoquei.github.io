@@ -8,6 +8,7 @@ date: 2019-04-16 19:03:00
 pub_date: 2019-04-16 19:03:00
 time_added: 2019-04-18 20:46:04
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23604756-5db-82a/FT1086A/652/81879289_Brazilian-Federal-Deputy-Eduardo-Bolsonaro-looks-on-during-an-award-ceremony-for-the-Order.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-10-06 06:34:22
 pub_date: 2019-10-06 06:34:22
 time_added: 2019-10-06 08:34:22
 category: 
+tags: []
 image: https://media.gazetadopovo.com.br/2019/10/04151437/jair-bolsonaro-forcas-armadas-660x372.jpg
 ---
 

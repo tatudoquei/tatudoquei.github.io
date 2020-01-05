@@ -8,6 +8,7 @@ date: 2019-05-24 16:56:50
 pub_date: 2019-05-24 16:56:50
 time_added: 2019-05-29 19:37:51
 category: 
+tags: []
 image: http://www.justificando.com/wp-content/uploads/2019/05/Para-economizar-1-trilhao-bastaria-cortar-privilegios-do-alto-escalao-dos-tres-poderes-2.png
 ---
 

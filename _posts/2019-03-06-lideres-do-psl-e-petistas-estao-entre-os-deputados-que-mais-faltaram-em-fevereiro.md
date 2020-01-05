@@ -8,6 +8,7 @@ date: 2019-03-06 03:40:00
 pub_date: 2019-03-06 03:40:00
 time_added: 2019-03-07 11:38:44
 category: avisamos
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23501521-964-973/FT1086A/652/Cacique.-Luciano-Bivar-ausentou-se-em-cinco-sessoes.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-09-26 18:15:01
 pub_date: 2019-09-26 18:15:01
 time_added: 2019-09-26 20:15:01
 category: 
+tags: []
 image: http://agencia.fapesp.br/agencia-novo/imagens/noticia/31553.jpg
 ---
 

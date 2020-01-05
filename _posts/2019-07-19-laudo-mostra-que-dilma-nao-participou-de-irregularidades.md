@@ -8,6 +8,7 @@ date: 2019-07-19 06:13:13
 pub_date: 2016-06-27 21:46:08
 time_added: 2019-07-19 06:13:13
 category: 
+tags: []
 image: https://abrilexame.files.wordpress.com/2016/09/size_960_16_9_dilma-rousseff202.jpg?quality=70&strip=all&w=960
 ---
 

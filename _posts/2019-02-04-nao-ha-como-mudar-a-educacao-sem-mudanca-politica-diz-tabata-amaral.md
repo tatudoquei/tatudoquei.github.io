@@ -8,6 +8,7 @@ date: 2019-02-04 17:05:28
 pub_date: 2019-02-04 17:05:28
 time_added: 2019-12-23 21:21:02
 category: refletimos
+tags: [educação]
 image: https://desafiosdaeducacao.com.br/wp-content/uploads/2019/02/CT6A39361-1024x639.jpg
 ---
 

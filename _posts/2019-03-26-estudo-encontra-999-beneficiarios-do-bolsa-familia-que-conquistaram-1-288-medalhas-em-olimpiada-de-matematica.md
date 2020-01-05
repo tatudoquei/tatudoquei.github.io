@@ -8,6 +8,7 @@ date: 2019-03-26 18:44:40
 pub_date: 2018-08-01 08:00:45
 time_added: 2019-03-26 18:44:40
 category: refletimos
+tags: []
 image: https://s2.glbimg.com/2J7hZcOsGu4pwGX_5PrnPTnbnj4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/Y/H/vkRgFpToOd1dIDPg1L5Q/rodrigo-nascimento-obmep.jpg
 ---
 

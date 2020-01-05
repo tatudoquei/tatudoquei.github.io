@@ -8,6 +8,7 @@ date: 2019-12-01 21:56:00
 pub_date: 2019-12-01 21:56:00
 time_added: 2019-12-02 20:49:47
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/5a/2019/04/09/19jun2017---o-prefeito-do-rio-de-janeiro-marcelo-crivella-1554812958622_v2_615x300.jpg
 ---
 

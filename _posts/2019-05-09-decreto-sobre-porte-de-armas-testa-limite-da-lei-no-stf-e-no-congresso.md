@@ -8,6 +8,7 @@ date: 2019-05-09 07:00:00
 pub_date: 2019-05-09 07:00:00
 time_added: 2019-05-11 02:34:27
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/88/2019/05/08/7mai2019---presidente-jair-bolsonaro-cercado-por-parlamentares-durante-cerimonia-de-assinatura-do-decreto-que-flexibiliza-possa-porte-e-comercializacao-de-armas-de-fogo-por-colecionadores-atiradores-1557316403540_v2_615x300.jpg
 ---
 

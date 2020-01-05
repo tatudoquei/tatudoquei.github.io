@@ -8,6 +8,7 @@ date: 2019-10-23 05:28:00
 pub_date: 2019-10-23 05:28:00
 time_added: 2019-10-27 11:53:13
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/24036024-494-71a/FT1086A/652/85295985_Brazils-President-Jair-Bolsonaro-arrives-at-the-Imperial-Palace-to-attend-the-proclama.jpg
 ---
 

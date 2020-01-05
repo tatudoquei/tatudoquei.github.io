@@ -8,6 +8,7 @@ date: 2019-08-27 19:27:31
 pub_date: 2019-08-27 19:27:31
 time_added: 2019-08-29 05:14:33
 category: 
+tags: []
 ---
 
 Brasil | 27.08.2019 Segundo jurista, ainda não há precedentes desse tipo de ação no TPI Ação será apresentada ao Tribunal Penal Internacional.

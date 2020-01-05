@@ -8,6 +8,7 @@ date: 2019-12-24 13:38:19
 pub_date: 2019-12-24 13:38:19
 time_added: 2019-12-24 22:58:01
 category: 
+tags: []
 image: https://abrilexame.files.wordpress.com/2019/11/bolsonaro-04-04.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

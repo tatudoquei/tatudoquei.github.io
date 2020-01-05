@@ -8,6 +8,7 @@ date: 2019-05-29 17:01:02
 pub_date: 2019-05-29 17:01:02
 time_added: 2019-05-29 21:10:10
 category: 
+tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2019/01/vac_abr_0101199753.jpg
 ---
 

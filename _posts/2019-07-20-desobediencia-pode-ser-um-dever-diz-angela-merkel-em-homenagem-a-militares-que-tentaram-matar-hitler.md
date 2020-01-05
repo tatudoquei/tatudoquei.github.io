@@ -8,6 +8,7 @@ date: 2019-07-20 13:05:00
 pub_date: 2019-07-20 13:05:00
 time_added: 2019-07-22 21:59:38
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23821554-93d-8ba/FT1086A/652/angelamerkel.jpg
 ---
 

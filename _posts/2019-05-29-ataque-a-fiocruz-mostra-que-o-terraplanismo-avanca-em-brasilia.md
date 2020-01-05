@@ -8,6 +8,7 @@ date: 2019-05-29 00:00:00
 pub_date: 2019-05-29 00:00:00
 time_added: 2019-05-29 18:52:37
 category: 
+tags: []
 image: https://s2.glbimg.com/oD9QkiA0UVkdrZHC4Uzcck3r_Lk=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/05/27/80376566_pa_04-07-2018_o_deputado_osmar_terra_foi_o_relatar_da_comissao_mista_que_aprovou_a_med.jpg
 ---
 

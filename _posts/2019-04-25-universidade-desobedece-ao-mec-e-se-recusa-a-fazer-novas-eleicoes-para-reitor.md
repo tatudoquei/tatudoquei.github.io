@@ -8,6 +8,7 @@ date: 2019-04-25 08:27:00
 pub_date: 2019-04-25 08:27:00
 time_added: 2019-04-26 04:00:19
 category: 
+tags: []
 image: https://media.gazetadopovo.com.br/2019/04/25101755/51053101_2156834791029740_9164039932698689536_n-600x372.jpg
 ---
 

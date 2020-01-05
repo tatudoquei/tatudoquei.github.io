@@ -8,6 +8,7 @@ date: 2019-05-25 14:10:05
 pub_date: 2013-10-22 06:00:45
 time_added: 2019-05-25 14:10:05
 category: 
+tags: []
 image: https://politica.estadao.com.br/blogs/roldao-arruda/wp-content/uploads/sites/32/2013/10/walquiria244.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-06-11 19:16:55
 pub_date: 2016-12-05 05:00:00
 time_added: 2019-06-11 19:16:55
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d1/2015/09/22/carlos-ayres-britto-1442910603731_615x300.jpg
 ---
 

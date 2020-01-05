@@ -8,6 +8,7 @@ date: 2019-01-30 15:39:29
 pub_date: 2019-01-30 15:39:29
 time_added: 2019-12-23 21:37:44
 category: refletimos
+tags: [educação]
 image: https://miro.medium.com/max/818/1*8UJqEvvzCkdit0VwzFLirA.jpeg
 ---
 

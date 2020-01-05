@@ -8,6 +8,7 @@ date: 2019-05-07 15:05:06
 pub_date: 2019-05-07 15:05:06
 time_added: 2019-05-19 18:29:03
 category: 
+tags: []
 image: https://luizmullerpt.files.wordpress.com/2019/05/nordeste.jpg
 ---
 

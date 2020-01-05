@@ -8,6 +8,7 @@ date: 2019-05-02 20:21:00
 pub_date: 2019-05-02 20:21:00
 time_added: 2019-05-03 22:10:46
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23637543-c7d-cc3/FT1086A/652/ufba-01-05.jpg
 ---
 

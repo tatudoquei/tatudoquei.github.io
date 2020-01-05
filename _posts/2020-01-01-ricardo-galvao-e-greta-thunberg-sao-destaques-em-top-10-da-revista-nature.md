@@ -8,6 +8,7 @@ date: 2020-01-01 23:08:22
 pub_date: 2020-01-01 23:08:22
 time_added: 2020-01-02 00:08:22
 category: 
+tags: []
 image: https://www.dw.com/image/50063594_304.jpg
 ---
 

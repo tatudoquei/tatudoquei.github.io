@@ -8,6 +8,7 @@ date: 2019-08-25 11:58:31
 pub_date: 2019-08-25 11:58:31
 time_added: 2019-08-26 06:26:11
 category: 
+tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2019/08/Bertrand_Russell_photo.jpg
 ---
 

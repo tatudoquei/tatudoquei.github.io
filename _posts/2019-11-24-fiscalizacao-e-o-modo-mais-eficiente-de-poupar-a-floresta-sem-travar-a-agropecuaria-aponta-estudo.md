@@ -8,6 +8,7 @@ date: 2019-11-24 10:50:00
 pub_date: 2019-11-24 10:50:00
 time_added: 2019-11-25 07:15:08
 category: 
+tags: []
 ---
 
 RIO — Nada é tão eficiente para combater o desmatamento quanto a dobradinha de satélites no espaço e fiscais em campo, comprovaram pesquisadores da PUC-Rio. Eles produziram a primeira avaliação quantitativa da efetividade da política de monitoramento e fiscalização na Amazônia .

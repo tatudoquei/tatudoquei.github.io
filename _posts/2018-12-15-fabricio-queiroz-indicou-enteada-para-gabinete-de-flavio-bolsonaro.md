@@ -8,6 +8,7 @@ date: 2018-12-15 03:30:00
 pub_date: 2018-12-15 03:30:00
 time_added: 2018-12-15 21:51:00
 category: avisamos
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23308015-77f-782/FT1086A/652/foto.png
 ---
 

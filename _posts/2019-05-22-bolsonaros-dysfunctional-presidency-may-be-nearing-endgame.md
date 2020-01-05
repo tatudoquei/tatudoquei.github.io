@@ -8,6 +8,7 @@ date: 2019-05-22 00:00:00
 pub_date: 2019-05-22 00:00:00
 time_added: 2019-05-22 19:42:39
 category: 
+tags: []
 image: https://www.irishtimes.com/image-creator/?id=1.3899581&origw=1440
 ---
 

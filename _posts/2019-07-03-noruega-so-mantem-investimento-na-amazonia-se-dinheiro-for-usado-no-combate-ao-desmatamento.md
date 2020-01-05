@@ -8,6 +8,7 @@ date: 2019-07-03 05:41:00
 pub_date: 2019-07-03 05:41:00
 time_added: 2019-07-04 22:27:07
 category: 
+tags: []
 ---
 
 Embaixada afirma estar aberta a discutir propostas para melhorar a eficiência do Fundo 'desde que que esses ajustes contribuam para reduzir o desmatamento e promover o desenvolvimento sustentável da região amazônica'

@@ -8,6 +8,7 @@ date: 2019-12-18 21:53:00
 pub_date: 2019-12-18 21:53:00
 time_added: 2019-12-19 10:05:39
 category: 
+tags: []
 ---
 
 RIO — Os diálogos que ajudaram a embasar a operação desta quarta-feira estavam no celular de Danielle Mendonça , apreendido durante a operação os Intocáveis, que investigou a atuação de milicianos na Zona Oeste do Rio.

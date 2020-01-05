@@ -8,6 +8,7 @@ date: 2019-10-28 08:40:00
 pub_date: 2019-10-28 08:40:00
 time_added: 2019-10-28 20:34:56
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/10/alberto-615x300.jpg
 ---
 

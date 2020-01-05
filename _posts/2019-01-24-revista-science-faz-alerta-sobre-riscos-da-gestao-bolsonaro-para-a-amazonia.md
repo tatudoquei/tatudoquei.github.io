@@ -8,6 +8,7 @@ date: 2019-01-24 23:00:00
 pub_date: 2019-01-24 23:00:00
 time_added: 2019-12-23 21:37:44
 category: refletimos
+tags: [meio ambiente]
 ---
 
 A revista científica Science, uma das mais prestigiadas do mundo, publica em sua edição desta sexta-feira, 25, um editorial de alerta sobre os riscos que o governo Bolsonaro pode trazer para a Amazônia.

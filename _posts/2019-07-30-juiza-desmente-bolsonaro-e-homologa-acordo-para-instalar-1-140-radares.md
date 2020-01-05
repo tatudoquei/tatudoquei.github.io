@@ -8,6 +8,7 @@ date: 2019-07-30 14:06:00
 pub_date: 2019-07-30 14:06:00
 time_added: 2019-07-30 21:59:00
 category: 
+tags: []
 image: https://abrilveja.files.wordpress.com/2019/07/gettyimages-1023070324.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

@@ -8,6 +8,7 @@ date: 2019-03-07 09:16:00
 pub_date: 2019-03-07 09:16:00
 time_added: 2019-12-23 21:21:01
 category: refletimos
+tags: []
 ---
 
 Os aliados de Jair Bolsonaro já começam a se mover para convencê-lo a desistir de derrubar a reeleição.

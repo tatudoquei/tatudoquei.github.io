@@ -8,6 +8,7 @@ date: 2019-02-22 13:29:42
 pub_date: 2019-02-22 13:29:42
 time_added: 2019-02-23 19:20:00
 category: avisamos
+tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2019/02/68-3-1-1.jpg
 ---
 

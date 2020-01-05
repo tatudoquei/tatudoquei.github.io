@@ -8,6 +8,7 @@ date: 2019-02-06 23:00:00
 pub_date: 2019-02-06 23:00:00
 time_added: 2019-02-10 00:10:37
 category: avisamos
+tags: []
 image: https://www.dw.com/image/46895938_7.jpg
 ---
 

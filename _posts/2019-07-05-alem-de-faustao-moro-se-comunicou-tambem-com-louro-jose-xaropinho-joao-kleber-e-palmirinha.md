@@ -8,6 +8,7 @@ date: 2019-07-05 15:23:00
 pub_date: 2019-07-05 15:23:00
 time_added: 2019-07-07 08:13:47
 category: 
+tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/07/herald_redes_05072019.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-05-31 14:15:22
 pub_date: 2019-05-31 14:15:22
 time_added: 2019-06-01 11:05:14
 category: 
+tags: []
 image: https://abrilexame.files.wordpress.com/2019/05/2019-05-06t145534z_1157223330_rc18145e4640_rtrmadp_3_brazil-politics.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

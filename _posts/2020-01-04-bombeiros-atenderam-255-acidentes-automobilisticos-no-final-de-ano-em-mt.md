@@ -8,6 +8,7 @@ date: 2020-01-04 20:17:35
 pub_date: 2020-01-04 20:17:35
 time_added: 2020-01-04 22:02:41
 category: 
+tags: []
 image: https://s2.glbimg.com/H-G52GgbjdY8FNP6Zbawkvj2g_c=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/X/q/fEEQO3TjqVSp3yVOjrNg/acidentes.cbmmt.png
 ---
 

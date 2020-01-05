@@ -8,6 +8,7 @@ date: 2019-08-25 02:30:00
 pub_date: 2019-08-25 02:30:00
 time_added: 2019-08-26 06:24:44
 category: 
+tags: []
 ---
 
 Acordo em negociação com a PF mira prevenir Brasil e EUA da entrada de terroristas e outros criminosos

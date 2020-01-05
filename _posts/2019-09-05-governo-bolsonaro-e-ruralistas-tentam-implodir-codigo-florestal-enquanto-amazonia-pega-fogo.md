@@ -8,6 +8,7 @@ date: 2019-09-05 03:47:13
 pub_date: 2019-09-05 03:47:13
 time_added: 2019-09-05 05:47:13
 category: 
+tags: []
 image: https://www.socioambiental.org/sites/blog.socioambiental.org/files/styles/twitter-card/public/nsa/48679375192_961d7aee9a_h.jpg?itok=QdNAoUOU
 ---
 

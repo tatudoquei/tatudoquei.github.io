@@ -8,6 +8,7 @@ date: 2019-07-11 22:00:00
 pub_date: 2019-07-11 22:00:00
 time_added: 2019-07-14 06:18:42
 category: 
+tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Eduardo-Bolsonaro.jpg1/ALTERNATES/LANDSCAPE_720/Eduardo%20Bolsonaro.jpg
 ---
 

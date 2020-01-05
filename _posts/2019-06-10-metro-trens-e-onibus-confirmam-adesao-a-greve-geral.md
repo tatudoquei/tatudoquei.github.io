@@ -8,6 +8,7 @@ date: 2019-06-10 23:23:39
 pub_date: 2019-06-10 23:23:39
 time_added: 2019-06-12 20:53:31
 category: 
+tags: []
 image: https://abrilveja.files.wordpress.com/2017/04/cidade-vazia-244a0238.jpg?quality=70&strip=info&w=1200
 ---
 

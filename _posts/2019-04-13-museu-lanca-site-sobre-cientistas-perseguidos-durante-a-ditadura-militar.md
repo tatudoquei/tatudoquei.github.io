@@ -8,6 +8,7 @@ date: 2019-04-13 13:35:41
 pub_date: 2015-03-31 04:00:00
 time_added: 2019-04-13 13:35:41
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/15739065-c3d-588/FT1086A/652/2015-803715052-2015033099988.jpg_20150330.jpg
 ---
 

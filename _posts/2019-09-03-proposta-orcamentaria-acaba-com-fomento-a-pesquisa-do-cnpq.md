@@ -8,6 +8,7 @@ date: 2019-09-03 13:17:03
 pub_date: 2019-09-03 13:17:03
 time_added: 2019-09-04 22:56:01
 category: 
+tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/09/20190903_00_pesquisa_financiamento1.jpg
 ---
 

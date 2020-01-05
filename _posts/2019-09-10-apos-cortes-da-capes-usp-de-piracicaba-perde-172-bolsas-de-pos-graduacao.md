@@ -8,6 +8,7 @@ date: 2019-09-10 21:36:38
 pub_date: 2019-09-10 21:36:38
 time_added: 2019-09-10 23:36:38
 category: 
+tags: []
 image: https://www.diariodocentrodomundo.com.br/wp-content/uploads/2019/09/dsc_0021.jpg
 ---
 

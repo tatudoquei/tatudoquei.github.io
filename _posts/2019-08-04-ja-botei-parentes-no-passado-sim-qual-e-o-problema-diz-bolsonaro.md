@@ -8,6 +8,7 @@ date: 2019-08-04 08:47:00
 pub_date: 2019-08-04 08:47:00
 time_added: 2019-08-05 23:00:50
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23854061-3fd-c6a/FT1086A/652/Jair-Bolsonaro2.jpg
 ---
 

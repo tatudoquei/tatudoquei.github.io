@@ -8,6 +8,7 @@ date: 2019-09-26 04:40:45
 pub_date: 2019-09-26 04:40:45
 time_added: 2019-09-26 06:40:45
 category: 
+tags: []
 image: https://media.newyorker.com/photos/5d8a77c8d0e3aa000836a139/16:9/w_1200,h_630,c_limit/JLA-BolsonaroAttheUN.jpg
 ---
 

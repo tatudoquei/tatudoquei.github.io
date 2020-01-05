@@ -8,6 +8,7 @@ date: 2019-09-23 14:39:00
 pub_date: 2019-09-23 14:39:00
 time_added: 2019-09-24 19:11:31
 category: 
+tags: []
 ---
 
 BRASÍLIA - Caciques de 14 povos indígenas do território do Xingu, em Mato Grosso, e a Associação Terra Indígena Xingu protestaram contra o convite feito por Jair Bolsonaro para que a indígena Ysani Kalapalo integre a comitiva do presidente na abertura da Assembleia Geral da Organização das

@@ -8,6 +8,7 @@ date: 2019-12-23 19:50:55
 pub_date: 2019-12-23 19:50:55
 time_added: 2019-12-24 22:57:24
 category: 
+tags: []
 image: https://www.pragmatismopolitico.com.br/wp-content/uploads/2019/12/20191223171252_ef4d8f11-c41b-4b91-beba-5c948e8dd7aa.jpeg
 ---
 

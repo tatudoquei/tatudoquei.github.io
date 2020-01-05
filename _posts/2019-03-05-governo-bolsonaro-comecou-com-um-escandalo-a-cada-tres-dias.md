@@ -8,6 +8,7 @@ date: 2019-03-05 23:00:00
 pub_date: 2019-03-05 23:00:00
 time_added: 2019-03-07 11:39:03
 category: avisamos
+tags: []
 image: https://www.plural.jor.br/wp-content/uploads/2019/03/antcrz_abr_04011910112.jpg
 ---
 

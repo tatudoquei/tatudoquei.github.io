@@ -8,6 +8,7 @@ date: 2020-01-04 01:00:00
 pub_date: 2020-01-04 01:00:00
 time_added: 2020-01-04 19:21:24
 category: 
+tags: []
 image: https://f.i.uol.com.br/fotografia/2019/10/30/15724787445dba1f18e1d53_1572478744_3x2_rt.jpg
 ---
 

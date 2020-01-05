@@ -8,6 +8,7 @@ date: 2019-04-16 16:10:38
 pub_date: 2019-04-16 16:10:38
 time_added: 2019-04-19 07:39:30
 category: 
+tags: []
 ---
 
 “A título de sanar as finanças no curto prazo, o Brasil está jogando fora os instrumentos basais para se tornar um país mais inteligente, criativo, humano e próspero”, afirma Vanderlan da S.

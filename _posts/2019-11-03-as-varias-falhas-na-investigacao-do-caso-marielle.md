@@ -8,6 +8,7 @@ date: 2019-11-03 23:00:00
 pub_date: 2019-11-03 23:00:00
 time_added: 2019-11-14 06:49:45
 category: 
+tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Giniton-Lages/ALTERNATES/LANDSCAPE_720/Giniton%20Lages
 ---
 

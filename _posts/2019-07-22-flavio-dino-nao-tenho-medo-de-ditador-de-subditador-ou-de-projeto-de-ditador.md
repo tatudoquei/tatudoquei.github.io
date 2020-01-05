@@ -8,6 +8,7 @@ date: 2019-07-22 10:24:28
 pub_date: 2019-07-22 10:24:28
 time_added: 2019-07-22 22:02:24
 category: 
+tags: []
 image: https://www.diariodocentrodomundo.com.br/wp-content/uploads/2019/01/dino.jpg
 ---
 

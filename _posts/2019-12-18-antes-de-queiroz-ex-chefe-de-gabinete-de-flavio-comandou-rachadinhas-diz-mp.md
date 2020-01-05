@@ -8,6 +8,7 @@ date: 2019-12-18 21:19:00
 pub_date: 2019-12-18 21:19:00
 time_added: 2019-12-21 10:21:49
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/78/2019/10/02/o-senador-flavio-bolsonaro-psl-rj-no-plenario-do-senado-em-brasilia-1570042166511_v2_615x300.jpg
 ---
 

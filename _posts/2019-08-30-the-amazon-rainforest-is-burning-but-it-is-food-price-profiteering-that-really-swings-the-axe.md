@@ -8,6 +8,7 @@ date: 2019-08-30 10:00:12
 pub_date: 2019-08-30 10:00:12
 time_added: 2019-09-02 22:07:45
 category: 
+tags: []
 image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/08/29/15/amazon-fire-burned-scorched.jpg
 ---
 

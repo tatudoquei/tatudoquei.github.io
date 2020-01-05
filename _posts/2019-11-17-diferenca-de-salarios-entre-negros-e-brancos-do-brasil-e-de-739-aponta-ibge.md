@@ -8,6 +8,7 @@ date: 2019-11-17 11:02:15
 pub_date: 2019-11-17 11:02:15
 time_added: 2019-11-17 12:02:15
 category: 
+tags: []
 image: http://www.ihu.unisinos.br/images/ihu/2019/11/14_11_mulher_negra_trabalho_foto_pxhere.jpg
 ---
 

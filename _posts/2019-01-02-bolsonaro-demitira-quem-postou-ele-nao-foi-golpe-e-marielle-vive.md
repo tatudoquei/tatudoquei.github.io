@@ -8,6 +8,7 @@ date: 2019-01-02 20:11:44
 pub_date: 2019-01-02 20:11:44
 time_added: 2019-12-23 21:19:32
 category: refletimos
+tags: []
 image: https://static.noticiasaominuto.com.br/stockimages/1280/naom_5ab5ac2f5f05c.jpg
 ---
 

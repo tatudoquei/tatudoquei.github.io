@@ -8,6 +8,7 @@ date: 2019-03-08 09:54:36
 pub_date: 2019-03-08 09:54:36
 time_added: 2019-12-23 21:21:01
 category: refletimos
+tags: []
 image: https://abrilexame.files.wordpress.com/2019/03/jair-bolsonaro-simon-dawson-bloomberf.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

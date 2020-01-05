@@ -8,6 +8,7 @@ date: 2019-04-23 13:48:00
 pub_date: 2019-04-23 13:48:00
 time_added: 2019-04-26 04:02:05
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23616975-6de-377/FT1086A/652/18197668_PA-exclusivo-Sao-Paulosp09052012EducacaoEspecial-sobrecursos-de-Pos-Graduac.jpg
 ---
 

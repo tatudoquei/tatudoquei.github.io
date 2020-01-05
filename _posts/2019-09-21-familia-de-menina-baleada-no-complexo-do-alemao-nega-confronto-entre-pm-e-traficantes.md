@@ -8,6 +8,7 @@ date: 2019-09-21 12:14:00
 pub_date: 2019-09-21 12:14:00
 time_added: 2019-09-23 06:19:29
 category: 
+tags: []
 ---
 
 RIO - Familiares da pequena Agatha Vitória Sales Félix, de 8 anos, baleada na noite desta sexta-feira no Complexo do Alemão, Zona Norte do Rio, negam a informação dada pela Polícia Militar de que, na hora do disparo que acertou a criança, equipes policiais da UPP Fazendinha foram atacadas de

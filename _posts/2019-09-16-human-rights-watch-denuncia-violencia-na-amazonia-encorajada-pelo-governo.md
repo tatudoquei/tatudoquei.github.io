@@ -8,6 +8,7 @@ date: 2019-09-16 22:01:00
 pub_date: 2019-09-16 22:01:00
 time_added: 2019-09-18 05:24:41
 category: 
+tags: []
 ---
 
 RIO — Um relatório de 169 páginas elaborado pela ONG de direitos humanos Human Rights Watch denuncia um cenário de violência praticada por madeireiros na Amazônia e de impunidade, que seria incentivada por um governo "hostil" com quem tenta proteger a floresta.

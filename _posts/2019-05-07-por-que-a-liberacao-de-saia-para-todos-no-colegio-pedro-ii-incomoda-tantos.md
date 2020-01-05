@@ -8,6 +8,7 @@ date: 2019-05-07 06:11:59
 pub_date: 2016-09-20 09:05:00
 time_added: 2019-05-07 06:11:59
 category: 
+tags: []
 image: http://conteudo.imguol.com.br/c/noticias/ed/2016/05/06/alunos-fazem-saiaco-apos-estudante-de-saia-ter-sido-barrado-em-universidade-de-mg-1462564961888_615x300.jpg
 ---
 

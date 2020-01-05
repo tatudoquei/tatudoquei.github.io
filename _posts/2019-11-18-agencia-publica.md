@@ -8,6 +8,7 @@ date: 2019-11-18 15:44:13
 pub_date: 2019-11-18 15:44:13
 time_added: 2019-11-18 16:39:24
 category: 
+tags: []
 image: https://apublica.org/wp-content/uploads/2019/11/marina-bolsonaro-quer-entregar-a-amazonia-a-destruicao-img1.jpg
 ---
 

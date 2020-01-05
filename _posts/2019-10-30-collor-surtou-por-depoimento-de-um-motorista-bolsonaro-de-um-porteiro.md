@@ -8,6 +8,7 @@ date: 2019-10-30 03:06:00
 pub_date: 2019-10-30 03:06:00
 time_added: 2019-10-30 07:38:04
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/10/bolso-615x300.jpeg
 ---
 

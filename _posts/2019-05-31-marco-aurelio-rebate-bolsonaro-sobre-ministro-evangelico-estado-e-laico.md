@@ -8,6 +8,7 @@ date: 2019-05-31 18:24:00
 pub_date: 2019-05-31 18:24:00
 time_added: 2019-06-01 08:50:13
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/99/2018/11/29/29nov2018---marco-aurelio-mello-chega-para-julgamento-de-indulto-de-natal-1543519773728_v2_615x300.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-06-14 10:31:00
 pub_date: 2019-06-14 10:31:00
 time_added: 2019-06-15 08:52:25
 category: 
+tags: []
 ---
 
 RIO — A metáfora usada pelo governo para explicar a saída do general reformado Carlos Alberto dos da Secretaria de Governo da Presidência foi a de um casamento que não deu certo e terminou em divórcio sem litígio.

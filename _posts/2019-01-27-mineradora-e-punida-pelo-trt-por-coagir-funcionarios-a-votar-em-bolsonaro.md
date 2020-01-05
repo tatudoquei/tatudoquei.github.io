@@ -8,6 +8,7 @@ date: 2019-01-27 22:03:30
 pub_date: 2018-10-19 19:51:00
 time_added: 2019-01-27 22:03:30
 category: avisamos
+tags: []
 image: http://conteudo.imguol.com.br/c/noticias/fd/2018/10/12/09out2018---o-candidato-do-psl-a-presidencia-da-republica-jair-bolsonaro-fala-a-imprensa-apos-gravacao-de-campanha-no-bairro-jardim-botanico-rio-de-janeiro-na-terca-feira-9-1539362674347_956x500.jpg
 ---
 

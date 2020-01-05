@@ -8,6 +8,7 @@ date: 2019-05-15 21:23:31
 pub_date: 2019-05-15 21:23:31
 time_added: 2019-05-17 07:50:37
 category: 
+tags: []
 image: https://i0.wp.com/cartacampinas.com.br/wordpress/wp-content/uploads/img20190515152119140MED-foto-luis-macedo-camara-dos-deputados.jpg?fit=1000%2C667&ssl=1
 ---
 

@@ -8,6 +8,7 @@ date: 2019-04-29 16:28:50
 pub_date: 2019-04-29 16:28:50
 time_added: 2019-04-30 19:36:48
 category: 
+tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2019/04/bolsonaro-cracha.png
 ---
 

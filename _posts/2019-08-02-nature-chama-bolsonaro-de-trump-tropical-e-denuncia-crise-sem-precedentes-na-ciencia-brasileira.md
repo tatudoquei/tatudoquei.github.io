@@ -8,6 +8,7 @@ date: 2019-08-02 10:43:54
 pub_date: 2019-08-02 10:43:54
 time_added: 2019-08-04 07:58:07
 category: 
+tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/08/Nacho-Doce-Reuters.jpg
 ---
 

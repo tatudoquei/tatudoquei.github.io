@@ -8,6 +8,7 @@ date: 2019-08-13 08:54:00
 pub_date: 2019-08-13 08:54:00
 time_added: 2019-08-14 22:46:35
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/08/cana-615x300.jpg
 ---
 

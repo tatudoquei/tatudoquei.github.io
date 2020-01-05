@@ -8,6 +8,7 @@ date: 2019-08-02 23:43:56
 pub_date: 2019-08-02 23:43:56
 time_added: 2019-08-04 07:58:21
 category: 
+tags: []
 image: https://abrilveja.files.wordpress.com/2019/08/ricardo-galvao-inpe-1.png?w=680&h=453&crop=1
 ---
 

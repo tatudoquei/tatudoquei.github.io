@@ -8,6 +8,7 @@ date: 2019-11-09 16:51:00
 pub_date: 2019-11-09 16:51:00
 time_added: 2019-11-10 23:06:16
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/11/lulasaobernardo-615x300.jpeg
 ---
 

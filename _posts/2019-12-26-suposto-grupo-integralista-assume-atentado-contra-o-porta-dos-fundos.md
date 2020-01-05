@@ -8,6 +8,7 @@ date: 2019-12-26 01:17:45
 pub_date: 2019-12-26 01:17:45
 time_added: 2019-12-26 10:18:22
 category: 
+tags: []
 image: https://telepadi.folha.uol.com.br/wp-content/uploads/2019/12/Portadosfundosatentado.jpg
 ---
 

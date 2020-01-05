@@ -8,6 +8,7 @@ date: 2019-12-03 20:10:50
 pub_date: 2019-12-03 20:10:50
 time_added: 2019-12-03 21:10:50
 category: 
+tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Paulo-Freire/ALTERNATES/LANDSCAPE_720/Paulo%20Freire
 ---
 

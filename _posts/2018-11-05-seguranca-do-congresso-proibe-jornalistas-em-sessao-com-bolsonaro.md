@@ -8,6 +8,7 @@ date: 2018-11-05 15:21:00
 pub_date: 2018-11-05 15:21:00
 time_added: 2019-12-23 21:19:30
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23212406-c5e-3e0/FT1086A/652/img20181031192103660.jpg
 ---
 

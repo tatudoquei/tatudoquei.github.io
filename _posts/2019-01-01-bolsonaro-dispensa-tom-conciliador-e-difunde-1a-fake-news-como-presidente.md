@@ -8,6 +8,7 @@ date: 2019-01-01 21:07:00
 pub_date: 2019-01-01 21:07:00
 time_added: 2019-01-02 23:08:07
 category: avisamos
+tags: []
 image: https://www.blogdokennedy.com.br/wp-content/themes/kennedy_2/images/kennedy.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-08-24 08:00:00
 pub_date: 2019-08-24 08:00:00
 time_added: 2019-08-26 06:25:02
 category: 
+tags: []
 ---
 
 Quase 85 mil pesquisadores podem ficar sem bolsas a partir de outubro por conta de um déficit orçamentário de R$330 milhões do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq).

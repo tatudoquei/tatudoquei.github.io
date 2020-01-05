@@ -8,6 +8,7 @@ date: 2019-09-30 15:13:00
 pub_date: 2019-09-30 15:13:00
 time_added: 2019-10-03 07:34:54
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2019/04/lulafundonegro-615x300.jpg
 ---
 

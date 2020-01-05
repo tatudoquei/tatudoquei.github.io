@@ -8,6 +8,7 @@ date: 2019-02-11 12:05:00
 pub_date: 2019-02-11 12:05:00
 time_added: 2019-02-13 00:12:29
 category: avisamos
+tags: []
 image: https://s2.glbimg.com/k-D-i3KbNBRMZe2l10zQ7ScM9Co=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/02/11/velez2.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-05-09 19:09:15
 pub_date: 2019-05-09 19:09:15
 time_added: 2019-05-09 22:47:43
 category: 
+tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2019/05/rodrigo-maia.jpg
 ---
 

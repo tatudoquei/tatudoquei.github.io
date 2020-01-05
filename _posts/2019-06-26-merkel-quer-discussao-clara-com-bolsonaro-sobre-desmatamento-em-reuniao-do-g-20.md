@@ -8,6 +8,7 @@ date: 2019-06-26 10:21:00
 pub_date: 2019-06-26 10:21:00
 time_added: 2019-06-29 17:56:03
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23757539-413-ac9/FT1086A/652/83296998_German-Chancellor-Angela-Merkel-attends-a-news-conference-after-the-European-Union-lead.jpg
 ---
 

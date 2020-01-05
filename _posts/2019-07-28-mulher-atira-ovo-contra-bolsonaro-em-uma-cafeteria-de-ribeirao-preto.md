@@ -8,6 +8,7 @@ date: 2019-07-28 22:39:05
 pub_date: 2017-08-17 16:22:00
 time_added: 2019-07-28 22:39:05
 category: 
+tags: []
 image: http://conteudo.imguol.com.br/c/parceiros/9e/2017/08/15/bolsonaro-ainda-podera-responder-criminalmente-no-stf-1502826734527_v2_615x300.jpg
 ---
 

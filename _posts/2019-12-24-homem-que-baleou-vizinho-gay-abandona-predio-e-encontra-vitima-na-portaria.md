@@ -8,6 +8,7 @@ date: 2019-12-24 13:07:00
 pub_date: 2019-12-24 13:07:00
 time_added: 2019-12-25 11:19:05
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/fe/2019/12/23/imagem-de-sistema-da-portaria-retrata-o-autor-dos-disparos-o-aposentado-1577112658303_v2_615x300.jpg
 ---
 

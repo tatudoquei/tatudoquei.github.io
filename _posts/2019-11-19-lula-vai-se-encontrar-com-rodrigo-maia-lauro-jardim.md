@@ -8,6 +8,7 @@ date: 2019-11-19 05:00:00
 pub_date: 2019-11-19 05:00:00
 time_added: 2019-11-19 21:47:55
 category: 
+tags: []
 image: https://s2.glbimg.com/7FYzDnNBBbsJnjxFzht0GoZXx90=/640x424/top/i.glbimg.com/og/ig/infoglobo1/f/original/2019/02/07/76047678_sao_bernardo_do_campo_sp_07042018_-_lula-sp_-_o_ex-presidente_luiz_inacio_lula_da_silva_ao.jpg
 ---
 

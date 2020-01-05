@@ -8,6 +8,7 @@ date: 2018-11-23 01:00:00
 pub_date: 2018-11-23 01:00:00
 time_added: 2019-12-23 21:19:30
 category: avisamos
+tags: []
 image: https://painel.blogfolha.uol.com.br/files/2018/11/15429299935bf73e4999f38_1542929993_3x2_md.jpg
 ---
 

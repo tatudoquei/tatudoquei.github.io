@@ -8,6 +8,7 @@ date: 2019-02-12 01:59:06
 pub_date: 2019-02-12 01:59:06
 time_added: 2019-02-16 09:24:00
 category: avisamos
+tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2019/02/ricardosalless.png
 ---
 

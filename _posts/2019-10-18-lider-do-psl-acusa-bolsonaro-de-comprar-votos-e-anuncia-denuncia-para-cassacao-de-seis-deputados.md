@@ -8,6 +8,7 @@ date: 2019-10-18 14:32:00
 pub_date: 2019-10-18 14:32:00
 time_added: 2019-10-19 10:40:19
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/24024711-4e3-3c8/FT1086A/652/85209971_BRASILBrasilia-DF15-10-2019Retrato-do-lider-do-PSL-o-deputado-Delegado-Waldir-PSL-.jpg
 ---
 

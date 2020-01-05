@@ -8,6 +8,7 @@ date: 2019-07-12 22:00:00
 pub_date: 2019-07-12 22:00:00
 time_added: 2019-07-15 22:13:58
 category: 
+tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/D25C/production/_107825835_gettyimages-517743436.jpg
 ---
 

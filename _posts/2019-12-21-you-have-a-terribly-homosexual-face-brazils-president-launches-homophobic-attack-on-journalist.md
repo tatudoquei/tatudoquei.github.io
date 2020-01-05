@@ -8,6 +8,7 @@ date: 2019-12-21 12:55:00
 pub_date: 2019-12-21 12:55:00
 time_added: 2019-12-22 23:55:50
 category: 
+tags: []
 image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/12/21/12/jair-bolsonaro.png
 ---
 

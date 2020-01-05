@@ -8,6 +8,7 @@ date: 2019-04-18 07:11:46
 pub_date: 2019-04-18 07:11:46
 time_added: 2019-04-19 07:43:07
 category: 
+tags: []
 image: http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2018/12/12/2018-12-12T233417Z_1_LYNXMPEEBB24D_RTROPTP_4_TRANSPORTES-FUX-FRETE.JPG
 ---
 

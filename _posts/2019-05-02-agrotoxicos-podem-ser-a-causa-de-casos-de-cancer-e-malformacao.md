@@ -8,6 +8,7 @@ date: 2019-05-02 13:19:49
 pub_date: 2019-05-02 13:19:49
 time_added: 2019-05-04 06:26:11
 category: 
+tags: []
 image: https://i0.wp.com/apublica.org/wp-content/uploads/2019/04/pulverizacao-de-agrotoxicos-em-plantacao-de-soja-no-norte-do-mato-grosso-foto-lunae-parracho.jpg?fit=1600%2C1067&ssl=1
 ---
 

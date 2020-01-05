@@ -8,6 +8,7 @@ date: 2019-04-23 12:12:49
 pub_date: 2019-04-23 12:12:49
 time_added: 2019-08-06 04:42:23
 category: 
+tags: []
 image: https://aventurasnahistoria.uol.com.br/media/_versions/fiocruz_widelg.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-07-10 18:44:45
 pub_date: 2019-07-10 18:44:45
 time_added: 2019-07-11 18:53:12
 category: 
+tags: []
 ---
 
 SBPC, ABC, Andifes, Conif, Confies, Confap e RBCIH encaminharam nesta quarta-feira, 10 de julho, uma carta ao presidente da República na qual reafirmam confiança na qualidade do monitoramento do desmatamento da Amazônia realizado pelo Instituto Nacional de Pesquisas Espaciais (Inpe)

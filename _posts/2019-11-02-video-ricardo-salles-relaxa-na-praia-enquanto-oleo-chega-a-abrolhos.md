@@ -8,6 +8,7 @@ date: 2019-11-02 16:42:00
 pub_date: 2019-11-02 16:42:00
 time_added: 2019-11-03 20:13:45
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/24058576-3c5-9e7/FT1086A/652/WhatsApp-Image-2019-11-02-at-17.59.48.jpeg.jpg
 ---
 

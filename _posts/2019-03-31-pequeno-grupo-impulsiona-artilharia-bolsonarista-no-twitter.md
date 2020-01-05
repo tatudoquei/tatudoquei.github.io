@@ -8,6 +8,7 @@ date: 2019-03-31 02:30:00
 pub_date: 2019-03-31 02:30:00
 time_added: 2019-04-01 22:53:56
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23562985-634-7e6/FT1086A/652/gomes.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-04-17 03:00:00
 pub_date: 2019-04-17 03:00:00
 time_added: 2019-05-07 06:34:24
 category: 
+tags: []
 ---
 
 A situação da CT&I e da educação no país atingiu o nível mais crítico das últimas décadas.

@@ -8,6 +8,7 @@ date: 2019-05-02 02:30:00
 pub_date: 2019-05-02 02:30:00
 time_added: 2019-05-26 23:08:57
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23635646-a2c-4e3/FT1086A/652/rios.jpg
 ---
 

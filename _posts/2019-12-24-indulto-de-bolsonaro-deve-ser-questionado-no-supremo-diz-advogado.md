@@ -8,6 +8,7 @@ date: 2019-12-24 15:21:00
 pub_date: 2019-12-24 15:21:00
 time_added: 2019-12-25 11:17:29
 category: 
+tags: []
 image: https://blogdofred.blogfolha.uol.com.br/files/2019/12/Bolsonaro-e-indulto.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-12-04 13:48:00
 pub_date: 2019-12-04 13:48:00
 time_added: 2019-12-04 23:36:14
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/19/2019/05/06/02mai2019---o-ministro-da-educacao-abraham-weintraub-durante-coletiva-de-imprensa-no-mec-1557146496673_v2_615x300.jpg
 ---
 

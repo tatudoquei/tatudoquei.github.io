@@ -8,6 +8,7 @@ date: 2019-09-04 16:08:47
 pub_date: 2019-09-04 16:08:47
 time_added: 2019-09-05 05:46:55
 category: 
+tags: []
 image: https://s2.glbimg.com/9SNF9b982o5TL7VA0QKxe6eUdTc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/Z/a/vDe3LATjS8VaIRts4DLQ/marcelo-unicamp-2.jpg
 ---
 

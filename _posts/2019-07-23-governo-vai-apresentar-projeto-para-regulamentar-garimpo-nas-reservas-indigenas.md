@@ -8,6 +8,7 @@ date: 2019-07-23 02:30:00
 pub_date: 2019-07-23 02:30:00
 time_added: 2019-07-23 18:03:44
 category: 
+tags: []
 ---
 
 BRASÍLIA — O governo federal já finalizou a minuta de um projeto de lei que prevê a regulamentação da mineração em terras indígenas, uma das principais promessas de campanha do presidente Jair Bolsonaro (PSL).

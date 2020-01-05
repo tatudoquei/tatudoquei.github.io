@@ -8,6 +8,7 @@ date: 2019-09-29 22:00:00
 pub_date: 2019-09-29 22:00:00
 time_added: 2019-09-30 20:21:08
 category: 
+tags: []
 image: https://mais.opovo.com.br/includes/assets/opovomais/imgs/og-image.jpg
 ---
 

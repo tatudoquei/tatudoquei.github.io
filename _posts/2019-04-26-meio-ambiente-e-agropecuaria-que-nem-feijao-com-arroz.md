@@ -8,6 +8,7 @@ date: 2019-04-26 03:00:00
 pub_date: 2019-04-26 03:00:00
 time_added: 2019-05-03 05:58:34
 category: 
+tags: []
 ---
 
 Leia a seguir artigo escrito pela Acadêmica Mercedes Bustamante e pelos pesquisadores Ricardo Machado, Ludmilla Aguiar e Thomas Lewinsohn para o Jornal da Ciência, publicado em 25 de abril: Mudanças recentemente implementadas no Ministério do Meio Ambiente e o esvaziamento de suas funções, tr

@@ -8,6 +8,7 @@ date: 2019-07-23 18:33:59
 pub_date: 2019-07-23 18:33:59
 time_added: 2019-07-24 19:35:07
 category: 
+tags: []
 ---
 
 Brasil | 23.07.2019 Agrotóxicos serão classificados em seis categorias Brasil adota padrão internacional usado por mais de 50 países. Modelo deixa de lado resultados toxicológicos de irritação dos olhos e da pele e usa o risco de morte como único critério para classificar tais produtos.

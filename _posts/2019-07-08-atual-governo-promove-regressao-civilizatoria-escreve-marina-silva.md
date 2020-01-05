@@ -8,6 +8,7 @@ date: 2019-07-08 05:50:12
 pub_date: 2019-07-08 05:50:12
 time_added: 2019-07-09 18:20:40
 category: 
+tags: []
 image: https://static.poder360.com.br/2019/07/jair.bolsoanro.8.abr_.2019-1200x630.jpg
 ---
 

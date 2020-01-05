@@ -8,6 +8,7 @@ date: 2019-05-10 14:33:43
 pub_date: 2019-05-10 14:33:43
 time_added: 2019-05-11 21:08:41
 category: 
+tags: []
 image: https://guaiba.com.br/wp-content/uploads/2019/05/32844323837_4a7d2f2bd7_o-e1557498218994.jpg
 ---
 

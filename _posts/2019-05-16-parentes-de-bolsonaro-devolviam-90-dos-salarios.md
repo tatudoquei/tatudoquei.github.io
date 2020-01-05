@@ -8,6 +8,7 @@ date: 2019-05-16 13:05:00
 pub_date: 2019-05-16 13:05:00
 time_added: 2019-05-16 19:14:12
 category: 
+tags: []
 ---
 
 Na última terça-feira, quando o jornal O Globo divulgou a decisão do Tribunal de Justiça do Rio de Janeiro de quebrar os sigilos bancário e fiscal de 95 pessoas e empresas ligadas ao antigo gabinete do primogênito do presidente, Flávio Bolsonaro, na Assembleia Legislativa do Estado do Rio de

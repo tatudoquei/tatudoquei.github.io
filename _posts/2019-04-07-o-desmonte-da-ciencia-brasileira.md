@@ -8,6 +8,7 @@ date: 2019-04-07 22:00:00
 pub_date: 2019-04-07 22:00:00
 time_added: 2019-04-18 21:21:56
 category: 
+tags: []
 ---
 
 A ciência brasileira se encontra num momento crítico. O último corte de recursos anunciado pelo governo de Jair Bolsonaro agravou drasticamente uma situação que, há anos, já era tida como crítica.

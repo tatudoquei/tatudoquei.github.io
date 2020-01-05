@@ -8,6 +8,7 @@ date: 2019-08-29 21:21:18
 pub_date: 2019-08-29 21:21:18
 time_added: 2019-08-30 23:35:32
 category: 
+tags: []
 image: https://jornal.usp.br/wp-content/uploads/20171020_00_cnpq_pesquisa_ciencia.jpg
 ---
 

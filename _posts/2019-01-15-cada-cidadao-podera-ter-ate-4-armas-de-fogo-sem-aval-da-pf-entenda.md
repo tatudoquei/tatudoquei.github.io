@@ -8,6 +8,7 @@ date: 2019-01-15 17:56:24
 pub_date: 2019-01-15 17:56:24
 time_added: 2019-12-23 21:41:24
 category: refletimos
+tags: [segurança]
 image: http://midias.gazetaonline.com.br/_midias/jpg/2019/01/15/age20190115088-5958827.jpg
 ---
 

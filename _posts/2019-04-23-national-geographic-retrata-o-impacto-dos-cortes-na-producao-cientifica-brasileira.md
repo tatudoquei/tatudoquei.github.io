@@ -8,6 +8,7 @@ date: 2019-04-23 22:00:00
 pub_date: 2019-04-23 22:00:00
 time_added: 2019-04-27 08:06:44
 category: 
+tags: []
 ---
 
 Scientists in São Paulo, Brazil, protest deep cuts in their funding. Photograph by Cris Faga, NurPhoto via Getty Images

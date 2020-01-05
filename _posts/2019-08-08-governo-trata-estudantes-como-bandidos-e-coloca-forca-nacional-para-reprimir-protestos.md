@@ -8,6 +8,7 @@ date: 2019-08-08 20:21:45
 pub_date: 2019-08-08 20:21:45
 time_added: 2019-08-08 21:56:49
 category: 
+tags: []
 image: https://i0.wp.com/www.pstu.org.br/wp-content/uploads/2019/08/6091848c-325d-4083-a209-900a155fb54e.png?fit=750%2C423&ssl=1
 ---
 

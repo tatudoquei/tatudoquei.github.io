@@ -8,6 +8,7 @@ date: 2019-07-12 17:44:12
 pub_date: 2019-07-12 17:44:12
 time_added: 2019-07-15 06:10:52
 category: 
+tags: []
 image: https://abrilexame.files.wordpress.com/2017/11/calor.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

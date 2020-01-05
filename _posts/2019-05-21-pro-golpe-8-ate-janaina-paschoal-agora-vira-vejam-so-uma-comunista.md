@@ -8,6 +8,7 @@ date: 2019-05-21 05:49:00
 pub_date: 2019-05-21 05:49:00
 time_added: 2019-05-22 06:31:33
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2019/05/janainapaschoaldedoemriste-581x300.jpg
 ---
 

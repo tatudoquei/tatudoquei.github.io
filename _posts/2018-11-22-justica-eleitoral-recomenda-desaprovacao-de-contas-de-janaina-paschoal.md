@@ -8,6 +8,7 @@ date: 2018-11-22 17:43:00
 pub_date: 2018-11-22 17:43:00
 time_added: 2018-11-22 23:11:04
 category: avisamos
+tags: []
 image: http://conteudo.imguol.com.br/c/noticias/84/2016/08/29/29ago2016---a-jurista-janaina-paschoal-ouve-resposta-da-presidente-afastada-dilma-rousseff-sobre-crise-economica-no-brasil-durante-sessao-do-julgamento-do-impeachment-no-senado-federal-em-brasilia-1472524807223_956x500.jpg
 ---
 

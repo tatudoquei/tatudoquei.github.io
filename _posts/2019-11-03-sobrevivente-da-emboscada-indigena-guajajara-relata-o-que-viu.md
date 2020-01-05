@@ -8,6 +8,7 @@ date: 2019-11-03 17:20:07
 pub_date: 2019-11-03 17:20:07
 time_added: 2019-11-03 22:10:45
 category: 
+tags: []
 image: https://apublica.org/wp-content/uploads/2019/11/laercio.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-12-11 08:59:00
 pub_date: 2019-12-11 08:59:00
 time_added: 2019-12-11 19:59:31
 category: 
+tags: []
 ---
 
 Santa Cruz afirmou que quem apoia o governo “tem desvio de caráter”, e disse “não duvidar” da participação da família Bolsonaro no caso Marielle. “Ele (Bolsonaro) preside para a minoria.

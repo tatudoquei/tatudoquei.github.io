@@ -8,6 +8,7 @@ date: 2019-06-10 22:00:00
 pub_date: 2019-06-10 22:00:00
 time_added: 2019-07-09 06:34:20
 category: 
+tags: []
 ---
 
 O aplicativo de mensagens Telegram, que foi usado pelo coordenador da força-tarefa da Lava-Jato, Deltan Dallagnol, e o então juiz e hoje ministro da Justiça, Sergio Moro, cujas conversas entre 2015 e 2018 foram divulgadas pelo site "The Intercept Brasil" no último domingo, já lançou alguns des

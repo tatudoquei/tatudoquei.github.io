@@ -8,6 +8,7 @@ date: 2019-10-09 19:54:46
 pub_date: 2019-10-09 19:54:46
 time_added: 2019-12-03 22:21:40
 category: 
+tags: []
 ---
 
 Parque Nacional dos Lençóis Maranhenses está na lista do Programa de Parcerias de Investimento para ser concedido a iniciativa privada. Foto: Duda Menegassi/Wikiparques.

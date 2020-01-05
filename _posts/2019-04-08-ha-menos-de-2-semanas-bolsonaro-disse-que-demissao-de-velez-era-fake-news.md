@@ -8,6 +8,7 @@ date: 2019-04-08 14:25:00
 pub_date: 2019-04-08 14:25:00
 time_added: 2019-04-09 18:47:27
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/13/2019/01/02/o-presidente-jair-bolsonaro-psl-empossa-o-colombiano-naturalizado-brasileiro-ricardo-velez-rodriguez-como-ministro-da-educacao-no-palacio-do-planalto-em-brasilia-1546461609175_v2_615x300.jpg
 ---
 

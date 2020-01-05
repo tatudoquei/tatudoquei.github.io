@@ -8,6 +8,7 @@ date: 2019-03-27 17:10:55
 pub_date: 2019-03-27 17:10:55
 time_added: 2019-03-30 09:45:28
 category: 
+tags: []
 image: https://i1.wp.com/cartacampinas.com.br/wordpress/wp-content/uploads/bolsonaro_12-foto-jose-cruz-agencia-brasil-B.jpg?fit=600%2C375&ssl=1
 ---
 

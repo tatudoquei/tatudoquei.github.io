@@ -8,6 +8,7 @@ date: 2019-05-30 16:01:39
 pub_date: 2019-05-30 16:01:39
 time_added: 2019-05-30 18:01:39
 category: 
+tags: []
 image: https://www.ft.com/__assets/creatives/brand-ft/icons/v3/open-graph.png
 ---
 

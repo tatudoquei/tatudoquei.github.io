@@ -8,6 +8,7 @@ date: 2019-08-06 13:12:00
 pub_date: 2019-08-06 13:12:00
 time_added: 2019-08-07 05:52:44
 category: 
+tags: []
 ---
 
 BRASÍLIA — O diretor interino do Instituto Nacional de Pesquisas Espaciais (Inpe), o oficial da Aeronáutica Darcton Policarpo Damião, não está convencido de que o aquecimento global causado pela ação humana é um fato comprovado.

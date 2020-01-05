@@ -8,6 +8,7 @@ date: 2019-06-13 02:30:00
 pub_date: 2019-06-13 02:30:00
 time_added: 2019-06-13 18:59:52
 category: 
+tags: []
 ---
 
 Aplicativo de mensagens Telegram já promoveu desafios

@@ -8,6 +8,7 @@ date: 2019-03-22 19:35:00
 pub_date: 2019-03-22 19:35:00
 time_added: 2019-03-26 18:45:15
 category: avisamos
+tags: []
 ---
 
 RIO — Indígenas em todo o país estão sem planos de assistência à saúde, e por isso podem correr risco de morte. A ameaça está ligada à falta de pagamento do governo federal a empresas que fornecem mantimentos básicos para o socorro médico próximo a aldeias.

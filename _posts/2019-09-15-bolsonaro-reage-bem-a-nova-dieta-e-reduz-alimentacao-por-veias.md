@@ -8,6 +8,7 @@ date: 2019-09-15 17:19:09
 pub_date: 2019-09-15 17:19:09
 time_added: 2019-09-15 19:19:09
 category: 
+tags: []
 image: https://files.nsctotal.com.br/s3fs-public/graphql-upload-files/bolsonaro%20-%20facebook%20reprodu%C3%A7%C3%A3o.jpg?WvInV5coa3USi4ZYEm58rEwpoUzc94YQ
 ---
 

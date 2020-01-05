@@ -8,6 +8,7 @@ date: 2019-05-17 13:58:00
 pub_date: 2019-05-17 13:58:00
 time_added: 2019-05-18 08:47:51
 category: 
+tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2019/05/yt-tumb-impeachmentbozo.png
 ---
 

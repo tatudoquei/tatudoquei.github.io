@@ -8,6 +8,7 @@ date: 2019-06-25 20:20:55
 pub_date: 2019-06-25 20:20:55
 time_added: 2019-06-27 05:56:02
 category: 
+tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2019/06/1020890-colniza_1287.jpg
 ---
 

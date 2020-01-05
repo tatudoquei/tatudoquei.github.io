@@ -8,6 +8,7 @@ date: 2019-07-26 10:11:50
 pub_date: 2019-07-26 10:11:50
 time_added: 2019-07-27 07:23:09
 category: 
+tags: []
 image: https://abrilveja.files.wordpress.com/2019/06/glenn-greenwald-2019-508.jpg.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

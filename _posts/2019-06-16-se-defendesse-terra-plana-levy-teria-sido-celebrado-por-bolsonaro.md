@@ -8,6 +8,7 @@ date: 2019-06-16 10:41:00
 pub_date: 2019-06-16 10:41:00
 time_added: 2019-06-18 16:01:43
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/04/bolsonaro_bic-615x300.jpg
 ---
 

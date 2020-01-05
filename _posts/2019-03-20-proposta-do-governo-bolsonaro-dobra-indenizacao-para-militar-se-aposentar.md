@@ -8,6 +8,7 @@ date: 2019-03-20 16:31:00
 pub_date: 2019-03-20 16:31:00
 time_added: 2019-03-22 08:01:51
 category: avisamos
+tags: []
 image: https://conteudo.imguol.com.br/c/interacao/facebook/uol-economia.png
 ---
 

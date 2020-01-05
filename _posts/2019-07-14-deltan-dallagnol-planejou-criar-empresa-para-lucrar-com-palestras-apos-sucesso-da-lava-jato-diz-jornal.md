@@ -8,6 +8,7 @@ date: 2019-07-14 11:34:00
 pub_date: 2019-07-14 11:34:00
 time_added: 2019-07-14 22:48:05
 category: 
+tags: []
 ---
 
 RIO - O procurador Deltan Dallagnol, coordenador da força-tarefa do Ministério Público Federal (MPF) responsável pela Lava-Jato em Curitiba, teria planejado montar uma empresa para proferir palestras e outros eventos com seu colega de equipe Roberson Pozzobon.

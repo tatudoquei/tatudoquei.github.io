@@ -8,6 +8,7 @@ date: 2019-07-05 10:32:50
 pub_date: 2019-07-05 10:32:50
 time_added: 2019-07-05 19:19:06
 category: 
+tags: []
 image: https://abrilveja.files.wordpress.com/2018/02/cunha-sergio-moro.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

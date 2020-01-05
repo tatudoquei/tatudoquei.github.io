@@ -8,6 +8,7 @@ date: 2019-02-18 10:24:00
 pub_date: 2019-02-18 10:24:00
 time_added: 2019-02-20 08:50:50
 category: avisamos
+tags: []
 ---
 
 Nas próximas semanas, a Justiça Eleitoral deverá se debruçar sobre as prestações de contas de campanha dos candidatos não vitoriosos na eleição de 2018 no Rio Grande do Sul.

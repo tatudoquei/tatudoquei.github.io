@@ -8,6 +8,7 @@ date: 2019-07-14 02:00:00
 pub_date: 2019-07-14 02:00:00
 time_added: 2019-07-15 06:58:55
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/35/2016/03/02/midia-indoor-deficiente-deficiencia-cadeira-roda-cadeirante-acesso-acessibilidade-acessivel-adaptar-adaptado-adaptacao-movel-mobilidade-necessidade-fisico-pessoa-igualdade-1456927576650_615x300.jpg
 ---
 

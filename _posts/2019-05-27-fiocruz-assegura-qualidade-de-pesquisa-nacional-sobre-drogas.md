@@ -8,6 +8,7 @@ date: 2019-05-27 22:00:00
 pub_date: 2019-05-27 22:00:00
 time_added: 2019-05-30 09:03:21
 category: 
+tags: []
 image: http://portal.fiocruz.br/sites/portal.fiocruz.br/themes/portalnovo/images/indice.jpg
 ---
 

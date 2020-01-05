@@ -8,6 +8,7 @@ date: 2019-10-17 22:00:00
 pub_date: 2019-10-17 22:00:00
 time_added: 2019-11-03 09:21:04
 category: 
+tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Geraldo-Melo-Filho/ALTERNATES/LANDSCAPE_720/Geraldo%20Melo%20Filho
 ---
 

@@ -8,6 +8,7 @@ date: 2019-06-22 11:46:00
 pub_date: 2019-06-22 11:46:00
 time_added: 2019-06-25 05:17:48
 category: 
+tags: []
 ---
 
 BRASÍLIA - O presidente Jair Bolsonaro disse neste sábado que dificilmente haverá concursos públicos no Brasil nos "próximos poucos anos", tendo em vista as restrições do orçamento público.

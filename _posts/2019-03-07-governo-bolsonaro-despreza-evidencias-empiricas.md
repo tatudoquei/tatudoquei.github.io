@@ -8,6 +8,7 @@ date: 2019-03-07 11:22:00
 pub_date: 2019-03-07 11:22:00
 time_added: 2019-12-23 21:21:01
 category: refletimos
+tags: [ciência]
 image: https://www.nexojornal.com.br/incoming/imagens/O-economista-Claudio-Ferraz/ALTERNATES/LANDSCAPE_720/O%20economista%20Claudio%20Ferraz
 ---
 

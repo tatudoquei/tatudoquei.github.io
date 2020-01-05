@@ -8,6 +8,7 @@ date: 2019-12-03 01:38:50
 pub_date: 2019-12-03 01:38:50
 time_added: 2019-12-03 12:01:29
 category: 
+tags: []
 image: https://i0.wp.com/antropofagista.com.br/wp-content/uploads/2019/12/20190709160716_bfa775a0-6f42-49c7-a2d6-b5c48f714626.jpeg?fit=801%2C409&ssl=1
 ---
 

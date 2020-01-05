@@ -8,6 +8,7 @@ date: 2019-07-08 22:00:00
 pub_date: 2019-07-08 22:00:00
 time_added: 2019-07-10 19:29:10
 category: 
+tags: []
 ---
 
 DO OC – Após seis meses à frente do Ministério do Meio Ambiente, o ministro Ricardo Salles (Novo-SP) segue sendo cliente preferencial do nosso detector de agrocascatas.

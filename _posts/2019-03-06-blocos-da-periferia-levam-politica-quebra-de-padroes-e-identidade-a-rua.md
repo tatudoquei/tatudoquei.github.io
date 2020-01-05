@@ -8,6 +8,7 @@ date: 2019-03-06 01:00:00
 pub_date: 2019-03-06 01:00:00
 time_added: 2019-12-23 21:19:32
 category: resistimos
+tags: []
 image: https://f.i.uol.com.br/fotografia/2019/03/05/15518213275c7eea0facf5a_1551821327_3x2_md.jpg
 ---
 

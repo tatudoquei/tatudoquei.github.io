@@ -8,6 +8,7 @@ date: 2019-06-11 05:09:34
 pub_date: 2019-06-11 05:09:34
 time_added: 2019-06-11 07:09:34
 category: refletimos
+tags: [ciência]
 image: https://conteudo.imguol.com.br/c/noticias/c2/2019/06/05/pesquisador-da-fiocruz-1559765110255_v2_1920x1080.jpg
 ---
 

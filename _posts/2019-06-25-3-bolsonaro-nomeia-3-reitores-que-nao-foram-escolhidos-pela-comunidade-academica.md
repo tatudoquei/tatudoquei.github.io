@@ -8,6 +8,7 @@ date: 2019-06-25 17:32:02
 pub_date: 2019-06-25 17:32:02
 time_added: 2019-06-27 05:32:31
 category: 
+tags: []
 ---
 
 Para Flávia Calé, presidente da ANPG, passar por cima das escolhas da comunidade para a direção das universidades demonstra que os alicerces democráticos do País passam por um período de abalo Os dias que se seguiram entre a eleição e a nomeação da reitora da UFRJ, professora Denise Pires

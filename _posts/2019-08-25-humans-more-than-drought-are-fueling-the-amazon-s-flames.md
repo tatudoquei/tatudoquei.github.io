@@ -8,6 +8,7 @@ date: 2019-08-25 05:54:22
 pub_date: 2019-08-25 05:54:22
 time_added: 2019-08-25 07:54:22
 category: 
+tags: []
 image: https://media.wired.com/photos/5d5ed225ee69d100089ae10d/191:100/pass/Science_AmazonFire_RTS2NEBX.jpg
 ---
 

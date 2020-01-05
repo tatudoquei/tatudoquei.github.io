@@ -8,6 +8,7 @@ date: 2019-04-12 03:48:15
 pub_date: 2018-06-05 02:00:00
 time_added: 2019-04-12 03:48:15
 category: 
+tags: []
 image: http://conteudo.imguol.com.br/c/parceiros/9b/2018/03/14/a-partir-de-agora-orgaos-como-as-santas-casas-de-saude-poderao-comprovar-a-prestacao-de-servicos-por-meio-de-uma-declaracao-do-gestor-local-do-sistema-unico-de-saude-sus-1521067634091_v2_615x300.jpg
 ---
 

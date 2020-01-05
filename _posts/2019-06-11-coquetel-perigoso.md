@@ -8,6 +8,7 @@ date: 2019-06-11 04:49:03
 pub_date: 2019-06-11 04:49:03
 time_added: 2019-06-11 06:49:03
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b0/2019/04/12/copo-agua-1555099963738_v2_1920x1080.jpg
 ---
 

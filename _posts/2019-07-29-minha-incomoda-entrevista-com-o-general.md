@@ -8,6 +8,7 @@ date: 2019-07-29 18:32:00
 pub_date: 2019-07-29 18:32:00
 time_added: 2019-07-30 21:52:28
 category: 
+tags: []
 image: https://braziljournal.s3.amazonaws.com/thumbs/b505554b-a156-a342-f1f4-932a90e868a8.jpg?v=1564442797
 ---
 

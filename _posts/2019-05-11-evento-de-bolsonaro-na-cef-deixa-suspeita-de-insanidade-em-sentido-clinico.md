@@ -8,6 +8,7 @@ date: 2019-05-11 09:00:00
 pub_date: 2019-05-11 09:00:00
 time_added: 2019-05-12 10:39:31
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2019/05/bolsonarofundoazul-604x300.jpg
 ---
 

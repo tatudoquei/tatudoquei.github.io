@@ -8,6 +8,7 @@ date: 2019-09-27 09:41:00
 pub_date: 2019-09-27 09:41:00
 time_added: 2019-09-28 06:30:25
 category: 
+tags: []
 ---
 
 SÃO PAULO — O deputado federal Luiz Philippe de Orleans e Bragança deixou de integrar o diretório estadual do PSL em São Paulo, na última quinta-feira, após embate com o presidente nacional da sigla, Luciano Bivar.

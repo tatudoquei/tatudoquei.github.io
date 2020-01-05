@@ -8,6 +8,7 @@ date: 2019-08-27 14:49:29
 pub_date: 2019-08-27 14:49:29
 time_added: 2019-08-29 05:15:19
 category: 
+tags: []
 image: https://abrilveja.files.wordpress.com/2017/06/eduardo-bolsonaro-20170607-001.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

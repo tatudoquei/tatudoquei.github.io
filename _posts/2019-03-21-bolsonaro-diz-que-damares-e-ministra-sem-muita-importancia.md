@@ -8,6 +8,7 @@ date: 2019-03-21 23:21:47
 pub_date: 2019-03-21 23:21:47
 time_added: 2019-03-24 07:31:43
 category: 
+tags: []
 image: https://www.valor.com.br/sites/all/themes/basic/images/facebook/valor-big.jpg
 ---
 

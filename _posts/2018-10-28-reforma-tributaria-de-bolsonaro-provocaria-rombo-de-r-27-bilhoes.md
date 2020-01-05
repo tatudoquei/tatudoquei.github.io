@@ -8,6 +8,7 @@ date: 2018-10-28 20:12:47
 pub_date: 2018-10-24 00:00:00
 time_added: 2018-10-28 20:12:47
 category: 
+tags: [economia]
 image: https://f.i.uol.com.br/fotografia/2018/10/22/15402511555bce5e133ed1b_1540251155_3x2_rt.jpg
 ---
 

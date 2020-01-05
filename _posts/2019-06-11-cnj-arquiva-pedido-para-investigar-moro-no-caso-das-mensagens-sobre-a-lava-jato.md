@@ -8,6 +8,7 @@ date: 2019-06-11 22:20:08
 pub_date: 2019-06-11 22:20:08
 time_added: 2019-06-12 07:36:27
 category: 
+tags: []
 image: https://s2.glbimg.com/vqCYRLEoHoAuQN6Of16ey3fJIpQ=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/h/5/aY75ogQr2YUOJVCz3zpQ/2019-06-11t134248z-1401669162-rc18b041e6d0-rtrmadp-3-brazil-corruption-adriano-machado-reuters.jpg
 ---
 

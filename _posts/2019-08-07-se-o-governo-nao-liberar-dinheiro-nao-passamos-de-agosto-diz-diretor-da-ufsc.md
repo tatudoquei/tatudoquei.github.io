@@ -8,6 +8,7 @@ date: 2019-08-07 17:25:47
 pub_date: 2019-08-07 17:25:47
 time_added: 2019-08-07 19:25:47
 category: 
+tags: []
 image: https://files.nsctotal.com.br/s3fs-public/graphql-upload-files/UFSC-corte-or%C3%A7amento-Gabriel-Laim_0.jpg?FoEMhXdBFfVN1mx5ktNB3JuwOAglmTYT
 ---
 

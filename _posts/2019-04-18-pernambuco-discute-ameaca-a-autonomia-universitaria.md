@@ -8,6 +8,7 @@ date: 2019-04-18 16:02:37
 pub_date: 2019-04-18 16:02:37
 time_added: 2019-04-19 07:37:28
 category: 
+tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/04/UFPE.jpg
 ---
 

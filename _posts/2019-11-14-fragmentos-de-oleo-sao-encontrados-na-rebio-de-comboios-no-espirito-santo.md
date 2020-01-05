@@ -8,6 +8,7 @@ date: 2019-11-14 21:57:24
 pub_date: 2019-11-14 21:57:24
 time_added: 2019-11-16 09:23:18
 category: 
+tags: []
 ---
 
 As manchas de óleo que atingem o litoral do Nordeste há mais de dois meses chegaram à costa do Espírito Santo há uma semana. Ontem (13), foram encontrados fragmentos de óleo cru na Reserva Biológica (Rebio) de Comboios, local de desova de tartarugas.

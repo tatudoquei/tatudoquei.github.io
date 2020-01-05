@@ -8,6 +8,7 @@ date: 2019-07-29 17:29:00
 pub_date: 2019-07-29 17:29:00
 time_added: 2019-07-30 21:58:29
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/92/2019/06/13/o-presidente-jair-bolsonaro-durante-solenidade-de-lancamento-de-linha-de-credito-do-bndes-para-organizacoes-filantropicas-no-palacio-do-planalto-1560435550104_v2_615x300.jpg
 ---
 

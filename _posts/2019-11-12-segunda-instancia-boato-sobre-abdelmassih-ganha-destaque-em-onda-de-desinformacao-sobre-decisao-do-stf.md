@@ -8,6 +8,7 @@ date: 2019-11-12 02:23:48
 pub_date: 2019-11-12 02:23:48
 time_added: 2019-11-13 05:58:15
 category: 
+tags: []
 image: https://politica.estadao.com.br/blogs/estadao-verifica/wp-content/uploads/sites/690/2019/11/1415930513665.jpg
 ---
 

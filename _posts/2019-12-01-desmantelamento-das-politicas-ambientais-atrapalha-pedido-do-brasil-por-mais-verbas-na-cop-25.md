@@ -8,6 +8,7 @@ date: 2019-12-01 03:30:00
 pub_date: 2019-12-01 03:30:00
 time_added: 2019-12-03 00:24:15
 category: 
+tags: []
 ---
 
 SÃO PAULO — Tão ou mais complexa do que as metas de redução de emissão de gases do efeito estufa, a forma de pagar para que o mundo se adapte à nova realidade com baixo carbono vive fase decisiva.

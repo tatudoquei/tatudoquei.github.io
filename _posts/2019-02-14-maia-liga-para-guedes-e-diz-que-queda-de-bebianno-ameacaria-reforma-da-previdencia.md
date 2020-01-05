@@ -8,6 +8,7 @@ date: 2019-02-14 15:16:00
 pub_date: 2019-02-14 15:16:00
 time_added: 2019-02-16 00:48:43
 category: avisamos
+tags: []
 ---
 
 BRASÍLIA — O presidente da Câmara dos Deputados, Rodrigo Maia (DEM-RJ), ligou na manhã desta quinta-feira para o ministro da Economia, Paulo Guedes, para enviar um recado ao presidente Jair Bolsonaro: a possível queda da ministro Gustavo Bebianno, da Secretaria-Geral da Presidência, pode atra

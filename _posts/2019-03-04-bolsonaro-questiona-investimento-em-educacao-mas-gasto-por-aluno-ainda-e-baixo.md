@@ -8,6 +8,7 @@ date: 2019-03-04 15:54:00
 pub_date: 2019-03-04 15:54:00
 time_added: 2019-06-27 06:00:19
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23452425-7b4-a6c/FT1086A/652/67735689_RI-Rio-de-Janeiro-RJ-16-05-2017-Volta-as-aulas-na-escola-que-estudava-Maria-Eduarda-menina.jpg
 ---
 

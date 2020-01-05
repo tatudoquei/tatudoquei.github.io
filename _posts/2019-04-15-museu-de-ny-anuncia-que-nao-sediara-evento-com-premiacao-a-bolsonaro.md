@@ -8,6 +8,7 @@ date: 2019-04-15 15:55:00
 pub_date: 2019-04-15 15:55:00
 time_added: 2019-04-18 21:21:46
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/1f/2019/04/15/20fev2019---presidente-da-republica-jair-bolsonaro-grava-pronunciamento-1555356819975_v2_615x300.jpg
 ---
 

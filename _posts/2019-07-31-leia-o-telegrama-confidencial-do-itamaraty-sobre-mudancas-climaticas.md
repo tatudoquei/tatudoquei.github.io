@@ -8,6 +8,7 @@ date: 2019-07-31 14:00:00
 pub_date: 2019-07-31 14:00:00
 time_added: 2019-08-03 22:39:05
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/275/files/2019/07/7c6fde70e3421d3a91c7ccf69cc64ddb-550x300.jpg
 ---
 

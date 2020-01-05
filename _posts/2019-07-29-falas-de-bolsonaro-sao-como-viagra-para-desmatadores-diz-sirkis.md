@@ -8,6 +8,7 @@ date: 2019-07-29 22:00:00
 pub_date: 2019-07-29 22:00:00
 time_added: 2019-08-01 07:19:30
 category: 
+tags: []
 ---
 
 O jornalista e ex-deputado federal Alfredo Sirkis foi exonerado em maio do cargo de secretário-executivo do Fórum Brasileiro de Mudança do Clima pelo ex-colega de Câmara, Jair Bolsonaro (PSL-RJ).

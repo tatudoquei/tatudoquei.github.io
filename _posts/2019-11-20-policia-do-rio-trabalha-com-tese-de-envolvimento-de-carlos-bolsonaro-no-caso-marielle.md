@@ -8,6 +8,7 @@ date: 2019-11-20 21:51:45
 pub_date: 2019-11-20 21:51:45
 time_added: 2019-11-20 22:51:45
 category: 
+tags: []
 image: https://www.blogdokennedy.com.br/wp-content/themes/kennedy_2/images/kennedy.jpg
 ---
 

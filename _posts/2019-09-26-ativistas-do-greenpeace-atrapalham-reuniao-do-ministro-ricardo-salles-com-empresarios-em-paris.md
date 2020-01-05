@@ -8,6 +8,7 @@ date: 2019-09-26 14:19:12
 pub_date: 2019-09-26 14:19:12
 time_added: 2019-09-28 06:25:23
 category: 
+tags: []
 image: http://scd.br.rfi.fr/sites/brasil.filesrfi/imagecache/rfi_16x9_1024_578/sites/images.rfi.fr/files/aefimagesnew/aef_image/26092019-_a4h33861.jpg
 ---
 

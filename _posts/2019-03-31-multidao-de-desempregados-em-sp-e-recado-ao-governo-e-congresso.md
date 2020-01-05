@@ -8,6 +8,7 @@ date: 2019-03-31 05:53:56
 pub_date: 2019-03-31 05:53:56
 time_added: 2019-03-31 07:53:56
 category: 
+tags: []
 image: https://img.r7.com/images/emprego-prefeitura-26032019090151946?dimensions=600x315&crop_position=c
 ---
 

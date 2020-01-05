@@ -7,7 +7,8 @@ author: Tatu D'Oquei
 date: 2020-01-03 03:30:00
 pub_date: 2020-01-03 03:30:00
 time_added: 2020-01-03 23:26:54
-category: 
+category: avisamos
+tags: [educação, saúde]
 ---
 
 BRASÍLIA — O governo do presidente Jair Bolsonaro incluiu uma nova frente nas políticas adotadas para prevenção da gravidez precoce e sexo seguro entre adolescentes: a abstinência sexual .

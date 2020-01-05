@@ -8,6 +8,7 @@ date: 2019-04-06 00:00:00
 pub_date: 2019-04-06 00:00:00
 time_added: 2019-04-07 06:22:24
 category: 
+tags: []
 ---
 
 Dois incomodam muito mais A crise que se instalou no Ministério da Educação fez Jair Bolsonaro exigir, desde já, uma solução para a queda de braço que paralisou a cúpula da Apex.

@@ -8,6 +8,7 @@ date: 2019-03-21 08:52:00
 pub_date: 2019-03-21 08:52:00
 time_added: 2019-12-23 21:19:33
 category: refletimos
+tags: []
 ---
 
 Frente à articulação política do governo Bolsonaro na Câmara dos Deputados, o ministro da Casa Civil, Onyx Lorenzoni, foi enfático nesta quinta-feira (21) sobre a necessidade de um esforço conjunto para a aprovação da reforma da Previdência.

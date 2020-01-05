@@ -8,6 +8,7 @@ date: 2019-03-14 15:34:12
 pub_date: 2019-03-14 15:34:12
 time_added: 2019-03-18 20:02:55
 category: avisamos
+tags: []
 image: https://abrilexame.files.wordpress.com/2019/03/2019-03-14t145627z_2102610666_rc1e1ac2c780_rtrmadp_3_brazil-violence.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

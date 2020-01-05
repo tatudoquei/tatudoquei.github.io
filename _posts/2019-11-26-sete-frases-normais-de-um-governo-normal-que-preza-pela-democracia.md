@@ -8,6 +8,7 @@ date: 2019-11-26 09:04:00
 pub_date: 2019-11-26 09:04:00
 time_added: 2019-11-27 22:17:09
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/284/files/2019/11/thumb-2-615x300.jpg
 ---
 

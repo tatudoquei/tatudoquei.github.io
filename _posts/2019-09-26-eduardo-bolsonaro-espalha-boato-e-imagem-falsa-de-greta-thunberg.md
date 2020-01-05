@@ -8,6 +8,7 @@ date: 2019-09-26 09:18:00
 pub_date: 2019-09-26 09:18:00
 time_added: 2019-09-28 06:25:37
 category: 
+tags: []
 ---
 
 O deputado federal Eduardo Bolsonaro foi ao Twitter na noite desta quarta-feira para compartilhar uma imagem falsa e acusações contra a ativista sueca Greta Thunberg, de 16 anos.

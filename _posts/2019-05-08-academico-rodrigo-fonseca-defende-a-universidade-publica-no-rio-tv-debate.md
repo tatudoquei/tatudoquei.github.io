@@ -8,6 +8,7 @@ date: 2019-05-08 03:00:00
 pub_date: 2019-05-08 03:00:00
 time_added: 2019-05-18 08:47:44
 category: 
+tags: []
 ---
 
 O Acadêmico Rodrigo Nunes da Fonseca, membro afiliado eleito para o período 2017-2021, defendeu a universidade pública no Rio TV Debate. O programa, exibido pela Rio TV Câmara, em 29 de abril, abordou os Caminhos da Universidade Pública.

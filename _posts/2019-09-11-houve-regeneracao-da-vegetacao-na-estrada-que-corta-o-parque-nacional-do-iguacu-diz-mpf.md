@@ -8,6 +8,7 @@ date: 2019-09-11 00:27:48
 pub_date: 2019-09-11 00:27:48
 time_added: 2019-09-15 09:55:04
 category: 
+tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2019/09/PNI-e-Estrada-do-Colono-Foto-Marcos-Labanca-44.jpg
 ---
 

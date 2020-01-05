@@ -8,6 +8,7 @@ date: 2019-05-09 05:00:00
 pub_date: 2019-05-09 05:00:00
 time_added: 2019-05-22 06:28:44
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/epoca/23652043-c6e-a90/FT1086A/652/salles.jpg
 ---
 

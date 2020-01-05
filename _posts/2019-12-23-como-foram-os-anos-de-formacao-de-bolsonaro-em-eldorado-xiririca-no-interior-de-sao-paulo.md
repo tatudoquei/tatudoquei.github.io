@@ -8,6 +8,7 @@ date: 2019-12-23 21:15:15
 pub_date: 2018-07-27 07:00:00
 time_added: 2019-12-23 21:15:15
 category: refletimos
+tags: []
 ---
 
 Por volta das 11 horas de uma manhã de junho, a estrada esburacada que leva a Eldorado, no Vale do Ribeira, em São Paulo, estava vazia.

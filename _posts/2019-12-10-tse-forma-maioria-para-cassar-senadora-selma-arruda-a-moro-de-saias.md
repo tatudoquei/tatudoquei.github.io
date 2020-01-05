@@ -8,6 +8,7 @@ date: 2019-12-10 20:32:00
 pub_date: 2019-12-10 20:32:00
 time_added: 2019-12-15 00:31:08
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/fd/2019/12/10/de-manha-selma-arruda-vera-projeto-relatado-por-ela-votado-em-comissao-do-senado-a-noite-a-parlamentar-enfrenta-julgamento-no-qual-e-re-no-tse-1575969639970_v2_615x300.jpg
 ---
 

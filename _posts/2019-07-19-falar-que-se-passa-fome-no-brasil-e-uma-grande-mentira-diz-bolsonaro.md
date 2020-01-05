@@ -8,6 +8,7 @@ date: 2019-07-19 08:55:00
 pub_date: 2019-07-19 08:55:00
 time_added: 2019-07-19 22:58:34
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e3/2019/06/28/28jun2019---presidente-jair-bolsonaro-e-recepcionado-pelo-anfitriao-shinzo-abe-primeiro-ministro-do-japao-durante-encontro-do-g20-em-osaka-1561706061208_v2_615x300.jpg
 ---
 

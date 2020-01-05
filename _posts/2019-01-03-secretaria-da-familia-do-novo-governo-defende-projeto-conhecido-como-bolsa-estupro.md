@@ -8,6 +8,7 @@ date: 2019-01-03 11:15:00
 pub_date: 2019-01-03 11:15:00
 time_added: 2019-01-04 00:36:58
 category: avisamos
+tags: []
 ---
 
 BRASÍLIA - Advogada ativista contra o aborto, Angela Gandra Martins assumirá a Secretaria da Família no Ministério dos Direitos Humanos da gestão Jair Bolsonaro e defendeu, em entrevista exclusiva ao GLOBO, o projeto que prevê um auxílio financeiro para mulheres vítimas de estupro que decidi

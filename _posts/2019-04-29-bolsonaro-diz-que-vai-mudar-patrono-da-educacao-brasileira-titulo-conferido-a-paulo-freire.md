@@ -8,6 +8,7 @@ date: 2019-04-29 15:52:00
 pub_date: 2019-04-29 15:52:00
 time_added: 2019-04-30 19:36:25
 category: 
+tags: []
 ---
 
 BRASÍLIA — Em uma entrevista divulgada por vídeo nesta segunda-feira, o presidente Jair Bolsonaro afirmou que vai mudar o patrono da Educação brasileira, título concedido ao educador e filósofo Paulo Freire, que morreu em 1997.

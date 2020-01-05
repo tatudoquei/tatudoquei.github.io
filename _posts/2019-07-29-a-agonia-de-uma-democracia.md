@@ -8,6 +8,7 @@ date: 2019-07-29 20:12:00
 pub_date: 2019-07-29 20:12:00
 time_added: 2019-07-30 06:20:12
 category: 
+tags: []
 ---
 
 Uma democracia sem o estado de direito e legitimidade é uma farsa. Ela pode até dizer oficialmente que existe e que, a cada quatro anos, as urnas estão recebendo votos. Mas ela não deixa de ser uma farsa.

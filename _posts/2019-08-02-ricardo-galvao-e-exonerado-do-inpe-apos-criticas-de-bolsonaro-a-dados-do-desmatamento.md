@@ -8,6 +8,7 @@ date: 2019-08-02 10:10:21
 pub_date: 2019-08-02 10:10:21
 time_added: 2019-08-04 07:58:10
 category: 
+tags: []
 image: https://sustentabilidade.estadao.com.br/blogs/ambiente-se/wp-content/uploads/sites/92/2019/07/WhatsApp-Image-2019-07-20-at-10.55.58.jpeg
 ---
 

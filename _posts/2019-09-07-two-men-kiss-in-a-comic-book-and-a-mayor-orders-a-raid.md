@@ -8,6 +8,7 @@ date: 2019-09-07 16:33:28
 pub_date: 2019-09-07 16:33:28
 time_added: 2019-09-08 09:50:02
 category: 
+tags: []
 image: https://static01.nyt.com/images/2019/09/07/world/07brazil-kiss/07brazil-kiss-facebookJumbo.jpg
 ---
 

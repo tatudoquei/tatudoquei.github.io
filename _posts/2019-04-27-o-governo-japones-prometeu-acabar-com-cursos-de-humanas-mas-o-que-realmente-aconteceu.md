@@ -8,6 +8,7 @@ date: 2019-04-27 22:21:37
 pub_date: 2018-08-19 17:30:00
 time_added: 2019-04-27 22:21:37
 category: 
+tags: []
 image: https://www.gazetadopovo.com.br/ra/media/Pub/GP/p4/2018/08/19/Educacao/Imagens/Cortadas/Tokyo-R0r9IBO0cyxuhgHSNsYxZVI-1200x800@GP-Web.jpg
 ---
 

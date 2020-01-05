@@ -8,6 +8,7 @@ date: 2019-12-18 16:49:00
 pub_date: 2019-12-18 16:49:00
 time_added: 2019-12-23 11:15:12
 category: 
+tags: []
 ---
 
 O ex-presidente do Instituto Nacional de Pesquisas Espaciais (INPE) Ricardo Galvão foi escolhido uma das dez personalidades da Ciência do ano pela conceituada Revista Nature, como as que mais se importaram com a Ciência em 2019. A lista foi divulgada nesta terça-feira (17).

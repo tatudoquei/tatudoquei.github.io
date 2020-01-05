@@ -8,6 +8,7 @@ date: 2019-05-27 07:55:00
 pub_date: 2019-05-27 07:55:00
 time_added: 2019-05-27 21:30:27
 category: 
+tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/05/agrotoxicos_redes.jpg
 ---
 

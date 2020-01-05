@@ -8,6 +8,7 @@ date: 2019-08-30 23:35:50
 pub_date: 2018-07-09 10:58:00
 time_added: 2019-08-30 23:35:50
 category: 
+tags: []
 image: https://www.opopular.com.br/polopoly_fs/1.1569354.1531151831!/image/image.jpg_gen/derivatives/landscape_800/image.jpg
 ---
 

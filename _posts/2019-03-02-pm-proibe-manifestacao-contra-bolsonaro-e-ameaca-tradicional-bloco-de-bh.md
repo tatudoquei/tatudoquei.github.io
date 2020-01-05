@@ -8,6 +8,7 @@ date: 2019-03-02 00:47:18
 pub_date: 2019-03-02 00:47:18
 time_added: 2019-03-04 12:40:37
 category: avisamos
+tags: []
 image: https://bhaz.com.br/wp-content/uploads/2019/03/tchanzinho.jpg
 ---
 

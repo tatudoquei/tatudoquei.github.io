@@ -8,6 +8,7 @@ date: 2019-11-06 15:43:20
 pub_date: 2019-11-06 15:43:20
 time_added: 2019-11-08 20:53:59
 category: 
+tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/11/Molon_grandeexpediente_27.05.2013_zecaribeiro_site.jpg
 ---
 

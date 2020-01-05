@@ -8,6 +8,7 @@ date: 2019-07-24 23:57:00
 pub_date: 2019-07-24 23:57:00
 time_added: 2019-07-25 21:53:40
 category: 
+tags: []
 image: https://painel.blogfolha.uol.com.br/files/2019/01/d05d3697b7237e463c3dafbd5d7e34aad9f4b08a20890f733fabb2d62dfa60ee_5c2c1d1aa7b79.jpg
 ---
 

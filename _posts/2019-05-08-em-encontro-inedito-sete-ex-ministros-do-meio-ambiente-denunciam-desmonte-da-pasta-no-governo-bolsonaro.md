@@ -8,6 +8,7 @@ date: 2019-05-08 18:02:00
 pub_date: 2019-05-08 18:02:00
 time_added: 2019-05-09 22:45:06
 category: 
+tags: []
 ---
 
 SÃO PAULO - Em um encontro inédito, segundo os próprios integrantes, ex-ministros do Meio Ambiente se reuniram nesta quarta-feira para criticar o que classificaram de desmonte da estrutura da pasta sob o comando de Ricardo Salles.

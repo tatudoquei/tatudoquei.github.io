@@ -8,6 +8,7 @@ date: 2019-04-16 08:51:00
 pub_date: 2019-04-16 08:51:00
 time_added: 2019-04-18 22:21:10
 category: 
+tags: []
 ---
 
 BRASÍLIA — Aos 85 anos, Ana Maria Araújo Freire, viúva do educador Paulo Freire (1921-1997), diz que nenhum dos "Bolsonaros" leu a obra do marido para criticá-la.

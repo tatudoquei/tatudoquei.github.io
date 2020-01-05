@@ -8,6 +8,7 @@ date: 2019-07-29 10:30:00
 pub_date: 2019-07-29 10:30:00
 time_added: 2019-07-29 23:23:31
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/07/waiapi-615x300.jpg
 ---
 

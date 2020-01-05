@@ -8,6 +8,7 @@ date: 2019-06-04 16:03:00
 pub_date: 2019-06-04 16:03:00
 time_added: 2019-06-05 18:21:21
 category: 
+tags: []
 image: https://f.i.uol.com.br/fotografia/2019/06/04/15596821475cf6dc63050b4_1559682147_3x2_md.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-09-26 23:19:30
 pub_date: 2019-09-26 23:19:30
 time_added: 2019-09-28 06:31:43
 category: 
+tags: []
 ---
 
 Em 32 minutos, o presidente Jair Bolsonaro apresentou nesta segunda-feira suas principais ideias ao mundo na Assembleia Geral da ONU em Nova York.

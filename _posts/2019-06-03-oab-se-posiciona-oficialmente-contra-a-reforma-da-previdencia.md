@@ -8,6 +8,7 @@ date: 2019-06-03 17:59:05
 pub_date: 2019-06-03 17:59:05
 time_added: 2019-06-03 19:59:05
 category: 
+tags: []
 image: http://confetam.cut.org.br/system/images/fcc41f25c821ec1546882c7eac362dd5center.jpg
 ---
 

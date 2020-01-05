@@ -8,6 +8,7 @@ date: 2019-04-28 15:40:10
 pub_date: 2019-04-28 15:40:10
 time_added: 2019-04-29 18:52:22
 category: 
+tags: []
 image: https://s2.glbimg.com/-lD2i86M5D-x1_JpvBnfzxPmTt0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/4/x/RrSYBlRieN2HCpubCx2g/mapa-bioma-amazonia.gif
 ---
 

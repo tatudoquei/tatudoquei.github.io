@@ -8,6 +8,7 @@ date: 2019-01-09 03:00:00
 pub_date: 2019-01-09 03:00:00
 time_added: 2019-12-23 21:41:24
 category: refletimos
+tags: [ciência]
 image: https://conteudo.imguol.com.br/c/noticias/c0/2019/01/08/em-video-olavo-de-carvalho-contestou-teorias-consolidadas-da-fisica-1546982277221_v2_615x300.jpg
 ---
 

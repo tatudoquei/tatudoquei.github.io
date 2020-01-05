@@ -8,6 +8,7 @@ date: 2019-08-31 14:32:00
 pub_date: 2019-08-31 14:32:00
 time_added: 2019-09-02 22:08:11
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/54/2019/08/31/ana-maria-araujo-freire-viuva-do-educador-paulo-freire-1567279147486_v2_615x300.jpg
 ---
 

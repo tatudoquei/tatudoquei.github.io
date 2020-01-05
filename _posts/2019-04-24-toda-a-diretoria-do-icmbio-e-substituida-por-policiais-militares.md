@@ -8,6 +8,7 @@ date: 2019-04-24 12:40:00
 pub_date: 2019-04-24 12:40:00
 time_added: 2019-04-26 03:56:05
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23588075-a66-ffd/FT1086A/652/82144444_BSBBrasiliaBrasil10-04-2019PARicardo-Salles-ministro-do-Meio-Ambiente-fala-s.jpg
 ---
 

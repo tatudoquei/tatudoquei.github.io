@@ -8,6 +8,7 @@ date: 2018-10-30 15:10:00
 pub_date: 2018-10-30 15:10:00
 time_added: 2019-12-23 21:19:29
 category: avisamos
+tags: []
 image: http://conteudo.imguol.com.br/c/noticias/22/2018/10/30/30out2018---o-deputado-onyx-lorenzoni-gustavo-bebianno-ex-presidente-do-psl-e-paulo-guedes-futuro-ministro-durante-entrevista-coletiva-no-jardim-botanico-apos-reuniao-com-jair-bolsonaro-1540927927743_956x500.jpg
 ---
 

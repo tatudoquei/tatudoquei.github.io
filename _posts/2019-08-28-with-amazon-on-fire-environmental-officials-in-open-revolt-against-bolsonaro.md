@@ -8,6 +8,7 @@ date: 2019-08-28 14:09:36
 pub_date: 2019-08-28 14:09:36
 time_added: 2019-08-29 05:58:46
 category: 
+tags: []
 image: https://static01.nyt.com/images/2019/08/29/world/29brazil1/28brazil-facebookJumbo.jpg
 ---
 

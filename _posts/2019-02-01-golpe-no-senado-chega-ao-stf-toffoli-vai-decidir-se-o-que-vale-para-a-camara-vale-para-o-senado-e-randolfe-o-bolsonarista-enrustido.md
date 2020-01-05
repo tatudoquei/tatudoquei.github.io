@@ -8,6 +8,7 @@ date: 2019-02-01 22:54:00
 pub_date: 2019-02-01 22:54:00
 time_added: 2019-02-04 23:52:07
 category: avisamos
+tags: []
 image: http://www3.redetv.uol.com.br/blog/reinaldo/wp-content/uploads/2018/09/dias-toffoli-faz-um-bom-discurso-ao-tomar-posse-como-presidente-do-stf-que-seja-um-alento-depois-da-passagem-do-furacao-carmen.jpg
 ---
 

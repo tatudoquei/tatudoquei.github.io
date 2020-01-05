@@ -8,6 +8,7 @@ date: 2019-04-13 12:16:00
 pub_date: 2019-04-13 12:16:00
 time_added: 2019-04-15 06:15:19
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/42/2019/04/13/chefe-do-gsi-gabinete-de-seguranca-institucional-general-augusto-heleno-durante-evento-do-cob-comite-olimpico-do-brasil-em-sao-paulo-1555173204292_v2_615x300.jpg
 ---
 

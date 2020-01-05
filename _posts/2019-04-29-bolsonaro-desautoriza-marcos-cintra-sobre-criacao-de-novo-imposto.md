@@ -8,6 +8,7 @@ date: 2019-04-29 13:01:51
 pub_date: 2019-04-29 13:01:51
 time_added: 2019-04-29 20:30:02
 category: 
+tags: []
 ---
 
 São Paulo – O presidente Jair Bolsonaro desautorizou o secretário da Receita Federal, Marcos Cintra, na manhã desta segunda-feita sobre a criação de um novo imposto.

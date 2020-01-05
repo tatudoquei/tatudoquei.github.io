@@ -8,6 +8,7 @@ date: 2019-12-01 11:15:00
 pub_date: 2019-12-01 11:15:00
 time_added: 2019-12-08 12:33:42
 category: 
+tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/11/29-11-2019-bolsie-guedes-redes-1575054950.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-05-27 14:48:25
 pub_date: 2019-05-27 14:48:25
 time_added: 2019-06-02 14:44:28
 category: 
+tags: []
 image: https://s2.glbimg.com/mUU7s5fr28oc0XQKV_ldcZb3THY=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/n/c/Ui02hzTxeGGZFmMfqtfg/gasto-por-agrotoxico-por-producao.png
 ---
 

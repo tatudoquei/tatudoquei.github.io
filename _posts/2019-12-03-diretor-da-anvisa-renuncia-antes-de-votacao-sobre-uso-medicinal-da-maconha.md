@@ -8,6 +8,7 @@ date: 2019-12-03 00:10:12
 pub_date: 2019-12-03 00:10:12
 time_added: 2019-12-03 22:28:43
 category: 
+tags: []
 image: https://abrilexame.files.wordpress.com/2019/09/gettyimages-1134024584.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

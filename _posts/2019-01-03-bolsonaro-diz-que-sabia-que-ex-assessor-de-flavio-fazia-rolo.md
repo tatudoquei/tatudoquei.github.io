@@ -8,6 +8,7 @@ date: 2019-01-03 19:31:00
 pub_date: 2019-01-03 19:31:00
 time_added: 2019-01-05 09:36:32
 category: avisamos
+tags: []
 ---
 
 BRASÍlLIA — O presidente Jair Bolsonaro afirmou, em entrevista exibida pelo "SBT" nesta quinta-feira, que sabia que Fabricio Queiroz, ex-assessor do seu filho Flávio, vendia carros e "fazia rolo".

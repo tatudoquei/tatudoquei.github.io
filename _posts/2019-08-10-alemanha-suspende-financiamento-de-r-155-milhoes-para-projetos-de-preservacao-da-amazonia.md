@@ -8,6 +8,7 @@ date: 2019-08-10 09:55:00
 pub_date: 2019-08-10 09:55:00
 time_added: 2019-08-11 13:43:24
 category: 
+tags: []
 ---
 
 RIO — Em decisão que "reflete a grande preocupação com o aumento do desmatamento na Amazônia brasileira", a Alemanha congelou R$ 155 milhões para o financiamento de projetos de proteção da floresta.

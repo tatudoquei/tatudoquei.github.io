@@ -8,6 +8,7 @@ date: 2019-01-22 23:00:00
 pub_date: 2019-01-22 23:00:00
 time_added: 2019-01-24 21:21:13
 category: avisamos
+tags: []
 ---
 
 País suspende importações de cinco frigoríficos alegando critérios técnicos. Decisão pode ser recado do maior comprador de frango brasileiro para Bolsonaro, que quer transferir embaixada em Israel para Jerusalém.

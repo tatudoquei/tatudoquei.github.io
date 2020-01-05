@@ -8,6 +8,7 @@ date: 2019-11-20 22:30:12
 pub_date: 2019-11-20 22:30:12
 time_added: 2019-11-20 23:30:12
 category: 
+tags: []
 image: https://revistatrip.uol.com.br/upload/2017/12/5a3aa81f8e302/trip271-negras-stevens-social.jpg
 ---
 

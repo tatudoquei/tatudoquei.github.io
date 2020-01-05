@@ -8,6 +8,7 @@ date: 2019-04-25 04:56:00
 pub_date: 2019-04-25 04:56:00
 time_added: 2019-04-26 03:58:02
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2019/04/leoindiocarlucho-615x300.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-08-30 23:05:18
 pub_date: 2019-08-30 23:05:18
 time_added: 2019-09-02 22:04:08
 category: 
+tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/08/20190830_lideranca_cnpq.jpg
 ---
 

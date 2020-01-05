@@ -8,6 +8,7 @@ date: 2019-04-02 21:35:34
 pub_date: 2018-07-10 08:00:01
 time_added: 2019-04-02 21:35:34
 category: avisamos
+tags: [meio ambiente]
 image: https://www.valor.com.br/sites/default/files/imagecache/media_library_big_horizontal/gn/18/07/foto10bra-201-ambiente-a2.jpg
 ---
 

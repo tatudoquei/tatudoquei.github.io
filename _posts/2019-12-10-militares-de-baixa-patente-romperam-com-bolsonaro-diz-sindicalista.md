@@ -8,6 +8,7 @@ date: 2019-12-10 15:00:56
 pub_date: 2019-12-10 15:00:56
 time_added: 2019-12-23 11:17:00
 category: 
+tags: []
 image: https://apublica.org/wp-content/uploads/2019/12/militares-de-baixa-patente-romperam-com-bolsonaro-diz-sindicalista-img6.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-03-24 06:11:15
 pub_date: 2019-03-24 06:11:15
 time_added: 2019-03-24 07:11:15
 category: avisamos
+tags: []
 image: https://www.socioambiental.org/sites/blog.socioambiental.org/files/styles/twitter-card/public/blogs/09_rogerioassis-isa_rs20035.jpg?itok=XTFBsYY_
 ---
 

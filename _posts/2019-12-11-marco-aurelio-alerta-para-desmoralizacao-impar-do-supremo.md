@@ -8,6 +8,7 @@ date: 2019-12-11 06:51:14
 pub_date: 2016-12-07 03:24:27
 time_added: 2019-12-11 06:51:14
 category: 
+tags: []
 image: http://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2016/12/marcorenandida.jpg
 ---
 

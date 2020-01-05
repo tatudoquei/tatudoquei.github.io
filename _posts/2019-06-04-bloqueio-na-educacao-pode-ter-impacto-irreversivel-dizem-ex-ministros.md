@@ -8,6 +8,7 @@ date: 2019-06-04 08:45:00
 pub_date: 2019-06-04 08:45:00
 time_added: 2019-06-05 20:55:52
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e8/2019/06/04/os-ex-ministros-da-educacao-jose-goldemberg-governo-collor-fernando-haddad-governos-lula-e-dilma-renato-janine-ribeiro-governo-dilma-murilio-hingel-governo-itamar-franco-cristovam-buarque-1559675236012_v2_615x300.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-05-04 21:04:00
 pub_date: 2019-05-04 21:04:00
 time_added: 2019-05-07 06:29:29
 category: 
+tags: []
 image: https://f.i.uol.com.br/fotografia/2019/04/29/15565559625cc728bad500b_1556555962_3x2_xl.jpg
 ---
 

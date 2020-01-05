@@ -8,6 +8,7 @@ date: 2019-07-13 04:46:00
 pub_date: 2019-07-13 04:46:00
 time_added: 2019-07-14 22:48:09
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/1a/2019/07/13/joao-luiz-filgueiras-de-azevedo-presidente-do-cnpq-1563011178749_v2_615x300.jpg
 ---
 

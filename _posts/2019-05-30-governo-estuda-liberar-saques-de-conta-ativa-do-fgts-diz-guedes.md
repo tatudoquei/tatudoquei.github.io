@@ -8,6 +8,7 @@ date: 2019-05-30 15:22:27
 pub_date: 2019-05-30 15:22:27
 time_added: 2019-05-31 11:58:58
 category: 
+tags: []
 image: https://abrilveja.files.wordpress.com/2019/05/economia-paulo-guedes-novo-30052019-002.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

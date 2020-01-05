@@ -8,6 +8,7 @@ date: 2019-11-18 12:20:00
 pub_date: 2019-11-18 12:20:00
 time_added: 2019-11-18 22:52:39
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/08/queimadas_amazonia-615x300.jpg
 ---
 

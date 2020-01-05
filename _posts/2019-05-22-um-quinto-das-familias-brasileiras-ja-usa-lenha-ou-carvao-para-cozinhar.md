@@ -8,6 +8,7 @@ date: 2019-05-22 08:00:00
 pub_date: 2019-05-22 08:00:00
 time_added: 2019-05-26 20:50:35
 category: 
+tags: []
 ---
 
 RIO - Na pequena casa no alto da comunidade do Vale dos Eucaliptos, em Senador Vasconcelos, Zona Oeste do Rio, dona Jurani Mange, de 65 anos, mexe o arroz que cozinha lentamente no fogão à lenha improvisado.

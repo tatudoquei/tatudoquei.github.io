@@ -8,6 +8,7 @@ date: 2019-12-15 11:52:39
 pub_date: 2019-12-15 11:52:39
 time_added: 2019-12-15 20:01:47
 category: 
+tags: []
 image: http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2019/12/15/2019-12-14t233139z750039744rc2bvd928n6irtrmadp3climate-change-accord.JPG
 ---
 

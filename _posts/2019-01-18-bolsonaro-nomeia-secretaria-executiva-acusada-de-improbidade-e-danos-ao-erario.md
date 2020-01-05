@@ -8,6 +8,7 @@ date: 2019-01-18 09:50:00
 pub_date: 2019-01-18 09:50:00
 time_added: 2019-01-19 00:59:48
 category: avisamos
+tags: []
 ---
 
 BRASÍLIA – O presidente Jair Bolsonaro (PSL) nomeou como secretária-executiva do Ministério do Meio Ambiente, cargo equivalente ao número dois na hierarquia da pasta, uma ex-secretária estadual acusada de improbidade administrativa e danos aos cofres públicos durante sua passagem no governo

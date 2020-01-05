@@ -8,6 +8,7 @@ date: 2019-11-29 18:03:00
 pub_date: 2019-11-29 18:03:00
 time_added: 2019-12-01 00:35:16
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/11/marielle-franco-615x300.jpg
 ---
 

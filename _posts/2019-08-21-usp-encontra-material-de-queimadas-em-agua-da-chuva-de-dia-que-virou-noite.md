@@ -8,6 +8,7 @@ date: 2019-08-21 12:21:00
 pub_date: 2019-08-21 12:21:00
 time_added: 2019-08-22 09:25:46
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/54/2019/08/21/agua-chuva-coletada-no-dia-em-que-sao-paulo-virou-noite-em-plena-tarde-1566407769397_v2_615x300.jpg
 ---
 

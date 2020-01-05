@@ -8,6 +8,7 @@ date: 2019-06-24 20:38:41
 pub_date: 2019-06-24 20:38:41
 time_added: 2019-06-27 06:00:32
 category: 
+tags: []
 image: http://www.anpg.org.br/wp-content/uploads/2019/06/download1.jpg
 ---
 

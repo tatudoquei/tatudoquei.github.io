@@ -8,6 +8,7 @@ date: 2019-05-08 19:46:00
 pub_date: 2019-05-08 19:46:00
 time_added: 2019-05-09 22:42:45
 category: 
+tags: []
 ---
 
 A gestão do presidente Jair Bolsonaro (PSL) bloqueou nas últimas horas de forma generalizada bolsas de mestrado e doutorado oferecidas pela Capes (Coordenação de Aperfeiçoamento de Pessoal de Nível Superior).

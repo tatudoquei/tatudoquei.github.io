@@ -8,6 +8,7 @@ date: 2019-02-28 05:25:50
 pub_date: 2019-02-28 05:25:50
 time_added: 2019-12-23 21:21:00
 category: refletimos
+tags: []
 image: https://s2.glbimg.com/vV_BeOcRw8uQQnQGz1kcNa16w2c=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/q/s/Mq5IHSRpaFNzI6ZBvNTw/2019-02-23t160503z-691201056-rc172897fba0-rtrmadp-3-venezuela-politics.jpg
 ---
 

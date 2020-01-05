@@ -8,6 +8,7 @@ date: 2019-05-09 21:22:23
 pub_date: 2019-05-09 21:22:23
 time_added: 2019-05-09 22:48:56
 category: 
+tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2019/05/fcpzzb_abr_100920193781.jpg
 ---
 

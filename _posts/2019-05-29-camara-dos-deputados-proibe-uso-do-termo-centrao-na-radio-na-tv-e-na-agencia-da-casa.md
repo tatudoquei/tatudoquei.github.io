@@ -8,6 +8,7 @@ date: 2019-05-29 18:30:00
 pub_date: 2019-05-29 18:30:00
 time_added: 2019-05-30 17:52:20
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23689364-3d9-009/FT1086A/652/82805147_BSBBrasiliaBrasil22-05-2019Sessao-de-votacao-no-plenario-da-Camara-dos-Deputado.jpg
 ---
 

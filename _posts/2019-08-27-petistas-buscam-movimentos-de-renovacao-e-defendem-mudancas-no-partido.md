@@ -8,6 +8,7 @@ date: 2019-08-27 11:59:00
 pub_date: 2019-08-27 11:59:00
 time_added: 2019-08-29 05:15:25
 category: 
+tags: []
 ---
 
 SÃO PAULO - Três anos depois de o PT deixar o poder, filiados do partido começam a entrar em movimentos de renovação política como o RenovaBR.

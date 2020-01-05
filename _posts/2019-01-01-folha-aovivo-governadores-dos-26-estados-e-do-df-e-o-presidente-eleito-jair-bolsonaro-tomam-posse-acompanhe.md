@@ -8,6 +8,7 @@ date: 2019-01-01 17:00:00
 pub_date: 2019-01-01 17:00:00
 time_added: 2019-01-02 08:49:34
 category: avisamos
+tags: []
 image: https://f.i.uol.com.br/hunting/logo-folha-facebook-share.jpg
 ---
 

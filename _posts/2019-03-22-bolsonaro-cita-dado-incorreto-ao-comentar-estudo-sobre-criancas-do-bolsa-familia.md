@@ -8,6 +8,7 @@ date: 2019-03-22 15:11:00
 pub_date: 2019-03-22 15:11:00
 time_added: 2019-03-24 11:59:35
 category: avisamos
+tags: []
 ---
 
 BRASÍLIA — Em uma transmissão ao vivo em suas redes sociais na última segunda-feira, o presidente Jair Bolsonaro citou incorretamente um estudo do Ministério da Cidadania sobre o desenvolvimento intelectual de crianças beneficiárias do Bolsa Família.

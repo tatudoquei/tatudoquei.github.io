@@ -8,6 +8,7 @@ date: 2019-12-12 08:44:12
 pub_date: 2019-12-12 08:44:12
 time_added: 2019-12-14 15:56:05
 category: 
+tags: []
 image: https://educacao.estadao.com.br/blogs/blog-renata-cafardo/wp-content/uploads/sites/704/2019/12/Abraham-Weintraub_Foto_Adriano-Machado_Reuters.jpg
 ---
 

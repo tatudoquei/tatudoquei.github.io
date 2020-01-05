@@ -8,6 +8,7 @@ date: 2018-12-14 07:00:57
 pub_date: 2018-12-14 07:00:57
 time_added: 2018-12-15 08:05:30
 category: avisamos
+tags: []
 image: https://sustentabilidade.estadao.com.br/blogs/ambiente-se/wp-content/uploads/sites/92/2018/12/salles.jpg
 ---
 

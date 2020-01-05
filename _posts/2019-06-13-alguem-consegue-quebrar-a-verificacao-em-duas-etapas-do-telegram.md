@@ -8,6 +8,7 @@ date: 2019-06-13 15:14:04
 pub_date: 2019-06-13 15:14:04
 time_added: 2019-06-13 18:59:44
 category: 
+tags: []
 ---
 
 Telegram Brasil Se alguém lhe disser que pode invadir contas do Telegram protegidas com a Verificação em Duas Etapas, peça que eles mudem o GIF presente neste canal: A conta que controla esse canal tem a Verificação em Duas Etapas ativada, mas quem quer que seja capaz de "quebrá-la" não deve

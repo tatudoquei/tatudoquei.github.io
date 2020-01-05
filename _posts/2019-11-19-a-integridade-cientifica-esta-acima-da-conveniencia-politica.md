@@ -8,6 +8,7 @@ date: 2019-11-19 10:46:39
 pub_date: 2019-11-19 10:46:39
 time_added: 2019-11-20 22:01:18
 category: 
+tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2019/11/Galileo_facing_the_Roman_Inquisition.jpg
 ---
 

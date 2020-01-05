@@ -8,6 +8,7 @@ date: 2020-01-04 10:55:00
 pub_date: 2020-01-04 10:55:00
 time_added: 2020-01-05 09:45:37
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/11/2020/01/04/michelle-bolsonaro-durante-solenidade-em-comemoracao-ao-dia-internacional-do-voluntariado-no-palacio-do-planalto-1578149955812_v2_615x300.jpg
 ---
 

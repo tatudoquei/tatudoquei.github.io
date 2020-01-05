@@ -8,6 +8,7 @@ date: 2019-08-27 04:00:00
 pub_date: 2019-08-27 04:00:00
 time_added: 2019-08-29 05:22:29
 category: 
+tags: []
 ---
 
 O deputado Luiz Philippe de Orleans e Bragança, do PSL de São Paulo, atacará as minorias na nova edição de seu livro.

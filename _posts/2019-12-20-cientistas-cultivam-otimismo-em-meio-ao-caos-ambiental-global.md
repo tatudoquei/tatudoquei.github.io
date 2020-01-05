@@ -8,6 +8,7 @@ date: 2019-12-20 22:10:47
 pub_date: 2019-12-20 22:10:47
 time_added: 2019-12-21 19:23:47
 category: resistimos
+tags: [ciência, meio ambiente]
 image: https://jornal.usp.br/wp-content/uploads/2019/12/20191218_02_UspTalks_Futuro_Planeta.jpg
 ---
 

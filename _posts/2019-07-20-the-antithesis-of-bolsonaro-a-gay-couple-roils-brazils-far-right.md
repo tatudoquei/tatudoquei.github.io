@@ -8,6 +8,7 @@ date: 2019-07-20 09:00:11
 pub_date: 2019-07-20 09:00:11
 time_added: 2019-07-21 08:39:14
 category: 
+tags: []
 image: https://static01.nyt.com/images/2019/07/21/world/21brazil-greenwaldprint1/21brazil-greenwaldprint1-facebookJumbo.jpg
 ---
 

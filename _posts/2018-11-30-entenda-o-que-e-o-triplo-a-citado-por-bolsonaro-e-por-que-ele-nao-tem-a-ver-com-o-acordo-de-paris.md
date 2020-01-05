@@ -8,6 +8,7 @@ date: 2018-11-30 16:22:00
 pub_date: 2018-11-30 16:22:00
 time_added: 2018-12-04 00:10:52
 category: avisamos
+tags: []
 ---
 
 RIO - Ao afirmar que pediu ao atual governo para que o Brasil desistisse de sediar a Conferência do Clima da ONU — a COP 25 — em novembro de 2019, o presidente eleito, Jair Bolsonaro, mencionou o "Triplo A". — Houve participação minha nessa decisão.

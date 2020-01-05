@@ -8,6 +8,7 @@ date: 2019-01-22 07:00:00
 pub_date: 2019-01-22 07:00:00
 time_added: 2019-01-23 12:30:20
 category: avisamos
+tags: []
 image: https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ii7sY3KIYLFU/v0/1200x848.jpg
 ---
 

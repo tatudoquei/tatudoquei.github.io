@@ -8,6 +8,7 @@ date: 2019-07-09 02:30:00
 pub_date: 2019-07-09 02:30:00
 time_added: 2019-07-09 18:23:20
 category: 
+tags: []
 ---
 
 Em reunião em maio, com Paulo Guedes, Bolsonaro estabeleceu prazo de dois meses para o secretário especial da Receita Federal atender a solicitações de parlamentares

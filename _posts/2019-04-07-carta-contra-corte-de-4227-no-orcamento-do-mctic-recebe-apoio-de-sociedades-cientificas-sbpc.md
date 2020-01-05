@@ -8,6 +8,7 @@ date: 2019-04-07 22:00:00
 pub_date: 2019-04-07 22:00:00
 time_added: 2019-04-08 21:19:20
 category: 
+tags: []
 ---
 
 A carta divulgada pela Sociedade Brasileira para o Progresso da Ciência (SBPC), juntamente a outras cinco entidades científicas e acadêmicas nacionais, nesta segunda-feira, 1º de abril, criticando corte de 42,27% no orçamento do MCTIC, anunciado pelo Ministério da Economia na última sexta-fe

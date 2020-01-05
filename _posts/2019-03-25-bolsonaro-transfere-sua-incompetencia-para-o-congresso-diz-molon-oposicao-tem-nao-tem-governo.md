@@ -8,6 +8,7 @@ date: 2019-03-25 10:05:30
 pub_date: 2019-03-25 10:05:30
 time_added: 2019-03-26 18:44:59
 category: avisamos
+tags: []
 image: https://static.congressoemfoco.uol.com.br/2019/03/molon-sergio-frances-psb-e1553518798234.jpg
 ---
 

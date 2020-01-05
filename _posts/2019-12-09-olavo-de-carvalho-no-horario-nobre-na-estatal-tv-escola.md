@@ -8,6 +8,7 @@ date: 2019-12-09 16:54:00
 pub_date: 2019-12-09 16:54:00
 time_added: 2019-12-10 07:07:19
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/24127606-836-a3d/FT1086A/652/olavo-de-carvalho.jpg
 ---
 

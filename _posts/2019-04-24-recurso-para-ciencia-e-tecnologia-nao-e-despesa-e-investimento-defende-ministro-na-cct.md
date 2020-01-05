@@ -8,6 +8,7 @@ date: 2019-04-24 17:19:44
 pub_date: 2019-04-24 17:19:44
 time_added: 2019-05-01 09:07:36
 category: 
+tags: []
 image: https://www12.senado.leg.br/noticias/materias/2019/04/24/recurso-para-ciencia-e-tecnologia-nao-e-despesa-e-investimento-defende-ministro-na-cct/20190424_01033mo.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-08-22 16:09:46
 pub_date: 2019-08-22 16:09:46
 time_added: 2019-08-22 23:43:03
 category: 
+tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/08/posse.jpg
 ---
 

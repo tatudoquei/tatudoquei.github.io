@@ -8,6 +8,7 @@ date: 2019-12-03 22:40:00
 pub_date: 2019-12-03 22:40:00
 time_added: 2019-12-04 15:37:42
 category: 
+tags: []
 image: https://s.conjur.com.br/img/b/cristiano-zanin.jpeg
 ---
 

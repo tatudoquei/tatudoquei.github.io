@@ -8,6 +8,7 @@ date: 2019-07-21 07:47:38
 pub_date: 2014-08-19 17:39:00
 time_added: 2019-07-21 07:47:38
 category: 
+tags: []
 ---
 
 RIO — Dois dias depois de ser presa e levada para o quartel do Exército em Vila Velha, cidade próxima a capital Vitória, no Espírito Santo, a jornalista Míriam Leitão, na época militante do PCdoB, foi retirada da cela e escoltada para o pátio.

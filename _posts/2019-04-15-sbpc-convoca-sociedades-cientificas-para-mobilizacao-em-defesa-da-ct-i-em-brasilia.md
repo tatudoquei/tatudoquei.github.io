@@ -8,6 +8,7 @@ date: 2019-04-15 14:46:01
 pub_date: 2019-04-15 14:46:01
 time_added: 2019-04-21 08:18:34
 category: 
+tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2016/03/CongressoNacional.jpg
 ---
 

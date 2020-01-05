@@ -8,6 +8,7 @@ date: 2019-10-05 14:23:00
 pub_date: 2019-10-05 14:23:00
 time_added: 2019-10-06 14:15:36
 category: 
+tags: []
 ---
 
 BRASÍLIA — Após cancelamentos de espetáculos, seminário e festival de cinema em equipamentos federais, como unidades da Caixa Cultural e do CCBB do Rio de Janeiro, o presidente Jair Bolsonaro afirmou neste sábado que o veto a obras culturais não é "censura", mas uma medida para "preservar o

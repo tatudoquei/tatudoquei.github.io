@@ -8,6 +8,7 @@ date: 2019-02-19 17:45:53
 pub_date: 2019-02-19 17:45:53
 time_added: 2019-02-20 08:55:33
 category: avisamos
+tags: []
 image: https://img.jovempan.uol.com.br/uploads/2019/02/43819767.133702-1024x707.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2018-12-07 18:28:00
 pub_date: 2018-12-07 18:28:00
 time_added: 2018-12-08 15:51:28
 category: avisamos
+tags: []
 ---
 
 RIO — O presidente eleito Jair Bolsonaro confirmou nesta sexta-feria o repasse, por meio de cheques, do ex-assessor do deputado estadual e senador eleito Flávio Bolsonaro, Fabrício José de Queiroz a Michelle Bolsonaro, sua mulher.

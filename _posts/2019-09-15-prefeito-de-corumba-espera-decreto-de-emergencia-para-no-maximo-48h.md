@@ -8,6 +8,7 @@ date: 2019-09-15 07:32:57
 pub_date: 2019-09-15 07:32:57
 time_added: 2019-09-15 09:32:57
 category: 
+tags: []
 ---
 
 A fumaça das queimadas que ocorrem em Corumbá, distante a 419 km de Campo Grande, aumentou em 40% o número de atendimentos nos postos em decorrência de problemas respiratórios.

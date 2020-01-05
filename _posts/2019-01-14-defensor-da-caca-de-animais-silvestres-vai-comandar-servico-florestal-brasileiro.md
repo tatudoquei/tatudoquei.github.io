@@ -8,6 +8,7 @@ date: 2019-01-14 23:00:00
 pub_date: 2019-01-14 23:00:00
 time_added: 2019-08-01 07:19:37
 category: 
+tags: []
 image: https://www.hypeness.com.br/wp-content/uploads/2019/01/Valdir-Colatto-2.jpg
 ---
 

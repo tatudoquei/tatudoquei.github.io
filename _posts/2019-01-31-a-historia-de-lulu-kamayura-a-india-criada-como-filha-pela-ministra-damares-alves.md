@@ -8,6 +8,7 @@ date: 2019-01-31 09:17:00
 pub_date: 2019-01-31 09:17:00
 time_added: 2019-12-23 21:37:44
 category: refletimos
+tags: []
 ---
 
 Desde que a ministra da Mulher, da Família e dos Direitos Humanos, Damares Alves, assumiu uma cadeira no primeiro escalão do governo do presidente Jair Bolsonaro, uma ferida de 15 anos atrás voltou a arder no Xingu.

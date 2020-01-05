@@ -8,6 +8,7 @@ date: 2019-08-01 03:00:00
 pub_date: 2019-08-01 03:00:00
 time_added: 2019-08-03 18:52:04
 category: 
+tags: []
 ---
 
 Diante dos índices pornográficos de desmatamento na Amazônia no ano de 2019, Jair Bolsonaro e seus ministros Ricardo Salles (Meio Ambiente), Augusto Heleno (Segurança Institucional) e Ernesto Araújo (Relações Exteriores) convocaram uma entrevista coletiva na qual apresentaram uma mentira, uma

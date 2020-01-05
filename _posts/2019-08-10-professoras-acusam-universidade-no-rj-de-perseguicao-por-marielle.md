@@ -8,6 +8,7 @@ date: 2019-08-10 07:00:00
 pub_date: 2019-08-10 07:00:00
 time_added: 2019-08-11 07:24:46
 category: 
+tags: []
 ---
 
 Duas professoras da Universidade Estácio de Sá, um dos maiores grupos de ensino privado do país, acusaram o diretor do campus em que atuam, no Centro do Rio de Janeiro, de perseguição ideológica. Uma delas judicializou o caso.

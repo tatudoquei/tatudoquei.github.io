@@ -8,6 +8,7 @@ date: 2019-01-11 14:15:22
 pub_date: 2019-01-11 14:15:22
 time_added: 2019-12-23 21:15:16
 category: recuadas
+tags: [meio ambiente]
 image: https://img.estadao.com.br/resources/jpg/6/9/1547212367496.jpg
 ---
 

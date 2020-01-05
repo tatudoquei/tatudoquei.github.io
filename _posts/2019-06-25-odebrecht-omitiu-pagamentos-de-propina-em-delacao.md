@@ -8,6 +8,7 @@ date: 2019-06-25 22:01:00
 pub_date: 2019-06-25 22:01:00
 time_added: 2019-06-27 05:57:13
 category: 
+tags: []
 ---
 
 O chão do Brasil não foi o único a tremer em dezembro de 2016, quando a Odebrecht assinou com o Departamento de Justiça dos Estados Unidos (DoJ) e as Procuradorias-Gerais da República do Brasil e da Suíça um acordo de leniência em que revelava detalhes do maior caso de suborno estrangeiro j

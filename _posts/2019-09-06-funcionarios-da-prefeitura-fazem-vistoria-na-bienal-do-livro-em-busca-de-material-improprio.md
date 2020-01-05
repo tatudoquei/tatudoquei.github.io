@@ -8,6 +8,7 @@ date: 2019-09-06 10:40:00
 pub_date: 2019-09-06 10:40:00
 time_added: 2019-09-07 08:27:23
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23931625-85d-176/FT1086A/652/Seop-bienal.jpg
 ---
 

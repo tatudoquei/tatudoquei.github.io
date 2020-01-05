@@ -8,6 +8,7 @@ date: 2019-07-17 02:30:00
 pub_date: 2019-07-17 02:30:00
 time_added: 2019-07-18 22:42:28
 category: 
+tags: []
 ---
 
 RIO — O Brasil está vivendo um novo tipo de ditadura, que tem como pilares a disseminação de notícias falsas e sucessivos ataques à Educação.

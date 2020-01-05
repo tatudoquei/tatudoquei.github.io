@@ -8,6 +8,7 @@ date: 2019-04-17 16:49:00
 pub_date: 2019-04-17 16:49:00
 time_added: 2019-04-22 19:15:55
 category: 
+tags: []
 image: https://outraspalavras.net/wp-content/uploads/2019/04/quadro-retirantes-de-candido-portinari-og.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-06-10 00:39:15
 pub_date: 2019-06-10 00:39:15
 time_added: 2019-06-11 19:00:53
 category: 
+tags: []
 image: https://gauchadiariohome.files.wordpress.com/2019/06/15476476325c3f3a9008699_1547647632_3x2_md.jpg
 ---
 

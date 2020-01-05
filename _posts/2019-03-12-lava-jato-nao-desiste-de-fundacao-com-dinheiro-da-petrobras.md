@@ -8,6 +8,7 @@ date: 2019-03-12 18:42:00
 pub_date: 2019-03-12 18:42:00
 time_added: 2019-03-18 19:46:08
 category: avisamos
+tags: []
 image: https://conteudo.imguol.com.br/99/2016/11/22/cerimonia-na-sede-do-ministerio-publico-federal-em-curitiba-marcou-a-devolucao-de-r-204-milhoes-a-petrobras-1479808542561_615x300.jpg
 ---
 

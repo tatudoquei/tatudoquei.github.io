@@ -8,6 +8,7 @@ date: 2019-04-30 13:28:39
 pub_date: 2019-04-30 13:28:39
 time_added: 2019-04-30 19:35:56
 category: 
+tags: []
 ---
 
 O Ministério Público Militar (MPM) pediu à Justiça a soltura dos nove militares acusados do fuzilamento do músico Evaldo Rosa e do catador Luciano Macedo, em Guadalupe, na Zona Norte do Rio. O pedido faz parte de um habeas corpus impetrado pela defesa dos presos.

@@ -8,6 +8,7 @@ date: 2019-04-06 08:01:00
 pub_date: 2019-04-06 08:01:00
 time_added: 2019-04-07 06:21:01
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/04/herzog-615x300.jpg
 ---
 

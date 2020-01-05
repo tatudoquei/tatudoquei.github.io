@@ -8,6 +8,7 @@ date: 2019-09-05 14:19:00
 pub_date: 2019-09-05 14:19:00
 time_added: 2019-09-07 08:22:32
 category: 
+tags: []
 ---
 
 FORTALEZA - O ministro da Economia, Paulo Guedes, tentou minimizar, nesta quinta-feira, as declarações do presidente Jair Bolsonaro dirigidas à primeira-dama da França, Brigitte Macron.

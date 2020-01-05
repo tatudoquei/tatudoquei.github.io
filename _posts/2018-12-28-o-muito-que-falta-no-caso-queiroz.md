@@ -8,6 +8,7 @@ date: 2018-12-28 03:30:00
 pub_date: 2018-12-28 03:30:00
 time_added: 2019-12-23 21:41:23
 category: refletimos
+tags: [bandido bom]
 image: https://i.glbimg.com/og/ig/infoglobo1/f/original/blog/image_share/miriam-leitao.jpg
 ---
 

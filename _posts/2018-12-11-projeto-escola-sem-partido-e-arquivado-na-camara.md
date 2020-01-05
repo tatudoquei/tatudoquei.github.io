@@ -8,6 +8,7 @@ date: 2018-12-11 22:42:09
 pub_date: 2018-12-11 22:42:09
 time_added: 2019-12-23 21:19:31
 category: resistimos
+tags: []
 image: https://www.dw.com/image/16920864_304.jpg
 ---
 

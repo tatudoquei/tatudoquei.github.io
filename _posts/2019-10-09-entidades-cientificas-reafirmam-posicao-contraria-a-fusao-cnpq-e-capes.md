@@ -8,6 +8,7 @@ date: 2019-10-09 16:50:18
 pub_date: 2019-10-09 16:50:18
 time_added: 2019-10-10 02:09:15
 category: 
+tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2015/09/Imagem_Bolsas_CNPQ_Capes-1024x662.png
 ---
 

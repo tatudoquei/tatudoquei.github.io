@@ -8,6 +8,7 @@ date: 2019-04-02 02:00:00
 pub_date: 2019-04-02 02:00:00
 time_added: 2019-04-02 21:35:46
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/d1/2019/01/03/exportacoes-brasileiras-de-carne-de-frango-1546546944938_750x421.png
 ---
 

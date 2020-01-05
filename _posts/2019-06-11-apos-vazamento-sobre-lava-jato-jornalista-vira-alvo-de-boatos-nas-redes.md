@@ -8,6 +8,7 @@ date: 2019-06-11 00:54:39
 pub_date: 2019-06-11 00:54:39
 time_added: 2019-06-12 21:04:01
 category: 
+tags: []
 image: https://politica.estadao.com.br/blogs/estadao-verifica/wp-content/uploads/sites/690/2019/06/greenwald-e-miranda.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-11-22 23:00:00
 pub_date: 2019-11-22 23:00:00
 time_added: 2019-11-25 07:00:25
 category: 
+tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Jovens-com-visores-de-realidade-virtual/alternates/LANDSCAPE_768/Jovens%20com%20visores%20de%20realidade%20virtual
 ---
 

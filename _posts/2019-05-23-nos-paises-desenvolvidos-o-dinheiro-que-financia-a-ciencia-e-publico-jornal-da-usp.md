@@ -8,6 +8,7 @@ date: 2019-05-23 22:00:00
 pub_date: 2019-05-23 22:00:00
 time_added: 2019-05-25 22:26:58
 category: 
+tags: []
 ---
 
 Para quem tem dúvida, os números esclarecem sem rodeios: no mundo desenvolvido, universidades e outras instituições de pesquisa são financiadas majoritariamente com recursos públicos – isso vale até mesmo para as universidades que cobram mensalidades.

@@ -8,6 +8,7 @@ date: 2019-04-20 06:57:26
 pub_date: 2018-09-12 12:31:00
 time_added: 2019-04-20 06:57:26
 category: 
+tags: []
 image: https://static.globalnoticias.pt/dn/image.aspx?brand=DN&type=generate&guid=4ac09bed-f52f-4a69-a9a5-4d79ca3b36fe&w=800&h=420&watermark=true&t=20180912123100
 ---
 

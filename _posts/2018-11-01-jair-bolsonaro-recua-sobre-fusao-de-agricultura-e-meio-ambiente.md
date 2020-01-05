@@ -8,6 +8,7 @@ date: 2018-11-01 19:19:21
 pub_date: 2018-11-01 19:19:21
 time_added: 2018-11-02 20:10:07
 category: recuadas
+tags: []
 image: https://static.poder360.com.br/2018/10/Bolsonaro-5749-1024x630.jpg
 ---
 

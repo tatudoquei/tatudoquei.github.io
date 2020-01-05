@@ -8,6 +8,7 @@ date: 2019-02-18 18:28:30
 pub_date: 2019-02-18 18:28:30
 time_added: 2019-12-23 21:37:47
 category: refletimos
+tags: []
 ---
 
 Na página 225, volume II, da extradição 356, processo julgado pelo Supremo Tribunal Federal em 1979, duas assinaturas apostas dão sinal verde para a extradição de Gustav Franz Wagner para a Alemanha.

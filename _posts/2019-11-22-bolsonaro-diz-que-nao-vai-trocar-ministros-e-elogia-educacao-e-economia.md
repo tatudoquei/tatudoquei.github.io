@@ -8,6 +8,7 @@ date: 2019-11-22 07:39:00
 pub_date: 2019-11-22 07:39:00
 time_added: 2019-11-23 10:16:49
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/8d/2019/07/30/o-presidente-jair-bolsonaro-no-palacio-da-alvorada-em-brasilia-apos-tomar-cafe-da-manha-com-o-presidente-da-camara-dos-deputados-rodrigo-maia-dem-1564524568060_v2_615x300.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-01-11 16:31:00
 pub_date: 2019-01-11 16:31:00
 time_added: 2019-12-23 21:41:24
 category: refletimos
+tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/01/LorenzoniMoscas_redes_07jan2019.jpg
 ---
 

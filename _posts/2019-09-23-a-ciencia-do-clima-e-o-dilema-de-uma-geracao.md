@@ -8,6 +8,7 @@ date: 2019-09-23 04:27:29
 pub_date: 2019-09-23 04:27:29
 time_added: 2019-09-23 06:27:29
 category: 
+tags: []
 ---
 
 Cada segundo perdido negando as mudanças climáticas é tempo que os adultos roubam dos jovens que sofrerão suas terríveis consequências Hoje, dia 20 de setembro, a Greve Global do Clima promove atividades em todo o mundo em defesa da justiça ambiental e do combate às mudanças climáticas.

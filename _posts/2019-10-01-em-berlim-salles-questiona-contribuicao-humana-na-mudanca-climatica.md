@@ -8,6 +8,7 @@ date: 2019-10-01 16:28:19
 pub_date: 2019-10-01 16:28:19
 time_added: 2019-10-03 07:41:46
 category: 
+tags: []
 ---
 
 Brasil | 01.10.2019 Ricardo Salles faz um giro internacional para tentar melhorar a imagem ambiental do Brasil Ministro do Meio Ambiente volta a ser alvo de protesto na capital alemã.

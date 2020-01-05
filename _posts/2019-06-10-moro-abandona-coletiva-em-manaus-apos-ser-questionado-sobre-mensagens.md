@@ -8,6 +8,7 @@ date: 2019-06-10 10:08:00
 pub_date: 2019-06-10 10:08:00
 time_added: 2019-06-11 05:52:54
 category: 
+tags: []
 image: http://emtempo.com.br/img/Facebook/150000/Moro---formato-facebook_00150042_0.jpg
 ---
 

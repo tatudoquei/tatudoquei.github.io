@@ -8,6 +8,7 @@ date: 2019-08-16 02:44:13
 pub_date: 2019-08-16 02:44:13
 time_added: 2019-08-18 23:22:04
 category: 
+tags: []
 ---
 
 De acordo com a liminar, despachada na quarta, 14, pelo juiz federal Hong Kou Hen, ‘não houve comprovação do interesse público’ para a concessão dos documentos diferenciados de viagem aos religiosos. O passaporte havia sido concedido pelo governo Bolsonaro no último dia 9.

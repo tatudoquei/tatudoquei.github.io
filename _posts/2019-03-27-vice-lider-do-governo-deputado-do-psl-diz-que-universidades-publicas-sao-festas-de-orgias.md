@@ -8,6 +8,7 @@ date: 2019-03-27 17:48:21
 pub_date: 2019-03-27 17:48:21
 time_added: 2019-03-30 09:38:40
 category: avisamos
+tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2019/03/bolsonaro-carlos-jordy-flavio-bolsonaro.jpg
 ---
 

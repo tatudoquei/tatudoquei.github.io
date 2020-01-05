@@ -8,6 +8,7 @@ date: 2018-12-09 14:00:27
 pub_date: 2018-12-09 14:00:27
 time_added: 2018-12-09 22:22:31
 category: avisamos
+tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2018/12/flavio-bolsonaro.png
 ---
 

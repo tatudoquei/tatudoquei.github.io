@@ -8,6 +8,7 @@ date: 2019-07-11 10:15:00
 pub_date: 2019-07-11 10:15:00
 time_added: 2019-07-12 06:09:45
 category: 
+tags: []
 ---
 
 BRASÍLIA — O jornalista Glenn Greenwald, fundador do site The Intercept Brasil, afirmou nesta quinta-feira, durante audiência na Comissão de Constituição e Justiça (CCJ) do Senado, que não irá entregar às autoridades as mensagens trocadas por procuradores e pelo ministro da Justiça, Serg

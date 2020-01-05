@@ -8,6 +8,7 @@ date: 2019-12-15 22:30:26
 pub_date: 2019-12-15 22:30:26
 time_added: 2019-12-06 21:09:33
 category: 
+tags: []
 ---
 
 Contrato Verde e Amarelo MP 905 favorece empresas ao mitigar o princípio da autuação vinculada dos auditores Raphael Miziara, Fabiano Coelho, Danilo Gonçalves Gaspar

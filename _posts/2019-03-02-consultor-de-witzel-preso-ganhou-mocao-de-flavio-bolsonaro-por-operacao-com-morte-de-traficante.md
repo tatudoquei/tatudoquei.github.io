@@ -8,6 +8,7 @@ date: 2019-03-02 03:45:00
 pub_date: 2019-03-02 03:45:00
 time_added: 2019-03-04 12:43:44
 category: avisamos
+tags: []
 ---
 
 Aos 57 anos, Flavio Pacca é um nome conhecido dentro da Polícia Civil e também fora dela.

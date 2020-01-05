@@ -8,6 +8,7 @@ date: 2019-04-25 08:49:00
 pub_date: 2019-04-25 08:49:00
 time_added: 2019-04-27 08:08:02
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23620887-cf8-625/FT1086A/652/80984227_BSBBrasiliaBrasil06-02-2019PAEleicoes-da-mesa-diretora-no-Senado-Federal.jpg
 ---
 

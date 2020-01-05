@@ -8,6 +8,7 @@ date: 2019-05-26 22:47:02
 pub_date: 2017-06-15 22:00:00
 time_added: 2019-05-26 22:47:02
 category: 
+tags: []
 image: http://f.i.uol.com.br/folha/mercado/images/1716587.jpeg
 ---
 

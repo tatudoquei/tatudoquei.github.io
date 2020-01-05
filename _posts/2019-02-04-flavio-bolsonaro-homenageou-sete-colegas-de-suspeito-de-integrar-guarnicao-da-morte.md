@@ -8,6 +8,7 @@ date: 2019-02-04 11:26:01
 pub_date: 2019-02-04 11:26:01
 time_added: 2019-02-04 23:44:15
 category: avisamos
+tags: []
 ---
 
 RIO - O senador Flávio Bolsonaro (PSL-RJ), enquanto ainda era deputado estadual pela Assembleia Legislativa do Rio (Alerj ), promoveu homenagens a sete companheiros de batalhão do ex-capitão da PM Adriano Magalhães da Nóbrega, apontado pelo Ministério Público do Rio (MP-RJ) como chefe da míl

@@ -8,6 +8,7 @@ date: 2019-07-11 20:42:11
 pub_date: 2019-07-11 20:42:11
 time_added: 2019-07-12 06:09:34
 category: 
+tags: []
 image: https://abrilveja.files.wordpress.com/2018/03/brasil-alberto-youssef-20180301-001.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

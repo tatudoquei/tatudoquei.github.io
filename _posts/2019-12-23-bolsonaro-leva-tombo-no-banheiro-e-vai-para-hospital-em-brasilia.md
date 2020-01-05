@@ -8,6 +8,7 @@ date: 2019-12-23 21:24:00
 pub_date: 2019-12-23 21:24:00
 time_added: 2019-12-24 02:01:30
 category: 
+tags: []
 ---
 
 BRASÍLIA - O presidente Jair Bolsonaro levou um tombo no banheiro na noite desta segunda-feira e foi levado para o Hospital das Forças Armadas em Brasília, onde está passando por exames. A informação sobre o acidente é de um auxiliar do presidente.

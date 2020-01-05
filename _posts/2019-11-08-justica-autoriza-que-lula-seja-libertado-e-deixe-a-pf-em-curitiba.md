@@ -8,6 +8,7 @@ date: 2019-11-08 15:23:00
 pub_date: 2019-11-08 15:23:00
 time_added: 2019-11-08 21:19:48
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/7f/2018/04/07/7abr2018---o-ex-presidente-luiz-inacio-lula-da-silva-discursa-para-a-militancia-em-frente-ao-sindicato-dos-metalurgicos-do-abc-em-sao-bernardo-grande-sao-paulo-1523115758878_v2_750x421.jpg
 ---
 

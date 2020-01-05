@@ -8,6 +8,7 @@ date: 2019-07-23 16:32:00
 pub_date: 2019-07-23 16:32:00
 time_added: 2019-07-24 19:34:58
 category: 
+tags: []
 ---
 
 BRASÍLIA — O diretor-geral da Agência Nacional de Petróleo (ANP), Décio Oddone, afirmou nesta terça-feira que o governo estuda permitir a venda fracionada de gás de cozinha aos consumidores e também do botijão parcialmente cheio.

@@ -8,6 +8,7 @@ date: 2019-11-18 06:42:00
 pub_date: 2019-11-18 06:42:00
 time_added: 2019-11-18 16:39:41
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2019/11/jogatomate-515x300.jpg
 ---
 

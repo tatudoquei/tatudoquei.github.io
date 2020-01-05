@@ -8,6 +8,7 @@ date: 2019-05-22 06:30:00
 pub_date: 2019-05-22 06:30:00
 time_added: 2019-05-26 23:09:12
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/sociedade/23684049-2cc-97b/FT1086A/652/shutterstock_746125774.jpg
 ---
 

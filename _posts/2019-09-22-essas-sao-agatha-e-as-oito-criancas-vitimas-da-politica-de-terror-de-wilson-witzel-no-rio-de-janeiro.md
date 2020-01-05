@@ -8,6 +8,7 @@ date: 2019-09-22 12:37:00
 pub_date: 2019-09-22 12:37:00
 time_added: 2019-09-24 19:11:56
 category: 
+tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/09/wwredes-1569120669.jpg
 ---
 

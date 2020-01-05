@@ -8,6 +8,7 @@ date: 2019-11-14 13:20:00
 pub_date: 2019-11-14 13:20:00
 time_added: 2019-11-16 09:13:26
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d8/2019/11/14/ditadura-militar-no-brasil-foi-de-1964-a-1985-1573751992203_v2_615x300.jpg
 ---
 

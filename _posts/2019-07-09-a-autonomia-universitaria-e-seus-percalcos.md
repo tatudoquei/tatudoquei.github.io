@@ -8,6 +8,7 @@ date: 2019-07-09 11:25:03
 pub_date: 2019-07-09 11:25:03
 time_added: 2019-07-12 06:10:03
 category: 
+tags: []
 image: http://www.comciencia.br/wp-content/uploads/2019/07/george-campos-drone2018.11.30_09.16.10.jpg
 ---
 

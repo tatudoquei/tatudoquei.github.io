@@ -8,6 +8,7 @@ date: 2019-06-03 01:03:00
 pub_date: 2019-06-03 01:03:00
 time_added: 2019-06-04 06:15:50
 category: 
+tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/05/23-05-19-samuel-redes-1558644708.jpg
 ---
 

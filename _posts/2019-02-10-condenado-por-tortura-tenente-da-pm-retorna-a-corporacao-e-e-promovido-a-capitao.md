@@ -8,6 +8,7 @@ date: 2019-02-10 03:30:00
 pub_date: 2019-02-10 03:30:00
 time_added: 2019-02-12 23:47:10
 category: avisamos
+tags: []
 ---
 
 RIO — Os caminhos e descaminhos da carreira de um oficial da Polícia Militar contam uma história que poderia ser uma lição para estudos de direito.

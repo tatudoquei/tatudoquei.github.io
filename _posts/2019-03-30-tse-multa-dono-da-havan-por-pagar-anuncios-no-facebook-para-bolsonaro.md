@@ -8,6 +8,7 @@ date: 2019-03-30 09:54:36
 pub_date: 2018-09-13 19:19:40
 time_added: 2019-03-30 09:54:36
 category: 
+tags: []
 image: https://abrilveja.files.wordpress.com/2018/09/brasil-politica-jair-bolsonaro-luciano-hang-20180913-0002-copy.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

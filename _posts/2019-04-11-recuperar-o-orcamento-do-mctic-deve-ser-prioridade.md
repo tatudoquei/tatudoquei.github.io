@@ -8,6 +8,7 @@ date: 2019-04-11 16:00:42
 pub_date: 2019-04-11 16:00:42
 time_added: 2019-04-12 03:47:23
 category: 
+tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/04/mcti-esplanada.jpg
 ---
 

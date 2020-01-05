@@ -8,6 +8,7 @@ date: 2019-11-15 00:58:00
 pub_date: 2019-11-15 00:58:00
 time_added: 2019-11-16 09:16:36
 category: 
+tags: []
 image: https://painel.blogfolha.uol.com.br/files/2019/03/joice.jpg
 ---
 

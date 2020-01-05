@@ -8,6 +8,7 @@ date: 2019-02-05 10:07:02
 pub_date: 2019-02-05 10:07:02
 time_added: 2019-12-23 21:19:31
 category: resistimos
+tags: []
 image: https://s2.glbimg.com/MsirBSyvaHKrDmplYfyuUEhfDiI=/1200x/smart/filters:cover():strip_icc()/s01.video.glbimg.com/x720/7354248.jpg
 ---
 

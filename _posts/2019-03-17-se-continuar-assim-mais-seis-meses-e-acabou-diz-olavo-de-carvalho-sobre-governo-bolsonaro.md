@@ -8,6 +8,7 @@ date: 2019-03-17 08:14:00
 pub_date: 2019-03-17 08:14:00
 time_added: 2019-12-23 21:21:02
 category: refletimos
+tags: []
 ---
 
 WASHINGTON — Horas antes da chegada de Jair Bolsonaroaos Estados Unidos, o filósofo Olavo de Carvalho afirmou neste sábado à noite que o presidente está de mãos amarradas por militares próximos com "mentalidade golpista" e advertiu sobre a necessidade de uma mudança de rumo para o governo n

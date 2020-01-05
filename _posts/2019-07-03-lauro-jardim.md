@@ -8,6 +8,7 @@ date: 2019-07-03 04:05:00
 pub_date: 2019-07-03 04:05:00
 time_added: 2019-07-04 22:25:39
 category: 
+tags: []
 image: https://s2.glbimg.com/jBTwwKedv8zvyHb556y2-BQrD2E=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/06/13/80364920_pr_-_lava_jato_-_politica_-_procurador_deltan_dallagnol_durante_coletiva_de_impre.jpg
 ---
 

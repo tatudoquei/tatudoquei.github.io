@@ -8,6 +8,7 @@ date: 2019-04-29 07:20:00
 pub_date: 2019-04-29 07:20:00
 time_added: 2019-04-30 19:36:39
 category: 
+tags: []
 image: https://s2.glbimg.com/5qAAl1nMBYK3_9Auf2Er2X5Nfpg=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/04/08/82101490_soc_-_o_novo_ministro_abraham_weintraub.jpg
 ---
 

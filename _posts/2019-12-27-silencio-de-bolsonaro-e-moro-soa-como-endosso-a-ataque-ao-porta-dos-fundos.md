@@ -8,6 +8,7 @@ date: 2019-12-27 03:36:00
 pub_date: 2019-12-27 03:36:00
 time_added: 2019-12-28 11:20:58
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f1/2019/12/26/bolsonaro-e-moro-1577392609704_v2_615x300.jpg
 ---
 

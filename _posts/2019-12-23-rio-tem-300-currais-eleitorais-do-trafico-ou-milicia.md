@@ -8,6 +8,7 @@ date: 2019-12-23 21:15:15
 pub_date: 2018-09-09 02:30:00
 time_added: 2019-12-23 21:15:15
 category: refletimos
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23052747-ac1-196/FT1086A/652/GetContent6.jpg
 ---
 

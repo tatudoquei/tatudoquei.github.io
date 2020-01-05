@@ -8,6 +8,7 @@ date: 2019-06-05 00:25:36
 pub_date: 2019-06-05 00:25:36
 time_added: 2019-06-04 20:28:35
 category: 
+tags: []
 image: https://extra.globo.com/incoming/23717194-9fb-47a/w976h550-PROP/cadeirinha.jpg
 ---
 

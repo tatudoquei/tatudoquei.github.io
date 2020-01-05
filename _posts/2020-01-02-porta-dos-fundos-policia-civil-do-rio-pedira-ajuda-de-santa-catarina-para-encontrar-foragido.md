@@ -8,6 +8,7 @@ date: 2020-01-02 15:20:00
 pub_date: 2020-01-02 15:20:00
 time_added: 2020-01-03 20:45:23
 category: 
+tags: []
 ---
 
 RIO — A Polícia Civil do Rio de Janeiro vai pedir ajuda da corporação de Santa Catarina para localizar o economista e empresário Eduardo Fauzi Richard Cerquise, de 41 anos, suspeito de ser um dos autores do ataque à sede da produtora de vídeos Porta dos Fundos, no Humaitá, Zona Sul do Rio.

@@ -8,6 +8,7 @@ date: 2019-07-08 22:00:00
 pub_date: 2019-07-08 22:00:00
 time_added: 2019-07-09 18:23:03
 category: 
+tags: []
 ---
 
 A Polícia Federal ainda não esclareceu: Glenn Greenwald, do site Intercept, está sob investigação? A resposta é importante porque dirá a quanto estamos do estado policial.

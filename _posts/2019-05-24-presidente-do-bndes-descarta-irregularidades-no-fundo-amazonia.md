@@ -8,6 +8,7 @@ date: 2019-05-24 02:54:00
 pub_date: 2019-05-24 02:54:00
 time_added: 2019-05-26 20:52:51
 category: 
+tags: []
 image: http://imagens.ebc.com.br/fvt1F1MYCWt07QSQy7lPsHDVZCo=/754x0/smart/http:/agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/jfcrz_abr_03041913776df.jpg?itok=2DAc6ZzN
 ---
 

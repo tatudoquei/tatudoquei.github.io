@@ -8,6 +8,7 @@ date: 2018-11-02 18:28:04
 pub_date: 2018-11-02 18:28:04
 time_added: 2018-11-03 13:56:39
 category: 
+tags: [fake news]
 image: https://abrilexame.files.wordpress.com/2018/10/whatsapp-fake-news.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

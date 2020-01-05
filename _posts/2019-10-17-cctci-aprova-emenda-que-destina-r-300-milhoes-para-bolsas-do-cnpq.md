@@ -8,6 +8,7 @@ date: 2019-10-17 15:00:10
 pub_date: 2019-10-17 15:00:10
 time_added: 2019-10-17 20:31:23
 category: 
+tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/10/CCCCCC12939103.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-10-07 13:41:00
 pub_date: 2019-10-07 13:41:00
 time_added: 2019-10-10 01:46:00
 category: 
+tags: []
 ---
 
 RIO — A Justiça Federal derrubou, por liminar, na tarde desta segunda-feira, a portaria em que o ministro Osmar Terra suspendeu o edital BRDE/FSA-PRODAV – TVs Públicas – 2018 por conter linhas com conteúdo LGBT.

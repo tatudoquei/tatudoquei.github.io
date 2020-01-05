@@ -8,6 +8,7 @@ date: 2019-05-09 11:00:00
 pub_date: 2019-05-09 11:00:00
 time_added: 2019-05-10 12:17:04
 category: 
+tags: []
 image: https://cdn.theatlantic.com/assets/media/img/2019/05/WEL_Foer_CEUopenerUSETHIS/facebook.jpg?1557334488
 ---
 

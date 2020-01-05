@@ -8,6 +8,7 @@ date: 2019-08-20 10:14:55
 pub_date: 2019-08-20 10:14:55
 time_added: 2019-08-22 08:54:59
 category: 
+tags: []
 ---
 
 “Se a principal agência de financiamento científico do Brasil não receber mais dinheiro em breve, os jovens pesquisadores deixarão de ser pagos”, alerta a revista britânica.

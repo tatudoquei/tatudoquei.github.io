@@ -8,6 +8,7 @@ date: 2019-07-22 16:00:38
 pub_date: 2019-07-22 16:00:38
 time_added: 2019-07-23 15:23:37
 category: 
+tags: []
 ---
 
 Brasil | 22.07.2019 Estado de São Paulo é o que tem mais vagas ociosas: 488 Oito meses após encerramento de parceria que garantia 8 mil médicos cubanos, programa federal ainda não conseguiu preencher 2.149 vagas, prejudicando o atendimento básico em 705 municípios. O Brasil tem hoje 2.

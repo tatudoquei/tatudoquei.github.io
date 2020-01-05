@@ -8,6 +8,7 @@ date: 2018-12-04 18:22:00
 pub_date: 2018-12-04 18:22:00
 time_added: 2018-12-05 07:55:33
 category: avisamos
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/80/2018/11/23/mais-medicos---medicos-cubanos-no-primeiro-dia-de-curso-para-trabalharem-no-brasil-em-2013-1543011409502_v2_615x300.jpg
 ---
 

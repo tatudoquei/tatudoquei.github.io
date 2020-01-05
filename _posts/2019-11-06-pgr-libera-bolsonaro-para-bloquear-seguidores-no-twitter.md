@@ -8,6 +8,7 @@ date: 2019-11-06 21:28:54
 pub_date: 2019-11-06 21:28:54
 time_added: 2019-11-08 19:55:11
 category: 
+tags: []
 image: https://abrilveja.files.wordpress.com/2018/08/economia-twitter-20180802-003.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

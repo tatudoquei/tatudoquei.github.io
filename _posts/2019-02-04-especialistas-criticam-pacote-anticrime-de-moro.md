@@ -8,6 +8,7 @@ date: 2019-02-04 22:21:07
 pub_date: 2019-02-04 22:21:07
 time_added: 2019-12-23 21:37:45
 category: refletimos
+tags: []
 image: https://www.valor.com.br/sites/all/themes/basic/images/facebook/valor-big.jpg
 ---
 

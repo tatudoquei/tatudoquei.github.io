@@ -8,6 +8,7 @@ date: 2019-11-21 21:10:40
 pub_date: 2019-11-21 21:10:40
 time_added: 2019-11-21 22:10:40
 category: 
+tags: []
 image: https://www.socioambiental.org/sites/blog.socioambiental.org/files/styles/twitter-card/public/nsa/reproducao_youtube.jpg?itok=cgilC5-O
 ---
 

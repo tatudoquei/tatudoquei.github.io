@@ -8,6 +8,7 @@ date: 2019-03-27 21:38:43
 pub_date: 2019-03-27 21:38:43
 time_added: 2019-03-29 07:18:14
 category: avisamos
+tags: []
 image: https://jornal.usp.br/wp-content/uploads/2018/07/20180724_00_pesquisadora.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-11-11 20:29:01
 pub_date: 2019-11-11 20:29:01
 time_added: 2019-11-12 06:54:36
 category: 
+tags: []
 ---
 
 O pedido, feito nesta segunda-feira (11), veio através de uma ação civil pública assinada por Ramiro Rockenbach, procurador da República. Rockenbach cita a Carta de Recife para alegar que nada está sendo feito.

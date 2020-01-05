@@ -8,6 +8,7 @@ date: 2019-04-26 08:08:00
 pub_date: 2019-04-26 08:08:00
 time_added: 2019-04-27 09:51:31
 category: 
+tags: []
 ---
 
 Foram necessários 276 caracteres para que o autor de ficção científica Ale Santos, morador de Guaratinguetá (SP), saísse do anonimato e angariasse uma multidão seguidores no Twitter.

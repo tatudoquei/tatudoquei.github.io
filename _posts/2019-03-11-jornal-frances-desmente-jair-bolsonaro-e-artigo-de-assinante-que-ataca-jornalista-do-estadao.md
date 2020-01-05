@@ -8,6 +8,7 @@ date: 2019-03-11 22:19:00
 pub_date: 2019-03-11 22:19:00
 time_added: 2019-12-23 21:21:01
 category: refletimos
+tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/03/11-03-2019-jair-twitter-1552337688.jpg
 ---
 

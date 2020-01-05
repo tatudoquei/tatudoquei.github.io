@@ -8,6 +8,7 @@ date: 2019-05-13 16:57:00
 pub_date: 2019-05-13 16:57:00
 time_added: 2019-05-16 19:06:48
 category: 
+tags: []
 ---
 
 O presidente Jair Bolsonaro afirmou, nesta segunda-feira (13), que o governo federal vai rever todas as Normas Regulamentadoras (NRs) de segurança e saúde no trabalho do país.

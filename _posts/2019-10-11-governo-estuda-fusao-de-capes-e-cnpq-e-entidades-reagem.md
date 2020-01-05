@@ -8,6 +8,7 @@ date: 2019-10-11 12:41:00
 pub_date: 2019-10-11 12:41:00
 time_added: 2019-10-16 20:14:12
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/24003039-645-d8a/FT1086A/652/85059922_BRASILBrasilia-DF07-10-2019Fachada-da-antiga-sede-do-CNPq-hoje-um-predio-abandonad.jpg
 ---
 

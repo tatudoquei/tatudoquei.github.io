@@ -8,6 +8,7 @@ date: 2019-06-14 02:00:00
 pub_date: 2019-06-14 02:00:00
 time_added: 2019-06-15 08:50:14
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/da/2019/06/13/mariana-delorme-da-uff-1560422952651_v2_615x300.jpg
 ---
 

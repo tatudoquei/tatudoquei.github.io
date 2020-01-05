@@ -8,6 +8,7 @@ date: 2019-05-24 12:30:48
 pub_date: 2019-05-24 12:30:48
 time_added: 2019-05-26 18:37:19
 category: 
+tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2019/05/flavio-bolsonaro-910x482.png
 ---
 

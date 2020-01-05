@@ -8,6 +8,7 @@ date: 2018-12-07 11:37:00
 pub_date: 2018-12-07 11:37:00
 time_added: 2019-12-23 21:15:16
 category: refletimos
+tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/indigenas_UesleiMarcelino_reuters.jpg/ALTERNATES/LANDSCAPE_720/indigenas_UesleiMarcelino_reuters.jpg
 ---
 

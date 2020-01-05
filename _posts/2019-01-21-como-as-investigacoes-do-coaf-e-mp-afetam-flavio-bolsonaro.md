@@ -8,6 +8,7 @@ date: 2019-01-21 17:20:00
 pub_date: 2019-01-21 17:20:00
 time_added: 2019-12-23 21:41:25
 category: refletimos
+tags: [bandido bom]
 image: https://www.nexojornal.com.br/incoming/imagens/Fl%C3%A1vio-Bolsonaro/ALTERNATES/LANDSCAPE_720/Fl%C3%A1vio%20Bolsonaro
 ---
 

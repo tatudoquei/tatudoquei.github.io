@@ -8,6 +8,7 @@ date: 2019-09-04 22:57:32
 pub_date: 2018-05-09 15:56:31
 time_added: 2019-09-04 22:57:32
 category: 
+tags: []
 image: https://apublica.org/wp-content/uploads/2018/05/equipe-lava-jato-mpf.jpg
 ---
 

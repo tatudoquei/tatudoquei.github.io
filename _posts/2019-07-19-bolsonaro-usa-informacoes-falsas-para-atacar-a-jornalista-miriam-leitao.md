@@ -8,6 +8,7 @@ date: 2019-07-19 13:07:00
 pub_date: 2019-07-19 13:07:00
 time_added: 2019-07-21 07:47:16
 category: 
+tags: []
 ---
 
 RIO — Em café da manhã com jornalistas da mídia estrangeira, na manhã desta sexta-feira, o presidente Jair Bolsonaro usou informações falsas para atacar a colunista do GLOBO Míriam Leitão.

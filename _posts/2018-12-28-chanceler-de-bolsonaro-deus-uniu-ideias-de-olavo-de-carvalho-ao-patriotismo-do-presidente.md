@@ -8,6 +8,7 @@ date: 2018-12-28 12:44:37
 pub_date: 2018-12-28 12:44:37
 time_added: 2018-12-28 22:41:30
 category: avisamos
+tags: []
 image: https://ep00.epimg.net/brasil/imagenes/2018/12/27/politica/1545925083_475905_1545925505_rrss_normal.jpg
 ---
 

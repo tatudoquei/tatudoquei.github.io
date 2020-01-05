@@ -8,6 +8,7 @@ date: 2019-02-07 13:23:11
 pub_date: 2019-02-07 13:23:11
 time_added: 2019-12-23 21:37:45
 category: refletimos
+tags: [saúde]
 image: https://ep00.epimg.net/brasil/imagenes/2019/02/06/politica/1549488445_129358_1549490257_rrss_normal.jpg
 ---
 

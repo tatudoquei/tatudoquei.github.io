@@ -8,6 +8,7 @@ date: 2019-05-03 03:00:00
 pub_date: 2019-05-03 03:00:00
 time_added: 2019-05-04 07:00:41
 category: 
+tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/184B2/production/_106760599_medicos-familia.jpg
 ---
 

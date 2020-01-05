@@ -8,6 +8,7 @@ date: 2018-11-03 21:38:47
 pub_date: 2018-10-28 08:35:35
 time_added: 2018-11-03 21:38:47
 category: 
+tags: [fake news]
 image: https://brasil.elpais.com/especiais/2018/eleicoes-brasil/conversacoes-whatsapp/img/promo-og.jpg
 ---
 

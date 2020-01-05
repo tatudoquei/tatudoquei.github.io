@@ -8,6 +8,7 @@ date: 2019-05-17 08:15:20
 pub_date: 2019-05-17 08:15:20
 time_added: 2019-05-17 23:15:13
 category: 
+tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2019/05/BeFunky-collage-8.jpg
 ---
 

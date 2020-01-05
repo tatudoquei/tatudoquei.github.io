@@ -8,6 +8,7 @@ date: 2019-07-26 02:00:00
 pub_date: 2019-07-26 02:00:00
 time_added: 2019-07-27 18:12:09
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/3d/2018/07/26/fome-miseria-pobreza-faminto-prato-vazio-fila-espera-comida-campo-de-refugiados-1532638437546_v2_750x421.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-07-09 22:01:00
 pub_date: 2019-07-09 22:01:00
 time_added: 2019-07-11 18:52:46
 category: 
+tags: []
 ---
 
 RIO - Filho do presidente Jair Bolsonaro, o vereador Carlos Bolsonaro (PSC-RJ) relacionou tempo e clima, questões muito distintas, em post no Twitter, no último sábado.

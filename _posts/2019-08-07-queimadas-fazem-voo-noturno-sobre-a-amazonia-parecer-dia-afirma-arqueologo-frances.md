@@ -8,6 +8,7 @@ date: 2019-08-07 15:33:37
 pub_date: 2019-08-07 15:33:37
 time_added: 2019-08-08 21:57:18
 category: 
+tags: []
 image: http://scd.br.rfi.fr/sites/brasil.filesrfi/imagecache/rfi_16x9_1024_578/sites/images.rfi.fr/files/aef_image/tos.jpg
 ---
 

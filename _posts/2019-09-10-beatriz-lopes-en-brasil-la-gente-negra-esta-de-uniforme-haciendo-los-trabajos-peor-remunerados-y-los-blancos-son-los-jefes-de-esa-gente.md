@@ -8,6 +8,7 @@ date: 2019-09-10 23:14:00
 pub_date: 2019-09-10 23:14:00
 time_added: 2019-09-15 09:57:55
 category: 
+tags: []
 image: https://ladiaria.com.uy/media/photologue/photos/cache/p14f1-20190910-mg_article_main.jpg
 ---
 

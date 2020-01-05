@@ -8,6 +8,7 @@ date: 2019-05-07 00:36:13
 pub_date: 2019-05-07 00:36:13
 time_added: 2019-05-09 22:44:55
 category: refletimos
+tags: [ciência]
 ---
 
 Em nome da luta, justíssima, contra visões colonialistas do saber, crescem teorias que negam a possibilidade de conhecer o real. É uma tendência retrógrada, que favorece a pós-verdade, as “fake news” e projetos como os de Bolsonaro e Trump

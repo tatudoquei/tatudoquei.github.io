@@ -8,6 +8,7 @@ date: 2018-10-29 23:00:00
 pub_date: 2018-10-29 23:00:00
 time_added: 2019-12-23 21:19:29
 category: avisamos
+tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/14F8C/production/_104100958_desarmamento.jpg
 ---
 

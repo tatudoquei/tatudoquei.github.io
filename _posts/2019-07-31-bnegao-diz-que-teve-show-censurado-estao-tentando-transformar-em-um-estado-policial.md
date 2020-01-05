@@ -8,6 +8,7 @@ date: 2019-07-31 17:54:00
 pub_date: 2019-07-31 17:54:00
 time_added: 2019-08-01 22:05:00
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/tab/d4/2019/06/02/show-black-mantra--bnegao---festival-path-2019-1559519685045_v2_615x300.jpg
 ---
 

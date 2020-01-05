@@ -8,6 +8,7 @@ date: 2019-02-28 23:42:10
 pub_date: 2019-02-28 23:42:10
 time_added: 2019-12-23 21:15:17
 category: recuadas
+tags: [segurança]
 image: https://img.estadao.com.br/resources/jpg/0/4/1551397067640.jpg
 ---
 

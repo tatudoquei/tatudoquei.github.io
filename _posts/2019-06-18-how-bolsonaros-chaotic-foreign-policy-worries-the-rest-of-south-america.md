@@ -8,6 +8,7 @@ date: 2019-06-18 22:00:00
 pub_date: 2019-06-18 22:00:00
 time_added: 2019-06-19 19:08:56
 category: 
+tags: []
 image: https://www.americasquarterly.org/sites/default/files/bolsonaro_macri_top.jpg
 ---
 

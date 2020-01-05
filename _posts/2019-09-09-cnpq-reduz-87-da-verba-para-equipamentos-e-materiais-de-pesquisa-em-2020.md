@@ -8,6 +8,7 @@ date: 2019-09-09 02:30:00
 pub_date: 2019-09-09 02:30:00
 time_added: 2019-09-11 20:57:48
 category: 
+tags: []
 ---
 
 BRASÍLIA — O Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) vai perder 87% da verba de fomento à pesquisa em 2020, segundo a proposta orçamentária do governo.

@@ -8,6 +8,7 @@ date: 2019-06-04 07:58:00
 pub_date: 2019-06-04 07:58:00
 time_added: 2019-06-05 18:21:08
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23716127-95a-023/FT1086A/652/bolsonaro-marinha.jpg
 ---
 

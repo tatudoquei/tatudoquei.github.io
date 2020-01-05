@@ -8,6 +8,7 @@ date: 2018-12-05 13:32:00
 pub_date: 2018-12-05 13:32:00
 time_added: 2018-12-07 00:22:18
 category: avisamos
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/1a/2018/11/22/o-presidente-eleito-jair-bolsonaro-psl-disse-que-filho-dificilmente-sera-ministro-e-que-a-tendencia-e-o-assunto-morrer-1542887069062_v2_615x300.jpg
 ---
 

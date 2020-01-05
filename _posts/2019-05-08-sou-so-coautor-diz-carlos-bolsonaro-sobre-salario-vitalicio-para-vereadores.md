@@ -8,6 +8,7 @@ date: 2019-05-08 16:27:49
 pub_date: 2016-11-02 04:30:47
 time_added: 2019-05-08 16:27:49
 category: 
+tags: []
 image: http://politica.estadao.com.br/blogs/coluna-do-estadao/wp-content/uploads/sites/352/2016/11/carlos-bolsonaro-fabio-motta-estadao.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-11-06 23:00:00
 pub_date: 2019-11-06 23:00:00
 time_added: 2019-11-12 23:07:43
 category: 
+tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Toffoli2/ALTERNATES/LANDSCAPE_720/Toffoli
 ---
 

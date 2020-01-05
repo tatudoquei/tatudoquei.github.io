@@ -8,6 +8,7 @@ date: 2019-12-11 18:58:18
 pub_date: 2019-12-11 18:58:18
 time_added: 2019-12-11 19:58:18
 category: 
+tags: []
 image: https://api.time.com/wp-content/uploads/2019/12/featured-Greta-Thunberg-person-of-the-year-2019-01.jpg?quality=85&w=1200&h=628&crop=1
 ---
 

@@ -8,6 +8,7 @@ date: 2019-08-27 08:05:00
 pub_date: 2019-08-27 08:05:00
 time_added: 2019-08-29 05:16:00
 category: 
+tags: []
 ---
 
 RIO- A Petrobras registrou vazamento de óleo no mar após trincas terem sido identificadas no casco de uma plataforma a serviço da estatal na Bacia de Campos, no litoral do Estado do Rio, embora com operações paralisadas desde o ano passado.

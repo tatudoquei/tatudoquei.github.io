@@ -8,6 +8,7 @@ date: 2019-01-08 19:03:00
 pub_date: 2019-01-08 19:03:00
 time_added: 2019-06-13 19:03:44
 category: 
+tags: []
 ---
 
 BRASÍLIA — O Ministério do Meio Ambiente vai pedir à Controladoria-Geral da União (CGU) que faça auditoria no contrato de locação de carros do Ibama com a Companhia de Locação das Américas.

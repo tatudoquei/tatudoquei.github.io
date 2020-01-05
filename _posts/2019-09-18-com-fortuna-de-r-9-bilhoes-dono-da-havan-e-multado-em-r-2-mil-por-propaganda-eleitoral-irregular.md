@@ -8,6 +8,7 @@ date: 2019-09-18 22:30:00
 pub_date: 2019-09-18 22:30:00
 time_added: 2019-09-19 05:59:18
 category: 
+tags: []
 image: https://img.buzzfeed.com/buzzfeed-static/static/2019-09/18/22/enhanced/bcfc029503eb/original-872-1568845065-2.jpg?crop=1114:583;166,21
 ---
 

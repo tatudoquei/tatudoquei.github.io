@@ -8,6 +8,7 @@ date: 2019-07-30 00:00:00
 pub_date: 2019-07-30 00:00:00
 time_added: 2019-07-30 21:52:46
 category: 
+tags: []
 image: https://s2.glbimg.com/J9YHVuXI-BoXSJbuP9SahRX_SX4=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/07/29/bolso.jpg
 ---
 

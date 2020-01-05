@@ -8,6 +8,7 @@ date: 2019-09-04 09:04:00
 pub_date: 2019-09-04 09:04:00
 time_added: 2019-09-04 22:57:08
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/mundo/23864234-543-a71/FT1086A/652/bachelet-reuters.png
 ---
 

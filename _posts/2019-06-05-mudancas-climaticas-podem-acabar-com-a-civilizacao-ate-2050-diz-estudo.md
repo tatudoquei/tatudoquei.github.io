@@ -8,6 +8,7 @@ date: 2019-06-05 10:33:00
 pub_date: 2019-06-05 10:33:00
 time_added: 2019-06-06 05:55:11
 category: 
+tags: []
 image: https://s2.glbimg.com/SPFxFZUGYUUtkLOc6ulaRLsZ4X0=/e.glbimg.com/og/ed/f/original/2019/06/05/warming-2370285_960_720.jpg
 ---
 

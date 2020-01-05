@@ -8,6 +8,7 @@ date: 2019-07-27 02:00:00
 pub_date: 2019-07-27 02:00:00
 time_added: 2019-07-27 18:16:00
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/275/files/2019/06/amazonia-535x300.jpg
 ---
 

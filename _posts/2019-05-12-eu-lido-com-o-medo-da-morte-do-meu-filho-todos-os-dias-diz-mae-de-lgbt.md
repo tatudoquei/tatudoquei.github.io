@@ -8,6 +8,7 @@ date: 2019-05-12 21:55:10
 pub_date: 2019-05-12 21:55:10
 time_added: 2019-05-16 19:03:37
 category: 
+tags: []
 image: https://ponte.org/wp-content/uploads/2019/05/maes_pela_diversidade-2.jpg
 ---
 

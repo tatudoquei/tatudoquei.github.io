@@ -8,6 +8,7 @@ date: 2019-08-02 04:22:00
 pub_date: 2019-08-02 04:22:00
 time_added: 2019-08-04 08:00:19
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e3/2019/08/02/garimpo-ilegal-de-ouro-na-terra-indigena-kayapo-no-para-atividade-se-tornou-principal-vetor-de-desmatamento-em-areas-protegidas-do-xingu-1564737630586_v2_615x300.jpg
 ---
 

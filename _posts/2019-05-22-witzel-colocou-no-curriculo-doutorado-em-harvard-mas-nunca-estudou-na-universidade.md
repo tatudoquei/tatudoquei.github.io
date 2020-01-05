@@ -8,6 +8,7 @@ date: 2019-05-22 10:15:00
 pub_date: 2019-05-22 10:15:00
 time_added: 2019-05-23 05:47:48
 category: 
+tags: []
 ---
 
 RIO - O ex-juiz federal e governador do Rio, Wilson Witzel, tem, pelo menos, sete cursos em seu histórico acadêmico. No currículo Lattes - plataforma em que profissionais listam seus feitos ao longo da carreira -, ele enumera cursos de graduação e de pós em várias universidades.

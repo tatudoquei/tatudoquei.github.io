@@ -8,6 +8,7 @@ date: 2019-03-26 14:10:00
 pub_date: 2019-03-26 14:10:00
 time_added: 2019-03-27 07:06:36
 category: refletimos
+tags: []
 ---
 
 RIO — A opinião da deputada federal e líder do governo no Congresso Joice Hasselmann (PSL-SP) sobre o golpe militar de 1964 era bem diferente há cinco anos.

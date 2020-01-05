@@ -8,6 +8,7 @@ date: 2019-12-16 03:01:00
 pub_date: 2019-12-16 03:01:00
 time_added: 2019-12-16 09:35:06
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d8/2019/12/13/dom-roque-paloschi-1576274526497_v2_615x300.jpg
 ---
 

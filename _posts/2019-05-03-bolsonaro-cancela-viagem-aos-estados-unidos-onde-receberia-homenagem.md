@@ -8,6 +8,7 @@ date: 2019-05-03 22:17:00
 pub_date: 2019-05-03 22:17:00
 time_added: 2019-05-04 17:32:11
 category: 
+tags: []
 ---
 
 BRASÍLIA e SÃO PAULO — O presidente Jair Bolsonaro cancelou a viagem que faria aos Estados Unidos no próximo dia 12 de maio para ser homenageado em Nova York como a "Personalidade do Ano" pela Câmara de Comércio Brasil-Estados Unidos. Ele participaria de outros eventos na cidade e em Miami.

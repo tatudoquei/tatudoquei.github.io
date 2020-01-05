@@ -8,6 +8,7 @@ date: 2019-06-11 12:56:00
 pub_date: 2019-06-11 12:56:00
 time_added: 2019-06-12 07:36:30
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/0a/2017/07/05/o-real-nao-e-a-unica-nem-a-primeira-moeda-que-traz-estampada-imagens-de-animais-em-suas-cedulas-outros-paises-ja-estamparam-aves-mamiferos-repteis-e-ate-insetos-em-seu-dinheiro-clique-na-imagem-1499276165998_v2_615x300.jpg
 ---
 

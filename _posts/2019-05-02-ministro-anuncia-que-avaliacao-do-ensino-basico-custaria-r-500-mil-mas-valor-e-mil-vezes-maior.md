@@ -8,6 +8,7 @@ date: 2019-05-02 14:58:00
 pub_date: 2019-05-02 14:58:00
 time_added: 2019-05-04 17:32:26
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23636608-556-16a/FT1086A/652/82474818_BSBBrasiliaBrasil02-05-2019O-ministro-da-Educacao-Abraham-Weintraub-concede-a-s-1.jpg
 ---
 

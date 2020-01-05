@@ -8,6 +8,7 @@ date: 2019-10-09 13:34:34
 pub_date: 2019-10-09 13:34:34
 time_added: 2019-10-10 21:07:53
 category: 
+tags: []
 image: https://s2.glbimg.com/h7gcG4rrvdH1KhaUDDmkjh1aeMc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/q/A/HsSRVNSHO7jUktTWJ8zg/bolsonaro-agencia-brasil-antonio-cruz.jpg
 ---
 

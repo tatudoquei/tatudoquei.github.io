@@ -8,6 +8,7 @@ date: 2019-09-16 11:39:59
 pub_date: 2019-09-16 11:39:59
 time_added: 2019-09-17 16:00:43
 category: 
+tags: []
 ---
 
 Brasil | 16.09.2019 Vila de Alter do Chão, na região de Santarém, é um dos locais que mais atrai turistas no Pará Chamas se alastram e chegam a área de mata nativa no balneário de Alter do Chão. Após governo paraense anunciar controle, fogo volta a se intensificar.

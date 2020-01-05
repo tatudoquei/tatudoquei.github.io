@@ -8,6 +8,7 @@ date: 2019-03-29 23:00:00
 pub_date: 2019-03-29 23:00:00
 time_added: 2019-03-30 17:46:03
 category: 
+tags: []
 ---
 
 A Sociedade Brasileira para o Progresso da Ciência (SBPC) divulga neste sábado, 30 de março, a “CARTA DE SOBRAL”, conclamando a comunidade científica, acadêmica e escolar, sociedade civil, lideranças políticas e parlamentares a atuarem vigorosamente contra os retrocessos que ameaçam a ed

@@ -8,6 +8,7 @@ date: 2019-09-17 09:32:54
 pub_date: 2019-09-17 09:32:54
 time_added: 2019-09-17 22:51:41
 category: 
+tags: []
 ---
 
 Polícia Federal identificou cerca de 15 mil hectares desmatados e em processo de grilagem no município de Altamira. Foto: Polícia Federal A Polícia Federal identificou cerca de 15 mil hectares desmatados e em processo de grilagem no município de Altamira, no Pará.

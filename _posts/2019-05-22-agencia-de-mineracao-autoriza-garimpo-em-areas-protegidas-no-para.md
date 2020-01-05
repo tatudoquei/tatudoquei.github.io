@@ -8,6 +8,7 @@ date: 2019-05-22 19:36:47
 pub_date: 2019-05-22 19:36:47
 time_added: 2019-05-29 19:39:27
 category: 
+tags: []
 ---
 
 SÃO PAULO – A Agência Nacional de Mineração (ANM) tem liberado projetos de mineração dentro de unidades de conservação (UCs) no Pará, segundo o Ministério Público Federal (MPF), que pede à Justiça a paralisação urgente das atividades de garimpo.

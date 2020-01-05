@@ -8,6 +8,7 @@ date: 2019-02-08 18:15:00
 pub_date: 2019-02-08 18:15:00
 time_added: 2019-02-10 00:06:16
 category: avisamos
+tags: []
 ---
 
 BRASÍLIA - A ministra da Família, Mulher e Direitos Humanos, Damares Alves, prepara a nomeação da "ex-feminista" Sara Winter para a Secretaria Nacional da Mulher.

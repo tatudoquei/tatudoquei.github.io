@@ -8,6 +8,7 @@ date: 2019-05-26 10:16:00
 pub_date: 2019-05-26 10:16:00
 time_added: 2019-05-26 20:53:48
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/6b/2018/10/29/sakamoto---share-1540825181920_956x500.png
 ---
 

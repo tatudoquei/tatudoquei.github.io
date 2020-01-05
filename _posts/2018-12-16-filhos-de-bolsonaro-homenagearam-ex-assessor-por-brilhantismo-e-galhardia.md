@@ -8,6 +8,7 @@ date: 2018-12-16 11:40:31
 pub_date: 2018-12-16 11:40:31
 time_added: 2018-12-17 23:45:51
 category: avisamos
+tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2018/12/flavio-carlos-bolsonaro.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-08-22 23:43:57
 pub_date: 2013-05-24 22:40:48
 time_added: 2019-08-22 23:43:57
 category: 
+tags: []
 image: https://abrilsuperinteressante.files.wordpress.com/2018/07/519fd2c6865be2283900019eamazonia_img6201.jpeg?quality=70&strip=info&w=620&h=453&crop=1
 ---
 

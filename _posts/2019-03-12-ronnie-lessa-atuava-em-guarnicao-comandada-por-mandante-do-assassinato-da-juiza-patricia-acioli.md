@@ -8,6 +8,7 @@ date: 2019-03-12 08:11:00
 pub_date: 2019-03-12 08:11:00
 time_added: 2019-12-23 21:19:32
 category: refletimos
+tags: []
 ---
 
 RIO - O policial miltiar Ronnie Lesssa, preso na manhã desta terça-feira, acusado do assassinato da vereadora Marielle Franco e apontado como o atirador do homicídio, atuava no 9º BPM (Rocha Miranda), chefiado, em muitos momentos, pelo tenente-coronel Cláudio Luiz Silva de Oliveira.

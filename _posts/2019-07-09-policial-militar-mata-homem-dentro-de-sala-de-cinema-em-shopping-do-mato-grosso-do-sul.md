@@ -8,6 +8,7 @@ date: 2019-07-09 04:40:17
 pub_date: 2019-07-09 04:40:17
 time_added: 2019-07-09 18:23:26
 category: 
+tags: []
 ---
 
 Um homem foi morto após ser baleado por um policial militar dentro de uma sala de cinema num shopping em Dourados (MS), na tarde desta segunda-feira. De acordo com a PM, o agente foi chamado para a Corregedoria Geral da PMMS para apuração dos fatos.

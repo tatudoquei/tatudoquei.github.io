@@ -8,6 +8,7 @@ date: 2019-01-24 17:21:00
 pub_date: 2019-01-24 17:21:00
 time_added: 2019-12-23 21:41:25
 category: refletimos
+tags: []
 ---
 
 “Os eleitores de Bolsonaro que acharam que estavam votando no capitão Nascimento talvez tenham votado no Rocha, o chefe da milícia.

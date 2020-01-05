@@ -8,6 +8,7 @@ date: 2019-08-12 15:20:00
 pub_date: 2019-08-12 15:20:00
 time_added: 2019-08-14 22:42:27
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/08/bolso_macri-615x300.jpg
 ---
 

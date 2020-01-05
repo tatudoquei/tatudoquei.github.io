@@ -8,6 +8,7 @@ date: 2019-05-02 09:15:55
 pub_date: 2019-05-02 09:15:55
 time_added: 2019-05-04 06:32:53
 category: 
+tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2019/05/Manifestacao_ANPG.jpg
 ---
 

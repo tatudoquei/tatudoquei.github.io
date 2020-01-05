@@ -8,6 +8,7 @@ date: 2019-12-09 01:01:00
 pub_date: 2019-12-09 01:01:00
 time_added: 2019-12-09 14:47:16
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/51/2019/12/06/homem-em-situacao-de-rua-na-avenida-paulista-em-sao-paulo-1575656674069_v2_615x300.jpg
 ---
 

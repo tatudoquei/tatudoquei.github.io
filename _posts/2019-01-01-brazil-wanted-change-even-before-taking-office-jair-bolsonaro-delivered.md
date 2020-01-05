@@ -8,6 +8,7 @@ date: 2019-01-01 10:00:11
 pub_date: 2019-01-01 10:00:11
 time_added: 2019-12-23 21:41:23
 category: refletimos
+tags: []
 image: https://static01.nyt.com/images/2019/01/02/world/02BRAZILCHANGES02/merlin_148025214_876dd4fa-4ee3-475b-a509-62176e5221e3-facebookJumbo.jpg
 ---
 

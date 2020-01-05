@@ -8,6 +8,7 @@ date: 2019-09-17 22:00:00
 pub_date: 2019-09-17 22:00:00
 time_added: 2019-09-23 06:34:29
 category: 
+tags: []
 ---
 
 Na última quarta-feira (11 de setembro), o Ministério da Educação (MEC) anunciou a liberação de 3.182 bolsas de mestrado e doutorado concedidas pela Capes (Coordenação de Aperfeiçoamento de Pessoal de Nível Superior).

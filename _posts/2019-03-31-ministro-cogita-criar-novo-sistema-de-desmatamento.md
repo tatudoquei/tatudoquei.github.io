@@ -8,6 +8,7 @@ date: 2019-03-31 01:00:00
 pub_date: 2019-03-31 01:00:00
 time_added: 2019-03-31 22:22:48
 category: avisamos
+tags: [meio ambiente]
 image: https://f.i.uol.com.br/fotografia/2019/03/30/15539152105c9edd4ac4538_1553915210_3x2_rt.jpg
 ---
 

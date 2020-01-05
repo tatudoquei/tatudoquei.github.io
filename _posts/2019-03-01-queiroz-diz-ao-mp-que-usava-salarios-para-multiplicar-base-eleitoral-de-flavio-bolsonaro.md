@@ -8,6 +8,7 @@ date: 2019-03-01 08:12:00
 pub_date: 2019-03-01 08:12:00
 time_added: 2019-03-11 18:44:37
 category: avisamos
+tags: []
 ---
 
 RIO - Investigado pelo Conselho de Controle de Atividades Financeira (Coaf), que apontou "movimentações atípicas" em suas contas, o ex-assessor de Flávio Bolsonaro (PSL) na Assembleia Legislativa do Rio (Alerj) Fabrício Queiroz admitiu, em depoimento por escrito ao Ministério Público do Rio,

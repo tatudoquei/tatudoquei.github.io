@@ -8,6 +8,7 @@ date: 2019-06-26 07:47:00
 pub_date: 2019-06-26 07:47:00
 time_added: 2019-06-27 06:43:24
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23764673-5fa-e8e/FT1086A/652/AVIAODAFAB.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-09-15 07:32:53
 pub_date: 2019-09-15 07:32:53
 time_added: 2019-09-15 09:32:53
 category: 
+tags: []
 ---
 
 Referência do turismo rural no Estado, o Refúgio Ecológico Caiman, distante 31 quilômetros de Miranda, é mais uma região atingida por incêndios de grandes proporções, nesta terça-feira (10) em Mato Grosso do Sul.

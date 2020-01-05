@@ -8,6 +8,7 @@ date: 2019-08-24 17:50:00
 pub_date: 2019-08-24 17:50:00
 time_added: 2019-08-25 09:32:39
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/dc/2019/07/31/o-presidente-da-republica-jair-bolsonaro-psl-participa-da-cerimonia-de-troca-da-guarda-presidencial-em-frente-ao-palacio-do-planalto-1564609006081_v2_615x300.jpg
 ---
 

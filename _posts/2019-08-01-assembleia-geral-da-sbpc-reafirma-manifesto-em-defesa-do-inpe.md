@@ -8,6 +8,7 @@ date: 2019-08-01 13:51:10
 pub_date: 2019-08-01 13:51:10
 time_added: 2019-08-02 06:06:56
 category: 
+tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/07/assembleia.jpg
 ---
 

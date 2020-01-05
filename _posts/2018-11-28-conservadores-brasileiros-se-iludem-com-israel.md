@@ -8,6 +8,7 @@ date: 2018-11-28 21:02:00
 pub_date: 2018-11-28 21:02:00
 time_added: 2019-12-23 21:15:15
 category: refletimos
+tags: []
 image: https://s2.glbimg.com/S6BYmDonKArlqZKz49NQz8xKCVM=/699x420/i.glbimg.com/og/ig/infoglobo1/f/original/2018/11/28/eduardo-e-carlos-bolsonaro.jpg.pagespeed.ic.3mh6vb8hj2_1.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-09-27 15:44:27
 pub_date: 2019-09-27 15:44:27
 time_added: 2019-09-27 21:40:51
 category: 
+tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2016/09/congresso.jpg
 ---
 

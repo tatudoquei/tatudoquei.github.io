@@ -8,6 +8,7 @@ date: 2019-09-20 08:11:00
 pub_date: 2019-09-20 08:11:00
 time_added: 2019-09-23 06:17:35
 category: 
+tags: []
 ---
 
 BRASÍLIA — O governo quer derrubar a necessidade de licitação para a contratação de empresas juniores e de universidades por parte do Poder Público.

@@ -8,6 +8,7 @@ date: 2019-03-01 16:37:26
 pub_date: 2019-03-01 16:37:26
 time_added: 2019-03-04 02:57:36
 category: 
+tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/03/Fapemig-.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-06-11 10:09:00
 pub_date: 2019-06-11 10:09:00
 time_added: 2019-06-12 21:01:46
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/blogs/18/2019/03/26/deltan-e-sergio-moro-1553636792947_v2_300x200.jpg
 ---
 

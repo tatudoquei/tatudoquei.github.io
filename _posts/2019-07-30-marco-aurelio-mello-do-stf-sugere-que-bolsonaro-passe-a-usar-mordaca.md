@@ -8,6 +8,7 @@ date: 2019-07-30 07:22:00
 pub_date: 2019-07-30 07:22:00
 time_added: 2019-07-30 21:57:41
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/265/files/2019/03/Marco-Aurelio-Mello-Foto-Rosinei-Coutinho-STF-615x300.jpg
 ---
 

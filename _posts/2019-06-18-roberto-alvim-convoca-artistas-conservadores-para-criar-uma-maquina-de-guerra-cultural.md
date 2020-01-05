@@ -8,6 +8,7 @@ date: 2019-06-18 07:43:00
 pub_date: 2019-06-18 07:43:00
 time_added: 2019-06-19 19:09:01
 category: 
+tags: []
 ---
 
 BRASÍLIA, RIO E SÃO PAULO — O diretor de teatro Roberto Alvim, que irá assumir um cargo na Secretaria Especial da Cultura, publicou um chamado para "artistas conservadores" criarem "uma máquina de guerra cultural".

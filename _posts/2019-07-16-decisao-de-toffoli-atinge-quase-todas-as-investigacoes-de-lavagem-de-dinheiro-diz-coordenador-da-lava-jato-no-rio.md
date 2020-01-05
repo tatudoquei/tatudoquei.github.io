@@ -8,6 +8,7 @@ date: 2019-07-16 14:28:00
 pub_date: 2019-07-16 14:28:00
 time_added: 2019-07-18 22:42:32
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/22196338-76b-66d/FT1086A/652/Eduardo-El-Hage.jpg
 ---
 

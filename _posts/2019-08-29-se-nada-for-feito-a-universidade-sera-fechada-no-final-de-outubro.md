@@ -8,6 +8,7 @@ date: 2019-08-29 18:29:42
 pub_date: 2019-08-29 18:29:42
 time_added: 2019-08-30 23:34:18
 category: 
+tags: []
 ---
 
 O acesso ao Restaurante Universitário (RU) somente para estudantes isentos e o cancelamento da Semana da Pesquisa de Extensão (Sepex) – pela primeira vez em 18 anos – são algumas das medidas possíveis de serem adotadas pela Universidade Federal de Santa Catarina (UFSC) se o Governo Federal m

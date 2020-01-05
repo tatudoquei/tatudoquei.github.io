@@ -8,6 +8,7 @@ date: 2019-03-20 23:00:00
 pub_date: 2019-03-20 23:00:00
 time_added: 2019-08-01 21:06:45
 category: 
+tags: []
 image: https://media.gazetadopovo.com.br/vozes/2019/03/bolsonaro-trump-900x600-8850ab06.jpg
 ---
 

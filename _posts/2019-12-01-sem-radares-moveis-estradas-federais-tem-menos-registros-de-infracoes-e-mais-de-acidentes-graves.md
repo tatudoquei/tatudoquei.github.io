@@ -8,6 +8,7 @@ date: 2019-12-01 03:30:00
 pub_date: 2019-12-01 03:30:00
 time_added: 2019-12-03 00:23:39
 category: 
+tags: []
 ---
 
 RIO — A suspensão da fiscalização com radares móveis nas rodovias federais, determinada em 15 de agosto pelo presidente Jair Bolsonaro, levou a uma redução de 54% das infrações registradas em setembro pela Polícia Rodoviária Federal (PRF) por excesso de velocidade.

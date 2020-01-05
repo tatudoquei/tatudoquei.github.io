@@ -8,6 +8,7 @@ date: 2019-05-17 20:54:01
 pub_date: 2019-05-17 20:54:01
 time_added: 2019-05-17 17:54:01
 category: 
+tags: []
 ---
 
 Impondo sua presença constrangedora onde nã é obem-vindo, e nem sequer é convidado, este senhor que infelizmente dirige o Brasil fez, em Dallas, uma declaração mentirosa e caluniosa sobre minha história política.

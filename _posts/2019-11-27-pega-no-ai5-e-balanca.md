@@ -8,6 +8,7 @@ date: 2019-11-27 13:03:00
 pub_date: 2019-11-27 13:03:00
 time_added: 2019-11-27 21:05:25
 category: 
+tags: []
 image: https://domeufolhetim.blogfolha.uol.com.br/files/2019/11/paulo-guedes.jpg
 ---
 

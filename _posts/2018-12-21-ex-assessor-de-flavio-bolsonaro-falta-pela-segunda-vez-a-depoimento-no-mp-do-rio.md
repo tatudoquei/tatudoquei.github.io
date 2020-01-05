@@ -8,6 +8,7 @@ date: 2018-12-21 14:55:00
 pub_date: 2018-12-21 14:55:00
 time_added: 2018-12-22 09:09:23
 category: avisamos
+tags: []
 ---
 
 RIO — O policial militar Fabrício Queiroz, ex-assessor do deputado estadual Flávio Bolsonaro (PSL-RJ), senador eleito pelo Rio, faltou pela segunda vez ao depoimento que estava marcado na sede do Ministério Público do Rio de Janeiro.

@@ -8,6 +8,7 @@ date: 2019-08-06 02:30:00
 pub_date: 2019-08-06 02:30:00
 time_added: 2019-08-07 05:55:52
 category: 
+tags: []
 ---
 
 BOA VISTA (RR) — O avanço do garimpo ilegal no território ianomâmi, num ritmo sem precedentes nos últimos anos, pode provocar novas mortes em série na maior terra indígena do Brasil.

@@ -8,6 +8,7 @@ date: 2019-01-04 11:46:00
 pub_date: 2019-01-04 11:46:00
 time_added: 2019-12-23 21:15:16
 category: recuadas
+tags: [economia]
 image: https://f.i.uol.com.br/fotografia/2018/07/20/15320927115b51e127c0a2e_1532092711_3x2_rt.jpg
 ---
 

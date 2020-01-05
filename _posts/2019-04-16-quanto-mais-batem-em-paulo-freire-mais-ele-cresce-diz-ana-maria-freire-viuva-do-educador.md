@@ -8,6 +8,7 @@ date: 2019-04-16 08:35:00
 pub_date: 2019-04-16 08:35:00
 time_added: 2019-04-18 22:20:33
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23602841-1bd-5f7/FT1086A/652/anamariapaulofreire.jpg
 ---
 

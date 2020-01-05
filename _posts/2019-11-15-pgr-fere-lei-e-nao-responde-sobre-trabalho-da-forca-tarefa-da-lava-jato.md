@@ -8,6 +8,7 @@ date: 2019-11-15 03:04:00
 pub_date: 2019-11-15 03:04:00
 time_added: 2019-11-16 09:17:01
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/31/2019/10/02/2out2019---o-presidente-jair-bolsonaro-na-cerimonia-de-posse-do-procurador-geral-da-republica-augusto-aras-1570029664586_v2_615x300.jpg
 ---
 

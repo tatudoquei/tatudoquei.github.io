@@ -8,6 +8,7 @@ date: 2019-04-06 05:43:34
 pub_date: 2019-04-06 05:43:34
 time_added: 2019-04-06 00:19:17
 category: 
+tags: []
 image: https://extra.globo.com/incoming/23576623-83e-71d/w976h550-PROP/deputado.jpg
 ---
 

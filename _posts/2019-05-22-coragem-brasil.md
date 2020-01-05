@@ -8,6 +8,7 @@ date: 2019-05-22 16:55:00
 pub_date: 2019-05-22 16:55:00
 time_added: 2019-05-26 20:52:10
 category: 
+tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/teaser_denis.jpg/ALTERNATES/LANDSCAPE_720/teaser_denis.jpg
 ---
 

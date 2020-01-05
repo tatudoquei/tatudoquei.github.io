@@ -8,6 +8,7 @@ date: 2020-01-04 13:00:00
 pub_date: 2020-01-04 13:00:00
 time_added: 2020-01-05 09:32:21
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/interacao/facebook/uol-noticias-600px.jpg
 ---
 

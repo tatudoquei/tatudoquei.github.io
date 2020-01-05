@@ -8,6 +8,7 @@ date: 2019-06-03 04:43:20
 pub_date: 2019-06-03 04:43:20
 time_added: 2019-06-03 06:43:20
 category: 
+tags: []
 image: https://media.wired.com/photos/5cb108f5af23551bb502525f/191:100/pass/Ideas_Italian-Futurists-930001142.jpg
 ---
 

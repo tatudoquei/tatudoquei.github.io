@@ -8,6 +8,7 @@ date: 2019-06-02 12:54:00
 pub_date: 2019-06-02 12:54:00
 time_added: 2019-06-04 06:17:56
 category: 
+tags: []
 ---
 
 RIO — Em cinco meses de governo, o presidente Jair Bolsonaroeditou três decretos para flexibilizar a posse e o porte de armas no Brasil, uma de suas principais promessas de campanha.

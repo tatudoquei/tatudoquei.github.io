@@ -8,6 +8,7 @@ date: 2019-04-21 19:55:09
 pub_date: 2019-04-21 19:55:09
 time_added: 2019-04-22 19:16:06
 category: 
+tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2019/04/bolsonaro-olavo-carvalho.jpg
 ---
 

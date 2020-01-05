@@ -8,6 +8,7 @@ date: 2019-08-01 16:54:00
 pub_date: 2019-08-01 16:54:00
 time_added: 2019-08-03 19:07:42
 category: 
+tags: []
 ---
 
 SÃO PAULO - A procuradora regional da República Eugênia Augusta Gonzaga disse que interromper o trabalho feito na Comissão Especial sobre Mortos e Desaparecidos Políticos (CEMDP) é uma "barbárie", e que implementar direitos humanos não deveria depender de mudança de governos.

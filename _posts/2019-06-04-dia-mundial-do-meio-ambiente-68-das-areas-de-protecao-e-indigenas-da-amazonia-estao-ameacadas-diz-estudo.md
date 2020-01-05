@@ -8,6 +8,7 @@ date: 2019-06-04 22:00:00
 pub_date: 2019-06-04 22:00:00
 time_added: 2019-06-05 20:55:46
 category: 
+tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/4621/production/_107235971_c44665aa-e07c-4769-b7e8-f089f3657743.jpg
 ---
 

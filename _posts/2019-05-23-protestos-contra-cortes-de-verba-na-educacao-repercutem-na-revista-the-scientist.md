@@ -8,6 +8,7 @@ date: 2019-05-23 22:00:00
 pub_date: 2019-05-23 22:00:00
 time_added: 2019-05-26 23:06:07
 category: 
+tags: []
 ---
 
 Students in São Paulo protesting the government’s cuts to education and science on May 15. Tabita Said Students and faculty across Brazil took to the streets on May 15 to protest against budget freezes and the suspension of new research scholarships enacted by the federal government on May 2.

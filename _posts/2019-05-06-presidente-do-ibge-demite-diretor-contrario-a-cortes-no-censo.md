@@ -8,6 +8,7 @@ date: 2019-05-06 19:57:00
 pub_date: 2019-05-06 19:57:00
 time_added: 2019-05-07 06:36:17
 category: 
+tags: []
 image: https://i.glbimg.com/og/ig/infoglobo1/f/original/blog/image_share/bernardo-mello-franco.jpg
 ---
 

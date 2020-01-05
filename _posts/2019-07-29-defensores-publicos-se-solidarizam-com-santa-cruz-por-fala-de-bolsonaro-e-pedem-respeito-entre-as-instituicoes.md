@@ -8,6 +8,7 @@ date: 2019-07-29 01:03:28
 pub_date: 2019-07-29 01:03:28
 time_added: 2019-07-29 23:25:40
 category: 
+tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2018/11/Bolsonaro5.jpg
 ---
 

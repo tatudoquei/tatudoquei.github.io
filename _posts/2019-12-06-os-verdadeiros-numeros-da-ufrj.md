@@ -8,6 +8,7 @@ date: 2019-12-06 06:17:07
 pub_date: 2019-12-06 06:17:07
 time_added: 2019-12-06 07:17:07
 category: 
+tags: []
 image: https://ufrj.br/sites/default/files/img-noticia/2019/12/numeros.png
 ---
 

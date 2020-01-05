@@ -8,6 +8,7 @@ date: 2019-06-10 17:15:00
 pub_date: 2019-06-10 17:15:00
 time_added: 2019-06-12 20:56:18
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/04/bolsonaro_moro-615x300.jpg
 ---
 

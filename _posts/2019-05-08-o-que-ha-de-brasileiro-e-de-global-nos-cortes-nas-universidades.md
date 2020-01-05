@@ -8,6 +8,7 @@ date: 2019-05-08 03:00:00
 pub_date: 2019-05-08 03:00:00
 time_added: 2019-05-12 11:01:12
 category: 
+tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Mafalda-protestos-IFs.jpg/ALTERNATES/LANDSCAPE_720/Mafalda%20protestos%20IFs.jpg
 ---
 

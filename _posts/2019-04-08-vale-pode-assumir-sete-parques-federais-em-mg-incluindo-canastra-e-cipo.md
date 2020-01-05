@@ -8,6 +8,7 @@ date: 2019-04-08 08:39:43
 pub_date: 2019-04-08 08:39:43
 time_added: 2019-04-09 19:17:42
 category: 
+tags: []
 image: https://www.otempo.com.br/image/contentid/policy:3.1904292:1554723249/image/image.jpg?f=3x2&w=620&$p$f$w=3220ccf
 ---
 

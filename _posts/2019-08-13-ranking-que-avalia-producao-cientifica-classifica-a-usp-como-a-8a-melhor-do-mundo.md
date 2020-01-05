@@ -8,6 +8,7 @@ date: 2019-08-13 13:00:45
 pub_date: 2019-08-13 13:00:45
 time_added: 2019-08-14 22:45:59
 category: 
+tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/08/20190812_Ranking_mapa.png
 ---
 

@@ -8,6 +8,7 @@ date: 2019-06-04 02:02:00
 pub_date: 2019-06-04 02:02:00
 time_added: 2019-06-05 18:22:19
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f6/2018/12/23/23dez2018----esplanada-dos-ministerios-1545595604734_v2_615x300.jpg
 ---
 

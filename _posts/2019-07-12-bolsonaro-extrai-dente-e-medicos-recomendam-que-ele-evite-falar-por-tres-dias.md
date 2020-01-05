@@ -8,6 +8,7 @@ date: 2019-07-12 15:04:00
 pub_date: 2019-07-12 15:04:00
 time_added: 2019-07-13 07:29:09
 category: 
+tags: []
 ---
 
 BRASÍLIA — Após extrair um dente na tarde desta sexta-feira, o presidente Jair Bolsonaro cancelou a viagem para Florianópolis, na próxima segunda-feira, onde entregaria ônibus escolares. A recomendação médica é que o presidente faça repouso e evite falar pelos próximos três dias.

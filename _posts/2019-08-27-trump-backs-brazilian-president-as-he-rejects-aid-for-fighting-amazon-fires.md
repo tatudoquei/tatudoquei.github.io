@@ -8,6 +8,7 @@ date: 2019-08-27 09:38:25
 pub_date: 2019-08-27 09:38:25
 time_added: 2019-09-02 22:00:54
 category: 
+tags: []
 image: https://static.politico.com/bd/59/d87cab084927990a3cd425dc90f4/190827-trump-bolsonaro-getty-773.jpg
 ---
 

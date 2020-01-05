@@ -8,6 +8,7 @@ date: 2019-12-29 12:00:34
 pub_date: 2019-12-29 12:00:34
 time_added: 2019-12-30 23:42:40
 category: 
+tags: []
 image: https://jornalggn.com.br/sites/default/files/2019/02/mororororor.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-04-11 22:00:00
 pub_date: 2019-04-11 22:00:00
 time_added: 2019-04-13 13:35:06
 category: 
+tags: []
 ---
 
 O decreto 9.759/2019, publicado por Jair Bolsonaro (PSL) nesta sexta-feira (12) e que extinguiu por atacado os colegiados do governo federal, é mais um caso de gestão pública em estilo faroeste: o presidente primeiro atira, para depois perguntar quem é.

@@ -8,6 +8,7 @@ date: 2019-04-25 12:58:04
 pub_date: 2019-04-25 12:58:04
 time_added: 2019-04-27 07:07:00
 category: 
+tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2019/04/jfcrz_abr_10041914183df.jpg
 ---
 

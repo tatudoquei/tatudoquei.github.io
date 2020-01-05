@@ -8,6 +8,7 @@ date: 2019-02-21 23:00:00
 pub_date: 2019-02-21 23:00:00
 time_added: 2019-03-01 03:58:21
 category: avisamos
+tags: []
 image: https://www.hypeness.com.br/wp-content/uploads/2019/02/Jair-Bolsonaro-e-Tereza-Cristina-1.jpg
 ---
 

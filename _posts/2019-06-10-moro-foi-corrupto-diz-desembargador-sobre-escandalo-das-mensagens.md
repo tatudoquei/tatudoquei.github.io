@@ -8,6 +8,7 @@ date: 2019-06-10 13:58:00
 pub_date: 2019-06-10 13:58:00
 time_added: 2019-06-12 20:56:45
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/198/files/2019/06/DallagnollMoroJorge-AraujoFolhapress-615x300.jpg
 ---
 

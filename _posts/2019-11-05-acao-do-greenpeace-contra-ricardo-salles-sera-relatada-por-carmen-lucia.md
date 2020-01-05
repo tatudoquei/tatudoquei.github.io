@@ -8,6 +8,7 @@ date: 2019-11-05 20:37:12
 pub_date: 2019-11-05 20:37:12
 time_added: 2019-11-12 23:11:11
 category: 
+tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2019/11/bancoImagemFotoAudiencia_AP_428798.jpg
 ---
 

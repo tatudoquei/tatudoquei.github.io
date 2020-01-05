@@ -8,6 +8,7 @@ date: 2019-02-19 16:46:03
 pub_date: 2019-02-19 16:46:03
 time_added: 2019-02-20 08:49:36
 category: avisamos
+tags: []
 image: https://abrilveja.files.wordpress.com/2019/02/gustavo-bebianno-e-jair-bolsonaro.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

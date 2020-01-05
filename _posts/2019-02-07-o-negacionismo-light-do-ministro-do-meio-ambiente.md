@@ -8,6 +8,7 @@ date: 2019-02-07 23:00:00
 pub_date: 2019-02-07 23:00:00
 time_added: 2019-12-23 21:37:45
 category: refletimos
+tags: [ciência, meio ambiente]
 image: http://scienceblogs.com.br/curupira/files/2019/02/44756295890_ab18d434b0_z.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-04-05 13:45:00
 pub_date: 2019-04-05 13:45:00
 time_added: 2019-04-06 00:19:04
 category: 
+tags: []
 ---
 
 BRASÍLIA - Durante um evento com servidores do Palácio do Planalto nesta sexta-feira, o presidente Jair Bolsonaro disse que não tinha nascido para ser presidente e sim militar. Em tom de brincadeira, ele reclamou das dificuldades de ocupar o cargo.

@@ -8,6 +8,7 @@ date: 2019-03-21 23:00:00
 pub_date: 2019-03-21 23:00:00
 time_added: 2019-03-27 22:10:47
 category: refletimos
+tags: []
 image: http://www.ihu.unisinos.br/images/ihu/2019/03/22_03_protesto_sus_foto_agencia_brasil_flickr_cc.jpg
 ---
 

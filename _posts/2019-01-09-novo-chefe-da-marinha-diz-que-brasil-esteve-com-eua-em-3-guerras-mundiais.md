@@ -8,6 +8,7 @@ date: 2019-01-09 11:10:00
 pub_date: 2019-01-09 11:10:00
 time_added: 2019-01-09 23:57:51
 category: avisamos
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/04/2018/11/21/almirante-de-esquadra-ilques-barbosa-junior-1542832732486_300x200.jpg
 ---
 

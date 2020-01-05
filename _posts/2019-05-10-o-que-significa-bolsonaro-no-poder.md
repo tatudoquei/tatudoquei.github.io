@@ -8,6 +8,7 @@ date: 2019-05-10 13:00:00
 pub_date: 2019-05-10 13:00:00
 time_added: 2019-05-11 09:09:53
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/_layout/v3/blog-article/esporte/jucakfouri/Blog-Jucak-kfouri.png
 ---
 

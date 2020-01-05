@@ -8,6 +8,7 @@ date: 2019-09-24 17:12:01
 pub_date: 2019-09-24 17:12:01
 time_added: 2019-09-24 19:12:01
 category: 
+tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/O-geneticista-que-elevou-a-qualidade-do-caf%C3%A9-brasileiro/ALTERNATES/LANDSCAPE_720/O%20geneticista%20que%20elevou%20a%20qualidade%20do%20caf%C3%A9%20brasileiro
 ---
 

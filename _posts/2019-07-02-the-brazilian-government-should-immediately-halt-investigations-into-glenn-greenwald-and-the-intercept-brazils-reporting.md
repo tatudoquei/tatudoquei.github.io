@@ -8,6 +8,7 @@ date: 2019-07-02 23:54:00
 pub_date: 2019-07-02 23:54:00
 time_added: 2019-07-04 22:31:32
 category: 
+tags: []
 image: https://freedom.press/media/images/5d03f97edda4c82f3a8b4592.width-1600.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-12-19 16:46:01
 pub_date: 2019-12-19 16:46:01
 time_added: 2019-12-19 00:34:12
 category: 
+tags: []
 image: https://cdn.crusoe.com.br/uploads/2019/05/fabricio-queiroz-entrevista-sbtc-2018-2799-copy.jpg.jpg
 ---
 

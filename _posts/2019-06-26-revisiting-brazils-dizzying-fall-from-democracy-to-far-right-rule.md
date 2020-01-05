@@ -8,6 +8,7 @@ date: 2019-06-26 20:23:20
 pub_date: 2019-06-26 20:23:20
 time_added: 2019-06-29 17:57:23
 category: 
+tags: []
 image: https://pixel.nymag.com/imgs/daily/intelligencer/2019/06/26/26-brazil.w1200.h630.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-04-13 13:07:22
 pub_date: 2019-04-13 13:07:22
 time_added: 2019-04-18 21:21:39
 category: 
+tags: []
 image: https://jornalggn.com.br/sites/default/files/2019/04/desmente-bolsonaro-mais-de-95-da-producao-cientifica-do-pais-vem-de-universidades-publicas-cidade-universitaria-da-universidade-de-sao-paulo-usp-1280x768.jpg
 ---
 

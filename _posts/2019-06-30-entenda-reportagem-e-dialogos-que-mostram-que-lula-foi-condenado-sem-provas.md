@@ -8,6 +8,7 @@ date: 2019-06-30 08:48:00
 pub_date: 2019-06-30 08:48:00
 time_added: 2019-06-30 22:19:20
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2019/06/deltanmoroladoalado-557x300.jpg
 ---
 

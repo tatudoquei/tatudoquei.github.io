@@ -8,6 +8,7 @@ date: 2019-04-25 05:00:00
 pub_date: 2019-04-25 05:00:00
 time_added: 2019-04-26 04:36:01
 category: refletimos
+tags: []
 image: https://epoca.globo.com/23620260-97e-cf5/FT1086A/652/marcos-pontes-2.jpg
 ---
 

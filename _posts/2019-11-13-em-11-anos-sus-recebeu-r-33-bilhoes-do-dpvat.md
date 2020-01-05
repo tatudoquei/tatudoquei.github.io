@@ -8,6 +8,7 @@ date: 2019-11-13 02:30:00
 pub_date: 2019-11-13 02:30:00
 time_added: 2019-11-16 15:26:50
 category: 
+tags: []
 ---
 
 RIO e BRASÍLIA - Além de afetar indenizações a vítimas de acidentes de trânsito, o fim do seguro obrigatório DPVAT,determinado pelo presidente Jair Bolsonaro por Medida Provisória, terá impacto no Sistema Único de Saúde (SUS) e em programas públicos para educação e prevenção na área

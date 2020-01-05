@@ -8,6 +8,7 @@ date: 2019-05-31 14:14:00
 pub_date: 2019-05-31 14:14:00
 time_added: 2019-06-01 08:46:54
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2018/01/tio-rei-num-artigo-publicado-na-veja-ha-mais-de-11-anos-urna-nao-e-tribunal-nao-absolve-ninguem-uma-triste-atualidade-601x300.jpg
 ---
 

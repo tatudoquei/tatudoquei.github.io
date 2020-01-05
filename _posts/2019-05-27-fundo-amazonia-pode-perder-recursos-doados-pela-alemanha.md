@@ -8,6 +8,7 @@ date: 2019-05-27 15:22:00
 pub_date: 2019-05-27 15:22:00
 time_added: 2019-05-28 17:20:44
 category: 
+tags: []
 ---
 
 BRASÍLIA — O principal fundo de proteção da Floresta Amazônica corre o risco de perder um dos seus principais financiadores, o governo da Alemanha.

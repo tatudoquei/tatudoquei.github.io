@@ -8,6 +8,7 @@ date: 2019-07-27 12:37:00
 pub_date: 2019-07-27 12:37:00
 time_added: 2019-07-27 22:53:54
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f5/2019/07/24/walter-dalgatti-neto--preso-sob-suspeita-de-hackear-o-celular-do-ministro-sergio-moro-na-operacao-spoofing-1564000633179_v2_615x300.jpg
 ---
 

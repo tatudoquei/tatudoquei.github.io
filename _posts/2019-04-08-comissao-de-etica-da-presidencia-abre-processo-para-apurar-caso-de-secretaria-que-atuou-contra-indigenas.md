@@ -8,6 +8,7 @@ date: 2019-04-08 17:12:00
 pub_date: 2019-04-08 17:12:00
 time_added: 2019-04-09 19:15:22
 category: 
+tags: []
 ---
 
 BRASÍLIA — A Comissão de Ética Pública da Presidência da República abriu um procedimento para apurar se a secretária-adjunta de Assuntos Fundiários do Ministério da Agricultura, Luana Ruiz Silva de Figueiredo, incorre em conflito de interesses no exercício do cargo.

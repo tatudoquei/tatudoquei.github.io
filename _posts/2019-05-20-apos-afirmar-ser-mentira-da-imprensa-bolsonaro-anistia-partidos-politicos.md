@@ -8,6 +8,7 @@ date: 2019-05-20 16:16:00
 pub_date: 2019-05-20 16:16:00
 time_added: 2019-05-22 06:28:58
 category: 
+tags: []
 image: https://www.metro1.com.br/fotos/noticias/73764/IMAGEM_NOTICIA_3.jpg?v=581dc2a978d5416
 ---
 

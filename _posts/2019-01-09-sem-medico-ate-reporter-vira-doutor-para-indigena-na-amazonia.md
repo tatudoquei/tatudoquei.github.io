@@ -8,6 +8,7 @@ date: 2019-01-09 14:55:00
 pub_date: 2019-01-09 14:55:00
 time_added: 2019-01-09 23:56:16
 category: avisamos
+tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/01/familia-indios_redes.jpg
 ---
 

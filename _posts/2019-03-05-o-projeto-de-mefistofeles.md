@@ -8,6 +8,7 @@ date: 2019-03-05 23:00:00
 pub_date: 2019-03-05 23:00:00
 time_added: 2019-12-23 21:21:00
 category: refletimos
+tags: []
 ---
 
 Coluna Cartas do Rio | 06.03.2019 O novo governo está caminhando para transformar o meio ambiente brasileiro num inferno. Um inferno de soja, pastos, agrotóxicos, cana-de-açúcar e lama da indústria de mineração, escreve o colunista Philipp Lichterbeck.

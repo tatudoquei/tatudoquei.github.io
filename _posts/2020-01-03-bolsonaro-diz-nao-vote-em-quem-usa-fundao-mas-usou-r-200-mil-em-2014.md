@@ -8,6 +8,7 @@ date: 2020-01-03 18:32:00
 pub_date: 2020-01-03 18:32:00
 time_added: 2020-01-05 09:49:42
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2014/10/06/18set2014---o-polemico-deputado-federal-jair-bolsonaro-pp-59-foi-reeleito-em-5-de-outubro-com-464572-votos-610-e-acabou-como-o-candidato-mais-votado-para-o-cargo-no-rio-de-janeiro-1412649663362_750x421.jpg
 ---
 

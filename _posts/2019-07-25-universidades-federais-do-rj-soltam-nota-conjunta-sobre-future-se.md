@@ -8,6 +8,7 @@ date: 2019-07-25 22:00:00
 pub_date: 2019-07-25 22:00:00
 time_added: 2019-07-29 23:25:10
 category: 
+tags: []
 image: https://ufrj.br/sites/default/files/img-noticia/2019/07/48308257127_3d36ef78d9_o.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-10-05 09:00:00
 pub_date: 2019-10-05 09:00:00
 time_added: 2019-10-20 12:41:53
 category: 
+tags: []
 image: https://imgsapp2.correiobraziliense.com.br/app/noticia_127983242361/2019/10/05/794923/20191005001801363980a.jpg
 ---
 

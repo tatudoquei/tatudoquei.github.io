@@ -8,6 +8,7 @@ date: 2019-09-16 02:00:00
 pub_date: 2019-09-16 02:00:00
 time_added: 2019-09-17 16:05:10
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/93/2019/09/12/retrato-da-deputada-federal-samia-bomfim-psol-1568320470255_v2_615x300.jpg
 ---
 

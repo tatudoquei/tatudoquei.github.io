@@ -8,6 +8,7 @@ date: 2019-02-12 20:07:17
 pub_date: 2019-02-12 20:07:17
 time_added: 2019-02-13 07:42:26
 category: avisamos
+tags: []
 image: https://i2.wp.com/apublica.org/wp-content/uploads/2019/02/12022019-governo-deferiu-registro-de-mais-de-um-agrotoxico-por-dia-neste-ano-img4.jpg?fit=1820%2C2730&ssl=1
 ---
 

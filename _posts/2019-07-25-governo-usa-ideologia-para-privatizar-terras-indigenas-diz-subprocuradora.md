@@ -8,6 +8,7 @@ date: 2019-07-25 02:00:00
 pub_date: 2019-07-25 02:00:00
 time_added: 2019-07-27 22:54:13
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ce/2019/07/24/5junho2019---indios-realizam-uma-passeata-na-esplanada-dos-ministerios-em-brasilia-1563992086941_v2_615x300.jpg
 ---
 

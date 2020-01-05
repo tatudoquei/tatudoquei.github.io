@@ -8,6 +8,7 @@ date: 2019-08-25 04:52:02
 pub_date: 2019-08-25 04:52:02
 time_added: 2019-08-26 06:24:52
 category: 
+tags: []
 ---
 
 Manifestantes foram às ruas em Belém (PA) e em Manaus (PA) neste sábado (24) em defesa da Floresta Amazônia.

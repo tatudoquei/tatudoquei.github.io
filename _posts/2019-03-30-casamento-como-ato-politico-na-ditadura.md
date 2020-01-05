@@ -8,6 +8,7 @@ date: 2019-03-30 09:58:41
 pub_date: 2015-10-04 05:00:00
 time_added: 2019-03-30 09:58:41
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/17684693-10d-c79/FT1086A/652/2015-854356594-casamento-ines-etienne-7.jpg_20151001.jpg
 ---
 

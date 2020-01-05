@@ -8,6 +8,7 @@ date: 2019-03-01 07:30:36
 pub_date: 2019-03-01 07:30:36
 time_added: 2019-03-07 00:20:57
 category: avisamos
+tags: []
 ---
 
 A tal "lua de mel" com os parlamentares, com a qual o governo Jair Bolsonaro (PSL) contava e se vangloriava de ter conseguido após a enorme renovação do Congresso, não garantiu um ritmo expressivo de votações na Câmara neste primeiro mês de trabalho em 2019.

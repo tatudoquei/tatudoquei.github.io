@@ -8,6 +8,7 @@ date: 2019-01-17 14:55:05
 pub_date: 2019-01-17 14:55:05
 time_added: 2019-01-18 00:26:44
 category: avisamos
+tags: []
 image: https://odia.ig.com.br/_midias/jpg/2019/01/17/700x470/1_12733577_10207375793264873_2968399655813103165_n-9346286.jpg
 ---
 

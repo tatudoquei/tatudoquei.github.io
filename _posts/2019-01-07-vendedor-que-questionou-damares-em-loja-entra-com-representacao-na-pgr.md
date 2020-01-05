@@ -8,6 +8,7 @@ date: 2019-01-07 18:17:00
 pub_date: 2019-01-07 18:17:00
 time_added: 2019-12-23 21:19:31
 category: resistimos
+tags: []
 ---
 
 RIO — O vendedor Thiego Amorim, que se envolveu numa confusão com a ministra da Mulher, Família e Direitos Humanos, Damares Alves, numa loja de um shopping em Brasília na semana passada, entrou com uma representação na Procuradoria-Geral da República (PGR) contra a pastora, nesta segunda-fei

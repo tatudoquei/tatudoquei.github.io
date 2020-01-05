@@ -8,6 +8,7 @@ date: 2019-01-05 16:00:44
 pub_date: 2019-01-05 16:00:44
 time_added: 2019-12-23 21:15:16
 category: recuadas
+tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2018/10/18153913/bolsonarohaddad-2.jpeg
 ---
 

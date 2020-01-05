@@ -8,6 +8,7 @@ date: 2019-04-29 12:14:00
 pub_date: 2019-04-29 12:14:00
 time_added: 2019-05-01 08:54:37
 category: 
+tags: []
 image: https://f.i.uol.com.br/fotografia/2018/04/22/15244467365add3610cf61a_1524446736_3x2_rt.jpg
 ---
 

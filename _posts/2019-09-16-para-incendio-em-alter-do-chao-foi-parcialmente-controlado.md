@@ -8,6 +8,7 @@ date: 2019-09-16 22:10:35
 pub_date: 2019-09-16 22:10:35
 time_added: 2019-09-17 16:05:39
 category: 
+tags: []
 ---
 
 O incêndio que há três dias atinge a região de Alter do Chão e Ponta de Pedras, em Santarém, no Pará, começa a ser controlado. Alter é conhecido mundialmente pelas praias de água doce formadas pelo rio Tapajós.

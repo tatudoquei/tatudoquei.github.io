@@ -8,6 +8,7 @@ date: 2018-12-29 03:30:00
 pub_date: 2018-12-29 03:30:00
 time_added: 2019-12-23 21:41:23
 category: refletimos
+tags: [ciência]
 ---
 
 RIO - Às vésperas de um verão em que, mais uma vez, as doenças relacionadas ao mosquito Aedes aegypti podem assolar a saúde pública, um projeto que estudaria a alimentação do mosquito, impedindo que ele buscasse o sangue de um mamífero, parece fundamental.

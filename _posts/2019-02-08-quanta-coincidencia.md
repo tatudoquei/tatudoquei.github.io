@@ -8,6 +8,7 @@ date: 2019-02-08 10:00:59
 pub_date: 2019-02-08 10:00:59
 time_added: 2019-12-23 21:37:45
 category: refletimos
+tags: []
 image: https://abrilveja.files.wordpress.com/2019/02/senado-eleicao-flavio-bolsonaro-2019-6110.jpg.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

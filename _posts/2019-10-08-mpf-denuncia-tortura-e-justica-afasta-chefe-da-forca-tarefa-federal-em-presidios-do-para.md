@@ -8,6 +8,7 @@ date: 2019-10-08 02:30:00
 pub_date: 2019-10-08 02:30:00
 time_added: 2019-10-10 01:42:28
 category: 
+tags: []
 ---
 
 BRASÍLIA — Em uma ação de improbidade administrativa assinada por 17 dos 28 procuradores da República que atuam no Pará, o Ministério Público Federal (MPF) aponta um quadro generalizado de tortura — com práticas que vão do empalamento à perfuração dos pés dos presos por pregos — e

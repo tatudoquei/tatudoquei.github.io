@@ -8,6 +8,7 @@ date: 2019-07-02 17:52:11
 pub_date: 2019-07-02 17:52:11
 time_added: 2019-07-04 22:28:21
 category: 
+tags: []
 ---
 
 Os Restaurantes Universitários (RUs) da Universidade Federal de Santa Catarina (UFSC) nos campi de Araranguá, Blumenau, Curitibanos e Joinville serão fechados durante o recesso escolar, de 13 de julho a 4 de agosto.

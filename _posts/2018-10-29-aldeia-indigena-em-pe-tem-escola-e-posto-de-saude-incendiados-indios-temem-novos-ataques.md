@@ -8,6 +8,7 @@ date: 2018-10-29 21:40:00
 pub_date: 2018-10-29 21:40:00
 time_added: 2019-12-23 21:19:29
 category: avisamos
+tags: []
 image: http://conteudo.imguol.com.br/c/noticias/6f/2018/10/29/29out2018---posto-de-saude-fica-destruido-na-terra-indigena-dos-pankararus-apos-incendio-1540863303214_615x300.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2018-10-29 16:53:32
 pub_date: 2018-10-29 16:53:32
 time_added: 2019-12-23 21:19:29
 category: avisamos
+tags: []
 image: https://ep00.epimg.net/elpais/imagenes/2018/10/29/videos/1540826969_302969_1540827579_rrss_normal.jpg
 ---
 

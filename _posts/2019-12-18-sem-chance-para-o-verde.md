@@ -8,6 +8,7 @@ date: 2019-12-18 12:42:00
 pub_date: 2019-12-18 12:42:00
 time_added: 2019-12-19 07:37:33
 category: 
+tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/12/pecuaria_redes_13122019.jpg
 ---
 

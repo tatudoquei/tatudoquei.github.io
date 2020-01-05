@@ -8,6 +8,7 @@ date: 2019-04-03 17:00:00
 pub_date: 2019-04-03 17:00:00
 time_added: 2019-04-05 05:53:03
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/04/pauloguedes-615x300.jpg
 ---
 

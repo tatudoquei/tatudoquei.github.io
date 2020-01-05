@@ -8,6 +8,7 @@ date: 2019-10-15 02:00:00
 pub_date: 2019-10-15 02:00:00
 time_added: 2019-10-16 20:14:09
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e0/2019/07/21/o-ministro-da-educacao-abraham-weintraub-durante-entrevista-exclusiva-ao-uol-em-seu-gabinete-em-brasilia-1563737818024_v2_615x300.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-03-24 12:06:00
 pub_date: 2018-10-25 22:00:00
 time_added: 2019-03-24 12:06:00
 category: refletimos
+tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Jair_Bolsonaro.jpg5/ALTERNATES/LANDSCAPE_720/Jair_Bolsonaro.jpg
 ---
 

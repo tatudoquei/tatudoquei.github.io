@@ -8,6 +8,7 @@ date: 2019-04-15 22:00:00
 pub_date: 2019-04-15 22:00:00
 time_added: 2019-04-19 07:41:02
 category: 
+tags: []
 image: https://redecerrado.org.br/wp-content/uploads/2019/04/ato-em-defesa-da-participacao-social-credito-ISA.jpeg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-01-07 14:21:00
 pub_date: 2019-01-07 14:21:00
 time_added: 2019-12-23 21:41:24
 category: refletimos
+tags: [educação]
 image: https://ogimg.infoglobo.com.br/in/23352924-825-bc5/FT1086A/652/murilo.jpg
 ---
 

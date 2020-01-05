@@ -8,6 +8,7 @@ date: 2019-10-22 13:21:41
 pub_date: 2019-10-22 13:21:41
 time_added: 2019-10-22 19:57:55
 category: 
+tags: []
 image: http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2019/10/22/fta20191022021.jpg
 ---
 

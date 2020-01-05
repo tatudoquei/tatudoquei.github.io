@@ -8,6 +8,7 @@ date: 2019-01-22 13:20:00
 pub_date: 2019-01-22 13:20:00
 time_added: 2019-12-23 21:41:25
 category: refletimos
+tags: [economia]
 image: https://cdnbr1.img.sputniknews.com/images/1316/13/13161398.jpg
 ---
 

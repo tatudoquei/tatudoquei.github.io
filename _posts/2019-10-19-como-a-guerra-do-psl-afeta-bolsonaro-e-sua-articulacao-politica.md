@@ -8,6 +8,7 @@ date: 2019-10-19 08:08:39
 pub_date: 2019-10-19 08:08:39
 time_added: 2019-10-19 10:08:39
 category: 
+tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Bolsonaro.jpg16/ALTERNATES/LANDSCAPE_720/Bolsonaro.jpg
 ---
 

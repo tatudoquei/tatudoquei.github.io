@@ -8,6 +8,7 @@ date: 2020-01-03 06:04:00
 pub_date: 2020-01-03 06:04:00
 time_added: 2020-01-03 20:37:16
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/48/2019/08/31/o-presidente-dos-eua-donald-trump-cumprimenta-o-chanceler-brasileiro-ernesto-araujo-na-casa-branca-1567271001462_v2_615x300.jpg
 ---
 

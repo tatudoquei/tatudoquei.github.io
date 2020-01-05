@@ -8,6 +8,7 @@ date: 2019-05-14 17:35:00
 pub_date: 2019-05-14 17:35:00
 time_added: 2019-05-21 19:35:07
 category: 
+tags: []
 image: https://www.redebrasilatual.com.br/wp-content/uploads/2019/05/9a5ccd43-7249-4009-afd7-f3b911f67568.jpeg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-11-08 14:07:00
 pub_date: 2019-11-08 14:07:00
 time_added: 2019-11-08 19:10:57
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/20/2019/11/01/o-empresario-e-secretario-de-aquicultura-e-pesca-jorge-seif-junior-em-foto-de-2018-1572621094916_v2_615x300.jpg
 ---
 

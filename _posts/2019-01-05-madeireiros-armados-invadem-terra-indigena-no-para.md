@@ -8,6 +8,7 @@ date: 2019-01-05 08:36:41
 pub_date: 2019-01-05 08:36:41
 time_added: 2019-01-05 09:36:41
 category: avisamos
+tags: []
 image: http://www.diarioonline.com.br/app/painel/modulo-noticia/img/imagensdb/original/destaque-566366-indigenas-madeireiros-altamira.jpg
 ---
 

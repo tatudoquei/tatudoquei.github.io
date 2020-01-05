@@ -8,6 +8,7 @@ date: 2019-01-29 19:01:00
 pub_date: 2019-01-29 19:01:00
 time_added: 2019-01-29 23:52:04
 category: avisamos
+tags: []
 ---
 
 SÃO PAULO - As despesas da cirurgia de reconstrução intestinal do presidente Jair Bolsonaro no Hospital Albert Einstein, na capital paulista, serão pagas pelo Hospital das Forças Armadas.

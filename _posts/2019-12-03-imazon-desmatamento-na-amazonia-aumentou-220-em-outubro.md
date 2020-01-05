@@ -8,6 +8,7 @@ date: 2019-12-03 16:58:09
 pub_date: 2019-12-03 16:58:09
 time_added: 2019-12-08 12:32:05
 category: 
+tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2019/12/desmatamento1.jpg
 ---
 

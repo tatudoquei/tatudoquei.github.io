@@ -8,6 +8,7 @@ date: 2019-02-15 18:37:00
 pub_date: 2019-02-15 18:37:00
 time_added: 2019-02-16 09:21:26
 category: avisamos
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23449670-71e-258/FT1086A/652/79860176_Carlos-Bolsonaro-son-of-Brazils-President-elect-Jair-Bolsonaro-is-pictured-during-his.jpg
 ---
 

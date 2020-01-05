@@ -8,6 +8,7 @@ date: 2019-07-23 06:13:44
 pub_date: 2019-07-23 06:13:44
 time_added: 2019-07-24 19:46:50
 category: 
+tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2019/07/morodeltan-521x350.jpg
 ---
 

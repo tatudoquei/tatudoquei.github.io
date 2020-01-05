@@ -8,6 +8,7 @@ date: 2019-03-22 11:27:07
 pub_date: 2019-03-22 11:27:07
 time_added: 2019-12-23 21:15:17
 category: recuadas
+tags: [educação]
 image: http://www.estadao.com.br/estadao/novo/img/estadao.gif
 ---
 

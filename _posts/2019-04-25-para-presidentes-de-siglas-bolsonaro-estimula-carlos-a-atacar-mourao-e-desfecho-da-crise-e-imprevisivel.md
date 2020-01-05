@@ -8,6 +8,7 @@ date: 2019-04-25 00:00:00
 pub_date: 2019-04-25 00:00:00
 time_added: 2019-04-26 03:56:57
 category: 
+tags: []
 image: https://painel.blogfolha.uol.com.br/files/2019/01/decreto_posse.jpg
 ---
 

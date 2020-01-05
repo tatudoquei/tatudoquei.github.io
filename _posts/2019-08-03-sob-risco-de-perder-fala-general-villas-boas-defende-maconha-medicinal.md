@@ -8,6 +8,7 @@ date: 2019-08-03 19:30:00
 pub_date: 2019-08-03 19:30:00
 time_added: 2019-08-05 22:32:18
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ee/2019/05/07/02jan2019---o-general-eduardo-villas-boas-em-cerimonia-de-transmissao-de-cargo-do-ministro-da-justica-1557242072338_v2_615x300.jpg
 ---
 

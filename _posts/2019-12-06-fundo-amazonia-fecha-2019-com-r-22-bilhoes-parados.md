@@ -8,6 +8,7 @@ date: 2019-12-06 03:30:00
 pub_date: 2019-12-06 03:30:00
 time_added: 2019-12-06 20:49:35
 category: 
+tags: []
 ---
 
 BRASÍLIA - Enquanto o ministro do Meio Ambiente, Ricardo Salles, está na Europa pedindo dinheiro para a floresta , o Fundo Amazônia deverá fechar 2019 com R$ 2,2 bilhões parados, nenhum projeto aprovado e o menor valor desembolsado em seis anos.

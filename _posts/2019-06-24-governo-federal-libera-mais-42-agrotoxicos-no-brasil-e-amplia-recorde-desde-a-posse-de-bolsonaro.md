@@ -8,6 +8,7 @@ date: 2019-06-24 17:47:00
 pub_date: 2019-06-24 17:47:00
 time_added: 2019-06-27 05:55:39
 category: 
+tags: []
 ---
 
 RIO — O Ministério da Agricultura autorizou a utilização de 42 novos agrotóxicos no Brasil, ampliando o recorde de pesticidas liberados pelo governo federal neste ano. A decisão foi publicada no Diário Oficial da União (DOU) nesta segunda-feira (24).

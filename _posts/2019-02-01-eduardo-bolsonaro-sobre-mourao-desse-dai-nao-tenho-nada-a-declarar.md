@@ -8,6 +8,7 @@ date: 2019-02-01 12:15:00
 pub_date: 2019-02-01 12:15:00
 time_added: 2019-12-23 21:37:44
 category: refletimos
+tags: []
 ---
 
 Eduardo Bolsonaro reagiu à fala pró-aborto de Hamilton Mourão, que, em entrevista ao jornal O Globo, declarou que o aborto deve ser uma decisão da mulher.

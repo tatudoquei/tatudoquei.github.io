@@ -8,6 +8,7 @@ date: 2019-08-02 23:26:08
 pub_date: 2019-08-02 23:26:08
 time_added: 2019-08-03 22:34:29
 category: 
+tags: []
 image: https://jornal.usp.br/wp-content/uploads/20180131_00_reator_nuclear2.jpg
 ---
 

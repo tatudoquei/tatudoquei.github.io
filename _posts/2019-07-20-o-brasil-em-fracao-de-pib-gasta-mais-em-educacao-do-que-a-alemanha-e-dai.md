@@ -8,6 +8,7 @@ date: 2019-07-20 23:10:00
 pub_date: 2019-07-20 23:10:00
 time_added: 2019-12-23 21:21:00
 category: refletimos
+tags: [educação]
 image: http://2.bp.blogspot.com/-iADV6jE56lg/U2yAYq8T08I/AAAAAAAABo0/56qlIofRt58/w1200-h630-p-k-no-nu/investimentoxPISA2009.png
 ---
 

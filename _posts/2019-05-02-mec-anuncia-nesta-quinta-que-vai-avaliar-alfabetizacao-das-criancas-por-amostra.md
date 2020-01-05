@@ -8,6 +8,7 @@ date: 2019-05-02 16:11:00
 pub_date: 2019-05-02 16:11:00
 time_added: 2019-05-03 22:09:42
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/3e/2019/04/08/ao-lado-do-irmao-abraham-weintraub-defendeu-estrategias-para-vencer-o-marxismo-cultural-nas-universidades-1554744368031_v2_750x421.jpg
 ---
 

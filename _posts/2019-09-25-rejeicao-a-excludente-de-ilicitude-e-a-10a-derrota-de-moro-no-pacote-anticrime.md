@@ -8,6 +8,7 @@ date: 2019-09-25 14:20:00
 pub_date: 2019-09-25 14:20:00
 time_added: 2019-09-28 06:32:54
 category: 
+tags: []
 ---
 
 BRASÍLIA – A rejeição ao "excludente de ilicitude" do pacote anticrime de Sergio Moro é a décima derrota do ministro da Justiça no grupo de trabalho que analisa o texto na Câmara dos Deputados.

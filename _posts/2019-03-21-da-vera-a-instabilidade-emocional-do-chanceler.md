@@ -8,6 +8,7 @@ date: 2019-03-21 07:08:54
 pub_date: 2019-03-21 07:08:54
 time_added: 2019-03-24 07:38:09
 category: refletimos
+tags: []
 image: https://statics.estadao.com.br/s2016/br18/br18.png
 ---
 

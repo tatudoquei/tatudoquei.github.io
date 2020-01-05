@@ -8,6 +8,7 @@ date: 2019-11-20 03:00:00
 pub_date: 2019-11-20 03:00:00
 time_added: 2019-11-20 22:07:44
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/09/rondonia-615x300.jpeg
 ---
 

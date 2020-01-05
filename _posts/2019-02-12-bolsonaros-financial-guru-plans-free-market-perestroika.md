@@ -8,6 +8,7 @@ date: 2019-02-12 22:26:51
 pub_date: 2019-02-12 22:26:51
 time_added: 2019-02-12 23:26:51
 category: avisamos
+tags: []
 image: https://www.ft.com/__assets/creatives/brand-ft/icons/v3/open-graph.png
 ---
 

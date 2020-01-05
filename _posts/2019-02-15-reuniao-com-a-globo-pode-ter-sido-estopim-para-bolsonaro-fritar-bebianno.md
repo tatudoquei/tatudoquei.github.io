@@ -8,6 +8,7 @@ date: 2019-02-15 15:07:38
 pub_date: 2019-02-15 15:07:38
 time_added: 2019-02-16 09:21:55
 category: avisamos
+tags: []
 image: https://abrilveja.files.wordpress.com/2019/02/bolsonaro-bebbiano-nomeacao-posse-01012019-1.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

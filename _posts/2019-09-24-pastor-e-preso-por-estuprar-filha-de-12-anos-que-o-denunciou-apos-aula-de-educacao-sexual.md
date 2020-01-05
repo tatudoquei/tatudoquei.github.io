@@ -8,6 +8,7 @@ date: 2019-09-24 16:27:00
 pub_date: 2019-09-24 16:27:00
 time_added: 2019-09-29 09:19:15
 category: 
+tags: []
 ---
 
 Um pastor de 37 anos foi preso na cidade de Careiro Castanho, no interior do Amazonas, por suspeita de estuprar a própria filha de 12 anos repetidas vezes dentro de casa.

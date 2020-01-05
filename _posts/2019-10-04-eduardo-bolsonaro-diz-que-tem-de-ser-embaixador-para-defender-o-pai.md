@@ -8,6 +8,7 @@ date: 2019-10-04 11:18:00
 pub_date: 2019-10-04 11:18:00
 time_added: 2019-10-06 08:22:41
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d1/2019/09/06/eduardo-bolsonaro-em-viagem-a-washington-onde-se-encontrou-com-trump-1567820636591_v2_615x300.jpg
 ---
 

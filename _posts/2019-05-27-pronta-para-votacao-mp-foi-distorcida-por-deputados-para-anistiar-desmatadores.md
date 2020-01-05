@@ -8,6 +8,7 @@ date: 2019-05-27 14:40:07
 pub_date: 2019-05-27 14:40:07
 time_added: 2019-05-27 21:30:14
 category: 
+tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2018/01/05110846_43091_GDO.jpg
 ---
 

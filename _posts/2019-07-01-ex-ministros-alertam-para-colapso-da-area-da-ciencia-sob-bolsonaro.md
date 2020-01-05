@@ -8,6 +8,7 @@ date: 2019-07-01 22:00:00
 pub_date: 2019-07-01 22:00:00
 time_added: 2019-07-05 06:30:10
 category: 
+tags: []
 image: https://www.dw.com/image/19327468_304.jpg
 ---
 

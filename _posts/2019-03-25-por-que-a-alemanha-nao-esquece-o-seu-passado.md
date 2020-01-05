@@ -8,6 +8,7 @@ date: 2019-03-25 23:00:00
 pub_date: 2019-03-25 23:00:00
 time_added: 2019-03-27 07:10:27
 category: refletimos
+tags: []
 ---
 
 Na escola, alunos aprendem exaustivamente sobre as atrocidades do nazismo. Nas ruas, memoriais e museus não deixam que a verdade histórica seja esquecida. Estratégia é lembrar do passado para que erros não se repitam.

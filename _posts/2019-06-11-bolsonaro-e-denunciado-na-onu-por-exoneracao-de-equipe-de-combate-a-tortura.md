@@ -8,6 +8,7 @@ date: 2019-06-11 15:41:00
 pub_date: 2019-06-11 15:41:00
 time_added: 2019-06-12 20:53:24
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/275/files/2019/06/IMG_0098-2-615x300.jpg
 ---
 

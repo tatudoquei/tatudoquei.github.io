@@ -8,6 +8,7 @@ date: 2019-08-25 22:01:00
 pub_date: 2019-08-25 22:01:00
 time_added: 2019-08-27 06:29:29
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/economia/23903892-6bc-99d/FT1086A/652/canada-camila-henrique.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-03-25 23:27:09
 pub_date: 2019-03-25 23:27:09
 time_added: 2019-03-27 07:12:02
 category: refletimos
+tags: []
 image: https://static.foxnews.com/foxnews.com/content/uploads/2019/03/ContentBroker_contentid-eb4f0edfdc0d410dba10b33d41394840.png
 ---
 

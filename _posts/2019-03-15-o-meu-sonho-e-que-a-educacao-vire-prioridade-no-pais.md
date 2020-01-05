@@ -8,6 +8,7 @@ date: 2019-03-15 19:43:32
 pub_date: 2019-03-15 19:43:32
 time_added: 2019-03-31 07:53:24
 category: 
+tags: []
 image: http://s3.amazonaws.com/futurabucket2017/wp-content/uploads/2019/03/19112637/tabata-amaral-header-3-800x600.png
 ---
 

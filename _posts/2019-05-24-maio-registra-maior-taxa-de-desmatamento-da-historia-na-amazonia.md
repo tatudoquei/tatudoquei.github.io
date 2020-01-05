@@ -8,6 +8,7 @@ date: 2019-05-24 18:30:28
 pub_date: 2019-05-24 18:30:28
 time_added: 2019-06-04 20:27:57
 category: 
+tags: []
 image: https://jornal.usp.br/wp-content/uploads/20170606_00_degradacao_amazonia_8.jpg
 ---
 

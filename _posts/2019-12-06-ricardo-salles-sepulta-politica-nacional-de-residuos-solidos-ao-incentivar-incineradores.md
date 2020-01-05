@@ -8,6 +8,7 @@ date: 2019-12-06 10:38:15
 pub_date: 2019-12-06 10:38:15
 time_added: 2019-12-08 20:57:30
 category: 
+tags: []
 image: https://www.redebrasilatual.com.br/wp-content/uploads/2019/12/incinerador.jpg
 ---
 

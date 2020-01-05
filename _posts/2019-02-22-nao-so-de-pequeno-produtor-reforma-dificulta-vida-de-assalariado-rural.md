@@ -8,6 +8,7 @@ date: 2019-02-22 18:28:00
 pub_date: 2019-02-22 18:28:00
 time_added: 2019-12-23 21:21:00
 category: refletimos
+tags: []
 image: https://conteudo.imguol.com.br/6b/2018/10/29/sakamoto---share-1540825181920_956x500.png
 ---
 

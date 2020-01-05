@@ -8,6 +8,7 @@ date: 2019-10-06 06:23:56
 pub_date: 2019-10-06 06:23:56
 time_added: 2019-10-06 08:23:56
 category: 
+tags: []
 image: https://www.diariodocentrodomundo.com.br/wp-content/uploads/2019/10/captura-de-tela-2019-10-03-as-06-33-09.png
 ---
 

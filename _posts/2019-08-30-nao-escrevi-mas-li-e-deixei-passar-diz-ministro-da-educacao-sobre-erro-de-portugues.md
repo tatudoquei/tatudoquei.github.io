@@ -8,6 +8,7 @@ date: 2019-08-30 15:48:00
 pub_date: 2019-08-30 15:48:00
 time_added: 2019-08-30 23:32:54
 category: 
+tags: []
 ---
 
 BRASÍLIA - Após a repercussão negativa sobre o erro de português em um ofício, o ministro Abraham Weintraub (Educação) disse na tarde desta sexta-feira em rede social que não escreveu o texto, mas leu e deixou passar.

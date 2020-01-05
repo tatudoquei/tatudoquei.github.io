@@ -8,6 +8,7 @@ date: 2019-06-13 02:00:00
 pub_date: 2019-06-13 02:00:00
 time_added: 2019-06-15 08:57:15
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/af/2017/07/13/13jul2017---lula-em-coletiva-de-imprensa-apos-condenacao-do-juiz-sergio-moro-1499962472068_615x300.jpg
 ---
 

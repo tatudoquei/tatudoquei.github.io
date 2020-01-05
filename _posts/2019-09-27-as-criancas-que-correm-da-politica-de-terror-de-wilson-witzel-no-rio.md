@@ -8,6 +8,7 @@ date: 2019-09-27 15:55:08
 pub_date: 2019-09-27 15:55:08
 time_added: 2019-09-22 07:58:29
 category: 
+tags: []
 image: https://ep00.epimg.net/brasil/imagenes/2019/05/08/opinion/1557268763_938547_1557277159_rrss_normal.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-09-17 22:04:47
 pub_date: 2019-09-17 22:04:47
 time_added: 2019-09-18 22:27:35
 category: 
+tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/09/20190918_00_pesquisa_epidemias.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-04-24 19:01:00
 pub_date: 2019-04-24 19:01:00
 time_added: 2019-04-25 22:10:39
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23464057-126-a69/FT1086A/652/80264265.jpg
 ---
 

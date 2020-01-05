@@ -8,6 +8,7 @@ date: 2019-01-31 11:57:49
 pub_date: 2019-01-31 11:57:49
 time_added: 2019-01-31 22:09:57
 category: avisamos
+tags: []
 image: https://paranaportal.uol.com.br/wp-content/uploads/2019/01/ministerio-da-educacao-fachada-divulgacao.jpg
 ---
 

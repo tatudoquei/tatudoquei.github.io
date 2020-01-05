@@ -8,6 +8,7 @@ date: 2019-06-27 22:48:29
 pub_date: 2019-06-27 22:48:29
 time_added: 2020-01-01 21:36:53
 category: 
+tags: []
 image: https://outraspalavras.net/wp-content/uploads/2019/06/190627-BolsoTrump4b.jpg
 ---
 

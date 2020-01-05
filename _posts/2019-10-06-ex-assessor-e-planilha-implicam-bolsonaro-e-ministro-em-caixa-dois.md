@@ -8,6 +8,7 @@ date: 2019-10-06 00:00:00
 pub_date: 2019-10-06 00:00:00
 time_added: 2019-10-06 08:36:56
 category: 
+tags: []
 image: https://f.i.uol.com.br/fotografia/2019/05/16/15580344345cddb802d2430_1558034434_3x2_rt.jpg
 ---
 

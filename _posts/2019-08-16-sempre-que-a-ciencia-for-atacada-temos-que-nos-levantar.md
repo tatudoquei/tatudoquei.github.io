@@ -8,6 +8,7 @@ date: 2019-08-16 22:01:02
 pub_date: 2019-08-16 22:01:02
 time_added: 2019-08-18 21:01:52
 category: 
+tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/08/20190816_04_Ricardo-Galvao_Usp.jpg
 ---
 

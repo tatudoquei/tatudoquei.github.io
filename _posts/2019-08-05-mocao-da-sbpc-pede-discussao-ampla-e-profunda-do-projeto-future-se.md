@@ -8,6 +8,7 @@ date: 2019-08-05 15:27:52
 pub_date: 2019-08-05 15:27:52
 time_added: 2019-08-06 04:42:35
 category: 
+tags: []
 ---
 
 No manifesto encaminhado nesta segunda-feira, 5 de agosto, a entidade solicita a extensão de, pelo menos, três meses no prazo para Consulta Pública sobre o programa.

@@ -8,6 +8,7 @@ date: 2019-10-23 02:05:00
 pub_date: 2019-10-23 02:05:00
 time_added: 2019-10-23 22:16:18
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/10/senado-aprova-em-segundo-turno-a-reforma-da-previdencia-1571789032293_v2_900x506-615x300.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-06-28 03:00:55
 pub_date: 2019-06-28 03:00:55
 time_added: 2019-06-29 17:58:10
 category: 
+tags: []
 image: https://politica.estadao.com.br/blogs/coluna-do-estadao/wp-content/uploads/sites/352/2019/06/1558835158185.jpg
 ---
 

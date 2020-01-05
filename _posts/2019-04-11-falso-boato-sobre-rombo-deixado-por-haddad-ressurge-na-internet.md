@@ -8,6 +8,7 @@ date: 2019-04-11 02:49:23
 pub_date: 2019-04-11 02:49:23
 time_added: 2019-04-12 21:41:20
 category: 
+tags: []
 image: https://politica.estadao.com.br/blogs/estadao-verifica/wp-content/uploads/sites/690/2019/04/fernando-haddad-helvio-romero-estadao.jpg
 ---
 

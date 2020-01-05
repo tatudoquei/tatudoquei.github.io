@@ -8,6 +8,7 @@ date: 2019-05-03 03:00:00
 pub_date: 2019-05-03 03:00:00
 time_added: 2019-05-04 17:36:04
 category: 
+tags: []
 image: https://horadopovo.org.br/wp-content/uploads/2019/05/CP2.jpg
 ---
 

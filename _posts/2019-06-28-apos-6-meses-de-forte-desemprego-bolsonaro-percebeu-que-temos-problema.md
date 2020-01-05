@@ -8,6 +8,7 @@ date: 2019-06-28 07:18:00
 pub_date: 2019-06-28 07:18:00
 time_added: 2019-06-29 17:32:28
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/06/bolsojapa-615x300.jpg
 ---
 

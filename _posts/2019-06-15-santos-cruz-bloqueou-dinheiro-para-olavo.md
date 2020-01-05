@@ -8,6 +8,7 @@ date: 2019-06-15 06:45:28
 pub_date: 2019-06-15 06:45:28
 time_added: 2019-06-15 08:45:28
 category: 
+tags: []
 image: https://arepublica.com.br/media/k2/items/cache/1d9a33d11ed57ea93d90495bbcf425d2_M.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-04-30 10:01:00
 pub_date: 2019-04-30 10:01:00
 time_added: 2019-05-02 19:36:01
 category: 
+tags: []
 image: https://observatoriodoconhecimento.org.br/wp-content/uploads/2019/04/WhatsApp-Image-2019-04-30-at-09.29.27.jpeg
 ---
 

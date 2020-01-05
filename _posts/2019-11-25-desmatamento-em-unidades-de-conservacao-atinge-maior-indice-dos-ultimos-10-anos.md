@@ -8,6 +8,7 @@ date: 2019-11-25 13:00:52
 pub_date: 2019-11-25 13:00:52
 time_added: 2019-12-01 08:57:13
 category: 
+tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2019/11/dronefoto.jpg
 ---
 

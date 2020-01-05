@@ -8,6 +8,7 @@ date: 2019-07-11 00:00:00
 pub_date: 2019-07-11 00:00:00
 time_added: 2019-07-11 17:48:29
 category: 
+tags: []
 image: https://s2.glbimg.com/594g6vAQEofwY-aBxnL1XkVMZkI=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/07/10/83611356_o_presidente_jair_bolsonaro_vai_a_camara_dos_deputados_para_participar_de_culto_religioso_e.jpg
 ---
 

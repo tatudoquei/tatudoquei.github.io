@@ -8,6 +8,7 @@ date: 2019-06-12 18:07:32
 pub_date: 2019-06-12 18:07:32
 time_added: 2019-06-13 18:56:12
 category: 
+tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/06/Vetos-Congresso-Nacional.jpg
 ---
 

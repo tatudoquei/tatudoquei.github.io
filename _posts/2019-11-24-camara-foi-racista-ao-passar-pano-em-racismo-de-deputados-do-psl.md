@@ -8,6 +8,7 @@ date: 2019-11-24 10:12:00
 pub_date: 2019-11-24 10:12:00
 time_added: 2019-12-01 08:58:16
 category: 
+tags: []
 image: https://theintercept.imgix.net/wp-uploads/sites/1/2019/11/tadey3-1574593811.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800
 ---
 

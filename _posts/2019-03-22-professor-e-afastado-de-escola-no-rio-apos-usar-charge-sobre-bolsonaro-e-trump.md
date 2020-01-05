@@ -8,6 +8,7 @@ date: 2019-03-22 16:26:00
 pub_date: 2019-03-22 16:26:00
 time_added: 2019-03-26 18:48:31
 category: avisamos
+tags: []
 ---
 
 RIO- Um professor do colégio Liceu de Humanidades de Campos dos Goytacazes, no interior do Rio, foi afastado após utilizar uma charge ironizando a relação de Jair Bolsonaro com o presidente americano, Donald Trump.

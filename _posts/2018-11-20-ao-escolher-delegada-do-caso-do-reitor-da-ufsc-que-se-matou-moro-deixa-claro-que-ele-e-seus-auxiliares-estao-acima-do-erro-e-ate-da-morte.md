@@ -8,6 +8,7 @@ date: 2018-11-20 06:07:00
 pub_date: 2018-11-20 06:07:00
 time_added: 2019-12-23 21:15:15
 category: refletimos
+tags: []
 image: https://www3.redetv.uol.com.br/blog/reinaldo/wp-content/themes/layout/assets/images/reinaldo-thumb.jpg
 ---
 

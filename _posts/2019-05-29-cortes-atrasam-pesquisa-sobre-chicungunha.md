@@ -8,6 +8,7 @@ date: 2019-05-29 09:47:00
 pub_date: 2019-05-29 09:47:00
 time_added: 2019-05-29 18:59:05
 category: 
+tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/05/laboratorio_redes_29052019.jpg
 ---
 

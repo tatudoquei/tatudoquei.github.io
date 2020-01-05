@@ -8,6 +8,7 @@ date: 2019-11-08 18:28:00
 pub_date: 2019-11-08 18:28:00
 time_added: 2019-11-10 01:58:22
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/24071545-704-ee5/FT1086A/652/MONITORAMENTO.jpg
 ---
 

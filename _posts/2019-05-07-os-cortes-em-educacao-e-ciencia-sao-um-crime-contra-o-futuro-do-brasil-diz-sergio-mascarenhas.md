@@ -8,6 +8,7 @@ date: 2019-05-07 03:00:00
 pub_date: 2019-05-07 03:00:00
 time_added: 2019-05-17 23:15:00
 category: 
+tags: []
 ---
 
 “Os cortes nas verbas do Sistema Nacional de Educação, Ciência, Tecnologia e Inovação é um verdadeiro crime contra o futuro do Brasil”.

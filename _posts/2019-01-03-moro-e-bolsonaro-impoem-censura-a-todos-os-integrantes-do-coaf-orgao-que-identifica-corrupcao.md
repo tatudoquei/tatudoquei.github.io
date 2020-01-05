@@ -8,6 +8,7 @@ date: 2019-01-03 17:59:22
 pub_date: 2019-01-03 17:59:22
 time_added: 2019-01-09 00:02:00
 category: avisamos
+tags: []
 ---
 
 Em um dos primeiros decretos de seu governo, assinado nesta terça-feira (1º), Jair Bolsonaro (PSL) impôs censura ao presidente, conselheiros e servidores em exercício do Conselho de Controle de Atividades Financeiras (Coaf), impedindo-os de manifestarem “em qualquer meio de comunicação, opin

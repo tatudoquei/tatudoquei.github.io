@@ -8,6 +8,7 @@ date: 2018-12-19 03:30:00
 pub_date: 2018-12-19 03:30:00
 time_added: 2018-12-23 20:07:52
 category: avisamos
+tags: []
 ---
 
 RIO - O policial militar Fabrício Queiroz, ex-assessor do deputado estadual e senador eleito Flávio Bolsonaro (PSL) na Assembleia Legislativa do Rio (Alerj), fez um tour pelo Rio de Janeiro para sacar dinheiro vivo, segundo os dados contidos no relatório do Conselho de Controle de Atividades Fina

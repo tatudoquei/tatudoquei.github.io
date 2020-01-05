@@ -8,6 +8,7 @@ date: 2019-08-06 15:43:00
 pub_date: 2019-08-06 15:43:00
 time_added: 2019-08-07 19:26:08
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/aa/2019/07/12/depois-de-aprovado-em-primeiro-turno-por-379-votos-a-131-o-texto-base-da-pec-da-previdencia-no-plenario-da-camara-dos-deputados-parlamentares-analisam-nesta-quinta-feira-propostas-de-alteracoes-1562919799943_v2_615x300.jpg
 ---
 

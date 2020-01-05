@@ -8,6 +8,7 @@ date: 2019-08-15 20:38:05
 pub_date: 2019-08-15 20:38:05
 time_added: 2019-08-18 21:04:18
 category: 
+tags: []
 image: http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2019/08/15/2019-07-19t093336z540365496rc1ecbfbdfb0rtrmadp3germany-merkel.JPG
 ---
 

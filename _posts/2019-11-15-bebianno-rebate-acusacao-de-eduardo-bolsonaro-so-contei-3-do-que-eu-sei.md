@@ -8,6 +8,7 @@ date: 2019-11-15 11:12:00
 pub_date: 2019-11-15 11:12:00
 time_added: 2019-11-16 09:07:29
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/38/2019/02/19/1jan2019---o-presidente-da-republica-jair-bolsonaro-e-gustavo-bebianno-secretaria-geral-da-presidencia-durante-cerimonia-de-posse-presidencial-no-palacio-do-planalto-em-brasilia-df-nesta-1550598381651_v2_615x300.jpg
 ---
 

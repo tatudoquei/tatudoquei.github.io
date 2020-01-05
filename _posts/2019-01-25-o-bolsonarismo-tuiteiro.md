@@ -8,6 +8,7 @@ date: 2019-01-25 04:00:38
 pub_date: 2019-01-25 04:00:38
 time_added: 2019-12-23 21:37:44
 category: refletimos
+tags: []
 image: https://img.estadao.com.br/resources/jpg/5/9/1548371845595.jpg
 ---
 

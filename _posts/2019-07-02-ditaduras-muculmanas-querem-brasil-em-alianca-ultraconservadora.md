@@ -8,6 +8,7 @@ date: 2019-07-02 02:00:00
 pub_date: 2019-07-02 02:00:00
 time_added: 2019-07-04 18:03:25
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/275/files/2019/06/teto-615x300.jpg
 ---
 

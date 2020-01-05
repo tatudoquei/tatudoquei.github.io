@@ -8,6 +8,7 @@ date: 2019-04-22 09:00:40
 pub_date: 2019-04-22 09:00:40
 time_added: 2019-04-23 22:06:32
 category: 
+tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2019/04/olavo-de-carvalho-1-e1555866450657.jpg
 ---
 

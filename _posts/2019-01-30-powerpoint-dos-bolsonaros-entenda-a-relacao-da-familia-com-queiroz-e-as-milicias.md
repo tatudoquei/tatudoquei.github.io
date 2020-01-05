@@ -8,6 +8,7 @@ date: 2019-01-30 11:31:00
 pub_date: 2019-01-30 11:31:00
 time_added: 2019-12-23 21:37:44
 category: refletimos
+tags: [bandido bom]
 image: https://f.i.uol.com.br/fotografia/2019/01/30/15488612425c51bf3a54cbe_1548861242_3x2_rt.jpg
 ---
 

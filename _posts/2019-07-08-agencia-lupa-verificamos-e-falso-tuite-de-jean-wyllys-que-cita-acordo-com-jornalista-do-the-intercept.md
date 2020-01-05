@@ -8,6 +8,7 @@ date: 2019-07-08 18:35:11
 pub_date: 2019-07-08 18:35:11
 time_added: 2019-07-09 06:37:50
 category: 
+tags: []
 image: https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2019/07/printwyllysglennTOPO.png
 ---
 

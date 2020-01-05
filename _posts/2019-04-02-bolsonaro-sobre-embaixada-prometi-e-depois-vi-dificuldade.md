@@ -8,6 +8,7 @@ date: 2019-04-02 11:27:06
 pub_date: 2019-04-02 11:27:06
 time_added: 2019-04-19 07:37:33
 category: 
+tags: []
 image: http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2019/03/28/2019-03-28T230146Z_1_LYNXNPEF2R1YD_RTROPTP_4_POLITICA-BOLSONARO-PREVIDENCIA-CERTEZA.JPG
 ---
 

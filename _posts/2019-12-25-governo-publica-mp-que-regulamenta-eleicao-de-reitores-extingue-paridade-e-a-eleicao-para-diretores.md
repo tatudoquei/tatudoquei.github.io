@@ -8,6 +8,7 @@ date: 2019-12-25 11:12:05
 pub_date: 2019-12-25 11:12:05
 time_added: 2019-12-26 18:49:01
 category: 
+tags: []
 image: https://observatoriodoconhecimento.org.br/wp-content/uploads/2019/12/22072016_Reitoria1_LGPrado.jpg
 ---
 

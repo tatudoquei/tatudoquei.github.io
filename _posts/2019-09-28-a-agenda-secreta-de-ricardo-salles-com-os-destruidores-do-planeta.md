@@ -8,6 +8,7 @@ date: 2019-09-28 18:00:00
 pub_date: 2019-09-28 18:00:00
 time_added: 2019-09-29 09:34:19
 category: 
+tags: []
 image: https://theintercept.imgix.net/wp-uploads/sites/1/2019/09/14281293-high-1569621417.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800
 ---
 

@@ -8,6 +8,7 @@ date: 2019-02-27 11:30:14
 pub_date: 2019-02-27 11:30:14
 time_added: 2019-02-28 02:37:36
 category: avisamos
+tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2018/10/fernando-haddad-helvio-romero-estadao.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-10-02 16:11:34
 pub_date: 2019-10-02 16:11:34
 time_added: 2019-10-03 07:44:04
 category: 
+tags: []
 ---
 
 Brasil | 02.10.2019 Salles disse que foi à Alemanha para "desmistificar" um "sensacionalismo" sobre a situação ambiental brasileira Berlim diz a ministro que só vai rever suspensão de repasse milionário para projetos na Amazônia quando tiver garantia de "que o dinheiro será bem investido".

@@ -8,6 +8,7 @@ date: 2019-06-09 11:38:00
 pub_date: 2019-06-09 11:38:00
 time_added: 2019-06-10 10:26:48
 category: 
+tags: []
 ---
 
 A atuação do governo nas áreas em que o bolsonarismo tem mais força provocou um efeito colateral inesperado: a reaproximação entre setores moderados do PT, do PSDB e dos demais partidos de centro-esquerda.

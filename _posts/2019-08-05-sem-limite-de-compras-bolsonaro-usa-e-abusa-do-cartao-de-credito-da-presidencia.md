@@ -8,6 +8,7 @@ date: 2019-08-05 20:36:15
 pub_date: 2019-08-05 20:36:15
 time_added: 2019-08-05 22:36:15
 category: 
+tags: []
 image: https://media.gazetadopovo.com.br/2019/08/02205910/bolsonaro-jair-marcelo-camargo-abr-660x372.jpg
 ---
 

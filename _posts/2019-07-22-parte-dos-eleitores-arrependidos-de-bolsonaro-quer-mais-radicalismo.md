@@ -8,6 +8,7 @@ date: 2019-07-22 08:00:01
 pub_date: 2019-07-22 08:00:01
 time_added: 2019-07-23 15:23:16
 category: 
+tags: []
 image: https://www.valor.com.br/sites/default/files/imagecache/media_library_big_horizontal/gn/19/07/foto22pol-201-isabela-a10.jpg
 ---
 

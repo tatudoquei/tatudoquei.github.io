@@ -8,6 +8,7 @@ date: 2019-11-11 06:08:00
 pub_date: 2019-11-11 06:08:00
 time_added: 2019-11-12 06:55:38
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2019/11/pterodactilo-615x300.jpg
 ---
 

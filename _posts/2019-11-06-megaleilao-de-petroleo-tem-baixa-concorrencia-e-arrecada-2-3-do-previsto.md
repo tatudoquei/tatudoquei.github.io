@@ -8,6 +8,7 @@ date: 2019-11-06 10:38:00
 pub_date: 2019-11-06 10:38:00
 time_added: 2019-11-08 19:55:35
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/45/2019/08/25/plataforma-de-petroleo-1566758735042_v2_615x300.jpg
 ---
 

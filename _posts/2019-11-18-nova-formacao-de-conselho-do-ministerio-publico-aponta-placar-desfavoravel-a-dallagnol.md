@@ -8,6 +8,7 @@ date: 2019-11-18 00:59:00
 pub_date: 2019-11-18 00:59:00
 time_added: 2019-11-18 16:42:13
 category: 
+tags: []
 image: https://painel.blogfolha.uol.com.br/files/2019/03/deltan.jpg
 ---
 

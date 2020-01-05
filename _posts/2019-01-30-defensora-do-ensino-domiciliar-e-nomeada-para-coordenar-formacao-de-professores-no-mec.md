@@ -8,6 +8,7 @@ date: 2019-01-30 20:22:28
 pub_date: 2019-01-30 20:22:28
 time_added: 2019-01-31 23:38:12
 category: avisamos
+tags: []
 image: http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2019/01/30/1546908082573.jpg
 ---
 

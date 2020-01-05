@@ -8,6 +8,7 @@ date: 2019-12-10 17:57:12
 pub_date: 2019-12-10 17:57:12
 time_added: 2019-12-11 18:03:10
 category: 
+tags: []
 image: https://thehill.com/sites/default/files/bolsonarojair_031919sr_lead.jpg
 ---
 

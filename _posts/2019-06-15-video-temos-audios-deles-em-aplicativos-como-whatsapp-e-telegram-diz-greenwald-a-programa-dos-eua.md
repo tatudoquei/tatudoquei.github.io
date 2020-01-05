@@ -8,6 +8,7 @@ date: 2019-06-15 11:12:12
 pub_date: 2019-06-15 11:12:12
 time_added: 2019-06-18 16:03:30
 category: 
+tags: []
 image: https://www.diariodocentrodomundo.com.br/wp-content/uploads/2019/06/greenwald-entrevista.png
 ---
 

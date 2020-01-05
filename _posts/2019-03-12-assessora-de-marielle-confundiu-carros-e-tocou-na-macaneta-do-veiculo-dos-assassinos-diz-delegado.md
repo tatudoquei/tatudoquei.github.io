@@ -8,6 +8,7 @@ date: 2019-03-12 15:42:55
 pub_date: 2019-03-12 15:42:55
 time_added: 2019-12-23 21:21:01
 category: refletimos
+tags: []
 image: https://s2.glbimg.com/qs0lN9YnNpZAa7dEbqNQgUmPeEc=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2019/03/12/delegado2.jpg
 ---
 

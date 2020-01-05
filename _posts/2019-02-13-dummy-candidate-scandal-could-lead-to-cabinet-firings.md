@@ -8,6 +8,7 @@ date: 2019-02-13 16:42:22
 pub_date: 2019-02-13 16:42:22
 time_added: 2019-02-23 19:34:39
 category: 
+tags: []
 image: https://brazilian.report/wp-content/uploads/2019/02/scandals-bolsonaro-government-minister-cabinet.jpg
 ---
 

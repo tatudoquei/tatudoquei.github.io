@@ -8,6 +8,7 @@ date: 2019-06-14 18:48:19
 pub_date: 2019-06-14 18:48:19
 time_added: 2019-06-15 08:53:56
 category: 
+tags: []
 image: https://www.valor.com.br/sites/default/files/imagecache/media_library_big_horizontal/fotoweb/plug-tomada.png
 ---
 

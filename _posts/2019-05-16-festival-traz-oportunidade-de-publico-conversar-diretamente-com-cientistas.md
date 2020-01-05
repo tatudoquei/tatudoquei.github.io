@@ -8,6 +8,7 @@ date: 2019-05-16 17:00:44
 pub_date: 2019-05-16 17:00:44
 time_added: 2019-05-17 23:15:10
 category: 
+tags: []
 image: https://jornal.usp.br/wp-content/uploads/20180420_pintofscience.jpg
 ---
 

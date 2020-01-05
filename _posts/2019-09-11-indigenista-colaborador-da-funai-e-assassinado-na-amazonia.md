@@ -8,6 +8,7 @@ date: 2019-09-11 23:34:00
 pub_date: 2019-09-11 23:34:00
 time_added: 2019-09-29 08:50:20
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23942411-3d0-b65/FT1086A/652/25599434_21052008Roberto-Stuckert-FilhoPAAldeia-Maronal-na-reserva-do-Vale-do-Javari-na-reg.jpg
 ---
 

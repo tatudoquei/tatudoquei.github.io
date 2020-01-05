@@ -8,6 +8,7 @@ date: 2019-02-28 19:41:00
 pub_date: 2019-02-28 19:41:00
 time_added: 2019-12-23 21:21:00
 category: refletimos
+tags: []
 ---
 
 BRASÍLIA — Uma das principais especialistas em segurança pública do país, a cientista política Ilona Szabó aceitou a missão recebida do ministro da Justiça, Sergio Moro, de integrar o Conselho Nacional de Política Criminal e Penitenciária (CNPCP).

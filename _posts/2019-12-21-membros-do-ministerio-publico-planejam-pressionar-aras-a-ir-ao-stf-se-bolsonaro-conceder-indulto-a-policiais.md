@@ -8,6 +8,7 @@ date: 2019-12-21 00:59:00
 pub_date: 2019-12-21 00:59:00
 time_added: 2019-12-22 00:22:52
 category: 
+tags: []
 image: https://painel.blogfolha.uol.com.br/files/2019/09/augusto-aras.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2018-12-15 09:02:32
 pub_date: 2018-12-15 09:02:32
 time_added: 2018-12-15 21:51:10
 category: avisamos
+tags: []
 ---
 
 Dados da movimentação financeira de Fabrício José Carlos de Queiroz, ex-assessor do deputado estadual e senador eleito Flávio Bolsonaro (PSL) na Assembleia Legislativa do Rio de Janeiro (Alerj), indica que ao menos uma assessora depositou quase todo o salário recebido na Alerj, em determinado

@@ -8,6 +8,7 @@ date: 2019-05-23 23:56:01
 pub_date: 2019-05-23 23:56:01
 time_added: 2019-05-26 23:06:34
 category: 
+tags: []
 image: https://s2.glbimg.com/x5B73VBiL_Rq9e7K3tKHZn82DLc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/w/T/htmSAfQBO83pFRtrR6rg/ilha-aracatiba-de-fora-adriana-gomes-icmbio-acervo.jpg
 ---
 

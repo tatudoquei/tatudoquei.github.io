@@ -8,6 +8,7 @@ date: 2019-08-27 22:13:16
 pub_date: 2019-08-27 22:13:16
 time_added: 2019-08-28 22:14:33
 category: 
+tags: []
 ---
 
 Na noite de segunda-feira (26), um grupo de servidores do Ibama divulgou uma carta aberta ao presidente do órgão, Eduardo Fortunato Bim, denunciando o desmonte pelo qual a autarquia federal vem passando.

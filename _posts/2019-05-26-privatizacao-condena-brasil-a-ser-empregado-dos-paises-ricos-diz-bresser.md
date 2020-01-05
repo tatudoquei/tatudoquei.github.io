@@ -8,6 +8,7 @@ date: 2019-05-26 21:08:53
 pub_date: 2019-05-26 21:08:53
 time_added: 2019-05-26 23:08:53
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2f/2017/08/30/25082017---retrato-do-professor-e-economista-luiz-carlos-bresser-pereira-em-seu-escritorio-1504119676779_615x300.jpg
 ---
 

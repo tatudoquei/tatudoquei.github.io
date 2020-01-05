@@ -8,6 +8,7 @@ date: 2019-08-08 21:04:20
 pub_date: 2019-08-08 21:04:20
 time_added: 2019-08-10 12:54:36
 category: 
+tags: []
 image: https://s2.glbimg.com/Q9Gsl1LVh1ghkPCgziNWdpDrmrc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/i/X/S95he4TOWvMfdXBFABFw/fiocruz.jpg
 ---
 

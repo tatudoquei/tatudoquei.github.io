@@ -8,6 +8,7 @@ date: 2019-07-29 17:54:00
 pub_date: 2019-07-29 17:54:00
 time_added: 2019-07-30 21:59:07
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23841008-35b-56e/FT1086A/652/fernandosantacruz-1.jpg
 ---
 

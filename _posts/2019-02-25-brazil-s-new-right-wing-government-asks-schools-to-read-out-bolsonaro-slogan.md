@@ -8,6 +8,7 @@ date: 2019-02-25 23:48:22
 pub_date: 2019-02-25 23:48:22
 time_added: 2019-02-27 11:35:25
 category: avisamos
+tags: []
 image: https://s2.reutersmedia.net/resources/r/?m=02&d=20190225&t=2&i=1360389693&w=1200&r=LYNXNPEF1O1RG
 ---
 

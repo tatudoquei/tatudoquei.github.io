@@ -8,6 +8,7 @@ date: 2019-02-07 11:43:15
 pub_date: 2019-02-07 11:43:15
 time_added: 2019-02-12 23:43:09
 category: avisamos
+tags: []
 image: http://blogs.correiobraziliense.com.br/vicente/wp-content/uploads/sites/16/2019/02/ricardo.jpg
 ---
 

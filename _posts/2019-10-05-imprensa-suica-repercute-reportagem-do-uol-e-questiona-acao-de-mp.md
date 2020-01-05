@@ -8,6 +8,7 @@ date: 2019-10-05 10:56:00
 pub_date: 2019-10-05 10:56:00
 time_added: 2019-10-06 08:38:21
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/275/files/2019/10/tages-615x300.jpg
 ---
 

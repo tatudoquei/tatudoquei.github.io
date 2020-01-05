@@ -8,6 +8,7 @@ date: 2019-09-02 13:26:00
 pub_date: 2019-09-02 13:26:00
 time_added: 2019-09-04 23:00:33
 category: 
+tags: []
 ---
 
 BRASÍLIA - A procuradora-geral da República, Raquel Dodge, pediu ao Superior Tribunal de Justiça (STJ) acesso à investigação do assassinato da vereadora Marielle Franco e do seu motorista Anderson Gomes para apurar se há "indícios de autoria intelectual" por parte do conselheiro afastado do

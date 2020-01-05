@@ -8,6 +8,7 @@ date: 2019-06-13 01:21:10
 pub_date: 2019-06-13 01:21:10
 time_added: 2019-06-13 22:16:11
 category: 
+tags: []
 ---
 
 O ministro Marco Aurélio Mello, do Supremo Tribunal Federal (STF), disse nesta quinta-feira (13) que não teme ser alvo de ataques de hackers, pois não utiliza o celular para conversar com as partes envolvidas em processos. “Eu falo muito pouco ao telefone, muito pouco mesmo.

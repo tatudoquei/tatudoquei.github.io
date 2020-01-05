@@ -8,6 +8,7 @@ date: 2019-10-02 19:43:46
 pub_date: 2019-10-02 19:43:46
 time_added: 2019-10-03 18:36:20
 category: 
+tags: []
 image: https://static.poder360.com.br/2018/10/flaviobolsonaro-1200x630.jpg
 ---
 

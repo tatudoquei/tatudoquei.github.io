@@ -8,6 +8,7 @@ date: 2019-11-05 23:00:00
 pub_date: 2019-11-05 23:00:00
 time_added: 2019-11-12 23:08:13
 category: 
+tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Durma-com-essa-extrema-pobreza/ALTERNATES/LANDSCAPE_720/Durma%20com%20essa%20-%20extrema%20pobreza
 ---
 

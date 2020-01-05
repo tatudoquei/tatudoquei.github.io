@@ -8,6 +8,7 @@ date: 2019-06-19 21:46:00
 pub_date: 2019-06-19 21:46:00
 time_added: 2019-06-27 05:55:43
 category: 
+tags: []
 ---
 
 Uma turma de três desembargadores do Tribunal Regional Federal (TRF) da 1ª Região, em Brasília, decidiu por maioria, na noite desta quarta-feira (19), manter a obra de construção da linha de transmissão de energia elétrica que o governo federal pretende erguer por 123 quilômetros na terra i

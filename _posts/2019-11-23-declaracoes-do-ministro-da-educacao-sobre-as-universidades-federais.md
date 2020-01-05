@@ -8,6 +8,7 @@ date: 2019-11-23 07:16:27
 pub_date: 2019-11-23 07:16:27
 time_added: 2019-11-23 08:16:27
 category: 
+tags: []
 ---
 
 O ministro da educação do Brasil, Abraham Weintraub, parece nutrir ódio pelas universidades federais brasileiras. Afinal, as instituições das quais deveria cuidar, cabendo ao Ministério estruturar e aperfeiçoar, são a todo momento objeto dos ataques de sua retórica agressiva.

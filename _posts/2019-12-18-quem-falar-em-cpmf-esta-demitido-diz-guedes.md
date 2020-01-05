@@ -8,6 +8,7 @@ date: 2019-12-18 22:59:00
 pub_date: 2019-12-18 22:59:00
 time_added: 2019-12-20 20:07:20
 category: 
+tags: []
 ---
 
 BRASÍLIA E RIO - O ministro da Economia, Paulo Guedes , voltou a defender a criação de um imposto sobre transações financeiras digitais no âmbito da reforma tributária em entrevista a comentaristas da Globo News na noite desta quarta-feira.

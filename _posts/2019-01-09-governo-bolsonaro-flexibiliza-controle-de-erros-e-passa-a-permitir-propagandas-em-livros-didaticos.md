@@ -8,6 +8,7 @@ date: 2019-01-09 11:52:11
 pub_date: 2019-01-09 11:52:11
 time_added: 2019-01-09 23:40:11
 category: avisamos
+tags: []
 image: https://educacao.estadao.com.br/blogs/blog-renata-cafardo/wp-content/uploads/sites/704/2019/01/livraria-nilton-fukuda-estadao-conteudo-300x300.jpg
 ---
 

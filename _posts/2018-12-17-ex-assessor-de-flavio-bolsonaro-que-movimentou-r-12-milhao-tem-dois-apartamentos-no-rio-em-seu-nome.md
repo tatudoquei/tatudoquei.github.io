@@ -8,6 +8,7 @@ date: 2018-12-17 10:57:00
 pub_date: 2018-12-17 10:57:00
 time_added: 2018-12-19 23:48:22
 category: avisamos
+tags: []
 ---
 
 RIO — O ex-assessor do deputado estadual Flávio Bolsonaro (PSL), senador eleito pelo Rio de Janeiro e filho do futuro presidente Jair Bolsonaro, Fabrício Queiroz tem dois apartamentos registrados em seu nome na Zona Oeste do Rio.

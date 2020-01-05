@@ -8,6 +8,7 @@ date: 2019-07-10 22:00:00
 pub_date: 2019-07-10 22:00:00
 time_added: 2019-07-13 22:31:09
 category: 
+tags: []
 ---
 
 Em resposta a uma publicação de 602 cientistas europeus e 2 organizações indígenas, que solicita o comércio sustentável entre Europa e Brasil, mais de 50 cientistas brasileiros elaboraram uma carta em apoio da iniciativa e em defesa da biodiversidade no Brasil.

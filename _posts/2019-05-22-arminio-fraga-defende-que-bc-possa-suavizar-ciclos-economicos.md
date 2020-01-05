@@ -8,6 +8,7 @@ date: 2019-05-22 18:16:58
 pub_date: 2019-05-22 18:16:58
 time_added: 2019-05-26 23:03:30
 category: 
+tags: []
 image: https://www.valor.com.br/sites/default/files/imagecache/media_library_big_horizontal/fotoweb/1556899147110119bancocentral37.jpg
 ---
 

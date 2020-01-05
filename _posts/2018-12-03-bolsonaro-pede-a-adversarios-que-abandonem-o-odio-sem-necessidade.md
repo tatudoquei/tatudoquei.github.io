@@ -8,6 +8,7 @@ date: 2018-12-03 08:35:00
 pub_date: 2018-12-03 08:35:00
 time_added: 2019-12-23 21:15:16
 category: recuadas
+tags: []
 ---
 
 O presidente eleito, Jair Bolsonaro, passará dois dias e meio em Brasília esta semana. Às vésperas da viagem, ele enviou uma mensagem aos adversários para destacar que o momento é de paz. Ele apelou para que “relaxem” e abandonem o “ódio sem necessidade”.

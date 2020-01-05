@@ -8,6 +8,7 @@ date: 2018-12-13 06:56:00
 pub_date: 2018-12-13 06:56:00
 time_added: 2018-12-15 07:58:18
 category: avisamos
+tags: []
 image: https://estaticos.globoradio.globo.com/fotos/2018/12/0624e19b-4ab2-47cc-ae78-8d195fa4eb8f.jpg.640x360_q75_box-9%2C0%2C701%2C389_crop_detail.jpg
 ---
 

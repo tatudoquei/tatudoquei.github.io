@@ -8,6 +8,7 @@ date: 2019-08-24 09:44:38
 pub_date: 2019-08-24 09:44:38
 time_added: 2019-08-24 17:59:53
 category: 
+tags: []
 image: https://brpolitico.com.br/wp-content/themes/brpolitico/assets/img/favicon/favicon_brp_200x200.png
 ---
 

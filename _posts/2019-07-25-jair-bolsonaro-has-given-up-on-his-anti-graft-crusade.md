@@ -8,6 +8,7 @@ date: 2019-07-25 15:07:39
 pub_date: 2019-07-25 15:07:39
 time_added: 2019-07-25 21:49:43
 category: 
+tags: []
 image: https://www.economist.com/sites/default/files/images/print-edition/20190727_AMP002_0.jpg
 ---
 

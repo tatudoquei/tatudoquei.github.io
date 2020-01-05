@@ -8,6 +8,7 @@ date: 2019-03-28 01:00:00
 pub_date: 2019-03-28 01:00:00
 time_added: 2019-03-30 09:37:39
 category: avisamos
+tags: []
 image: https://f.i.uol.com.br/fotografia/2019/03/27/15537066585c9baea2a4993_1553706658_3x2_lg.jpg
 ---
 

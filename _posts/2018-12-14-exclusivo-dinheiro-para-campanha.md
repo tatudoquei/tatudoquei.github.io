@@ -8,6 +8,7 @@ date: 2018-12-14 10:10:30
 pub_date: 2018-12-14 10:10:30
 time_added: 2018-12-15 21:52:05
 category: avisamos
+tags: []
 image: https://cdn-istoe-ssl.akamaized.net/wp-content/uploads/sites/14/2018/12/bolsonaro-e-chefe-de-gabinete-700x577.png
 ---
 

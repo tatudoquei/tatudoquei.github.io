@@ -8,6 +8,7 @@ date: 2019-08-23 11:34:16
 pub_date: 2019-08-23 11:34:16
 time_added: 2019-08-24 18:00:37
 category: 
+tags: []
 image: https://thehill.com/sites/default/files/jairbolsonaro_06062018.jpg
 ---
 

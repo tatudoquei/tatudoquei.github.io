@@ -8,6 +8,7 @@ date: 2020-01-03 19:34:00
 pub_date: 2020-01-03 19:34:00
 time_added: 2020-01-05 08:17:28
 category: 
+tags: []
 ---
 
 RIO - Procurado pela Polícia Civil do Rio de Janeiro desde terça-feira, o economista e empresário Eduardo Fauzi Richard Cerquise, de 41 anos, assumiu nesta sexta-feira a autoria do ataque à sede da produtora de vídeos Porta dos Fundos, no Humaitá, Zona Sul do Rio, na véspera de Natal, e afirm

@@ -8,6 +8,7 @@ date: 2019-12-23 21:19:29
 pub_date: 2018-10-25 16:54:17
 time_added: 2019-12-23 21:19:29
 category: avisamos
+tags: [fake news]
 image: https://img.estadao.com.br/resources/jpg/4/6/1540486053464.jpg
 ---
 

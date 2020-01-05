@@ -8,6 +8,7 @@ date: 2019-03-15 10:23:00
 pub_date: 2019-03-15 10:23:00
 time_added: 2019-03-18 20:04:51
 category: avisamos
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/21/2019/03/12/o-policial-militar-reformado-ronnie-lessa-48-acusado-de-efetuar-dos-disparos-que-mataram-a-vereadora-marielle-franco-1552388416128_v2_615x300.jpg
 ---
 

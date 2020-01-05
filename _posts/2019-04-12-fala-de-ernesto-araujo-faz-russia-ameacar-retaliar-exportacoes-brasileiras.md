@@ -8,6 +8,7 @@ date: 2019-04-12 07:00:00
 pub_date: 2019-04-12 07:00:00
 time_added: 2019-04-12 21:47:07
 category: 
+tags: []
 ---
 
 No fim de março, Araújo afirmou que "se militares russos estão na Venezuela para manter Maduro no poder, deveriam deixar o país".

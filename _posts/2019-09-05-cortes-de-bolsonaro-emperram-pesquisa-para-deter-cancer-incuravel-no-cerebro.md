@@ -8,6 +8,7 @@ date: 2019-09-05 09:29:00
 pub_date: 2019-09-05 09:29:00
 time_added: 2019-09-07 08:20:21
 category: 
+tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/09/pesquisadora_interna_05092019.jpg
 ---
 

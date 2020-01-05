@@ -8,6 +8,7 @@ date: 2019-07-12 17:44:00
 pub_date: 2019-07-12 17:44:00
 time_added: 2019-07-14 06:18:11
 category: 
+tags: []
 ---
 
 PARATY – Uma palestra do jornalista Glenn Greenwald, editor do site The Intercept Brasil, estava prevista para começar às 19h no barco da Festa Literária Pirata das Editoras Independentes (FLIPEI), parte da programação paralela da Flip.

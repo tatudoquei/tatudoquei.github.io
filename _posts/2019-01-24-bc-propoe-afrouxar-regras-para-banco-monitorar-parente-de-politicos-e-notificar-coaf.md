@@ -8,6 +8,7 @@ date: 2019-01-24 01:00:00
 pub_date: 2019-01-24 01:00:00
 time_added: 2019-01-24 21:19:15
 category: avisamos
+tags: []
 ---
 
 O Banco Central quer excluir parentes de políticos da lista de monitoramento obrigatório das instituições financeiras.

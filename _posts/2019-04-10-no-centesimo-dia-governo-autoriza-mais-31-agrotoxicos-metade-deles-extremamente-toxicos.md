@@ -8,6 +8,7 @@ date: 2019-04-10 14:27:57
 pub_date: 2019-04-10 14:27:57
 time_added: 2019-04-12 03:49:34
 category: 
+tags: []
 image: https://deolhonosruralistas.com.br/wp-content/uploads/2019/04/agrotoxicos-bolsonaro-tereza.jpg
 ---
 

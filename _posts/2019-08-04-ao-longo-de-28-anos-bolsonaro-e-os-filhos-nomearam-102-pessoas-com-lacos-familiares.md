@@ -8,6 +8,7 @@ date: 2019-08-04 02:30:00
 pub_date: 2019-08-04 02:30:00
 time_added: 2019-08-05 22:31:12
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23837427-b91-e1c/FT1086A/652/header-2000x920.png
 ---
 

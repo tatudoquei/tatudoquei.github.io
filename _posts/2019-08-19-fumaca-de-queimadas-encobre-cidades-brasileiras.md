@@ -8,6 +8,7 @@ date: 2019-08-19 21:07:03
 pub_date: 2019-08-19 21:07:03
 time_added: 2019-08-20 07:54:20
 category: 
+tags: []
 image: https://cdn-cv.r4you.co/wp-content/uploads/2019/08/brasil-via-satelite.jpg
 ---
 

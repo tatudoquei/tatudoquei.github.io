@@ -8,6 +8,7 @@ date: 2018-11-09 17:48:00
 pub_date: 2018-11-09 17:48:00
 time_added: 2018-11-10 08:34:15
 category: avisamos
+tags: []
 image: http://conteudo.imguol.com.br/c/noticias/5e/2018/11/09/09nov2018---jair-bolsonaro-participa-de-live-1541796436244_615x300.jpg
 ---
 

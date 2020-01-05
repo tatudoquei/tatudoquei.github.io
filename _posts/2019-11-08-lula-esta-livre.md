@@ -8,6 +8,7 @@ date: 2019-11-08 20:43:23
 pub_date: 2019-11-08 20:43:23
 time_added: 2019-11-09 09:54:00
 category: 
+tags: []
 image: https://video-images.vice.com/articles/5dc5bcecb31c52008c8bb85e/lede/1573241823399-lila.jpeg?crop=1xw:1xh;center,center&resize=1200:*
 ---
 

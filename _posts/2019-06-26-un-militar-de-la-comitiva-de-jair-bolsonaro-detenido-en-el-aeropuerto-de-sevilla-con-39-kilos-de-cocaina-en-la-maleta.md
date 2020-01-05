@@ -8,6 +8,7 @@ date: 2019-06-26 09:54:53
 pub_date: 2019-06-26 09:54:53
 time_added: 2019-06-27 05:57:43
 category: 
+tags: []
 image: https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2019/06/26/15615427577423.jpg
 ---
 

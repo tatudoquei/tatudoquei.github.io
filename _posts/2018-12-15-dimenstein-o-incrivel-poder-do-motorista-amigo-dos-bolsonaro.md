@@ -8,6 +8,7 @@ date: 2018-12-15 11:55:24
 pub_date: 2018-12-15 11:55:24
 time_added: 2018-12-15 21:51:36
 category: avisamos
+tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2018/12/fabricio.jpg
 ---
 

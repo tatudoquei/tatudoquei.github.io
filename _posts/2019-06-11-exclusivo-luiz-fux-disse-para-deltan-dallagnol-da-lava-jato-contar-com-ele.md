@@ -8,6 +8,7 @@ date: 2019-06-11 22:00:00
 pub_date: 2019-06-11 22:00:00
 time_added: 2019-06-13 18:56:19
 category: 
+tags: []
 image: http://imagem.band.com.br/f_458434.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-09-05 22:00:00
 pub_date: 2019-09-05 22:00:00
 time_added: 2019-09-11 20:58:32
 category: 
+tags: []
 image: http://revistaquestaodeciencia.com.br/sites/default/files/styles/facebook/public/2019-09/SCREEN_SQUARE.jpg?itok=5hIoHeY0
 ---
 

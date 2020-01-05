@@ -8,6 +8,7 @@ date: 2018-12-22 01:00:00
 pub_date: 2018-12-22 01:00:00
 time_added: 2019-12-23 21:41:23
 category: refletimos
+tags: [diplomacia]
 image: https://f.i.uol.com.br/fotografia/2018/12/16/15449649885c164b7c43ece_1544964988_3x2_rt.jpg
 ---
 

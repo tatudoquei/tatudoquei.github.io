@@ -8,6 +8,7 @@ date: 2019-09-20 17:49:00
 pub_date: 2019-09-20 17:49:00
 time_added: 2019-09-23 06:17:26
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a7/2019/08/06/6ago2019---marcos-pontes-ministro-da-ciencia-tecnologia-inovacoes-e-comunicacoes-1565109555987_v2_615x300.jpg
 ---
 

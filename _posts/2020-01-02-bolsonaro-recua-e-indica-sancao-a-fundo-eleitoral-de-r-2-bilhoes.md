@@ -8,6 +8,7 @@ date: 2020-01-02 09:24:00
 pub_date: 2020-01-02 09:24:00
 time_added: 2020-01-02 19:30:13
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/7f/2019/12/27/presidente-jair-bolsonaro-entra-em-carro-na-saida-do-palacio-da-alvorada-1577446397087_v2_615x300.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-04-15 06:00:26
 pub_date: 2019-04-15 06:00:26
 time_added: 2019-04-18 21:20:47
 category: 
+tags: []
 image: http://www.estadao.com.br/estadao/novo/img/estadao.gif
 ---
 

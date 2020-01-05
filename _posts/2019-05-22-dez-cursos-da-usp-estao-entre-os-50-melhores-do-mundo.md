@@ -8,6 +8,7 @@ date: 2019-05-22 19:42:53
 pub_date: 2018-02-28 18:40:33
 time_added: 2019-05-22 19:42:53
 category: 
+tags: []
 image: http://jornal.usp.br/wp-content/uploads/QS-Subject.jpg
 ---
 

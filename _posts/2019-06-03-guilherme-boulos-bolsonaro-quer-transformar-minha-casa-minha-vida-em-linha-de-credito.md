@@ -8,6 +8,7 @@ date: 2019-06-03 18:07:33
 pub_date: 2019-06-03 18:07:33
 time_added: 2019-06-04 22:35:30
 category: 
+tags: []
 image: http://psol50.org.br/wp-content/uploads/2019/06/Moradia.-BETH-SANTOS-SECRETARIA-GERAL-DA-PR.jpg
 ---
 

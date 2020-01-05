@@ -8,6 +8,7 @@ date: 2019-12-09 14:33:20
 pub_date: 2019-12-09 14:33:20
 time_added: 2019-12-10 20:52:29
 category: 
+tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2019/12/ricardosalles-cop25.jpg
 ---
 

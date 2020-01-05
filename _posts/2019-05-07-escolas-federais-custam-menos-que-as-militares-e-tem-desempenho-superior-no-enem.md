@@ -8,6 +8,7 @@ date: 2019-05-07 09:11:27
 pub_date: 2019-05-07 09:11:27
 time_added: 2019-05-07 06:11:27
 category: 
+tags: []
 image: https://files.nsctotal.com.br/s3fs-public/graphql-upload-files/escola%20foto%20tadeu%20vilani%20ag%20rbs.jpg?ZsmDEnyEkRZWB5JBfoe3SyIIdD3ZRxOy
 ---
 

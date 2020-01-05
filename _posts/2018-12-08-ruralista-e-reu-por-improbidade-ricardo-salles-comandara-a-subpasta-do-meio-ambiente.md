@@ -8,6 +8,7 @@ date: 2018-12-08 23:00:00
 pub_date: 2018-12-08 23:00:00
 time_added: 2018-12-09 22:21:25
 category: avisamos
+tags: []
 ---
 
 Nota do Observatório do Clima sobre o futuro ministro. O ruralista Ricardo Salles, indicado por Jair Bolsonaro para chefiar o que sobrar do Ministério do Meio Ambiente a partir de 2019, é o homem certo no lugar certo.

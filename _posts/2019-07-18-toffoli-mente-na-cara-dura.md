@@ -8,6 +8,7 @@ date: 2019-07-18 03:35:09
 pub_date: 2019-07-18 03:35:09
 time_added: 2019-07-21 08:39:10
 category: 
+tags: []
 image: https://politica.estadao.com.br/blogs/neumanne/wp-content/uploads/sites/339/2019/07/dodgetoffoli-695x1024.jpg
 ---
 

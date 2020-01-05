@@ -8,6 +8,7 @@ date: 2019-03-22 17:43:00
 pub_date: 2019-03-22 17:43:00
 time_added: 2019-03-24 07:05:21
 category: avisamos
+tags: []
 ---
 
 SANTIAGO – O presidente do Brasil, Jair Bolsonaro, rebateu nesta sexta-feira as acusações de que seria xenófobo, machista, misógino e racista, que levaram o presidente do Senado do Chile, Jaime Quintana, e da Câmara, Iván Flores, a boicotarem o almoço em sua homenagem que Sebastián Piñera

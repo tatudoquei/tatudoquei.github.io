@@ -8,6 +8,7 @@ date: 2019-05-24 22:00:00
 pub_date: 2019-05-24 22:00:00
 time_added: 2019-05-25 22:21:19
 category: 
+tags: []
 ---
 
 O condenado por improbidade e ministro do Meio Ambiente Ricardo Salles insiste em seu ataque ao Fundo Amazônia.

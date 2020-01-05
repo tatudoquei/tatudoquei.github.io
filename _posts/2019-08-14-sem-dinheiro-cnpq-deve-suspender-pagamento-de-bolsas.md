@@ -8,6 +8,7 @@ date: 2019-08-14 23:11:22
 pub_date: 2019-08-14 23:11:22
 time_added: 2019-08-23 22:22:17
 category: 
+tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/03/20181227_00_joao_luiz_filgueiras_de_azevedo1b.jpg
 ---
 

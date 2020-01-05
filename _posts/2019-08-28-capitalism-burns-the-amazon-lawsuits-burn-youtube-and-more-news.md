@@ -8,6 +8,7 @@ date: 2019-08-28 20:14:59
 pub_date: 2019-08-28 20:14:59
 time_added: 2019-08-28 22:14:59
 category: 
+tags: []
 image: https://media.wired.com/photos/5d66e61d59af510008b602b6/master/w_1280,c_limit/Science_TechinTwo-1164446873.jpg
 ---
 

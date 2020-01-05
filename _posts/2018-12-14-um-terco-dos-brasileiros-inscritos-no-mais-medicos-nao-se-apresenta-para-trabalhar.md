@@ -8,6 +8,7 @@ date: 2018-12-14 23:00:00
 pub_date: 2018-12-14 23:00:00
 time_added: 2018-12-16 09:00:56
 category: avisamos
+tags: []
 ---
 
 Prazo para apresentação dos que suprirão saída dos médicos cubanos se encerrou sem comparecimento de muitos. Brasileiros ligados ao programa relatam total desassistência em comunidades, sobretudo do Norte.

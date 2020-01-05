@@ -8,6 +8,7 @@ date: 2019-02-21 05:00:00
 pub_date: 2019-02-21 05:00:00
 time_added: 2019-02-23 19:34:56
 category: avisamos
+tags: []
 image: https://s2.glbimg.com/WoQJwXtllIo9i0JkDLvro2vAQeM=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/02/20/81194438_presidente_da_camara_dos_deputados_dep_rodrigo_maia_recebe_o_presidente_da_republica_jair_b.jpg
 ---
 

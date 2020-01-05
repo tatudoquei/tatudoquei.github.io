@@ -8,6 +8,7 @@ date: 2019-08-05 11:38:00
 pub_date: 2019-08-05 11:38:00
 time_added: 2019-08-05 22:37:59
 category: 
+tags: []
 ---
 
 BRASÍLIA - Questionado sobre o que fazer para resolver a violência no Rio e no Brasil, em entrevista para o canal do YouTube da jornalista Leda Nagle, publicada nesta segunda-feira, o presidente Jair Bolsonaro afirmou que vai enviar um projeto ao Congresso com o objetivo de dar "retaguarda jurídi

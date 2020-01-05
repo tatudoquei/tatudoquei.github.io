@@ -8,6 +8,7 @@ date: 2019-05-12 03:00:00
 pub_date: 2019-05-12 03:00:00
 time_added: 2019-05-16 19:11:11
 category: 
+tags: []
 ---
 
 Ministro do Meio Ambiente recorre a “fatos alternativos”, distorções e agressão em resposta a comunicado de seus antecessores DO OC – Na última quarta-feira (8), oito dos nove ex-ministros do Meio Ambiente que estão vivos e ativos publicaram um comunicado no qual criticam o “desmonte”

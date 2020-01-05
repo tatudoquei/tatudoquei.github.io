@@ -8,6 +8,7 @@ date: 2019-11-15 12:34:00
 pub_date: 2019-11-15 12:34:00
 time_added: 2019-11-16 09:07:54
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/12/2019/11/05/jair-bolsonaro-1572992787852_v2_615x300.jpg
 ---
 

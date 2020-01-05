@@ -8,6 +8,7 @@ date: 2019-12-17 03:00:00
 pub_date: 2019-12-17 03:00:00
 time_added: 2019-12-21 10:15:39
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/21/2019/11/01/01nov2019---o-professor-do-departamento-de-estudos-de-midia-da-universidade-da-virginia-eua-david-nemer-que-pesquisa-campanhas-politicas-fakenews-e-grupos-de-whatsapp-1572637668357_v2_615x300.jpg
 ---
 

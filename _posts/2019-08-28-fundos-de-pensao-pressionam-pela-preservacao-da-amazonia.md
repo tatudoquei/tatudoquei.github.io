@@ -8,6 +8,7 @@ date: 2019-08-28 02:20:45
 pub_date: 2019-08-28 02:20:45
 time_added: 2019-08-29 05:19:56
 category: 
+tags: []
 ---
 
 Os maiores fundos de pensão da Noruega e da Suécia se posicionaram em relação aos incêndios na Amazônia.

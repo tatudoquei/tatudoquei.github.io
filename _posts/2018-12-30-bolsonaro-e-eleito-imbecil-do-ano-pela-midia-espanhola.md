@@ -8,6 +8,7 @@ date: 2018-12-30 19:08:44
 pub_date: 2018-12-30 19:08:44
 time_added: 2019-03-31 08:03:23
 category: 
+tags: []
 image: https://blogdacidadania.com.br/wp-content/uploads/2018/12/Bolsonaro-17.png
 ---
 

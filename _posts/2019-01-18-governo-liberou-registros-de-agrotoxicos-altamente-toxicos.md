@@ -8,6 +8,7 @@ date: 2019-01-18 18:30:52
 pub_date: 2019-01-18 18:30:52
 time_added: 2019-01-19 16:11:51
 category: avisamos
+tags: []
 image: https://reporterbrasil.org.br/wp-content/uploads/2019/01/2-800x533.jpg
 ---
 

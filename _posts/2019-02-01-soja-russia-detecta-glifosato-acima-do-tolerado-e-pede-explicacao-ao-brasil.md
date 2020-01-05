@@ -8,6 +8,7 @@ date: 2019-02-01 14:37:47
 pub_date: 2019-02-01 14:37:47
 time_added: 2019-02-03 10:44:46
 category: avisamos
+tags: []
 image: https://canalrural.uol.com.br/wp-content/uploads/2018/07/barcasoja.jpg
 ---
 

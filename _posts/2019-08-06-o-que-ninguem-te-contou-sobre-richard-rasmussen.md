@@ -8,6 +8,7 @@ date: 2019-08-06 18:54:50
 pub_date: 2019-08-06 18:54:50
 time_added: 2019-08-06 20:54:50
 category: 
+tags: []
 image: https://cdn-images-1.medium.com/max/1200/1*zOg0Z5C5h_fN1CTYlu8qZA.jpeg
 ---
 

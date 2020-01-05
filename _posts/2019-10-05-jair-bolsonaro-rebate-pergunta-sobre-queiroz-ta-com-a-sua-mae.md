@@ -8,6 +8,7 @@ date: 2019-10-05 16:30:39
 pub_date: 2019-10-05 16:30:39
 time_added: 2019-10-05 17:37:25
 category: 
+tags: []
 image: https://abrilexame.files.wordpress.com/2019/10/bolsonaro-moto.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

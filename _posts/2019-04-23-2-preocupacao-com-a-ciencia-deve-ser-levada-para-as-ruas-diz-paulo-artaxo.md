@@ -8,6 +8,7 @@ date: 2019-04-23 17:18:38
 pub_date: 2019-04-23 17:18:38
 time_added: 2019-04-24 19:20:20
 category: 
+tags: []
 ---
 
 Físico criticou cortes orçamentários e disse que o setor de CT&I carece de reconhecimento da sua importância para o desenvolvimento do País como um todo A discussão sobre o futuro da Ciência, Tecnologia e Inovação (CT&I) brasileira tem que ser levada para as ruas, afirma o físico Paulo Art

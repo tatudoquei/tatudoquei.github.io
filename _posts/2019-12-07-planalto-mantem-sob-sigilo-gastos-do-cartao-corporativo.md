@@ -8,6 +8,7 @@ date: 2019-12-07 06:35:00
 pub_date: 2019-12-07 06:35:00
 time_added: 2019-12-09 23:45:12
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/interacao/facebook/uol-noticias-600px.jpg
 ---
 

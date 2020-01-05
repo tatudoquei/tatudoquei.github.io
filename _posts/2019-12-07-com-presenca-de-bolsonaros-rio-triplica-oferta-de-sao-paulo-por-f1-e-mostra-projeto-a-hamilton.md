@@ -8,6 +8,7 @@ date: 2019-12-07 12:36:46
 pub_date: 2019-12-07 12:36:46
 time_added: 2019-12-07 13:36:46
 category: 
+tags: []
 image: https://cdn-1.motorsport.com/images/amp/YBedyPK2/s6/projeto-do-autodromo-do-rio-de.jpg
 ---
 

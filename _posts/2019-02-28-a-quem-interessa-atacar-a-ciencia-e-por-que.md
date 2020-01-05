@@ -8,6 +8,7 @@ date: 2019-02-28 18:52:45
 pub_date: 2019-02-28 18:52:45
 time_added: 2019-03-03 14:07:12
 category: 
+tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/02/20190228_Paulo-Eduardo-Artaxo-Netto.jpg
 ---
 

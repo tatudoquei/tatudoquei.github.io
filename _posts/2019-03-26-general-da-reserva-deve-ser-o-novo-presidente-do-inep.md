@@ -8,6 +8,7 @@ date: 2019-03-26 21:56:34
 pub_date: 2019-03-26 21:56:34
 time_added: 2019-03-27 07:06:03
 category: avisamos
+tags: []
 image: https://img.jovempan.uol.com.br/uploads/2019/03/2015_05_06-transferencia-de-cargo-de-chef-do-estado-maior-cmne-4280_g.jpg
 ---
 

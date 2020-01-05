@@ -8,6 +8,7 @@ date: 2019-09-23 17:21:00
 pub_date: 2019-09-23 17:21:00
 time_added: 2019-09-28 06:33:39
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/81/2019/09/23/daniela-felix-24-tia-de-aghata-morta-no-rio-perdeu-o-marido-apos-bala-perdida-ha-5-anos-1569276136386_v2_615x300.jpg
 ---
 

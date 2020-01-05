@@ -8,6 +8,7 @@ date: 2019-10-24 19:35:01
 pub_date: 2019-10-24 19:35:01
 time_added: 2019-10-26 20:23:18
 category: 
+tags: []
 ---
 
 Há cerca de um mês, o especialista canadense em contenção de derramamentos de óleo, Gerald Graham, adquiriu o costume de abrir o Google News para acompanhar as notícias sobre o crime ambiental que se espalha há 54 dias pelas praias do Nordeste.

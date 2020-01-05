@@ -8,6 +8,7 @@ date: 2019-08-10 06:00:00
 pub_date: 2019-08-10 06:00:00
 time_added: 2019-08-14 07:00:51
 category: 
+tags: []
 ---
 
 No episódio do podcast Ilustríssima Conversa desta semana, o repórter Walter Porto recebe Giselle Beiguelman para discutir a relação turbulenta do Brasil com a própria memória.

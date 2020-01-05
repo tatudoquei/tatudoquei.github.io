@@ -8,6 +8,7 @@ date: 2019-08-14 17:49:52
 pub_date: 2019-08-14 17:49:52
 time_added: 2019-08-14 22:49:08
 category: 
+tags: []
 image: http://www.anpg.org.br/wp-content/uploads/2019/08/Porto-Alegre.jpeg
 ---
 

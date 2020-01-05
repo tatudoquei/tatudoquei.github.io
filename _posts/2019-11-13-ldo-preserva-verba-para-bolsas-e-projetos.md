@@ -8,6 +8,7 @@ date: 2019-11-13 15:21:34
 pub_date: 2019-11-13 15:21:34
 time_added: 2019-11-13 22:52:25
 category: 
+tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-13-at-14.55.59.jpeg
 ---
 

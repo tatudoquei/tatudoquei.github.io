@@ -8,6 +8,7 @@ date: 2019-04-30 19:44:00
 pub_date: 2019-04-30 19:44:00
 time_added: 2019-05-01 09:08:02
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e0/2019/04/22/8abr2019---predio-do-ministerio-da-educacao-mec-1555968090595_v2_615x300.jpg
 ---
 

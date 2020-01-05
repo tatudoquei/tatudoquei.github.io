@@ -8,6 +8,7 @@ date: 2019-06-26 15:03:00
 pub_date: 2019-06-26 15:03:00
 time_added: 2019-06-29 17:56:44
 category: 
+tags: []
 ---
 
 BRASÍLIA E RIO — O Comitê Orientador do Fundo Amazônia (COFA), criado para estabelecer critérios para aplicação dos recursos na floresta, deve ser extinto nos próximos dois dias "se nada for feito" pelo governo de Jair Bolsonaro.

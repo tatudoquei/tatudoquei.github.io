@@ -8,6 +8,7 @@ date: 2018-11-30 19:45:02
 pub_date: 2018-11-30 19:45:02
 time_added: 2018-12-01 09:03:48
 category: avisamos
+tags: []
 image: https://s2.glbimg.com/vL2_zYAn1xnxn8sVElkie9ivVGg=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2018/11/30/bolsonaro_gI4dYvT.jpg
 ---
 

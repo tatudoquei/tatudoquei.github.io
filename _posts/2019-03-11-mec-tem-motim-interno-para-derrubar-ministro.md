@@ -8,6 +8,7 @@ date: 2019-03-11 04:26:01
 pub_date: 2019-03-11 04:26:01
 time_added: 2019-03-15 23:08:02
 category: avisamos
+tags: []
 image: http://www.estadao.com.br/estadao/novo/img/estadao.gif
 ---
 

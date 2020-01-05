@@ -8,6 +8,7 @@ date: 2018-11-07 01:02:00
 pub_date: 2018-11-07 01:02:00
 time_added: 2018-11-12 08:41:29
 category: refletimos
+tags: []
 image: https://theintercept.imgix.net/wp-uploads/sites/1/2018/11/12521120-high-min-1541524043.jpeg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800
 ---
 

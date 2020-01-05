@@ -8,6 +8,7 @@ date: 2019-06-08 00:58:00
 pub_date: 2019-06-08 00:58:00
 time_added: 2019-06-08 22:13:34
 category: 
+tags: []
 image: https://imgsapp.em.com.br/app/noticia_127983242361/2019/06/07/1060178/20190607220234812754e.jpg
 ---
 

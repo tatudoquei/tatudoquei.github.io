@@ -8,6 +8,7 @@ date: 2019-10-21 20:38:00
 pub_date: 2019-10-21 20:38:00
 time_added: 2019-10-22 07:30:09
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e8/2019/10/21/joice-hasselmann-e-entrevista-no-roda-viva-da-tv-cultura-1571706375682_v2_615x300.png
 ---
 

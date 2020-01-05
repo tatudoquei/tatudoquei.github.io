@@ -8,6 +8,7 @@ date: 2019-12-30 03:00:00
 pub_date: 2019-12-30 03:00:00
 time_added: 2019-12-30 23:04:11
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/5a/2019/06/20/bolsonaro-fazendo-coracao---sem-filtro-laerte-1561057949200_v2_615x300.jpg
 ---
 

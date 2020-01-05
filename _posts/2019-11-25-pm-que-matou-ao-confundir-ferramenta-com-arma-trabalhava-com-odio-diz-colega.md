@@ -8,6 +8,7 @@ date: 2019-11-25 20:02:06
 pub_date: 2019-11-25 20:02:06
 time_added: 2019-11-25 21:02:06
 category: 
+tags: []
 ---
 
 Um dia após o sargento Carlos Fernando Dias Chaves confundir um macaco hidráulico com uma arma e matar dois jovens na Pavuna, Zona Norte do Rio, um colega de batalhão do PM afirmou, numa ligação telefônica, que o praça “estava trabalhando com ódio”.

@@ -8,6 +8,7 @@ date: 2018-12-07 01:01:00
 pub_date: 2018-12-07 01:01:00
 time_added: 2018-12-07 20:51:01
 category: avisamos
+tags: []
 image: https://f.i.uol.com.br/fotografia/2018/10/08/15390383885bbbdcb42dfda_1539038388_3x2_md.jpg
 ---
 

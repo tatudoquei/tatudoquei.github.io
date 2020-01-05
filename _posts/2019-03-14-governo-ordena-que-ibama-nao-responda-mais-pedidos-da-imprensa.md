@@ -8,6 +8,7 @@ date: 2019-03-14 13:07:00
 pub_date: 2019-03-14 13:07:00
 time_added: 2019-03-16 14:43:49
 category: avisamos
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/da/2019/03/07/7mar2019---jair-bolsonaro-participa-da-comemoracao-dos-211-anos-do-corpo-de-fuzileiros-naval-da-marinha-brasileira-na-fortaleza-de-sao-jose-da-ilha-das-cobras-no-centro-do-rio-de-janeiro-1551969689964_v2_750x421.jpg
 ---
 

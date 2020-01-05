@@ -8,6 +8,7 @@ date: 2019-06-04 18:27:23
 pub_date: 2019-06-04 18:27:23
 time_added: 2019-06-05 18:21:32
 category: 
+tags: []
 image: https://abrilveja.files.wordpress.com/2016/07/alx_economia-mansueto-almeida-junior_original.jpeg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

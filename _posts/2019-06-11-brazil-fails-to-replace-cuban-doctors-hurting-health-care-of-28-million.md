@@ -8,6 +8,7 @@ date: 2019-06-11 09:00:08
 pub_date: 2019-06-11 09:00:08
 time_added: 2019-06-12 20:53:16
 category: 
+tags: []
 image: https://static01.nyt.com/images/2019/06/03/world/00brazil-doctors2-promo/00brazil-doctors2-promo-facebookJumbo-v2.jpg
 ---
 

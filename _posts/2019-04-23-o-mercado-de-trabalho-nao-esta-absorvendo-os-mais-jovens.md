@@ -8,6 +8,7 @@ date: 2019-04-23 22:00:00
 pub_date: 2019-04-23 22:00:00
 time_added: 2019-04-24 22:29:24
 category: 
+tags: []
 ---
 
 RIO – Em entrevista ao GLOBO, Naercio Menezes Filho, coordenador do Centro de Políticas Públicas do Insper, pesquisador nas áreas de mercado de trabalho, educação e desigualdade social, afirma que o desemprego no Brasil vai continuar alto por algum tempo, e os jovens são os principais atingi

@@ -8,6 +8,7 @@ date: 2019-09-17 19:18:00
 pub_date: 2019-09-17 19:18:00
 time_added: 2019-09-23 06:33:57
 category: 
+tags: []
 ---
 
 BRASÍLIA — Apesar de o presidente Jair Bolsonaro ter afirmado há duas semanas e reiterado nesta segunda-feira que iria à 74ª Assembleia Geral das Nações Unidas "nem que fosse de cadeira de rodas", integrantes do Palácio do Planalto já admitem que o chefe do Executivo pode não comparecer a

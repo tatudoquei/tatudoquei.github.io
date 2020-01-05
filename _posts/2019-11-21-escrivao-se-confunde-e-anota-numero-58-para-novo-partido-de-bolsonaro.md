@@ -8,6 +8,7 @@ date: 2019-11-21 21:35:00
 pub_date: 2019-11-21 21:35:00
 time_added: 2019-11-22 07:00:18
 category: 
+tags: []
 image: https://renatoterra.blogfolha.uol.com.br/files/2019/11/alianca.jpg
 ---
 

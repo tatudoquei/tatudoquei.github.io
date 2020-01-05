@@ -8,6 +8,7 @@ date: 2018-12-09 21:24:36
 pub_date: 2018-12-09 21:24:36
 time_added: 2018-12-09 22:24:36
 category: avisamos
+tags: []
 ---
 
 Futuro ministro Ricardo Salles é réu por improbidade administrativa, acusado de esconder alterações em mapas do zoneamento ambiental quando foi secretário estadual no governo do tucano. Ação teria favorecido mineradoras.

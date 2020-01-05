@@ -8,6 +8,7 @@ date: 2019-05-17 18:06:20
 pub_date: 2019-05-17 18:06:20
 time_added: 2019-05-21 05:28:53
 category: 
+tags: []
 image: https://jornal.usp.br/wp-content/uploads/2018/12/20181207_praca-relogio.jpg
 ---
 

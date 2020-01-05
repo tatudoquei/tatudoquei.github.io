@@ -8,6 +8,7 @@ date: 2019-04-25 18:52:32
 pub_date: 2019-04-25 18:52:32
 time_added: 2019-04-26 04:35:50
 category: 
+tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2019/04/bolsonaro-banco-do-brasil-campanha.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-09-03 17:55:59
 pub_date: 2019-09-03 17:55:59
 time_added: 2019-09-04 23:01:47
 category: 
+tags: []
 image: https://www12.senado.leg.br/noticias/materias/2019/09/03/comissoes-vao-discutir-cortes-no-cnpq-e-na-capes-em-audiencia-na-quinta-feira/20190903_00712j.jpg
 ---
 

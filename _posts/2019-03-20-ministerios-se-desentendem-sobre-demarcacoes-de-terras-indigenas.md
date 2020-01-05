@@ -8,6 +8,7 @@ date: 2019-03-20 17:45:02
 pub_date: 2019-03-20 17:45:02
 time_added: 2019-03-24 07:11:53
 category: avisamos
+tags: []
 image: https://www.valor.com.br/sites/default/files/imagecache/media_library_big_horizontal/fotoweb/1550768419damares.jpg
 ---
 

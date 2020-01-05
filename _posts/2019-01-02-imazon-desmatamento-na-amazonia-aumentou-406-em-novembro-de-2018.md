@@ -8,6 +8,7 @@ date: 2019-01-02 18:10:07
 pub_date: 2019-01-02 18:10:07
 time_added: 2019-01-06 00:34:28
 category: avisamos
+tags: []
 ---
 
 De agosto a novembro de 2018 a Amazônia perdeu 287 quilômetros quadrados de florestas, um aumento de 406% se comparado ao mesmo período do ano anterior, quando o desmatamento somou 57 quilômetros quadrados.

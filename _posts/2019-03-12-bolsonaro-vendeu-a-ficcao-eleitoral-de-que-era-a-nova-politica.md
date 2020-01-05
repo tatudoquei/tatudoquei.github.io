@@ -8,6 +8,7 @@ date: 2019-03-12 10:07:00
 pub_date: 2019-03-12 10:07:00
 time_added: 2019-03-18 19:40:53
 category: avisamos
+tags: []
 image: https://s2.glbimg.com/NKKzKIs5l0tMTbcHRLZRj9vsDwQ=/640x424/top/i.glbimg.com/og/ig/infoglobo1/f/original/2019/03/12/78574400_ri_rio_de_janeiro_rj_28-08-2018_campanha_do_candidato_a_presidencia_jair_bolsonaro_no_c_4QWwDAz.jpg
 ---
 

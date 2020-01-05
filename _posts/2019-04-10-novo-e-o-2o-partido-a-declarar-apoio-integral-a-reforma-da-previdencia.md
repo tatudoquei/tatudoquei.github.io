@@ -8,6 +8,7 @@ date: 2019-04-10 13:31:00
 pub_date: 2019-04-10 13:31:00
 time_added: 2019-04-12 21:43:33
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a9/2019/04/10/10abr2019---joao-amoedo-durante-entrevista-1554919446247_v2_615x300.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2018-12-07 00:02:08
 pub_date: 2018-12-07 00:02:08
 time_added: 2018-12-07 20:52:16
 category: avisamos
+tags: []
 image: http://www.estadao.com.br/estadao/novo/img/estadao.gif
 ---
 

@@ -8,6 +8,7 @@ date: 2018-12-15 10:15:00
 pub_date: 2018-12-15 10:15:00
 time_added: 2019-12-23 21:19:31
 category: avisamos
+tags: []
 image: https://conteudo.imguol.com.br/c/interacao/facebook/uol-noticias-600px.jpg
 ---
 

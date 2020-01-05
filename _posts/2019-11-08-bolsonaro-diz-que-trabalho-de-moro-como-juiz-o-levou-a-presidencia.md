@@ -8,6 +8,7 @@ date: 2019-11-08 10:33:00
 pub_date: 2019-11-08 10:33:00
 time_added: 2019-11-09 01:26:24
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/4f/2019/11/08/26set2019---o-presidente-jair-bolsonaro-e-o-ministro-sergio-moro-durante-a-cerimonia-de-posse-do-procurador-geral-da-republica-augusto-aras-1573223811317_v2_750x421.jpg
 ---
 

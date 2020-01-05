@@ -8,6 +8,7 @@ date: 2018-11-29 19:42:03
 pub_date: 2018-11-29 19:42:03
 time_added: 2019-12-23 21:19:31
 category: avisamos
+tags: []
 image: https://img.estadao.com.br/resources/jpg/3/4/1536345192643.jpg
 ---
 

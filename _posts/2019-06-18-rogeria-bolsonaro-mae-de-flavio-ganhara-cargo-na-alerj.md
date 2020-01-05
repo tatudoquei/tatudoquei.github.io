@@ -8,6 +8,7 @@ date: 2019-06-18 18:01:00
 pub_date: 2019-06-18 18:01:00
 time_added: 2019-07-16 21:08:45
 category: avisamos
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23749228-c20-0c4/FT1086A/652/rogeria.jpg
 ---
 

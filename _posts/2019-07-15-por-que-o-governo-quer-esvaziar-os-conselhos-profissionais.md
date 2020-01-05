@@ -8,6 +8,7 @@ date: 2019-07-15 22:00:00
 pub_date: 2019-07-15 22:00:00
 time_added: 2019-07-19 06:13:51
 category: 
+tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Guedes.jpg2/ALTERNATES/LANDSCAPE_720/Guedes.jpg
 ---
 

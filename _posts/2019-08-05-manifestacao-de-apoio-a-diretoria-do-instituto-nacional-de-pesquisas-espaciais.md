@@ -8,6 +8,7 @@ date: 2019-08-05 21:00:31
 pub_date: 2019-08-05 21:00:31
 time_added: 2019-08-05 23:00:31
 category: 
+tags: []
 ---
 
 A Diretoria e o Conselho da Academia de Ciências do Estado de São Paulo vêm a público expressar seu apoio ao diretor do Instituto Nacional de Pesquisas Espaciais, INPE, Ricardo Galvão, frente às críticas que colocam em dúvida a qualidade e a seriedade do trabalho realizado pelo Instituto, de

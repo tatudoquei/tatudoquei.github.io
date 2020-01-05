@@ -8,6 +8,7 @@ date: 2019-03-26 04:13:36
 pub_date: 2019-03-26 04:13:36
 time_added: 2019-03-27 07:04:35
 category: avisamos
+tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2019/01/bosloanro.jpg
 ---
 

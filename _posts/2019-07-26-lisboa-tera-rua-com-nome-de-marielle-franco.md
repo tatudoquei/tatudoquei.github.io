@@ -8,6 +8,7 @@ date: 2019-07-26 19:46:23
 pub_date: 2019-07-26 19:46:23
 time_added: 2019-07-27 07:28:31
 category: 
+tags: []
 ---
 
 Europa | 26.07.2019 Marielle Franco foi assassinada em 14 de março de 2018, no centro do Rio de Janeiro Câmara da capital portuguesa aprova homenagem por unanimidade. Comissão municipal determinará rua que receberá o nome da vereadora carioca que foi assassinada em 2018.

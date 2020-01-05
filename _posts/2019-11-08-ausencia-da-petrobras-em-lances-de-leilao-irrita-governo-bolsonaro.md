@@ -8,6 +8,7 @@ date: 2019-11-08 00:57:00
 pub_date: 2019-11-08 00:57:00
 time_added: 2019-11-08 07:03:18
 category: 
+tags: []
 image: https://painel.blogfolha.uol.com.br/files/2018/11/roberto-castello-branco.jpg
 ---
 

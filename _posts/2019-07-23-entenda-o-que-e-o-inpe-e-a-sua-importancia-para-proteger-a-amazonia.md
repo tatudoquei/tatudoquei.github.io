@@ -8,6 +8,7 @@ date: 2019-07-23 21:01:00
 pub_date: 2019-07-23 21:01:00
 time_added: 2019-07-24 19:47:40
 category: 
+tags: []
 image: https://s2.glbimg.com/7U9aViIBGhVHLPhQDlYkJOtLAjs=/e.glbimg.com/og/ed/f/original/2019/07/23/011-lit_interior.jpg
 ---
 

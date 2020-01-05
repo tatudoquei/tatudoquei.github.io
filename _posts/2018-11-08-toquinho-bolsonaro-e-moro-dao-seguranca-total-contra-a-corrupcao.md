@@ -8,6 +8,7 @@ date: 2018-11-08 18:34:00
 pub_date: 2018-11-08 18:34:00
 time_added: 2019-05-16 19:07:58
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/16/2018/11/08/o-cantor-e-compositor-toquinho-posa-para-o-uol-1541713680175_v2_615x300.jpg
 ---
 

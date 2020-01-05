@@ -8,6 +8,7 @@ date: 2019-02-08 12:46:00
 pub_date: 2019-02-08 12:46:00
 time_added: 2019-12-23 21:37:45
 category: refletimos
+tags: []
 image: https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-06-24 18:21:29
 pub_date: 2019-06-24 18:21:29
 time_added: 2019-08-24 18:00:15
 category: 
+tags: []
 image: https://www12.senado.leg.br/noticias/materias/2019/06/24/brasil-esta-entre-os-piores-paises-do-mundo-para-trabalhador-aponta-debate/20190624_00194j.jpg
 ---
 

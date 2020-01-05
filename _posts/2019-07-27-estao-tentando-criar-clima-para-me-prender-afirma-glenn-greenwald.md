@@ -8,6 +8,7 @@ date: 2019-07-27 02:01:00
 pub_date: 2019-07-27 02:01:00
 time_added: 2019-07-28 21:37:59
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/30/2019/07/11/11jul2019---glenn-greenwald-jornalista-e-fundados-do-site-the-intercept-participa-de-audiencia-na-ccj-comissao-de-constituicao-justica-e-cidadania-do-senado-1562864505527_v2_615x300.jpg
 ---
 

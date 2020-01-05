@@ -8,6 +8,7 @@ date: 2019-08-30 10:40:37
 pub_date: 2019-08-30 10:40:37
 time_added: 2019-08-30 23:32:45
 category: 
+tags: []
 image: https://abrilveja.files.wordpress.com/2019/08/capa-2650-h-preto.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

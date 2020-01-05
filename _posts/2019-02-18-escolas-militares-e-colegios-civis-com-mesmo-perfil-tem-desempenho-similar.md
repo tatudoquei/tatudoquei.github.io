@@ -8,6 +8,7 @@ date: 2019-02-18 01:00:00
 pub_date: 2019-02-18 01:00:00
 time_added: 2019-12-23 21:37:46
 category: refletimos
+tags: [educação]
 image: https://f.i.uol.com.br/fotografia/2019/02/17/15504560625c6a14fe18d34_1550456062_3x2_rt.jpg
 ---
 

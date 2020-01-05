@@ -8,6 +8,7 @@ date: 2019-10-30 19:15:18
 pub_date: 2019-10-30 19:15:18
 time_added: 2019-10-31 22:12:54
 category: 
+tags: []
 image: https://abrilveja.files.wordpress.com/2019/10/brasil-politica-jair-bolsonaro-20190528-004-copy-2.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

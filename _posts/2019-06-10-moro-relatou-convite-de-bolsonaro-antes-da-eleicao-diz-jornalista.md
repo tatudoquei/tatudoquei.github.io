@@ -8,6 +8,7 @@ date: 2019-06-10 15:23:00
 pub_date: 2019-06-10 15:23:00
 time_added: 2019-06-11 18:42:48
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/47/2019/05/15/15mai2019---ministro-da-justica-sergio-moro-1557973988239_v2_615x300.png
 ---
 

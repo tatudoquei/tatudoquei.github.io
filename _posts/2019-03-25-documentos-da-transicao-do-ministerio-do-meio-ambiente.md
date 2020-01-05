@@ -8,6 +8,7 @@ date: 2019-03-25 23:00:00
 pub_date: 2019-03-25 23:00:00
 time_added: 2019-03-27 22:08:30
 category: refletimos
+tags: []
 ---
 
 REESTRUTURACAO – SISNAMA-MMA-IBAMA NOTA-SISNAMA

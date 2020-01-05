@@ -8,6 +8,7 @@ date: 2019-07-16 15:51:16
 pub_date: 2019-07-16 15:51:16
 time_added: 2019-07-16 21:12:47
 category: 
+tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/07/goldemberg1.jpg
 ---
 

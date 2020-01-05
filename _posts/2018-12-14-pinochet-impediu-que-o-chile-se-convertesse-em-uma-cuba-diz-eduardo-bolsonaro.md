@@ -8,6 +8,7 @@ date: 2018-12-14 17:12:00
 pub_date: 2018-12-14 17:12:00
 time_added: 2018-12-15 21:52:59
 category: avisamos
+tags: []
 image: https://f.i.uol.com.br/fotografia/2018/12/14/15448177285c140c40ccb55_1544817728_3x2_rt.jpg
 ---
 

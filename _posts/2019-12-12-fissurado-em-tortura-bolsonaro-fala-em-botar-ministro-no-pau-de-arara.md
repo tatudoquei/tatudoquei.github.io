@@ -8,6 +8,7 @@ date: 2019-12-12 16:50:00
 pub_date: 2019-12-12 16:50:00
 time_added: 2019-12-14 09:01:20
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/11/bolsoos-615x300.jpg
 ---
 

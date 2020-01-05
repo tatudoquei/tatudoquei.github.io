@@ -8,6 +8,7 @@ date: 2019-02-08 19:20:15
 pub_date: 2019-02-08 19:20:15
 time_added: 2019-12-23 21:37:46
 category: refletimos
+tags: []
 ---
 
 O Conselho Federal de Psicologia (CFP) vem a público manifestar repúdio à Nota Técnica Nº 11/2019 intitulada “Nova Saúde Mental”, publicada pela Coordenação-Geral de Saúde Mental, Álcool e Outras Drogas, do Ministério da Saúde, na última segunda-feira (4).

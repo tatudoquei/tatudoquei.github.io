@@ -8,6 +8,7 @@ date: 2018-12-06 20:30:08
 pub_date: 2018-12-06 20:30:08
 time_added: 2019-09-02 22:07:33
 category: 
+tags: []
 ---
 
 Circula nas redes sociais uma imagem que atribui ao presidente eleito, Jair Bolsonaro (PSL), uma declaração elogiosa à cavalaria norte-americana por ter, no passado, dizimado populações indígenas.

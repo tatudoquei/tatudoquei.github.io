@@ -8,6 +8,7 @@ date: 2019-12-21 18:41:00
 pub_date: 2019-12-21 18:41:00
 time_added: 2019-12-23 10:45:48
 category: 
+tags: []
 ---
 
 Ao final do primeiro ano de mandato, em uma mesa à beira da piscina no Palácio da Alvorada, o presidente Jair Bolsonaro indicou que nada vai mudar em sua atuação pública daqui para a frente, mesmo depois das críticas.

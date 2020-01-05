@@ -8,6 +8,7 @@ date: 2019-06-09 18:57:00
 pub_date: 2019-06-09 18:57:00
 time_added: 2019-06-09 22:08:08
 category: 
+tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/06/deltan-redes-1560094387.jpg
 ---
 

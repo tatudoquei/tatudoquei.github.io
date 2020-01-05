@@ -8,6 +8,7 @@ date: 2019-10-25 22:01:00
 pub_date: 2019-10-25 22:01:00
 time_added: 2019-10-26 11:17:47
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/95/2019/10/25/registro-em-cartorio-do-comentario-de-funcionario-de-eduardo-bolsonaro-em-pagina-de-junior-bozzella-1572036964853_v2_615x300.jpg
 ---
 

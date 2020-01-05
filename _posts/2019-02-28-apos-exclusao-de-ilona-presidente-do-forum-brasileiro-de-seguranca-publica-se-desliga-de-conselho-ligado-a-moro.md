@@ -8,6 +8,7 @@ date: 2019-02-28 18:52:00
 pub_date: 2019-02-28 18:52:00
 time_added: 2019-03-06 22:24:44
 category: avisamos
+tags: []
 ---
 
 RIO - Após a decisão do ministro da Justiça, Sérgio Moro, de revogar a nomeação da pesquisadora Ilona Szabó no Conselho Nacional de Política Criminal e Penitenciária (CNPCP), o presidente do Fórum Brasileiro de Segurança Pública, Renato Sérgio de Lima, decidiu se desligar de outro órg

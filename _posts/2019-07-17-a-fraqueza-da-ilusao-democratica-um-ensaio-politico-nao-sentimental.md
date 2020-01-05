@@ -8,6 +8,7 @@ date: 2019-07-17 20:34:45
 pub_date: 2019-07-17 20:34:45
 time_added: 2019-07-18 06:28:08
 category: 
+tags: []
 image: https://boitempoeditorial.files.wordpress.com/2019/07/jones-democracia-boitempo.jpg
 ---
 

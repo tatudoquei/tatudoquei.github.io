@@ -8,6 +8,7 @@ date: 2019-07-25 22:05:14
 pub_date: 2019-07-25 22:05:14
 time_added: 2019-07-26 06:47:08
 category: 
+tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/07/Cnpq.jpg
 ---
 

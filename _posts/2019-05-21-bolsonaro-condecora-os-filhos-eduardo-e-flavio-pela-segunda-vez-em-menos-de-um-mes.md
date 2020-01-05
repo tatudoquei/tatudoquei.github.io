@@ -8,6 +8,7 @@ date: 2019-05-21 13:37:00
 pub_date: 2019-05-21 13:37:00
 time_added: 2019-08-22 23:43:12
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23682717-6af-f3f/FT1086A/652/82771303_Rio-de-Janeiro-20-05-2019O-Presidente-da-Republica-Jair-Bolsonaro-visitou-a-Federacao-das.jpg
 ---
 

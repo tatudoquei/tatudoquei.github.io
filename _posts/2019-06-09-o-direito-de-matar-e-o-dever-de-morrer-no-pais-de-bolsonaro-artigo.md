@@ -8,6 +8,7 @@ date: 2019-06-09 13:47:00
 pub_date: 2019-06-09 13:47:00
 time_added: 2019-06-12 20:52:18
 category: 
+tags: []
 ---
 
 Em entrevista publicada no site de ÉPOCA na sexta-feira 7, o general Hamilton Mourão celebrou a aparente perda de força, no governo federal, dos seguidores de Olavo de Carvalho.

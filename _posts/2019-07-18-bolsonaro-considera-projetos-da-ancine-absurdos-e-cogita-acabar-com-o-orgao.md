@@ -8,6 +8,7 @@ date: 2019-07-18 17:29:27
 pub_date: 2019-07-18 17:29:27
 time_added: 2019-07-19 06:12:34
 category: 
+tags: []
 image: https://assets.b9.com.br/wp-content/uploads/2019/07/ancine.jpg
 ---
 

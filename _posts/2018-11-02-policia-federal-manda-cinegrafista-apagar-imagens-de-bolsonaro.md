@@ -8,6 +8,7 @@ date: 2018-11-02 21:31:18
 pub_date: 2018-11-02 21:31:18
 time_added: 2019-12-23 21:19:30
 category: avisamos
+tags: []
 image: https://www.valor.com.br/sites/all/themes/basic/images/facebook/valor-big.jpg
 ---
 

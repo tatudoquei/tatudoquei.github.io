@@ -8,6 +8,7 @@ date: 2019-05-24 13:46:00
 pub_date: 2019-05-24 13:46:00
 time_added: 2019-05-26 20:54:23
 category: 
+tags: []
 ---
 
 A economia no Brasil está em estado lastimável. Não, não falo apenas da economia – do crescimento, do desemprego, dos desajustes, da falta de produtividade. Falo da economia como a disciplina a qual tantos dedicam suas vidas. Não tenho escrito muito sobre economia, é verdade.

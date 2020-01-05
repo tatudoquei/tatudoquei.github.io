@@ -8,6 +8,7 @@ date: 2018-11-11 18:54:09
 pub_date: 2018-11-11 18:54:09
 time_added: 2018-11-12 08:56:38
 category: refletimos
+tags: []
 image: https://static.poder360.com.br/2018/11/991128-df_18122015b-dsc_3699--1024x630.jpg
 ---
 

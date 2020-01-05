@@ -8,6 +8,7 @@ date: 2019-05-31 17:41:00
 pub_date: 2019-05-31 17:41:00
 time_added: 2019-06-01 08:46:48
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/05/porte_bolsonaro-615x300.jpg
 ---
 

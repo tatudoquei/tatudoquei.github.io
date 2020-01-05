@@ -8,6 +8,7 @@ date: 2019-02-13 05:58:00
 pub_date: 2019-02-13 05:58:00
 time_added: 2019-12-23 21:37:46
 category: refletimos
+tags: [bandido bom]
 image: http://www3.redetv.uol.com.br/blog/reinaldo/wp-content/uploads/2018/06/o-golpe-de-moro-2-soberano-proibe-o-compartilhamento-de-provas-com-orgaos-do-estado-e-os-proibe-de-cumprir-sua-funcao.jpg
 ---
 

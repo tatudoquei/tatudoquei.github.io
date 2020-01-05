@@ -8,6 +8,7 @@ date: 2019-09-16 16:01:00
 pub_date: 2019-09-16 16:01:00
 time_added: 2019-09-17 16:17:41
 category: 
+tags: []
 ---
 
 O ministro da Ciência, Tecnologia, Inovações e Comunicações, Marcos Pontes, esteve nesta segunda-feira (16), em Santa Maria, na Região Central.

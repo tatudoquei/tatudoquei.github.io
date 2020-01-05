@@ -8,6 +8,7 @@ date: 2019-02-28 19:06:00
 pub_date: 2019-02-28 19:06:00
 time_added: 2019-12-23 21:21:00
 category: refletimos
+tags: []
 image: https://s3.amazonaws.com/static-colunistas.gazetadopovo.com.br/wp-content/uploads/sites/222/2019/02/28200534/stroessner.jpg
 ---
 

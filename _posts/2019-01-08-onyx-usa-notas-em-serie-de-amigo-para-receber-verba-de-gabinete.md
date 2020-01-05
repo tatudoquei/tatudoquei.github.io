@@ -8,6 +8,7 @@ date: 2019-01-08 20:20:54
 pub_date: 2019-01-08 20:20:54
 time_added: 2019-01-08 21:20:54
 category: avisamos
+tags: []
 ---
 
 Por quase 10 anos, o ministro da Casa Civil, Onyx Lorenzoni (DEM), usou 80 notas fiscais de uma empresa de consultoria tributária para receber da Câmara R$ 317 mil em verbas de gabinete.

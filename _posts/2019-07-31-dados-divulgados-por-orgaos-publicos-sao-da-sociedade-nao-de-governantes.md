@@ -8,6 +8,7 @@ date: 2019-07-31 12:32:55
 pub_date: 2019-07-31 12:32:55
 time_added: 2019-08-04 07:59:58
 category: 
+tags: []
 image: https://jornal.usp.br/wp-content/uploads/colunista_renato_janine_800px.jpg
 ---
 

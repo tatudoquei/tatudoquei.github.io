@@ -8,6 +8,7 @@ date: 2019-12-13 08:10:00
 pub_date: 2019-12-13 08:10:00
 time_added: 2019-12-13 13:38:19
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23850849-8de-9c2/FT1086A/652/ricardogalvaoinpe.jpg
 ---
 

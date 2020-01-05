@@ -8,6 +8,7 @@ date: 2019-05-14 18:46:22
 pub_date: 2019-05-14 18:46:22
 time_added: 2019-05-16 19:08:04
 category: 
+tags: []
 image: https://static.congressoemfoco.uol.com.br/2019/05/40882251623_0ab4123b5c_k-1200x630.jpg
 ---
 

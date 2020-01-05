@@ -8,6 +8,7 @@ date: 2018-12-28 11:07:00
 pub_date: 2018-12-28 11:07:00
 time_added: 2018-12-29 22:57:28
 category: avisamos
+tags: []
 image: https://conteudo.imguol.com.br/c/carros/blogs/09/2018/10/15/leilao-da-fab-tem-caca-supersonico-com-preco-de-chery-qq-1539619985783_v2_615x300.jpg
 ---
 

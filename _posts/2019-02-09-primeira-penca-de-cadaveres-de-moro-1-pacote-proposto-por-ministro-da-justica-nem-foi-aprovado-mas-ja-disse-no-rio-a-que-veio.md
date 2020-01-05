@@ -8,6 +8,7 @@ date: 2019-02-09 05:51:00
 pub_date: 2019-02-09 05:51:00
 time_added: 2019-12-23 21:37:45
 category: refletimos
+tags: []
 image: http://www3.redetv.uol.com.br/blog/reinaldo/wp-content/uploads/2019/02/primeira-penca-de-cadaveres-de-moro-1-pacote-proposto-por-ministro-da-justica-nem-foi-aprovado-mas-ja-disse-no-rio-a-que-veio-1.jpg
 ---
 

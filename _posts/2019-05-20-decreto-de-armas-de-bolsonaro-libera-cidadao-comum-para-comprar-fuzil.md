@@ -8,6 +8,7 @@ date: 2019-05-20 20:08:00
 pub_date: 2019-05-20 20:08:00
 time_added: 2019-05-21 19:39:58
 category: 
+tags: []
 ---
 
 BRASÍLIA — O decreto assinado neste mês pelo presidente da República, Jair Bolsonaro, que regulamenta o porte e posse de armas no país, permitirá a qualquer cidadão comprar um fuzil. A informação foi antecipada pelo "Jornal Nacional".

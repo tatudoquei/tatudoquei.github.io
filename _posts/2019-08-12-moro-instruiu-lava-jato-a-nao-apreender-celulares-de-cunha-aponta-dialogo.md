@@ -8,6 +8,7 @@ date: 2019-08-12 17:03:00
 pub_date: 2019-08-12 17:03:00
 time_added: 2019-08-14 22:47:03
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/9c/2019/08/07/o-ministro-da-justica-e-seguranca-publica-sergio-moro-durante-cerimonia-de-assinatura-do-pacto-para-implementacao-de-politicas-publicas-de-prevencao-e-combate-a-violencia-contra-as-mulheres-foto-1565217294067_v2_615x300.jpg
 ---
 

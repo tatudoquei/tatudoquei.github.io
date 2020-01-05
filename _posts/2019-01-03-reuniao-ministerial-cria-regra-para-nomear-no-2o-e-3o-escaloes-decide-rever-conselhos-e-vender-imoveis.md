@@ -8,6 +8,7 @@ date: 2019-01-03 15:11:41
 pub_date: 2019-01-03 15:11:41
 time_added: 2019-01-04 00:36:28
 category: avisamos
+tags: []
 image: https://s2.glbimg.com/dm3XwbQz61CgERGPK9waMFMQpaY=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/i/Y/AxV2T9Q1OKSsjP1OFkAQ/bolsonaro-e-ministros-1.jpg
 ---
 

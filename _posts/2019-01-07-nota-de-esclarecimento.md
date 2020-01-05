@@ -8,6 +8,7 @@ date: 2019-01-07 13:11:00
 pub_date: 2019-01-07 13:11:00
 time_added: 2019-12-23 21:19:31
 category: resistimos
+tags: [meio ambiente]
 ---
 
 "As viaturas do Ibama são objeto de um contrato de locação de âmbito nacional. O novo contrato abrange 393 caminhonetes adaptadas para atividades de fiscalização, combate a incêndios florestais, emergências ambientais, ações de inteligência, vistorias técnicas etc.

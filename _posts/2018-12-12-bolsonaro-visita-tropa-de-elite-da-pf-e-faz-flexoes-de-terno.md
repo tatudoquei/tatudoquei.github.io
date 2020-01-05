@@ -8,6 +8,7 @@ date: 2018-12-12 10:35:00
 pub_date: 2018-12-12 10:35:00
 time_added: 2018-12-12 23:14:37
 category: avisamos
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/03/2018/12/12/12dez2018---o-presidente-eleito-jair-bolsonaro-psl-se-abaixa-para-fazer-flexoes-em-visita-a-centro-da-pf-em-brasilia-1544621341260_v2_615x300.jpg
 ---
 

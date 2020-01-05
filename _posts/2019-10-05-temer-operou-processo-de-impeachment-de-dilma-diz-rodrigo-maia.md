@@ -8,6 +8,7 @@ date: 2019-10-05 12:10:00
 pub_date: 2019-10-05 12:10:00
 time_added: 2019-10-06 08:34:52
 category: 
+tags: []
 image: https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook.jpg
 ---
 

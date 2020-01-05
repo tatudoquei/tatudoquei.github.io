@@ -8,6 +8,7 @@ date: 2019-08-16 08:00:05
 pub_date: 2019-08-16 08:00:05
 time_added: 2019-08-18 21:01:03
 category: 
+tags: []
 image: https://s2.glbimg.com/mXSCyX62VJbpvmsBUGLWQRHblSM=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/B/E/Dc3m8QRwmYnvM1KajDTQ/ibama-fiscal.jpg
 ---
 

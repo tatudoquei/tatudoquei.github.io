@@ -8,6 +8,7 @@ date: 2019-08-05 22:00:00
 pub_date: 2019-08-05 22:00:00
 time_added: 2019-08-07 05:56:16
 category: 
+tags: []
 ---
 
 DO OC – Em que pese todo o esforço do governo federal para assassinar o mensageiro, a mensagem segue dramática: o desmatamento na Amazônia cresceu 50% em 2019, primeiro ano do governo de Jair Bolsonaro.

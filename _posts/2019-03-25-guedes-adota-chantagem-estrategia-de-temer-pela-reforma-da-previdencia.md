@@ -8,6 +8,7 @@ date: 2019-03-25 17:47:00
 pub_date: 2019-03-25 17:47:00
 time_added: 2019-03-26 18:47:54
 category: avisamos
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/03/guedes-615x300.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-11-14 17:45:00
 pub_date: 2019-11-14 17:45:00
 time_added: 2019-11-17 09:25:27
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/20/2019/11/14/tomas-silva-lider-da-invasao-a-embaixada-da-venezuela-em-brasilia-1573755003501_v2_615x300.jpg
 ---
 

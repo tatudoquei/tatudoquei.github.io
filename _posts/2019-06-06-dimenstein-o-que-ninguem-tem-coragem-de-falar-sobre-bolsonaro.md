@@ -8,6 +8,7 @@ date: 2019-06-06 13:05:23
 pub_date: 2019-06-06 13:05:23
 time_added: 2019-06-07 21:01:34
 category: 
+tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2019/06/votar-em-bolsonaro-cia-significa-1.jpg
 ---
 

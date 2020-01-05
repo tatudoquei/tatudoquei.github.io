@@ -8,6 +8,7 @@ date: 2019-07-08 02:00:00
 pub_date: 2019-07-08 02:00:00
 time_added: 2019-08-30 23:38:39
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/9c/2019/07/05/louise-caroline-enfermeira-faz-atendimentos-possiveis-enquanto-nao-ha-medicos-no-posto-de-saude-1562379904086_v2_615x300.jpg
 ---
 

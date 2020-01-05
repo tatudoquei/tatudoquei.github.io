@@ -8,6 +8,7 @@ date: 2019-04-29 12:02:00
 pub_date: 2019-04-29 12:02:00
 time_added: 2019-04-30 06:55:52
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23629758-df4-f8e/FT1086A/652/82368973_Brazils-President-Jair-Bolsonaro-reacts-during-a-ceremony-at-the-Planalto-Palace-in-Br.jpg
 ---
 

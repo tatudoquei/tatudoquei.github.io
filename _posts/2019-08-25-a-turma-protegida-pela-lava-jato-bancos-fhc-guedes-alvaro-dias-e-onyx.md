@@ -8,6 +8,7 @@ date: 2019-08-25 09:53:00
 pub_date: 2019-08-25 09:53:00
 time_added: 2019-08-26 06:34:38
 category: 
+tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/08/9651799-redes-1566750606.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-09-08 15:12:00
 pub_date: 2019-09-08 15:12:00
 time_added: 2019-09-11 20:54:17
 category: 
+tags: []
 ---
 
 “História contrafactual”, “História alterna” ou “Ucronia” são as várias formas de denominar as especulações sobre os eventos da História se eles tivessem tido um hipotético curso diferente.

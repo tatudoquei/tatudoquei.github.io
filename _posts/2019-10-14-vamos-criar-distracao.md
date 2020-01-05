@@ -8,6 +8,7 @@ date: 2019-10-14 01:01:00
 pub_date: 2019-10-14 01:01:00
 time_added: 2019-11-03 09:28:58
 category: 
+tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/10/pt-21-redes-1570822469.jpg
 ---
 

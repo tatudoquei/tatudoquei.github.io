@@ -8,6 +8,7 @@ date: 2019-06-29 15:58:00
 pub_date: 2019-06-29 15:58:00
 time_added: 2019-06-29 17:58:00
 category: 
+tags: []
 image: https://media.gazetadopovo.com.br/2019/06/27215400/g20-trump-abe-shinzo-660x372.jpg
 ---
 

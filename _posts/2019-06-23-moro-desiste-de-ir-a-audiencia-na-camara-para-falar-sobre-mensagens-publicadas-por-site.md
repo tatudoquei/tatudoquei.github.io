@@ -8,6 +8,7 @@ date: 2019-06-23 15:16:00
 pub_date: 2019-06-23 15:16:00
 time_added: 2019-06-25 05:23:47
 category: 
+tags: []
 ---
 
 Após passar 9 horas no Senado na última semana para dar explicações sobre mensagens atribuídas a ele e a procuradores da Operação Lava-Jato pelo site The Intercept Brasil, o ministro da Justiça, Sergio Moro, cancelou sua ida à Comissão de Constituição e Justiça (CCJ) da Câmara marcada

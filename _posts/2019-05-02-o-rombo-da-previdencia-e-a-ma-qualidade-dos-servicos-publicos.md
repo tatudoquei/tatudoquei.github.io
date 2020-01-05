@@ -8,6 +8,7 @@ date: 2019-05-02 12:18:00
 pub_date: 2019-05-02 12:18:00
 time_added: 2019-05-04 06:44:10
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/247/files/2019/05/WhatsApp-Image-2019-04-30-at-16.07.15-1-615x300.jpeg
 ---
 

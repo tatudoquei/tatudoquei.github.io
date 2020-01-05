@@ -8,6 +8,7 @@ date: 2019-04-08 10:36:00
 pub_date: 2019-04-08 10:36:00
 time_added: 2019-04-09 18:50:14
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23527087-440-6c0/FT1086A/652/olavo-carvalho.jpg
 ---
 

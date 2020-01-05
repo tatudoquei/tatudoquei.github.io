@@ -8,6 +8,7 @@ date: 2019-04-12 21:42:11
 pub_date: 2017-02-21 00:19:51
 time_added: 2019-04-12 21:42:11
 category: 
+tags: []
 image: https://i2.wp.com/cartacampinas.com.br/wp-content/uploads/vale.jpg?fit=537%2C303
 ---
 

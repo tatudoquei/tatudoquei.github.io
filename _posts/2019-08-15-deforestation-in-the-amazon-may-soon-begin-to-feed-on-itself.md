@@ -8,6 +8,7 @@ date: 2019-08-15 00:00:00
 pub_date: 2019-08-15 00:00:00
 time_added: 2019-08-18 21:00:41
 category: 
+tags: []
 image: https://www.economist.com/sites/default/files/20190817_WOC952.png
 ---
 

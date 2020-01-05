@@ -8,6 +8,7 @@ date: 2019-04-24 07:06:29
 pub_date: 2018-10-05 10:58:00
 time_added: 2019-04-24 07:06:29
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23131878-cc2-926/FT1086A/652/181005_site-judeu-muculmano-bolsonaro-1.jpg
 ---
 

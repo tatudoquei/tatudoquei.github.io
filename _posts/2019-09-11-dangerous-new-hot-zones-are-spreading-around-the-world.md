@@ -8,6 +8,7 @@ date: 2019-09-11 14:00:00
 pub_date: 2019-09-11 14:00:00
 time_added: 2019-09-15 10:04:00
 category: 
+tags: []
 image: https://www.washingtonpost.com/rf/image_982w/2010-2019/WashingtonPost/2019/09/10/Health-Environment-Science/Images/world-climate-promo.jpg
 ---
 

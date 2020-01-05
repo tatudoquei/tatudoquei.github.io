@@ -8,6 +8,7 @@ date: 2019-12-02 03:13:00
 pub_date: 2019-12-02 03:13:00
 time_added: 2019-12-02 20:48:59
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2019/12/paraisopolisprotesta-615x300.jpg
 ---
 

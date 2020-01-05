@@ -8,6 +8,7 @@ date: 2019-10-21 20:51:54
 pub_date: 2019-10-21 20:51:54
 time_added: 2019-10-22 21:35:11
 category: 
+tags: []
 ---
 
 Ricardo Salles ironiza Greenpeace por não ajudar na limpeza de praias manchadas de óleo. Acima, voluntária da ONG ajuda na limpeza em Recife. Foto: Reprodução/Twitter.

@@ -8,6 +8,7 @@ date: 2019-05-09 19:00:15
 pub_date: 2019-05-09 19:00:15
 time_added: 2019-05-11 02:40:09
 category: 
+tags: []
 ---
 
 Representantes de mais de 60 entidades científicas participaram das atividades #CiênciaOcupaBrasília nessa quarta-feira, 8  de maio, cobrando dos parlamentares a recuperação do orçamento para CT&I e valorização das universidades públicas Diante do cenário catastrófico em que se encontra

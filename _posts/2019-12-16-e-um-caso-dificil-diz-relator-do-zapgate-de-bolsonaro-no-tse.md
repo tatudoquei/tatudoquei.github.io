@@ -8,6 +8,7 @@ date: 2019-12-16 03:01:00
 pub_date: 2019-12-16 03:01:00
 time_added: 2019-12-16 09:35:26
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/69/2018/08/31/31ago2018---ministro-og-fernandes-durante-sessao-extraordinaria-no-tse-1535762862810_v2_615x300.jpg
 ---
 

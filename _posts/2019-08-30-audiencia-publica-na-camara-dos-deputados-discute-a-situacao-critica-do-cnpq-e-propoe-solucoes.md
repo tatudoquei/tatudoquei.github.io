@@ -8,6 +8,7 @@ date: 2019-08-30 14:40:39
 pub_date: 2019-08-30 14:40:39
 time_added: 2019-08-30 23:38:35
 category: 
+tags: []
 ---
 
 MCTIC e CNPq admitiram não haver mais recursos para bolsas em 2019. Secretário-executivo do MCTIC prometeu que o déficit de R$ 330 milhões para cobertura das bolsas não se repetirá em 2020.

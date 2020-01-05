@@ -8,6 +8,7 @@ date: 2019-03-19 15:00:58
 pub_date: 2019-03-19 15:00:58
 time_added: 2019-08-11 19:51:50
 category: 
+tags: []
 image: https://i1.wp.com/apublica.org/wp-content/uploads/2019/03/photo.jpg?fit=1500%2C1200&ssl=1
 ---
 

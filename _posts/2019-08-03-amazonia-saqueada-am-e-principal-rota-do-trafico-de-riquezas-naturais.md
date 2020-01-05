@@ -8,6 +8,7 @@ date: 2019-08-03 19:08:03
 pub_date: 2018-07-29 10:13:00
 time_added: 2019-08-03 19:08:03
 category: 
+tags: []
 image: https://cdn.emtempo.com.br/img/Facebook/110000/Madeira-apreendida_amazonas_facebook_00114259_0.jpg
 ---
 

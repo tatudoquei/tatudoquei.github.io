@@ -8,6 +8,7 @@ date: 2019-09-07 17:17:45
 pub_date: 2019-09-07 17:17:45
 time_added: 2019-09-08 09:07:35
 category: 
+tags: []
 ---
 
 Filho do mestre dos quadrinhos no Brasil, Maurício de Sousa, Mauro Sousa publicou neste sábado uma foto beijando o namorado, Rafael Piccin. Na legenda, ele fez referência à ordem do prefeito do Rio Marcelo Crivella de recolher da Bienal do Livro publicações de temática LGBTQI+.

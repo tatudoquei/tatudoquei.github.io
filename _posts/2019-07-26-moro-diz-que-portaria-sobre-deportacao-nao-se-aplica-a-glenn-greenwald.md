@@ -8,6 +8,7 @@ date: 2019-07-26 17:50:32
 pub_date: 2019-07-26 17:50:32
 time_added: 2019-07-27 18:09:42
 category: 
+tags: []
 image: http://www.valor.com.br/sites/default/files/imagecache/media_library_big_horizontal/fotoweb/moror1.jpg
 ---
 

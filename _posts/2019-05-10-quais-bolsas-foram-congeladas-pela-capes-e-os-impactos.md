@@ -8,6 +8,7 @@ date: 2019-05-10 01:47:00
 pub_date: 2019-05-10 01:47:00
 time_added: 2019-05-09 22:47:00
 category: 
+tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Estudante-em-protesto-contra-medidas-do-governo-Bolsonaro-no-Rio/ALTERNATES/LANDSCAPE_720/Estudante%20em%20protesto%20contra%20medidas%20do%20governo%20Bolsonaro,%20no%20Rio
 ---
 

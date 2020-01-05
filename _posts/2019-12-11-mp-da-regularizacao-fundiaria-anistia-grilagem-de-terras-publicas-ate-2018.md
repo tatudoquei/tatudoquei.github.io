@@ -8,6 +8,7 @@ date: 2019-12-11 22:48:48
 pub_date: 2019-12-11 22:48:48
 time_added: 2019-12-23 11:16:09
 category: 
+tags: []
 ---
 
 Cerimônia de assinatura da Medida Provisória (MP) 910/2019. Foto: Carlos Silva/MAPA.O Governo Federal publicou nesta quarta-feira (11) um pacote de medidas para “simplificar e modernizar” o processo de regularização definitiva das ocupações em terras da União.

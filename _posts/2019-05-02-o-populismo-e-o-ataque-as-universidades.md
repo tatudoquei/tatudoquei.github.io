@@ -8,6 +8,7 @@ date: 2019-05-02 15:52:00
 pub_date: 2019-05-02 15:52:00
 time_added: 2019-05-08 15:25:01
 category: 
+tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/teaser_claudioferraz/ALTERNATES/LANDSCAPE_720/teaser_claudioferraz
 ---
 

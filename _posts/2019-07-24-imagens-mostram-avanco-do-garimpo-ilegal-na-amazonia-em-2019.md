@@ -8,6 +8,7 @@ date: 2019-07-24 22:00:00
 pub_date: 2019-07-24 22:00:00
 time_added: 2019-07-26 06:47:04
 category: 
+tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/10635/production/_107952176_kayapo1_jul_2019.jpg
 ---
 

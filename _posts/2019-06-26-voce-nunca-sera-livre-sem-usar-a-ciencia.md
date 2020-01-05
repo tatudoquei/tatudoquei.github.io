@@ -8,6 +8,7 @@ date: 2019-06-26 07:10:00
 pub_date: 2019-06-26 07:10:00
 time_added: 2019-06-27 05:58:11
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/1e/2018/10/29/stevens-rehen---share-1540823864488_956x500.png
 ---
 

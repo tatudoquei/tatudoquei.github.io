@@ -8,6 +8,7 @@ date: 2019-04-15 02:00:00
 pub_date: 2019-04-15 02:00:00
 time_added: 2019-04-18 21:21:21
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/173/files/2019/04/WhatsApp-Image-2019-04-14-at-22.13.44-615x300.jpeg
 ---
 

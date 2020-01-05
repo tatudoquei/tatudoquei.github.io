@@ -8,6 +8,7 @@ date: 2019-08-12 17:11:41
 pub_date: 2019-08-12 17:11:41
 time_added: 2019-08-14 22:45:47
 category: 
+tags: []
 image: https://s2.glbimg.com/9gmGFTrHT26ZljMaH7CdlwqFxPg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/U/O/VyPXXwRi68E3c1L3t7Ow/desmatamento.jpg
 ---
 

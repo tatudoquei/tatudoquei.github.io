@@ -8,6 +8,7 @@ date: 2019-06-04 02:30:00
 pub_date: 2019-06-04 02:30:00
 time_added: 2019-06-04 22:23:34
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/sociedade/23715018-ffa-667/FT1086A/652/80161351_BRASILBrasilia-DF04-12-2018Bancada-do-MDB-chega-para-reuniao-com-o-presidente.jpg
 ---
 

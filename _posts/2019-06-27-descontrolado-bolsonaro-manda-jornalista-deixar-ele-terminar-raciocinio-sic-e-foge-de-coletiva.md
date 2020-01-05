@@ -8,6 +8,7 @@ date: 2019-06-27 12:41:47
 pub_date: 2019-06-27 12:41:47
 time_added: 2019-06-29 17:33:48
 category: 
+tags: []
 image: https://www.diariodocentrodomundo.com.br/wp-content/uploads/2019/06/jair-bolsonaro-responde.png
 ---
 

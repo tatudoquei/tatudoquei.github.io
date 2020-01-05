@@ -8,6 +8,7 @@ date: 2019-12-02 16:37:23
 pub_date: 2019-12-02 16:37:23
 time_added: 2019-12-03 00:21:44
 category: 
+tags: []
 ---
 
 Brasil | 02.12.2019 Lideranças e ONGs denunciam casos de roubo e vigilância e alertam contra o aumento das invasões e da violência em terras indígenas. Grupos condenam prisões injustificadas e veem tentantiva de intimidação do governo.

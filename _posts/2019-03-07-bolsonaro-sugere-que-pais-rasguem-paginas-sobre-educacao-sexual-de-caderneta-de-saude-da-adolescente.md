@@ -8,6 +8,7 @@ date: 2019-03-07 19:32:00
 pub_date: 2019-03-07 19:32:00
 time_added: 2019-03-08 21:46:41
 category: avisamos
+tags: []
 ---
 
 RIO — O presidente Jair Bolsonaro afirmou ontem, em transmissão ao vivo em uma rede social, que vai reeditar a “Caderneta de saúde da adolescente”, impressa pelo Ministério da Saúde para meninas de 10 a 19 anos, para retirar informações que considera inadequadas ao público-alvo.

@@ -8,6 +8,7 @@ date: 2019-04-24 22:00:00
 pub_date: 2019-04-24 22:00:00
 time_added: 2019-04-27 07:10:48
 category: 
+tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/8777/production/_106597643_amazoniaaerea.jpg
 ---
 

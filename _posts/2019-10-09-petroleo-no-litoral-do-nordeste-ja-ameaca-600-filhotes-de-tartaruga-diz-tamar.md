@@ -8,6 +8,7 @@ date: 2019-10-09 23:47:13
 pub_date: 2019-10-09 23:47:13
 time_added: 2019-10-10 01:47:13
 category: 
+tags: []
 ---
 
 Por Luciano Costa SÃO PAULO (Reuters) - Misteriosas manchas de petróleo que têm impactado o litoral do Nordeste desde o início do mês passado já ameaçam 600 filhotes de tartarugas marinhas que nasceram nas praias de Sergipe e Bahia e estão impedidos de ir ao mar, disse à Reuters um represe

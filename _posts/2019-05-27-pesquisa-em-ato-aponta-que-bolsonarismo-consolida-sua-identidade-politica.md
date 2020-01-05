@@ -8,6 +8,7 @@ date: 2019-05-27 10:06:00
 pub_date: 2019-05-27 10:06:00
 time_added: 2019-05-28 17:16:30
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/05/bolsonaropaulista-615x300.jpg
 ---
 

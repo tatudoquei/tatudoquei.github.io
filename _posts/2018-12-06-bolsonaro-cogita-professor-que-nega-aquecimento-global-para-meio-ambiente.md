@@ -8,6 +8,7 @@ date: 2018-12-06 00:59:00
 pub_date: 2018-12-06 00:59:00
 time_added: 2018-12-07 00:22:37
 category: avisamos
+tags: []
 image: https://painel.blogfolha.uol.com.br/files/2018/11/bolsonaro_maismedicos.jpg
 ---
 

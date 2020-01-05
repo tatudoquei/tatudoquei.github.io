@@ -8,6 +8,7 @@ date: 2019-01-12 16:38:03
 pub_date: 2019-01-12 16:38:03
 time_added: 2019-12-23 21:41:24
 category: refletimos
+tags: [bandido bom]
 image: https://img.estadao.com.br/resources/jpg/1/4/1545860853441.jpg
 ---
 

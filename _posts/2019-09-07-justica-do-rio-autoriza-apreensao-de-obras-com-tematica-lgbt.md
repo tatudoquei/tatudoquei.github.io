@@ -8,6 +8,7 @@ date: 2019-09-07 22:40:03
 pub_date: 2019-09-07 22:40:03
 time_added: 2019-09-08 09:06:15
 category: 
+tags: []
 ---
 
 Brasil | 08.09.2019 Bienal do Livro do Rio é um dos maiores eventos literários do Brasil Em nova decisão, tribunal atende a recurso da prefeitura e permite recolhimento de literatura infantojuvenil que ilustre homossexualidade e não esteja lacrada e avise sobre conteúdo.

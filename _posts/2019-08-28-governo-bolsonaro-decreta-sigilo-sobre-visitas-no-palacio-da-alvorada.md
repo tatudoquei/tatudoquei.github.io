@@ -8,6 +8,7 @@ date: 2019-08-28 04:00:00
 pub_date: 2019-08-28 04:00:00
 time_added: 2019-08-29 05:58:16
 category: 
+tags: []
 ---
 
 Desse modo, esses dados ficarão sob sigilo por cinco anos. Esses dados costumavam ser cedidos até que explodiram as delações da Odebrecht e da JBS.

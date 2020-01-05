@@ -8,6 +8,7 @@ date: 2019-03-31 14:56:17
 pub_date: 2019-03-31 14:56:17
 time_added: 2019-04-01 19:20:27
 category: 
+tags: []
 image: https://www.opovo.com.br/_midias/png/2019/03/31/palacio_do_planalto_divulga_video_exaltando_ditadura_golpe_militar_64_opovo-2235983.png
 ---
 

@@ -8,6 +8,7 @@ date: 2019-05-03 20:58:00
 pub_date: 2019-05-03 20:58:00
 time_added: 2019-05-07 06:30:44
 category: 
+tags: []
 ---
 
 RIO- A Universidade Federal do Rio de Janeiro (UFRJ), a maior federal do país, com 65 mil estudantes matriculados, afirmou ter sofrido um corte de 41% em seu orçamento de custeio, o que representa R$114 milhões.

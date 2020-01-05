@@ -8,6 +8,7 @@ date: 2019-11-09 03:00:00
 pub_date: 2019-11-09 03:00:00
 time_added: 2019-11-09 10:06:03
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d6/2019/11/08/lula-apos-deixar-prisao-1573251610126_v2_615x300.jpg
 ---
 

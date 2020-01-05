@@ -8,6 +8,7 @@ date: 2019-05-17 17:24:34
 pub_date: 2019-05-17 17:24:34
 time_added: 2019-02-10 00:34:19
 category: avisamos
+tags: []
 image: https://www.brasil247.com/images/cms-image-000620321.jpg
 ---
 

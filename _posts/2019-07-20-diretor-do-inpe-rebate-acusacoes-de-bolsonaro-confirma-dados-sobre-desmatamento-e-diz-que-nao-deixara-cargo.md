@@ -8,6 +8,7 @@ date: 2019-07-20 19:48:00
 pub_date: 2019-07-20 19:48:00
 time_added: 2019-07-22 22:00:54
 category: 
+tags: []
 ---
 
 RIO — O diretor do Instituto Nacional de Pesquisas Espaciais (Inpe), Ricardo Magnus Osório Galvão, rebateu as críticas feitas nesta sexta-feira pelo presidenteJair Bolsonaro, que acusou o órgão de pesquisa de mentir sobre dados de desmatamento da Amazônia.

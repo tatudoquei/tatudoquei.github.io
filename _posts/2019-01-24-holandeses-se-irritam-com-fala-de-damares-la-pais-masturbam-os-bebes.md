@@ -8,6 +8,7 @@ date: 2019-01-24 17:31:00
 pub_date: 2019-01-24 17:31:00
 time_added: 2019-12-23 21:37:44
 category: refletimos
+tags: []
 image: https://conteudo.imguol.com.br/f2/2019/01/16/ministra-damares-governo-bolsonaro-1547687991456_615x300.png
 ---
 

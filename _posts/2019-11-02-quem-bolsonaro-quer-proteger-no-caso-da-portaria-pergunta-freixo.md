@@ -8,6 +8,7 @@ date: 2019-11-02 18:22:00
 pub_date: 2019-11-02 18:22:00
 time_added: 2019-11-02 23:58:05
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/06/bolso_moro-615x300.jpg
 ---
 

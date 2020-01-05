@@ -8,6 +8,7 @@ date: 2019-12-03 15:09:24
 pub_date: 2019-12-03 15:09:24
 time_added: 2019-12-08 12:32:21
 category: 
+tags: []
 image: https://apublica.org/wp-content/uploads/2019/11/fotospublicas-salve-maracaipe1.jpg
 ---
 

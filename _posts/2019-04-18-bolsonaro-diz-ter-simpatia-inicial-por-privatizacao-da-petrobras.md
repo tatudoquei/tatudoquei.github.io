@@ -8,6 +8,7 @@ date: 2019-04-18 20:09:46
 pub_date: 2019-04-18 20:09:46
 time_added: 2019-04-20 07:00:42
 category: 
+tags: []
 image: https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png
 ---
 

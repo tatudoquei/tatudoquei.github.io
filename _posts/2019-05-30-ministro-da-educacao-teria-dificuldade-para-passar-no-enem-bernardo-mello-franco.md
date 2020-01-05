@@ -8,6 +8,7 @@ date: 2019-05-30 10:43:00
 pub_date: 2019-05-30 10:43:00
 time_added: 2019-05-30 19:49:16
 category: 
+tags: []
 image: https://s2.glbimg.com/2u7sOxg36UcMihRFKKn55m3rfzA=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/05/10/weintraub.jpg
 ---
 

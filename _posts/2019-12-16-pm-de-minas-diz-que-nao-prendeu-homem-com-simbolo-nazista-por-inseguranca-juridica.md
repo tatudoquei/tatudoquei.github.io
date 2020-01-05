@@ -8,6 +8,7 @@ date: 2019-12-16 22:02:00
 pub_date: 2019-12-16 22:02:00
 time_added: 2019-12-17 02:02:06
 category: 
+tags: []
 image: https://img.buzzfeed.com/buzzfeed-static/static/2019-12/16/21/asset/e05ba09b1b40/sub-buzz-473-1576532258-7.png?crop=1157:606;257,156
 ---
 

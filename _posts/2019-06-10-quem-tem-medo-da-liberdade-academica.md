@@ -8,6 +8,7 @@ date: 2019-06-10 17:32:17
 pub_date: 2019-06-10 17:32:17
 time_added: 2019-06-11 19:16:50
 category: 
+tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/06/20190610_00_nina_ranieri.jpg
 ---
 

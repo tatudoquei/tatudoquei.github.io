@@ -8,6 +8,7 @@ date: 2019-05-28 09:35:58
 pub_date: 2019-05-28 09:35:58
 time_added: 2019-05-28 17:21:05
 category: 
+tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2019/05/osmar-terra-bolsonaro-e1559036075460.jpg
 ---
 

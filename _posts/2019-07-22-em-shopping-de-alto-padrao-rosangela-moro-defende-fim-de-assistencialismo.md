@@ -8,6 +8,7 @@ date: 2019-07-22 17:48:00
 pub_date: 2019-07-22 17:48:00
 time_added: 2019-07-23 15:24:05
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d7/2019/07/22/rosangela-moro-participa-de-evento-em-sao-paulo-1563835082903_v2_615x300.jpg
 ---
 

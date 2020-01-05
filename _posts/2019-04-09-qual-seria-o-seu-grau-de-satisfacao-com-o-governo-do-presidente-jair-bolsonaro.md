@@ -8,6 +8,7 @@ date: 2019-04-09 19:05:41
 pub_date: 2019-04-09 19:05:41
 time_added: 2019-06-06 19:42:53
 category: 
+tags: []
 ---
 
 Em pesquisa realizada pela Imprensa Global, notamos a existência de dúvidas entre os internautas quanto a qualidade de Governo do Presidente Jair Bolsonaro. Com isso decidimos abrir espaço para manifesto da opinião Pública.

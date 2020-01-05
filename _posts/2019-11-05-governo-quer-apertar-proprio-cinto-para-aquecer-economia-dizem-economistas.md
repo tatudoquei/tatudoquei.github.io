@@ -8,6 +8,7 @@ date: 2019-11-05 18:04:00
 pub_date: 2019-11-05 18:04:00
 time_added: 2019-11-06 00:22:06
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/76/2015/12/17/aperto-financeiro-aperto-fiscal-dividas-endividado-devedor-consumidor-endividamento-empreendedorismo-empreendedor-arrocho-sem-dinheiro-1450379695792_615x300.jpg
 ---
 

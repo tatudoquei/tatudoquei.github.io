@@ -8,6 +8,7 @@ date: 2019-02-25 04:22:17
 pub_date: 2019-02-25 04:22:17
 time_added: 2019-02-27 11:16:32
 category: avisamos
+tags: []
 image: https://educacao.estadao.com.br/blogs/blog-renata-cafardo/wp-content/uploads/sites/704/2019/02/Carta-do-Ministro-para-Escolas-300x276.jpg
 ---
 

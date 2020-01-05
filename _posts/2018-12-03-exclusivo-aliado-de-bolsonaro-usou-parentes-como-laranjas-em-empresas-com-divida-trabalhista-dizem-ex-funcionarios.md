@@ -8,6 +8,7 @@ date: 2018-12-03 14:08:00
 pub_date: 2018-12-03 14:08:00
 time_added: 2018-12-04 00:13:42
 category: avisamos
+tags: []
 image: https://img.buzzfeed.com/buzzfeed-static/static/2018-11/29/18/asset/buzzfeed-prod-web-03/sub-buzz-23408-1543533531-9.jpg?crop=1528:800;0,52
 ---
 

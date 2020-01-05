@@ -8,6 +8,7 @@ date: 2019-11-25 11:00:06
 pub_date: 2019-11-25 11:00:06
 time_added: 2019-11-25 23:02:50
 category: 
+tags: []
 image: https://static01.nyt.com/images/2019/11/26/opinion/25Greenwald1/23Bolsonaro-facebookJumbo.jpg
 ---
 

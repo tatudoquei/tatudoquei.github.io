@@ -8,6 +8,7 @@ date: 2019-06-04 09:13:00
 pub_date: 2019-06-04 09:13:00
 time_added: 2019-06-09 09:43:58
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23716430-d6d-582/FT1086A/652/83012219_SO-Sao-PauloSP04-06-2019-Ex-ministros-da-Educacao-se-reunem-pela-primeira-vezJo.jpg
 ---
 

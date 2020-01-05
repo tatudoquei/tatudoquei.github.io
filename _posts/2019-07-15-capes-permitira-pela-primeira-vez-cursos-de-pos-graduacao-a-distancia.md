@@ -8,6 +8,7 @@ date: 2019-07-15 02:30:00
 pub_date: 2019-07-15 02:30:00
 time_added: 2019-07-15 22:20:25
 category: 
+tags: []
 ---
 
 RIO — Pela primeira vez o Brasil terá cursos de pós-graduação stricto sensu a distância.

@@ -8,6 +8,7 @@ date: 2019-02-05 19:56:00
 pub_date: 2019-02-05 19:56:00
 time_added: 2019-06-01 19:18:02
 category: 
+tags: []
 image: https://imagens.publicocdn.com/imagens.aspx/1328047?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png
 ---
 

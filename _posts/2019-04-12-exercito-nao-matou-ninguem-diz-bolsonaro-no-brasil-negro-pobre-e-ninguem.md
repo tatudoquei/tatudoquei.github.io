@@ -8,6 +8,7 @@ date: 2019-04-12 15:21:00
 pub_date: 2019-04-12 15:21:00
 time_added: 2019-04-12 22:13:58
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/04/evaldorosa-615x300.jpg
 ---
 

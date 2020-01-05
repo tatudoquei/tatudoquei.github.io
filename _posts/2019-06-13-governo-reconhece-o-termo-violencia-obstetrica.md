@@ -8,6 +8,7 @@ date: 2019-06-13 12:23:38
 pub_date: 2019-06-13 12:23:38
 time_added: 2019-06-15 11:55:12
 category: 
+tags: []
 image: https://jornal.usp.br/wp-content/uploads/20170719_03_obstetricia.jpg
 ---
 

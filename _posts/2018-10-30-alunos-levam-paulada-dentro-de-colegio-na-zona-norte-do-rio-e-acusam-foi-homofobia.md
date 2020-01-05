@@ -8,6 +8,7 @@ date: 2018-10-30 20:10:00
 pub_date: 2018-10-30 20:10:00
 time_added: 2019-12-23 21:19:29
 category: avisamos
+tags: []
 ---
 
 RIO - Dois estudantes foram agredidos a paulada, na tarde da última segunda-feira, dentro do Colégio estadual Visconde de Cairu, no Méier, Zona Norte do Rio. O agressor era outro aluno. Um dos jovens levou oito pontos na cabeça. A dupla afirma que foi vítima de homofobia.

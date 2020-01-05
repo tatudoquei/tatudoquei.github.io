@@ -8,6 +8,7 @@ date: 2019-06-25 06:12:00
 pub_date: 2019-06-25 06:12:00
 time_added: 2019-06-27 05:57:36
 category: 
+tags: []
 ---
 
 RIO - O Tribunal de Justiça do Rio (TJ-RJ) considerou inconstitucional a Lei Estadual 8120/2018, que regulamentava performances artísticas em estações de barcas, trem e metrô.

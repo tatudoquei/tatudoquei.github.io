@@ -8,6 +8,7 @@ date: 2019-07-25 22:00:00
 pub_date: 2019-07-25 22:00:00
 time_added: 2019-07-29 23:22:30
 category: 
+tags: []
 image: https://images.immedia.com.br/10/10709_2_L.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-06-05 06:00:00
 pub_date: 2019-06-05 06:00:00
 time_added: 2019-06-09 09:43:46
 category: 
+tags: []
 image: https://img.estadao.com.br/resources/jpg/8/5/1559708347158.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-12-17 13:45:29
 pub_date: 2019-12-17 13:45:29
 time_added: 2019-12-23 11:15:26
 category: 
+tags: []
 ---
 
 Foto: Daniel Beltrá.((o))eco inicia esta semana a publicação da retrospectiva 2019 temática. Neste texto, analisamos a crise do governo com o INPE.

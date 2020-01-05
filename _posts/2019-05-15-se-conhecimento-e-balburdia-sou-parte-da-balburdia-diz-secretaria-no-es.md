@@ -8,6 +8,7 @@ date: 2019-05-15 21:49:22
 pub_date: 2019-05-15 21:49:22
 time_added: 2019-05-16 18:51:24
 category: 
+tags: []
 image: http://midias.gazetaonline.com.br/_midias/jpg/2018/12/13/cristina_engel_edit-5917223.jpg
 ---
 

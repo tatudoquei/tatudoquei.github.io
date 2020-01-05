@@ -8,6 +8,7 @@ date: 2019-05-16 04:00:00
 pub_date: 2019-05-16 04:00:00
 time_added: 2019-05-21 18:45:53
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23668791-047-a34/FT1086A/652/82042152_BSBBrasiliaBrasil05-04-2019PAPresidente-Jair-Bolsonaro-acompanhado-da-es.jpg
 ---
 

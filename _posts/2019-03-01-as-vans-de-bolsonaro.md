@@ -8,6 +8,7 @@ date: 2019-03-01 10:51:18
 pub_date: 2019-03-01 10:51:18
 time_added: 2019-02-20 14:00:08
 category: 
+tags: []
 image: https://cdn.crusoe.com.br/uploads/2019/01/bolsonaro-olha-para-a-direita-na-posse-do-novo-chefe-da-marinha-e1547208266392.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-10-20 22:00:00
 pub_date: 2019-10-20 22:00:00
 time_added: 2019-10-24 19:54:11
 category: 
+tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/1311/production/_109318840_fotodevictorucha-12-2.jpg
 ---
 

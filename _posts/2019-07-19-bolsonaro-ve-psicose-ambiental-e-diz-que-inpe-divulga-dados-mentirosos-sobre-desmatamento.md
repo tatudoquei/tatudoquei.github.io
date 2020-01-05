@@ -8,6 +8,7 @@ date: 2019-07-19 17:28:48
 pub_date: 2019-07-19 17:28:48
 time_added: 2019-07-19 22:58:31
 category: 
+tags: []
 image: https://s3.reutersmedia.net/resources/r/?m=02&d=20190719&t=2&i=1409770719&w=1200&r=LYNXNPEF6I19P-OBRTP
 ---
 

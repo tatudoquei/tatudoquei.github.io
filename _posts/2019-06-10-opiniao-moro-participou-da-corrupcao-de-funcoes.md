@@ -8,6 +8,7 @@ date: 2019-06-10 09:28:00
 pub_date: 2019-06-10 09:28:00
 time_added: 2019-06-11 18:43:08
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23720139-a2f-ae4/FT1086A/652/82767710_BSBBrasiliaBrasil20-05-2019O-ministro-da-Justica-Sergio-Moro-participa-de-solen.jpg
 ---
 

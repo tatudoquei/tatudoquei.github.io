@@ -8,6 +8,7 @@ date: 2019-04-26 16:44:17
 pub_date: 2019-04-26 16:44:17
 time_added: 2019-04-27 07:05:43
 category: 
+tags: []
 image: https://www.radiorock.com.br/wp-content/uploads/2019/04/dead-kennedys-brasil.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-03-21 17:39:18
 pub_date: 2019-03-21 17:39:18
 time_added: 2019-03-22 07:19:16
 category: avisamos
+tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2019/03/Reuniao-Conama_20-03-2019_Mauro-Wilken.jpeg
 ---
 

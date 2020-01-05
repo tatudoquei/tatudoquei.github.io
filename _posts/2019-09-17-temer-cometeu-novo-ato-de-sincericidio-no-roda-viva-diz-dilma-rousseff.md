@@ -8,6 +8,7 @@ date: 2019-09-17 09:12:00
 pub_date: 2019-09-17 09:12:00
 time_added: 2019-09-17 16:19:03
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/09/maozinha-615x300.jpg
 ---
 

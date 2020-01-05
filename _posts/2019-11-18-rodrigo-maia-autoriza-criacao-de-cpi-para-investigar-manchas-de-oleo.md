@@ -8,6 +8,7 @@ date: 2019-11-18 19:16:06
 pub_date: 2019-11-18 19:16:06
 time_added: 2019-11-19 21:44:56
 category: 
+tags: []
 ---
 
 A CPI do óleo, como já está sendo chamada, deverá ser composta de 34 membros titulares e igual número de suplentes para integrar o grupo. O prazo de conclusão dos trabalhos é de 120 dias, prorrogáveis por mais 60. As atividades podem ser feitas durante o recesso parlamentar.

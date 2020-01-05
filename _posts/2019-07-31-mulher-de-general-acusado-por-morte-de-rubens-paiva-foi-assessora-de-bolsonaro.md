@@ -8,6 +8,7 @@ date: 2019-07-31 10:59:00
 pub_date: 2019-07-31 10:59:00
 time_added: 2019-08-01 21:05:44
 category: 
+tags: []
 ---
 
 Ao longo do ano de 2003, quando era deputado federal, o presidente Jair Bolsonaro nomeou em seu gabinete na Câmara, como assessora parlamentar, Maria de Fátima Campos Belham.

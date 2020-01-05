@@ -8,6 +8,7 @@ date: 2019-06-28 18:08:25
 pub_date: 2019-06-28 18:08:25
 time_added: 2019-06-30 10:05:27
 category: 
+tags: []
 image: https://video-images.vice.com/articles/5d1652156185610008391885/lede/1561744830738-bolsonaro_live_facebook.jpeg?crop=0.8357515960533952xw:1xh;center,center&resize=1200:*
 ---
 

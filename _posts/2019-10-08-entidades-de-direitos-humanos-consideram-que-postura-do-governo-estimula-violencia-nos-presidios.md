@@ -8,6 +8,7 @@ date: 2019-10-08 19:08:00
 pub_date: 2019-10-08 19:08:00
 time_added: 2019-10-10 01:43:00
 category: 
+tags: []
 ---
 
 RIO — Entidades ligadas à defesa de Direitos Humanos consideram que a reação do governo federal às denúncias de tortura envolvendo agentes da intervenção nos presídios do Pará pode estimular um aumento de violência nas penitenciárias.

@@ -8,6 +8,7 @@ date: 2019-07-23 02:56:47
 pub_date: 2019-07-23 02:56:47
 time_added: 2019-07-24 19:46:54
 category: 
+tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2019/07/deltan-moro-foto-HELVIO-ROMERO-ESTADAO.jpg
 ---
 

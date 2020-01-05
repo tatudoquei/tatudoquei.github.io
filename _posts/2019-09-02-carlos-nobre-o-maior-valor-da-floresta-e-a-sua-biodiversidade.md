@@ -8,6 +8,7 @@ date: 2019-09-02 20:04:34
 pub_date: 2019-09-02 20:04:34
 time_added: 2019-09-02 22:04:34
 category: 
+tags: []
 image: https://s2.glbimg.com/H664Mj1CSg2ouVGt6qnG9PeROh0=/512x320/smart/e.glbimg.com/og/ed/f/original/2019/08/30/carlos_nobre_lf3TAPk.jpg
 ---
 

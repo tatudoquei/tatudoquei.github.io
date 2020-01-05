@@ -8,6 +8,7 @@ date: 2018-11-01 15:13:12
 pub_date: 2018-11-01 15:13:12
 time_added: 2019-12-23 21:15:15
 category: refletimos
+tags: []
 image: https://s2.glbimg.com/u-nA30qXtctu2YxZZKwzVwvpvvE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/X/l/xwlIbxQJe6PIQ59HbH6A/ministros-de-bolsonaro-v3.jpg
 ---
 

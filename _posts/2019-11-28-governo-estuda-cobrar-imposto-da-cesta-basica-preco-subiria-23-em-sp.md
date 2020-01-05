@@ -8,6 +8,7 @@ date: 2019-11-28 14:48:00
 pub_date: 2019-11-28 14:48:00
 time_added: 2019-11-29 20:38:01
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/20/2019/11/28/supermercado-feira-comercio-varejo-inflacao-1574966620520_v2_615x300.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-03-21 06:44:00
 pub_date: 2019-03-21 06:44:00
 time_added: 2019-03-24 07:40:21
 category: avisamos
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2e/2019/03/20/bolsonaro-se-reune-com-ministros-e-chefes-das-forcas-armadas-antes-de-entregar-ao-congresso-a-reforma-da-previdencia-dos-militares-1553097479772_v2_615x300.jpg
 ---
 

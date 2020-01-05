@@ -8,6 +8,7 @@ date: 2019-07-23 22:00:00
 pub_date: 2019-07-23 22:00:00
 time_added: 2019-07-28 22:38:27
 category: 
+tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/11EE9/production/_107994437_primeirareuniaoforodesaopaulo.png
 ---
 

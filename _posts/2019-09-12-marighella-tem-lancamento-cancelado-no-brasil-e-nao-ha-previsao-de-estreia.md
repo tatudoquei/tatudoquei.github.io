@@ -8,6 +8,7 @@ date: 2019-09-12 19:57:25
 pub_date: 2019-09-12 19:57:25
 time_added: 2019-09-15 09:57:24
 category: 
+tags: []
 image: https://abrilvejasp.files.wordpress.com/2019/09/marighella.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

@@ -8,6 +8,7 @@ date: 2019-10-01 22:00:00
 pub_date: 2019-10-01 22:00:00
 time_added: 2019-10-06 08:37:00
 category: 
+tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/104AD/production/_109033766_novaestaoantrticacomandanteferrazqueserinauguradaemjaneirode2020..jpg
 ---
 

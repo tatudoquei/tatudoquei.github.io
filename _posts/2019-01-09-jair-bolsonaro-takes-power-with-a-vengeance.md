@@ -8,6 +8,7 @@ date: 2019-01-09 23:07:26
 pub_date: 2019-01-09 23:07:26
 time_added: 2019-12-23 21:41:24
 category: refletimos
+tags: []
 image: https://static01.nyt.com/images/2019/01/09/opinion/09brazilweb/09brazilweb-facebookJumbo.jpg
 ---
 

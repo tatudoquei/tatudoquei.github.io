@@ -8,6 +8,7 @@ date: 2019-07-07 08:13:55
 pub_date: 2018-07-31 05:40:00
 time_added: 2019-07-07 08:13:55
 category: 
+tags: []
 image: http://s2.glbimg.com/XH39MLzCoPj5hZTRxMigfRyIBSk=/620x452/e.glbimg.com/og/ed/f/original/2015/03/02/olindabolsonaro2.jpg
 ---
 

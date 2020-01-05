@@ -8,6 +8,7 @@ date: 2019-10-06 02:00:00
 pub_date: 2019-10-06 02:00:00
 time_added: 2019-10-10 01:49:57
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/5c/2019/09/27/tartaruga-encontrada-na-praia-da-redinha-em-natal-que-esta-no-centro-de-descontaminacao-de-fauna-oleada-da-uern-em-mossoro-rn-1569599746671_v2_615x300.jpg
 ---
 

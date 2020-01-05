@@ -8,6 +8,7 @@ date: 2018-12-26 18:44:00
 pub_date: 2018-12-26 18:44:00
 time_added: 2018-12-27 00:30:58
 category: avisamos
+tags: []
 ---
 
 RIO — Pivô da primeira crise em torno do grupo político do presidente eleito, Jair Bolsonaro, o policial militar da reserva Fabrício de Queiroz, ex-assessor parlamentar do deputado estadual e senador eleito Flávio Bolsonaro (PSL-RJ), afirmou que sua movimentação financeira — considerada at

@@ -8,6 +8,7 @@ date: 2019-10-11 18:03:20
 pub_date: 2019-10-11 18:03:20
 time_added: 2019-10-20 21:57:07
 category: 
+tags: []
 ---
 
 “Estamos sendo tratados feito tolos”. A frase resume a revolta de Yara Schaeffer Novelli, doutora e professora sênior da Universidade de São Paulo (USP), em relação ao vazamento de óleo que já é considerado o maior desastre ambiental do Nordeste.

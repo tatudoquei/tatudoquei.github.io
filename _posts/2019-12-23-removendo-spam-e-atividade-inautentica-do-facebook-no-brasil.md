@@ -8,6 +8,7 @@ date: 2019-12-23 21:19:29
 pub_date: 2018-10-21 22:00:00
 time_added: 2019-12-23 21:19:29
 category: avisamos
+tags: [fake news]
 image: https://s2.wp.com/wp-content/themes/vip/facebook/assets/bin/images/fb-opengraph.png
 ---
 

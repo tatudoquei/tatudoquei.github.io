@@ -8,6 +8,7 @@ date: 2019-04-19 10:00:11
 pub_date: 2019-04-19 10:00:11
 time_added: 2019-04-20 19:03:13
 category: 
+tags: []
 ---
 
 When Jair Bolsonaro began his presidency of Brazil in January he quickly began making good on his campaign promises to rollback protections of the Amazon rainforest and indigenous rights and prioritize expansion of agriculture and business interests, setting off alarm bells among conservationists.

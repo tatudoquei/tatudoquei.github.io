@@ -8,6 +8,7 @@ date: 2019-05-14 08:05:57
 pub_date: 2019-05-14 08:05:57
 time_added: 2019-08-28 22:14:12
 category: 
+tags: []
 image: https://brasil.estadao.com.br/blogs/inconsciente-coletivo/wp-content/uploads/sites/646/2019/05/4H2A0026_P-683x1024.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-05-30 22:00:00
 pub_date: 2019-05-30 22:00:00
 time_added: 2019-06-01 08:51:24
 category: 
+tags: []
 ---
 
 Uma das características preocupantes da postura do governo Bolsonaro diante de assuntos fora do campo econômico é a dificuldade de aceitar dados concretos de pesquisas e levantamentos.

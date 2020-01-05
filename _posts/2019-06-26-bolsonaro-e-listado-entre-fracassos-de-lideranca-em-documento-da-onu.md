@@ -8,6 +8,7 @@ date: 2019-06-26 09:31:00
 pub_date: 2019-06-26 09:31:00
 time_added: 2019-06-29 17:33:59
 category: 
+tags: []
 ---
 
 Em um documento publicado nesta terça-feira (25), o relator especial da ONU sobre pobreza extrema e direitos humanos, Philip Alston, fez duras críticas ao presidente brasileiro, Jair Bolsonaro.

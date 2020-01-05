@@ -8,6 +8,7 @@ date: 2019-07-15 12:39:00
 pub_date: 2019-07-15 12:39:00
 time_added: 2019-07-17 05:55:17
 category: 
+tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/07/comprova_redes_27062019.jpg
 ---
 

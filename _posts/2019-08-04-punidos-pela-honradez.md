@@ -8,6 +8,7 @@ date: 2019-08-04 08:16:00
 pub_date: 2019-08-04 08:16:00
 time_added: 2019-08-05 22:32:46
 category: 
+tags: []
 image: https://s2.glbimg.com/NzDP2Ve7ePekUul4PQwBt40P6R4=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/08/04/ricardo_galvao.jpg
 ---
 

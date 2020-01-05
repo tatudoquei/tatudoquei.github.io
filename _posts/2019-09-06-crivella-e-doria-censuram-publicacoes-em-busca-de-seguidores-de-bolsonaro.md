@@ -8,6 +8,7 @@ date: 2019-09-06 18:02:00
 pub_date: 2019-09-06 18:02:00
 time_added: 2019-09-07 08:28:05
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/09/11AD4B56-28A4-4803-B56C-59916BB5B173-615x300.jpeg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-12-18 18:19:00
 pub_date: 2019-12-18 18:19:00
 time_added: 2019-12-19 07:40:25
 category: 
+tags: []
 ---
 
 BRASÍLIA — Após ser alvo da operaçao do Ministerio Público nesta quarta-feira, o senador Flávio Bolsonaro chegou ao Palácio da Alvorada nesta tarde para se reunir com o pai, o presidente Jair Bolsonaro . O encontro não consta na agenda oficial.

@@ -8,6 +8,7 @@ date: 2019-10-29 16:34:48
 pub_date: 2019-10-29 16:34:48
 time_added: 2019-10-30 07:43:05
 category: 
+tags: []
 image: https://video-images.vice.com/articles/5db8544ad066b4008d405be0/lede/1572361594163-Aline-Motta-Filha-Natural-1-2018_2019_mod.jpeg?crop=1xw:0.8427xh;0xw,0.1573xh&resize=1200:*
 ---
 

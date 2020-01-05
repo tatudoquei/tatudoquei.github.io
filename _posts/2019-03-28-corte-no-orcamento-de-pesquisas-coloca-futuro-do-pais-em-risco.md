@@ -8,6 +8,7 @@ date: 2019-03-28 13:11:39
 pub_date: 2019-03-28 13:11:39
 time_added: 2019-03-30 09:28:13
 category: avisamos
+tags: []
 image: https://jornal.usp.br/wp-content/uploads/20171020_00_cnpq_pesquisa_ciencia.jpg
 ---
 

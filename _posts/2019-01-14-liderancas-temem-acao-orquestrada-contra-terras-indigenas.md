@@ -8,6 +8,7 @@ date: 2019-01-14 23:00:00
 pub_date: 2019-01-14 23:00:00
 time_added: 2019-01-17 23:46:00
 category: avisamos
+tags: []
 ---
 
 Desde o início do ano, duas terras indígenas foram alvo de invasões, e povo indígena foi atacado a tiros. Para lideranças, políticas do novo governo estimulam esse tipo de ação.

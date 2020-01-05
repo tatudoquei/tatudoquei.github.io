@@ -8,6 +8,7 @@ date: 2019-04-30 09:32:00
 pub_date: 2019-04-30 09:32:00
 time_added: 2019-05-01 09:06:53
 category: 
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23519711-998-879/FT1086A/652/77986473_BrasiliaEntrevista-do-deputado-Alessandro-Molon-da-Rede-na-Camara-dos-Deputados.-Antonio.jpg
 ---
 

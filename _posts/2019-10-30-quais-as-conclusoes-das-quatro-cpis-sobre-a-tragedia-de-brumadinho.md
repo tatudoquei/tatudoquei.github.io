@@ -8,6 +8,7 @@ date: 2019-10-30 06:58:40
 pub_date: 2019-10-30 06:58:40
 time_added: 2019-10-30 07:58:40
 category: 
+tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Brumadinho1/ALTERNATES/LANDSCAPE_720/Brumadinho
 ---
 

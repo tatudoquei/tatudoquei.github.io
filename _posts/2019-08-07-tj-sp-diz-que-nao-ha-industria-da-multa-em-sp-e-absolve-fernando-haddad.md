@@ -8,6 +8,7 @@ date: 2019-08-07 16:59:00
 pub_date: 2019-08-07 16:59:00
 time_added: 2019-08-10 21:08:55
 category: 
+tags: []
 image: https://www.conjur.com.br/img/b/fernando-haddad-20189.png
 ---
 

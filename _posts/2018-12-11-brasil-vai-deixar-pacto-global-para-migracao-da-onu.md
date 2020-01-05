@@ -8,6 +8,7 @@ date: 2018-12-11 22:20:01
 pub_date: 2018-12-11 22:20:01
 time_added: 2018-12-11 23:20:01
 category: avisamos
+tags: []
 image: https://www.dw.com/image/46663695_304.jpg
 ---
 

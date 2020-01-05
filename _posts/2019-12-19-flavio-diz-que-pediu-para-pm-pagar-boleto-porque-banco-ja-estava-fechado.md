@@ -8,6 +8,7 @@ date: 2019-12-19 17:02:00
 pub_date: 2019-12-19 17:02:00
 time_added: 2019-12-20 06:50:13
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/64/2019/12/04/o-senador-flavio-bolsonaro-sem-partido-1575500987142_v2_615x300.jpg
 ---
 

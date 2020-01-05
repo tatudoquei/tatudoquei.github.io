@@ -8,6 +8,7 @@ date: 2019-09-10 17:03:00
 pub_date: 2019-09-10 17:03:00
 time_added: 2019-09-11 20:55:00
 category: 
+tags: []
 image: https://f.i.uol.com.br/fotografia/2019/09/09/15680711155d76ddcb8e954_1568071115_3x2_xl.jpg
 ---
 

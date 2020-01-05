@@ -8,6 +8,7 @@ date: 2019-04-01 23:15:44
 pub_date: 2019-04-01 23:15:44
 time_added: 2019-04-02 22:51:06
 category: 
+tags: []
 ---
 
 Professor de Direito da Universidade Federal do Paraná, especialista em Direito Agrário, o jurista Carlos Frederico Marés considera que o golpe de 1964 foi dado “contra as organizações do campo: indígenas e camponesas”.

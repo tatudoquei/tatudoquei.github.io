@@ -8,6 +8,7 @@ date: 2019-05-13 20:38:00
 pub_date: 2019-05-13 20:38:00
 time_added: 2019-05-16 18:57:26
 category: 
+tags: []
 ---
 
 Fabrício Queiroz foi assessor de Flávio Bolsonaro por mais de dez anos

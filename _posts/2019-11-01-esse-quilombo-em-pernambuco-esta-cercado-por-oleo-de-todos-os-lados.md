@@ -8,6 +8,7 @@ date: 2019-11-01 15:23:42
 pub_date: 2019-11-01 15:23:42
 time_added: 2019-11-02 15:45:32
 category: 
+tags: []
 image: https://apublica.org/wp-content/uploads/2019/11/esse-quilombo-em-pernambuco-esta-cercado-por-oleo-de-todos-os-lados-img1.jpg
 ---
 

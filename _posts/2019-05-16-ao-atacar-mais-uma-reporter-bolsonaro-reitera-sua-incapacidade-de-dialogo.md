@@ -8,6 +8,7 @@ date: 2019-05-16 22:58:00
 pub_date: 2019-05-16 22:58:00
 time_added: 2019-05-17 21:08:10
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2018/12/bolsoso-615x300.jpg
 ---
 

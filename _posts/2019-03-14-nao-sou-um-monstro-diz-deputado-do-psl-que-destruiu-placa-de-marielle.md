@@ -8,6 +8,7 @@ date: 2019-03-14 03:59:55
 pub_date: 2019-03-14 03:59:55
 time_added: 2019-03-18 20:04:00
 category: avisamos
+tags: []
 image: https://odia.ig.com.br/_midias/jpg/2018/10/03/700x470/1_placa-8201353.jpg
 ---
 

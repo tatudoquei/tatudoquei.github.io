@@ -8,6 +8,7 @@ date: 2019-11-19 23:18:51
 pub_date: 2019-11-19 23:18:51
 time_added: 2019-11-24 00:48:19
 category: 
+tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/11/20191119_desmatamento-ibama.jpg
 ---
 

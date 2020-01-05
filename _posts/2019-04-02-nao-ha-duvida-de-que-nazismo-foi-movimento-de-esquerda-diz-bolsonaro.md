@@ -8,6 +8,7 @@ date: 2019-04-02 17:56:10
 pub_date: 2019-04-02 17:56:10
 time_added: 2019-04-02 21:36:37
 category: 
+tags: []
 image: https://abrilexame.files.wordpress.com/2019/03/2019-03-25t160653z_1_lynxnpef2o1e0_rtroptp_4_chile-brazil.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

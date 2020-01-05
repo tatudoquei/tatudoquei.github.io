@@ -8,6 +8,7 @@ date: 2019-09-23 09:01:00
 pub_date: 2019-09-23 09:01:00
 time_added: 2019-09-24 19:12:10
 category: 
+tags: []
 ---
 
 NOVA YORK — Sem a presença oficial do Brasil, o presidente da França, Emmanuel Macron, liderou nesta segunda-feira a principal reunião sobre o futuro da Amazônia, em Nova York.

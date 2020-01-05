@@ -8,6 +8,7 @@ date: 2019-07-21 13:56:00
 pub_date: 2019-07-21 13:56:00
 time_added: 2019-07-22 22:02:56
 category: 
+tags: []
 ---
 
 BRASÍLIA — O presidente Jair Bolsonaro afirmou, neste domingo, que a maneira como os dados do Instituto Nacional de Pesquisas Espaciais (Inpe) sobre o desmatamento da Amazônia têm sido divulgados prejudica a imagem do país no exterior.

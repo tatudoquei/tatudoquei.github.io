@@ -8,6 +8,7 @@ date: 2019-06-05 08:43:08
 pub_date: 2019-06-05 08:43:08
 time_added: 2019-06-06 07:00:51
 category: 
+tags: []
 ---
 
 Além de reintegrar 32 policiais militares acusados de corrupção à PM em apenas sete meses, o juiz Marcelo Borges Barbosa, da Vara Única de Mangaratiba, também levou de volta à corporação agentes que haviam sido expulsos por ligação com a contravenção, milícias e grupos de extermínio.

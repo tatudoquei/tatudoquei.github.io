@@ -8,6 +8,7 @@ date: 2019-09-04 09:05:03
 pub_date: 2019-09-04 09:05:03
 time_added: 2019-09-07 08:24:21
 category: 
+tags: []
 image: https://s2.glbimg.com/XrVLOD8TL1pa-VKIPAIIrUw84Nc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2019/C/V/zambevTG22WQBXlJhXDA/estudo.jpg
 ---
 

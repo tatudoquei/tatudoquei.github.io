@@ -8,6 +8,7 @@ date: 2019-03-11 19:20:00
 pub_date: 2019-03-11 19:20:00
 time_added: 2019-12-23 21:19:32
 category: refletimos
+tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2018/12/cof-615x300.jpg
 ---
 

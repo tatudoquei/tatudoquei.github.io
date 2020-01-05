@@ -8,6 +8,7 @@ date: 2019-12-24 11:02:00
 pub_date: 2019-12-24 11:02:00
 time_added: 2019-12-25 11:17:58
 category: 
+tags: []
 image: https://f.i.uol.com.br/fotografia/2019/12/20/15768699635dfd204ba300a_1576869963_3x2_md.jpg
 ---
 

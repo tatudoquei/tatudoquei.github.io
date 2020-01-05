@@ -8,6 +8,7 @@ date: 2019-06-10 02:15:59
 pub_date: 2019-06-10 02:15:59
 time_added: 2019-06-11 06:02:10
 category: 
+tags: []
 image: https://politica.estadao.com.br/blogs/estadao-verifica/wp-content/uploads/sites/690/2019/06/moro.jpg
 ---
 

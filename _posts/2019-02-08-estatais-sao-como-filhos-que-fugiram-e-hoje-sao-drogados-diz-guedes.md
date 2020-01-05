@@ -8,6 +8,7 @@ date: 2019-02-08 10:19:00
 pub_date: 2019-02-08 10:19:00
 time_added: 2019-12-23 21:37:45
 category: avisamos
+tags: [economia]
 image: https://f.i.uol.com.br/fotografia/2018/11/28/15434412445bff0b5c4fe90_1543441244_3x2_rt.jpg
 ---
 

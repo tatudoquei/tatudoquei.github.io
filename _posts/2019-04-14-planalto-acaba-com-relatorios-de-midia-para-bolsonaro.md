@@ -8,6 +8,7 @@ date: 2019-04-14 06:00:00
 pub_date: 2019-04-14 06:00:00
 time_added: 2019-04-18 21:19:44
 category: 
+tags: []
 ---
 
 Além de acabar com pesquisas de opinião, a gestão de Floriano Amorim como secretário de Comunicação do Palácio do Planalto extinguiu análises diárias de mídia levadas a Jair Bolsonaro.

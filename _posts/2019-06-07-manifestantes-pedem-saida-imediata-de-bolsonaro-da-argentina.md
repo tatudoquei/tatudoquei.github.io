@@ -8,6 +8,7 @@ date: 2019-06-07 00:16:30
 pub_date: 2019-06-07 00:16:30
 time_added: 2019-06-07 20:51:56
 category: 
+tags: []
 image: https://abrilveja.files.wordpress.com/2019/06/mundo-argentina-buenos-aires-bolsonaro-20190606-005-copy.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

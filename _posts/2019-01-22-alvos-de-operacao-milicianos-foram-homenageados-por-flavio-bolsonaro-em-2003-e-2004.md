@@ -8,6 +8,7 @@ date: 2019-01-22 08:02:00
 pub_date: 2019-01-22 08:02:00
 time_added: 2019-03-11 18:43:51
 category: avisamos
+tags: []
 ---
 
 RIO — Os dois principais alvos da Operação Intocáveis, o ex-capitão do Bope Adriano Magalhães da Nóbrega e o major da PM Ronald Paulo Alves Pereira, foram homenageados, em 2003 e 2004, na Assembleia Legislativa do Rio por indicação do deputado estadual Flávio Bolsonaro.

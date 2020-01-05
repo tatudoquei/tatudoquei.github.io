@@ -8,6 +8,7 @@ date: 2019-06-12 14:11:00
 pub_date: 2019-06-12 14:11:00
 time_added: 2019-06-12 20:47:59
 category: 
+tags: []
 ---
 
 RIO e BRASÍLIA — A Polícia Federal e o Ministério Público Federal (MPF) têm indícios de que o ataque hacker que expôs mensagens privadas do juiz Sergio Moro e de procuradores foi muito bem planejado e teve alcance bem mais amplo do que se sabe até agora.

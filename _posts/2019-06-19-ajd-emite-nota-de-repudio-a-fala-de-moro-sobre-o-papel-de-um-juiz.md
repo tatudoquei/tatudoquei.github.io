@@ -8,6 +8,7 @@ date: 2019-06-19 20:28:00
 pub_date: 2019-06-19 20:28:00
 time_added: 2019-06-21 21:01:42
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2018/01/liminar-de-um-juiz-sobre-metro-em-sp-e-decisao-de-carmen-lucia-expressam-surto-reacionario-do-judiciario-contra-o-pais-563x300.jpg
 ---
 

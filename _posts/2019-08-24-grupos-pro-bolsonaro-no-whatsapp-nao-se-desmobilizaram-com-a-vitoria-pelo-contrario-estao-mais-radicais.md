@@ -8,6 +8,7 @@ date: 2019-08-24 01:03:00
 pub_date: 2019-08-24 01:03:00
 time_added: 2020-01-04 15:08:49
 category: 
+tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/08/grupos-wpp-bolsonaro-redes-1566590321.jpg
 ---
 

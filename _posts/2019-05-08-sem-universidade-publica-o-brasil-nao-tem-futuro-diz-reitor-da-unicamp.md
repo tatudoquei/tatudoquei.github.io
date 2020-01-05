@@ -8,6 +8,7 @@ date: 2019-05-08 18:56:29
 pub_date: 2019-05-08 18:56:29
 time_added: 2019-05-10 13:08:33
 category: 
+tags: []
 image: https://blogdarose.band.uol.com.br/wp-content/uploads/2019/05/MARCELO-KNOBEL.jpg
 ---
 

@@ -8,6 +8,7 @@ date: 2019-04-03 20:04:16
 pub_date: 2019-04-03 20:04:16
 time_added: 2019-04-07 06:37:03
 category: 
+tags: []
 image: https://i0.wp.com/desacato.info/wp-content/uploads/2019/04/antique-barbershop-blur-1319460.jpg?fit=534%2C462
 ---
 

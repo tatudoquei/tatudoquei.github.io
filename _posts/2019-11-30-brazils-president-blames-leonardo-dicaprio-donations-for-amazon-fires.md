@@ -8,6 +8,7 @@ date: 2019-11-30 09:28:47
 pub_date: 2019-11-30 09:28:47
 time_added: 2019-11-30 10:28:47
 category: 
+tags: []
 image: https://api.time.com/wp-content/uploads/2019/11/GettyImages-1177983885.jpg?quality=85&w=1024&h=628&crop=1
 ---
 

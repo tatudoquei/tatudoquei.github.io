@@ -8,6 +8,7 @@ date: 2018-12-12 21:01:00
 pub_date: 2018-12-12 21:01:00
 time_added: 2018-12-13 23:01:51
 category: avisamos
+tags: []
 ---
 
 RIO — O vice-presidente eleito, general Hamilton Mourão, afirmou nesta quarta-feira em entrevista a revista Crusoé, que caso fique comprovado que os R$1,2 milhão movimentados por um ex-assessor do deputado estadual Flávio Bolsonaro, senador eleito e filho do futuro presidente Jair Bolsonaro, s

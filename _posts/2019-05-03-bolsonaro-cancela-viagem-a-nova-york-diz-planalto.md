@@ -8,6 +8,7 @@ date: 2019-05-03 22:16:00
 pub_date: 2019-05-03 22:16:00
 time_added: 2019-05-04 17:32:16
 category: 
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f2/2019/03/19/trump-e-bolsonaro-se-cumprimentam-durante-coletiva-de-imprensa-na-casa-branca-em-washington-1553019520764_v2_615x300.jpg
 ---
 

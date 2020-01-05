@@ -8,6 +8,7 @@ date: 2019-11-22 17:17:00
 pub_date: 2019-11-22 17:17:00
 time_added: 2019-11-23 08:11:16
 category: 
+tags: []
 ---
 
 SÃO PAULO — A Justiça de São Paulo autorizou nesta sexta-feira a quebra dos sigilos fiscal e bancário do ministro do Meio Ambiente, Ricardo Salles . Ele é suspeito de enriquecimento ilícito. O pedido foi feito pelo Ministério Público de São Paulo (MP-SP).

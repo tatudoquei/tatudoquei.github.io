@@ -8,6 +8,7 @@ date: 2019-01-12 20:00:00
 pub_date: 2019-01-12 20:00:00
 time_added: 2019-12-23 21:41:24
 category: refletimos
+tags: []
 image: https://abrilveja.files.wordpress.com/2016/06/ilha-utoya-noruega-20110722-original.jpeg
 ---
 
