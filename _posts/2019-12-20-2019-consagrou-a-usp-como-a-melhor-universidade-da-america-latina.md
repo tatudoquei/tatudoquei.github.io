@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2019-12-20 13:00:51
 pub_date: 2019-12-20 13:00:51
 time_added: 2020-01-04 13:18:31
-category: 
-tags: []
+category: refletimos
+tags: [ciência, educação]
 image: https://jornal.usp.br/wp-content/uploads/2018/11/20181206_00_rankings3.jpg
 ---
 

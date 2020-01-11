@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2020-01-04 12:18:20
 pub_date: 2020-01-04 12:18:20
 time_added: 2020-01-04 13:18:20
-category: 
-tags: []
+category: refletimos
+tags: [economia, meio ambiente]
 image: http://agencia.fapesp.br/agencia-novo/imagens/noticia/31684.jpg
 ---
 

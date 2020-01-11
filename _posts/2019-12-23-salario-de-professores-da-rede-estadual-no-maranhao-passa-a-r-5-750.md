@@ -8,7 +8,7 @@ date: 2019-12-23 21:19:29
 pub_date: 2018-03-01 12:22:00
 time_added: 2019-12-23 21:19:29
 category: resistimos
-tags: []
+tags: [educação]
 image: https://ogimg.infoglobo.com.br/in/22446115-4bd-b42/FT1086A/652/shutterstock_569467576-1.jpg
 ---
 

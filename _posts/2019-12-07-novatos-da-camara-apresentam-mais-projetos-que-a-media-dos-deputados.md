@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-07 20:58:30
 pub_date: 2019-12-07 20:58:30
 time_added: 2020-01-04 13:18:18
-category: 
+category: resistimos
 tags: []
 image: https://img.estadao.com.br/resources/jpg/4/2/1575752165024.jpg
 ---
