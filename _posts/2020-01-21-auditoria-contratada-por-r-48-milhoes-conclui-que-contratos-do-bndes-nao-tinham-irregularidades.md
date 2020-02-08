@@ -1,0 +1,18 @@
+---
+layout: post
+item_id: 2859936298
+title: >-
+    Auditoria contratada por R$ 48 milhões conclui que contratos do BNDES não tinham irregularidades
+author: Tatu D'Oquei
+date: 2020-01-21 17:10:32
+pub_date: 2020-01-21 17:10:32
+time_added: 2020-01-22 08:24:44
+category: 
+tags: []
+image: https://s2.glbimg.com/D6zopSUBZ_vmufKj2loBZWJI4Ls=/1200x/smart/filters:cover():strip_icc()/s03.video.glbimg.com/x720/8253678.jpg
+---
+
+")}),m=!v(function(){var t=/(?:)/,n=t.exec;t.exec=function(){return n.apply(this,arguments)};var r="ab".split(t);return 2!==r.length||"a"!==r[0]||"b"!==r[1]});t.
+
+**Link:** [https://g1.globo.com/economia/noticia/2020/01/21/auditoria-contratada-por-r-48-milhoes-conclui-que-contratos-do-bndes-nao-tinham-irregularidades.ghtml](https://g1.globo.com/economia/noticia/2020/01/21/auditoria-contratada-por-r-48-milhoes-conclui-que-contratos-do-bndes-nao-tinham-irregularidades.ghtml)
+
