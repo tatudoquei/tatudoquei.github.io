@@ -12,7 +12,7 @@ tags: []
 image: https://climate.nasa.gov/system/internal_resources/details/original/1192_1309_consensus-graphic-2015-768px.jpg
 ---
 
-Multiple studies published in peer-reviewed scientific journals1 show that 97 percent or more of actively publishing climate scientists agree*: Climate-warming trends over the past century are extremely likely due to human activities.
+Temperature data showing rapid warming in the past few decades, the latest data going up to 2018. According to NASA data, 2016 was the warmest year since 1880, continuing a long-term trend of rising global temperatures.
 
 **Link:** [https://climate.nasa.gov/scientific-consensus](https://climate.nasa.gov/scientific-consensus)
 

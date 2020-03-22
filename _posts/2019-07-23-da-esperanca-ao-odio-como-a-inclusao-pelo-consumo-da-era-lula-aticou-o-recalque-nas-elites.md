@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2019-07-23 01:03:00
 pub_date: 2019-07-23 01:03:00
-time_added: 2019-07-26 06:46:38
+time_added: 2020-02-13 17:04:28
 category: 
 tags: []
 image: https://theintercept.imgix.net/wp-uploads/sites/1/2019/07/Cole%C3%A7%C3%A3o-Pirelli-MASP-1563821281.jpeg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800
