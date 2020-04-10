@@ -1,12 +1,12 @@
 ---
 layout: post
-item_id: 2929722847
+item_id: 2929833170
 title: >-
     'Estão ocorrendo mortes por coronavírus sem diagnóstico na rede pública', diz pneumologista da Fiocruz
 author: Tatu D'Oquei
 date: 2020-03-27 03:30:00
 pub_date: 2020-03-27 03:30:00
-time_added: 2020-03-27 12:39:33
+time_added: 2020-03-27 14:38:57
 category: 
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24329968-054-13c/FT1086A/652/WhatsApp-Image-2020-03-26-at-13.09.18.jpeg.jpg
