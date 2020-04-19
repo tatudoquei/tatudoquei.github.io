@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2020-04-08 02:00:00
 pub_date: 2020-04-08 02:00:00
-time_added: 2020-04-09 07:35:20
+time_added: 2020-04-12 08:25:04
 category: 
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f4/2020/03/26/26mar2020---o-ministro-das-relacoes-exteriores-ernesto-araujo-e-o-presidente-jair-bolsonaro-durante-videoconferencia-dos-lideres-do-g20-1585240072539_v2_750x421.jpg
