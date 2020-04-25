@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-25 00:27:49
 pub_date: 2020-01-25 00:27:49
 time_added: 2020-01-25 11:01:52
-category: 
+category: recuadas
 tags: []
 image: https://s2.glbimg.com/ICi0jvS7fYT_xd8czHP48O06fps=/1200x/smart/filters:cover():strip_icc()/s02.video.glbimg.com/x720/8264837.jpg
 ---
