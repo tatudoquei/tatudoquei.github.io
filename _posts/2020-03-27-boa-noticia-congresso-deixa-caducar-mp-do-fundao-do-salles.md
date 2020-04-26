@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2020-03-27 13:43:31
 pub_date: 2020-03-27 13:43:31
 time_added: 2020-03-27 14:53:02
-category: 
-tags: []
+category: avisamos
+tags: [meio ambiente]
 image: http://www.diretodaciencia.com/wp-content/uploads/2019/09/fcpzzb_abr_07081920138.jpg
 ---
 

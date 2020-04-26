@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-23 19:21:00
 pub_date: 2020-04-23 19:21:00
 time_added: 2020-04-24 06:51:39
-category: 
+category: resistimos
 tags: []
 image: https://i.correiobraziliense.com.br/YpmqNrvYrt5CM43BCoAcaEwOl18=/600x315/smart/imgsapp2.correiobraziliense.com.br/app/noticia_127983242361/2020/04/23/847554/20200423163258849479o.jpg
 ---

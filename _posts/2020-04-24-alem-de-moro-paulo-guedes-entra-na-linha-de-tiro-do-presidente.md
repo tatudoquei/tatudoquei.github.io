@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-24 13:28:15
 pub_date: 2020-04-24 13:28:15
 time_added: 2020-04-25 21:04:46
-category: 
+category: avisamos
 tags: []
 image: https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png
 ---

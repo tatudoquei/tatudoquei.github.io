@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2020-04-22 11:00:13
 pub_date: 2020-04-22 11:00:13
 time_added: 2020-04-23 06:45:39
-category: 
-tags: []
+category: avisamos
+tags: [diplomacia]
 image: https://catracalivre.com.br/wp-content/uploads/2019/06/ernesto-araujo-1.jpg
 ---
 

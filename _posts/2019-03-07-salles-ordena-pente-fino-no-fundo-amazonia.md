@@ -8,7 +8,7 @@ date: 2019-03-07 08:00:01
 pub_date: 2019-03-07 08:00:01
 time_added: 2019-03-08 17:10:33
 category: avisamos
-tags: []
+tags: [meio ambiente]
 image: https://www.valor.com.br/sites/default/files/imagecache/media_library_big_horizontal/gn/19/03/foto07pol-101-salles-a10.jpg
 ---
 

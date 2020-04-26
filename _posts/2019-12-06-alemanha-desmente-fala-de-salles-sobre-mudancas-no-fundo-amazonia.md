@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2019-12-06 22:08:42
 pub_date: 2019-12-06 22:08:42
 time_added: 2019-12-06 23:08:42
-category: 
-tags: []
+category: avisamos
+tags: [meio ambiente]
 image: https://www.dw.com/image/50978201_304.jpg
 ---
 

@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2019-11-20 18:38:44
 pub_date: 2019-11-20 18:38:44
 time_added: 2019-11-23 08:11:39
-category: 
-tags: []
+category: avisamos
+tags: [meio ambiente]
 image: https://abrilexame.files.wordpress.com/2019/10/salles.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

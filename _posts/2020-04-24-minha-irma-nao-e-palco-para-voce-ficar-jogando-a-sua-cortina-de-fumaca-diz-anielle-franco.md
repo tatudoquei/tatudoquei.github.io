@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-24 20:53:32
 pub_date: 2020-04-24 20:53:32
 time_added: 2020-04-24 21:59:16
-category: 
+category: resistimos
 tags: []
 ---
 

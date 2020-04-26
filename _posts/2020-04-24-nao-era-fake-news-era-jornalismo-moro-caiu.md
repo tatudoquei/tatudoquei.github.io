@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-24 19:33:00
 pub_date: 2020-04-24 19:33:00
 time_added: 2020-04-25 05:52:43
-category: 
+category: avisamos
 tags: []
 image: https://hashtag.blogfolha.uol.com.br/files/2020/04/moro-saida-pedro-ladeira.jpg
 ---

@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2020-04-22 10:43:06
 pub_date: 2020-04-22 10:43:06
 time_added: 2020-04-23 04:57:58
-category: 
-tags: []
+category: refletimos
+tags: [saúde]
 image: https://s2.glbimg.com/qs2wbgQRI8WwEWLMiWKVzrJE6bc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/e/D/e3xYKfSQqXrANlTQ6i8w/8499527-640x360.jpg
 ---
 

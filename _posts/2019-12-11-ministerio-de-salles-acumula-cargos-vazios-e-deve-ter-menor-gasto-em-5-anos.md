@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2019-12-11 03:00:00
 pub_date: 2019-12-11 03:00:00
 time_added: 2020-04-10 11:09:00
-category: 
-tags: []
+category: avisamos
+tags: [meio ambiente]
 image: https://conteudo.imguol.com.br/c/noticias/82/2019/12/03/02dez2019---o-ministro-do-meio-ambiente-ricardo-salles-participa-de-mesa-redonda-na-cop-25-1575423922201_v2_750x421.jpg
 ---
 

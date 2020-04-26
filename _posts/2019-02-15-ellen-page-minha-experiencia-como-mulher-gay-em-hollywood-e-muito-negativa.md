@@ -8,7 +8,7 @@ date: 2019-02-15 22:05:37
 pub_date: 2019-02-15 22:05:37
 time_added: 2019-12-23 21:37:46
 category: refletimos
-tags: []
+tags: [arte]
 image: https://ep00.epimg.net/cultura/imagenes/2019/02/13/television/1550051702_946168_1550051992_rrss_normal.jpg
 ---
 

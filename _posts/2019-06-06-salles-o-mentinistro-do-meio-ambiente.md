@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2019-06-06 19:15:12
 pub_date: 2019-06-06 19:15:12
 time_added: 2019-06-10 06:25:01
-category: 
-tags: []
+category: refletimos
+tags: [bandido bom, meio ambiente]
 image: http://climainfo.org.br/wp-content/uploads/2019/06/Mentinistro-2019-06-06.jpeg
 ---
 

@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2020-04-22 23:03:03
 pub_date: 2020-04-22 23:03:03
 time_added: 2020-04-23 11:53:07
-category: 
-tags: []
+category: avisamos
+tags: [ciência]
 image: https://abrilveja.files.wordpress.com/2020/03/hsm-paraiso-fachada-1.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

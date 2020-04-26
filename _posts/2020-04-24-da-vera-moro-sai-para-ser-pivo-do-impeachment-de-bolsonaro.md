@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-24 10:01:04
 pub_date: 2020-04-24 10:01:04
 time_added: 2020-04-25 05:37:00
-category: 
+category: refletimos
 tags: []
 image: https://brpolitico.com.br/wp-content/themes/brpolitico/assets/img/favicon/favicon_brp_200x200.png
 ---

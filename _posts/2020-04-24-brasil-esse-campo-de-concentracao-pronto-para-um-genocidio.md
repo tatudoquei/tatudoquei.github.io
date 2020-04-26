@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-24 09:02:00
 pub_date: 2020-04-24 09:02:00
 time_added: 2020-04-24 22:42:19
-category: 
+category: refletimos
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/64/2020/04/24/agente-de-saude-transfere-paciente-infectado-por-novo-coronavirus-no-ira-1587728723095_v2_615x300.jpg
 ---

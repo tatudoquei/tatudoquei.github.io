@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2020-04-22 10:34:19
 pub_date: 2020-04-22 10:34:19
 time_added: 2020-04-22 23:09:25
-category: 
-tags: []
+category: avisamos
+tags: [ciência]
 image: https://noticias.ufsc.br/files/2020/03/CoronaDestaque3.jpg
 ---
 

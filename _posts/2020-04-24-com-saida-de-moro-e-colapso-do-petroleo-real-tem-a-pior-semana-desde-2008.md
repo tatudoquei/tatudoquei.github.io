@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2020-04-24 15:13:00
 pub_date: 2020-04-24 15:13:00
 time_added: 2020-04-24 22:46:15
-category: 
-tags: []
+category: avisamos
+tags: [economia]
 image: https://f.i.uol.com.br/fotografia/2020/03/05/15834520375e618f85ef185_1583452037_3x2_xl.jpg
 ---
 
