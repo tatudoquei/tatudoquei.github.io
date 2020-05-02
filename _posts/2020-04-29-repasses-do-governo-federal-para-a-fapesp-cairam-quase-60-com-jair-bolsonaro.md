@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2020-04-29 08:00:00
 pub_date: 2020-04-29 08:00:00
 time_added: 2020-04-29 18:58:02
-category: 
-tags: []
+category: avisamos
+tags: [ciência]
 image: https://f.i.uol.com.br/fotografia/2020/04/28/15881251405ea8ddd4146b4_1588125140_3x2_rt.jpg
 ---
 

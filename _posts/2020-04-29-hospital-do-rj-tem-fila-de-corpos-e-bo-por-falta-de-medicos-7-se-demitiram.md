@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2020-04-29 08:58:00
 pub_date: 2020-04-29 08:58:00
 time_added: 2020-04-29 18:43:02
-category: 
-tags: []
+category: avisamos
+tags: [saúde]
 image: https://conteudo.imguol.com.br/c/noticias/2f/2020/04/29/28abr2020---corpos-ficaram-enfileirados-em-frente-ao-necroterio-lotado-do-hospital-municipal-lourenco-jorge-na-barra-zona-oeste-do-rio-1588156194870_v2_615x300.jpg
 ---
 

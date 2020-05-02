@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2020-04-29 06:07:00
 pub_date: 2020-04-29 06:07:00
 time_added: 2020-04-29 12:36:11
-category: 
-tags: []
+category: resistimos
+tags: [educação]
 image: https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook.jpg
 ---
 
