@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2020-05-27 09:00:24
 pub_date: 2020-05-27 09:00:24
-time_added: 2020-05-29 11:34:04
+time_added: 2020-05-31 11:18:18
 category: 
 tags: []
 image: https://static01.nyt.com/images/2020/05/27/opinion/27carvalho-PORT-1/27carvalho-facebookJumbo.jpg

@@ -6,10 +6,10 @@ title: >-
 author: Tatu D'Oquei
 date: 2020-05-24 18:00:00
 pub_date: 2020-05-24 18:00:00
-time_added: 2020-05-25 19:34:34
+time_added: 2020-07-07 06:45:25
 category: 
 tags: []
-image: https://www.telegraph.co.uk/content/dam/news/2020/05/24/TELEMMGLPICT000231726127-xlarge_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?imwidth=1200
+image: https://www.telegraph.co.uk/content/dam/news/2020/05/24/TELEMMGLPICT000231726127_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo-overlay
 ---
 
 The late Gustavo Bebianno, who coordinated Mr Bolsonaro’s 2018 election campaign and briefly served in his cabinet, called the president “authoritarian and arrogant”.   Indeed, Mr Bolsonaro's hot-headed reputation has been evident ever since he entered public life in 1988.
