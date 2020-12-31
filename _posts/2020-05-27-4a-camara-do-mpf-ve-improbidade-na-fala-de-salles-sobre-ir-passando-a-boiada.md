@@ -8,7 +8,7 @@ date: 2020-05-27 23:11:03
 pub_date: 2020-05-27 23:11:03
 time_added: 2020-06-13 06:50:43
 category: 
-tags: []
+tags: [bandido bom, meio ambiente]
 ---
 
 A 4ª Câmara de Coordenação e Revisão do Ministério Público Federal (MPF) encaminhou um pedido para que a Procuradoria Geral da República (PGR) e a Procuradoria da República no Distrito Federal investiguem o ministro do Meio Ambiente, Ricardo Salles, por sua declaração sobre ‘ir passando

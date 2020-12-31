@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-02 20:05:00
 pub_date: 2019-12-02 20:05:00
 time_added: 2019-12-03 22:29:31
-category: 
+category: recuadas
 tags: []
 image: https://f.i.uol.com.br/fotografia/2019/11/30/15751429255de2c60d493ab_1575142925_3x2_xl.jpg
 ---

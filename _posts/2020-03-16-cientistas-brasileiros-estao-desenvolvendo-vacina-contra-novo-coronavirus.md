@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2020-03-16 01:34:44
 pub_date: 2020-03-16 01:34:44
 time_added: 2020-03-16 02:34:44
-category: 
-tags: []
+category: resistimos
+tags: [ciência]
 image: http://agencia.fapesp.br/agencia-novo/imagens/noticia/32743.jpg
 ---
 

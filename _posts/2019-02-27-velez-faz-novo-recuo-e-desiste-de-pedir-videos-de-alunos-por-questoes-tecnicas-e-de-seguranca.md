@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2019-02-27 21:47:00
 pub_date: 2019-02-27 21:47:00
 time_added: 2019-03-30 10:01:03
-category: 
-tags: []
+category: recuadas
+tags: [educação]
 image: https://f.i.uol.com.br/fotografia/2019/02/17/15504560665c6a1502b342f_1550456066_3x2_rt.jpg
 ---
 

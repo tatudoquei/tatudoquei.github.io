@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2020-03-31 20:13:13
 pub_date: 2018-08-02 22:00:00
 time_added: 2020-03-31 20:13:13
-category: 
-tags: []
+category: avisamos
+tags: [ciência]
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/1782D/production/_96810369_fiocruz_20080711_peter_ilicciev_00045.jpg
 ---
 

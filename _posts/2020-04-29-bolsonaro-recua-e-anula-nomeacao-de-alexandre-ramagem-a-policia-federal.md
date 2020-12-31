@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-29 12:14:00
 pub_date: 2020-04-29 12:14:00
 time_added: 2020-04-29 20:00:10
-category: 
+category: recuadas
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ca/2020/04/17/presidente-jair-bolsonaro-1587137619190_v2_615x300.jpg
 ---

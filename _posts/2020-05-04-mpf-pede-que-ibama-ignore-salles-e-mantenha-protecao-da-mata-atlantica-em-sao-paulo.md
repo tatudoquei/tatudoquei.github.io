@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2020-05-04 22:12:02
 pub_date: 2020-05-04 22:12:02
 time_added: 2020-05-05 19:56:17
-category: 
-tags: []
+category: refletimos
+tags: [meio ambiente]
 image: https://www.oeco.org.br/wp-content/uploads/2020/05/OEco_Salles_Jefferson-Rudy-Agencia-Senado.jpg
 ---
 

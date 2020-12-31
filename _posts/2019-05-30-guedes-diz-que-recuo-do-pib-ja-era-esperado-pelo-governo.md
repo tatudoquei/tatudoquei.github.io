@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2019-05-30 14:59:20
 pub_date: 2019-05-30 14:59:20
 time_added: 2019-05-31 11:59:00
-category: 
-tags: []
+category: avisamos
+tags: [economia]
 image: https://abrilveja.files.wordpress.com/2019/05/economia-paulo-guedes-novo-30052019-002.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

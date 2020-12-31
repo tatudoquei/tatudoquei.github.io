@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-25 22:52:00
 pub_date: 2019-12-25 22:52:00
 time_added: 2019-12-26 10:16:27
-category: 
+category: recuadas
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e4/2019/01/01/jair-bolsonaro-cumprimenta-o-ministro-da-justica-sergio-moro-durante-a-cerimonia-de-posse-1546378539136_v2_615x300.jpg
 ---

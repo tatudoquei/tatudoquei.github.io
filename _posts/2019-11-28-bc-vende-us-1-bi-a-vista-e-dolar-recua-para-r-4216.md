@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2019-11-28 16:10:00
 pub_date: 2019-11-28 16:10:00
 time_added: 2019-11-28 22:15:43
-category: 
-tags: []
+category: avisamos
+tags: [economia]
 image: https://f.i.uol.com.br/fotografia/2018/04/29/15250040445ae5b70cb6f39_1525004044_3x2_md.jpg
 ---
 

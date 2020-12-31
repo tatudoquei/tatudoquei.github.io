@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2019-08-12 11:31:32
 pub_date: 2019-08-12 11:31:32
 time_added: 2019-08-14 07:01:07
-category: 
-tags: []
+category: avisamos
+tags: [economia]
 image: https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png
 ---
 

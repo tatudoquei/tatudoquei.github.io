@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2019-04-05 07:56:00
 pub_date: 2019-04-05 07:56:00
 time_added: 2019-04-06 00:18:05
-category: 
-tags: []
+category: avisamos
+tags: [educação]
 ---
 
 BRASÍLIA - Em café da manhã com jornalistas nesta sexta-feira, o presidente Jair Bolsonaro indicou que pode demitir o ministro da Educação, Ricardo Vélez, no início da próxima semana. Se a saída do ministro for confirmada, ele será o segundo exonerado por Bolsonaro desde a posse.

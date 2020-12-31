@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2020-05-14 22:54:06
 pub_date: 2020-05-14 22:54:06
 time_added: 2020-05-15 21:29:19
-category: 
-tags: []
+category: avisamos
+tags: [meio ambiente]
 image: https://marsemfim.com.br/wp-content/uploads/2020/05/capa-7.jpg
 ---
 

@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2020-07-05 07:00:19
 pub_date: 2020-07-05 07:00:19
 time_added: 2020-07-05 23:37:27
-category: 
-tags: []
+category: refletimos
+tags: [saúde]
 image: https://brpolitico.com.br/wp-content/uploads/sites/683/2020/07/captura-de-tela-2020-07-04-as-123951_040720204221.png
 ---
 
