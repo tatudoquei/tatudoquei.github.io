@@ -38,7 +38,7 @@ markdown: kramdown
 highlighter: rouge
 
 # Pagination
-paginate: 500
+paginate: 750
 paginate_path: "/pagina:num/"
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
