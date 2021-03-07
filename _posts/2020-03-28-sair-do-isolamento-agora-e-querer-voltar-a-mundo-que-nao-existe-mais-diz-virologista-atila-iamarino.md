@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2020-03-28 14:49:03
 pub_date: 2020-03-28 14:49:03
 time_added: 2020-03-28 15:49:03
-category: 
-tags: []
+category: refletimos
+tags: [ciência, saúde]
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/A19F/production/_111457314_43c229ba-2651-4af0-ac66-2bc49b06c739.jpg
 ---
 

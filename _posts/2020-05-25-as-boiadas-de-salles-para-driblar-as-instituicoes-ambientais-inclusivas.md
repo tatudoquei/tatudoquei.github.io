@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2020-05-25 23:03:45
 pub_date: 2020-05-25 23:03:45
 time_added: 2020-06-13 06:51:38
-category: 
-tags: []
+category: avisamos
+tags: [bandido bom, meio ambiente]
 ---
 
 Imagem: Pixabay.

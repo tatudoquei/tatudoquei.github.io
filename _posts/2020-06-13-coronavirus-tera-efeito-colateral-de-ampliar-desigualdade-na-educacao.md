@@ -8,7 +8,7 @@ date: 2020-06-13 14:39:00
 pub_date: 2020-06-13 14:39:00
 time_added: 2020-06-13 23:07:56
 category: 
-tags: []
+tags: [educação, saúde]
 image: https://f.i.uol.com.br/fotografia/2020/05/16/15896747705ec083123b8a1_1589674770_3x2_rt.jpg
 ---
 

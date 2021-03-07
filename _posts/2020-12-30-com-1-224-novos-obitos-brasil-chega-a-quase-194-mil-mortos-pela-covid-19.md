@@ -8,7 +8,7 @@ date: 2020-12-30 23:04:00
 pub_date: 2020-12-30 23:04:00
 time_added: 2020-12-31 00:44:37
 category: 
-tags: []
+tags: [saúde]
 image: https://f.i.uol.com.br/fotografia/2020/12/30/16093691635fed064b78c37_1609369163_3x2_rt.jpg
 ---
 

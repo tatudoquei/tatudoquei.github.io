@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2020-07-04 11:59:00
 pub_date: 2020-07-04 11:59:00
-time_added: 2020-07-07 06:53:33
+time_added: 2021-02-17 19:43:31
 category: 
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2a/2020/07/04/tratores-destroem-lavoura-destinada-a-doacoes-para-familias-carentes-1593887188070_v2_615x300.jpg

@@ -8,7 +8,7 @@ date: 2020-06-19 18:17:05
 pub_date: 2020-06-19 18:17:05
 time_added: 2020-06-19 20:17:05
 category: 
-tags: []
+tags: [saúde]
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/5316/production/_111107212_corona1.jpg
 ---
 

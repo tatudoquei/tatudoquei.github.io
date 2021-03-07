@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2019-08-29 20:23:52
 pub_date: 2019-08-29 20:23:52
 time_added: 2019-08-30 23:38:19
-category: 
-tags: []
+category: avisamos
+tags: [meio ambiente]
 image: https://abrilexame.files.wordpress.com/2019/06/ricardo-salles.gif?w=680&h=453&crop=1
 ---
 
