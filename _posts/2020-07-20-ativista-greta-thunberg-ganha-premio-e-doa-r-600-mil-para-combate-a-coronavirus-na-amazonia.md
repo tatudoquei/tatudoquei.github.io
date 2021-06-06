@@ -8,7 +8,7 @@ date: 2020-07-20 20:37:09
 pub_date: 2020-07-20 20:37:09
 time_added: 2020-07-21 03:25:41
 category: 
-tags: []
+tags: [meio ambiente]
 image: https://img.estadao.com.br/resources/jpg/6/5/1585078373756.jpg
 ---
 

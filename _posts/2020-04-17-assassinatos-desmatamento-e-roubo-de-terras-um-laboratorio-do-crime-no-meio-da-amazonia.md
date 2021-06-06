@@ -8,7 +8,7 @@ date: 2020-04-17 13:30:57
 pub_date: 2020-04-17 13:30:57
 time_added: 2020-04-21 19:56:21
 category: 
-tags: []
+tags: [meio ambiente]
 image: https://reporterbrasil.org.br/wp-content/uploads/2020/04/26-de-novembro-de-2019-1.jpeg
 ---
 

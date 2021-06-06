@@ -8,7 +8,7 @@ date: 2020-04-23 23:03:44
 pub_date: 2020-04-23 23:03:44
 time_added: 2020-04-24 06:58:29
 category: 
-tags: []
+tags: [meio ambiente]
 image: https://s2.glbimg.com/Ep0Xc9ngHkZ7XMZBGYbryXv_oBU=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/G/h/v86cwTRcyGQBGM0MxBlw/amazonia-credito-paulo-whitaker-reuters.jpg
 ---
 

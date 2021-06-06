@@ -8,7 +8,7 @@ date: 2021-05-11 13:50:33
 pub_date: 2021-05-11 13:50:33
 time_added: 2021-05-26 21:11:07
 category: 
-tags: []
+tags: [meio ambiente]
 image: https://www.oeco.org.br/wp-content/uploads/2021/05/Oeco_Salles-Foto-Fabio-Rodrigues-Pozzebom-Agencia-Brasil.jpg
 ---
 

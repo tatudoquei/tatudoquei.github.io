@@ -8,7 +8,7 @@ date: 2020-08-11 18:26:00
 pub_date: 2020-08-11 18:26:00
 time_added: 2020-08-12 06:06:03
 category: 
-tags: []
+tags: [meio ambiente]
 image: https://conteudo.imguol.com.br/c/noticias/ec/2019/01/21/21jan2019---a-senadora-kamala-harris-da-california-anunciou-sua-intencao-de-concorrer-a-presidencia-dos-estados-unidos-em-2020-pelo-partido-democrata-1548101479060_v2_615x300.jpg
 ---
 

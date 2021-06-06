@@ -8,7 +8,7 @@ date: 2021-02-23 01:01:34
 pub_date: 2021-02-23 01:01:34
 time_added: 2021-02-25 20:38:55
 category: 
-tags: []
+tags: [meio ambiente]
 image: https://imagens.brasil.elpais.com/resizer/gRnm7E-gImfw4J6abOqh4NPbWXw=/1000x0/filters:focal(813x371:823x381)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/FNRJPXREQBDSPF2JSIGX47DFIE.jpg
 ---
 

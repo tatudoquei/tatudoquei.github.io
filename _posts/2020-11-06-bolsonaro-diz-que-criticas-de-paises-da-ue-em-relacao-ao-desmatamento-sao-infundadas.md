@@ -8,7 +8,7 @@ date: 2020-11-06 17:17:00
 pub_date: 2020-11-06 17:17:00
 time_added: 2020-11-07 07:24:23
 category: 
-tags: []
+tags: [meio ambiente]
 image: https://conteudo.imguol.com.br/c/noticias/19/2020/11/06/06-nov-2020---jair-bolsonaro-sem-partido-participa-de-cerimonia-de-formatura-de-novos-agentes-da-prf-em-florianopolis-sc-1604676465205_v2_615x300.jpg
 ---
 

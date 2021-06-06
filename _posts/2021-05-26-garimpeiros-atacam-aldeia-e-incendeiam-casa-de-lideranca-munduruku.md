@@ -8,7 +8,7 @@ date: 2021-05-26 22:44:17
 pub_date: 2021-05-26 22:44:17
 time_added: 2021-05-28 17:35:34
 category: 
-tags: []
+tags: [meio ambiente]
 image: https://amazoniareal.com.br/wp-content/uploads/2021/05/ataques-aos-Mundurukus71.jpg
 ---
 

@@ -8,7 +8,7 @@ date: 2021-05-09 22:00:00
 pub_date: 2021-05-09 22:00:00
 time_added: 2021-05-13 16:59:18
 category: 
-tags: []
+tags: [meio ambiente]
 image: https://ufmg.br/thumbor/2Wi0p47oVoEK6ix_ck1jL_UgKTA=/300x200/smart/https://ufmg.br/storage/d/c/6/5/dc65abc4c153b84f779a5738332b71fa_16206128309361_1580551679.png
 ---
 

@@ -8,7 +8,7 @@ date: 2020-08-13 04:08:07
 pub_date: 2020-08-13 04:08:07
 time_added: 2021-03-27 09:01:48
 category: 
-tags: []
+tags: [meio ambiente]
 image: https://www.oeco.org.br/wp-content/uploads/2021/03/industria-da-carne.jpg
 ---
 

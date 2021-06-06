@@ -8,7 +8,7 @@ date: 2020-04-30 18:40:56
 pub_date: 2020-04-30 18:40:56
 time_added: 2020-05-01 07:31:13
 category: 
-tags: []
+tags: [meio ambiente]
 image: https://abrilveja.files.wordpress.com/2020/04/d54c8399-00c6-4384-a489-1025ce471c64.jpeg?quality=70&strip=info&w=680&h=453&crop=1
 ---
 

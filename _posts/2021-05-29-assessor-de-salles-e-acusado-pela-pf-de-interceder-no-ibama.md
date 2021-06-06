@@ -8,7 +8,7 @@ date: 2021-05-29 22:00:00
 pub_date: 2021-05-29 22:00:00
 time_added: 2021-05-30 19:36:25
 category: 
-tags: []
+tags: [bandido bom, meio ambiente]
 image: https://www.oc.eco.br/wp-content/uploads/2021/05/29190718250_e75b06e898_k-2.jpg
 ---
 

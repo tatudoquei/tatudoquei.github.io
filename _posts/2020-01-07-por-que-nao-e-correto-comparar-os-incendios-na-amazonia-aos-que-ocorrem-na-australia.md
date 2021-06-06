@@ -8,7 +8,7 @@ date: 2020-01-07 23:00:00
 pub_date: 2020-01-07 23:00:00
 time_added: 2020-09-17 06:24:26
 category: 
-tags: []
+tags: [meio ambiente]
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/1450C/production/_110421238_canguru-gettyimagescopy.jpg
 ---
 

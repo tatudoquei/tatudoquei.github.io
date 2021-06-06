@@ -8,7 +8,7 @@ date: 2021-03-17 22:39:00
 pub_date: 2021-03-17 22:39:00
 time_added: 2021-03-27 08:51:58
 category: 
-tags: []
+tags: [ciência, dita cuja, meio ambiente]
 image: https://theintercept.com/wp-uploads/sites/1/2021/03/SITE-Selo-ciencia.jpg
 ---
 

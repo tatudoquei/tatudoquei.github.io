@@ -8,7 +8,7 @@ date: 2020-11-10 18:42:00
 pub_date: 2020-11-10 18:42:00
 time_added: 2020-11-10 23:33:21
 category: 
-tags: []
+tags: [meio ambiente]
 image: https://f.i.uol.com.br/fotografia/2020/11/10/16050477955fab15f30832b_1605047795_3x2_rt.jpg
 ---
 

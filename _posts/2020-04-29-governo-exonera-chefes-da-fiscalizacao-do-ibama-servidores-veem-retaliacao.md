@@ -8,7 +8,7 @@ date: 2020-04-29 23:23:00
 pub_date: 2020-04-29 23:23:00
 time_added: 2020-05-01 18:04:50
 category: 
-tags: []
+tags: [meio ambiente]
 image: https://conteudo.imguol.com.br/c/noticias/3d/2020/04/21/hugo-loss-coordenador-de-operacoes-de-fiscalizacao-do-ibama-em-brasilia-durante-operacao-no-sul-do-para-em-2020-1587518330521_v2_615x300.jpg
 ---
 

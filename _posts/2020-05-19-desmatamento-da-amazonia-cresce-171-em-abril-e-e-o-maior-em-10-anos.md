@@ -8,7 +8,7 @@ date: 2020-05-19 08:21:00
 pub_date: 2020-05-19 08:21:00
 time_added: 2020-05-22 21:02:20
 category: 
-tags: []
+tags: [meio ambiente]
 image: https://conteudo.imguol.com.br/c/noticias/58/2020/02/12/35-do-desmatamento-na-amazonia-entre-agosto-de-2018-e-julho-de-2019-se-deu-em-terras-publicas-nao-destinadas-categoria-visada-por-grileiros-1581522873256_v2_615x300.jpg
 ---
 

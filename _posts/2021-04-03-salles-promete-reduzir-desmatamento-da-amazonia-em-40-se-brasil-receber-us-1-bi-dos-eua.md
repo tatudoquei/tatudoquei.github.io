@@ -8,7 +8,7 @@ date: 2021-04-03 17:00:00
 pub_date: 2021-04-03 17:00:00
 time_added: 2021-04-03 21:27:48
 category: 
-tags: []
+tags: [meio ambiente]
 image: https://img.estadao.com.br/resources/jpg/1/0/1617465331401.jpg
 ---
 

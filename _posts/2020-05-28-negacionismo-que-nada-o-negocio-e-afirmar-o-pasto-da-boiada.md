@@ -8,7 +8,7 @@ date: 2020-05-28 16:10:39
 pub_date: 2020-05-28 16:10:39
 time_added: 2020-06-13 06:50:35
 category: 
-tags: []
+tags: [meio ambiente]
 image: https://www.oeco.org.br/wp-content/uploads/2020/05/boi.jpg
 ---
 

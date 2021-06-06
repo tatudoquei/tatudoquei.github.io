@@ -8,7 +8,7 @@ date: 2021-05-18 20:20:08
 pub_date: 2021-05-18 20:20:08
 time_added: 2021-05-18 22:20:08
 category: 
-tags: []
+tags: [meio ambiente]
 image: https://www.socioambiental.org/sites/blog.socioambiental.org/files/styles/twitter-card/public/nsa/rs68289_sobrevoo-no-par-foto-marizilda-cruppeamaznia-real17092020_50445355638_o_0.jpg?itok=0Gy_QPAR
 ---
 

@@ -8,7 +8,7 @@ date: 2020-06-10 00:50:01
 pub_date: 2020-06-10 00:50:01
 time_added: 2020-06-13 06:49:07
 category: 
-tags: []
+tags: [meio ambiente]
 image: https://www.oeco.org.br/wp-content/uploads/2020/06/Isensee-manchete-1.jpg
 ---
 

@@ -8,7 +8,7 @@ date: 2021-01-04 07:00:00
 pub_date: 2021-01-04 07:00:00
 time_added: 2021-01-05 14:01:00
 category: 
-tags: []
+tags: [meio ambiente]
 image: https://conteudo.imguol.com.br/c/noticias/de/2017/08/21/agentes-do-ibama-checam-tora-de-madeira-durante-apreensao-realizada-pela-operacao-onda-verde-em-apui-am-1503324959297_750x421.jpg
 ---
 

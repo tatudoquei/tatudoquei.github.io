@@ -8,7 +8,7 @@ date: 2021-01-28 17:16:44
 pub_date: 2021-01-28 17:16:44
 time_added: 2021-02-07 23:09:16
 category: 
-tags: []
+tags: [meio ambiente]
 image: https://apublica.org/wp-content/uploads/2021/01/cacique-raoni.jpg
 ---
 

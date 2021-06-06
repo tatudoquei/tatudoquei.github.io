@@ -8,7 +8,7 @@ date: 2021-01-26 19:09:19
 pub_date: 2021-01-26 19:09:19
 time_added: 2021-02-07 23:05:21
 category: 
-tags: []
+tags: [meio ambiente]
 image: https://www.oeco.org.br/wp-content/uploads/2021/01/Oeco_UPA-Amazonas-Foto-Marcio-James_Amazonia-Real.jpg
 ---
 

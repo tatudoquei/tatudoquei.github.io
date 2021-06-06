@@ -8,7 +8,7 @@ date: 2020-04-21 17:56:32
 pub_date: 2020-04-21 17:56:32
 time_added: 2020-04-21 19:56:32
 category: 
-tags: []
+tags: [meio ambiente]
 ---
 
 Um governo que não se preocupa de verdade com o meio ambiente, os povos indígenas e com os povos tradicionais dá mais um passo em sua política de destruição.

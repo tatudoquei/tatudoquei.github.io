@@ -8,7 +8,7 @@ date: 2020-09-11 04:10:55
 pub_date: 2020-09-11 04:10:55
 time_added: 2021-03-27 09:01:57
 category: 
-tags: []
+tags: [meio ambiente]
 image: https://www.oeco.org.br/wp-content/uploads/2021/03/O-Eco_20180310_MI_00558.jpg
 ---
 

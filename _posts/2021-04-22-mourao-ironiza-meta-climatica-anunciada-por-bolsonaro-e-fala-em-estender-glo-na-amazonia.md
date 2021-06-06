@@ -8,7 +8,7 @@ date: 2021-04-22 17:03:00
 pub_date: 2021-04-22 17:03:00
 time_added: 2021-05-22 19:51:51
 category: 
-tags: []
+tags: [meio ambiente]
 image: https://ogimg.infoglobo.com.br/in/24910595-aea-2de/FT1086A/x88829630_BrasilBrasiliaPA15-07-2020MEIO-AMBIENTEO-vice-presidente-da-Republica-Ha-1.jpg.pagespeed.ic.wEUADMjo0Y.jpg
 ---
 

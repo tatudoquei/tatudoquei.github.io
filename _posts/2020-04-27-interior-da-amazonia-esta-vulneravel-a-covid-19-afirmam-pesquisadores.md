@@ -8,7 +8,7 @@ date: 2020-04-27 11:24:00
 pub_date: 2020-04-27 11:24:00
 time_added: 2020-04-27 21:49:17
 category: 
-tags: []
+tags: [meio ambiente]
 image: https://ambiencia.blogfolha.uol.com.br/files/2020/04/subirblog.jpg
 ---
 

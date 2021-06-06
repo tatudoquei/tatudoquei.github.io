@@ -8,7 +8,7 @@ date: 2020-03-10 12:00:00
 pub_date: 2020-03-10 12:00:00
 time_added: 2020-05-03 10:15:13
 category: 
-tags: []
+tags: [meio ambiente]
 image: https://www.ovale.com.br/_midias/jpg/2019/10/11/bbb_685734-756155.jpg
 ---
 
