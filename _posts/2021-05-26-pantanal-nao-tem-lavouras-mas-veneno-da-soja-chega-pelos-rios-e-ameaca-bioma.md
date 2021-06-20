@@ -1,18 +1,18 @@
 ---
 layout: post
-item_id: 3341638702
+item_id: 3360555052
 title: >-
     Pantanal não tem lavouras, mas veneno da soja chega pelos rios e ameaça bioma
 author: Tatu D'Oquei
-date: 2021-05-26 14:32:19
-pub_date: 2021-05-26 14:32:19
-time_added: 2021-05-26 19:05:59
+date: 2021-05-26 14:31:33
+pub_date: 2021-05-26 14:31:33
+time_added: 2021-06-19 06:01:42
 category: 
 tags: []
-image: https://www.oeco.org.br/wp-content/uploads/2021/05/DSC_5549.jpg
+image: https://www.oeco.org.br/wp-content/uploads/2021/05/Captura-de-tela-2021-05-26-105052.png
 ---
 
-O anzol que Lourenço Pereira Leite joga nas águas do rio Paraguai volta cada vez com menos pintados, cacharas e pacus, peixes que são o sustento de sua família há várias gerações.
+A demanda internacional por soja levou a produção brasileira a saltar de 30 milhões de toneladas por ano em 2000 para 125 milhões hoje. A maior parte dos agrotóxicos consumidos no Brasil são utilizados nesta cultura.
 
-**Link:** [https://www.oeco.org.br/reportagens/pantanal-nao-tem-lavouras-mas-veneno-da-soja-chega-pelos-rios-e-ameaca-bioma/](https://www.oeco.org.br/reportagens/pantanal-nao-tem-lavouras-mas-veneno-da-soja-chega-pelos-rios-e-ameaca-bioma/)
+**Link:** [https://www.oeco.org.br/videos/pantanal-nao-tem-lavouras-mas-veneno-da-soja-chega-pelos-rios-e-ameaca-bioma-2/](https://www.oeco.org.br/videos/pantanal-nao-tem-lavouras-mas-veneno-da-soja-chega-pelos-rios-e-ameaca-bioma-2/)
 

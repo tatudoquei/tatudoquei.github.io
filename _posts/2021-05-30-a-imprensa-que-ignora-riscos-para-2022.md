@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2021-05-30 17:39:05
 pub_date: 2021-05-30 17:39:05
-time_added: 2021-05-30 19:18:00
+time_added: 2021-06-20 09:49:07
 category: 
 tags: []
 image: https://imagens.brasil.elpais.com/resizer/TxHs7yo0cTiSRaqv0QXwZDkO0RM=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/6PVZAYAN5N5HXPZPBRDJ7KPR2Q.jpg
