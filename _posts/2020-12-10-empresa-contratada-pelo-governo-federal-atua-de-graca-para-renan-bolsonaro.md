@@ -6,9 +6,9 @@ title: >-
 author: Tatu D'Oquei
 date: 2020-12-10 02:15:00
 pub_date: 2020-12-10 02:15:00
-time_added: 2020-12-10 14:40:49
-category: 
-tags: []
+time_added: 2022-06-09 21:48:32
+category: avisamos
+tags: [bandido bom]
 image: https://f.i.uol.com.br/fotografia/2019/11/21/15743804815dd723c13e457_1574380481_3x2_rt.jpg
 ---
 

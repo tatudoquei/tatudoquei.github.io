@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2021-09-12 03:00:00
 pub_date: 2021-09-12 03:00:00
 time_added: 2021-11-14 20:13:00
-category: 
-tags: []
+category: avisamos
+tags: [saúde]
 image: https://static.dw.com/image/56817278_6.jpg
 ---
 
