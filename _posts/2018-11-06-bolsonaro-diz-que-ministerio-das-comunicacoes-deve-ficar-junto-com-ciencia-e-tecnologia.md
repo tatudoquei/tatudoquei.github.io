@@ -8,7 +8,7 @@ date: 2018-11-06 01:13:28
 pub_date: 2018-11-06 01:13:28
 time_added: 2018-11-08 07:58:05
 category: avisamos
-tags: []
+tags: [ciência]
 image: https://img.estadao.com.br/resources/jpg/9/7/1540499230679.jpg
 ---
 
