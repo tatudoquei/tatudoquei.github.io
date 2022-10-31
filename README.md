@@ -8,16 +8,16 @@ despreparo causaria sérios retrocessos ao país.
 
 Nada vai mudar... disseram. As instituições continuarão funcionando...
 replicaram. Nossa democracia não será afetada... prenunciaram. A corrupção
-será extirpada... garantiram. Estariam certos?
+será extirpada... garantiram. Estariam certos? (spoiler: não)
 
-Assim que começou o [Tá tudo ok](https://tatudoquei.github.io/) com o objetivo
-de documentar os retrocessos causados pelo governo Bolsonaro---da sua eleição em
-2018, até o fim de seu governo. <-- **EM BREVE**
+Assim que começou o **Tá tudo ok**, um site com o objetivo de documentar os
+retrocessos causados pelo governo Bolsonaro desde sua eleição, em 2018, até seu
+fim (**EM BREVE!**).
 
-## Conteúdo
+**Acesse:** https://tatudoquei.github.io/
 
-Compilado de notícias em ordem cronológica reversa divididas por categorias
-e assuntos. Exemplos:
+As notícias estão em ordem cronológica reversa e divididas por categorias
+e assuntos. Por exemplo:
 
 **Categorias:** avisamos, refletimos, resistimos, recuadas.
 
