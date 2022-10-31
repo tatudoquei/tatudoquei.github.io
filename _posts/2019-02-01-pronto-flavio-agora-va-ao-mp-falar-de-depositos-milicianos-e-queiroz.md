@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2019-02-01 12:12:00
 pub_date: 2019-02-01 12:12:00
 time_added: 2019-12-23 21:37:44
-category: refletimos
-tags: [bandido bom]
+category: bandido bom
+tags: []
 image: https://conteudo.imguol.com.br/6b/2018/10/29/sakamoto---share-1540825181920_956x500.png
 ---
 

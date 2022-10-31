@@ -8,7 +8,7 @@ date: 2021-01-22 07:30:00
 pub_date: 2021-01-22 07:30:00
 time_added: 2021-01-22 13:32:42
 category: avisamos
-tags: [bandido bom, saúde]
+tags: [saúde]
 image: https://ogimg.infoglobo.com.br/in/24483141-f3a-eb6/FT1086A/652/x84518721_BRASILBrasilia-DF10-09-2019O-procurador-Augusto-Aras-comecou-a-bater-de-porta-em-p.jpg.pagespeed.ic.U-No6i_3gD.jpg
 ---
 

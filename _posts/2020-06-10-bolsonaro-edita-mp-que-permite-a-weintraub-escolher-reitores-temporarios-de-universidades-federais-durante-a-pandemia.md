@@ -8,7 +8,7 @@ date: 2020-06-10 05:42:04
 pub_date: 2020-06-10 05:42:04
 time_added: 2020-06-10 12:33:52
 category: avisamos
-tags: [ciência, dita cuja, educação]
+tags: [ciência, educação]
 image: https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png
 ---
 

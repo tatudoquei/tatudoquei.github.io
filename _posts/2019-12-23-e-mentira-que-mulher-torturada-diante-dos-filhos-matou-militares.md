@@ -8,7 +8,7 @@ date: 2019-12-23 21:19:29
 pub_date: 2018-10-25 16:03:00
 time_added: 2019-12-23 21:19:29
 category: avisamos
-tags: [fake news]
+tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2a/2018/10/25/confere-amelia-teles-1540496049373_v2_750x421.jpg
 ---
 

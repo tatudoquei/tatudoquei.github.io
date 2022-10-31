@@ -8,7 +8,7 @@ date: 2020-05-13 18:43:25
 pub_date: 2020-05-13 18:43:25
 time_added: 2020-05-13 20:43:25
 category: avisamos
-tags: [bandido bom]
+tags: []
 image: https://ogimg.infoglobo.com.br/in/23837427-b91-e1c/FT1086A/652/header-2000x920.png
 ---
 

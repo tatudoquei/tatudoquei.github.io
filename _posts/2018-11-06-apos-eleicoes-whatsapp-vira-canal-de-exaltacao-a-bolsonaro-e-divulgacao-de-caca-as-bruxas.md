@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2018-11-06 07:00:00
 pub_date: 2018-11-06 07:00:00
 time_added: 2018-11-08 08:09:56
-category: 
-tags: [fake news]
+category: fake news
+tags: []
 image: https://f.i.uol.com.br/fotografia/2018/10/17/15398023505bc784ee17759_1539802350_3x2_rt.jpg
 ---
 

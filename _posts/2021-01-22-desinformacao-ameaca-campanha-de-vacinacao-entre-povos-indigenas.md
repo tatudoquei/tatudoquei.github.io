@@ -8,7 +8,7 @@ date: 2021-01-22 08:00:51
 pub_date: 2021-01-22 08:00:51
 time_added: 2021-01-22 21:52:27
 category: avisamos
-tags: [fake news, saúde]
+tags: [saúde]
 image: https://s2.glbimg.com/A2UkGtglYM4f9ahE4vM-BN6o52Q=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2021/G/N/Y4QPH2RMAIThpCbNHAyw/foto22bra-201-indios-a2.jpg
 ---
 

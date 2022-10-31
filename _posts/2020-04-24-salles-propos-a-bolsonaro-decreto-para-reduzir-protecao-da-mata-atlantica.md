@@ -8,7 +8,7 @@ date: 2020-04-24 11:14:30
 pub_date: 2020-04-24 11:14:30
 time_added: 2020-04-24 18:22:46
 category: avisamos
-tags: [bandido bom, meio ambiente]
+tags: [meio ambiente]
 image: http://www.diretodaciencia.com/wp-content/uploads/2020/03/meio_ambiente_lixao_zero_1202200249_0.jpg
 ---
 

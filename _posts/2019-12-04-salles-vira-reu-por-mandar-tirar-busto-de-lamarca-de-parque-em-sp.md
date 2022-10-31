@@ -8,7 +8,7 @@ date: 2019-12-04 14:31:00
 pub_date: 2019-12-04 14:31:00
 time_added: 2019-12-06 07:12:06
 category: avisamos
-tags: [bandido bom, meio ambiente]
+tags: [meio ambiente]
 image: https://conteudo.imguol.com.br/c/noticias/82/2019/12/03/02dez2019---o-ministro-do-meio-ambiente-ricardo-salles-participa-de-mesa-redonda-na-cop-25-1575423922201_v2_615x300.jpg
 ---
 

@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2019-02-17 03:30:00
 pub_date: 2019-02-17 03:30:00
 time_added: 2019-12-23 21:37:46
-category: refletimos
-tags: [bandido bom, economia]
+category: bandido bom
+tags: [economia]
 image: https://ogimg.infoglobo.com.br/in/23459217-63e-64e/FT1086A/652/INFOCHPDPICT000079580619.jpg
 ---
 

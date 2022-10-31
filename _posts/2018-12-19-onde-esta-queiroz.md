@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2018-12-19 22:42:04
 pub_date: 2018-12-19 22:42:04
 time_added: 2019-12-23 21:41:23
-category: refletimos
-tags: [bandido bom]
+category: bandido bom
+tags: []
 image: https://ep00.epimg.net/brasil/imagenes/2018/12/19/politica/1545226213_036750_1545245165_rrss_normal.jpg
 ---
 

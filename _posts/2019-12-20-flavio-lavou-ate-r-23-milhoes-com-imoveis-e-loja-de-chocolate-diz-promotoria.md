@@ -8,7 +8,7 @@ date: 2019-12-20 01:00:00
 pub_date: 2019-12-20 01:00:00
 time_added: 2022-06-09 21:48:04
 category: avisamos
-tags: [bandido bom]
+tags: []
 image: https://f.i.uol.com.br/fotografia/2019/05/14/15578460265cdad80a1be7d_1557846026_3x2_md.jpg
 ---
 

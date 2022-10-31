@@ -8,7 +8,7 @@ date: 2021-03-02 03:00:00
 pub_date: 2021-03-02 03:00:00
 time_added: 2021-03-06 17:15:45
 category: avisamos
-tags: [bandido bom]
+tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Durma-com-essa-2-de-marco-de-20211/alternates/LANDSCAPE_768/Durma%20com%20essa%202%20de%20marco%20de%202021
 ---
 

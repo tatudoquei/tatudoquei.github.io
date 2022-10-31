@@ -8,7 +8,7 @@ date: 2021-05-19 17:05:26
 pub_date: 2021-05-19 17:05:26
 time_added: 2021-05-30 21:25:40
 category: avisamos
-tags: [bandido bom, meio ambiente]
+tags: [meio ambiente]
 image: https://www.oeco.org.br/wp-content/uploads/2021/05/Oeco2_Ricardo-Salles_MMA-Flickr.jpg
 ---
 

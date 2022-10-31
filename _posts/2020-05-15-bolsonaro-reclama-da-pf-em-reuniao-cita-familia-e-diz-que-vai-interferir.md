@@ -8,7 +8,7 @@ date: 2020-05-15 00:42:19
 pub_date: 2020-05-15 00:42:19
 time_added: 2020-05-15 12:43:08
 category: avisamos
-tags: [bandido bom]
+tags: []
 image: https://static.poder360.com.br/2020/05/49806319386_dba76411fa_k-1-1200x630.jpg
 ---
 

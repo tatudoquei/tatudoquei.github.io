@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2021-05-19 18:29:15
 pub_date: 2021-05-19 18:29:15
 time_added: 2021-05-30 21:26:27
-category: 
-tags: [bandido bom, meio ambiente]
+category: bandido bom
+tags: [meio ambiente]
 image: https://www.oeco.org.br/wp-content/uploads/2021/05/Oeco2_Ricardo-Salles_MMA-divulgacao.jpg
 ---
 

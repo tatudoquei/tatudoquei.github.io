@@ -8,7 +8,7 @@ date: 2019-02-04 01:04:00
 pub_date: 2019-02-04 01:04:00
 time_added: 2019-12-23 21:37:44
 category: avisamos
-tags: [bandido bom, meio ambiente]
+tags: [meio ambiente]
 image: https://theintercept.com/wp-uploads/sites/1/2019/01/31-01-19-ministro-sales-1548976640.jpg
 ---
 

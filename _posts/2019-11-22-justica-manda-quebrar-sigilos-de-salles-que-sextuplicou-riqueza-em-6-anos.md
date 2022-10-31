@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2019-11-22 18:47:00
 pub_date: 2019-11-22 18:47:00
 time_added: 2019-11-23 10:26:48
-category: 
-tags: [bandido bom, meio ambiente]
+category: bandido bom
+tags: [meio ambiente]
 image: https://conteudo.imguol.com.br/c/parceiros/aa/2019/10/24/salles-sugeriu-no-twitter-que-o-oleo-que-polui-o-nordeste-vazou-de-um-navio-do-greenpeace-1571950882964_v2_615x300.jpg
 ---
 

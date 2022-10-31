@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2021-06-04 13:54:00
 pub_date: 2021-06-04 13:54:00
 time_added: 2021-06-05 15:09:42
-category: 
-tags: [bandido bom, meio ambiente]
+category: bandido bom
+tags: [meio ambiente]
 image: https://s2.glbimg.com/0lwvXy2uw-vwX4iG0QkdJKmR4tY=/645x388/i.glbimg.com/og/ig/infoglobo1/f/original/2021/05/21/ricardosalles1.jpg
 ---
 

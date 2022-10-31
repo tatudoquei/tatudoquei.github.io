@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2019-01-20 13:23:00
 pub_date: 2019-01-20 13:23:00
 time_added: 2019-12-23 21:41:25
-category: refletimos
-tags: [bandido bom]
+category: bandido bom
+tags: []
 ---
 
 BRASÍLIA - O agravamento da crise envolvendo o filho primogênito de Jair Bolsonaro vem incomodando o núcleo militar mais próximo ao presidente.

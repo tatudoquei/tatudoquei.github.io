@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2021-06-01 06:32:16
 pub_date: 2021-06-01 06:32:16
 time_added: 2021-06-05 11:06:39
-category: 
-tags: [bandido bom, meio ambiente]
+category: bandido bom
+tags: [meio ambiente]
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2018/12/Salles.jpg
 ---
 

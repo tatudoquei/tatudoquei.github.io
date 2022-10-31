@@ -8,7 +8,7 @@ date: 2020-01-10 20:15:00
 pub_date: 2020-01-10 20:15:00
 time_added: 2020-01-16 19:49:00
 category: avisamos
-tags: [bandido bom, meio ambiente]
+tags: [meio ambiente]
 image: https://ogimg.infoglobo.com.br/in/24184401-64b-407/FT1086A/652/salles.jpg
 ---
 

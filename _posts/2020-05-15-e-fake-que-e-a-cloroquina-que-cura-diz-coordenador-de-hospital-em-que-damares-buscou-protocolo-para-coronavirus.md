@@ -8,7 +8,7 @@ date: 2020-05-15 21:31:00
 pub_date: 2020-05-15 21:31:00
 time_added: 2020-05-16 19:28:03
 category: avisamos
-tags: [fake news, saúde]
+tags: [saúde]
 image: https://f.i.uol.com.br/fotografia/2019/12/09/15759407375deef281cf84c_1575940737_3x2_rt.jpg
 ---
 

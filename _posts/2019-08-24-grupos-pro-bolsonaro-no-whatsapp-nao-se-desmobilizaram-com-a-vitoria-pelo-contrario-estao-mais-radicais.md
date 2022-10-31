@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2019-08-24 01:03:00
 pub_date: 2019-08-24 01:03:00
 time_added: 2020-02-28 16:08:52
-category: refletimos
-tags: [fake news]
+category: fake news
+tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/08/grupos-wpp-bolsonaro-redes-1566590321.jpg
 ---
 

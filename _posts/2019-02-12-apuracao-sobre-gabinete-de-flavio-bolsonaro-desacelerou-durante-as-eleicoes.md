@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2019-02-12 01:00:00
 pub_date: 2019-02-12 01:00:00
 time_added: 2019-12-23 21:37:46
-category: refletimos
-tags: [bandido bom]
+category: bandido bom
+tags: []
 image: https://f.i.uol.com.br/fotografia/2019/02/07/15495661565c5c80ccebf73_1549566156_3x2_rt.jpg
 ---
 

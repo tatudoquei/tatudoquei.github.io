@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2022-08-31 18:14:29
 pub_date: 2022-08-31 18:14:29
 time_added: 2022-09-11 10:45:59
-category: refletimos
-tags: [bandido bom, malditos milicos]
+category: bandido bom
+tags: []
 image: https://www.otempo.com.br/image/contentid/policy:1.2725480:1661970188/sargento-fab-aviao-cocaina-jpg.jpg?f=3x2&q=0.6&w=1200&$p$f$q$w=9dc034d
 ---
 

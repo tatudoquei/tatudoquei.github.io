@@ -8,7 +8,7 @@ date: 2021-03-04 19:36:00
 pub_date: 2021-03-04 19:36:00
 time_added: 2021-03-06 22:11:11
 category: avisamos
-tags: [dita cuja]
+tags: []
 image: https://i.em.com.br/enb1QY1A-gE3m2ZxUQyYZemssAc=/600x315/smart/imgsapp.em.com.br/app/noticia_127983242361/2021/03/04/1243344/20210304164746342739i.jpg
 ---
 

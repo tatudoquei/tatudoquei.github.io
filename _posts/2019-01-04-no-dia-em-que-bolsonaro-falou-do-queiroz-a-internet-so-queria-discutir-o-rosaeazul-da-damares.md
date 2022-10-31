@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2019-01-04 15:34:00
 pub_date: 2019-01-04 15:34:00
 time_added: 2019-12-23 21:41:24
-category: refletimos
-tags: [bandido bom]
+category: bandido bom
+tags: []
 image: https://img.buzzfeed.com/buzzfeed-static/static/2019-01/4/10/enhanced/buzzfeed-prod-web-03/original-11315-1546615748-9.jpg?crop=847:444;309,152
 ---
 

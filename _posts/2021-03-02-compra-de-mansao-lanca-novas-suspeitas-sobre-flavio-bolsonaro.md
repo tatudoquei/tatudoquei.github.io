@@ -8,7 +8,7 @@ date: 2021-03-02 03:00:00
 pub_date: 2021-03-02 03:00:00
 time_added: 2021-03-06 17:15:30
 category: avisamos
-tags: [bandido bom]
+tags: []
 image: https://static.dw.com/image/47208299_6.jpg
 ---
 

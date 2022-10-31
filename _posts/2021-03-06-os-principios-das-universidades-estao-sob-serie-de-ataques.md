@@ -8,7 +8,7 @@ date: 2021-03-06 03:00:00
 pub_date: 2021-03-06 03:00:00
 time_added: 2021-03-07 10:43:05
 category: avisamos
-tags: [dita cuja]
+tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/unicamp.JPG1/alternates/LANDSCAPE_768/unicamp.JPG
 ---
 

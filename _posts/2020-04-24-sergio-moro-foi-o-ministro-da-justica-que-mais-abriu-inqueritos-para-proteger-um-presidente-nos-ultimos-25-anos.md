@@ -8,7 +8,7 @@ date: 2020-04-24 14:30:00
 pub_date: 2020-04-24 14:30:00
 time_added: 2020-04-25 21:04:48
 category: avisamos
-tags: [bandido bom]
+tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/04/24-04-moro-inqueritos-rede.jpg
 ---
 

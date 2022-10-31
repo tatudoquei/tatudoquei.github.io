@@ -8,7 +8,7 @@ date: 2020-04-24 20:01:00
 pub_date: 2020-04-24 20:01:00
 time_added: 2020-04-25 06:26:00
 category: avisamos
-tags: [bandido bom]
+tags: []
 image: https://f.i.uol.com.br/fotografia/2020/04/24/15877685735ea36cfd17d82_1587768573_3x2_rt.jpg
 ---
 

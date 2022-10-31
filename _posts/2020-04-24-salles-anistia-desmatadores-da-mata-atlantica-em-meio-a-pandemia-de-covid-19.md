@@ -8,7 +8,7 @@ date: 2020-04-24 06:00:00
 pub_date: 2020-04-24 06:00:00
 time_added: 2020-04-25 12:17:38
 category: avisamos
-tags: [bandido bom, meio ambiente]
+tags: [meio ambiente]
 image: https://f.i.uol.com.br/fotografia/2020/04/23/15876889255ea235dde807a_1587688925_3x2_rt.jpg
 ---
 

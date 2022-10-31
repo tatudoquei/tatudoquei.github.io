@@ -8,7 +8,7 @@ date: 2018-12-14 13:07:26
 pub_date: 2018-12-14 13:07:26
 time_added: 2020-04-25 13:40:51
 category: avisamos
-tags: [bandido bom]
+tags: []
 image: https://abrilveja.files.wordpress.com/2018/12/marielle_camara.png
 ---
 

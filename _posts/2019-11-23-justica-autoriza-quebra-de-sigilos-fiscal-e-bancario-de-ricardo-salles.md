@@ -7,8 +7,8 @@ author: Tatu D'Oquei
 date: 2019-11-23 09:27:04
 pub_date: 2019-11-23 09:27:04
 time_added: 2019-11-23 10:27:04
-category: 
-tags: [bandido bom, meio ambiente]
+category: bandido bom
+tags: [meio ambiente]
 image: https://www.dw.com/image/50978209_304.jpg
 ---
 
