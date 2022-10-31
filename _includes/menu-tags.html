@@ -8,7 +8,7 @@
     <ul class="navbar-nav categories">
     {% assign tags_list = site.tags %}
         {% for tag in tags_list %}
-          <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/marcadores.html#{{ tag[0] | downcase }}">{{ tag[0] }} ({{ tag[1].size }})</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}/assuntos.html#{{ tag[0] | downcase }}">{{ tag[0] }} ({{ tag[1].size }})</a></li>
         {% endfor %}
     {% assign tags_list = nil %}
     </ul>    
