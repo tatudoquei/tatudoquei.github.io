@@ -9,7 +9,7 @@ pub_date: 2019-02-03 03:30:00
 time_added: 2019-02-04 23:31:29
 category: avisamos
 tags: []
-image: https://ogimg.infoglobo.com.br/in/23424571-374-6a4/FT1086A/652/italo-ciba.jpg
+image: https://ogimg.infoglobo.com.br/in/23424571-374-6a4/FT1086A/760/italo-ciba.jpg
 ---
 
 RIO - Além do ex-capitão da PM Adriano Magalhães da Nóbrega — apontado pelo Ministério Público do Estado do Rio (MP-RJ) como chefe da milícia do Rio das Pedras e do Escritório do Crime —, o senador Flávio Bolsonaro (PSL-RJ) homenageou outros sete companheiros dele no 16º BPM (Olaria).

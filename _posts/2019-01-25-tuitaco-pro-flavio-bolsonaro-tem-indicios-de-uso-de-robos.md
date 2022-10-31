@@ -9,7 +9,7 @@ pub_date: 2019-01-25 05:00:00
 time_added: 2019-01-25 21:37:46
 category: avisamos
 tags: []
-image: https://ogimg.infoglobo.com.br/in/23398977-649-b03/FT1086A/652/Flavio-Bolsonaro.jpg
+image: https://ogimg.infoglobo.com.br/in/23398977-649-fa7/FT1086A/760/Flavio-Bolsonaro.jpg
 ---
 
 Tem chamado a atenção o apoio a Flávio Bolsonaro no Twitter em países beeem distantes do Brasil. Na terça-feira, quando a situação de Flávio no caso Queiroz complicou, a hashtag #FlavioPresidente entrou nos trending topics de Cingapura, Bielorrússia, Malásia e Ucrânia.
