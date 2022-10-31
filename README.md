@@ -1,29 +1,25 @@
-## Contexto
+# Tá tudo ok...
 
 A eleição de 2018 foi desgastante e traumática. Foram dias virados e horas
 perdidas tentando defender o óbvio. Defender que não era boa ideia eleger quem
 defende tortura. Argumentar que um autoritário no topo do poder executivo
-traria problemas para a frágil democracia brasileira. Evidenciar que seu
-óbvio despreparo causaria sérios retrocessos ao país.
+traria problemas para a frágil democracia brasileira. Evidenciar que seu óbvio
+despreparo causaria sérios retrocessos ao país.
 
-Nada vai mudar... disseram. As instituições continuariam funcionando e nossa
-sólida democracia não seria afetada... replicaram. A corrupção seria
-extirpada... garantiram. Estariam certos?
+Nada vai mudar... disseram. As instituições continuarão funcionando...
+replicaram. Nossa democracia não será afetada... prenunciaram. A corrupção
+será extirpada... garantiram. Estariam certos?
 
-Assim que começou o [Tá tudo ok](https://tatudoquei.github.io/). Com o objetivo
-de documentar os retrocessos causados pelo governo Bolsonaro da eleição de
-2018, até o fim de seu governo.
+Assim que começou o [Tá tudo ok](https://tatudoquei.github.io/) com o objetivo
+de documentar os retrocessos causados pelo governo Bolsonaro---da sua eleição em
+2018, até o fim de seu governo. <-- **EM BREVE**
 
 ## Conteúdo
 
-Compilado de notícias em ordem cronológica reversa com links para as matérias
-originais. Os posts estão divididos em quatro categorias:
+Compilado de notícias em ordem cronológica reversa divididas por categorias
+e assuntos. Exemplos:
 
-- **avisamos:** aqueles retrocessos já esperados
-- **refletimos:** textos que contextualizam ações do governo
-- **resistimos:** exemplos de resistência
-- **recuadas:** todas as recuadas
+**Categorias:** avisamos, refletimos, resistimos, recuadas.
 
-Devido a enorme quantidade de notícias, nem todos os posts estão categorizados
-ou contém marcadores descritivos (saúde, educação, etc).
+**Assuntos:** saúde, ciência, economia, meio ambiente, educação.
 
