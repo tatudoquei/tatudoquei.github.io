@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2022-08-24 22:55:52
 pub_date: 2022-08-24 22:55:52
-time_added: 2022-09-17 20:05:00
+time_added: 2022-11-23 22:34:04
 category: 
 tags: []
 image: https://jacobin.com.br/wp-content/uploads/2022/08/IMG_2879-1024x682-1.jpeg
