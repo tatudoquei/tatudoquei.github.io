@@ -6,7 +6,7 @@ title: >-
 author: Tatu D'Oquei
 date: 2023-01-12 18:40:33
 pub_date: 2023-01-12 18:40:33
-time_added: 2023-01-14 09:19:23
+time_added: 2023-01-21 10:20:11
 category: 
 tags: []
 image: https://apublica.org/wp-content/uploads/2023/01/Capa_Facebook_Em-dia-de-motociata-em-SP-cartao-corporativo-pagou-mais-de-R-62-mil-em-uma-lanchonete.png
