@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-04 22:57:23
 pub_date: 2019-11-04 22:57:23
 time_added: 2019-11-07 15:29:24
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/UeOCqrU-802FrJxaSOEDlCzAPwE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/2/L/rwXHfgSuaiZtMyBNGIDQ/gilmar-mendes2.jpg
 ---

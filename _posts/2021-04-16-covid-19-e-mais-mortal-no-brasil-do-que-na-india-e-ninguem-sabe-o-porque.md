@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-16 10:53:00
 pub_date: 2021-04-16 10:53:00
 time_added: 2021-04-25 06:56:25
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24974441-212-a84/FT1086A/92179378_Sao-Paulo-SP-25032021Sepultamentos-Cemiterio-Vila-Formosa-SPOs-sepultamentos-no-cemit.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-25 11:37:21
 pub_date: 2020-03-25 11:37:21
 time_added: 2020-03-25 12:37:21
-category: 
+categories: []
 tags: []
 image: https://www.diariodocentrodomundo.com.br/wp-content/uploads/2020/03/tinga.jpg
 ---

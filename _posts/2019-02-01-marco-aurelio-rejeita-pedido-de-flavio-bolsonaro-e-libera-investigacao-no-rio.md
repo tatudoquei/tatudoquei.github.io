@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-01 10:19:25
 pub_date: 2019-02-01 10:19:25
 time_added: 2019-12-23 21:37:44
-category: bandido bom
+categories: [bandido bom, refletimos]
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2019/01/flavio-960x630.jpg
 ---

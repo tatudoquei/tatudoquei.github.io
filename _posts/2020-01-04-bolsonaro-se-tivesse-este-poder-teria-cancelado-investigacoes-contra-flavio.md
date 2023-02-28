@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-04 18:59:00
 pub_date: 2020-01-04 18:59:00
 time_added: 2020-01-05 08:20:24
-category: avisamos
+categories: [avisamos, bandido bom]
 tags: []
 image: https://conteudo.imguol.com.br/c/interacao/facebook/uol-noticias-600px.jpg
 ---

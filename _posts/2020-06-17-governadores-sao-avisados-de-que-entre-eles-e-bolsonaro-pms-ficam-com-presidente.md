@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-17 16:51:39
 pub_date: 2020-06-17 16:51:39
 time_added: 2020-06-18 12:15:23
-category: 
+categories: []
 tags: []
 image: http://blogs.correiobraziliense.com.br/vicente/wp-content/uploads/sites/16/2020/05/PMDF.jpg
 ---

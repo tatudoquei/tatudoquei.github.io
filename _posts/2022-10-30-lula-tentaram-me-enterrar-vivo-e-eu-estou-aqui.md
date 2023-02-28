@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-30 19:54:00
 pub_date: 2022-10-30 19:54:00
 time_added: 2022-10-31 00:08:35
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/86/2022/10/30/o-presidente-eleito-lula-pt-em-pronunciamento-apos-apuracao-das-urnas-1667174244753_v2_615x300.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-11 16:49:00
 pub_date: 2019-06-11 16:49:00
 time_added: 2019-06-13 18:56:21
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/0f/2019/06/11/moro-disse-nao-ter-visto-nada-ilegal-nas-conversas-atribuidas-a-ele-pelo-site-the-intercept-brasil-1560280782726_v2_615x300.jpg
 ---

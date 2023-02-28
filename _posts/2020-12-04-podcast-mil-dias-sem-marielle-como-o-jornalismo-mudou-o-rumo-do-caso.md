@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-04 13:39:37
 pub_date: 2020-12-04 13:39:37
 time_added: 2020-12-04 19:30:40
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2020/12/podcast-mil-dias-sem-marielle-como-o-jornalismo-mudou-o-rumo-do-caso-img2.jpg
 ---

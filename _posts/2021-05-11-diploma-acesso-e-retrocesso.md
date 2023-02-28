@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-11 18:39:23
 pub_date: 2021-05-11 18:39:23
 time_added: 2021-05-11 20:39:23
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2021/05/REDESigualdades.jpg
 ---

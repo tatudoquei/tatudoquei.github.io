@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-30 20:17:02
 pub_date: 2020-03-30 20:17:02
 time_added: 2020-03-30 22:17:02
-category: 
+categories: []
 tags: []
 image: https://almapreta.com/images/base_alcantara_agbr_dois.jpg
 ---

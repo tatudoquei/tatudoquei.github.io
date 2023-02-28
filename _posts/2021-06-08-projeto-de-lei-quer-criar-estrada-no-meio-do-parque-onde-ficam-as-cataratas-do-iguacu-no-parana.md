@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-08 04:00:00
 pub_date: 2021-06-08 04:00:00
 time_added: 2021-06-13 20:55:32
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24621151-ffa-f41/FT1086A/80423333_ECParque-de-Foz-do-Iguacu-visitacao-das-Cataratas.-Foto-Divulgacao.jpg
 ---

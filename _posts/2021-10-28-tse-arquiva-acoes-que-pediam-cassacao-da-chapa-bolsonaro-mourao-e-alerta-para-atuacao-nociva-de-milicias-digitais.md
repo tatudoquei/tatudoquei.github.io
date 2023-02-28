@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-28 12:48:33
 pub_date: 2021-10-28 12:48:33
 time_added: 2021-10-30 17:33:29
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/IVLJCiMQ_wSp01hCZOuaLTftOOk=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/q/o/Xgf1NQQO2mCykLE24wFA/bolsonaro-evento-planalto.jpg
 ---

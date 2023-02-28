@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-02 13:21:36
 pub_date: 2020-03-02 13:21:36
 time_added: 2020-03-02 14:21:36
-category: 
+categories: []
 tags: []
 image: https://ambiencia.blogfolha.uol.com.br/files/2020/03/athayde.jpg
 ---

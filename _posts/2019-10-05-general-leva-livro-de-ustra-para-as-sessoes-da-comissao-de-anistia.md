@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-05 06:00:00
 pub_date: 2019-10-05 06:00:00
 time_added: 2019-10-06 08:37:22
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23778299-c9d-498/FT1086A/652/General-Luiz-Eduardo-Rocha-Paiva.jpg
 ---

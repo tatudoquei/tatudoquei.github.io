@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-06 20:59:12
 pub_date: 2021-07-06 20:59:12
 time_added: 2021-07-25 16:47:09
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2021/07/bolsonaro-4.png?w=415&h=270&crop=1
 ---

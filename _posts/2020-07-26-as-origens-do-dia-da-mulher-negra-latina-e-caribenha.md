@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-26 04:17:01
 pub_date: 2017-07-24 16:17:04
 time_added: 2020-07-26 04:17:01
-category: 
+categories: []
 tags: []
 image: https://i2.wp.com/www.geledes.org.br/wp-content/uploads/2017/07/2marcha-das-mulheres-negras.jpg?fit=480%2C256&ssl=1
 ---

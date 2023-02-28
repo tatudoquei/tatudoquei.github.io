@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-10 09:00:31
 pub_date: 2020-04-10 09:00:31
 time_added: 2020-04-11 22:34:11
-category: 
+categories: []
 tags: []
 image: https://abrilvejasp.files.wordpress.com/2020/04/fernando-lucena.jpg.jpg?quality=70&strip=info&crop=0px%2C267px%2C800px%2C545px&resize=680%2C453
 ---

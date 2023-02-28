@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-18 20:49:05
 pub_date: 2020-05-18 20:49:05
 time_added: 2020-05-18 22:49:05
-category: 
+categories: []
 tags: []
 image: https://img.lemde.fr/2020/05/17/67/0/2564/1282/1440/720/60/0/5ca3841_5676011-01-06.jpg
 ---

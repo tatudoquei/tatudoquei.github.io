@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-09 02:30:00
 pub_date: 2021-04-09 02:30:00
 time_added: 2021-05-16 17:48:56
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/7h8PozOfkQGxhJWkYsQRxir3hIM=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2021/04/09/rodrigopacheco.jpg
 ---

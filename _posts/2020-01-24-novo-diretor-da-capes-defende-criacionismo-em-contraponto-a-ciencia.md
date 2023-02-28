@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-24 18:40:33
 pub_date: 2020-01-24 18:40:33
 time_added: 2020-01-25 12:59:59
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2019/12/benedito-mackenzie-e1576691236169.jpg
 ---

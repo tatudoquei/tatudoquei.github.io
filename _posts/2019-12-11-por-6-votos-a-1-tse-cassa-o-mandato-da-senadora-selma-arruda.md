@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-11 02:42:39
 pub_date: 2019-12-11 02:42:39
 time_added: 2019-12-11 07:17:55
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2016/10/selma-arruda.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

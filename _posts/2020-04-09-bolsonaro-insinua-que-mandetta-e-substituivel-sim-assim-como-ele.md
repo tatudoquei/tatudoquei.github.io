@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-09 20:00:00
 pub_date: 2020-04-09 20:00:00
 time_added: 2020-04-10 10:44:06
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/8f/2020/04/09/o-presidente-jair-bolsonaro-durante-live-ao-lado-do-presidente-da-caixa-pedro-guimaraes-1586478566920_v2_615x300.jpg
 ---

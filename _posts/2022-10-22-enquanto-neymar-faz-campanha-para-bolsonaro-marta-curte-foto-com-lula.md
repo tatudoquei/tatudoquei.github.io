@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-22 16:45:00
 pub_date: 2022-10-22 16:45:00
 time_added: 2022-10-28 20:39:13
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/esporte/41/2021/07/27/marta-disputa-as-olimpiadas-de-toquio-pela-selecao-brasileira-1627417009042_v2_615x300.jpg
 ---

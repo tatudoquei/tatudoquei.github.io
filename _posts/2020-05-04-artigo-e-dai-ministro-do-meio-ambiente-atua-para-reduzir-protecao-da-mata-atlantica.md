@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-04 10:00:26
 pub_date: 2020-05-04 10:00:26
 time_added: 2020-05-04 22:49:12
-category: 
+categories: []
 tags: []
 image: https://sustentabilidade.estadao.com.br/blogs/ambiente-se/wp-content/uploads/sites/92/2020/05/whatsapp-image-2020-05-04-at-114501_040520204617.jpeg
 ---

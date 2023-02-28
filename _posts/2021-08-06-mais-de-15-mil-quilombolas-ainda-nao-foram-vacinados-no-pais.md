@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-06 16:38:41
 pub_date: 2021-08-06 16:38:41
 time_added: 2021-08-20 21:14:21
-category: 
+categories: []
 tags: []
 image: https://almapreta.com/images/2021/08/vacinacao-quilombola.jpg
 ---

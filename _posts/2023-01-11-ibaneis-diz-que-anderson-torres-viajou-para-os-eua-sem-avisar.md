@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-11 23:18:00
 pub_date: 2023-01-11 23:18:00
 time_added: 2023-01-14 14:31:13
-category: 
+categories: []
 tags: []
 image: https://img.r7.com/images/anderson-torres-aperta-a-mao-de-ibaneis-rocha-ao-final-de-reuniao-11012023201038277?crop_position=c&dimensions=340x191
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-31 22:00:01
 pub_date: 2021-03-31 22:00:01
 time_added: 2021-05-16 16:58:56
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/03/JairBolsonaro-AguasBrasieliras-Mascara-Covid19-Dia-InternacionalDasAguas-MascaraPersonalizada-22Mar2021-320-1200x630.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-13 07:00:40
 pub_date: 2019-06-13 07:00:40
 time_added: 2019-06-13 19:03:29
-category: 
+categories: []
 tags: []
 image: https://sustentabilidade.estadao.com.br/blogs/ambiente-se/wp-content/uploads/sites/92/2019/06/cavalo.jpg
 ---

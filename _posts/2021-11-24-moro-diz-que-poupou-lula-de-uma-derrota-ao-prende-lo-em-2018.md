@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-24 15:30:35
 pub_date: 2021-11-24 15:30:35
 time_added: 2021-11-25 02:38:07
-category: 
+categories: []
 tags: []
 image: https://www.cartacapital.com.br/wp-content/uploads/2020/12/SMJB.jpg
 ---

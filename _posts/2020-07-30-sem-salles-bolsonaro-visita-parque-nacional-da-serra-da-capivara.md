@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-30 19:40:52
 pub_date: 2020-07-30 19:40:52
 time_added: 2020-08-04 12:51:36
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2020/07/Oeco_Bolsonaro-Serra-da-Capivara_Alan-Santos.jpg
 ---

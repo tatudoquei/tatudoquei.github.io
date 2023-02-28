@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-03 04:21:20
 pub_date: 2022-10-03 04:21:20
 time_added: 2022-10-03 00:21:20
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2022/09/orcamento_redes_280922.jpg
 ---

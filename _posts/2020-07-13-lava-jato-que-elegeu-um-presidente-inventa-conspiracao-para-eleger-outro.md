@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-13 07:08:00
 pub_date: 2020-07-13 07:08:00
 time_added: 2020-07-14 20:57:44
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2b/2020/05/15/moro-cochicha-com-bolsonaro-1589540796555_v2_750x421.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-27 11:57:00
 pub_date: 2020-11-27 11:57:00
 time_added: 2020-11-27 19:41:48
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/4b/2020/11/26/mapa-da-funai-indica-plano-de-reducao-linha-tracejada-da-area-interditada-para-protecao-de-indios-isolados-em-itunaitata-no-para-1606418836698_v2_615x300.jpg
 ---

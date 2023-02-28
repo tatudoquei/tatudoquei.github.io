@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-16 12:55:39
 pub_date: 2022-10-16 12:55:39
 time_added: 2022-10-16 14:55:39
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2022/10/redes_stf.png
 ---

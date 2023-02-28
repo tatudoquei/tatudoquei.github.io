@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-09 17:17:00
 pub_date: 2018-12-09 17:17:00
 time_added: 2018-12-09 22:24:39
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f7/2018/12/09/09dez2018----o-advogado-ricardo-salles-futuro-ministro-do-meio-ambiente-1544375764772_v2_615x300.jpg
 ---

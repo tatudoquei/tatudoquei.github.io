@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-19 21:00:00
 pub_date: 2020-03-19 21:00:00
 time_added: 2020-03-20 13:31:51
-category: 
+categories: []
 tags: []
 image: https://i1.wp.com/www.jornalismo.art/wp-content/uploads/2020/03/jair-bolsonaro.jpg?fit=1400%2C733&ssl=1
 ---

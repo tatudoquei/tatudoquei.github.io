@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-08 21:50:47
 pub_date: 2020-04-08 21:50:47
 time_added: 2020-04-14 21:41:34
-category: 
+categories: []
 tags: []
 image: https://drauziovarella.uol.com.br/wp-content/uploads/2020/04/Depositphotos_172520142_xl-2015-Copia.jpg
 ---

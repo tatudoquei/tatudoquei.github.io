@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-13 18:58:00
 pub_date: 2021-04-13 18:58:00
 time_added: 2021-05-16 20:18:24
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24969620-3ba-3cb/FT1086A/eduardo_gomes.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-26 01:11:45
 pub_date: 2019-06-26 01:11:45
 time_added: 2019-06-27 05:35:14
-category: 
+categories: []
 tags: []
 image: https://ep00.epimg.net/brasil/imagenes/2019/06/26/politica/1561510485_619121_1561511220_rrss_normal.jpg
 ---

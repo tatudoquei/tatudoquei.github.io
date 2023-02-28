@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-10 13:45:57
 pub_date: 2019-06-10 13:45:57
 time_added: 2019-06-11 05:53:07
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2019/06/photo5184012972538832909-1-1200x630.jpg
 ---

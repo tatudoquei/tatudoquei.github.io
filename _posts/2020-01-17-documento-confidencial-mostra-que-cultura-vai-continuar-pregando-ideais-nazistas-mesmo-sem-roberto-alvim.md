@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-17 22:28:00
 pub_date: 2020-01-17 22:28:00
 time_added: 2020-01-18 14:53:55
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/01/17-01-2020-alvim-redes-1579296580.jpg
 ---

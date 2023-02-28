@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-20 15:41:21
 pub_date: 2021-06-20 15:41:21
 time_added: 2021-06-20 12:41:21
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/especial_500mil-teaser.jpg/alternates/LANDSCAPE_768/especial_500mil-teaser.jpg
 ---

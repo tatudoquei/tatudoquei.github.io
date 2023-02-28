@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-13 14:00:07
 pub_date: 2023-02-13 14:00:07
 time_added: 2023-02-26 18:40:24
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2023/02/Capa_Facebook_Atas-secretas-revelam-plano-para-ocultar-informacoes-da-populacao.png
 ---

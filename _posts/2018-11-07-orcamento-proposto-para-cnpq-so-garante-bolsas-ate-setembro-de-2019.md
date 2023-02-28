@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-11-07 11:56:00
 pub_date: 2018-11-07 11:56:00
 time_added: 2018-11-08 08:17:46
-category: avisamos
+categories: [avisamos]
 tags: [ciência]
 image: https://f.i.uol.com.br/fotografia/2018/09/10/15366217955b96fce3b855d_1536621795_3x2_xl.jpg
 ---

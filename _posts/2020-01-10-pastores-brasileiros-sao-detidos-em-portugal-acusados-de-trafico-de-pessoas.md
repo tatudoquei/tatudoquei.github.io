@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-10 11:13:00
 pub_date: 2020-01-10 11:13:00
 time_added: 2020-01-11 20:30:00
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/bd/2020/01/10/pastores-brasileiros-sao-detidos-em-portugal-acusados-de-trafico-de-pessoas-1578669168306_v2_615x300.jpg
 ---

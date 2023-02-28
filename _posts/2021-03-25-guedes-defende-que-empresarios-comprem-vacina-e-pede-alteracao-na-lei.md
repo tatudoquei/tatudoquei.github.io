@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-25 21:34:00
 pub_date: 2021-03-25 21:34:00
 time_added: 2021-03-27 19:03:02
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/ce/2021/03/25/paulo-guedes-ministro-da-economia-1616678465161_v2_615x300.jpg
 ---

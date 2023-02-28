@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-22 14:43:55
 pub_date: 2020-04-22 14:43:55
 time_added: 2020-04-27 11:14:44
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/04/covid-verificado1-1.png
 ---

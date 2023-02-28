@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-30 14:36:00
 pub_date: 2019-10-30 14:36:00
 time_added: 2019-11-03 20:13:52
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24051245-907-0c2/FT1086A/652/WhatsApp-Image-2019-10-30-at-15.28.32-1.jpeg.jpg
 ---

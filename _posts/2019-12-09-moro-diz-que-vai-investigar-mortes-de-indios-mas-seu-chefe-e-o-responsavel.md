@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-09 15:31:00
 pub_date: 2019-12-09 15:31:00
 time_added: 2019-12-09 23:42:43
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/12/cacique-615x300.jpg
 ---

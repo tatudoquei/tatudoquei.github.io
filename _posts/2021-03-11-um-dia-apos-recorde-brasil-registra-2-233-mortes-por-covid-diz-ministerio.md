@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-11 18:21:00
 pub_date: 2021-03-11 18:21:00
 time_added: 2021-03-21 09:17:12
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/44/2021/03/02/26fev21---cemiterio-parque-taruma-em-manaus-primeiro-estado-brasileiro-a-enfrentar-colapso-no-sistema-de-saude-1614729527224_v2_615x300.jpg
 ---

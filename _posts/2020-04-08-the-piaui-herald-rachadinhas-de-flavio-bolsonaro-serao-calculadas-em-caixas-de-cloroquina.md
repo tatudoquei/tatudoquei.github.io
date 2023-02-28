@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-08 14:59:00
 pub_date: 2020-04-08 14:59:00
 time_added: 2020-04-08 21:50:22
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2020/04/herald080420_redes.jpg
 ---

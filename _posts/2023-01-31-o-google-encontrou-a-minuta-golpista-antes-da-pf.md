@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-31 20:34:32
 pub_date: 2023-01-31 20:34:32
 time_added: 2023-02-03 21:21:29
-category: 
+categories: []
 tags: []
 image: https://www.ocafezinho.com/wp-content/uploads/2013/08/google.jpg
 ---

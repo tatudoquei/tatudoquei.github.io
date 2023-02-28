@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-26 05:33:00
 pub_date: 2019-08-26 05:33:00
 time_added: 2019-08-27 06:29:45
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/_YkKIcjThnPvh0w8FWndAlJodHY=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/08/09/83930372_bsb_-_brasilia_-_brasil_-_01-08-2019_-_brasil_-_01-08-2019_-_presidente_jair_bolsonaro_e_o.jpg
 ---

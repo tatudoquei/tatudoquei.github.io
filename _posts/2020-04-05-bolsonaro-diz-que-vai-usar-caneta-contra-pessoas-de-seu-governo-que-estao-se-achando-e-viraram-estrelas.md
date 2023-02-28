@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-05 17:09:00
 pub_date: 2020-04-05 17:09:00
 time_added: 2020-04-06 15:15:43
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24353100-479-58f/FT1086A/652/87752280_FILE-PHOTO-Brazils-President-Jair-Bolsonaro-looks-on-as-he-leaves-the-Alvorada-Palace.jpg
 ---

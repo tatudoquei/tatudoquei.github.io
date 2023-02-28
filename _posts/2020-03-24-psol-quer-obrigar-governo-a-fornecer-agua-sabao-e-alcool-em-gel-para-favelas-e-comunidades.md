@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-24 14:04:06
 pub_date: 2020-03-24 14:04:06
 time_added: 2020-03-25 12:37:38
-category: 
+categories: []
 tags: []
 image: https://psol50.org.br/wp-content/uploads/2020/03/Favela-da-Rocinha.jpg
 ---

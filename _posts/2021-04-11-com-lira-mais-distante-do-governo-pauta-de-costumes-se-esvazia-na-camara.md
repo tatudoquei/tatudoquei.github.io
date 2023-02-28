@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-11 02:30:00
 pub_date: 2021-04-11 02:30:00
 time_added: 2021-05-16 18:23:40
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24965579-cb0-5a2/FT1086A/91712591_Brasilia-20-02-2021Entrevista-exclusiva-com-opresidente-da-Camara-dos-Deputados-Art.jpg
 ---

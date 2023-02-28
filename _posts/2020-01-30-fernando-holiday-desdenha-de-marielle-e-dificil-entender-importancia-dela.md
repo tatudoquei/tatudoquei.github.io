@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-30 08:53:00
 pub_date: 2020-01-30 08:53:00
 time_added: 2020-01-31 15:54:30
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/198/files/2020/01/marielle-615x300.jpg
 ---

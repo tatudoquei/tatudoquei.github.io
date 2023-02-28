@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-01 10:54:00
 pub_date: 2020-01-01 10:54:00
 time_added: 2020-01-01 21:29:34
-category: avisamos
+categories: [avisamos]
 tags: [diplomacia]
 ---
 

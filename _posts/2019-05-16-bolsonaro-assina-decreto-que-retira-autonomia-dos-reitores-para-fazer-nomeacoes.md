@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-16 21:46:12
 pub_date: 2019-05-16 21:46:12
 time_added: 2019-05-17 07:50:45
-category: 
+categories: []
 tags: []
 image: https://www.opovo.com.br/_midias/jpg/2019/05/16/jair_bolsonaro_evaristo_sa_afp-2749073.jpg
 ---

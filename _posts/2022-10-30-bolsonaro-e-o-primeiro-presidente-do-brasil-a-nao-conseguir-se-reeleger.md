@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-30 19:04:00
 pub_date: 2022-10-30 19:04:00
 time_added: 2022-10-31 00:49:14
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a1/2022/10/30/30out2022---presidente-jair-bolsonaro-vota-em-colegio-da-vila-militar-no-rio-de-janeiro-no-segundo-turno-da-eleicao-presidencial-1667130964071_v2_615x300.jpg
 ---

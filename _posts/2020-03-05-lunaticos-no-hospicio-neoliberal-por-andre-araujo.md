@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-05 22:44:49
 pub_date: 2018-08-25 15:48:07
 time_added: 2020-03-05 22:44:49
-category: 
+categories: []
 tags: []
 image: https://jornalggn.com.br/sites/default/files/capa/destaques-secundarios/paulo_guedes-globonews.jpg
 ---

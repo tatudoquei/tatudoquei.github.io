@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-10 05:08:00
 pub_date: 2019-06-10 05:08:00
 time_added: 2019-06-11 05:50:56
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2019/06/vazajatolimparcongresso-615x300.jpg
 ---

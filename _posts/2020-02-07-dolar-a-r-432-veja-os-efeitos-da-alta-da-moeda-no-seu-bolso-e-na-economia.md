@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-07 09:23:00
 pub_date: 2020-02-07 09:23:00
 time_added: 2020-02-07 20:09:18
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24219333-673-ce3/FT1086A/652/Cedula_moeda_dolar.jpg
 ---

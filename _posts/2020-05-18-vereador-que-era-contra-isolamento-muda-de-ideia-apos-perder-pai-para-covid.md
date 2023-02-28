@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-18 14:31:00
 pub_date: 2020-05-18 14:31:00
 time_added: 2020-05-19 06:51:30
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/78/2020/05/18/18mai2020---sargento-silvano-psd-vereador-de-belem-1589829260134_v2_615x300.jpg
 ---

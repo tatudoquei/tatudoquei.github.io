@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-07 16:19:00
 pub_date: 2020-02-07 16:19:00
 time_added: 2020-02-07 23:49:21
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/dc/2019/12/06/pms-foram-ao-89-dp-distrito-policial-prestar-depoimento-sobre-tragedia-ocorrida-em-paraisopolis-1575660586795_v2_750x421.jpg
 ---

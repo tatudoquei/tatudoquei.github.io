@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-22 15:23:02
 pub_date: 2020-05-22 15:23:02
 time_added: 2020-05-22 18:40:09
-category: 
+categories: []
 tags: []
 image: https://secureservercdn.net/198.71.233.138/dpp.cce.myftpupload.com/wp-content/uploads/2020/05/Renina-Katz.png
 ---

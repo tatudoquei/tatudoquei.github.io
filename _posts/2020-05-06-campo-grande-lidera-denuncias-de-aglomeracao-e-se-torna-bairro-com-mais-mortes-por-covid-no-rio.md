@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-06 07:25:53
 pub_date: 2020-05-06 07:25:53
 time_added: 2020-05-06 11:51:57
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/pPssoBwWOT-U1vYDZBWCsfe5g5c=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/z/G/uOLfy0SNqmfLyU09ihUg/1-campo-grande.jpg
 ---

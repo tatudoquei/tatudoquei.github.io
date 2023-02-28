@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-29 12:39:00
 pub_date: 2020-02-29 12:39:00
 time_added: 2020-03-01 11:53:54
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/58/2020/02/10/chuvas-causam-alagamentos-na-cidade-de-sao-paulo-1581327098389_v2_615x300.jpg
 ---

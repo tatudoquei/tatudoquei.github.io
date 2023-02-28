@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-11-28 15:08:00
 pub_date: 2018-11-28 15:08:00
 time_added: 2019-12-23 21:15:15
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://s2.glbimg.com/Y3vSWxwI-RYpRlSPxuX5W8JEZmA=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2018/11/28/file1-9.jpeg
 ---

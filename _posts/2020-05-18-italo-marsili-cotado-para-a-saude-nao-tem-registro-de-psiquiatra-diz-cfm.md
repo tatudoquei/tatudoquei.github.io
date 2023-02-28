@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-18 20:11:00
 pub_date: 2020-05-18 20:11:00
 time_added: 2020-05-18 22:49:57
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2020/05/18135333/medxa.jpg
 ---

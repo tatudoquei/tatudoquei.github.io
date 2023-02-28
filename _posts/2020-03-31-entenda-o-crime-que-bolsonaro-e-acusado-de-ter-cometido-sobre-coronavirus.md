@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-31 14:00:00
 pub_date: 2020-03-31 14:00:00
 time_added: 2020-04-01 05:26:21
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f4/2020/03/31/jair-bolsonaro-e-luiz-henrique-mandetta-durante-conversa-com-a-frente-nacional-de-prefeitos-1585643897825_v2_750x421.jpg
 ---

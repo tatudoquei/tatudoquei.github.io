@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-07 22:05:53
 pub_date: 2021-02-07 22:05:53
 time_added: 2021-02-07 23:05:53
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Doria-e-Gorinchteyn/alternates/LANDSCAPE_768/Doria%20e%20Gorinchteyn
 ---

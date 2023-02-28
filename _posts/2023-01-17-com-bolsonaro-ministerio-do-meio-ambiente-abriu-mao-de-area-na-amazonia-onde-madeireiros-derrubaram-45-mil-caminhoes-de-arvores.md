@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-17 18:01:00
 pub_date: 2023-01-17 18:01:00
 time_added: 2023-01-18 06:49:56
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2023/01/amazonia-madeireiros-ipe-jatoba-redes1.jpg
 ---

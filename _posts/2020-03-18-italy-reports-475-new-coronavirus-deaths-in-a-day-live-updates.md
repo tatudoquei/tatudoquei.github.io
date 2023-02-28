@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-18 20:59:00
 pub_date: 2020-03-18 20:59:00
 time_added: 2020-03-18 19:36:28
-category: 
+categories: []
 tags: []
 image: https://www.aljazeera.com/mritems/Images/2020/3/18/c0a5276c9d364b97bd12c89e38f0a877_18.jpg
 ---

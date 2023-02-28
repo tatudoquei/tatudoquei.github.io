@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-22 22:00:00
 pub_date: 2019-10-22 22:00:00
 time_added: 2019-11-03 09:17:48
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Gustavo-Bebianno-%C3%81lvaro-Ant%C3%B4nio-e-Luciano-Bivar/ALTERNATES/LANDSCAPE_720/Gustavo%20Bebianno,%20%C3%81lvaro%20Ant%C3%B4nio%20e%20Luciano%20Bivar
 ---

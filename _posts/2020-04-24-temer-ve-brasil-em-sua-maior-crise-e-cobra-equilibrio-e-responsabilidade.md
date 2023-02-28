@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-24 14:21:00
 pub_date: 2020-04-24 14:21:00
 time_added: 2020-04-24 20:24:01
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f9/2019/09/16/o-ex-presidente-michel-temer-mdb-durante-entrevista-no-programa-roda-viva-1568687007682_v2_615x300.png
 ---

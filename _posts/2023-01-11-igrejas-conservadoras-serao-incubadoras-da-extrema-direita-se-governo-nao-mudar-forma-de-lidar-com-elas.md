@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-11 08:04:00
 pub_date: 2023-01-11 08:04:00
 time_added: 2023-01-14 09:03:18
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2023/01/REDES-vozes-ronilso-igrejas-encubadora-direita.jpg
 ---

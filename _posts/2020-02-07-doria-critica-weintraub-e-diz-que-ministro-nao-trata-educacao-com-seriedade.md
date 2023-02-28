@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-07 10:34:00
 pub_date: 2020-02-07 10:34:00
 time_added: 2020-02-08 00:03:36
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/5e/2020/01/20/17jan2020---o-governador-de-sao-paulo-joao-doria-psdb-anuncia-extensao-da-linha-2-verde-do-metro-1579567379411_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-26 14:27:53
 pub_date: 2020-03-26 14:27:53
 time_added: 2020-03-29 13:40:45
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2020/03/2020-03-26t134026z_1_lynxmpeg2p18h_rtroptp_4_health-coronavirus-facemasks.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

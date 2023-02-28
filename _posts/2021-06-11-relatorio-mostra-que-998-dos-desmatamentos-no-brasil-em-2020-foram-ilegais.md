@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-11 16:29:17
 pub_date: 2021-06-11 16:29:17
 time_added: 2021-07-04 08:31:05
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/06/Area-de-floresta-derrubada-em-POrto-Velho2-RO.-Foto-Bruno-Kelly-Amazonia-Real..jpg
 ---

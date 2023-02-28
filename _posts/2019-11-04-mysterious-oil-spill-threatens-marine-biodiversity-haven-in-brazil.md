@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-04 21:50:00
 pub_date: 2019-11-04 21:50:00
 time_added: 2019-11-08 20:50:34
-category: 
+categories: []
 tags: []
 image: https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/oilspill_1280p.jpg?itok=PDfgKx4a
 ---

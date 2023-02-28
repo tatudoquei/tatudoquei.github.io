@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-21 12:35:00
 pub_date: 2020-04-21 12:35:00
 time_added: 2020-04-22 18:09:00
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/00/2020/04/14/governador-do-rj-wilson-witzel-1586893450952_v2_615x300.jpg
 ---

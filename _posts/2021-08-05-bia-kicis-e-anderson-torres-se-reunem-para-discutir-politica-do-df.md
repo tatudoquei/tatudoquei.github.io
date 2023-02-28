@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-05 17:35:26
 pub_date: 2021-08-05 17:35:26
 time_added: 2021-08-20 21:15:13
-category: 
+categories: []
 tags: []
 image: https://blogs.correiobraziliense.com.br/cbpoder/wp-content/uploads/sites/5/2021/08/bia-kicis-anderson-torres-e1628184822927.jpg
 ---

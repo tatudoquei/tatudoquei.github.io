@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-14 16:37:17
 pub_date: 2020-04-14 16:37:17
 time_added: 2020-04-15 12:45:49
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/04/20200403_teste_coronavirus.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-12 07:00:00
 pub_date: 2020-02-12 07:00:00
 time_added: 2020-02-12 07:32:11
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2020/02/bolsa-agrotoxico-empresas-recebem-isencoes-de-impostos-de-r-10-bilhoes-ao-ano-img2.jpg
 ---

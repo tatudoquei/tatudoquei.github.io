@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-07 14:53:48
 pub_date: 2020-02-07 14:53:48
 time_added: 2020-02-09 00:36:41
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/09/20190920_00_biodiversidade3.jpg
 ---

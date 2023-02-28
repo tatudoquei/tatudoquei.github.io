@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-06 15:34:24
 pub_date: 2020-04-06 15:34:24
 time_added: 2020-04-08 13:16:55
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/01/20200130_00_populacao_pesquisa.jpg
 ---

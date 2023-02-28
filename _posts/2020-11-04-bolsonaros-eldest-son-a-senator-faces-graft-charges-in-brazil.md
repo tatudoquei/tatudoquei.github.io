@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-04 15:35:29
 pub_date: 2020-11-04 15:35:29
 time_added: 2020-11-05 04:58:43
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/11/04/world/04brazil/04brazil-facebookJumbo.jpg
 ---

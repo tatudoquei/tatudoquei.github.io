@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-30 06:16:00
 pub_date: 2019-04-30 06:16:00
 time_added: 2019-05-01 09:12:09
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2019/04/abraham-weintraub-615x300.jpg
 ---

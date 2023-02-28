@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-21 14:25:30
 pub_date: 2021-07-21 14:25:30
 time_added: 2021-07-22 22:13:35
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2021/07/20.07-DWHI-653x350.png
 ---

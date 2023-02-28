@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-26 17:00:50
 pub_date: 2020-04-26 17:00:50
 time_added: 2020-04-27 07:11:16
-category: 
+categories: []
 tags: []
 image: https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F57a43d40-bb14-4f7d-a032-9268c5561fdc.jpg?source=next-opengraph&fit=scale-down&width=900
 ---

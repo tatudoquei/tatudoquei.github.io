@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-28 00:14:48
 pub_date: 2020-05-28 00:14:48
 time_added: 2020-05-28 18:35:21
-category: 
+categories: []
 tags: []
 image: https://brpolitico.com.br/wp-content/uploads/sites/683/2020/05/captura-de-tela-2020-05-28-as-142311_280520202246.png
 ---

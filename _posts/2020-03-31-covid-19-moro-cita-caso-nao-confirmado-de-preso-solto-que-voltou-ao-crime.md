@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-31 16:45:00
 pub_date: 2020-03-31 16:45:00
 time_added: 2020-04-01 05:35:20
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/80/2020/03/02/sergio-moro-1583145818524_v2_615x300.jpg
 ---

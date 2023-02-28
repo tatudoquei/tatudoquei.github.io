@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-06 11:00:00
 pub_date: 2019-12-06 11:00:00
 time_added: 2019-12-18 20:18:05
-category: 
+categories: []
 tags: []
 image: https://www.sciencenews.org/wp-content/uploads/2019/12/120719_scientistsrights_feat_opt2.png
 ---

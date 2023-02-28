@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-12 07:00:00
 pub_date: 2021-10-12 07:00:00
 time_added: 2021-10-17 15:06:27
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/81/2021/09/28/a-advogada-bruna-morato-que-representa-medicos-da-prevent-senior-durante-depoimento-a-cpi-da-covid-1632843705173_v2_615x300.jpg
 ---

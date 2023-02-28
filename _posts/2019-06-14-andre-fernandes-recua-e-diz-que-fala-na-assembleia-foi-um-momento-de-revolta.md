@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-14 10:26:13
 pub_date: 2019-06-14 10:26:13
 time_added: 2019-06-17 11:33:56
-category: recuadas
+categories: [recuadas]
 tags: []
 image: https://www.opovo.com.br/_midias/jpg/2019/06/12/07_02_2019_dep__andre_fernandes_psl_plenario_foto_maximo_moura_31_ok_740x493-3013214.jpg
 ---

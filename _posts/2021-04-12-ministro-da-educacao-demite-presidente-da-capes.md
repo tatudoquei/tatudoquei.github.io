@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-12 10:51:00
 pub_date: 2021-04-12 10:51:00
 time_added: 2021-05-16 18:26:04
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24231088-fc9-585/FT1086A/dr.-benedito-guimaraes-aguiar-neto-6.jpg
 ---

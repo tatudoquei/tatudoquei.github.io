@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-10 10:00:00
 pub_date: 2021-04-10 10:00:00
 time_added: 2021-04-10 17:22:57
-category: 
+categories: []
 tags: []
 image: https://www.correio24horas.com.br//fileadmin/_processed_/a/0/csm_ju_confinada3_fe0634efbf.jpeg
 ---

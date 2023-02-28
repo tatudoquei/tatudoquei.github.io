@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-23 17:41:06
 pub_date: 2020-06-23 17:41:06
 time_added: 2021-03-24 19:55:54
-category: 
+categories: []
 tags: []
 image: https://www12.senado.leg.br/noticias/materias/2020/06/23/no-congresso-ministro-anuncia-que-24-da-populacao-fara-teste-de-covid-19/20200422_00007ls.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-04 18:35:00
 pub_date: 2021-02-04 18:35:00
 time_added: 2021-02-06 12:09:21
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/7c/2021/01/26/manaus-am-26-1-2021---o-hospital-nilton-lins-hnl-comeca-a-receber-pacientes-a-partir-desta-terca-feira-26-o-ministro-da-saude-eduardo-pazuello-o-hospital-e-referencia-para-atendimento-de-1611698539138_v2_615x300.jpg
 ---

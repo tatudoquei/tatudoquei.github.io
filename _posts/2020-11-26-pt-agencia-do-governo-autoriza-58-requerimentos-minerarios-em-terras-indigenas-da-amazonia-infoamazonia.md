@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-26 15:25:18
 pub_date: 2020-11-26 15:25:18
 time_added: 2020-12-17 20:49:39
-category: 
+categories: []
 tags: [meio ambiente]
 image: https://infoamazonia.org/wp-content/uploads/2020/11/GP0STTZZ5_Low_res_SEO.jpg
 ---

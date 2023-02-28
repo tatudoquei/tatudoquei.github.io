@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-23 10:37:00
 pub_date: 2021-03-23 10:37:00
 time_added: 2021-03-23 20:18:01
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/78/2021/03/23/medicos-de-centros-de-referencia-como-hospital-das-clinicas-albert-einstein-e-emilio-ribas-explicam-que-efeitos-colaterais-de-medicamentos-sem-eficacia-estao-prejudicando-o-tratamento-de-doentes-graves-1616495700631_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-23 23:40:02
 pub_date: 2021-06-23 23:40:02
 time_added: 2021-07-04 12:15:50
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/06/Oeco2_Salles-e-Bolsonaro-Alan-Santos-PR.jpg
 ---

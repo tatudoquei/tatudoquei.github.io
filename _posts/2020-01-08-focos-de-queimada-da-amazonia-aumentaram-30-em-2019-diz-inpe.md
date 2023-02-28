@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-08 17:46:00
 pub_date: 2020-01-08 17:46:00
 time_added: 2020-01-10 13:47:59
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://cdn.emtempo.com.br/img/Facebook/180000/vaias-queimada_00185094_0_202001081846.jpg
 ---

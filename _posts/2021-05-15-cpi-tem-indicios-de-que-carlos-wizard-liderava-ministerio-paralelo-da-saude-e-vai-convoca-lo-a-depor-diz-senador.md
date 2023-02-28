@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-15 08:00:35
 pub_date: 2021-05-15 08:00:35
 time_added: 2021-05-18 22:30:56
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/KZt7Orx7mWMu5cVKsKzA6E3Y3Uk=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/c/S/uoAvZvQdOwvfG6rl8x0g/carloswizard3.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-19 21:50:17
 pub_date: 2021-06-19 21:50:17
 time_added: 2021-06-20 12:40:39
-category: 
+categories: []
 tags: []
 image: https://almapreta.com/images/2021/06/atobolsonarospalmapreta.jpeg
 ---

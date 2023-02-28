@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-04 21:11:00
 pub_date: 2020-03-04 21:11:00
 time_added: 2020-03-05 14:11:57
-category: 
+categories: []
 tags: []
 image: https://img.buzzfeed.com/buzzfeed-static/static/2020-03/4/21/enhanced/343512ecdf31/original-506-1583356066-18.jpg?crop=1200:630;0,0
 ---

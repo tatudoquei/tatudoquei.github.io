@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-23 21:12:00
 pub_date: 2020-12-23 21:12:00
 time_added: 2020-12-23 22:07:19
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/86/2020/12/19/o-presidente-jair-bolsonaro-sem-partido-em-cerimonia-de-formatura-de-soldados-da-policia-militar-do-rio-de-janeiro-1608414049888_v2_615x300.jpg
 ---

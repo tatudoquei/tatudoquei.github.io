@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-22 22:26:26
 pub_date: 2021-04-22 22:26:26
 time_added: 2021-05-29 21:17:02
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2021/04/22192526/Fabio-Wajngarten-1.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-16 17:28:27
 pub_date: 2019-04-16 17:28:27
 time_added: 2019-04-18 06:43:55
-category: 
+categories: []
 tags: []
 image: http://www.justificando.com/wp-content/uploads/2019/04/Bolsonaro-quer-um-pais-pobre-triste-assustado-violento-e-preconceituoso-2.png
 ---

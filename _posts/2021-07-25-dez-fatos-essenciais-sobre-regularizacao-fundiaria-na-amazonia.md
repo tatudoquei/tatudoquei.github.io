@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-25 19:45:29
 pub_date: 2021-07-25 19:45:29
 time_added: 2021-07-25 16:45:29
-category: 
+categories: []
 tags: []
 image: https://imazon.org.br/wp-content/uploads/2021/03/10FatosRegularizacaoFundiaria_destaque-scaled.jpg
 ---

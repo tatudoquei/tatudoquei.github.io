@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-22 09:05:49
 pub_date: 2023-01-22 09:05:49
 time_added: 2023-01-26 19:00:40
-category: 
+categories: []
 tags: []
 image: https://www.diariodocentrodomundo.com.br/wp-content/uploads/2021/08/padre_juliolancelotti_alexandre-battibugli_veja-sp.jpg
 ---

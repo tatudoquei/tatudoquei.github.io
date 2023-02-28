@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-20 15:47:00
 pub_date: 2020-03-20 15:47:00
 time_added: 2020-03-22 23:39:09
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/68/2020/03/14/coronavirus-casal-com-mascaras-de-protecao-caminham-pela-5-avenida-em-nova-york-eua-1584204003091_v2_750x421.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-21 16:04:15
 pub_date: 2020-04-21 16:04:15
 time_added: 2020-04-21 19:56:37
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2017/04/STF.jpg
 ---

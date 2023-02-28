@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-11 15:01:25
 pub_date: 2019-04-11 15:01:25
 time_added: 2019-06-09 09:43:49
-category: 
+categories: []
 tags: []
 image: https://blogdacidadania.com.br/wp-content/uploads/2019/04/sus.png
 ---

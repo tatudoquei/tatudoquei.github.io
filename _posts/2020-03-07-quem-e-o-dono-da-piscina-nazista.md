@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-07 12:54:18
 pub_date: 2020-03-07 12:54:18
 time_added: 2020-03-07 13:54:18
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2014/12/piscina-nazista.jpg
 ---

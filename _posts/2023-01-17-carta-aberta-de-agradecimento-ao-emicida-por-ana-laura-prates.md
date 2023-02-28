@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-17 11:03:00
 pub_date: 2023-01-17 11:03:00
 time_added: 2023-01-21 10:12:07
-category: 
+categories: []
 tags: []
 image: https://jornalggn.com.br/wp-content/uploads/2023/01/emicida.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-02 18:54:00
 pub_date: 2023-02-02 18:54:00
 time_added: 2023-02-03 21:19:41
-category: 
+categories: []
 tags: []
 image: https://imagens.ebc.com.br/WncYkOvNxcItP-WGtZRenBxJbmk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/yanomami.jpg?itok=aZ4kkhoM
 ---

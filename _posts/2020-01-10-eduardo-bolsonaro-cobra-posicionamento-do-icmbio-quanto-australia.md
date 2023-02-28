@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-10 18:59:03
 pub_date: 2020-01-10 18:59:03
 time_added: 2020-01-16 19:49:25
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2018/12/Jair-Bolsonaro-2.jpg
 ---

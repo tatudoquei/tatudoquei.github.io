@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-27 21:13:22
 pub_date: 2020-03-27 21:13:22
 time_added: 2020-03-28 14:32:19
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/03/20200327_00_respiradores_coronavirus.jpg
 ---

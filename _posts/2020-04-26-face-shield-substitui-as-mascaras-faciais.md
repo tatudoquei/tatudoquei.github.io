@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-26 17:08:28
 pub_date: 2020-04-26 17:08:28
 time_added: 2020-04-26 22:11:00
-category: 
+categories: []
 tags: []
 image: http://coronavirusdc.com.br/wp-content/uploads/2020/04/faceshield-1.jpg
 ---

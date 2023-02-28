@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-17 14:47:28
 pub_date: 2020-04-17 14:47:28
 time_added: 2020-04-18 18:01:58
-category: 
+categories: []
 tags: []
 image: https://agencia.fiocruz.br/sites/agencia.fiocruz.br/files/imagemDestaque/fiocruz_destaque_0_1.jpg
 ---

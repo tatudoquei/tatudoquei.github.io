@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-12 06:24:50
 pub_date: 2020-04-12 06:24:50
 time_added: 2020-04-12 08:24:50
-category: 
+categories: []
 tags: []
 image: https://d1x4bjge7r9nas.cloudfront.net/wp-content/uploads/2019/11/17055857/roberto-mangabeira-conversa-com-bial.jpg
 ---

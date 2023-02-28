@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-24 21:18:07
 pub_date: 2020-03-24 21:18:07
 time_added: 2020-03-25 06:46:24
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2020/03/covid-19-4960246_1920.jpg
 ---

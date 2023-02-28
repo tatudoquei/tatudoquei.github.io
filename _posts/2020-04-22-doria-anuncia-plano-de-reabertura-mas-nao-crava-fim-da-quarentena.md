@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-22 15:40:57
 pub_date: 2020-04-22 15:40:57
 time_added: 2020-04-22 18:08:40
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2020/03/coronavirus-sao-paulo-1-1.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

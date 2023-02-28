@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-23 02:30:00
 pub_date: 2021-05-23 02:30:00
 time_added: 2021-05-29 20:57:06
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25030319-63d-849/FT1086A/75625882_RIRio-de-JaneiroRJ14-03-2018LocalVereadora-Marielle-Franco-do-PSOL-assass.jpg
 ---

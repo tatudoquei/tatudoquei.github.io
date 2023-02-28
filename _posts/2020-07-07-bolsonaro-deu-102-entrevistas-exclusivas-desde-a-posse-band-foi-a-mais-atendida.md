@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-07 09:00:12
 pub_date: 2020-07-07 09:00:12
 time_added: 2020-07-08 13:13:56
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/07/BolsonaroeDatena.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-26 22:00:00
 pub_date: 2022-10-26 22:00:00
 time_added: 2022-10-29 07:29:17
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2022/10/Capa_Facebook_Matar-e-quebrar-urnas-evangelico-lider-de-motociata-incentiva-crimes-no-Telegram-1.png
 ---

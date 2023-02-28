@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-28 09:40:00
 pub_date: 2021-01-28 09:40:00
 time_added: 2021-01-30 19:45:30
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d0/2020/07/08/jair-bolsonaro-sem-partido-posta-foto-tomando-cafe-da-manha-1594213919266_v2_615x300.png
 ---

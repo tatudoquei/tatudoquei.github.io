@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-10 15:49:00
 pub_date: 2021-04-10 15:49:00
 time_added: 2021-04-11 10:06:25
-category: 
+categories: []
 tags: []
 image: https://s.conjur.com.br/img/b/forca-tarefa-lava-jato-parana1.jpeg
 ---

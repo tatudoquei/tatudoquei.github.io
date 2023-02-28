@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-15 09:00:57
 pub_date: 2020-05-15 09:00:57
 time_added: 2020-05-17 09:46:32
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/6daKB-e0jN57_6iKIJSPou0kbhw=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/P/z/Xz4B01QA2ZBLzI9ZBdqA/niteroi-e-fiocruz-analise-de-esgoto.jpeg
 ---

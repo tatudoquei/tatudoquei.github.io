@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-13 23:10:27
 pub_date: 2022-10-13 23:10:27
 time_added: 2022-10-14 21:59:27
-category: 
+categories: []
 tags: []
 image: https://nadanovonofrontcom.files.wordpress.com/2022/10/image.png
 ---

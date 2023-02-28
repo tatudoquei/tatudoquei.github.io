@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-10 13:10:00
 pub_date: 2020-05-10 13:10:00
 time_added: 2020-05-11 11:36:26
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/cultura/24378924-8ce-3e6/FT1086A/652/reginaduarte.jpg
 ---

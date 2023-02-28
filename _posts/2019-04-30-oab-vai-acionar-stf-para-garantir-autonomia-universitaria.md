@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-30 17:42:00
 pub_date: 2019-04-30 17:42:00
 time_added: 2019-05-20 22:19:58
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/sociedade/23633844-97a-b3c/FT1086A/652/82125948_BSBBrasiliaBrasil09-04-2019PAPresidente-Jair-Bolsonaro-durante-cerimonia.jpg
 ---

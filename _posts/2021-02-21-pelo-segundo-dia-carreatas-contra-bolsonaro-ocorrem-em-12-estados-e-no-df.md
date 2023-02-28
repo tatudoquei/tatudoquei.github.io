@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-21 19:33:00
 pub_date: 2021-02-21 19:33:00
 time_added: 2021-02-27 17:11:44
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d4/2021/02/21/manifestantes-em-carreata-da-praca-charles-miller-ate-a-av-paulista-em-protesto-contra-o-governo-bolsonaro-1613922662392_v2_615x300.jpg
 ---

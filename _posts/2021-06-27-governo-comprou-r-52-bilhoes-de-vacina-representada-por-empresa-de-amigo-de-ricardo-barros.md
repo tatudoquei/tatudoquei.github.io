@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-27 16:20:11
 pub_date: 2021-06-27 16:20:11
 time_added: 2021-07-04 12:36:37
-category: 
+categories: []
 tags: []
 image: https://cdn.revistaforum.com.br/wp-content/uploads/2021/02/bolsonaro-ricardo-barros-e1624456405878.jpg
 ---

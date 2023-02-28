@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-30 22:54:00
 pub_date: 2022-10-30 22:54:00
 time_added: 2022-10-31 13:23:07
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/74/2022/10/30/30out2022---presidente-jair-bolsonaro-chega-ao-colegio-da-vila-militar-para-votar-no-segundo-turno-da-eleicao-presidencial-1667129141179_v2_750x421.jpg
 ---

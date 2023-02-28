@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-01 09:00:00
 pub_date: 2021-10-01 09:00:00
 time_added: 2021-10-17 14:31:28
-category: 
+categories: []
 tags: []
 image: https://www.skeptic.org.uk/wp-content/uploads/2021/08/stethoscope-2359757_1920.jpg
 ---

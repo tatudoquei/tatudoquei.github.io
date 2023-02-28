@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-04 18:02:08
 pub_date: 2021-01-04 18:02:08
 time_added: 2021-01-05 13:58:28
-category: 
+categories: []
 tags: []
 image: https://extra.globo.com/incoming/24822377-735-4ed/w976h550-PROP/homem-morto-cdd.jpg
 ---

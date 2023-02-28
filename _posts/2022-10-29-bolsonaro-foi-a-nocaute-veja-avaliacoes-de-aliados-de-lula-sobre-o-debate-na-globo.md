@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-29 06:56:03
 pub_date: 2022-10-29 06:56:03
 time_added: 2022-10-29 08:15:05
-category: 
+categories: []
 tags: []
 image: https://www.cartacapital.com.br/wp-content/uploads/2022/10/Lula-Foto-Ricardo-Stuckert.jpeg
 ---

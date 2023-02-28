@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-18 12:00:00
 pub_date: 2019-02-18 12:00:00
 time_added: 2019-12-23 21:37:46
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://psmag.com/.image/t_share/MTYxNzg3NDM0NzI2NTk3OTM0/301490-06.jpg
 ---

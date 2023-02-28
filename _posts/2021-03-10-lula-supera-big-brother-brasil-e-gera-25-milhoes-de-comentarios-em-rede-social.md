@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-10 11:00:00
 pub_date: 2021-03-10 11:00:00
 time_added: 2021-03-10 21:54:59
-category: 
+categories: []
 tags: []
 image: https://pensarpiaui.com/media/image_bank/2020/8/lula.jpg.800x0_q85_crop.jpg
 ---

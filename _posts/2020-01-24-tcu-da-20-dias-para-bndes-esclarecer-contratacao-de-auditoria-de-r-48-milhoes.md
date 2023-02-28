@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-24 16:01:00
 pub_date: 2020-01-24 16:01:00
 time_added: 2020-01-28 07:01:35
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/economia/22779013-4bb-bc1/FT1086A/652/Sede_BNDES.jpg
 ---

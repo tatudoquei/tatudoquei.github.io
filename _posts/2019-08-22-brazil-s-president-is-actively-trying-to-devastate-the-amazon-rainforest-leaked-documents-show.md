@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-22 16:26:00
 pub_date: 2019-08-22 16:26:00
 time_added: 2019-08-25 08:01:31
-category: 
+categories: []
 tags: []
 image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/08/22/16/bolsonaro-fires-1.jpg
 ---

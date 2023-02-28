@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-02 15:11:00
 pub_date: 2019-10-02 15:11:00
 time_added: 2019-10-03 07:46:18
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/O-economista-Claudio-Ferraz/ALTERNATES/LANDSCAPE_720/O%20economista%20Claudio%20Ferraz
 ---

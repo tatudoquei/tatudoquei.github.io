@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-13 20:32:53
 pub_date: 2019-04-13 20:32:53
 time_added: 2019-04-19 08:03:32
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2019/04/13/world/13bolsonaro2/13bolsonaro2-facebookJumbo.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-19 14:41:00
 pub_date: 2020-05-19 14:41:00
 time_added: 2020-05-19 21:57:33
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/ASnknBEvrt900H6i6XwNYvtIC20=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/a/L/CRIYOXSVAZTOF4jZBC0g/silvano-.jpg
 ---

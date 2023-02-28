@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-18 10:01:00
 pub_date: 2021-04-18 10:01:00
 time_added: 2021-05-16 20:36:00
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d7/2021/02/19/19fev2021---o-ministro-da-saude-eduardo-pazuello-em-reuniao-com-a-frente-nacional-dos-prefeitos-realizada-de-forma-virtual-1613749101908_v2_615x300.jpg
 ---

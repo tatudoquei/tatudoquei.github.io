@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-27 09:55:00
 pub_date: 2020-10-27 09:55:00
 time_added: 2020-10-30 08:11:32
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/be/2019/03/19/bolsonaro-e-trump-se-cumprimentam-durante-coletiva-de-imprensa-na-casa-branca-1553019897909_v2_615x300.jpg
 ---

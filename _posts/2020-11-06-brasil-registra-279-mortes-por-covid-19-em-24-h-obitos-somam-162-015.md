@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-06 18:11:00
 pub_date: 2020-11-06 18:11:00
 time_added: 2020-11-07 07:27:35
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/02/2020/08/08/08ago2020---muita-aglomeracao-de-pessoas-no-entro-de-campinas-sp-na-manha-de-hoje-foi-o-primieiro-dia-da-cidade-na-fase-amarela-do-plano-sao-paulo-para-conter-a-disseminacao-do-coronavirus-1596908706363_v2_615x300.jpg
 ---

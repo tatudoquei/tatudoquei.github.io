@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-08 11:02:00
 pub_date: 2020-04-08 11:02:00
 time_added: 2020-04-09 06:32:38
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24359214-8e1-f1f/FT1086A/652/wanda-2.jpg
 ---

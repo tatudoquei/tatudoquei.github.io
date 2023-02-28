@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-16 06:44:00
 pub_date: 2020-04-16 06:44:00
 time_added: 2020-04-16 19:16:31
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f3/2020/04/15/o-governador-de-sao-paulo-joao-doria-psdb-durante-coletiva-sobre-o-combate-ao-coronavirus-1586976224483_v2_615x300.jpg
 ---

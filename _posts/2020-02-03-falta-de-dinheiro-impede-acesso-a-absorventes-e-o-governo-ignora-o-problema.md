@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-03 04:02:00
 pub_date: 2020-02-03 04:02:00
 time_added: 2020-02-12 08:00:23
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/01/31-01-2020-natalia-redes-1580497295.jpg
 ---

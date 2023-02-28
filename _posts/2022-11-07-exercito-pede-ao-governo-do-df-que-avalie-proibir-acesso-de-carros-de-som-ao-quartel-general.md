@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-07 22:19:00
 pub_date: 2022-11-07 22:19:00
 time_added: 2022-11-12 13:55:50
-category: 
+categories: []
 tags: []
 image: https://img.r7.com/images/reuters-manifestacao-intervencao-militar-1500-02112022115735950?crop_position=c&dimensions=340x191
 ---

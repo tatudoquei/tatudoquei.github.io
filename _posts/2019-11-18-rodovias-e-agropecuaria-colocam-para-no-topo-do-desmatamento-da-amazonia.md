@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-18 15:12:00
 pub_date: 2019-11-18 15:12:00
 time_added: 2019-11-19 07:07:43
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/0d/2019/08/21/foco-de-incendio-na-floresta-amazonia-em-sao-felix-do-xingu-no-para-registrado-pelo-greenpeace-1566404148623_v2_615x300.jpg
 ---

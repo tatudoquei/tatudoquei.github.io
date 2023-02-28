@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-12 11:15:16
 pub_date: 2019-08-12 11:15:16
 time_added: 2019-08-30 23:38:16
-category: 
+categories: []
 tags: []
 image: https://www.esmaelmorais.com.br/wp-content/uploads/2019/07/deltan-dallagnol-mensagens-telegram.jpg
 ---

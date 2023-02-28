@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-16 00:02:33
 pub_date: 2021-10-16 00:02:33
 time_added: 2021-10-15 21:02:33
-category: 
+categories: []
 tags: []
 image: https://assets.historyplay.tv/br/public/styles/facebook_card_1200x630/public/images/2020/10/15/antonieta_de_barros_-_primeira_deputada_negra_do_brasil_-_parlamentar_-_history_channel_brasil.jpg
 ---

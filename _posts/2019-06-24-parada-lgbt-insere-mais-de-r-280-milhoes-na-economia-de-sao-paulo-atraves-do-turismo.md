@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-24 13:08:59
 pub_date: 2019-06-24 13:08:59
 time_added: 2019-06-25 05:26:06
-category: 
+categories: []
 tags: []
 image: https://poenaroda.com.br/wp-content/uploads/2019/06/destaque_parada-lgbt-sao-paulo.jpg
 ---

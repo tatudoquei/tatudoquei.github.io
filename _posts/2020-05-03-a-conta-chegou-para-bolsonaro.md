@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-03 13:00:01
 pub_date: 2020-05-03 13:00:01
 time_added: 2020-05-03 15:00:01
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2020/05/big-data-interna-1.jpg
 ---

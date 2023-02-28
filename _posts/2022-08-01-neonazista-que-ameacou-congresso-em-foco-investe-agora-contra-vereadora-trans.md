@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-08-01 20:15:23
 pub_date: 2022-08-01 20:15:23
 time_added: 2023-02-04 11:09:52
-category: 
+categories: []
 tags: []
 image: https://congressoemfoco.uol.com.br/wp-content/uploads/2022/08/duda-1.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-27 18:20:19
 pub_date: 2020-11-27 18:20:19
 time_added: 2021-01-06 15:10:19
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2020/11/vacina-covid.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

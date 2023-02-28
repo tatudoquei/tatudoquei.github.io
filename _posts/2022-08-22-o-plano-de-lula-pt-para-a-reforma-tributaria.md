@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-08-22 19:57:56
 pub_date: 2022-08-22 19:57:56
 time_added: 2022-10-16 14:34:41
-category: 
+categories: []
 tags: []
 image: https://praserjusto.com.br/wp-content/uploads/2022/08/Lula_Plano-de-Governo.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-21 16:05:00
 pub_date: 2021-04-21 16:05:00
 time_added: 2021-05-16 20:47:27
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/17/2021/04/18/2abr2021---o-presidente-dos-estados-unidos-joe-biden-em-pronunciamento-na-casa-branca-em-washington-dc-1618773558727_v2_615x300.jpg
 ---

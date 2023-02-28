@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-23 21:08:00
 pub_date: 2021-03-23 21:08:00
 time_added: 2021-05-22 19:52:03
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/3a/2019/11/07/7nov2019---a-ministra-carmen-lucia-do-stf-1573149780306_v2_615x300.jpg
 ---

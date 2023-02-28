@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-04 00:15:29
 pub_date: 2021-03-04 00:15:29
 time_added: 2021-03-03 21:15:29
-category: 
+categories: []
 tags: []
 image: https://midias.correiobraziliense.com.br/_midias/jpg/2020/08/23/675x450/1__relacoes_exterioresgoverno_covid_19_saude_coronavirus0104201407-6244785.jpg
 ---

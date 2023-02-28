@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-21 02:30:00
 pub_date: 2020-06-21 02:30:00
 time_added: 2020-06-21 16:13:33
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24490870-5a3-719/FT1086A/652/88505561_Brazils-President-Jair-Bolsonaro-wearing-a-protective-face-mask-looks-on-during-an-ina.jpg
 ---

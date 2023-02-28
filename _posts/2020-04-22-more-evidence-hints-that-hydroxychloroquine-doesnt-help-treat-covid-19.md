@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-22 02:13:40
 pub_date: 2020-04-22 02:13:40
 time_added: 2020-04-29 04:41:07
-category: 
+categories: []
 tags: []
 image: https://www.sciencenews.org/wp-content/uploads/2020/04/042120_TI_hydroxychloroquine_feat.jpg
 ---

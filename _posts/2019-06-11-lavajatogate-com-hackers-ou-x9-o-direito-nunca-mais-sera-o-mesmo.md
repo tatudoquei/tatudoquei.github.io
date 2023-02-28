@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-11 17:12:00
 pub_date: 2019-06-11 17:12:00
 time_added: 2019-06-12 20:52:44
-category: 
+categories: []
 tags: []
 image: https://s.conjur.com.br/img/a/og.png
 ---

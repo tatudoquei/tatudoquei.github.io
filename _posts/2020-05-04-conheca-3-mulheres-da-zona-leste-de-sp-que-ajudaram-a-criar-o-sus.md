@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-04 02:00:00
 pub_date: 2020-05-04 02:00:00
 time_added: 2020-05-05 19:56:21
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/77/2020/05/03/a-auxiliar-de-enfermagem-aposentada-dalva-da-silva-1588532682280_v2_615x300.jpg
 ---

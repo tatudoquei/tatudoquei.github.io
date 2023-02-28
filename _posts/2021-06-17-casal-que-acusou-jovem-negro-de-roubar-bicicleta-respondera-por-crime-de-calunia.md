@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-17 10:00:00
 pub_date: 2021-06-17 10:00:00
 time_added: 2021-06-19 20:13:17
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/noticiapreta.com.br/wp-content/uploads/2021/06/racismo.png?fit=605%2C382&ssl=1
 ---

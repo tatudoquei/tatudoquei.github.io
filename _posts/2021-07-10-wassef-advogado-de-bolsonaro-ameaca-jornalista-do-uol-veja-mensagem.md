@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-10 00:45:54
 pub_date: 2021-07-10 00:45:54
 time_added: 2021-07-25 16:53:34
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/paraibaja.com.br/wp-content/uploads/2020/06/wassef.jpg?fit=1200%2C800&ssl=1
 ---

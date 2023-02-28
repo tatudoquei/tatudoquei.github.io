@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-02 23:10:16
 pub_date: 2017-08-13 13:51:00
 time_added: 2020-01-02 23:10:16
-category: 
+categories: []
 tags: []
 image: http://conteudo.imguol.com.br/d4/2016/09/13/uniformes-com-a-suastica-nazista-serao-leiloados-nos-eua-junto-com-diarios-e-anotacoes-do-criminoso-de-gguerra-josef-mengele-conhecido-como-anjo-da-morte-pelos-experimentos-medicos-hediondos-1473765203134_956x500.jpg
 ---

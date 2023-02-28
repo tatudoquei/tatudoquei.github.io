@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-17 01:54:46
 pub_date: 2020-04-17 01:54:46
 time_added: 2020-05-16 08:51:46
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2020/04/16225935/medico11.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-08 06:30:00
 pub_date: 2021-01-08 06:30:00
 time_added: 2021-01-08 20:29:40
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24828748-b00-aea/FT1086A/652/josegomestemporao.jpeg.jpg
 ---

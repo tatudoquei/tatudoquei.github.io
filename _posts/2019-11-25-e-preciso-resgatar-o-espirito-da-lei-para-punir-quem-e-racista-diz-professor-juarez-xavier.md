@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-25 20:07:46
 pub_date: 2019-11-25 20:07:46
 time_added: 2019-11-25 21:07:46
-category: 
+categories: []
 tags: []
 image: https://almapreta.com/images/2019/11/cristianozanardi.jpg
 ---

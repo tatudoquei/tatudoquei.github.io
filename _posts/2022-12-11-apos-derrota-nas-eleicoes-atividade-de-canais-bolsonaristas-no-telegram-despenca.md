@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-11 07:30:23
 pub_date: 2022-12-11 07:30:23
 time_added: 2022-12-18 22:46:43
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/h9OZDduXqCaPXdvv8pZEl-XFfD4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/d/j/AVvn43QGOFpkSaI7qAhw/bolsonaro-fala.jpeg
 ---

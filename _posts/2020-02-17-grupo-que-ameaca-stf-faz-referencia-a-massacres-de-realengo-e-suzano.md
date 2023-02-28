@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-17 17:33:00
 pub_date: 2020-02-17 17:33:00
 time_added: 2020-02-18 07:24:38
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f7/2016/04/07/7abr2016---hoje-foi-um-dia-de-homenagens-as-vitimas-da-tragedia-de-realengo-ha-cinco-anos-wellington-menezes-de-oliveira-de-23-anos-matava-a-tiros-12-alunos-da-escola-tasso-da-silveira-em-1460048368233_615x300.jpg
 ---

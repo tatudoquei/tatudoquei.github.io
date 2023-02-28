@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-15 04:27:22
 pub_date: 2019-03-15 04:27:22
 time_added: 2019-03-18 22:37:36
-category: avisamos
+categories: [avisamos]
 tags: []
 image: http://www.estadao.com.br/estadao/novo/img/estadao.gif
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-30 20:06:48
 pub_date: 2022-12-30 20:06:48
 time_added: 2023-01-06 23:22:23
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/entrevista-politiques-beranard-appy-social.jpeg/alternates/LANDSCAPE_768/entrevista-politiques-beranard-appy-social.jpeg
 ---

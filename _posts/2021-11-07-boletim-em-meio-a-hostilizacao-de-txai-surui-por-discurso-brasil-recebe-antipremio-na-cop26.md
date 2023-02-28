@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-07 00:45:33
 pub_date: 2021-11-07 00:45:33
 time_added: 2021-11-13 13:15:45
-category: 
+categories: []
 tags: []
 image: http://oeco.org.br/wp-content/uploads/2021/11/Oeco2_Txai-Surui.jpg
 ---

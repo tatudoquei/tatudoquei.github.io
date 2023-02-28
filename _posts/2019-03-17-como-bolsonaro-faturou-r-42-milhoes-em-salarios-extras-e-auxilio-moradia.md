@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-17 11:07:00
 pub_date: 2019-03-17 11:07:00
 time_added: 2019-03-26 18:47:23
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://www.gazetadopovo.com.br/blogs/wp-content/uploads/sites/187/2019/03/bolsonaro-1-gabriela-korossy-agencia-camara.jpg
 ---

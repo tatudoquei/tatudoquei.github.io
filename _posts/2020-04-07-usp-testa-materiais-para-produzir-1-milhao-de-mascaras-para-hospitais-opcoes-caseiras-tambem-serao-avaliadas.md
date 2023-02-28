@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-07 02:17:32
 pub_date: 2020-04-07 02:17:32
 time_added: 2020-04-07 20:19:14
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/03/20200325_mascara1.jpg
 ---

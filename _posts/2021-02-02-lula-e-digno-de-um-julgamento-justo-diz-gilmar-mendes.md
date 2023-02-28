@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-02 17:24:00
 pub_date: 2021-02-02 17:24:00
 time_added: 2021-02-04 07:13:07
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/21/2019/11/07/o-ministro-gilmar-mendes-no-julgamento-da-constitucionalidade-da-prisao-de-condenados-em-segunda-instancia-1573156735793_v2_615x300.jpg
 ---

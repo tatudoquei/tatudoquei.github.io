@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-29 18:54:48
 pub_date: 2021-05-29 18:54:48
 time_added: 2021-05-29 20:54:48
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2021/05/176_temposdapeste1_redes.jpg
 ---

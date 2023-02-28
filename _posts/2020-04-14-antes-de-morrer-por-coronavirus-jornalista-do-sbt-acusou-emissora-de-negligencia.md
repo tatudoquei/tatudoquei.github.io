@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-14 02:18:00
 pub_date: 2020-04-14 02:18:00
 time_added: 2020-04-14 05:00:41
-category: 
+categories: []
 tags: []
 image: https://noticiasdatv.uol.com.br/media/_versions/_versions/artigos/sbt4-coronavirus-isabele-benito-jose-silva-reproducao-instagram-facebook_free_big_fixed_big.jpg
 ---

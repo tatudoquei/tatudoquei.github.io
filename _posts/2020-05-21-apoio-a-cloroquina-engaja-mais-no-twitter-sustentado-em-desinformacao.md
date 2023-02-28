@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-21 15:11:00
 pub_date: 2020-05-21 15:11:00
 time_added: 2020-05-23 17:43:27
-category: 
+categories: []
 tags: []
 image: https://static.aosfatos.org/media/images/entries/topo_materias_radar_2.png.1860x1080_q85_box-403,0,958,320_crop_upscale.png
 ---

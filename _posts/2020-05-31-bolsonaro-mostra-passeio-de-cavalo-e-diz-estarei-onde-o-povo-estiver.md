@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-31 16:24:00
 pub_date: 2020-05-31 16:24:00
 time_added: 2020-06-01 09:59:23
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/83/2020/05/31/31mai2020---andando-a-cavalo-presidente-jair-bolsonaro-sem-partido-passa-por-manifestacao-de-apoiadores-em-frente-ao-palacio-do-planalto-1590960257337_v2_615x300.jpg
 ---

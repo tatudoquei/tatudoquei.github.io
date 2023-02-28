@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-21 17:35:28
 pub_date: 2019-09-21 17:35:28
 time_added: 2019-09-23 06:25:10
-category: 
+categories: []
 tags: []
 image: https://extra.globo.com/noticias/extra-extra/23961550-a7f-f5e/w976h550-PROP/reformulacao-das-carreiras-militares-em-discussao-aumenta-diferenca-salarial.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-11 14:54:00
 pub_date: 2021-03-11 14:54:00
 time_added: 2021-03-21 09:17:14
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24899835-39e-101/FT1086A/90541855_Health-worker-takes-care-of-a-COVID-19-infected-patient-at-the-Intensive-Care-Unit-in-t.jpg
 ---

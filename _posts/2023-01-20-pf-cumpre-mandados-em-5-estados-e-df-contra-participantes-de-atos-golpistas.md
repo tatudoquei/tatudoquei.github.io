@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-20 10:16:00
 pub_date: 2023-01-20 10:16:00
 time_added: 2023-01-21 10:19:30
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/galeria/03/2023/01/09/terrorismo-em-brasilia-1673283031540_v2_615x300.jpg
 ---

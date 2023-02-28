@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-02 22:25:27
 pub_date: 2019-01-02 22:25:27
 time_added: 2019-01-02 23:25:27
-category: avisamos
+categories: [avisamos]
 tags: []
 image: http://imgsapp.diariodepernambuco.com.br/app/noticia_127983242361/2019/01/02/772675/20190102121650567603e.jpg
 ---

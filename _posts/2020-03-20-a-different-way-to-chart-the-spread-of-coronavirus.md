@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-20 19:09:42
 pub_date: 2020-03-20 19:09:42
 time_added: 2020-03-20 23:34:29
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/03/20/science/virus-log-chart-1584728689795/virus-log-chart-1584728689795-facebookJumbo.jpg
 ---

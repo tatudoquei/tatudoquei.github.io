@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-28 06:56:16
 pub_date: 2019-08-28 06:56:16
 time_added: 2019-08-29 05:19:45
-category: 
+categories: []
 tags: []
 image: https://www.opopular.com.br/polopoly_fs/1.1873490.1566993325!/image/image.jpg_gen/derivatives/landscape_800/image.jpg
 ---

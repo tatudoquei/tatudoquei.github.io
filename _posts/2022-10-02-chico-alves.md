@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-02 08:00:00
 pub_date: 2022-10-02 08:00:00
 time_added: 2022-10-03 00:16:32
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a5/2022/10/02/juliano-maderada-e-multidao-em-uma-rua-no-rio-grande-do-norte-em-campanha-do-pt-1664688148419_v2_615x300.png
 ---

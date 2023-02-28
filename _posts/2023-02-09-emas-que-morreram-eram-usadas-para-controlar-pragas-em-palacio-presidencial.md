@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-09 12:30:00
 pub_date: 2023-02-09 12:30:00
 time_added: 2023-02-26 18:35:23
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/67/2022/12/06/emas-da-fachada-1670326982987_v2_615x300.jpg
 ---

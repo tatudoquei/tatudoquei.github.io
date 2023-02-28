@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-30 13:24:57
 pub_date: 2022-12-30 13:24:57
 time_added: 2023-01-02 09:24:25
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2022/06/22150225/Randolfe-rodrigues-1.jpg
 ---

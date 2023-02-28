@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-05 17:46:22
 pub_date: 2021-11-05 17:46:22
 time_added: 2021-11-13 12:35:53
-category: 
+categories: []
 tags: []
 image: https://www.abrasco.org.br/site/wp-content/uploads/2021/05/Cesar-Victora-scaled.jpg
 ---

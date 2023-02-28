@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-27 11:57:00
 pub_date: 2021-06-27 11:57:00
 time_added: 2021-07-04 12:37:27
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/esporte/fe/2021/06/27/fernanda-venturi-apos-tomar-vacina-1624812796258_v2_615x300.jpg
 ---

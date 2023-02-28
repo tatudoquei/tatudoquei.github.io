@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-01 00:00:00
 pub_date: 2019-08-01 00:00:00
 time_added: 2019-08-03 22:39:48
-category: 
+categories: []
 tags: []
 image: https://www.economist.com/sites/default/files/images/print-edition/20190803_FBP001_0.jpg
 ---

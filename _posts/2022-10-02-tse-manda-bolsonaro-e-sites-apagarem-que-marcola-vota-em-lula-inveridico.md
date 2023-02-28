@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-02 07:10:00
 pub_date: 2022-10-02 07:10:00
 time_added: 2022-10-02 21:59:48
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a5/2021/07/23/21jan2020---marco-willians-herbas-camacho-o-marcola-apontado-como-lider-do-pcc-e-levado-para-helicoptero-apos-ser-atendido-em-hospital-em-brasilia-1627065189570_v2_615x300.jpg
 ---

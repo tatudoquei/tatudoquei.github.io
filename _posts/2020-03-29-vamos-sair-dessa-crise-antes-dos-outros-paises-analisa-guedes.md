@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-29 17:50:06
 pub_date: 2020-03-29 17:50:06
 time_added: 2020-03-30 10:33:35
-category: 
+categories: []
 tags: []
 image: https://jpimg.com.br/uploads/2019/09/paulo-guedes-1024x682.jpg
 ---

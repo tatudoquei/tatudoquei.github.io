@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-27 21:00:18
 pub_date: 2020-03-27 21:00:18
 time_added: 2020-03-28 16:53:34
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2020/03/servico-de-verificacao-de-obitos-svo-da-cidade-de-sao-paulo.jpg
 ---

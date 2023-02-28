@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-31 13:08:59
 pub_date: 2020-08-31 13:08:59
 time_added: 2020-08-31 17:47:00
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2020/08/pazuello_lauricio_cort.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

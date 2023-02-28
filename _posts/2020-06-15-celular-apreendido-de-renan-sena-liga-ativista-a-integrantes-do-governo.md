@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-15 13:55:11
 pub_date: 2020-06-15 13:55:11
 time_added: 2020-06-15 22:34:53
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2020/06/15105039/Renan-Sena.jpg
 ---

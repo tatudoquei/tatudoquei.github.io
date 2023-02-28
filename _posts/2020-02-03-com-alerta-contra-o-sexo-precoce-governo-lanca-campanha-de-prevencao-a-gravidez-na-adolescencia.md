@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-03 20:26:26
 pub_date: 2020-02-03 20:26:26
 time_added: 2020-02-03 20:46:46
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/xrvWxoBhtNbpXhWaC2wdml6zqKA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/4/x/4YkWfuRLGBoaNULZMCBw/anuncio-ms-damares.jpg
 ---

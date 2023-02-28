@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-16 17:06:00
 pub_date: 2023-01-16 17:06:00
 time_added: 2023-01-21 10:12:37
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2023/01/coluna-carla-jimenez-exercito-redes.jpg
 ---

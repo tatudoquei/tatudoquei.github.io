@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-11 05:36:00
 pub_date: 2020-09-11 05:36:00
 time_added: 2020-09-11 20:29:44
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24634425-a25-ff8/FT1086A/652/casa-pedro-fernandes.jpg
 ---

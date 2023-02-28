@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-01 19:36:55
 pub_date: 2021-02-01 19:36:55
 time_added: 2021-02-02 20:42:04
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/01/RodrigoMaia-BaleiaRossi-CamaraDeputados-Candidato-Presidente-PMDB-31-1200x630.jpg
 ---

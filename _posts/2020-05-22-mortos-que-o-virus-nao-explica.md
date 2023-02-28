@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-22 11:22:00
 pub_date: 2020-05-22 11:22:00
 time_added: 2020-05-24 09:07:40
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2020/05/cemiterio-belem_220520_redes.jpg
 ---

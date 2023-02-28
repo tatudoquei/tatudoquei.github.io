@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-14 06:09:00
 pub_date: 2020-03-14 06:09:00
 time_added: 2020-03-14 23:41:54
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/be/2019/02/14/ministro-gustavo-bebianno-diz-a-revista-que-nao-e-moleque-e-que-bolsonaro-teme-respingo-1550187359175_615x300.png
 ---

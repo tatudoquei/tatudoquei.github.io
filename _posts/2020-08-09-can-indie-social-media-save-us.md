@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-09 06:34:46
 pub_date: 2020-08-09 06:34:46
 time_added: 2020-08-09 08:34:46
-category: 
+categories: []
 tags: []
 image: https://media.newyorker.com/photos/5cd9937092eb652e91bb6e39/16:9/w_1280,c_limit/Newport-Socialmedia.jpg
 ---

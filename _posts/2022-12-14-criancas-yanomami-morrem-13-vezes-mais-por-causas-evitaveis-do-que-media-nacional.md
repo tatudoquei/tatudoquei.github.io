@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-14 14:38:11
 pub_date: 2022-12-14 14:38:11
 time_added: 2023-01-26 19:07:20
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2022/12/Capa_Facebook_Criancas-Yanomami-morrem-quase-10-vezes-mais-por-causas-evitaveis-do-que-media-nacional.png
 ---

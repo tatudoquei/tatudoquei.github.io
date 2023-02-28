@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-06 13:02:16
 pub_date: 2020-03-06 13:02:16
 time_added: 2020-03-06 14:02:16
-category: 
+categories: []
 tags: []
 image: https://theintercept.imgix.net/wp-uploads/sites/1/2020/03/05-03-2020-pec-teto-1583427465.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800
 ---

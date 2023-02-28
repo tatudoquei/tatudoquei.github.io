@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-15 20:00:00
 pub_date: 2020-04-15 20:00:00
 time_added: 2020-04-16 18:44:31
-category: 
+categories: []
 tags: []
 image: https://s.conjur.com.br/img/b/cecilia-olliveira.jpeg
 ---

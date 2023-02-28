@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-22 20:58:00
 pub_date: 2021-02-22 20:58:00
 time_added: 2021-02-27 17:07:49
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f4/2021/02/12/11fev2021---o-presidente-do-senado-rodrigo-pacheco-dem-mg-durante-audiencia-com-o-ministro-da-saude-eduardo-pazuello-1613153142259_v2_615x300.jpg
 ---

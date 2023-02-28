@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-08 12:47:00
 pub_date: 2022-11-08 12:47:00
 time_added: 2022-11-12 13:58:27
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/8e/2022/11/08/8nov2022---o-ministro-alexandre-de-moraes-presidente-do-tse-em-reuniao-com-os-procuradores-gerais-de-justica-de-sp-sc-e-es-1667922910103_v2_615x300.jpg
 ---

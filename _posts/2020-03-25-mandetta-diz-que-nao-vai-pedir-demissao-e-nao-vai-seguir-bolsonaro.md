@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-25 12:15:00
 pub_date: 2020-03-25 12:15:00
 time_added: 2020-03-25 19:20:34
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24316632-d73-0c5/FT1086A/652/bolsonaromandetta.jpg
 ---

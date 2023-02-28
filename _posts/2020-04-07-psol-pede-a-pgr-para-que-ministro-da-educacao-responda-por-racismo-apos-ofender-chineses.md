@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-07 13:40:13
 pub_date: 2020-04-07 13:40:13
 time_added: 2020-04-08 12:37:53
-category: 
+categories: []
 tags: []
 image: https://psol50.org.br/wp-content/uploads/2020/03/abraham-e1571431219456.png
 ---

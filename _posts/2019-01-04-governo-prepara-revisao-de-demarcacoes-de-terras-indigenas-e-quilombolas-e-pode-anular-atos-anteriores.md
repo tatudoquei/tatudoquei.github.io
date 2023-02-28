@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-04 09:59:00
 pub_date: 2019-01-04 09:59:00
 time_added: 2019-01-05 09:39:45
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://ogimg.infoglobo.com.br/brasil/23313505-287-a1e/FT1086A/652/79644204_PA-Rio-de-Janeiro-RJ-31-10-2018Luiz-Antonio-Nabhan-Garcia-presidente-da-Uniao-Democr.jpg
 ---

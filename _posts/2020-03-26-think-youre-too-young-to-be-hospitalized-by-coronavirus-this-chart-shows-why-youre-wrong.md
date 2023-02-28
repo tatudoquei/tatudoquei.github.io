@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-26 12:50:30
 pub_date: 2020-03-26 12:50:30
 time_added: 2020-03-26 13:50:30
-category: 
+categories: []
 tags: []
 image: https://assets.weforum.org/editor/HuuRf3t02EsscZuMP5lxBe60_zWnCrOBVTSWT1LN0qE.gif
 ---

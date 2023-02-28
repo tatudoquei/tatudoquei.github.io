@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-08 14:50:00
 pub_date: 2021-04-08 14:50:00
 time_added: 2021-05-16 17:49:40
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/29/2019/01/15/romeu-zema-governador-de-minas-gerais-1547600637830_750x421.png
 ---

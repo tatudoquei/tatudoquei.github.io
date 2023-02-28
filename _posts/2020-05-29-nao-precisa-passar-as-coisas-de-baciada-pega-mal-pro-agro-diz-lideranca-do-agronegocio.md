@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-29 05:53:50
 pub_date: 2020-05-29 05:53:50
 time_added: 2020-05-30 09:51:22
-category: 
+categories: []
 tags: []
 image: https://sustentabilidade.estadao.com.br/blogs/ambiente-se/wp-content/uploads/sites/92/2020/05/gerardo-lazzari-0649_290520201331.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-15 09:00:00
 pub_date: 2021-11-15 09:00:00
 time_added: 2022-10-10 06:44:28
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/de/2021/11/04/presidente-jair-bolsonaro-rodeado-por-parlamentares-durante-entrega-da-mp-do-auxilio-brasil-em-agosto-ainda-nao-ha-clareza-sobre-regras-do-novo-beneficio-1636024887648_v2_615x300.jpg
 ---

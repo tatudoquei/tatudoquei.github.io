@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-09 02:00:00
 pub_date: 2020-04-09 02:00:00
 time_added: 2020-04-09 13:14:46
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d9/2020/04/07/miguel-srougi-professor-titular-de-urologia-na-faculdade-de-medicina-da-usp-1586266603204_v2_615x300.jpg
 ---

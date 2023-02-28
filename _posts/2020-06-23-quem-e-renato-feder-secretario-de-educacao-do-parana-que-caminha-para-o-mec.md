@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-23 04:08:43
 pub_date: 2020-06-23 04:08:43
 time_added: 2020-06-23 06:08:43
-category: 
+categories: []
 tags: []
 image: https://media.gazetadopovo.com.br/2020/06/22182208/ReatoFeder-660x372.jpg
 ---

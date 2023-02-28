@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-24 20:31:00
 pub_date: 2020-04-24 20:31:00
 time_added: 2020-04-25 06:23:50
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2f/2020/04/24/24abril2020---sergio-moro-durante-entrevista-coletiva-apos-exoneracao-de-diretor-da-pf-1587738715813_v2_615x300.png
 ---

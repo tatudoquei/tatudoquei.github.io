@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-08 19:29:52
 pub_date: 2019-08-08 19:29:52
 time_added: 2019-08-11 07:24:02
-category: 
+categories: []
 tags: []
 image: https://www.diariodocentrodomundo.com.br/wp-content/uploads/2018/11/frei-betto.jpg
 ---

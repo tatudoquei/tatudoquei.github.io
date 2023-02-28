@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-22 17:31:00
 pub_date: 2020-11-22 17:31:00
 time_added: 2020-11-22 22:58:53
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d1/2020/06/18/paciente-com-coronavirus-em-uti-de-hospital-em-sao-paulo-sp-1592515966629_v2_750x421.jpg
 ---

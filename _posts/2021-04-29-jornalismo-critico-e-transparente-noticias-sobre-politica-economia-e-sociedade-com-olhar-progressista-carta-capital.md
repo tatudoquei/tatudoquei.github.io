@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-29 17:35:35
 pub_date: 2021-04-29 17:35:35
 time_added: 2021-04-30 22:31:16
-category: 
+categories: []
 tags: []
 image: https://www.cartacapital.com.br/wp-content/uploads/2020/12/Logos_Novos5.png
 ---

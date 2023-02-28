@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-10 13:50:56
 pub_date: 2019-01-10 13:50:56
 time_added: 2019-01-11 07:30:37
-category: avisamos
+categories: [avisamos]
 tags: []
 image: http://blogs.correiobraziliense.com.br/wp-content/uploads/2016/06/avatar_vicente.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-01 22:08:00
 pub_date: 2022-11-01 22:08:00
 time_added: 2022-11-04 20:08:15
-category: 
+categories: []
 tags: []
 image: https://img.r7.com/images/pronunciamento-bolsonaro-01112022165221202?crop_position=c&dimensions=340x191
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-14 22:01:00
 pub_date: 2021-01-14 22:01:00
 time_added: 2021-01-15 15:29:02
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/tab/a4/2021/01/12/uti-destinada-a-pacientes-com-covid-19-no-hospital-emilio-ribas-em-sao-paulo-1610480371904_v2_615x300.jpg
 ---

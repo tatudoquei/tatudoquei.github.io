@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-02 09:00:17
 pub_date: 2021-07-02 09:00:17
 time_added: 2021-07-04 12:48:25
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2021/07/DAMARES-EUSTAQUIO-MULHER.jpg.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

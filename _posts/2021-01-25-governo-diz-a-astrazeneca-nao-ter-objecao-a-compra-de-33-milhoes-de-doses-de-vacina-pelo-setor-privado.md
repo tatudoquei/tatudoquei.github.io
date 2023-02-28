@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-25 17:36:00
 pub_date: 2021-01-25 17:36:00
 time_added: 2021-01-26 19:34:47
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24629845-13d-244/FT1086A/652/vacina-covid-oxford.jpg
 ---

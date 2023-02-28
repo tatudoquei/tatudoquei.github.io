@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-29 17:49:52
 pub_date: 2021-03-29 17:49:52
 time_added: 2021-03-29 19:49:52
-category: 
+categories: []
 tags: []
 image: https://pp.nexojornal.com.br/conteudo/imagens/mataatlantica1/alternates/LANDSCAPE_768/mataatlantica
 ---

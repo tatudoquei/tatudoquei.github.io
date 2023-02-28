@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-06 17:27:00
 pub_date: 2020-11-06 17:27:00
 time_added: 2020-11-07 07:28:25
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/03/2020/11/06/o-presidente-dos-eua-donald-trump-ao-lado-do-presidente-do-brasil-jair-bolsonaro-1604697790651_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-22 11:10:00
 pub_date: 2021-06-22 11:10:00
 time_added: 2021-07-04 12:15:29
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/70/2021/05/21/profissional-de-saude-se-prepara-para-imunizar-um-homem-com-uma-dose-da-vacina-contra-o-coronavirus-covaxin-desenvolvida-pelo-laboratorio-bharat-biotech-em-uma-clinica-municipal-de-saude-em-calcuta-1621598844829_v2_615x300.jpg
 ---

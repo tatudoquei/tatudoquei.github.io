@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-24 10:00:27
 pub_date: 2020-01-24 10:00:27
 time_added: 2020-01-25 12:49:13
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/01/27/opinion/23costaWeb-02/23costaWeb-02-facebookJumbo.jpg
 ---

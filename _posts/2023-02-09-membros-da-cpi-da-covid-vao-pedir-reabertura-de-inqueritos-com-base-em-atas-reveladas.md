@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-09 18:20:42
 pub_date: 2023-02-09 18:20:42
 time_added: 2023-02-26 18:37:21
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2023/02/Capa_Facebook_Membros-da-CPI-da-Covid-vao-pedir-reabertura-de-inqueritos-com-base-em-atas-reveladas.png
 ---

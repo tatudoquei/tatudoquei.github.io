@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-24 12:07:23
 pub_date: 2020-02-24 12:07:23
 time_added: 2020-02-26 17:34:58
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2019/06/morolulamarques-e1561428562763.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-28 20:14:29
 pub_date: 2019-08-28 20:14:29
 time_added: 2019-08-28 22:14:29
-category: 
+categories: []
 tags: []
 image: https://media.wired.com/photos/5d644aa35b12750008de7b2f/master/w_1280,c_limit/Science_Farming-incentives_1163948487.jpg
 ---

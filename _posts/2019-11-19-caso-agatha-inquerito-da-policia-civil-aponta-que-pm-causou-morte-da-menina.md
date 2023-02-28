@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-19 21:08:54
 pub_date: 2019-11-19 21:08:54
 time_added: 2019-11-19 22:08:54
-category: 
+categories: []
 tags: []
 image: https://extra.globo.com/incoming/24088084-405-ff3/w976h550-PROP/84936898_reconstituicao-do-caso-agatha-policiais-passaram-a-noite-simulando-o-momento-em-que-a-menin.jpg
 ---

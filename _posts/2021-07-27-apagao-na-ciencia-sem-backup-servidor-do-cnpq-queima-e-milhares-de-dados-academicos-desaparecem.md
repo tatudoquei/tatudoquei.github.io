@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-27 15:19:18
 pub_date: 2021-07-27 15:19:18
 time_added: 2021-08-20 20:48:20
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2019/08/cnpq-e1565958632424.jpg
 ---

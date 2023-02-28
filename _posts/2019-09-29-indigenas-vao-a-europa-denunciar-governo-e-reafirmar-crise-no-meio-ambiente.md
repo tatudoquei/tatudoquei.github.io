@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-29 02:00:00
 pub_date: 2019-09-29 02:00:00
 time_added: 2019-10-03 07:20:03
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/09/indigenas-615x300.jpg
 ---

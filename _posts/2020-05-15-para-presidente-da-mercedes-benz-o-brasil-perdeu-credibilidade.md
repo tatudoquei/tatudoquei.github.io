@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-15 08:00:55
 pub_date: 2020-05-15 08:00:55
 time_added: 2020-05-16 19:38:38
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/OFIPgWasEjPYMyI6mBE6xf_OoA0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2020/B/v/ddiVZBSBOpQ9kYx1HYvg/foto15emp-101-mercedes-b1.jpg
 ---

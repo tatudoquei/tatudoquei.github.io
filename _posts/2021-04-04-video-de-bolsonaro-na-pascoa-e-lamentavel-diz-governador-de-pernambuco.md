@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-04 22:33:27
 pub_date: 2021-04-04 22:33:27
 time_added: 2021-05-16 17:00:11
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/04/governador-paulo-camara-1080x630.jpg
 ---

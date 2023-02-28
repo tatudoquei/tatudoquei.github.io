@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-20 20:02:00
 pub_date: 2022-10-20 20:02:00
 time_added: 2022-10-22 17:52:45
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/dd/2022/10/20/promessa-bolsonaro-diz-que-o-ministro-da-economia-paulo-guedes-fica-no-governo-em-eventual-segundo-mandato-nosso-pele-da-economia-1666267806366_v2_615x300.jpg
 ---

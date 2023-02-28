@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-26 16:00:00
 pub_date: 2019-06-26 16:00:00
 time_added: 2019-06-27 05:32:50
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/52/2019/06/26/26jun2019---post-do-presidente-jair-bolsonaro-psl-sobre-sargento-preso-com-cocaina-em-aviao-da-fab-1561581771042_v2_615x300.png
 ---

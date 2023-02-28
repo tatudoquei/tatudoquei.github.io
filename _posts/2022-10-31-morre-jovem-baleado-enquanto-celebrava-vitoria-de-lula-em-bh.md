@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-31 01:44:00
 pub_date: 2022-10-31 01:44:00
 time_added: 2022-10-31 13:22:52
-category: 
+categories: []
 tags: []
 image: https://img.r7.com/images/pedro-henrique-dias-celebracao-lula-30102022224256443?dimensions=677x369&
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-04 17:38:00
 pub_date: 2019-10-04 17:38:00
 time_added: 2019-10-06 08:22:28
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/58/files/2019/10/LuisRobertoBarrosoPedroLadeiraFolha-615x300.jpg
 ---

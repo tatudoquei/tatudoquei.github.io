@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-11 10:52:00
 pub_date: 2019-06-11 10:52:00
 time_added: 2019-06-11 20:04:03
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/8f/2018/09/06/presidios-do-ceara-sofrem-com-superlotacao-carceraria-e-estrutura-deficitaria-1536244591172_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-04 20:43:02
 pub_date: 2020-05-04 20:43:02
 time_added: 2020-05-04 22:43:02
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/01/20190116_00_campus_usp_sp.jpg
 ---

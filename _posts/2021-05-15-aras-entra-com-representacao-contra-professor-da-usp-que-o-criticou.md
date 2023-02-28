@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-15 17:18:00
 pub_date: 2021-05-15 17:18:00
 time_added: 2021-05-15 22:40:10
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b2/2021/05/15/o-procurador-geral-da-republica-augusto-aras-em-foto-de-arquivo-1621115446478_v2_615x300.jpg
 ---

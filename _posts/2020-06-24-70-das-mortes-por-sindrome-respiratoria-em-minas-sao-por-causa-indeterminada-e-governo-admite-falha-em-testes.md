@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-24 08:30:36
 pub_date: 2020-06-24 08:30:36
 time_added: 2020-06-25 23:14:35
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/UzXYxBeR2eEbgzqokF00yPF8-go=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/Q/ND5qNBR2W4CuqVLyYIPQ/fusion-medical-animation-eaggqoiddmg-unsplash.jpg
 ---

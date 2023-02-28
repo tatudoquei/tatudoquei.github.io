@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-19 16:59:59
 pub_date: 2020-11-19 16:59:59
 time_added: 2020-11-19 19:57:44
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2020/11/11042019-almoo-com-participantes-do-encontro-do-conselho-interdenominacional-de-ministros-evanglicos-do-brasil-cimeb-33710441328-o-scaled.jpg
 ---

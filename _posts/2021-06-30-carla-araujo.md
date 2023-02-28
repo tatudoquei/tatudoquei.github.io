@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-30 18:13:00
 pub_date: 2021-06-30 18:13:00
 time_added: 2021-07-25 16:47:33
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c8/2021/06/30/fernando-wandscheer-de-moura-com-o-presidente-jair-bolsonaro-1625049584467_v2_615x300.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-13 03:32:33
 pub_date: 2021-01-13 03:32:33
 time_added: 2021-01-22 23:30:18
-category: avisamos
+categories: [avisamos]
 tags: [meio ambiente]
 image: https://climainfo.org.br/wp-content/uploads/2021/01/Parques-Nacionais.jpeg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-30 21:47:00
 pub_date: 2022-09-30 21:47:00
 time_added: 2022-10-03 00:04:58
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f2/2022/09/26/flavio-bolsonaro-valdemar-da-costa-neto-e-jair-bolsonaro-durante-ato-de-filiacao-ao-pl-1664193700974_v2_615x300.png
 ---

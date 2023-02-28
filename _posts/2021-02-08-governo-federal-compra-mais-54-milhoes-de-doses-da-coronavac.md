@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-08 22:35:33
 pub_date: 2021-02-08 22:35:33
 time_added: 2021-02-12 23:12:55
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/01/Vacinas-Aviao-FAB-CoronaVac-Brasilia-114-1200x630.jpg
 ---

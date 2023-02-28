@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-20 18:10:35
 pub_date: 2023-01-20 18:10:35
 time_added: 2023-01-21 04:13:45
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2023/01/Capa_Facebook_Cartao-corporativo-de-Bolsonaro-financiou-encontros-com-pastores-e-Marchas-para-Jesus-1.png
 ---

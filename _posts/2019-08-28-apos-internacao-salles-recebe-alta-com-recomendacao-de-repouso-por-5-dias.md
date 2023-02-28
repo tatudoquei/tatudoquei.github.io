@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-28 19:39:08
 pub_date: 2019-08-28 19:39:08
 time_added: 2019-08-30 23:37:52
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2019/08/2019-08-01t193219z_1164220260_rc18c5dea040_rtrmadp_3_brazil-environment.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

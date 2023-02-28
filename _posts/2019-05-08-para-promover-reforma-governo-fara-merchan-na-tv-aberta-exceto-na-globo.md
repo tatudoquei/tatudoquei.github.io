@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-08 16:45:00
 pub_date: 2019-05-08 16:45:00
 time_added: 2019-05-09 22:51:45
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2015/05/29/homem-assistindo-televisao-tv-digital-controle-remoto-assistindo-tv-no-sofa-1432913099260_v2_750x421.jpg
 ---

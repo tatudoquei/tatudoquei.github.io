@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-13 11:35:43
 pub_date: 2021-11-13 11:35:43
 time_added: 2021-11-13 12:35:43
-category: 
+categories: []
 tags: []
 image: https://www.revistaquestaodeciencia.com.br/sites/default/files/styles/facebook/public/2021-11/APOCALIPSE_SQUARE.jpg?itok=ZiJf7KXF
 ---

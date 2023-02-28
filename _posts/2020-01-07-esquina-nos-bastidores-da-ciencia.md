@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-07 18:49:59
 pub_date: 2020-01-07 18:49:59
 time_added: 2020-01-07 19:49:59
-category: refletimos
+categories: [refletimos]
 tags: [ciência]
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/12/160_esquina6_redes.png
 ---

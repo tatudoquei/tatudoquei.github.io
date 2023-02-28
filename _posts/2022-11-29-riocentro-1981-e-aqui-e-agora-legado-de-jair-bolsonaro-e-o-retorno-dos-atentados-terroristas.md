@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-29 13:07:00
 pub_date: 2022-11-29 13:07:00
 time_added: 2022-12-27 16:03:44
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2022/11/bolsonaro-riocentro-terrorismo-extrema-direita-redes.jpg
 ---

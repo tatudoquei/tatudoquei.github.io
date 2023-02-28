@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-03 03:30:00
 pub_date: 2019-02-03 03:30:00
 time_added: 2019-02-04 23:31:29
-category: avisamos
+categories: [avisamos, bandido bom]
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23424571-374-6a4/FT1086A/760/italo-ciba.jpg
 ---

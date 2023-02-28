@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-20 16:34:17
 pub_date: 2021-05-20 16:34:17
 time_added: 2021-06-05 09:47:21
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/05/calor.jpg
 ---

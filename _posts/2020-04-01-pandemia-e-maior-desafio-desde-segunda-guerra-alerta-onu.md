@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-01 03:45:00
 pub_date: 2020-04-01 03:45:00
 time_added: 2020-04-01 12:11:30
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/11/2020/01/09/09jan2020---debate-no-conselho-de-seguranca-da-onu-1578622250885_v2_615x300.jpg
 ---

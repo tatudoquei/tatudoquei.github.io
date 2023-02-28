@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-30 17:00:00
 pub_date: 2019-06-30 17:00:00
 time_added: 2019-07-01 19:30:44
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23693092-ba1-019/FT1086A/652/desmatamento.jpg
 ---

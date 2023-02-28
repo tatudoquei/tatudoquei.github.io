@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-26 21:55:31
 pub_date: 2023-01-26 21:55:31
 time_added: 2023-01-26 18:55:31
-category: 
+categories: []
 tags: []
 image: https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportTopNews/tagreuters.com2022binary_LYNXMPEIAT0UT-FILEDIMAGE.jpg?w=940
 ---

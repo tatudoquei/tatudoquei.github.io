@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-29 19:24:37
 pub_date: 2020-09-29 19:24:37
 time_added: 2020-09-29 22:06:27
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2020/09/pantanal1.jpg
 ---

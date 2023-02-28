@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-07 19:36:00
 pub_date: 2021-11-07 19:36:00
 time_added: 2021-11-13 13:24:46
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/d8/2021/11/07/luciano-huck-1636328197433_v2_615x300.jpg
 ---

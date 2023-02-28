@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-23 12:00:00
 pub_date: 2021-02-23 12:00:00
 time_added: 2021-07-04 12:31:28
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/interacao/share/conteudo_antigo_lg_new.png
 ---

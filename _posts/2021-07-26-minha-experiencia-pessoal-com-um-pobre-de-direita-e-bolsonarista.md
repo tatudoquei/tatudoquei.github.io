@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-26 11:51:35
 pub_date: 2021-07-26 11:51:35
 time_added: 2021-07-30 21:55:15
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/cartacampinas.com.br/wordpress/wp-content/uploads/foto-marcelo-camargo-ag-brasil-2.jpg?fit=650%2C307&ssl=1
 ---

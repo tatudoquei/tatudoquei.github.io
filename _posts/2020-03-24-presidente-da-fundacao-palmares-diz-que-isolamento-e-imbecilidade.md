@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-24 08:16:00
 pub_date: 2020-03-24 08:16:00
 time_added: 2020-03-27 12:24:49
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/51/2020/03/11/sergio-camargo-presidente-da-fundacao-palmares-em-entrevista-a-imprensa-apos-encontro-com-o-presidente-jair-bolsonaro-no-palacio-do-planalto-em-brasilia-1583967269171_v2_750x421.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-24 21:14:29
 pub_date: 2020-05-24 21:14:29
 time_added: 2020-05-24 22:09:36
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/W92QMypMpIghBiI0h2v0giLIi5M=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/4/q/fwMAbzScegqDIfYyYkHw/2020-05-19t184957z-461916947-rc2urg968kbj-rtrmadp-3-health-coronavirus-usa.jpg
 ---

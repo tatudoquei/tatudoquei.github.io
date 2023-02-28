@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-29 14:17:00
 pub_date: 2021-10-29 14:17:00
 time_added: 2021-11-13 12:38:06
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/_layout/v3/logoUOL2021/default-share/economia.png
 ---

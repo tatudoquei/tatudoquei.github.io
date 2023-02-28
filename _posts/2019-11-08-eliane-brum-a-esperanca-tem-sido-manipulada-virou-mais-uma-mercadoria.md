@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-08 09:55:00
 pub_date: 2019-11-08 09:55:00
 time_added: 2019-11-08 17:28:26
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/137/files/2019/11/LiBrum_Lilo-Clareto-615x300.jpg
 ---

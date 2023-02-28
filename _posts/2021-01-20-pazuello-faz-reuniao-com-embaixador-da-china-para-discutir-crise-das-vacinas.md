@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-20 22:06:00
 pub_date: 2021-01-20 22:06:00
 time_added: 2021-01-21 15:51:54
-category: avisamos
+categories: [avisamos]
 tags: [diplomacia, saúde]
 image: https://f.i.uol.com.br/fotografia/2021/01/20/161116115060085e3e36524_1611161150_3x2_rt.jpg
 ---

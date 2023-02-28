@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-29 14:28:00
 pub_date: 2021-03-29 14:28:00
 time_added: 2021-03-29 19:59:27
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/c65fiomx49sDhTg4LBCA0Ghy-Tg=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2021/03/29/xmilitares-bolsonaro.jpg.pagespeed.ic.zhlugkgczh.jpg
 ---

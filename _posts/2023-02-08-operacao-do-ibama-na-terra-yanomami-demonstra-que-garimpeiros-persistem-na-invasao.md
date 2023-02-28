@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-08 16:38:41
 pub_date: 2023-02-08 16:38:41
 time_added: 2023-02-11 23:05:03
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2023/02/Capa_Facebook_Operacao-do-Ibama-na-terra-Yanomami-demonstra-que-garimpeiros-persistem-na-invasao.png
 ---

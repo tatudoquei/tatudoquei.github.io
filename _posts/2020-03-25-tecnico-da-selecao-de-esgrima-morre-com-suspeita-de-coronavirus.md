@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-25 20:23:00
 pub_date: 2020-03-25 20:23:00
 time_added: 2020-03-26 07:56:32
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/esporte/ee/2020/03/25/lorenzo-mion-giacomo-guarnera-henrique-marques-e-pierre-souza-da-esquerda-para-direita-1585182103530_v2_615x300.jpg
 ---

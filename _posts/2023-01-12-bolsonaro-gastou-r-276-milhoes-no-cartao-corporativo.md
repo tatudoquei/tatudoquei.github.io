@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-12 19:04:09
 pub_date: 2023-01-12 19:04:09
 time_added: 2023-01-14 09:19:44
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Jair_Bolsonaro8/alternates/LANDSCAPE_768/Jair_Bolsonaro
 ---

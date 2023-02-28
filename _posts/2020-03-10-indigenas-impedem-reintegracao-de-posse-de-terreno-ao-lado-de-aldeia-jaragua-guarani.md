@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-10 18:14:36
 pub_date: 2020-03-10 18:14:36
 time_added: 2020-03-11 02:11:02
-category: 
+categories: []
 tags: []
 image: https://img.brasildefato.com.br/media/5f821edb829c0beaa9554e111cf3260e.jpeg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-26 07:30:00
 pub_date: 2021-02-26 07:30:00
 time_added: 2021-03-06 22:51:59
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24900360-918-249/FT1086A/652/MiguelNicolelis.jpg
 ---

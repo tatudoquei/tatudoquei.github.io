@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-18 11:42:00
 pub_date: 2020-01-18 11:42:00
 time_added: 2020-01-19 07:41:56
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24198820-333-248/FT1086A/652/AlexandreLopes.jpg
 ---

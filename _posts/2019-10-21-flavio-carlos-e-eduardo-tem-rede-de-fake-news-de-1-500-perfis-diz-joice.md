@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-21 21:20:00
 pub_date: 2019-10-21 21:20:00
 time_added: 2019-10-22 21:35:22
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2e/2019/10/21/joice-hasselmann-no-roda-viva-1571708506072_v2_615x300.jpg
 ---

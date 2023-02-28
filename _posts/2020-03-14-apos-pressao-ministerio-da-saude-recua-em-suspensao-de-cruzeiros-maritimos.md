@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-14 11:57:00
 pub_date: 2020-03-14 11:57:00
 time_added: 2020-03-15 00:27:56
-category: recuadas
+categories: [recuadas]
 tags: [saúde]
 image: https://f.i.uol.com.br/fotografia/2020/03/04/15833517045e600798a0896_1583351704_3x2_rt.jpg
 ---

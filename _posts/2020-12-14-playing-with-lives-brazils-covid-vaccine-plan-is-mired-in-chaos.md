@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-14 16:25:26
 pub_date: 2020-12-14 16:25:26
 time_added: 2021-06-05 18:28:25
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/12/11/world/Brazil-Vax-Top/merlin_179411262_b49c81d2-7aeb-48b7-9635-3652445cbb92-facebookJumbo.jpg
 ---

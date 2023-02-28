@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-10 04:01:00
 pub_date: 2019-01-10 04:01:00
 time_added: 2019-12-23 21:41:24
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://conteudo.imguol.com.br/blogs/2/files/2019/01/whathappenedtobrazil-615x300.jpg
 ---

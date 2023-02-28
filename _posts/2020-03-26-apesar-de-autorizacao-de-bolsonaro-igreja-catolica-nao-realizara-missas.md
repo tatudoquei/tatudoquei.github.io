@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-26 20:59:00
 pub_date: 2020-03-26 20:59:00
 time_added: 2020-03-27 22:33:36
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/9e/2020/03/25/25mar2020---o-presidente-jair-bolsonaro-sem-partido-em-videoconferencia-com-governadores-do-sudeste-1585179036832_v2_615x300.jpg
 ---

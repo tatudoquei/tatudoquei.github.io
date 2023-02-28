@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-20 20:34:44
 pub_date: 2021-09-20 20:34:44
 time_added: 2021-09-26 17:40:51
-category: 
+categories: []
 tags: []
 image: https://i2.wp.com/jornal.usp.br/wp-content/uploads/2020/07/20200716_00_predio_capes.jpg?fit=800%2C420&ssl=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-12 21:57:00
 pub_date: 2020-05-12 21:57:00
 time_added: 2020-05-13 11:27:41
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24368369-a70-c79/FT1086A/652/x83246839_BSBBrasiliaBrasil18-06-2019Presidente-Jair-Bolsonaro-participa-doHasteamento.jpg.pagespeed.ic.tRsEVpC8Ev-1.jpg
 ---

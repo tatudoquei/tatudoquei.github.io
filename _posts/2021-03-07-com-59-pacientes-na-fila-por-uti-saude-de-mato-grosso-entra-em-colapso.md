@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-07 16:06:00
 pub_date: 2021-03-07 16:06:00
 time_added: 2021-03-21 09:06:58
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/e7/2020/11/30/tubo-de-teste-generico-de-covid-19-teste-coronavirus-saliva-1606762360972_v2_615x300.jpg
 ---

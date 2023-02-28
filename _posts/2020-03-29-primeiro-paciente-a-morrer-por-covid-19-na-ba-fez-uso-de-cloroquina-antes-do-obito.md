@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-29 09:20:00
 pub_date: 2020-03-29 09:20:00
 time_added: 2020-03-29 20:19:50
-category: 
+categories: []
 tags: []
 image: https://www.bahianoticias.com.br/fotos/saude_noticias/23894/IMAGEM_NOTICIA_9.jpg
 ---

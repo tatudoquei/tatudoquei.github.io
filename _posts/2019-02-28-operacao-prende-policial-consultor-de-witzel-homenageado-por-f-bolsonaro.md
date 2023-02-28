@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-28 11:01:00
 pub_date: 2019-02-28 11:01:00
 time_added: 2019-04-19 07:42:54
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f2/2019/02/28/o-policial-civil-flavio-pacca-castelo-branco-57-foi-preso-por-integrar-uma-quadrilha-de-policiais-suspeitos-de-praticar-extorsoes-contra-comerciantes-na-baixada-fluminense-1551366011440_v2_750x421.jpg
 ---

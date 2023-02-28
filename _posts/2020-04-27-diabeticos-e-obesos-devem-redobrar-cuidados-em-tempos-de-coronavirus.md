@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-27 17:15:37
 pub_date: 2020-04-27 17:15:37
 time_added: 2020-04-28 19:28:52
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/20180427_obesidade-8-1280px.jpg
 ---

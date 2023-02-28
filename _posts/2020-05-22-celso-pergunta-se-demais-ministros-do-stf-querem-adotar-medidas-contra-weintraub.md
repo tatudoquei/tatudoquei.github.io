@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-22 16:12:00
 pub_date: 2020-05-22 16:12:00
 time_added: 2020-05-23 17:43:43
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24435247-cd8-188/FT1086A/652/Weintraub.jpg
 ---

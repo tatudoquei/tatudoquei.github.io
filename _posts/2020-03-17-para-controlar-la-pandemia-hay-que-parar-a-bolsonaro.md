@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-17 18:38:05
 pub_date: 2020-03-17 18:38:05
 time_added: 2020-03-18 16:00:22
-category: 
+categories: []
 tags: []
 image: https://ep00.epimg.net/elpais/imagenes/2020/03/17/opinion/1584447372_572647_1584453675_rrss_normal.jpg
 ---

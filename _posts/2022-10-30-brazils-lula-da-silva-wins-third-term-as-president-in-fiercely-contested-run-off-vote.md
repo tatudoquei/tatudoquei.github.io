@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-30 12:33:15
 pub_date: 2022-10-30 12:33:15
 time_added: 2022-10-30 23:09:19
-category: 
+categories: []
 tags: []
 image: https://media.cnn.com/api/v1/images/stellar/prod/221030183229-luiz-inacio-lula-da-silva-103022.jpg?c=16x9&q=w_800,c_fill
 ---

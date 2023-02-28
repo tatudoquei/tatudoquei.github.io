@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-26 10:19:00
 pub_date: 2019-03-26 10:19:00
 time_added: 2019-03-26 19:30:54
-category: avisamos
+categories: [avisamos]
 tags: [economia]
 image: https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook.jpg
 ---

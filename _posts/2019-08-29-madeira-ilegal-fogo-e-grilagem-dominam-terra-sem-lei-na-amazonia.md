@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-29 14:30:26
 pub_date: 2019-08-29 14:30:26
 time_added: 2019-08-30 23:38:51
-category: 
+categories: []
 tags: []
 image: https://reporterbrasil.org.br/wp-content/uploads/2019/08/labria_mauriciomonteiro_reporterbrasil-800x450.jpg
 ---

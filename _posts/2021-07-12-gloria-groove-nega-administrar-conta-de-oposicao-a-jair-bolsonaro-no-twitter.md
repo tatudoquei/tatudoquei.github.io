@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-12 16:14:54
 pub_date: 2021-07-12 16:14:54
 time_added: 2021-07-25 16:57:18
-category: 
+categories: []
 tags: []
 image: https://i0.statig.com.br/bancodeimagens/08/op/x1/08opx153q5y88j07eqqrhubs1.jpg
 ---

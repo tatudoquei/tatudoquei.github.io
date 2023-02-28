@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-01 05:00:42
 pub_date: 2023-01-01 05:00:42
 time_added: 2023-01-01 21:42:35
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2022/10/19102441/Bolsonaro-e-Moraes-1.jpg
 ---

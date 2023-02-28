@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-25 16:50:39
 pub_date: 2021-03-25 16:50:39
 time_added: 2021-03-25 20:23:09
-category: 
+categories: []
 tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2021/03/media-nebulizacao-cloroquina.png
 ---

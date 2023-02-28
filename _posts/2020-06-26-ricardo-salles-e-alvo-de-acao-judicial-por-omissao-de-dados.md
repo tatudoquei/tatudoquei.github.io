@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-26 23:50:52
 pub_date: 2020-06-26 23:50:52
 time_added: 2020-06-27 04:31:41
-category: 
+categories: []
 tags: []
 image: http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2019/10/10/2019-10-10T194155Z_1_LYNXMPEF9922K_RTROPTP_4_AMBIENTE-MMA-PETROLEO-VENEZUELA.JPG
 ---

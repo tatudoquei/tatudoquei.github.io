@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-14 03:00:00
 pub_date: 2020-01-14 03:00:00
 time_added: 2020-01-15 00:01:31
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/05/2019/06/27/o-ator-wagner-moura-no-festival-de-berlim-1561680877481_v2_615x300.jpg
 ---

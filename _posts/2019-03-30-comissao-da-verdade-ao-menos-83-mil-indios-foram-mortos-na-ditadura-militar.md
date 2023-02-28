@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-30 09:58:49
 pub_date: 2014-12-12 00:44:07
 time_added: 2019-03-30 09:58:49
-category: 
+categories: []
 tags: []
 image: http://amazoniareal.com.br/wp-content/uploads/2014/12/comissao.jpg
 ---

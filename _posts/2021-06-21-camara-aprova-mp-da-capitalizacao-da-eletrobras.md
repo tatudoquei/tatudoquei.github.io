@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-21 22:06:43
 pub_date: 2021-06-21 22:06:43
 time_added: 2021-07-04 12:09:25
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/06/eletrobras-divulgacao-868x630.jpeg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-14 17:14:00
 pub_date: 2021-06-14 17:14:00
 time_added: 2021-06-19 20:11:59
-category: 
+categories: []
 tags: []
 image: https://www12.senado.leg.br/noticias/materias/2021/06/14/polemica-privatizacao-da-eletrobras-esta-na-pauta-do-plenario-nesta-quarta-feira/energia_01___20190923_01190-2.jpg
 ---

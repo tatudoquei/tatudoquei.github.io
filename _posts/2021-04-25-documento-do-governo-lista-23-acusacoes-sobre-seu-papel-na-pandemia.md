@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-25 11:43:00
 pub_date: 2021-04-25 11:43:00
 time_added: 2021-04-26 17:55:52
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/47/2021/04/23/23abr2021---bolsonaro-e-pazuello-participaram-da-cerimonia-de-inauguracao-do-centro-de-convencoes-do-amazonas-1619202874759_v2_615x300.jpg
 ---

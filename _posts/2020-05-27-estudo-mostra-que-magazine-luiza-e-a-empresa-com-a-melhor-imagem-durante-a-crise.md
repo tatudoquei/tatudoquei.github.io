@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-27 12:00:32
 pub_date: 2020-05-27 12:00:32
 time_added: 2020-05-28 18:53:40
-category: 
+categories: []
 tags: []
 image: https://media.moneytimes.com.br/uploads/2020/04/magazine-luiza-mglu35.jpg
 ---

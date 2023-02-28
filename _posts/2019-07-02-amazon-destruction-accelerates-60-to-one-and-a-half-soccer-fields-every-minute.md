@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-02 16:22:23
 pub_date: 2019-07-02 16:22:23
 time_added: 2019-07-04 22:28:29
-category: 
+categories: []
 tags: []
 image: https://cdn.cnn.com/cnnnext/dam/assets/181116102057-western-amazon-deforestation-super-tease.jpg
 ---

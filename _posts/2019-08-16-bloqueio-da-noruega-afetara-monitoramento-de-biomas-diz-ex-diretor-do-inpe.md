@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-16 17:05:00
 pub_date: 2019-08-16 17:05:00
 time_added: 2019-08-22 23:47:40
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/4b/2019/08/16/o-ex-diretor-do-inpe-instituto-nacional-de-pesquisas-espaciais-ricardo-galvao-1565991228891_v2_615x300.jpg
 ---

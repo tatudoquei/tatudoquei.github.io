@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-09 21:50:22
 pub_date: 2020-12-09 21:50:22
 time_added: 2020-12-10 14:41:06
-category: 
+categories: []
 tags: []
 image: https://cdn.oantagonista.net/uploads/2019/01/vac_abr_2111187478-1024x683.jpg
 ---

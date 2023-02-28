@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-02 14:55:00
 pub_date: 2020-06-02 14:55:00
 time_added: 2020-06-07 08:49:20
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/bc/2020/04/30/executivo-de-futebol-do-sao-paulo-rai-critica-atuacao-de-jair-bolsonaro-diante-da-covid-19-e-sugere-que-presidente-deveria-pedir-renuncia-para-evitar-o-processo-de-impeachment-1588263941980_v2_615x300.jpg
 ---

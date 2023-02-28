@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-24 22:00:00
 pub_date: 2019-08-24 22:00:00
 time_added: 2019-08-23 07:22:45
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/Ll87y4q5O0FhgtyGwmZttX18SdQ=/512x320/smart/e.glbimg.com/og/ed/f/original/2019/05/31/honey-bees-326337_960_720.jpg
 ---

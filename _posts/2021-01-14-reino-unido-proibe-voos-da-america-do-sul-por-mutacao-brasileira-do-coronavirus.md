@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-14 17:12:29
 pub_date: 2021-01-14 17:12:29
 time_added: 2021-01-15 15:31:01
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/01/reino-unido-868x644-1-868x644-1-868x630.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-30 22:53:32
 pub_date: 2020-05-30 22:53:32
 time_added: 2020-05-31 04:14:11
-category: 
+categories: []
 tags: []
 image: https://ponte.org/wp-content/uploads/2020/05/alpha.jpeg
 ---

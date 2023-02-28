@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-18 22:23:09
 pub_date: 2018-04-04 12:58:52
 time_added: 2019-04-18 22:23:09
-category: refletimos
+categories: [refletimos]
 tags: []
 image: http://www.comciencia.br/wp-content/uploads/2018/04/muro_.jpg
 ---

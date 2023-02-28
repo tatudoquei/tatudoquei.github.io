@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-09 18:22:44
 pub_date: 2011-04-23 22:00:00
 time_added: 2019-07-09 18:22:44
-category: 
+categories: []
 tags: []
 image: https://drauziovarella.uol.com.br/wp-content/uploads/2011/04/201906_drauzio_hospital-maca_2641675_jcpjr1111_1000x563.jpg
 ---

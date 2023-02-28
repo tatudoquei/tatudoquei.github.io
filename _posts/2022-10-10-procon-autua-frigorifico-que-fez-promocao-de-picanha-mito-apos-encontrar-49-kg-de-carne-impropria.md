@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-10 04:47:06
 pub_date: 2022-10-10 04:47:06
 time_added: 2022-10-10 06:47:06
-category: 
+categories: []
 tags: []
 image: https://irp.cdn-website.com/4b509ff7/dms3rep/multi/WhatsApp-Image-2022-10-02-at-12.29.41-%281%29-1920w.webp
 ---

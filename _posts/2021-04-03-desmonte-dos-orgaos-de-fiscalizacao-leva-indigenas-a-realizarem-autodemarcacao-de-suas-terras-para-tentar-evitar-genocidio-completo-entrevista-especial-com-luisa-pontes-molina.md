@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-03 15:16:25
 pub_date: 2021-04-03 15:16:25
 time_added: 2021-04-03 17:16:25
-category: 
+categories: []
 tags: []
 image: http://www.ihu.unisinos.br/images/ihu/2021/03/25_03_garimpo_timunduruku_foto_vinicius_mendonca_ibama.jpg
 ---

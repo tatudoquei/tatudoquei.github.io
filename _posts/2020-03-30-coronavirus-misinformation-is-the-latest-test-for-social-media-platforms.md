@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-30 20:26:00
 pub_date: 2020-03-30 20:26:00
 time_added: 2020-03-30 22:35:20
-category: 
+categories: []
 tags: []
 image: https://cdn.arstechnica.net/wp-content/uploads/2020/03/GettyImages-1129377200-640x427.jpg
 ---

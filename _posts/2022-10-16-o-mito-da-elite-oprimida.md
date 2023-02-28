@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-16 09:51:35
 pub_date: 2022-10-16 09:51:35
 time_added: 2022-10-16 11:51:35
-category: 
+categories: []
 tags: []
 image: https://www.revistaquestaodeciencia.com.br/sites/default/files/styles/facebook/public/2022-10/ALICE_CORRIDA_SQUARE.jpg?itok=8pnFfC6h
 ---

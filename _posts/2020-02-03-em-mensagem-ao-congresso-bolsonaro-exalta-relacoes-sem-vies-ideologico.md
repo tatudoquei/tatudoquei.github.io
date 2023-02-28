@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-03 15:41:00
 pub_date: 2020-02-03 15:41:00
 time_added: 2020-02-03 21:05:43
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/8d/2020/02/03/onyx-lorenzoni-ministro-chefe-da-casa-civil-entrega-mensagem-do-presidente-jair-bolsonaro-para-a-abertura-dos-trabalhos-do-congresso-em-2020-1580758718341_v2_615x300.jpg
 ---

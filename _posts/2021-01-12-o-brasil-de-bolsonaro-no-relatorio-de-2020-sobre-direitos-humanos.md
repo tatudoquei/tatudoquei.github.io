@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-12 23:00:00
 pub_date: 2021-01-12 23:00:00
 time_added: 2021-02-07 06:46:25
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/O-Brasil-de-Bolsonaro-no-relat%C3%B3rio-de-2020-sobre-direitos-humanos/alternates/LANDSCAPE_768/O%20Brasil%20de%20Bolsonaro%20no%20relat%C3%B3rio%20de%202020%20sobre%20direitos%20humanos
 ---

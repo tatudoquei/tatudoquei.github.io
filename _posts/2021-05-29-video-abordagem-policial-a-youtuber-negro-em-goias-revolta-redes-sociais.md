@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-29 08:45:06
 pub_date: 2021-05-29 08:45:06
 time_added: 2021-05-30 09:48:00
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2021/05/ciclista-negro.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-01 15:00:00
 pub_date: 2019-08-01 15:00:00
 time_added: 2019-08-01 22:06:35
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/08/desmatamento_foro_redes_01082019.jpg
 ---

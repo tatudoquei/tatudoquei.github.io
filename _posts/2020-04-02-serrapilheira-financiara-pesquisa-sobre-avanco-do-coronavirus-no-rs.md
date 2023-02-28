@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-02 11:55:46
 pub_date: 2020-04-02 11:55:46
 time_added: 2020-04-02 13:55:46
-category: 
+categories: []
 tags: []
 image: https://serrapilheira.org/wp-content/uploads/2020/04/sars-cov2.png
 ---

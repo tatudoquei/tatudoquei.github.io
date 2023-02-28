@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-19 14:31:00
 pub_date: 2020-03-19 14:31:00
 time_added: 2020-03-21 13:55:32
-category: 
+categories: []
 tags: []
 image: https://correio-cdn3.cworks.cloud/fileadmin/_processed_/0/7/csm_Aeroporto_Sesab_4e73536895.jpeg
 ---

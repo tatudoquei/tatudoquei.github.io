@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-09 14:53:39
 pub_date: 2023-01-09 14:53:39
 time_added: 2023-01-10 23:55:17
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/13A14/production/_128240408_acamp.jpg
 ---

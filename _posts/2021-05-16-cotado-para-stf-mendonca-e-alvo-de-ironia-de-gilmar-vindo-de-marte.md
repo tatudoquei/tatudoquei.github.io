@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-16 15:48:26
 pub_date: 2021-05-16 15:48:26
 time_added: 2021-05-16 17:48:26
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c7/2020/06/03/29abr2020---o-ministro-gilmar-mendes-em-sessao-do-stf-supremo-tribunal-federal-realizada-por-videoconferencia-1591204735929_v2_615x300.jpg
 ---

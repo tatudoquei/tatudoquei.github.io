@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-19 11:56:03
 pub_date: 2019-05-19 11:56:03
 time_added: 2019-05-20 22:19:52
-category: 
+categories: []
 tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2019/05/bolsonaro-mauro-pimentel-afp-3-900x507.jpg
 ---

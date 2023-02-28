@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-04 07:00:00
 pub_date: 2021-07-04 07:00:00
 time_added: 2021-07-05 07:15:46
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e6/2021/07/03/historiador-luiz-antonio-simas-1625361368598_v2_615x300.png
 ---

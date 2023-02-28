@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-26 17:35:00
 pub_date: 2020-10-26 17:35:00
 time_added: 2020-10-27 19:43:05
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/10/plano-governo-redes.jpg
 ---

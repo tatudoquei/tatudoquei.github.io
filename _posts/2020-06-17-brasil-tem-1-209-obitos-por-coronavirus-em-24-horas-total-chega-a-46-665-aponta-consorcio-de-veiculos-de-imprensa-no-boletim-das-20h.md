@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-17 18:00:00
 pub_date: 2020-06-17 18:00:00
 time_added: 2020-06-18 11:04:11
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24484933-d92-a95/FT1086A/652/88506465_A-woman-has-her-temperature-checked-at-de-Mercadao-de-Madureira-market-during-its-reope.jpg
 ---

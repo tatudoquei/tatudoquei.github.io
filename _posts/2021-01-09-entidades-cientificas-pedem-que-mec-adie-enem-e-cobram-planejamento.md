@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-09 00:26:00
 pub_date: 2021-01-09 00:26:00
 time_added: 2021-01-09 09:01:01
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c8/2019/01/09/escola-rede-publica-sala-aula-aluno-alunos-estudante-estudantes-carteira-carteiras-estudo-educacao-professor-professores-ensino-lousa-giz-materia-disciplina-enem-prova-vestibular-1547070528785_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-19 23:29:00
 pub_date: 2020-06-19 23:29:00
 time_added: 2020-06-20 22:35:13
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/06/20200619_00_isolamento_rj.jpg
 ---

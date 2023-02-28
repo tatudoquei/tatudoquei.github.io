@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-03 14:00:54
 pub_date: 2019-06-03 14:00:54
 time_added: 2019-06-04 06:17:30
-category: 
+categories: []
 tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2019/01/ricardo-aquino-salles-e1548340573493.jpg
 ---

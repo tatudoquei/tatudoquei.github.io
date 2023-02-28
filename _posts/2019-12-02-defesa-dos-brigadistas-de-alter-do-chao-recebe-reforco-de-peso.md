@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-02 18:00:00
 pub_date: 2019-12-02 18:00:00
 time_added: 2019-12-03 18:39:17
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24112011-8ec-dcf/FT1086A/652/Brigadistas-Alter-do-Chao.jpg
 ---

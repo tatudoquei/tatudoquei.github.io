@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-05 18:36:03
 pub_date: 2020-04-05 18:36:03
 time_added: 2020-04-05 20:36:03
-category: 
+categories: []
 tags: []
 image: http://revistaquestaodeciencia.com.br/sites/default/files/styles/facebook/public/2020-04/BAD_SCIENCE_SQUARE.jpg?itok=_Wc6rhLJ
 ---

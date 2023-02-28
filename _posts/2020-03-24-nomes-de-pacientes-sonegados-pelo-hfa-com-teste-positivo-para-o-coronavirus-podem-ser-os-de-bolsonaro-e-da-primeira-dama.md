@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-24 18:20:33
 pub_date: 2020-03-24 18:20:33
 time_added: 2020-03-24 22:50:51
-category: 
+categories: []
 tags: []
 image: http://blogs.correiobraziliense.com.br/vicente/wp-content/uploads/sites/16/2019/11/Bolsonaro-e-Eduardo.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-10 17:36:54
 pub_date: 2021-01-10 17:36:54
 time_added: 2021-01-11 15:59:19
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/HYfEchWZ_We8QrUdwgDXdF-GNlc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/V/8/qX6U7sT9uY3OENF0Bo8g/2021-01-05t175959z-1091453123-rc2t1l9jo7so-rtrmadp-3-health-coronavirus-germany-merkel.jpg
 ---

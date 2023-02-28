@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-29 22:09:27
 pub_date: 2021-01-29 22:09:27
 time_added: 2021-02-21 17:07:25
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2021/01/20200713_00_testagem_laboratorio_pesquisa.jpg
 ---

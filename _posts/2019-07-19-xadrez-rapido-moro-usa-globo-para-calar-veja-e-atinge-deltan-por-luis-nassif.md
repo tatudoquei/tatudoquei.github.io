@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-19 13:06:14
 pub_date: 2019-07-19 13:06:14
 time_added: 2019-07-19 22:54:32
-category: 
+categories: []
 tags: []
 image: https://jornalggn.com.br/sites/default/files/2019/07/xadrez-rapido-moro-usa-globo-para-calar-veja-e-atinge-deltan-por-luis-nassif-moro-veja.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-10 05:29:17
 pub_date: 2020-06-10 05:29:17
 time_added: 2020-06-10 07:29:17
-category: 
+categories: []
 tags: []
 image: https://www.revistaquestaodeciencia.com.br/sites/default/files/styles/facebook/public/2020-06/RED_VIRUS_SQUARE.jpg?itok=FJ8mA-Le
 ---

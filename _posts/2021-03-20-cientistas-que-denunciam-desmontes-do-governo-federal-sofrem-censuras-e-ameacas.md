@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-20 13:59:15
 pub_date: 2021-03-20 13:59:15
 time_added: 2021-03-20 14:59:15
-category: 
+categories: []
 tags: []
 image: https://www.socioambiental.org/sites/blog.socioambiental.org/files/styles/twitter-card/public/blogs/40109064403_17a32fc585_o.jpg?itok=T-7oWzRz
 ---

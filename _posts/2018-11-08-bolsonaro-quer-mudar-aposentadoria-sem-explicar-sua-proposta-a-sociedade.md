@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-11-08 18:06:00
 pub_date: 2018-11-08 18:06:00
 time_added: 2018-11-09 13:24:36
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2018/01/idoso.jpg
 ---

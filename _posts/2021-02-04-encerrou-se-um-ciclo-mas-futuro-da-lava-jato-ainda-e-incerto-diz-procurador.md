@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-04 02:30:00
 pub_date: 2021-02-04 02:30:00
 time_added: 2021-02-06 12:13:57
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24868508-e25-286/FT1086A/652/paludo.jpg
 ---

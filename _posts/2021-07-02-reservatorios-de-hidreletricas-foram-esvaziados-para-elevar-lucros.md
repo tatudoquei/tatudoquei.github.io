@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-02 22:58:57
 pub_date: 2021-07-02 22:58:57
 time_added: 2021-09-01 17:41:42
-category: 
+categories: []
 tags: []
 image: https://monitormercantil.com.br/wp-content/uploads/2021/05/Reservatorio-vazio-foto-de-Fabio-Rodrigues-Pozzebom-ABr.jpg
 ---

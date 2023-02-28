@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-09 12:09:52
 pub_date: 2023-01-09 12:09:52
 time_added: 2023-01-15 09:23:20
-category: 
+categories: []
 tags: []
 image: https://www.revistaogrito.com/wp-content/uploads/2023/01/cavalcanti.jpg
 ---

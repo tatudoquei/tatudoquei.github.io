@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-18 14:58:00
 pub_date: 2022-10-18 14:58:00
 time_added: 2022-10-22 17:57:17
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/c2/2022/10/16/tse-atende-lula-e-abre-acao-para-apurar-tratamento-privilegiado-a-bolsonaro-na-jovem-pan-1665919213378_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-15 11:38:55
 pub_date: 2020-05-15 11:38:55
 time_added: 2020-05-15 20:48:42
-category: 
+categories: []
 tags: []
 image: http://blogs.correiobraziliense.com.br/denise/wp-content/uploads/sites/12/2020/05/CBIFOT170420201735.jpg
 ---

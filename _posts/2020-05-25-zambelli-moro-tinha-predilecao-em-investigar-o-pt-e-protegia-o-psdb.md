@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-25 10:37:00
 pub_date: 2020-05-25 10:37:00
 time_added: 2020-05-25 19:35:20
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/32/2020/04/21/moro-discursa-em-casamento-de-carla-zambelli-1587459080326_v2_615x300.jpg
 ---

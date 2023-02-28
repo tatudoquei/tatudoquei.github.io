@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-04 00:22:27
 pub_date: 2023-02-04 00:22:27
 time_added: 2023-02-03 21:22:27
-category: 
+categories: []
 tags: []
 image: https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/01/yanomami-exercito.jpg
 ---

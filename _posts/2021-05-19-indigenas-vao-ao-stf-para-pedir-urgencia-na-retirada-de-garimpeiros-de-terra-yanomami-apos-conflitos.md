@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-19 14:40:00
 pub_date: 2021-05-19 14:40:00
 time_added: 2021-05-22 23:17:05
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25013869-36a-d90/FT1086A/balas.jpg
 ---

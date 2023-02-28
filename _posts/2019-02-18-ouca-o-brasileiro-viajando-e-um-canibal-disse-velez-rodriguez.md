@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-18 23:32:50
 pub_date: 2019-02-18 23:32:50
 time_added: 2019-02-20 08:48:00
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/01/ricardovelez02.jpg.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

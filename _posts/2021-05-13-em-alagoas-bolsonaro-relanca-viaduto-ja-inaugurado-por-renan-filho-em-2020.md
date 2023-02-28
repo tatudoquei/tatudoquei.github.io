@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-13 02:00:00
 pub_date: 2021-05-13 02:00:00
 time_added: 2021-05-13 17:00:25
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/09/2021/05/12/renan-filho-mdb-governador-de-alagoas-ao-centro-inaugura-viaduto-da-prf-aberto-ao-transito-em-23-de-dezembro-de-2020-1620859320017_v2_615x300.jpg
 ---

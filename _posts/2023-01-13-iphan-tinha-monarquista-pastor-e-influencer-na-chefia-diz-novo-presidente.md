@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-13 03:00:00
 pub_date: 2023-01-13 03:00:00
 time_added: 2023-01-14 14:39:13
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/69/2023/01/12/presidente-do-iphan-leandro-grass-1673555151306_v2_615x300.jpg
 ---

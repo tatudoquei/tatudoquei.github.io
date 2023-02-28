@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-09 16:11:50
 pub_date: 2019-07-09 16:11:50
 time_added: 2019-07-11 18:51:54
-category: 
+categories: []
 tags: []
 image: http://scd.br.rfi.fr/sites/brasil.filesrfi/imagecache/rfi_16x9_1024_578/sites/images.rfi.fr/files/aef_image/yanomamis_3abc206a5-5146-44a4-b624-659806a8f8be.jpg
 ---

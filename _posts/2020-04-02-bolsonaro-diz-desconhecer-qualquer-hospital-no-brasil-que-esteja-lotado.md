@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-02 20:54:25
 pub_date: 2020-04-02 20:54:25
 time_added: 2020-04-02 21:58:08
-category: 
+categories: []
 tags: []
 image: https://extra.globo.com/incoming/24346823-289-ccd/w976h550-PROP/bolsonaro2.jpg
 ---

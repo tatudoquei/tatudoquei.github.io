@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-28 02:04:00
 pub_date: 2020-09-28 02:04:00
 time_added: 2020-09-28 11:23:28
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/56/2020/09/25/19jul19---o-presidente-jair-bolsonaro-ao-lado-do-ex-ministro-osmar-terra-1601070074793_v2_615x300.jpg
 ---

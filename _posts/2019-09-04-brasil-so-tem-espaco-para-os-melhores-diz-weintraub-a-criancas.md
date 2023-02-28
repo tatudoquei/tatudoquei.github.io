@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-04 21:36:22
 pub_date: 2019-09-04 21:36:22
 time_added: 2019-09-05 05:46:58
-category: 
+categories: []
 tags: []
 image: https://www.valor.com.br/sites/default/files/imagecache/media_library_big_horizontal/gn/19/07/foto16bra-201-mec-a2.jpg
 ---

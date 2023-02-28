@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-11 16:53:07
 pub_date: 2019-12-11 16:53:07
 time_added: 2021-06-06 06:51:25
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/12/weintraub2.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

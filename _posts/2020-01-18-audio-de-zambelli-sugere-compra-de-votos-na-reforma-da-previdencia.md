@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-18 10:15:54
 pub_date: 2020-01-18 10:15:54
 time_added: 2020-01-19 07:36:54
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2019/10/mcmgo_abr_290520194470df-1140x630.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-27 09:48:00
 pub_date: 2020-01-27 09:48:00
 time_added: 2020-01-28 08:25:54
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/economia/24213058-c17-ef6/FT1086A/652/carteiraseguro-desemprego.jpg
 ---

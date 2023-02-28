@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-16 09:23:25
 pub_date: 2020-03-16 09:23:25
 time_added: 2020-03-18 08:48:43
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/03/20200317_00_ergon-cugler.jpg
 ---

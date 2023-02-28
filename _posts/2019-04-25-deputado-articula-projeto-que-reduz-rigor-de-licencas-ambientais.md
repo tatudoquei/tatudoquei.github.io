@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-25 17:48:00
 pub_date: 2019-04-25 17:48:00
 time_added: 2019-04-27 08:12:40
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23622857-804-e29/FT1086A/652/81017784_PA-Brasilia-BSB-05-02-2019-Dep-Kim-KataguiriPlenario-da-camara.-Foto-Flickr.jpg
 ---

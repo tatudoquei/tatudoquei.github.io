@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-21 11:30:35
 pub_date: 2020-03-21 11:30:35
 time_added: 2020-03-29 08:52:59
-category: 
+categories: []
 tags: []
 image: https://www.thenation.com/wp-content/uploads/2020/03/Cruise-coronavirus-getty-img.jpg
 ---

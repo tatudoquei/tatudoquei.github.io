@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-26 14:56:55
 pub_date: 2022-10-26 14:56:55
 time_added: 2022-10-28 21:01:05
-category: 
+categories: []
 tags: []
 image: https://images.jota.info/wp-content/uploads/2022/07/candidato-jair-bolsonaro.jpg
 ---

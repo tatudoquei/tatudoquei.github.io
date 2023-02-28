@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-29 12:12:00
 pub_date: 2019-05-29 12:12:00
 time_added: 2019-05-30 17:54:10
-category: 
+categories: []
 tags: []
 image: https://www.hojemais.com.br/imagem/noticia/750/461/1559155027_66531.jpg
 ---

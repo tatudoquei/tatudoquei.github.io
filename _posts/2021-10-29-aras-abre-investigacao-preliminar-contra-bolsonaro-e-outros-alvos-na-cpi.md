@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-29 01:04:00
 pub_date: 2021-10-29 01:04:00
 time_added: 2021-10-30 17:33:18
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b8/2021/08/24/augusto-aras-durante-sabatina-na-ccj-1629834994931_v2_615x300.jpg
 ---

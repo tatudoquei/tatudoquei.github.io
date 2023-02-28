@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-19 02:00:00
 pub_date: 2020-05-19 02:00:00
 time_added: 2020-05-22 20:56:43
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/8b/2018/08/22/pesquisadores-coletam-amostras-de-coral-de-rib-reef-parte-da-grande-barreira-de-corais-em-queensland-na-australia-1534983866417_v2_615x300.jpg
 ---

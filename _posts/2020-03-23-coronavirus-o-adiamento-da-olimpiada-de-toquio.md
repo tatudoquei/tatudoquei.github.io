@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-23 23:00:00
 pub_date: 2020-03-23 23:00:00
 time_added: 2020-03-25 06:43:13
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/durma_20.03.24-social/alternates/LANDSCAPE_768/durma_20.03.24%20-%20social
 ---

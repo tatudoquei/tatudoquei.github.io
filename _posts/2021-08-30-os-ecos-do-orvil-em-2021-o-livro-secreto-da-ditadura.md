@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-30 15:00:00
 pub_date: 2021-08-30 15:00:00
 time_added: 2021-09-26 05:02:34
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/08/facebook-os-ecos-do-orvil-em-2021.png
 ---

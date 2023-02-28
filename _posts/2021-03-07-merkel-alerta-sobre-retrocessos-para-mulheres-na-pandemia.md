@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-07 03:00:00
 pub_date: 2021-03-07 03:00:00
 time_added: 2021-03-07 10:51:16
-category: refletimos
+categories: [refletimos]
 tags: [direitos]
 image: https://static.dw.com/image/56792978_6.jpg
 ---

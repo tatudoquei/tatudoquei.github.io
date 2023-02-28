@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-18 03:00:00
 pub_date: 2020-01-18 03:00:00
 time_added: 2020-01-18 23:11:35
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ca/2020/01/17/ativista-do-clima-greta-thunberg-discursa-em-lausanne-1579282625616_v2_615x300.jpg
 ---

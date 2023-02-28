@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-13 15:59:00
 pub_date: 2020-08-13 15:59:00
 time_added: 2020-08-13 23:32:42
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/1b/2020/03/12/baixo-clero-27-1584052891790_v2_615x300.jpg
 ---

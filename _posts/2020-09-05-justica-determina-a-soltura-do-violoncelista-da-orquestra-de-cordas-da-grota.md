@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-05 21:59:00
 pub_date: 2020-09-05 21:59:00
 time_added: 2020-09-06 22:15:18
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/bpKD3tSZi1313ngAsgRceSqMFzQ=/640x424/top/i.glbimg.com/og/ig/infoglobo1/f/original/2020/09/05/preso.jpeg
 ---

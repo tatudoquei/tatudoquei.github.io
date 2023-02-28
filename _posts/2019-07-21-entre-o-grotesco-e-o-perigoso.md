@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-21 02:00:00
 pub_date: 2019-07-21 02:00:00
 time_added: 2019-07-22 22:00:37
-category: 
+categories: []
 tags: []
 image: https://i.glbimg.com/og/ig/infoglobo1/f/original/blog/image_share/miriam-leitao.jpg
 ---

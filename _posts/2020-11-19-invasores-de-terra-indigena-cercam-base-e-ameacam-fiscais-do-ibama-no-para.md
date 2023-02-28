@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-19 11:03:00
 pub_date: 2020-11-19 11:03:00
 time_added: 2020-11-19 20:00:31
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/4b/2020/11/19/grupo-de-invasores-cerca-base-de-operacoes-do-ibama-e-da-funai-dentro-da-terra-indigena-apyterewa-no-para-1605795072231_v2_615x300.jpg
 ---

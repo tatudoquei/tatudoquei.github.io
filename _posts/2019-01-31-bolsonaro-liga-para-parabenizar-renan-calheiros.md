@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-31 19:27:00
 pub_date: 2019-01-31 19:27:00
 time_added: 2019-02-01 22:45:25
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg
 ---

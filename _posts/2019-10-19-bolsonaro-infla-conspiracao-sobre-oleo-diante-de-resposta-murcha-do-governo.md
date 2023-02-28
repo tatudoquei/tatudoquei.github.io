@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-19 07:06:00
 pub_date: 2019-10-19 07:06:00
 time_added: 2019-10-19 17:48:28
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/10/mancha_petroleo-615x300.jpg
 ---

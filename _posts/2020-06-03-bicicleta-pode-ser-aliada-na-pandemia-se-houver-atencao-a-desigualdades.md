@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-03 12:39:00
 pub_date: 2020-06-03 12:39:00
 time_added: 2020-06-05 07:27:01
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/57/2020/06/03/tereza-barreto-ciclista-e-entregadora-1591207445917_v2_615x300.jpg
 ---

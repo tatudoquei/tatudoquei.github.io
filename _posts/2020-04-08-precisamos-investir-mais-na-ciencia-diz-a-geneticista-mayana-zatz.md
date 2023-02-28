@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-08 11:04:48
 pub_date: 2020-04-08 11:04:48
 time_added: 2020-04-08 12:36:26
-category: 
+categories: []
 tags: []
 image: https://jpimg.com.br/uploads/2020/04/mayana-zatz.jpg
 ---

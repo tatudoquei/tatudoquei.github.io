@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-30 23:37:06
 pub_date: 2022-10-30 23:37:06
 time_added: 2022-10-31 00:42:00
-category: 
+categories: []
 tags: []
 image: https://almapreta.com/images/2022/10/robeyonce.jpeg
 ---

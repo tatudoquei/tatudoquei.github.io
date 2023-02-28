@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-17 05:30:02
 pub_date: 2023-01-17 05:30:02
 time_added: 2023-01-21 10:12:03
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2022/04/01160346/Ato-contra-a-ditadura.jpg
 ---

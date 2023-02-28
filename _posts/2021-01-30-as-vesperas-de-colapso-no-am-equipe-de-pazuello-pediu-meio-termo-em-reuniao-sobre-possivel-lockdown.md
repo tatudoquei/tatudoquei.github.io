@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-30 02:30:00
 pub_date: 2021-01-30 02:30:00
 time_added: 2021-02-02 08:06:39
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24861617-5ce-d5a/FT1086A/652/EduardoPazuello.jpg
 ---

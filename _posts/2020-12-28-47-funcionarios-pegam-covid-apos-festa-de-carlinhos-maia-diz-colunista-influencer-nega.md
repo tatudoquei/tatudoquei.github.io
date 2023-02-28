@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-28 00:13:56
 pub_date: 2020-12-28 00:13:56
 time_added: 2020-12-27 21:13:56
-category: 
+categories: []
 tags: []
 image: https://midias.correiobraziliense.com.br/_midias/jpg/2020/12/25/675x450/1_609a0fa0_46e0_11eb_bf7c_4699002ae3ae-6459271.jpg
 ---

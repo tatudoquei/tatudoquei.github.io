@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-25 09:35:00
 pub_date: 2021-05-25 09:35:00
 time_added: 2021-05-25 21:48:37
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25031842-db9-66d/FT1086A/_118610042_bolsonaro-epa.jpg
 ---

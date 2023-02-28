@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-13 08:49:42
 pub_date: 2021-02-13 08:49:42
 time_added: 2021-02-13 05:49:42
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Villas-boas.png/alternates/LANDSCAPE_768/Villas%20boas.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-02 10:00:38
 pub_date: 2019-08-02 10:00:38
 time_added: 2019-08-03 22:34:36
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/08/osmar-terra.png?w=680&h=453&crop=1
 ---

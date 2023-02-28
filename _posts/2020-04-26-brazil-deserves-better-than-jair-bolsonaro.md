@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-26 03:00:37
 pub_date: 2020-04-26 03:00:37
 time_added: 2020-04-26 05:00:37
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNlGd2O.iE8g/v1/1200x800.jpg
 ---

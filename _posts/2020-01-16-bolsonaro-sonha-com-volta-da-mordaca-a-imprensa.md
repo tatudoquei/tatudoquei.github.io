@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-16 23:00:00
 pub_date: 2020-01-16 23:00:00
 time_added: 2020-01-17 19:30:26
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/vO9esZJjfPt5Cjnzsi9vv6vWZ4g=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2020/01/16/bolsomarenco.jpg
 ---

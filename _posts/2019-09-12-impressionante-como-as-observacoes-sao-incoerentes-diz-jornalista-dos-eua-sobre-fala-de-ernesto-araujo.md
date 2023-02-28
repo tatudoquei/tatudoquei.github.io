@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-12 11:23:00
 pub_date: 2019-09-12 11:23:00
 time_added: 2019-09-15 09:54:59
-category: 
+categories: []
 tags: []
 image: https://hashtag.blogfolha.uol.com.br/files/2019/09/ernesto-araujo-eua.jpg
 ---

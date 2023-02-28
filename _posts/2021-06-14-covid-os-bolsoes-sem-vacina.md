@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-14 10:43:00
 pub_date: 2021-06-14 10:43:00
 time_added: 2021-06-19 20:08:48
-category: 
+categories: []
 tags: []
 image: https://outraspalavras.net/wp-content/uploads/2021/06/210614-SemVacinaB.jpg
 ---

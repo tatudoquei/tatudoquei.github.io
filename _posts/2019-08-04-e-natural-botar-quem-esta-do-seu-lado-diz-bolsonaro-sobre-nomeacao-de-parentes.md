@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-04 11:12:07
 pub_date: 2019-08-04 11:12:07
 time_added: 2019-08-05 22:36:26
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2019/08/jair.bolsonaro.s.lima_.30.jul_.2019-1-1200x630.jpg
 ---

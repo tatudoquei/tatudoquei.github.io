@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-07 20:18:31
 pub_date: 2020-09-07 20:18:31
 time_added: 2020-09-07 22:18:31
-category: 
+categories: []
 tags: []
 image: http://bandnewsfmrio.com.br/admin/conteudo/noticias/50905/original/6fee4d4c-62b7-4ad2-9afa-4b026688f87a.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-28 18:48:27
 pub_date: 2022-10-28 18:48:27
 time_added: 2022-10-28 20:48:27
-category: 
+categories: []
 tags: []
 image: https://brazilian.report/wp-content/uploads/2022/10/22085498-high.jpeg
 ---

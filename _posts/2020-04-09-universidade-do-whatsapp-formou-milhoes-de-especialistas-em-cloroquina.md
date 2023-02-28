@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-09 11:47:00
 pub_date: 2020-04-09 11:47:00
 time_added: 2020-04-10 11:08:46
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/5f/2020/04/08/comprimidos-de-cloroquina-1586347695163_v2_615x300.jpg
 ---

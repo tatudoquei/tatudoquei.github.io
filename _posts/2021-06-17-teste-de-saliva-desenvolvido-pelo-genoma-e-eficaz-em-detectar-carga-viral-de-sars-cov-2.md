@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-17 11:48:21
 pub_date: 2021-06-17 11:48:21
 time_added: 2021-06-19 20:13:01
-category: 
+categories: []
 tags: []
 image: https://i2.wp.com/jornal.usp.br/wp-content/uploads/2014/03/pod_colunistas_mayana_zatz.jpg?fit=1400%2C1400&ssl=1
 ---

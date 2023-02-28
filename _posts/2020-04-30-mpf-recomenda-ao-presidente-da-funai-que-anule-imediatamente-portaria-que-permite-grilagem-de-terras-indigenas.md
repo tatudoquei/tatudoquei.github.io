@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-30 09:35:42
 pub_date: 2020-04-30 09:35:42
 time_added: 2020-04-30 22:25:01
-category: 
+categories: []
 tags: []
 image: https://cimi.org.br/wp-content/uploads/2020/04/atl-2017-ninja-mni-scaled.jpg
 ---

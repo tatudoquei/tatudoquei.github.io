@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-23 17:50:00
 pub_date: 2020-03-23 17:50:00
 time_added: 2020-03-23 19:09:45
-category: 
+categories: []
 tags: []
 image: https://s.conjur.com.br/img/b/ministro-marco-aurelio-stf-20191.jpeg
 ---

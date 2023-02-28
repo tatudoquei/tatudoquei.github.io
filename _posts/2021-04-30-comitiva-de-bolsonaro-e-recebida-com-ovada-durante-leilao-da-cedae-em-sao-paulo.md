@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-30 15:51:00
 pub_date: 2021-04-30 15:51:00
 time_added: 2021-04-30 22:27:29
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24997131-13c-b3c/FT1086A/92685489_PA-SaoPauloSP30-04-2021O-presidente-da-Republica-Jair-Bolsonaro-chegando-para-o-lei.jpg
 ---

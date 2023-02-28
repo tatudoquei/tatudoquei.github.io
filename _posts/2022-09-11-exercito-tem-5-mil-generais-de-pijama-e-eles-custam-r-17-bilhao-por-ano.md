@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-11 08:46:06
 pub_date: 2022-09-11 08:46:06
 time_added: 2022-09-11 10:46:06
-category: 
+categories: []
 tags: []
 image: https://media.gazetadopovo.com.br/vozes/2018/12/exercito-flickr-900x600-92de028c.jpg
 ---

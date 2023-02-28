@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-13 23:36:46
 pub_date: 2021-08-13 23:36:46
 time_added: 2021-08-20 21:34:47
-category: 
+categories: []
 tags: []
 image: https://media.hugogloss.uol.com.br/uploads/2021/08/joice-hasselmann-machucado.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-28 15:48:45
 pub_date: 2021-04-28 15:48:45
 time_added: 2021-04-29 19:06:52
-category: 
+categories: []
 tags: []
 image: https://i2.wp.com/jornal.usp.br/wp-content/uploads/2021/04/20210428_inseguranca_alimentar.jpg?fit=1200%2C630&ssl=1
 ---

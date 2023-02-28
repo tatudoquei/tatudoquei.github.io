@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-22 19:19:27
 pub_date: 2023-02-22 19:19:27
 time_added: 2023-02-24 00:41:22
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/trbr1379.jpg/alternates/LANDSCAPE_768/trbr1379.jpg
 ---

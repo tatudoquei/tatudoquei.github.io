@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-19 14:16:00
 pub_date: 2019-03-19 14:16:00
 time_added: 2019-12-23 21:19:33
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://i.glbimg.com/og/ig/infoglobo1/f/original/blog/image_share/miriam-leitao.jpg
 ---

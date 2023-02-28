@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-06 20:40:00
 pub_date: 2022-10-06 20:40:00
 time_added: 2022-10-10 06:49:34
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/Cib9_CvvNRBitji4Q1IqyRd0MHc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/3/P/P06zrZQqAU136EjhqHCg/whatsapp-image-2022-09-28-at-11.48.51.jpeg
 ---

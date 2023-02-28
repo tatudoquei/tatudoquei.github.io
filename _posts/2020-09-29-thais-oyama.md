@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-29 09:51:00
 pub_date: 2020-09-29 09:51:00
 time_added: 2020-09-29 22:05:57
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/77/2020/07/07/o-presidente-jair-bolsonaro-e-ricardo-salles-ministro-do-meio-ambiente-durante-entrevista-coletiva-em-agosto-de-2019-1594147393828_v2_615x300.jpg
 ---

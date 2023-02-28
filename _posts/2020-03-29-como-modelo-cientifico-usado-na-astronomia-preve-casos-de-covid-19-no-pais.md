@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-29 02:00:00
 pub_date: 2020-03-29 02:00:00
 time_added: 2020-03-29 20:04:16
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ac/2020/03/16/movimentacao-de-passageiros-usando-mascaras-e-luvas-para-protecao-contra-coronavirus-na-saida-da-estacao-butanta-linha-amarela-do-metro-em-sao-paulo-sp-1584410455901_v2_615x300.jpg
 ---

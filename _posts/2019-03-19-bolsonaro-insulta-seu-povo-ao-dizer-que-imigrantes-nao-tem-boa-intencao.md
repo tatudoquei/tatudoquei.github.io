@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-19 02:30:00
 pub_date: 2019-03-19 02:30:00
 time_added: 2019-12-23 21:19:33
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/03/bolson-615x300.jpg
 ---

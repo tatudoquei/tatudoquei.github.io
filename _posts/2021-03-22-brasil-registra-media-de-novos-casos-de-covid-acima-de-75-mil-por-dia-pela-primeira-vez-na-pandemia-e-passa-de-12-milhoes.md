@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-22 23:05:09
 pub_date: 2021-03-22 23:05:09
 time_added: 2021-03-27 18:51:29
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/hc57qYFBmTpKSJmjHTkqo1E9B2k=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/i/8/mgcmr1QBSuhNe2tscU7A/recorde-media-movel.png
 ---

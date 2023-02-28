@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-04 19:01:43
 pub_date: 2021-06-04 19:01:43
 time_added: 2021-06-13 20:54:42
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2021/07/04/opinion/04HotezKo_sub/04HotezKo_sub-facebookJumbo.jpg
 ---

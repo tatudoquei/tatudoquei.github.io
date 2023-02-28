@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-16 19:15:37
 pub_date: 2020-07-16 19:15:37
 time_added: 2020-07-16 19:55:33
-category: 
+categories: []
 tags: []
 image: http://www.anpg.org.br/wp-content/uploads/2020/07/sem-emprestimo.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-27 07:04:53
 pub_date: 2014-11-08 05:58:00
 time_added: 2019-03-27 07:04:53
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://ogimg.infoglobo.com.br/in/14504617-5b7-602/FT1086A/652/prosa_infancia_roubada.jpg
 ---

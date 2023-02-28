@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-10 02:30:00
 pub_date: 2020-07-10 02:30:00
 time_added: 2020-07-11 07:41:55
-category: 
+categories: []
 tags: []
 image: https://i.glbimg.com/og/ig/infoglobo1/f/original/blog/image_share/merval-pereira.jpg
 ---

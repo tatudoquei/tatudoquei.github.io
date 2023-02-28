@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-01 12:30:00
 pub_date: 2022-10-01 12:30:00
 time_added: 2022-10-03 00:48:24
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/e6/2022/09/30/pesquisa-datafolha-mais-recente-mostra-lula-com-50-dos-votos-validos-e-bolsonaro-com-36-1664567290197_v2_615x300.jpg
 ---

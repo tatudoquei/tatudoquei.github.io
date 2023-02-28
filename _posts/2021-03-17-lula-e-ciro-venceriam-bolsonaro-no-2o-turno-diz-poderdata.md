@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-17 19:49:01
 pub_date: 2021-03-17 19:49:01
 time_added: 2021-03-21 09:26:43
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/03/Lula-Bolsonaro-Ciro-868x630.jpeg
 ---

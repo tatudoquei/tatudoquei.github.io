@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-10 13:51:00
 pub_date: 2019-06-10 13:51:00
 time_added: 2019-06-15 09:53:51
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b5/2019/04/25/deputado-marcelo-ramos-pr-am-escolhido-presidente-da-comissao-especial-da-reforma-da-previdencia-1556199786378_v2_615x300.jpg
 ---

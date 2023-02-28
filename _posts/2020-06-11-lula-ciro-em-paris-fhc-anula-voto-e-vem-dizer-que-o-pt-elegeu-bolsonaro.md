@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-11 17:00:00
 pub_date: 2020-06-11 17:00:00
 time_added: 2020-06-11 23:11:01
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/75/2020/05/20/lula-1590008842087_v2_615x300.jpg
 ---

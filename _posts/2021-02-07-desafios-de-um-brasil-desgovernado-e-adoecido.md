@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-07 05:56:56
 pub_date: 2021-02-07 05:56:56
 time_added: 2021-02-07 06:56:56
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Randolfe-Rodrigues-novo-teaser/alternates/LANDSCAPE_768/Randolfe%20Rodrigues%20-%20novo%20teaser
 ---

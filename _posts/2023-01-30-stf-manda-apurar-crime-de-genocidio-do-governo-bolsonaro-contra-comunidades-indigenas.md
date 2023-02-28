@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-30 22:29:54
 pub_date: 2023-01-30 22:29:54
 time_added: 2023-02-03 21:22:24
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/oyHTqo-f27AxjWzLqdPx__zKMgk=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/2/P/I6wCGXSvKb02yKZ6tsIw/bancoimagemfotoaudiencia-ap-484089.jpg
 ---

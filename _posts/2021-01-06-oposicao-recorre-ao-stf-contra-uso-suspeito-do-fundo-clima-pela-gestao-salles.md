@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-06 22:17:03
 pub_date: 2021-01-06 22:17:03
 time_added: 2021-01-07 21:39:42
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/01/Barroso1-Destaque.jpg
 ---

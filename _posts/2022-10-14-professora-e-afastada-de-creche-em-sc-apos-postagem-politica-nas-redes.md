@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-14 15:38:00
 pub_date: 2022-10-14 15:38:00
 time_added: 2022-10-16 15:16:48
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e8/2022/10/14/professora-foi-afastada-de-escola-em-chapeco-sc-apos-fazer-postagem-com-teor-politico-1665778867328_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-03 02:51:46
 pub_date: 2020-12-03 02:51:46
 time_added: 2020-12-02 23:51:46
-category: 
+categories: []
 tags: []
 image: https://video-images.vice.com/articles/5fbbd84c131e330096afd2cc/lede/1606146309251-leaked-amazon-intelligence-reports-reveal-how-amazon-monitors-unions-and-social-movements-to-protect-itselflede-and-socialhf-1.jpeg?image-resize-opts=Y3JvcD0xeHc6MC40ODN4aDsweHcsMHhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg
 ---

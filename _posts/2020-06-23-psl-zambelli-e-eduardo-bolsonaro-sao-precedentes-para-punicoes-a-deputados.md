@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-23 15:17:00
 pub_date: 2020-06-23 15:17:00
 time_added: 2020-06-24 05:14:07
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/58/2020/05/26/a-deputada-federal-carla-zambelli-psl-sp-na-portaria-do-palacio-do-alvorada-1590539677770_v2_615x300.jpg
 ---

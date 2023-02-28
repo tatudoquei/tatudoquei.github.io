@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-21 19:00:54
 pub_date: 2019-07-21 19:00:54
 time_added: 2019-07-22 21:58:43
-category: 
+categories: []
 tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2019/07/Bolsonaro_Foto-Marcos-Correa_PR.jpg
 ---

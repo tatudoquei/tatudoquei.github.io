@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-10 23:01:38
 pub_date: 2020-09-10 23:01:38
 time_added: 2020-09-11 18:51:32
-category: 
+categories: []
 tags: []
 image: https://jornalggn.com.br/sites/default/files/2020/09/esse-foi-o-primeiro-ano-que-o-produtor-de-arroz-teve-lucro-diz-ministra-tereza-cristina.jpeg
 ---

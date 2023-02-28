@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-20 12:45:04
 pub_date: 2020-02-20 12:45:04
 time_added: 2020-02-26 17:35:04
-category: 
+categories: []
 tags: []
 image: https://observatoriodoconhecimento.org.br/wp-content/uploads/2020/02/card-como-governo-armou-arapuca.png
 ---

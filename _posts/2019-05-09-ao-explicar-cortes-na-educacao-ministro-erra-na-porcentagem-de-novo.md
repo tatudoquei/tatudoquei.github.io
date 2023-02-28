@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-09 23:16:00
 pub_date: 2019-05-09 23:16:00
 time_added: 2019-05-10 13:09:48
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e6/2019/05/09/ministro-da-educacao-leva-chocolates-para-explicar-contigenciamento-nas-universidades-1557441510628_v2_615x300.jpg
 ---

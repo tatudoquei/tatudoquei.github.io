@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-18 09:42:56
 pub_date: 2021-05-18 09:42:56
 time_added: 2021-05-29 21:02:43
-category: 
+categories: []
 tags: []
 image: https://exame.com/wp-content/uploads/2021/05/natalia-pasternak.jpeg?quality=70&strip=info
 ---

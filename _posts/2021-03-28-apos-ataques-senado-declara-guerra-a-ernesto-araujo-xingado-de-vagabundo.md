@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-28 16:56:00
 pub_date: 2021-03-28 16:56:00
 time_added: 2021-05-16 16:45:08
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/01I6OWmqwRbOozkQrQQwP41c7Ds=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2018/11/14/79876526_brazilian_president-elect_jair_bolsonaro_l_and_his_newly_appointed_foreign_minister_bra.jpg
 ---

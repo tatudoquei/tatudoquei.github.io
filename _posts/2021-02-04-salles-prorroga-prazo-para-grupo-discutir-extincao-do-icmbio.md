@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-04 08:56:37
 pub_date: 2021-02-04 08:56:37
 time_added: 2021-02-07 23:16:58
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/02/Salles-ABR-Valter-Campanato-lixo-zero.jpg
 ---

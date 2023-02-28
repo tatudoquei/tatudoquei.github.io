@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-13 23:29:54
 pub_date: 2023-01-13 23:29:54
 time_added: 2023-01-14 14:35:47
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/pjbXf-8yOct_U9Y_DH80GfCl_BE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/x/J/n5hvW5Q4uSWB8S8JAAFQ/frame-praca-bandeiras-02.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-29 19:44:45
 pub_date: 2021-11-29 19:44:45
 time_added: 2021-12-13 14:26:41
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2019/12/27155008/MOROBOLSONARO1.jpg
 ---

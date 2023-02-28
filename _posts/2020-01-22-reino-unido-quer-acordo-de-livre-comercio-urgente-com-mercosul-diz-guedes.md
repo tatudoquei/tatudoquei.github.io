@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-22 20:43:06
 pub_date: 2020-01-22 20:43:06
 time_added: 2020-01-23 21:46:47
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2019/06/mercosul.gif?w=680&h=453&crop=1
 ---

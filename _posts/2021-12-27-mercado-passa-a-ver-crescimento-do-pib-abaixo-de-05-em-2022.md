@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-27 23:06:41
 pub_date: 2021-12-27 23:06:41
 time_added: 2021-12-28 08:05:41
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Banco-Central2/alternates/LANDSCAPE_768/Banco%20Central2
 ---

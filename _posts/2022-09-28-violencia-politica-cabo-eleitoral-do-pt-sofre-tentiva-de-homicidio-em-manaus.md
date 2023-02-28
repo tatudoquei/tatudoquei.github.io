@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-28 14:42:33
 pub_date: 2022-09-28 14:42:33
 time_added: 2022-10-03 00:22:25
-category: 
+categories: []
 tags: []
 image: https://jornalistaslivres.org/wp-content/uploads/2022/09/capa-petista-manaus-1.jpg
 ---

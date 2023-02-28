@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-21 15:45:27
 pub_date: 2019-08-21 15:45:27
 time_added: 2019-08-22 23:48:27
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/08/342-para-fb.jpg
 ---

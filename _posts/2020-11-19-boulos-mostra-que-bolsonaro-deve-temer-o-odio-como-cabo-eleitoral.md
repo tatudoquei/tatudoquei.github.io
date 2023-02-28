@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-19 10:59:00
 pub_date: 2020-11-19 10:59:00
 time_added: 2020-11-19 19:59:26
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f2/2020/11/16/16112020---guilherme-boulos-psol-e-bruno-covas-psdb-antes-do-debate-da-cnn-brasil-para-a-prefeitura-de-sao-paulo-1605571149888_v2_615x300.jpg
 ---

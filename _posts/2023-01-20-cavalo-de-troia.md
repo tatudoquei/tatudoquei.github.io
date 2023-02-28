@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-20 16:01:00
 pub_date: 2023-01-20 16:01:00
 time_added: 2023-01-21 04:12:49
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2023/01/22505891-high-jose-mucio-lula-redes.jpg
 ---

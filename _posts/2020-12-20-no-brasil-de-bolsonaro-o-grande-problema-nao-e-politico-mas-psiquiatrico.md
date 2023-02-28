@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-20 15:53:00
 pub_date: 2020-12-20 15:53:00
 time_added: 2020-12-21 10:55:28
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e4/2020/12/15/o-presidente-jair-bolsonaro-sem-partido-durante-visita-tecnica-a-ceagesp-na-zona-oeste-de-sao-paulo-1608060936863_v2_615x300.jpg
 ---

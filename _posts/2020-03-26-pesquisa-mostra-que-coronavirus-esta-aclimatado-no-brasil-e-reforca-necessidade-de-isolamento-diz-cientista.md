@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-26 19:32:35
 pub_date: 2020-03-26 19:32:35
 time_added: 2020-03-28 09:59:47
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/AFggF7yoxWjFxeIxxK7pI8DxUos=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/D/V/MvjO2yRKGeELhDYB5fAg/coronavirussarscov2.jpg
 ---

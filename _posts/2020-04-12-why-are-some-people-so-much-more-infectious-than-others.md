@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-12 09:00:11
 pub_date: 2020-04-12 09:00:11
 time_added: 2020-04-13 06:57:58
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/04/14/science/12VIRUS-SUPERSPREADERS1/12VIRUS-SUPERSPREADERS1-facebookJumbo.jpg
 ---

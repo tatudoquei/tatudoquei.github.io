@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-31 16:33:06
 pub_date: 2020-03-31 16:33:06
 time_added: 2020-03-31 18:33:06
-category: 
+categories: []
 tags: []
 image: http://www.mpf.mp.br/rs/sala-de-imprensa/noticias-rs/mpf-recomenda-a-capes-revogacao-de-portaria-que-suspendeu-bolsas-de-pesquisa-em-universidades-de-todo-o-pais/@@images/404ee4c2-dd87-4bac-8d6b-e86956ab4f58.png
 ---

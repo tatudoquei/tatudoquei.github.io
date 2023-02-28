@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-16 14:45:01
 pub_date: 2020-05-16 14:45:01
 time_added: 2020-05-16 16:45:01
-category: 
+categories: []
 tags: []
 image: https://www.diariodocentrodomundo.com.br/wp-content/uploads/2020/05/durski.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-26 20:22:00
 pub_date: 2022-09-26 20:22:00
 time_added: 2022-10-02 23:53:37
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a7/2022/09/26/os-presidenciaveis-luiz-inacio-lula-da-silva-pt-e-jair-bolsonaro-pl-1664186603468_v2_615x300.jpg
 ---

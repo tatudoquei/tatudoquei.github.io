@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-27 20:21:24
 pub_date: 2022-10-27 20:21:24
 time_added: 2022-10-29 07:38:02
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/ikdMYmz2HbkTMWZt2mVhof3LNV8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/f/R/ob9ja5Rxqjv5aiFADoQA/novo-projeto-2022-10-27t155947.388.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-11 14:28:00
 pub_date: 2020-07-11 14:28:00
 time_added: 2020-07-12 07:26:33
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/ed/2020/04/07/nise-yamaguchi-1586266617572_v2_615x300.jpg
 ---

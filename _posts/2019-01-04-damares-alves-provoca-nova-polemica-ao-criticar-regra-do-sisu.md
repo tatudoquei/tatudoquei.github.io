@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-04 23:05:44
 pub_date: 2019-01-04 23:05:44
 time_added: 2019-01-07 21:07:18
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://s2.glbimg.com/JU7PDx7Ur59wpTatWINcVXsceik=/1200x/smart/filters:cover():strip_icc()/s03.video.glbimg.com/x720/7278058.jpg
 ---

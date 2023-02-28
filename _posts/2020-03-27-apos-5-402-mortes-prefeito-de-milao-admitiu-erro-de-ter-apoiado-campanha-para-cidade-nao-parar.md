@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-27 08:31:00
 pub_date: 2020-03-27 08:31:00
 time_added: 2020-03-27 22:16:18
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24333662-81c-c39/FT1086A/652/87660993_A-member-of-the-medical-staff-in-a-protective-suit-treats-a-patient-suffering-from-coronavi.jpg
 ---

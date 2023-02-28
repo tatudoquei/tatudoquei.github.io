@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-27 03:30:00
 pub_date: 2020-03-27 03:30:00
 time_added: 2020-03-27 22:24:32
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/economia/24332743-38b-359/FT1086A/652/arminio-fraga.jpg
 ---

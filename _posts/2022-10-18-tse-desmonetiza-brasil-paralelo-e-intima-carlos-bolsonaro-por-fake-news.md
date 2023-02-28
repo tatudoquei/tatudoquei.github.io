@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-18 14:52:00
 pub_date: 2022-10-18 14:52:00
 time_added: 2022-10-22 18:12:49
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f7/2022/03/07/o-vereador-do-rio-de-janeiro-carlos-bolsonaro-em-encontro-empresarial-brasil-russia-em-moscou-1646684126120_v2_615x300.jpg
 ---

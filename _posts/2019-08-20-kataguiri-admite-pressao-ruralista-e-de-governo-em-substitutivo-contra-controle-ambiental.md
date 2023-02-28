@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-20 12:59:19
 pub_date: 2019-08-20 12:59:19
 time_added: 2019-08-22 08:55:20
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2019/08/kim-kataguiri.jpg
 ---

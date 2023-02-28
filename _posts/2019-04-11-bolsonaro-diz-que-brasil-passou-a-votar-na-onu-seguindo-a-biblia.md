@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-11 14:10:00
 pub_date: 2019-04-11 14:10:00
 time_added: 2019-04-12 21:45:15
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23591664-ed5-184/FT1086A/652/82166900_RIRio-de-Janeiro-RJ-11-04-2019Encontro-de-bolsonaro-com-evangelicosalcolumbre-mala.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-26 17:30:00
 pub_date: 2021-05-26 17:30:00
 time_added: 2021-06-19 06:01:31
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2021/05/pantanal-redes.jpg
 ---

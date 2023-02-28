@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-24 12:09:00
 pub_date: 2022-11-24 12:09:00
 time_added: 2022-11-26 11:14:28
-category: 
+categories: []
 tags: []
 image: https://img.r7.com/images/efe-braga-netto-jair-bolsonaro-1500-26082020104849708?crop_position=c&dimensions=340x191
 ---

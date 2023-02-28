@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-21 19:59:00
 pub_date: 2021-09-21 19:59:00
 time_added: 2021-09-25 17:26:44
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25206917-4da-6a5/FT1086A/760/chapada1.png
 ---

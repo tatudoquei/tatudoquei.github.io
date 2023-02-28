@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-07 14:58:00
 pub_date: 2021-01-07 14:58:00
 time_added: 2021-01-07 20:51:18
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/d7/2021/01/06/bolsonaro-afirmou-ser-quotligadoquot-a-donald-trump-1609985620148_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-26 15:48:00
 pub_date: 2021-05-26 15:48:00
 time_added: 2021-06-13 21:09:24
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/f9/2020/09/25/o-palacio-do-planalto-ainda-nao-oficializou-a-saida-de-arthur-weintraub-1601028513468_750x421.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-10 22:21:27
 pub_date: 2023-01-10 22:21:27
 time_added: 2023-01-14 09:02:17
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/durma-10-01-2023-social.jpg/alternates/LANDSCAPE_768/durma%2010%2001%202023%20social.jpg
 ---

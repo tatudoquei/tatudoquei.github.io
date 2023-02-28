@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-09 22:15:04
 pub_date: 2020-04-09 22:15:04
 time_added: 2020-04-10 16:06:44
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/07/share-radar-robson-bonin.png
 ---

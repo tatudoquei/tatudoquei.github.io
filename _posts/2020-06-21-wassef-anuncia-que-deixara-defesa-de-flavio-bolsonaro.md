@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-21 19:20:00
 pub_date: 2020-06-21 19:20:00
 time_added: 2020-06-22 19:11:40
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24489434-49c-760/FT1086A/652/Frederick-Wassef.jpg
 ---

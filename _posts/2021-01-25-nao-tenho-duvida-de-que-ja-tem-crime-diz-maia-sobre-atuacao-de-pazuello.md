@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-25 15:37:00
 pub_date: 2021-01-25 15:37:00
 time_added: 2021-01-26 19:34:10
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/0f/2021/01/12/o-presidente-da-camara-rodrigo-maia-dem-rj-durante-coletiva-no-salao-negro-no-congresso-nacional-1610476044243_v2_615x300.jpg
 ---

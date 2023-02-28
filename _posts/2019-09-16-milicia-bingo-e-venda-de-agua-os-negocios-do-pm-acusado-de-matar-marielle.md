@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-16 02:01:00
 pub_date: 2019-09-16 02:01:00
 time_added: 2019-09-17 16:09:57
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ed/2019/09/13/o-policial-militar-ronnie-lessa-acusado-de-matar-marielle-franco-1568414566540_v2_615x300.jpg
 ---

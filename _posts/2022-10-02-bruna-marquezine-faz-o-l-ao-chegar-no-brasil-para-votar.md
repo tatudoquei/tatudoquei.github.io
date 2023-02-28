@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-02 01:25:00
 pub_date: 2022-10-02 01:25:00
 time_added: 2022-10-03 00:18:33
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/a9/2022/10/01/bruna-marquezine-faz-o-l-ao-desembarcar-no-brasil-para-votar-1664670040243_v2_615x300.jpg
 ---

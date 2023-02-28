@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-22 22:09:00
 pub_date: 2020-04-22 22:09:00
 time_added: 2020-04-23 19:14:38
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/00/2020/04/23/nelson-teich-em-coletiva-1587611189661_v2_615x300.jpg
 ---

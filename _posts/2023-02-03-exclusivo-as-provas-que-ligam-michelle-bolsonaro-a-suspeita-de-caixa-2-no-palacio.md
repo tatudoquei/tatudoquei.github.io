@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-03 21:33:26
 pub_date: 2023-02-03 21:33:26
 time_added: 2023-02-27 22:27:01
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2023/02/03123659/img-destq-segredos-do-alvorada.jpg
 ---

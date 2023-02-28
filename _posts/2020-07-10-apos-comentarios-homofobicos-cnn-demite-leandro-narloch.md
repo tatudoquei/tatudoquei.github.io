@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-10 13:27:00
 pub_date: 2020-07-10 13:27:00
 time_added: 2020-07-10 22:50:58
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/34/2020/07/10/leandro-narloch-1594405490520_v2_615x300.jpg
 ---

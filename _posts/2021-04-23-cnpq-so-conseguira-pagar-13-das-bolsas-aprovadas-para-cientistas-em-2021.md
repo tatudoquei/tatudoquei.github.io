@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-23 15:11:37
 pub_date: 2021-04-23 15:11:37
 time_added: 2021-06-13 20:54:34
-category: 
+categories: []
 tags: []
 image: https://super.abril.com.br/wp-content/uploads/2021/04/87-dos-projetos-de-pesquisa-aprovados-pelo-CNPq-vao-ficar-sem-bolsa-em-2021-facebook.jpg?quality=70&strip=info
 ---

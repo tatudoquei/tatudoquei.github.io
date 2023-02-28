@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-29 19:12:14
 pub_date: 2021-05-29 19:12:14
 time_added: 2021-05-29 21:12:14
-category: 
+categories: []
 tags: []
 image: https://www.oc.eco.br/wp-content/uploads/2021/05/FW_GEF-5.jpg
 ---

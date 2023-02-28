@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-03 18:25:00
 pub_date: 2020-01-03 18:25:00
 time_added: 2020-01-05 09:50:53
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/36/2020/01/02/eduardo-falzi-richard-cerquise-identificado-pela-policia-como-um-dos-envolvidos-no-ataque-a-bomba-a-sede-da-produtora-porta-dos-fundos-no-rio-embarcou-para-a-russia-1577999562206_v2_615x300.jpg
 ---

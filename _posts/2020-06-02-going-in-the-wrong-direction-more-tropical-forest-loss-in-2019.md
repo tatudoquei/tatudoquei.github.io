@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-02 04:00:14
 pub_date: 2020-06-02 04:00:14
 time_added: 2020-06-07 08:50:34
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/06/02/climate/02cli-forests-stillpromo/02cli-forests-stillpromo-facebookJumbo.jpg
 ---

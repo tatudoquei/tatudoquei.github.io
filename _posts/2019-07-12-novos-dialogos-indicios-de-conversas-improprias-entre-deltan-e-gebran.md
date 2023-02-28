@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-12 09:30:07
 pub_date: 2019-07-12 09:30:07
 time_added: 2019-07-14 06:20:31
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/07/joao-pedro-gebran-neto.png?w=680&h=453&crop=1
 ---

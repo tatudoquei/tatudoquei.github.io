@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-29 07:13:00
 pub_date: 2019-09-29 07:13:00
 time_added: 2019-09-26 20:15:12
-category: 
+categories: []
 tags: []
 image: https://1.bp.blogspot.com/--LY4ONDfzO0/XYuSIGishYI/AAAAAAAAQOQ/C5dos-e-PUgkIqFWEkjdFRHFE8Eiv3S2wCLcBGAsYHQ/w1200-h630-p-k-no-nu/23_09_Greta_thumberg.jpg
 ---

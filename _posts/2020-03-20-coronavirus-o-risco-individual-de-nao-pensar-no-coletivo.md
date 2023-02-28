@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-20 14:12:15
 pub_date: 2020-03-20 14:12:15
 time_added: 2020-03-23 19:15:47
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/11/20191113_00_herton-escobar.jpg
 ---

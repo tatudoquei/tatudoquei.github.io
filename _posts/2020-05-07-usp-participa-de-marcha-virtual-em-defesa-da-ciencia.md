@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-07 16:14:39
 pub_date: 2020-05-07 16:14:39
 time_added: 2020-05-07 18:14:39
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/05/20200506_00_marcha_vitural_ciencia_sbpc2.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-30 20:03:00
 pub_date: 2022-10-30 20:03:00
 time_added: 2022-10-31 13:23:18
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/17/2022/10/30/prf-fez-operacoes-no-dia-do-segundo-turno-1667165210975_v2_615x300.jpg
 ---

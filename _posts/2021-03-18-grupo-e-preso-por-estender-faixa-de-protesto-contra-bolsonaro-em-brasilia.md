@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-18 17:30:01
 pub_date: 2021-03-18 17:30:01
 time_added: 2021-03-21 09:27:43
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/Sa0cL7Rs2EBV_612NyJ-4Fkkghc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/G/D/gDyDUCQz62R0sTTisfGw/faixa-bozo.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-06 21:19:27
 pub_date: 2019-12-06 21:19:27
 time_added: 2019-12-07 16:16:15
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/12/20191206_00_univeritarios_guarda-chuva.jpg
 ---

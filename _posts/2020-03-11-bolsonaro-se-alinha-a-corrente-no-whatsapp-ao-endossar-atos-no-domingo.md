@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-11 03:01:00
 pub_date: 2020-03-11 03:01:00
 time_added: 2020-03-11 19:13:01
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/31/2020/03/09/09mar2020---o-presidente-jair-bolsonaro-fala-em-seminario-para-empresarios-americanos-em-miami-na-florida-1583771459024_v2_615x300.jpg
 ---

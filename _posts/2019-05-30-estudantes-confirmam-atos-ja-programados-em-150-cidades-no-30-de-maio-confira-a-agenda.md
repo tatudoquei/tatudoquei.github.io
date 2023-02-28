@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-30 10:31:24
 pub_date: 2019-05-30 10:31:24
 time_added: 2019-05-30 17:52:27
-category: 
+categories: []
 tags: []
 image: https://www.redebrasilatual.com.br/wp-content/uploads/2019/05/tsunamieduca.jpg
 ---

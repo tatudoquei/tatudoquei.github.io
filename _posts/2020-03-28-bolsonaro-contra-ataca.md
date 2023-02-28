@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-28 08:04:14
 pub_date: 2020-03-28 08:04:14
 time_added: 2020-03-28 09:04:14
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2020/03/bolso-redes.jpg
 ---

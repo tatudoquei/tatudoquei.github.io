@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-10 05:00:00
 pub_date: 2020-09-10 05:00:00
 time_added: 2020-09-12 08:52:59
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24632081-4c6-724/FT1086A/652/xdamares.jpg.pagespeed.ic.qFSiRsXthX.jpg
 ---

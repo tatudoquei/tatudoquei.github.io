@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-04 00:22:16
 pub_date: 2021-03-04 00:22:16
 time_added: 2021-03-03 21:22:16
-category: 
+categories: []
 tags: []
 image: https://files.nsctotal.com.br/s3fs-public/graphql-upload-files/utis_1_13.jpg?oZS_X15ItXpX7ZN04Pbd5RXhiC8r_0u6
 ---

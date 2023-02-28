@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-21 23:03:13
 pub_date: 2020-05-21 23:03:13
 time_added: 2020-05-22 06:53:06
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2020/05/hang-5.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

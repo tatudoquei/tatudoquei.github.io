@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-11 18:03:00
 pub_date: 2020-05-11 18:03:00
 time_added: 2020-05-12 12:58:12
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e3/2020/05/09/09052020---coronavirus-hospital-de-campanha-localizado-no-maracana-no-rio-de-janeiro-rj-1589055641370_v2_615x300.jpg
 ---

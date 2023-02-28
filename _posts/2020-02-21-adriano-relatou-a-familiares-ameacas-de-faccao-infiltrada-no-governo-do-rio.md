@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-21 09:00:21
 pub_date: 2020-02-21 09:00:21
 time_added: 2020-02-22 10:30:26
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2020/02/infochpdpict000086934102.jpg.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-13 17:49:51
 pub_date: 2019-08-13 17:49:51
 time_added: 2019-08-14 22:48:38
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2017/03/CNPQ.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-26 22:05:47
 pub_date: 2023-01-26 22:05:47
 time_added: 2023-01-26 19:05:47
-category: 
+categories: []
 tags: []
 image: https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2023/01/governo-adota-acoes-emergenciais-em-socorro-aos-yanomami-vamos-dar-a-eles-a-dignidade-que-eles-merecem-diz-lula-em-boa-vista/230121_planalto_lula-acompanha-emergencia-yanomami_foto-ricardostuckert.png/@@images/29555e9b-dd02-4984-9731-44caf2bf6d09.png
 ---

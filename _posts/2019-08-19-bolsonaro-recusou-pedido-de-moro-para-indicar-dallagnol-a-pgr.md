@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-19 20:39:49
 pub_date: 2019-08-19 20:39:49
 time_added: 2019-08-19 22:39:49
-category: 
+categories: []
 tags: []
 image: https://www.blogdokennedy.com.br/wp-content/themes/kennedy_2/images/kennedy.jpg
 ---

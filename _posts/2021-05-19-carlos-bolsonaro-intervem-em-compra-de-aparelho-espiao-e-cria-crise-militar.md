@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-19 02:00:00
 pub_date: 2021-05-19 02:00:00
 time_added: 2021-05-19 11:13:17
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/00/2021/01/17/vereador-da-cidade-do-rio-de-janeiro-carlos-bolsonaro-republicanos-exaltou-o-trabalho-da-forccedila-aeacuterea-brasileira-fab-1610910816060_v2_615x300.jpg
 ---

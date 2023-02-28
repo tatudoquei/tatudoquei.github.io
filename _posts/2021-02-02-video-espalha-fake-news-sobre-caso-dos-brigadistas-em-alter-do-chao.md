@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-02 21:37:20
 pub_date: 2021-02-02 21:37:20
 time_added: 2021-02-03 07:18:44
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/02/Oeco_Postagem-falsa-Aos-Fatos-Reproducao.jpg
 ---

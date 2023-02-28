@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-17 03:00:00
 pub_date: 2021-09-17 03:00:00
 time_added: 2021-09-25 17:42:49
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/ZPF3uzsz1qEAGZ3sXFf4EQjjQow=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2020/07/23/88919844_brazils_president_jair_bolsonaro_holds_a_box_of_chloroquine_outside_the_alvorada_palace_am.jpg
 ---

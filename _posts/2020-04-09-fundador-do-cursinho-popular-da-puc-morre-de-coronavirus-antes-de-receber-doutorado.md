@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-09 08:00:00
 pub_date: 2020-04-09 08:00:00
 time_added: 2020-04-09 18:01:30
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/cc/2020/04/09/professor-valdemar-gomes-durante-aula-1586438369488_v2_615x300.jpg
 ---

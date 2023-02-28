@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-15 04:13:00
 pub_date: 2020-11-15 04:13:00
 time_added: 2020-11-15 07:53:42
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/11/wando-chapa-redes1.jpg
 ---

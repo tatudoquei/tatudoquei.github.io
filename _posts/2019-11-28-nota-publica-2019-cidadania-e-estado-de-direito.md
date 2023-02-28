@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-28 17:12:19
 pub_date: 2019-11-28 17:12:19
 time_added: 2019-12-21 09:00:51
-category: 
+categories: []
 tags: []
 image: https://gife.org.br/wp/media/2019/11/rodrigo-kugnharski-PAgMQ2088RE-unsplash.jpg
 ---

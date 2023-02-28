@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-04 17:55:00
 pub_date: 2021-04-04 17:55:00
 time_added: 2021-05-16 17:27:29
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24934270-3a8-eaf/FT1086A/xsede-stf.jpg.pagespeed.ic.n2vRCAkZMd.jpg
 ---

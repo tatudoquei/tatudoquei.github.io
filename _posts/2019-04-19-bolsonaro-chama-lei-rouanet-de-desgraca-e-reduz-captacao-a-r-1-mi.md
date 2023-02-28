@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-19 00:43:45
 pub_date: 2019-04-19 00:43:45
 time_added: 2019-04-20 07:03:24
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2019/04/2019-04-12t160402z_1_lynxnpef3b1dm_rtroptp_4_politica-bolsonaro-museuciencianatural.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

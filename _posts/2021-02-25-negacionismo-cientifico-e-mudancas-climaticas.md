@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-25 23:35:17
 pub_date: 2021-02-25 23:35:17
 time_added: 2021-02-25 20:35:17
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/02/imagem-principal-roxa-retangular.png
 ---

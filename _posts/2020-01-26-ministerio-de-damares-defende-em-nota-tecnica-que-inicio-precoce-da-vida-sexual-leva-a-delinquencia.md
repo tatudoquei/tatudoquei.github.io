@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-26 02:30:00
 pub_date: 2020-01-26 02:30:00
 time_added: 2020-01-28 07:57:32
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24169207-ef9-37d/FT1086A/652/damares5.jpg
 ---

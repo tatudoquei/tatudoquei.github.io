@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-08 03:00:00
 pub_date: 2021-09-08 03:00:00
 time_added: 2021-09-26 05:08:24
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/bolsonaro-fala-a-apoiadores-flickr-planalto.jpg/alternates/LANDSCAPE_768/bolsonaro%20fala%20a%20apoiadores%20flickr%20planalto.jpg
 ---

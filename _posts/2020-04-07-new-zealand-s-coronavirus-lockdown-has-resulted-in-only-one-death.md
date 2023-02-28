@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-07 14:53:15
 pub_date: 2020-04-07 14:53:15
 time_added: 2020-04-10 11:09:11
-category: 
+categories: []
 tags: []
 image: https://thehill.com/sites/default/files/ardernjacinda_03152019getty.jpg
 ---

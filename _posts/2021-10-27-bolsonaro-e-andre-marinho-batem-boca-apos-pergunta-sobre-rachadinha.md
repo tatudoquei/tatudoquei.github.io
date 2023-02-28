@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-27 17:09:00
 pub_date: 2021-10-27 17:09:00
 time_added: 2021-10-31 22:30:22
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/79/2021/10/27/jair-bolsonaro-e-andre-marinho-durante-entrevista-para-a-jovem-pan-1635353898852_v2_615x300.jpg
 ---

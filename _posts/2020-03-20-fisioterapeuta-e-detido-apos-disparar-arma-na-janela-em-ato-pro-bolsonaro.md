@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-20 21:50:00
 pub_date: 2020-03-20 21:50:00
 time_added: 2020-03-21 21:56:21
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/eb/2020/03/20/arma-apreendida-com-fisioterapeuta-que-deu-um-disparo-na-janela-de-seu-apartamento-em-santos-sp-durante-um-ato-pro-bolsonaro-1584755129807_v2_300x200.jpg
 ---

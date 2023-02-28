@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-13 17:55:16
 pub_date: 2023-01-13 17:55:16
 time_added: 2023-01-14 09:22:51
-category: 
+categories: []
 tags: []
 image: https://oeco.org.br/wp-content/uploads/2022/06/Oeco2_Protesto-Dom-e-Bruno_000_32CT3CQ_Evaristo-Sa-AFP.jpg
 ---

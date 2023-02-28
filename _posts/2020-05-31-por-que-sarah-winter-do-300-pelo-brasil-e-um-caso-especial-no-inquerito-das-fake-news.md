@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-31 02:03:00
 pub_date: 2020-05-31 02:03:00
 time_added: 2020-05-31 15:56:09
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/05/sarah-redes.jpg
 ---

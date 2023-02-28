@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-02 07:30:00
 pub_date: 2021-08-02 07:30:00
 time_added: 2021-08-20 21:00:40
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25135025-d05-372/FT1086A/760/88619592_SOC-Brasilia-BSB-27-06-2020-O-Ministerio-da-Saude-anuncia-neste-sabado-27-parceria-para-o-d.jpg
 ---

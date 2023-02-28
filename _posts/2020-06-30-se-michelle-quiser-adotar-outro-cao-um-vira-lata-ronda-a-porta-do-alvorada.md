@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-30 13:39:00
 pub_date: 2020-06-30 13:39:00
 time_added: 2020-06-30 20:53:12
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/1f/2020/06/30/alvorino-1593531346254_v2_750x421.jpg
 ---

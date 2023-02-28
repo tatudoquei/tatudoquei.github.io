@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-04 16:00:00
 pub_date: 2020-07-04 16:00:00
 time_added: 2020-07-05 06:55:44
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b9/2020/06/16/21mai2020---o-presidente-da-camara-dos-deputados-rodrigo-maia-dem-rj-em-entrevista-coletiva-no-salao-negro-do-congresso-nacional-1592334326632_v2_615x300.jpg
 ---

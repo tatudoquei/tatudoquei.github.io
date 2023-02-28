@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-24 22:27:36
 pub_date: 2020-08-24 22:27:36
 time_added: 2020-08-26 22:46:04
-category: 
+categories: []
 tags: []
 image: https://jpimg.com.br/uploads/2017/04/3123267776-osmar-terra.jpg
 ---

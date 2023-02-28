@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-04 00:02:36
 pub_date: 2019-07-04 00:02:36
 time_added: 2019-07-05 05:14:30
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/03/brasil-ricardo-salles-20190327-002-copy.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

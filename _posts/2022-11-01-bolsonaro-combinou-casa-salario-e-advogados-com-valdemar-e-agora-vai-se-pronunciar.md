@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-01 16:29:23
 pub_date: 2022-11-01 16:29:23
 time_added: 2022-11-04 20:08:13
-category: 
+categories: []
 tags: []
 image: https://istoe.com.br/wp-content/uploads/2022/02/08-copia.jpg
 ---

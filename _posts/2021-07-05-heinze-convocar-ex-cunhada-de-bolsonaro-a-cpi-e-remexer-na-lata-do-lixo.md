@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-05 20:58:00
 pub_date: 2021-07-05 20:58:00
 time_added: 2021-07-25 16:44:26
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/83/2021/05/27/27mai2021---o-senador-luiz-carlos-heinze-pp-rs-suplente-na-cpi-da-covid-durante-depoimento-de-dimas-covas-1622140730406_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-12 11:22:30
 pub_date: 2020-04-12 11:22:30
 time_added: 2020-04-12 12:32:06
-category: 
+categories: []
 tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2020/04/Drauzio-Varella_YouTube.jpg
 ---

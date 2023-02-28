@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-10 15:00:40
 pub_date: 2023-01-10 15:00:40
 time_added: 2023-01-11 00:00:55
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2023/01/Capa_Facebook_A-face-religiosa-do-terrorismo-em-Brasilia.png
 ---

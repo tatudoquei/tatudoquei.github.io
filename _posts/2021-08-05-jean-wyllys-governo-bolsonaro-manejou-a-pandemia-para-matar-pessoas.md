@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-05 16:29:56
 pub_date: 2021-08-05 16:29:56
 time_added: 2021-08-20 21:17:45
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2019/04/jean-wyllys-e1555684391653.jpg
 ---

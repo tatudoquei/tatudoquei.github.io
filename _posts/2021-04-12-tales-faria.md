@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-12 17:35:00
 pub_date: 2021-04-12 17:35:00
 time_added: 2021-05-16 18:25:23
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/galeria/32/2021/04/12/amp---kajuru-1618239925306_v2_300x200.jpg
 ---

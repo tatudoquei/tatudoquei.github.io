@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-28 05:00:00
 pub_date: 2019-12-28 05:00:00
 time_added: 2019-12-29 12:34:20
-category: 
+categories: []
 tags: []
 image: https://cdn.theatlantic.com/assets/media/img/mt/2019/12/Olavo_FINAL/facebook.jpg?1577463351
 ---

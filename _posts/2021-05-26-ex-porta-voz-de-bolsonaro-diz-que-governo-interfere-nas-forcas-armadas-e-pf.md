@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-26 12:04:00
 pub_date: 2021-05-26 12:04:00
 time_added: 2021-05-26 18:17:13
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/0e/2019/04/21/19fev2019---porta-voz-da-presidencia-da-republica-otavio-do-rego-barros-durante-briefing-no-palacio-do-planalto-1555872274050_v2_615x300.jpg
 ---

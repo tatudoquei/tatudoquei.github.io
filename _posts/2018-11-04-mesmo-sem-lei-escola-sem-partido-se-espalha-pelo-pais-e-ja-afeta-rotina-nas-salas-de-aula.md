@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-11-04 23:00:00
 pub_date: 2018-11-04 23:00:00
 time_added: 2019-12-23 21:19:30
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/8EFC/production/_104140663_gettyimages-902804880-1.jpg
 ---

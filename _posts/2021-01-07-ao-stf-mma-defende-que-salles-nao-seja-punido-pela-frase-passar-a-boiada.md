@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-07 12:33:00
 pub_date: 2021-01-07 12:33:00
 time_added: 2021-01-07 21:36:50
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24485185-204-edf/FT1086A/652/salles.jpg
 ---

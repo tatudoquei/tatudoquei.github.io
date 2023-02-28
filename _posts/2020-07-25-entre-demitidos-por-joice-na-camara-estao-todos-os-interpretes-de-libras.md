@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-25 00:20:17
 pub_date: 2020-07-25 00:20:17
 time_added: 2020-07-26 04:10:39
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2019/10/17192214/170619-IE-confisco-de-bens-de-traficantes-028.jpg
 ---

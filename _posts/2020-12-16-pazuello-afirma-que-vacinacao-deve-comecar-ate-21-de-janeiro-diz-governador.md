@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-16 22:20:00
 pub_date: 2020-12-16 22:20:00
 time_added: 2020-12-17 12:10:32
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24777861-5f9-405/FT1086A/652/vacina.jpg
 ---

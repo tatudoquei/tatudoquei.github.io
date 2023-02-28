@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-20 07:20:00
 pub_date: 2022-10-20 07:20:00
 time_added: 2022-10-22 17:51:07
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/9a/2022/10/20/wagner-rosario-ministro-da-cgu-controladoria-geral-da-uniao-1666265928088_v2_615x300.jpg
 ---

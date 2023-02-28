@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-25 03:25:35
 pub_date: 2019-06-25 03:25:35
 time_added: 2019-06-25 05:25:35
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/05/153_questoesambientais_redes.png
 ---

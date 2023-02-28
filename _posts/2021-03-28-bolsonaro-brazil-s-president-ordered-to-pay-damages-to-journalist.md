@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-28 10:16:47
 pub_date: 2021-03-28 10:16:47
 time_added: 2021-03-28 14:05:22
-category: resistimos
+categories: [resistimos]
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_news/A319/production/_117735714_066373579-1.jpg
 ---

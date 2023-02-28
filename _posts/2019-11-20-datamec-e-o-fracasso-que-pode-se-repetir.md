@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-20 16:00:26
 pub_date: 2019-11-20 16:00:26
 time_added: 2019-11-23 10:33:14
-category: 
+categories: []
 tags: []
 image: https://recontaai.com.br/wp-content/uploads/2019/11/5-1-1024x768.jpg
 ---

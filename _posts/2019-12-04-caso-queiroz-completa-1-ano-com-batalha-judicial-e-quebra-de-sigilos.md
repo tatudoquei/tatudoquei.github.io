@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-04 03:00:00
 pub_date: 2019-12-04 03:00:00
 time_added: 2019-12-04 18:24:29
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/20/2018/12/21/flavio-bolsonaro-e-seu-ex-assessor-fabricio-queiroz-1545416060381_v2_615x300.jpg
 ---

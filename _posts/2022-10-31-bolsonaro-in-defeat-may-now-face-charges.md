@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-31 12:14:10
 pub_date: 2022-10-31 12:14:10
 time_added: 2022-10-31 13:14:10
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2022/10/30/multimedia/30brazil-investigations-1-6747/30brazil-investigations-1-6747-facebookJumbo.jpg
 ---

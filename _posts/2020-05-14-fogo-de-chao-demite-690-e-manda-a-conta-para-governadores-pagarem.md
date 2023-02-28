@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-14 20:10:44
 pub_date: 2020-05-14 20:10:44
 time_added: 2020-05-15 05:52:40
-category: 
+categories: []
 tags: []
 image: https://diariodorio.com/wp-content/uploads/2020/05/Fogo-de-Chao-Botafogo-1.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-19 17:17:00
 pub_date: 2023-01-19 17:17:00
 time_added: 2023-02-26 17:58:15
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2023/01/22692840-golpistas-brasilia-exercito-redes.jpg
 ---

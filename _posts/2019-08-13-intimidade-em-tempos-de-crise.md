@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-13 14:17:13
 pub_date: 2019-08-13 14:17:13
 time_added: 2020-05-19 18:50:56
-category: 
+categories: []
 tags: []
 image: https://jacobin.com.br/wp-content/uploads/2019/08/13653215_1097536086987003_7988070671366867644_o.jpg
 ---

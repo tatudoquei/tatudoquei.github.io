@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-28 13:09:00
 pub_date: 2020-03-28 13:09:00
 time_added: 2020-05-05 19:56:22
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/aa/2018/11/19/comunidade-quilombola-itamatatiua-em-alcantara-no-maranhao-1542660446427_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-02 17:49:00
 pub_date: 2020-06-02 17:49:00
 time_added: 2020-06-03 20:49:31
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/27/2020/05/28/presidente-da-repuacuteblica-jair-bolsonaro-sem-partido-1590670543300_v2_615x300.jpg
 ---

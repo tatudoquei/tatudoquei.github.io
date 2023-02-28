@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-11 15:29:58
 pub_date: 2021-05-11 15:29:58
 time_added: 2021-05-26 21:11:23
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/05/Ibama1.jpg
 ---

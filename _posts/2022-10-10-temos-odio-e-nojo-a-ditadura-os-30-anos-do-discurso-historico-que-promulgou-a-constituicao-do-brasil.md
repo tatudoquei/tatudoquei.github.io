@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-10 06:37:18
 pub_date: 2018-10-05 19:44:18
 time_added: 2022-10-10 06:37:18
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/8177/production/_103734133_ulysses-guimaraes-constituicao_00109182008.jpg
 ---

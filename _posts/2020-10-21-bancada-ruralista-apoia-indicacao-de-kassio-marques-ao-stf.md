@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-21 19:07:42
 pub_date: 2020-10-21 19:07:42
 time_added: 2020-11-07 07:35:04
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2020/10/Kassio.jpg
 ---

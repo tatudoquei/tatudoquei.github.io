@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-21 19:35:51
 pub_date: 2018-09-27 17:39:44
 time_added: 2019-05-21 19:35:51
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/20180208_00_agronegocio.jpg
 ---

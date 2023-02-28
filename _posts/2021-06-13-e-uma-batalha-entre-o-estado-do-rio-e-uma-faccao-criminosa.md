@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-13 18:54:21
 pub_date: 2021-06-13 18:54:21
 time_added: 2021-06-13 20:54:21
-category: 
+categories: []
 tags: []
 image: https://odia.ig.com.br/_midias/jpg/2021/06/04/1200x750/1_c61v0577-22080301.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-26 23:00:00
 pub_date: 2021-03-26 23:00:00
 time_added: 2021-04-02 23:56:16
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/auxilio5/alternates/LANDSCAPE_768/auxilio
 ---

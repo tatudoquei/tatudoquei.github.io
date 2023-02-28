@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-09 09:00:00
 pub_date: 2021-05-09 09:00:00
 time_added: 2021-05-24 08:10:36
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2021/05/redes-aGarcia.jpg
 ---

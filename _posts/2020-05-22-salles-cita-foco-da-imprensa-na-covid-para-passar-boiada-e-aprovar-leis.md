@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-22 16:13:00
 pub_date: 2020-05-22 16:13:00
 time_added: 2020-05-23 18:46:22
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/70/2019/01/15/14jan2019---o-ministro-do-meio-ambiente-ricardo-salles-em-evento-do-secovi-sp-1547589666036_v2_615x300.jpg
 ---

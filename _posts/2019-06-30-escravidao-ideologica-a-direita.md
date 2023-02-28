@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-30 22:00:00
 pub_date: 2019-06-30 22:00:00
 time_added: 2019-07-05 05:08:26
-category: 
+categories: []
 tags: []
 image: https://media.gazetadopovo.com.br/2019/07/01154035/14_06_2019_Abertura_da_Copa_Am%C3%A9rica_Brasil_2019_48064641803-660x372.jpg
 ---

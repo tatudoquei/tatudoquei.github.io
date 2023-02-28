@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-20 00:49:09
 pub_date: 2023-01-20 00:49:09
 time_added: 2023-01-21 04:11:44
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Braga_Netto_Jair_Bolsonaro.JPG/alternates/LANDSCAPE_768/Braga_Netto_Jair_Bolsonaro.JPG
 ---

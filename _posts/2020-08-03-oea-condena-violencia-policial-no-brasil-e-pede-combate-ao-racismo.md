@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-03 07:26:00
 pub_date: 2020-08-03 07:26:00
 time_added: 2020-08-03 22:12:33
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/6c/2020/07/15/14jul2020---pm-se-ajoelha-no-pescoco-de-um-motoboy-durante-abordagem-na-avenida-reboucas-em-sp-1594847420081_v2_750x421.jpg
 ---

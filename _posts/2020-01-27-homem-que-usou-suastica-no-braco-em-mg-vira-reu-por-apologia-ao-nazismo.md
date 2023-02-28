@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-27 11:38:00
 pub_date: 2020-01-27 11:38:00
 time_added: 2020-01-27 18:54:04
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b2/2020/01/03/14dez2019---homem-usa-bracadeira-com-suastica-nazista-em-bar-na-cidade-de-unai-mg-1578084642361_v2_750x421.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-23 21:19:31
 pub_date: 2018-03-20 23:25:43
 time_added: 2019-12-23 21:19:31
-category: resistimos
+categories: [resistimos]
 tags: []
 image: https://img.r7.com/images/marielle-franco-15032018202145599
 ---

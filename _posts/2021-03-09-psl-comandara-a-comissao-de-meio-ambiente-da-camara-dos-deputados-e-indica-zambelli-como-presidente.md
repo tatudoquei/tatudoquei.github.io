@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-09 22:36:07
 pub_date: 2021-03-09 22:36:07
 time_added: 2021-03-14 01:19:53
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/03/Oeco_Zambelli-Michel-Jesus-Camara-dos-Deputados.jpg
 ---

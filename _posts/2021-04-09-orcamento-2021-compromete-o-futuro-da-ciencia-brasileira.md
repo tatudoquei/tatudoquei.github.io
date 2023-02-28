@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-09 20:17:00
 pub_date: 2021-04-09 20:17:00
 time_added: 2021-04-10 17:26:08
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2021/04/20210409_cientista_orcamento.jpg
 ---

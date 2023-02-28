@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-03 19:42:45
 pub_date: 2021-02-03 19:42:45
 time_added: 2021-02-07 23:16:20
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/02/Pagina-vazia-ParqueMais-Reproducao-MMA.jpg
 ---

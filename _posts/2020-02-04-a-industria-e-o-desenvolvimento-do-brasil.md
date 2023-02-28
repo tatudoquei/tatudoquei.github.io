@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-04 19:11:27
 pub_date: 2020-02-04 19:11:27
 time_added: 2020-02-04 19:44:50
-category: 
+categories: []
 tags: []
 image: https://vermelho.org.br/wp-content/uploads/2019/10/725db917-1286-40d5-a26e-9e9876e1304c-industria_alt_new132799.jpg
 ---

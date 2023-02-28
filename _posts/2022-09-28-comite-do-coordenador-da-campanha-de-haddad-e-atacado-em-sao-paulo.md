@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-28 01:19:12
 pub_date: 2022-09-28 01:19:12
 time_added: 2022-10-03 00:05:33
-category: 
+categories: []
 tags: []
 image: https://www.cartacapital.com.br/wp-content/uploads/2022/09/comite_emidio_souza_ataque.jpg
 ---

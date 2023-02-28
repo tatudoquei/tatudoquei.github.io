@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-14 08:33:00
 pub_date: 2020-05-14 08:33:00
 time_added: 2020-05-17 09:46:39
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c8/2020/05/08/8mai2020---movimentacao-no-bairro-da-vila-da-penha-zona-norte-do-rio-de-janeiro-em-meio-a-pandemia-do-novo-coronavirus-1588982920051_v2_615x300.jpg
 ---

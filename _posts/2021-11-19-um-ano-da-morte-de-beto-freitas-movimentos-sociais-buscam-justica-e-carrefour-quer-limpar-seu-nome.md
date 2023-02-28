@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-19 15:08:30
 pub_date: 2021-11-19 15:08:30
 time_added: 2021-11-25 01:54:28
-category: 
+categories: []
 tags: []
 image: https://almapreta.com/images/2021/11/carrefouremsp.jpg
 ---

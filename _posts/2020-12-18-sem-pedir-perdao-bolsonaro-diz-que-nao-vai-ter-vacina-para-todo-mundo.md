@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-18 06:56:00
 pub_date: 2020-12-18 06:56:00
 time_added: 2020-12-20 16:08:10
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/9d/2020/12/17/o-presidente-jair-bolsonaro-sem-partido-participou-de-live-semanal-nas-redes-sociais-1608252845296_v2_615x300.jpg
 ---

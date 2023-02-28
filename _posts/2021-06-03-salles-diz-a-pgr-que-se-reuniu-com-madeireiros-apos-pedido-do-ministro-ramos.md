@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-03 07:38:00
 pub_date: 2021-06-03 07:38:00
 time_added: 2021-06-05 15:04:49
-category: bandido bom
+categories: [bandido bom]
 tags: [meio ambiente]
 ---
 

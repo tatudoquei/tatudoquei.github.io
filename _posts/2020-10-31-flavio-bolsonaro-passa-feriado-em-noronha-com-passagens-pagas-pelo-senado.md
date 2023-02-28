@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-31 16:19:51
 pub_date: 2020-10-31 16:19:51
 time_added: 2020-10-31 20:47:33
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2020/10/31122709/WhatsApp-Image-2020-10-31-at-12.23.37.jpeg
 ---

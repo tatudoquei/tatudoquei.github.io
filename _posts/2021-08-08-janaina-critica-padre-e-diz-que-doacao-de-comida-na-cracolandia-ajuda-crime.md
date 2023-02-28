@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-08 15:50:00
 pub_date: 2021-08-08 15:50:00
 time_added: 2021-08-20 21:28:56
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/85/2020/06/19/11fev2020---a-deputada-estadual-janaina-paschoal-psl-sp-em-discurso-na-tribuna-da-alesp-assembleia-legislativa-de-sao-paulo-1592601942585_v2_615x300.jpg
 ---

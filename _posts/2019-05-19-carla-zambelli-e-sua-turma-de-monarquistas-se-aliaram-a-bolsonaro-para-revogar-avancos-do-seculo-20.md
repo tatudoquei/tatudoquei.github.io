@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-19 09:33:00
 pub_date: 2019-05-19 09:33:00
 time_added: 2019-05-20 22:30:48
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/05/monarquistas-redes-1558367321.jpg
 ---

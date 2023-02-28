@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-02-03 12:00:00
 pub_date: 2022-02-03 12:00:00
 time_added: 2022-02-10 09:59:10
-category: 
+categories: []
 tags: []
 image: https://cdn.vox-cdn.com/thumbor/EfQArYk1DzLmSdtdEw2GCOak9A0=/0x65:4000x2159/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23213269/1230160824.jpg
 ---

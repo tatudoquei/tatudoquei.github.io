@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-09 09:00:00
 pub_date: 2023-02-09 09:00:00
 time_added: 2023-02-26 18:32:19
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/apublica.org/wp-content/uploads/2023/02/Capa_Facebook_Ata-cita-conflito-de-interesse-entre-fabricantes-de-vermifugos-sem-eficacia-para-Covid-19.png?fit=1200%2C630&ssl=1
 ---

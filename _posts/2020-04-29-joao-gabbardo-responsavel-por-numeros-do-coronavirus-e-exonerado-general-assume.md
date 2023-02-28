@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-29 10:16:04
 pub_date: 2020-04-29 10:16:04
 time_added: 2020-04-29 19:02:52
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2020/02/joao-gabbardo-henrique-mandetta-1-e1582849443236.jpg
 ---

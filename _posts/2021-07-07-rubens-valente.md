@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-07 07:01:00
 pub_date: 2021-07-07 07:01:00
 time_added: 2021-07-25 16:49:31
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/38/2019/09/16/funcionarios-do-ibamam-tentam-controlar-incendio-na-reserva-indigena-tenharimmarmelos-no-amazonas-1568664549915_v2_615x300.jpg
 ---

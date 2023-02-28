@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-08 18:30:00
 pub_date: 2023-02-08 18:30:00
 time_added: 2023-02-26 18:32:12
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2023/02/Capa_Facebook_As-atas-secretas-do-Comite-de-Crise-da-Covid-19-nao-analisadas-pela-CPI.png
 ---

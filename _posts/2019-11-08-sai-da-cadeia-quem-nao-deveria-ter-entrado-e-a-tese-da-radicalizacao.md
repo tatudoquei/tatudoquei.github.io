@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-08 16:40:00
 pub_date: 2019-11-08 16:40:00
 time_added: 2019-11-08 23:02:22
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2019/11/LULACTBAPOIADORA-615x300.jpg
 ---

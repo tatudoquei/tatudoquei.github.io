@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-08 16:18:17
 pub_date: 2021-11-08 16:18:17
 time_added: 2021-11-13 12:35:11
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/jornal.usp.br/wp-content/uploads/2021/05/20210531_00_favela_pobreza_infancia_crianca.jpg?fit=1200%2C630&ssl=1
 ---

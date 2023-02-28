@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-18 16:46:00
 pub_date: 2021-03-18 16:46:00
 time_added: 2021-03-21 09:27:16
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24931105-532-70f/FT1086A/91987256_SANTOS-SP-12032021Covid-19-Lockdown-SantosBaixada-Santista-Fecha-PraiaUm-dia-a.jpg
 ---

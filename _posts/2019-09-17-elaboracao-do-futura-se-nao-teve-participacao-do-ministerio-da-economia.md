@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-17 23:59:00
 pub_date: 2019-09-17 23:59:00
 time_added: 2019-09-19 05:59:04
-category: 
+categories: []
 tags: []
 image: https://painel.blogfolha.uol.com.br/files/2019/04/Abraham-Weintraub.jpg
 ---

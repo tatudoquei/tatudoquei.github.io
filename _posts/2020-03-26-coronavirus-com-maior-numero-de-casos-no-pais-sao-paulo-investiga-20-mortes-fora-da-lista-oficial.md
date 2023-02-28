@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-26 09:01:00
 pub_date: 2020-03-26 09:01:00
 time_added: 2020-04-04 12:49:10
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/sociedade/24313381-150-7ff/FT1086A/652/CoronavirusLaboratorio-de-Tecnicas-Especiais-do-Hospital-Al.jpg
 ---

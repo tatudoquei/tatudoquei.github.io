@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-24 19:59:00
 pub_date: 2020-04-24 19:59:00
 time_added: 2020-04-25 21:04:44
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/08/2019/06/03/22abr2019---a-deputada-carla-zambelli-psl-sp-em-sessao-solene-na-camara-dos-deputados-1559564598966_v2_615x300.jpg
 ---

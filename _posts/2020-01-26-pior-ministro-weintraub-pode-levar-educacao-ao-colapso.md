@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-26 14:25:00
 pub_date: 2020-01-26 14:25:00
 time_added: 2020-01-26 22:50:19
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/03/2019/12/19/30mai2019---o-ministro-da-educacao-abraham-weintraub-com-um-guarda-chuva-em-um-video-em-que-reclamou-de-uma-suposta-chuva-de-fake-news-1576772924428_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-08 03:00:00
 pub_date: 2019-05-08 03:00:00
 time_added: 2019-05-09 22:43:52
-category: 
+categories: []
 tags: []
 image: https://www.correiodopovo.com.br/image/policy:1.337645:1557340232/image.jpg?a=191%3A100&q=0.6&w=900&$p$a$q$w=61e089e
 ---

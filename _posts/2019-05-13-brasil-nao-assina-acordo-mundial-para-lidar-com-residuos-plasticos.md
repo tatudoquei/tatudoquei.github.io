@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-13 17:47:10
 pub_date: 2019-05-13 17:47:10
 time_added: 2019-05-16 19:10:09
-category: 
+categories: []
 tags: []
 image: https://www.revistaplaneta.com.br/wp-content/uploads/sites/3/2019/02/vanatu-lixoplastico-praia.jpg
 ---

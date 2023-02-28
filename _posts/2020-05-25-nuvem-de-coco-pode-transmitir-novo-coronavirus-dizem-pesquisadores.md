@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-25 12:43:00
 pub_date: 2020-05-25 12:43:00
 time_added: 2020-05-25 19:35:23
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/48/2019/06/17/hemorroida-fazer-coco-banheiro-fezes-1560795440540_v2_615x300.jpg
 ---

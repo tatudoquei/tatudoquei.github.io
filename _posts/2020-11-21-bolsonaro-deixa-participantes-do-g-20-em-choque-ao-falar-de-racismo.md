@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-21 11:58:00
 pub_date: 2020-11-21 11:58:00
 time_added: 2020-11-21 16:50:06
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/1b/2019/06/28/presidente-frances-emmanuel-macron-presidente-brasileiro-jair-bolsonaro-principe-herdeiro-saudita-mohammed-bin-salman-e-o-presidente-russo-vladimir-putin-durante-reuniao-sobre-economia-digital-1561730150027_v2_615x300.jpg
 ---

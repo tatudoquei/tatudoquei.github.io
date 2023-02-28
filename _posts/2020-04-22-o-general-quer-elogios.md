@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-22 22:00:00
 pub_date: 2020-04-22 22:00:00
 time_added: 2020-04-23 12:47:46
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/mIw_tyVD5FgiDp6ewKBE364A1jE=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2020/04/22/87926842_brazils_minister_of_the_secretariat_of_government_luiz_eduardo_ramos_gestures_during_a_new.jpg
 ---

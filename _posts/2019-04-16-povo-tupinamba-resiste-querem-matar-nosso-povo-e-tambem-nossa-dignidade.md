@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-16 10:52:57
 pub_date: 2019-04-16 10:52:57
 time_added: 2019-04-18 20:44:09
-category: 
+categories: []
 tags: []
 image: https://cimi.org.br/wp-content/uploads/2019/04/D72A4968-tiagomiotto-cimi.jpg
 ---

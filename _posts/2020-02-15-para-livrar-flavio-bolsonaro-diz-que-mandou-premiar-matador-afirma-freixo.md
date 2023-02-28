@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-15 19:13:00
 pub_date: 2020-02-15 19:13:00
 time_added: 2020-02-16 15:32:25
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/55/2020/02/10/queiroz-a-dir-e-ex-motorista-e-ex-seguranca-do-hoje-senador-flavio-bolsonaro-filho-do-presidente-1581345958509_v2_615x300.jpg
 ---

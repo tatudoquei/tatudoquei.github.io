@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-12 23:00:00
 pub_date: 2019-03-12 23:00:00
 time_added: 2019-12-23 21:19:33
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://3.bp.blogspot.com/-9DPkjic7Yuo/XIjl6BW03DI/AAAAAAAAA68/xjdrV_Q0EA0_zUUYOZZtqZmvfQhNEkaywCLcBGAs/w1200-h630-p-k-no-nu/marielle-franco.jpg
 ---

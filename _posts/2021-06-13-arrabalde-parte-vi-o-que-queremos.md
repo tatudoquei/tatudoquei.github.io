@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-13 19:00:43
 pub_date: 2021-06-13 19:00:43
 time_added: 2021-06-13 21:00:43
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2021/03/175_dossiepiaui_redes.jpg
 ---

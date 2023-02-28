@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-05 16:36:56
 pub_date: 2020-04-05 16:36:56
 time_added: 2020-05-16 08:50:57
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2020/04/03192406/b19594d5-b8d8-4135-b79f-2ec63cc834e7.jpg
 ---

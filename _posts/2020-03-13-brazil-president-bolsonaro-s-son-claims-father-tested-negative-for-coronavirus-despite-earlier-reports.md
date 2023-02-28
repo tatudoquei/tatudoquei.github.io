@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-13 14:34:13
 pub_date: 2020-03-13 14:34:13
 time_added: 2020-03-15 02:02:32
-category: 
+categories: []
 tags: []
 image: https://media2.foxnews.com/BrightCove/694940094001/2019/03/19/694940094001_6015696574001_6015700936001-vs.jpg
 ---

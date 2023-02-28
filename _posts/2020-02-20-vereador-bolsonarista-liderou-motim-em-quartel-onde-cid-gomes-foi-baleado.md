@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-20 17:07:00
 pub_date: 2020-02-20 17:07:00
 time_added: 2020-02-21 21:20:40
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/80/2020/02/20/sargento-ailton-posa-com-camisa-de-bolsonaro-durante-ato-de-campanha-em-2018-1582227706317_v2_615x300.jpg
 ---

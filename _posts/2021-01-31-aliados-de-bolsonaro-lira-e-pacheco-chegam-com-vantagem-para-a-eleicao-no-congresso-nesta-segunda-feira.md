@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-31 23:01:00
 pub_date: 2021-01-31 23:01:00
 time_added: 2021-02-02 08:08:52
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24863370-20a-1d8/FT1086A/652/camara-senado.png
 ---

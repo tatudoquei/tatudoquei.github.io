@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-01 17:20:00
 pub_date: 2021-09-01 17:20:00
 time_added: 2021-09-06 08:12:47
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f8/2021/05/19/o-vereador-carlos-bolsonaro-com-seu-pai-o-presidente-jair-bolsonaro-1621431994430_v2_615x300.jpg
 ---

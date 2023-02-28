@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-21 11:32:17
 pub_date: 2019-08-21 11:32:17
 time_added: 2019-08-24 08:06:58
-category: 
+categories: []
 tags: []
 image: https://cdn.cnn.com/cnnnext/dam/assets/190821024007-amazon-rainforest-fire-nasa-restricted-super-tease.jpg
 ---

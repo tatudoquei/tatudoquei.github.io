@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-21 00:54:48
 pub_date: 2021-08-21 00:54:48
 time_added: 2021-08-20 21:54:48
-category: 
+categories: []
 tags: []
 image: https://mk0itemsssrcorgqb419.kinstacdn.com/wp-content/uploads/2021/07/51240005842_7355315a3f_k-1000x667.jpg
 ---

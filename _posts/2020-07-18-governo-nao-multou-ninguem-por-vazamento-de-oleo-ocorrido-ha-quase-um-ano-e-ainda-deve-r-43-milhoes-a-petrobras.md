@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-18 02:30:00
 pub_date: 2020-07-18 02:30:00
 time_added: 2020-07-18 21:24:45
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24538867-f42-cf1/FT1086A/652/oleo.jpg
 ---

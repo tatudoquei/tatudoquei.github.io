@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-27 00:03:58
 pub_date: 2020-05-27 00:03:58
 time_added: 2020-05-27 19:17:25
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2020/05/1590598147350393_270520204921.jpg
 ---

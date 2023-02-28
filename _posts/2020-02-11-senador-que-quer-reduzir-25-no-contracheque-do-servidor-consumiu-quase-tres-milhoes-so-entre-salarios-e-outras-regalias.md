@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-11 06:58:26
 pub_date: 2020-02-11 06:58:26
 time_added: 2020-02-11 07:58:26
-category: 
+categories: []
 tags: []
 image: https://deverdeclasse.org/_files/200001301-ce2dbce2de/700/og-min.jpg
 ---

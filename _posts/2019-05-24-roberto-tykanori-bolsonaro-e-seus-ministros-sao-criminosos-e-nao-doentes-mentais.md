@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-24 15:53:28
 pub_date: 2019-05-24 15:53:28
 time_added: 2020-03-29 19:21:09
-category: 
+categories: []
 tags: []
 image: https://www.viomundo.com.br/wp-content/uploads/2019/05/roberto-tycanori-por-priscila-da-silva-img-0556-por-priscila-da-silva-ses-rs.jpg
 ---

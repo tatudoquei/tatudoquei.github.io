@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-08 03:00:00
 pub_date: 2021-09-08 03:00:00
 time_added: 2021-09-26 05:07:54
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Atos-a-favor-de-Bolsonaro-em-SP/alternates/LANDSCAPE_768/Atos%20a%20favor%20de%20Bolsonaro%20em%20SP
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-11 17:08:29
 pub_date: 2021-04-11 17:08:29
 time_added: 2021-05-16 18:24:02
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/04/MarchaDaFamiliaCrista-FamiliaCrista-Marcha-Cristao-Bolsonaro-EslplanadaDosMinisterios-112-1200x630.jpg
 ---

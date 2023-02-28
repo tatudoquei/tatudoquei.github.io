@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-31 01:25:01
 pub_date: 2022-10-31 01:25:01
 time_added: 2022-10-31 13:42:03
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/mulher_vota/alternates/LANDSCAPE_768/mulher_vota
 ---

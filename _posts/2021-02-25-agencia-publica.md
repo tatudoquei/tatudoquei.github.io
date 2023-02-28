@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-25 23:35:36
 pub_date: 2021-02-25 23:35:36
 time_added: 2021-02-25 20:35:36
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/02/imagem-principal-retangular.png
 ---

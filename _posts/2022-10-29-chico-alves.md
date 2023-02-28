@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-29 06:07:00
 pub_date: 2022-10-29 06:07:00
 time_added: 2022-10-30 16:13:42
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/dd/2022/10/15/lula-e-rene-silva-1665841157359_v2_615x300.png
 ---

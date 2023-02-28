@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-10 20:34:44
 pub_date: 2023-01-10 20:34:44
 time_added: 2023-01-14 14:27:02
-category: 
+categories: []
 tags: []
 image: https://images01.brasildefato.com.br/fa20022a550ea55f6153791112e25c3e.jpeg
 ---

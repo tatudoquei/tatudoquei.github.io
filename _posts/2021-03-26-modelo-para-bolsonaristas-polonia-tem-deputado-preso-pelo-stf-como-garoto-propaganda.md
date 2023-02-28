@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-26 12:54:00
 pub_date: 2021-03-26 12:54:00
 time_added: 2021-03-27 09:24:44
-category: 
+categories: []
 tags: []
 image: https://saidapeladireita.blogfolha.uol.com.br/files/2021/03/polonia.jpeg
 ---

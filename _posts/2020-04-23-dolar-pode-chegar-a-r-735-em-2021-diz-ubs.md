@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-23 18:20:47
 pub_date: 2020-04-23 18:20:47
 time_added: 2020-04-24 07:05:03
-category: 
+categories: []
 tags: []
 image: https://einvestidor.estadao.com.br/wp-content/uploads/sites/715/2020/03/money-2250365-1920_220320203515.jpg
 ---

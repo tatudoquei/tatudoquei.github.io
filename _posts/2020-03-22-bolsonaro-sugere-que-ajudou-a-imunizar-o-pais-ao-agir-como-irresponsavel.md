@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-22 22:17:00
 pub_date: 2020-03-22 22:17:00
 time_added: 2020-03-23 10:31:57
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/7c/2020/03/22/frame-da-conversa-de-bolsonaro-com-ratinho-que-foi-ao-ar-no-dia-20-de-marco-de-2010-1584928748470_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-21 14:35:00
 pub_date: 2021-06-21 14:35:00
 time_added: 2021-07-04 12:09:14
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f8/2021/05/20/ricardo-salles-ministro-do-meio-ambiente-1621504863475_v2_615x300.jpg
 ---

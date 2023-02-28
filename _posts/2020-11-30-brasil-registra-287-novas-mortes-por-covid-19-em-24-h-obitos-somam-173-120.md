@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-30 17:19:00
 pub_date: 2020-11-30 17:19:00
 time_added: 2020-11-30 23:03:25
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/9e/2020/11/21/sp---25-marco-movimentacao---geral---movimentacao-na-rua-25-de-marco-em-sao-paulo-sp-neste-sabado-21-21112020---foto-renato-s-cerqueirafutura-pressfutura-pressestadao-conteudo-1605979666566_v2_615x300.jpg
 ---

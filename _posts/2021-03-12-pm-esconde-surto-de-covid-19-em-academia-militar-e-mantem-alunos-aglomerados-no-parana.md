@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-12 08:30:00
 pub_date: 2021-03-12 08:30:00
 time_added: 2021-03-20 23:51:36
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2021/03/apmg-redes.jpg
 ---

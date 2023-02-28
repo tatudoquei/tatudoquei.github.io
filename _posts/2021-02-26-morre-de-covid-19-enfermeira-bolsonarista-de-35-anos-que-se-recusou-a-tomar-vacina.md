@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-26 11:35:55
 pub_date: 2021-02-26 11:35:55
 time_added: 2021-02-27 00:10:51
-category: 
+categories: []
 tags: []
 image: https://cdn.revistaforum.com.br/wp-content/uploads/2021/02/enfermeira-e1614280271924.jpg
 ---

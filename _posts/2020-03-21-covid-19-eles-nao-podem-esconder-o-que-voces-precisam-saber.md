@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-21 17:31:48
 pub_date: 2020-03-21 17:31:48
 time_added: 2020-03-21 18:31:48
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/03/bolsonaro-moro-redes1.jpg
 ---

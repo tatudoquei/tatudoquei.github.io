@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-04 11:22:24
 pub_date: 2020-04-04 11:22:24
 time_added: 2020-04-05 19:19:19
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/04/05/world/05germany-deathrate1/merlin_171072987_8e193282-6f10-4a5f-84ce-b2d9c4d2f181-facebookJumbo.jpg
 ---

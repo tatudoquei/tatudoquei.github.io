@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-31 18:59:00
 pub_date: 2019-05-31 18:59:00
 time_added: 2019-06-01 08:51:41
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/fd/2019/05/30/30mai2019---manifestantes-chegam-a-cinelandia-no-centro-do-rio-de-janeiro-durante-ato-contra-os-cortes-na-educacao-propostos-pelo-governo-federal-1559257652074_v2_615x300.jpg
 ---

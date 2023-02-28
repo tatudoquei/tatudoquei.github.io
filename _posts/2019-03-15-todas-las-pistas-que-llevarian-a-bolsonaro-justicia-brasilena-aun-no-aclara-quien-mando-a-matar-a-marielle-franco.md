@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-15 15:52:00
 pub_date: 2019-03-15 15:52:00
 time_added: 2019-12-23 21:19:33
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://media.cnnchile.com/sites/2/2019/03/Marielle-Franco-1920-1.jpg
 ---

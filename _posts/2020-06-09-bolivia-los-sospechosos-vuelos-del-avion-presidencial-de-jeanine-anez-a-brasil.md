@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-09 18:10:31
 pub_date: 2020-06-09 18:10:31
 time_added: 2020-06-09 20:10:31
-category: 
+categories: []
 tags: []
 image: https://images.pagina12.com.ar/styles/focal_16_9_960x540/public/media/articles/78944/whatsapp-20image-202020-06-06-20at-2018-04-01.jpeg?itok=jiIOiNRi
 ---

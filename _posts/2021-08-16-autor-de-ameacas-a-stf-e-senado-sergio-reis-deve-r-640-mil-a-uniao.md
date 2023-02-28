@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-16 21:00:55
 pub_date: 2021-08-16 21:00:55
 time_added: 2021-08-20 21:36:06
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2018/08/25113406/S%C3%A9rgio-reis.jpg
 ---

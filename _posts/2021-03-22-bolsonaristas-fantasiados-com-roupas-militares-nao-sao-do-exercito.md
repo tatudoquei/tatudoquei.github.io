@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-22 23:18:02
 pub_date: 2021-03-22 23:18:02
 time_added: 2021-03-23 06:41:13
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2021/03/fantasia.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

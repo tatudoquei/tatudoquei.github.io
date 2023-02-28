@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-20 18:02:03
 pub_date: 2023-01-20 18:02:03
 time_added: 2023-01-21 10:19:33
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2023/01/20125735/CID-Cid-e-Bolsonaro.jpg
 ---

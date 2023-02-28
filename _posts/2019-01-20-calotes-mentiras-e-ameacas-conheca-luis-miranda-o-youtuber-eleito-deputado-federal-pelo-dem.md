@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-20 09:11:00
 pub_date: 2019-01-20 09:11:00
 time_added: 2021-07-04 12:15:38
-category: 
+categories: []
 tags: []
 image: https://theintercept.imgix.net/wp-uploads/sites/1/2019/01/luismiranda-1547941893.png?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800
 ---

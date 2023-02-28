@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-30 16:11:01
 pub_date: 2019-05-30 16:11:01
 time_added: 2019-05-30 21:03:28
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/BCP37PaglZ-FYsmU73lADQv067o=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/C/P/Pxu4bpTVaZtnemAMxieg/comparacao-protestos-13h-v1.png
 ---

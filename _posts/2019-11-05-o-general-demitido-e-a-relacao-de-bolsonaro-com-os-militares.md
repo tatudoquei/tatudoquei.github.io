@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-05 23:00:00
 pub_date: 2019-11-05 23:00:00
 time_added: 2019-11-12 23:08:43
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Maynard-de-Santa-Rosa/ALTERNATES/LANDSCAPE_720/Maynard%20de%20Santa%20Rosa
 ---

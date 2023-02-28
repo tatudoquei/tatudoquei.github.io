@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-17 22:51:21
 pub_date: 2020-03-17 22:51:21
 time_added: 2020-03-18 08:48:41
-category: 
+categories: []
 tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2020/03/bolsonaro-coronavius.jpg
 ---

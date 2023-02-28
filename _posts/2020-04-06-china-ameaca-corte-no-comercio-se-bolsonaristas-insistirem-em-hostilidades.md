@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-06 18:17:00
 pub_date: 2020-04-06 18:17:00
 time_added: 2020-04-08 13:17:32
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ac/2020/04/06/presidente-jair-bolsonaro-e-ministro-das-relacoes-exteriores-ernesto-araujo-em-brasilia-1586181818232_v2_750x421.jpg
 ---

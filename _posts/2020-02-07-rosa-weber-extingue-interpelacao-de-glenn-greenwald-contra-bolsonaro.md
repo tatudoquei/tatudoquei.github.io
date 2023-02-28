@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-07 14:53:00
 pub_date: 2020-02-07 14:53:00
 time_added: 2020-02-08 00:03:03
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/61/2019/05/23/ministra-rosa-weber-do-stf-1558645158120_v2_615x300.jpg
 ---

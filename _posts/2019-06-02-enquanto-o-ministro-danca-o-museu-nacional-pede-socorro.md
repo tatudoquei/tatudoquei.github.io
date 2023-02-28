@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-02 00:00:00
 pub_date: 2019-06-02 00:00:00
 time_added: 2019-06-02 14:44:33
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/VOWdI2NWW6r8RCqVJ3YsL0YP0GY=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2018/09/02/incendio.jpg
 ---

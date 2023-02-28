@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-25 16:36:00
 pub_date: 2021-08-25 16:36:00
 time_added: 2021-09-06 08:22:20
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/8f/2021/08/04/29-abri-2020---ministro-da-economia-paulo-guedes-e-da-defesa-walter-braga-netto-1628103217796_v2_615x300.jpg
 ---

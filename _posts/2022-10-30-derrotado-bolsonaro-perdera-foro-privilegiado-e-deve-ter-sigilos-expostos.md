@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-30 19:14:00
 pub_date: 2022-10-30 19:14:00
 time_added: 2022-10-30 23:32:29
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/0a/2022/10/29/o-presidente-jair-bolsonaro-se-irritou-em-entrevista-a-jornalistas-apos-o-debate-da-tv-globo-1667020179148_v2_750x421.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-18 22:00:00
 pub_date: 2019-05-18 22:00:00
 time_added: 2019-05-20 22:36:27
-category: recuadas
+categories: [recuadas]
 tags: [meio ambiente]
 ---
 

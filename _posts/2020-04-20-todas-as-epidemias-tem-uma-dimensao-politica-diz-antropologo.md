@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-20 02:00:00
 pub_date: 2020-04-20 02:00:00
 time_added: 2020-04-20 11:13:18
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/tab/a0/2020/04/17/o-pesquisador-claudio-bertolli-1587150784317_v2_615x300.png
 ---

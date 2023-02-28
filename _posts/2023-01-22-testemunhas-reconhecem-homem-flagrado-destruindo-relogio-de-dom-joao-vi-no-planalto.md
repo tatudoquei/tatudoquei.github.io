@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-22 13:08:25
 pub_date: 2023-01-22 13:08:25
 time_added: 2023-01-26 19:05:42
-category: 
+categories: []
 tags: []
 image: https://www.cartacapital.com.br/wp-content/uploads/2023/01/bolsonarista_relogio_palacio.jpg
 ---

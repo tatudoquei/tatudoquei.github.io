@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-20 15:15:40
 pub_date: 2019-12-20 15:15:40
 time_added: 2019-12-21 20:08:50
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2017/09/esplanada-dos-ministerios.jpeg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-15 14:20:26
 pub_date: 2021-12-15 14:20:26
 time_added: 2021-12-16 15:11:17
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/12/xcapes-predio-grande.jpg.pagespeed.ic_.7jhaTCqbzn.jpg
 ---

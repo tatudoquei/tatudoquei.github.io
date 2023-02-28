@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-08 19:47:06
 pub_date: 2021-10-08 19:47:06
 time_added: 2021-10-17 15:06:51
-category: 
+categories: []
 tags: []
 image: https://www.bloomberglinea.com/resizer/ASsCzAmY4VKW9CbJDodqg5YsOXM=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/AFCXI4A3GRHX5ANLEJDGID3WPY.jpg
 ---

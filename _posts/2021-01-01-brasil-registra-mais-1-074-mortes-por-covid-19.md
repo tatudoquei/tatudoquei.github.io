@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-01 09:05:43
 pub_date: 2021-01-01 09:05:43
 time_added: 2021-01-01 10:05:43
-category: 
+categories: []
 tags: [saúde]
 image: https://static.dw.com/image/55887065_6.jpg
 ---

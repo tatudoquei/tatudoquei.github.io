@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-28 03:10:57
 pub_date: 2020-05-28 03:10:57
 time_added: 2020-05-28 17:52:27
-category: 
+categories: []
 tags: []
 image: https://climainfo.org.br/wp-content/uploads/2020/05/Salles-nome-aos-bois-x.jpg
 ---

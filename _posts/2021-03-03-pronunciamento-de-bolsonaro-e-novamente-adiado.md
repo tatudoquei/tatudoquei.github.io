@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-03 21:44:17
 pub_date: 2021-03-03 21:44:17
 time_added: 2021-03-06 22:11:03
-category: recuadas
+categories: [recuadas]
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2021/02/50932244208_a30e41161d_o.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

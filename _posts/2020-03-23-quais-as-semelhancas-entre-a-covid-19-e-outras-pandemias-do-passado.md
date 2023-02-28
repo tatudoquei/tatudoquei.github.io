@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-23 12:07:19
 pub_date: 2020-03-23 12:07:19
 time_added: 2020-03-28 15:25:54
-category: 
+categories: []
 tags: []
 image: https://abrilsaude.files.wordpress.com/2020/03/medicina-antiga-thumb.png
 ---

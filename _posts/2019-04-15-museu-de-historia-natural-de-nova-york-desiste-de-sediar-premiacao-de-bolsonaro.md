@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-15 15:46:00
 pub_date: 2019-04-15 15:46:00
 time_added: 2019-04-18 21:22:07
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23594257-879-434/FT1086A/652/77262945_BV-Dinossauros-Museu-de-Historia-Natural-NY-Foto-Divulgacao.jpg
 ---

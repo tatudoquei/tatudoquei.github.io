@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-17 13:40:31
 pub_date: 2019-11-17 13:40:31
 time_added: 2019-11-17 22:18:00
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2019/06/33930472238_400de41749_o-1200x630.jpg
 ---

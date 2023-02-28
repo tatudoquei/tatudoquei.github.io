@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-05 20:50:34
 pub_date: 2022-10-05 20:50:34
 time_added: 2022-10-10 06:41:47
-category: 
+categories: []
 tags: []
 image: https://transparenciainternacional.org.br/wp-content/uploads/2022/10/share.png
 ---

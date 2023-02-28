@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-30 15:42:00
 pub_date: 2020-05-30 15:42:00
 time_added: 2020-05-24 22:03:43
-category: 
+categories: []
 tags: []
 image: https://cdni.rt.com/files/2020.05/article/5ecae57f203027548155759a.JPG
 ---

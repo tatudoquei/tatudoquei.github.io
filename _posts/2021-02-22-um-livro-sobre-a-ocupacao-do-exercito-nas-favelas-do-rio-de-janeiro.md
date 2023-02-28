@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-22 21:00:00
 pub_date: 2021-02-22 21:00:00
 time_added: 2021-03-03 21:15:32
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24893528-620-7cf/FT1086A/652/xGUADALUPE.png.pagespeed.ic.VVj9FSRLQ5.jpg
 ---

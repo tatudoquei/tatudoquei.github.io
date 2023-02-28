@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-28 11:00:14
 pub_date: 2020-03-28 11:00:14
 time_added: 2020-03-29 13:40:48
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/yVIy5cDKyc0wqGAl_QmnIYaz8vA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/J/9/z8hzBrRR6BwvSTA88wZQ/ufmg-tv-globo.jpg
 ---

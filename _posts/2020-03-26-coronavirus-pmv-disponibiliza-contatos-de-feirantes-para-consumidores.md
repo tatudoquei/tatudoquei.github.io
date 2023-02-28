@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-26 07:01:16
 pub_date: 2020-03-26 07:01:16
 time_added: 2020-03-26 08:01:16
-category: 
+categories: []
 tags: []
 image: https://www.vitoria.es.gov.br/imagens/banco/2016_05/img_00050205.jpg
 ---

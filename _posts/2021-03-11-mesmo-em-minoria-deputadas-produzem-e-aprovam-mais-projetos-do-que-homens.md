@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-11 10:24:01
 pub_date: 2021-03-11 10:24:01
 time_added: 2021-03-18 01:06:04
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2018/10/mulheres.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-12 12:01:47
 pub_date: 2020-04-12 12:01:47
 time_added: 2020-04-13 21:30:57
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2020/04/stevens-rehen.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-25 09:25:45
 pub_date: 2021-12-25 09:25:45
 time_added: 2021-12-25 10:25:45
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Olavo-de-Carvalho-em-sua-casa/alternates/LANDSCAPE_768/Olavo%20de%20Carvalho%20em%20sua%20casa
 ---

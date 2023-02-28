@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-20 10:44:00
 pub_date: 2021-03-20 10:44:00
 time_added: 2021-03-20 16:35:05
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/d3/2021/03/16/mesmo-durante-fase-vermelha-transporte-publico-sofre-com-superlotacao-1615931472456_v2_615x300.png
 ---

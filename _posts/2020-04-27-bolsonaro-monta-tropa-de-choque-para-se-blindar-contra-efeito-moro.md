@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-27 01:50:14
 pub_date: 2020-04-27 01:50:14
 time_added: 2020-04-27 11:15:24
-category: 
+categories: []
 tags: []
 image: https://brpolitico.com.br/wp-content/uploads/sites/683/2020/04/moro-despedida-gabriela-bilo-estadao_240420201705.jpg
 ---

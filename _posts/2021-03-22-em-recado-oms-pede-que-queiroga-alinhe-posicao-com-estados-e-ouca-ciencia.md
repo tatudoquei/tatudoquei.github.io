@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-22 16:58:00
 pub_date: 2021-03-22 16:58:00
 time_added: 2021-03-27 18:51:56
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f4/2021/03/16/jair-bolsonaro-com-marcelo-queiroga-1615874223332_v2_615x300.jpg
 ---

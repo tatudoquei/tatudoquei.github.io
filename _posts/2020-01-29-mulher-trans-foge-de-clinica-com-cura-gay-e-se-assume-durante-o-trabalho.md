@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-29 08:14:50
 pub_date: 2020-01-29 08:14:50
 time_added: 2020-01-30 06:51:22
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/r5l98KV-RSRjyu9VshqLfh95Iwo=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/D/d/DKDjwdRQKBxZSWNwbahw/relato-trans.jpeg
 ---

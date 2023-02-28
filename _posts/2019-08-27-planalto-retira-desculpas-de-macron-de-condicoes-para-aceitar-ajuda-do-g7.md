@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-27 17:13:00
 pub_date: 2019-08-27 17:13:00
 time_added: 2019-08-28 22:14:08
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/3b/2019/08/27/macron-e-bolsonaro-no-g20-1566938842313_v2_615x300.jpg
 ---

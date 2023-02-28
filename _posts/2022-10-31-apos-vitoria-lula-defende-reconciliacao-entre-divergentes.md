@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-31 01:00:28
 pub_date: 2022-10-31 01:00:28
 time_added: 2022-10-31 01:02:36
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/lula-palanque.png/alternates/LANDSCAPE_768/lula-palanque.png
 ---

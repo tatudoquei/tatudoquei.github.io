@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-19 15:42:00
 pub_date: 2020-03-19 15:42:00
 time_added: 2020-03-20 21:32:38
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/03/GettyImages-1206987910-redes-1584635314.jpg
 ---

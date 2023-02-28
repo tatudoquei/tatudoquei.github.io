@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-22 09:48:37
 pub_date: 2020-07-22 09:48:37
 time_added: 2020-07-28 21:58:25
-category: 
+categories: []
 tags: []
 image: https://www.irgac.org/files/2020/07/Reuters.jpg
 ---

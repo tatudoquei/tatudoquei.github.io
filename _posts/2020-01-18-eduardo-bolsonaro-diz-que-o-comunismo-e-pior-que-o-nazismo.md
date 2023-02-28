@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-18 11:48:47
 pub_date: 2020-01-18 11:48:47
 time_added: 2020-01-18 23:17:10
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2019/08/eduardo-bolsonaro-sylvio-costa-1200x630.jpg
 ---

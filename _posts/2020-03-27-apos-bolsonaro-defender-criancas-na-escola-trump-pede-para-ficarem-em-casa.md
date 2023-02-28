@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-27 22:07:00
 pub_date: 2020-03-27 22:07:00
 time_added: 2020-03-28 16:57:10
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/55/2020/03/26/o-presidente-dos-estados-unidos-donald-trump-durante-coletiva-de-imprensa-sobre-o-coronavirus-na-casa-branca-1585262430250_v2_615x300.jpg
 ---

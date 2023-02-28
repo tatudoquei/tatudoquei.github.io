@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-01 02:00:00
 pub_date: 2020-05-01 02:00:00
 time_added: 2020-05-03 06:23:13
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/20/2020/05/01/area-de-pasto-queimado-as-margens-da-br-319-proximo-a-humaita-no-amazonas-1588337818436_v2_615x300.jpg
 ---

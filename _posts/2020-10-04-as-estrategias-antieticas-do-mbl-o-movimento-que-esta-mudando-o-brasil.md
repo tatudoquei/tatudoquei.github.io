@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-04 03:15:00
 pub_date: 2020-10-04 03:15:00
 time_added: 2020-10-04 10:57:28
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/10/mbl-wando-redes1.jpg
 ---

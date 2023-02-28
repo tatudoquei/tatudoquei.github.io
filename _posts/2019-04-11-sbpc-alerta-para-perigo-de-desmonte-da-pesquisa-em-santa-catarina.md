@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-11 15:26:29
 pub_date: 2019-04-11 15:26:29
 time_added: 2019-04-13 13:36:08
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/04/12.jpg
 ---

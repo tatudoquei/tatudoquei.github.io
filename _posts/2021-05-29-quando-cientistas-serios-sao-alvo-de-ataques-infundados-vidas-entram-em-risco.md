@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-29 02:30:00
 pub_date: 2021-05-29 02:30:00
 time_added: 2021-05-29 14:47:42
-category: 
+categories: []
 tags: []
 image: https://i.glbimg.com/og/ig/infoglobo1/f/original/blog/image_share/a-hora-da-ciencia.jpg
 ---

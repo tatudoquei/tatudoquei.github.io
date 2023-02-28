@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-18 05:35:00
 pub_date: 2021-05-18 05:35:00
 time_added: 2021-05-18 12:51:54
-category: 
+categories: []
 tags: []
 image: https://estaticos.globoradio.globo.com/fotos/2021/01/4656bd4e-9e52-4b6f-b46b-7a100b341be9.JPG.640x360_q75_box-0%2C340%2C6525%2C4010_crop_detail.jpg
 ---

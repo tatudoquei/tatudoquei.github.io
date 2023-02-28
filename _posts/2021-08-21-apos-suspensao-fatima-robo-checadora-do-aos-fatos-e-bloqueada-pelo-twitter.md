@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-21 00:09:21
 pub_date: 2021-08-21 00:09:21
 time_added: 2021-08-20 21:09:21
-category: 
+categories: []
 tags: []
 image: https://static.aosfatos.org/media/images/entries/banner_AF_cinza_2.jpg.570x384_q85_box-380,0,1122,500_crop_upscale.jpg
 ---

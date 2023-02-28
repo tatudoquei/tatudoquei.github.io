@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-16 23:11:36
 pub_date: 2021-03-16 23:11:36
 time_added: 2021-03-19 00:39:44
-category: 
+categories: []
 tags: []
 image: https://agencia.fiocruz.br/sites/agencia.fiocruz.br/files/imagemDestaque/boletim_alerta_d.jpg
 ---

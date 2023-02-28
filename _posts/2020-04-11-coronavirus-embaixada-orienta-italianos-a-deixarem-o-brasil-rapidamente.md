@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-11 21:12:00
 pub_date: 2020-04-11 21:12:00
 time_added: 2020-04-12 11:39:29
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/53/2020/03/13/coronavirus-italia-1584133299273_v2_615x300.jpg
 ---

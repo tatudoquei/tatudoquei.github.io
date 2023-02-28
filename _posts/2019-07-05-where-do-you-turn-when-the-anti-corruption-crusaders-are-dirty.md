@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-05 10:00:11
 pub_date: 2019-07-05 10:00:11
 time_added: 2019-07-07 08:15:10
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2019/07/05/opinion/05barbaraWeb/05barbaraWeb-facebookJumbo.jpg
 ---

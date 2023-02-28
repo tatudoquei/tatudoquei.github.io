@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-15 18:41:00
 pub_date: 2022-10-15 18:41:00
 time_added: 2022-10-16 14:25:30
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/9b/2022/10/15/amoedo-novo-lula-1665855639388_v2_615x300.jpg
 ---

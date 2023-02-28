@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-26 10:07:01
 pub_date: 2020-03-26 10:07:01
 time_added: 2020-03-26 11:07:01
-category: 
+categories: []
 tags: []
 image: https://1.bp.blogspot.com/-7V1cKt14k4c/XnvYkDEUQGI/AAAAAAABKFc/MzXhFvMl4SEYjcZwgI6hEW0Kpg2FIdp-wCLcBGAsYHQ/w1200-h630-p-k-no-nu/Atila%2BIamarino.png
 ---

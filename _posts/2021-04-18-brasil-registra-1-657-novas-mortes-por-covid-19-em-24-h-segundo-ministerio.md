@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-18 16:31:00
 pub_date: 2021-04-18 16:31:00
 time_added: 2021-05-16 20:36:49
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/89/2021/03/24/19032021---paciente-intubado-no-hospital-da-restinga-na-zona-sul-de-porto-alegre-por-covid-19-1616614992088_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-23 21:00:18
 pub_date: 2021-06-23 21:00:18
 time_added: 2021-07-04 12:39:05
-category: 
+categories: []
 tags: []
 image: https://brazilsfpnews.files.wordpress.com/2021/06/gettyimages-118795849-58b88d435f9b58af5c2d926a.jpg
 ---

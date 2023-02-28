@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-07 08:00:00
 pub_date: 2020-07-07 08:00:00
 time_added: 2020-07-26 04:26:04
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/tab/85/2020/07/07/o-empresario-e-filantropo-bill-gates-1594123769189_v2_615x300.jpg
 ---

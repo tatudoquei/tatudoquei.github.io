@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-02 23:00:00
 pub_date: 2020-11-02 23:00:00
 time_added: 2020-11-07 07:31:45
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/teaser-lila_schwarcz.jpg/alternates/LANDSCAPE_768/teaser-lila_schwarcz.jpg
 ---

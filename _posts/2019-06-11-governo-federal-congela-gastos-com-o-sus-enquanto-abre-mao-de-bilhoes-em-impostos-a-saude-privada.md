@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-11 17:16:33
 pub_date: 2019-06-11 17:16:33
 time_added: 2019-06-11 19:16:33
-category: 
+categories: []
 tags: []
 image: http://conteudo.imguol.com.br/c/noticias/ea/2016/01/05/5jan2016---crise-na-saude-do-estado-do-rio-de-janeiro-faz-o-hospital-mario-kroff-na-penha-zona-norte-da-capital-fluminense-ficar-sem-medicos-na-ala-de-oncologia-o-novo-secretario-estadual-de-saude-1452019883865_750x421.jpg
 ---

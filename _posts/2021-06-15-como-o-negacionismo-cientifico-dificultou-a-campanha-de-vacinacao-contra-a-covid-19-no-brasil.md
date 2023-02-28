@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-15 13:08:52
 pub_date: 2021-06-15 13:08:52
 time_added: 2021-06-16 06:44:45
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2021/06/artigo-JC2.jpg
 ---

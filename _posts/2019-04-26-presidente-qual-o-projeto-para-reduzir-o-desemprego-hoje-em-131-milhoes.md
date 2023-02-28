@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-26 10:16:00
 pub_date: 2019-04-26 10:16:00
 time_added: 2019-04-27 08:13:42
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2018/12/bolsoso-615x300.jpg
 ---

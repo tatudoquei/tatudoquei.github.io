@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-06 10:37:30
 pub_date: 2019-05-06 10:37:30
 time_added: 2020-02-06 17:39:57
-category: 
+categories: []
 tags: []
 image: https://images.theconversation.com/files/272324/original/file-20190502-103063-1kkkuh.jpg?ixlib=rb-1.1.0&rect=0%2C513%2C4031%2C2015&q=45&auto=format&w=1356&h=668&fit=crop
 ---

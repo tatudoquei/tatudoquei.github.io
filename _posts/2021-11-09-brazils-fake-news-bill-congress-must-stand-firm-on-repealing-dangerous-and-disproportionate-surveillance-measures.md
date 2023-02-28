@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-09 16:07:34
 pub_date: 2021-11-09 16:07:34
 time_added: 2021-11-13 12:35:21
-category: 
+categories: []
 tags: []
 image: https://www.eff.org/files/banner_library/brazil-reach-1.png
 ---

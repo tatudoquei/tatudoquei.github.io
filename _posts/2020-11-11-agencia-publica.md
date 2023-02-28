@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-11 16:38:19
 pub_date: 2020-11-11 16:38:19
 time_added: 2020-11-14 08:35:22
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2020/10/era-uma-vez-no-pais-da-cloroquina-destaque.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-18 20:19:36
 pub_date: 2019-11-18 20:19:36
 time_added: 2019-11-19 07:33:09
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2016/05/alx_economia-dolar-voando-20140613-02_original.jpeg?quality=70&strip=info&w=680&h=453&crop=1
 ---

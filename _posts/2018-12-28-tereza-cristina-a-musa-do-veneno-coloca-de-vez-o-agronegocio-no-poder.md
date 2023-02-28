@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-28 20:39:00
 pub_date: 2018-12-28 20:39:00
 time_added: 2019-12-23 21:41:23
-category: refletimos
+categories: [refletimos]
 tags: [meio ambiente]
 image: https://video-images.vice.com/articles/5c1d4d9abc98940007c70448/lede/1545424320141-09_tereza_cristina.jpeg?crop=0.9991111111111111xw:1xh;center,center&resize=1200:*
 ---

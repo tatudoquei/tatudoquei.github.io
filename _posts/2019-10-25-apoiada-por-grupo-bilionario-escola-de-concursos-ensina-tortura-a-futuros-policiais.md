@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-25 23:57:44
 pub_date: 2019-10-25 23:57:44
 time_added: 2020-10-26 19:54:17
-category: 
+categories: []
 tags: []
 image: https://ponte.org/wp-content/uploads/2019/10/evandro-guedes-alfacon-eduardo-bolsonaro.jpg
 ---

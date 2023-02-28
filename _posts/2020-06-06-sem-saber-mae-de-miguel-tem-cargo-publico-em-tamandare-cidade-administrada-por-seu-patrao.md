@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-06 20:33:38
 pub_date: 2020-06-06 20:33:38
 time_added: 2020-06-06 22:33:38
-category: 
+categories: []
 tags: []
 image: https://tvcultura.com.br/upload/tvcultura/noticias/20200605152348_miguelemirtes.png
 ---

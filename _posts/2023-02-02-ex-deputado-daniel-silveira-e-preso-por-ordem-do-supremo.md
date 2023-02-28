@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-02 13:22:38
 pub_date: 2023-02-02 13:22:38
 time_added: 2023-02-06 23:21:53
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Daniel-Silveira/alternates/LANDSCAPE_768/Daniel%20Silveira
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-05 16:42:00
 pub_date: 2020-06-05 16:42:00
 time_added: 2020-06-06 16:35:05
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/b1/2018/10/16/o-escritor-e-medico-drauzio-varella-1539738135556_v2_615x300.jpg
 ---

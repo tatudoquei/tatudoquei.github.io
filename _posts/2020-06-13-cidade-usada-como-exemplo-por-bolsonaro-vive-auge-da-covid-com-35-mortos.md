@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-13 02:00:00
 pub_date: 2020-06-13 02:00:00
 time_added: 2020-06-13 23:36:04
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/0d/2020/05/28/jair-bolsonaro-faz-live-ao-lado-de-pedro-guimaraes-presidente-da-caixa-e-jorge-seif-junior-secretario-de-pesca-1590703951306_v2_615x300.png
 ---

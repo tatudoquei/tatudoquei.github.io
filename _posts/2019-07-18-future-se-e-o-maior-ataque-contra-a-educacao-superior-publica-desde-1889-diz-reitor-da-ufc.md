@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-18 22:00:00
 pub_date: 2019-07-18 22:00:00
 time_added: 2019-09-17 16:16:40
-category: 
+categories: []
 tags: []
 image: https://www.opovo.com.br/_midias/jpg/2019/07/19/reitor_ufc-3338900.jpeg
 ---

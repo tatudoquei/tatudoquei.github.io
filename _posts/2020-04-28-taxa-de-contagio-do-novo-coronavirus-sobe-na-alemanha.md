@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-28 13:30:00
 pub_date: 2020-04-28 13:30:00
 time_added: 2020-04-29 04:10:31
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/fYDBZbkM5TED7LHdekycFvkCveE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/e/j/vs1DmUQNquFGJt0RRvfA/berlim28.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-18 15:29:34
 pub_date: 2023-01-18 15:29:34
 time_added: 2023-01-20 07:18:11
-category: 
+categories: []
 tags: []
 image: https://techpolicy.press/wp-content/uploads/2023/01/Shutterstock_2224914311-1024x576.jpg
 ---

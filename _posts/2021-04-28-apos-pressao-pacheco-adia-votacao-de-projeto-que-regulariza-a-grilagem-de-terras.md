@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-28 21:34:25
 pub_date: 2021-04-28 21:34:25
 time_added: 2021-05-23 07:58:31
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/04/Chafero.jpg
 ---

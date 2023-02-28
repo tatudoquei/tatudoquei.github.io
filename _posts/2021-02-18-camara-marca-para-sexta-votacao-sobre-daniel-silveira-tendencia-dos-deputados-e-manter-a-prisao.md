@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-18 20:53:00
 pub_date: 2021-02-18 20:53:00
 time_added: 2021-02-19 19:29:37
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/brasil/24889046-c7e-afa/FT1086A/652/deputado-Daniel-Silveira.jpg
 ---

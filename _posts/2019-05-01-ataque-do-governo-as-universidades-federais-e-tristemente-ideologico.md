@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-01 04:18:00
 pub_date: 2019-05-01 04:18:00
 time_added: 2019-05-02 19:36:24
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/04/weintraub_bolsonaro-615x300.jpg
 ---

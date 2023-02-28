@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-20 21:06:59
 pub_date: 2019-03-20 21:06:59
 time_added: 2019-12-23 21:19:33
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://www.pragmatismopolitico.com.br/wp-content/uploads/2019/03/bolsonaro-olavo.jpg
 ---

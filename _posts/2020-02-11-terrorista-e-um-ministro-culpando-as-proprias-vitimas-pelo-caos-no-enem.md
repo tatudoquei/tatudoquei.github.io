@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-11 12:59:00
 pub_date: 2020-02-11 12:59:00
 time_added: 2020-02-11 23:34:29
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/43/2019/07/23/ministro-da-educacao---abraham-weintraub-1563889268387_v2_615x300.jpg
 ---

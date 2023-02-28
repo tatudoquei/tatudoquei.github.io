@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-23 11:18:00
 pub_date: 2020-03-23 11:18:00
 time_added: 2020-03-23 19:12:48
-category: 
+categories: []
 tags: []
 image: https://f.i.uol.com.br/fotografia/2019/04/16/15554631225cb67bd24d625_1555463122_3x2_rt.jpg
 ---

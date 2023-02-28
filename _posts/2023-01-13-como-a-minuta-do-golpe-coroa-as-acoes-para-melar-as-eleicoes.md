@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-13 17:39:32
 pub_date: 2023-01-13 17:39:32
 time_added: 2023-01-14 09:22:45
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Bolsonaro_AndersonTorres-AlanSantos-divulgacao.jpeg/alternates/LANDSCAPE_768/Bolsonaro_AndersonTorres-AlanSantos-divulgacao.jpeg
 ---

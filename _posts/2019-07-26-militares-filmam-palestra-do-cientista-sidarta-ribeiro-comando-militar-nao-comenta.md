@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-26 14:36:00
 pub_date: 2019-07-26 14:36:00
 time_added: 2019-07-27 07:23:34
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/seSa_FNAU7F5R_QGRsdsc88YNes=/e.glbimg.com/og/ed/f/original/2019/07/26/palestra-sbpc.jpg
 ---

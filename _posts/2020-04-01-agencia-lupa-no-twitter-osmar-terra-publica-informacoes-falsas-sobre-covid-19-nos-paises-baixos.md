@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-01 16:33:11
 pub_date: 2020-04-01 16:33:11
 time_added: 2020-04-02 21:37:38
-category: 
+categories: []
 tags: []
 image: https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2020/04/osmarterra.jpg
 ---

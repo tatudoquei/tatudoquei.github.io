@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-26 12:15:22
 pub_date: 2019-03-26 12:15:22
 time_added: 2019-03-27 07:11:57
-category: avisamos
+categories: [avisamos]
 tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2019/03/antcrz_abr_20190316_1357.jpg
 ---

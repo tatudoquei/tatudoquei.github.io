@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-05 17:19:21
 pub_date: 2020-04-05 17:19:21
 time_added: 2020-04-05 19:19:21
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/metodo-cientifico.jpg/alternates/LANDSCAPE_768/metodo-cientifico.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-30 12:06:53
 pub_date: 2021-05-30 12:06:53
 time_added: 2021-05-30 19:01:38
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2021/05/pazuello-edilson-rodrigues-agsenado.jpg
 ---

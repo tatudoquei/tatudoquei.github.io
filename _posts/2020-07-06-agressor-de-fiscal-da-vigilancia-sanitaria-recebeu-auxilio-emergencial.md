@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-06 15:25:00
 pub_date: 2020-07-06 15:25:00
 time_added: 2020-07-07 06:53:18
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24518722-cb6-ccf/FT1086A/652/88728702_Homem-agrediu-verbalmente-o-superintendente-de-educacao-da-Vigilancia-Sanitaria-do-Rio-Flav-1.jpg
 ---

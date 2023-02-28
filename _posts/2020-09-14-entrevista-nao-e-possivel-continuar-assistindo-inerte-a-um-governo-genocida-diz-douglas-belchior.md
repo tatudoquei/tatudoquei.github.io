@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-14 02:05:00
 pub_date: 2020-09-14 02:05:00
 time_added: 2020-09-14 05:34:00
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/09/db-redes.jpg
 ---

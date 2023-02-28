@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-08 11:40:40
 pub_date: 2021-01-08 11:40:40
 time_added: 2021-01-09 09:05:53
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2020/04/lewandowski_020420201920.jpg
 ---

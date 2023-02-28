@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-17 13:50:35
 pub_date: 2019-05-17 13:50:35
 time_added: 2019-05-26 23:05:41
-category: 
+categories: []
 tags: []
 image: https://odia.ig.com.br/_midias/jpg/2019/05/17/700x470/1_lobao-11140784.jpg
 ---

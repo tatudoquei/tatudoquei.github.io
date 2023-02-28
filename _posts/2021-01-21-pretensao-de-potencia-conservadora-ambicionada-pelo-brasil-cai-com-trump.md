@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-21 03:04:00
 pub_date: 2021-01-21 03:04:00
 time_added: 2021-06-05 15:10:45
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/47/2021/01/11/bolsonaro-seguiraacute-apoiando-trump-e-natildeo-tentaraacute-se-aproximar-de-joe-biden-1610356417611_v2_615x300.jpg
 ---

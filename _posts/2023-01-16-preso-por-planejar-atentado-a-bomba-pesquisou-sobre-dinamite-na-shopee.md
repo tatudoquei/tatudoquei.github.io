@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-16 16:06:46
 pub_date: 2023-01-16 16:06:46
 time_added: 2023-01-21 10:12:40
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2022/12/25111240/Homem-preso-com-arsenal-que-pretendia-fazer-atentado-na-posse-de-Lula.jpeg
 ---

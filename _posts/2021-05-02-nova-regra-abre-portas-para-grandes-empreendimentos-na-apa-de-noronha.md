@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-02 17:50:47
 pub_date: 2021-05-02 17:50:47
 time_added: 2021-05-24 07:55:02
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/05/Oeco2_Vila-dos-Remedios_APA-Noronha_Duda-Menegassi.jpeg
 ---

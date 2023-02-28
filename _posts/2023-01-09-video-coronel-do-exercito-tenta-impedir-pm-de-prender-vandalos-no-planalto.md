@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-09 15:21:53
 pub_date: 2023-01-09 15:21:53
 time_added: 2023-01-14 14:27:34
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2023/01/08190928/Tropa-de-choque-da-PMDF-dispersa-manifestac%CC%A7a%CC%83o-Bolsonarista-e-faz-prisa%CC%83o-de-alguns-manifestantes-8.jpeg
 ---

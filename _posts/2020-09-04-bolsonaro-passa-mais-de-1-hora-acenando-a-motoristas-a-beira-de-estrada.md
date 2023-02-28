@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-04 22:40:55
 pub_date: 2020-09-04 22:40:55
 time_added: 2020-09-04 22:37:41
-category: 
+categories: []
 tags: []
 image: https://extra.globo.com/incoming/24624298-033-1ee/w976h550-PROP/bolsonaro-acena-para-apoiadores-em-rodovia-de-sp.jpeg.jpg
 ---

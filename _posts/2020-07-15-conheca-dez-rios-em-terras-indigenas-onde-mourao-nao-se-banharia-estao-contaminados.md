@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-15 13:08:37
 pub_date: 2020-07-15 13:08:37
 time_added: 2020-07-18 21:24:29
-category: 
+categories: []
 tags: []
 image: https://deolhonosruralistas.com.br/wp-content/uploads/2020/07/riodoce-krenak-abre.jpg
 ---

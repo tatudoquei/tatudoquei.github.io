@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-21 04:30:00
 pub_date: 2020-05-21 04:30:00
 time_added: 2020-05-23 18:46:10
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24437650-035-c11/FT1086A/652/112295000_pazuello-pr-alansantos_1.jpg
 ---

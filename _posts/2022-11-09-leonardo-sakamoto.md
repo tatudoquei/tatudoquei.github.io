@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-09 19:02:00
 pub_date: 2022-11-09 19:02:00
 time_added: 2022-11-12 14:17:20
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d8/2022/11/03/manifestantes-golpistas-a-favor-do-presidente-jair-bolsonaro-na-praca-duque-de-caxias-no-centro-do-rio-de-janeiro-1667449508425_v2_615x300.jpg
 ---

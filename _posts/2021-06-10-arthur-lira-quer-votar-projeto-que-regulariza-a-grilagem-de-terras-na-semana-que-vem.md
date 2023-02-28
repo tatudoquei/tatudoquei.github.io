@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-10 23:48:01
 pub_date: 2021-06-10 23:48:01
 time_added: 2021-07-04 08:30:06
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/06/Lira-regularizacao.jpg
 ---

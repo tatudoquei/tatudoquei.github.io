@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-25 14:44:00
 pub_date: 2021-04-25 14:44:00
 time_added: 2021-04-26 05:08:16
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24977201-4b2-ee5/FT1086A/92240581_Brazilian-President-Jair-Bolsonaro-L-and-his-Finance-Minister-Paulo-Guedes-talk-during.jpg
 ---

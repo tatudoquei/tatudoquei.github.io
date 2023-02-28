@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-18 03:16:28
 pub_date: 2019-03-18 03:16:28
 time_added: 2019-12-23 21:19:32
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://www.valor.com.br/sites/all/themes/basic/images/facebook/valor-big.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-18 19:41:00
 pub_date: 2023-01-18 19:41:00
 time_added: 2023-01-21 10:19:32
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/6a/2023/01/18/o-deputado-jose-guimaraes-lider-do-governo-na-camara-dos-deputados-1674057112765_v2_615x300.jpg
 ---

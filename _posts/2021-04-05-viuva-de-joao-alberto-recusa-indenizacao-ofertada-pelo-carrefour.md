@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-05 19:04:22
 pub_date: 2021-04-05 19:04:22
 time_added: 2021-04-05 21:04:22
-category: 
+categories: []
 tags: []
 image: https://almapreta.com/images/2021/04/joaoalberto.png
 ---

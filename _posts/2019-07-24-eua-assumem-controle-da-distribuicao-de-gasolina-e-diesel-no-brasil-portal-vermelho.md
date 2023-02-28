@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-24 14:43:39
 pub_date: 2019-07-24 14:43:39
 time_added: 2019-10-10 02:08:53
-category: 
+categories: []
 tags: []
 image: http://www.vermelho.org.br/tim.php?src=http://www.vermelho.org.br/admin/arquivos/biblioteca/fup1.png133566.png&w=635&h=332
 ---

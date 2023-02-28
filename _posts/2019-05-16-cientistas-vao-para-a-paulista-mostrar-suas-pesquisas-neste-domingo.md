@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-16 22:00:00
 pub_date: 2019-05-16 22:00:00
 time_added: 2019-05-19 18:53:38
-category: 
+categories: []
 tags: []
 image: https://horadopovo.org.br/wp-content/uploads/2019/05/Cientistas-Engajados.jpg
 ---

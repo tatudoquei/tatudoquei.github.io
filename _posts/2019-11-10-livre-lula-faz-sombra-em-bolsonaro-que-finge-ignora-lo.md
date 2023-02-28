@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-10 07:46:00
 pub_date: 2019-11-10 07:46:00
 time_added: 2019-11-10 23:03:23
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/11/lulasaobernardo-615x300.jpeg
 ---

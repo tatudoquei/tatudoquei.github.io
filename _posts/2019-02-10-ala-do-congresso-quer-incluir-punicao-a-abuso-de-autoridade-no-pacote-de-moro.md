@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-10 01:00:00
 pub_date: 2019-02-10 01:00:00
 time_added: 2019-12-23 21:19:31
-category: resistimos
+categories: [resistimos]
 tags: []
 image: https://painel.blogfolha.uol.com.br/files/2019/02/moro_camara.jpg
 ---

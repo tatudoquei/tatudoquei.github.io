@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-22 03:07:00
 pub_date: 2020-05-22 03:07:00
 time_added: 2020-05-22 18:52:37
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/economia/24433714-ebd-ecc/FT1086A/652/88124348_Brazils-President-Jair-Bolsonaro-wearing-a-protective-face-mask-reacts-as-he-leaves-Alvora.jpg
 ---

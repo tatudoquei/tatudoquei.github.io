@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-09 16:00:00
 pub_date: 2023-02-09 16:00:00
 time_added: 2023-02-26 18:37:18
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2023/02/Capa_Facebook_Atas-secretas-mostram-como-governo-pretendia-criar-Dia-Nacional-do-Cuidado-Precoce.png
 ---

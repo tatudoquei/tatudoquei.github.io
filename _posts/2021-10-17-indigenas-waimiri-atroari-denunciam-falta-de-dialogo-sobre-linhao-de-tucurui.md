@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-17 17:29:49
 pub_date: 2021-10-17 17:29:49
 time_added: 2021-10-17 14:29:49
-category: 
+categories: []
 tags: []
 image: https://www.socioambiental.org/sites/blog.socioambiental.org/files/styles/twitter-card/public/blogs/rs32275_aldeia_xeri.jpg?itok=-W-eeepG
 ---

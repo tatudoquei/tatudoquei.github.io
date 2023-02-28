@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-03 20:00:30
 pub_date: 2020-07-03 20:00:30
 time_added: 2020-07-07 06:53:21
-category: 
+categories: []
 tags: []
 image: http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2020/07/03/2020-07-03T195833Z_1_LYNXMPEG621E4_RTROPTP_4_HEALTH-CORONAVIRUS-BRAZIL-INDIGENOUS.JPG
 ---

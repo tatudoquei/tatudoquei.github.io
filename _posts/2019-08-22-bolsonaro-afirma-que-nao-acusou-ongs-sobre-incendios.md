@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-22 12:11:05
 pub_date: 2019-08-22 12:11:05
 time_added: 2019-08-30 06:01:31
-category: 
+categories: []
 tags: []
 image: http://www.valor.com.br/sites/default/files/imagecache/media_library_big_horizontal/fotoweb/antcrz_abr_08081920157.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-03 07:37:23
 pub_date: 2020-01-03 07:37:23
 time_added: 2020-01-03 08:37:23
-category: 
+categories: []
 tags: []
 image: https://media.gazetadopovo.com.br/2019/11/19005758/iraque-protestos1-660x372.jpg
 ---

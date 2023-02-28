@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-14 15:50:00
 pub_date: 2020-05-14 15:50:00
 time_added: 2020-05-15 12:44:19
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24422921-2ee-42a/FT1086A/652/xBolsonaro.jpg.pagespeed.ic.-ukFA9FGEA.jpg
 ---

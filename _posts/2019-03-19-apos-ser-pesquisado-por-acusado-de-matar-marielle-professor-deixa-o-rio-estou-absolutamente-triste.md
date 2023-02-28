@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-19 10:57:36
 pub_date: 2019-03-19 10:57:36
 time_added: 2019-03-31 11:56:52
-category: 
+categories: []
 tags: []
 image: https://extra.globo.com/incoming/23530496-71f-04e/w976h550-PROP/xpedro-mara.pagespeed.ic.rtes4cllu4.jpg
 ---

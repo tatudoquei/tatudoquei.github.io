@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-11 07:00:00
 pub_date: 2019-04-11 07:00:00
 time_added: 2019-04-12 21:45:00
-category: 
+categories: []
 tags: []
 image: https://aosfatos.org/media/images/entries/moro.jpg.1860x1080_q85_box-21%2C0%2C1263%2C720_crop_upscale.jpg
 ---

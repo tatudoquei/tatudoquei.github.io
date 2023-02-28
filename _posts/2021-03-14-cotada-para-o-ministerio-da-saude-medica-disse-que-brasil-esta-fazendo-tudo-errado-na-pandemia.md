@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-14 14:59:00
 pub_date: 2021-03-14 14:59:00
 time_added: 2021-03-21 09:17:30
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24924774-253-23f/FT1086A/ludh.jpg
 ---

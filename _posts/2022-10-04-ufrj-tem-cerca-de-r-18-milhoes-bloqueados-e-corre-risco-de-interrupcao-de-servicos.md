@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-04 22:00:00
 pub_date: 2022-10-04 22:00:00
 time_added: 2022-10-10 06:46:42
-category: 
+categories: []
 tags: []
 image: https://conexao.ufrj.br/wp-content/uploads/2022/10/Artur-Moes-Financas-1.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-27 14:20:00
 pub_date: 2019-07-27 14:20:00
 time_added: 2019-07-28 21:37:06
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/esporte/a6/2019/07/27/comitiva-de-jair-bolsonaro-tem-dezenas-de-criancas-e-varios-segurancas-no-gramado-do-allianz-parque-antes-de-palmeiras-x-vasco-da-gama-1564255205919_v2_615x300.jpg
 ---

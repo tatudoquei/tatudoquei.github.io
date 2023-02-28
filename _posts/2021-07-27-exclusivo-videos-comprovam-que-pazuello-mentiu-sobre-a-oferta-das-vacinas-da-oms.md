@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-27 12:55:44
 pub_date: 2021-07-27 12:55:44
 time_added: 2021-07-25 17:04:04
-category: 
+categories: []
 tags: []
 image: https://cdn.crusoe.com.br/uploads/2021/07/quadro.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-01 01:49:00
 pub_date: 2019-11-01 01:49:00
 time_added: 2019-11-01 23:22:40
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/58/files/2019/11/BolsonaroHelenoPedroLadeiraFolha-615x300.jpg
 ---

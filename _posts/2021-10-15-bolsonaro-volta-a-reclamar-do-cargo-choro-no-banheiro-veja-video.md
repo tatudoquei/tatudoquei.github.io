@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-15 01:48:40
 pub_date: 2021-10-15 01:48:40
 time_added: 2021-10-17 15:03:48
-category: 
+categories: []
 tags: []
 image: https://cdn.revistaforum.com.br/wp-content/uploads/2021/08/bolsonarochora.jpeg
 ---

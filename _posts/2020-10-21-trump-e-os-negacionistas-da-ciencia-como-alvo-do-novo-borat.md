@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-21 18:21:14
 pub_date: 2020-10-21 18:21:14
 time_added: 2020-10-21 20:21:14
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/borat-2-poster/alternates/LANDSCAPE_768/borat-2-poster
 ---

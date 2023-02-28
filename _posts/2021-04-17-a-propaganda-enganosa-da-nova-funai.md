@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-17 10:01:00
 pub_date: 2021-04-17 10:01:00
 time_added: 2021-04-18 08:10:52
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/Qz9uObtc7e_AtN82ZlmGdIMVMTQ=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/11/01/83609450_bsb_-_brasilia_-_brasil_-_10-07-2019_-_comissao_de_relacoes_exteriores_e_de_defesa_nacional.jpg
 ---

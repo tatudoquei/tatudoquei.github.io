@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-04 13:22:37
 pub_date: 2019-09-04 13:22:37
 time_added: 2019-09-17 16:17:14
-category: 
+categories: []
 tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2019/03/800px-Biologist_studying_cancer_02.jpg
 ---

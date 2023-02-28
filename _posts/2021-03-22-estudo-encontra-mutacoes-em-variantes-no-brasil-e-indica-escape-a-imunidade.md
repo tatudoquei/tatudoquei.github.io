@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-22 22:36:00
 pub_date: 2021-03-22 22:36:00
 time_added: 2021-03-27 18:51:32
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/85/2021/03/17/anticorpos-e-coronavirus-virus-covid-19-1616007805031_v2_615x300.jpg
 ---

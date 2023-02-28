@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-04 03:00:32
 pub_date: 2019-08-04 03:00:32
 time_added: 2019-08-05 22:38:50
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/estadao-verifica/wp-content/uploads/sites/690/2019/08/bolsonaro2.jpg
 ---

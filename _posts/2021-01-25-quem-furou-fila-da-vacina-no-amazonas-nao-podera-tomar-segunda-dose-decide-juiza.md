@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-25 20:36:42
 pub_date: 2021-01-25 20:36:42
 time_added: 2021-01-25 21:36:42
-category: 
+categories: []
 tags: []
 image: https://www.acritica.com/uploads/news/image/782704/share_big_WhatsApp_Image_2021-01-22_at_10.54.06_ABC25C96-0613-49AE-9A9F-3525D3C82963.jpeg
 ---

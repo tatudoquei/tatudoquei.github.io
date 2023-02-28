@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-12 14:50:32
 pub_date: 2019-07-12 14:50:32
 time_added: 2019-07-19 06:13:46
-category: 
+categories: []
 tags: []
 image: https://www12.senado.leg.br/noticias/materias/2019/07/12/cientistas-ceticos-sobre-o-aquecimento-global-serao-ouvidos-na-cre/bittar_01.jpg
 ---

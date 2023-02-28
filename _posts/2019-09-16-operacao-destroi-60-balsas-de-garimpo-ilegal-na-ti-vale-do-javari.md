@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-16 16:58:09
 pub_date: 2019-09-16 16:58:09
 time_added: 2019-09-17 22:51:35
-category: 
+categories: []
 tags: []
 image: https://trabalhoindigenista.org.br/wp-content/uploads/2019/09/show_KORUBO_83BC7EC5-ACFE-450B-B107-FA8185354074-1.jpg
 ---

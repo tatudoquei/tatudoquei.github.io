@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-16 16:16:20
 pub_date: 2021-02-16 16:16:20
 time_added: 2021-02-16 13:16:20
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/joao-roma-vale-esta-foto.jpg/alternates/LANDSCAPE_768/joao%20roma%20vale%20esta%20foto.jpg
 ---

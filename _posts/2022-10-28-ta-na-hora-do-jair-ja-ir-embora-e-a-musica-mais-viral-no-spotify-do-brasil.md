@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-28 17:48:00
 pub_date: 2022-10-28 17:48:00
 time_added: 2022-10-29 08:04:13
-category: 
+categories: []
 tags: []
 image: https://rollingstone.uol.com.br/media/_versions/ta-na-hora-do-jair-ja-ir-embora-lula-pt-foto-reproducao-getty-images_widelg.jpg
 ---

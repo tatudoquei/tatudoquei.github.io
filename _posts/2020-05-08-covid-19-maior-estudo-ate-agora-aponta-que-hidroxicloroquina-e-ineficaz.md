@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-08 09:05:00
 pub_date: 2020-05-08 09:05:00
 time_added: 2020-05-11 18:00:53
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/75/2020/05/08/remedio-1588943272490_v2_615x300.jpg
 ---

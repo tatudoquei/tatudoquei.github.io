@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-22 03:09:00
 pub_date: 2020-04-22 03:09:00
 time_added: 2020-04-22 12:45:02
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/97/2020/03/19/o-ministro-de-relacoes-exteriores-ernesto-araujo-e-o-deputado-eduardo-bolsonaro-durante-audiencia-publica-na-comissao-de-relacoes-exteriores-da-camara-dos-deputados-1584630808143_v2_615x300.jpg
 ---

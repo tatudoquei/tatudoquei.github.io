@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-12 10:32:00
 pub_date: 2018-12-12 10:32:00
 time_added: 2019-12-23 21:15:16
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://s2.glbimg.com/PcGYNTwKykXr-dX7pVcdI5kxVfU=/666x375/i.glbimg.com/og/ig/infoglobo1/f/original/2018/12/12/placas-gelo.jpg
 ---

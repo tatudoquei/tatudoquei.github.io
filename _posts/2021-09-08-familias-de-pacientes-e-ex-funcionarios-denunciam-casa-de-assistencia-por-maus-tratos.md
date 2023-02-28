@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-08 17:00:00
 pub_date: 2021-09-08 17:00:00
 time_added: 2021-09-26 05:09:04
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/09/capa-facebook-familiares-de-pacientes-e-ex-funcionarios-denunciam-casa-de-assistencia-em-sc-por-maus-tratos.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-24 09:00:54
 pub_date: 2020-01-24 09:00:54
 time_added: 2020-01-25 11:32:43
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2020/01/2020-01-22t162313z_1622892282_rc24le9ycyfi_rtrmadp_3_brazil-politics.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-01 20:27:43
 pub_date: 2023-01-01 20:27:43
 time_added: 2023-01-03 08:29:42
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/AD9F/production/_128174444_lulafala.png
 ---

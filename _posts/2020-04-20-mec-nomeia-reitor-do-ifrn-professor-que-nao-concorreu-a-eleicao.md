@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-20 12:57:44
 pub_date: 2020-04-20 12:57:44
 time_added: 2020-04-21 19:56:43
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/5dBEwg6ZeZoh3hpumo8w4DI1sDo=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2016/11/03/ifrn.jpg
 ---

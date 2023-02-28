@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-09 20:02:18
 pub_date: 2020-03-09 20:02:18
 time_added: 2020-03-09 21:02:18
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/03/seringa-redes-1583191248.jpg
 ---

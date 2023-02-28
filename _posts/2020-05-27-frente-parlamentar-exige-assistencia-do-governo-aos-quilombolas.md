@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-27 15:55:11
 pub_date: 2020-05-27 15:55:11
 time_added: 2020-05-28 18:04:59
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2018/08/20180830_00_musica_ilu_oba_de_min.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-01 02:30:00
 pub_date: 2020-09-01 02:30:00
 time_added: 2020-09-01 17:28:53
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24611478-0d6-aa5/FT1086A/652/Biologo-Richard-Araujo-Maia-realizando-testes-de-covid-19.jpg
 ---

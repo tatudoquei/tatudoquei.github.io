@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-24 15:03:41
 pub_date: 2021-01-24 15:03:41
 time_added: 2021-01-25 21:37:40
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/01/jair-bolsonaro-1200x630.jpg
 ---

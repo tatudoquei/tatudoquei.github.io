@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-22 15:31:00
 pub_date: 2019-06-22 15:31:00
 time_added: 2019-06-25 05:16:07
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/06/bolso_arma-615x300.jpeg
 ---

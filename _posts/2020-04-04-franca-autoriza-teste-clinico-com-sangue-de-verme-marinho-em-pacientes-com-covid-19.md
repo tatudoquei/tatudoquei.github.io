@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-04 12:09:00
 pub_date: 2020-04-04 12:09:00
 time_added: 2020-04-06 06:11:04
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/60/2017/08/01/arenicola-marina-1501630102248_615x300.jpg
 ---

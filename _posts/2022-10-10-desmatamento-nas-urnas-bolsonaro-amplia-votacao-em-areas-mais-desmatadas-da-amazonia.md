@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-10 18:39:45
 pub_date: 2022-10-10 18:39:45
 time_added: 2022-10-10 21:19:51
-category: 
+categories: []
 tags: []
 image: https://oeco.org.br/wp-content/uploads/2022/06/desmatamento_5.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-15 12:22:00
 pub_date: 2020-06-15 12:22:00
 time_added: 2020-06-15 21:06:46
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/af/2020/04/24/dep-eduardo-bolsonaro-durante-comissao-de-relacoes-exteriores-e-de-defesa-nacional-realizada-na-camara-dos-deputados-em-setembro-de-2019-1587749910300_v2_615x300.jpg
 ---

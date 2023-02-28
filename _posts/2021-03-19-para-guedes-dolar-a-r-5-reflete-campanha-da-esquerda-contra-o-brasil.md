@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-19 17:29:05
 pub_date: 2021-03-19 17:29:05
 time_added: 2021-03-20 15:57:30
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/teRfxcWbZmDya8lB08koLlZCN0c=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2020/T/z/Ntued5ROegjmK5Y5Bxkw/guedes.jpg
 ---

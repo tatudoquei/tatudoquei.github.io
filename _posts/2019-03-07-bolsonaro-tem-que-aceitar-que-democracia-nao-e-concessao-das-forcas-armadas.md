@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-07 11:45:00
 pub_date: 2019-03-07 11:45:00
 time_added: 2019-12-23 21:21:01
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/03/marinha-615x300.jpg
 ---

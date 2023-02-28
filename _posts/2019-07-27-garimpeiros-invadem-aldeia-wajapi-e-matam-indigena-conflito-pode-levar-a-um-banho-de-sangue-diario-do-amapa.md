@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-27 20:54:19
 pub_date: 2019-07-27 20:54:19
 time_added: 2019-07-27 22:54:19
-category: 
+categories: []
 tags: []
 image: https://www.diariodoamapa.com.br/wp-content/uploads/2019/07/POLITICA1-INDIGENAS-e1564253339499.jpg
 ---

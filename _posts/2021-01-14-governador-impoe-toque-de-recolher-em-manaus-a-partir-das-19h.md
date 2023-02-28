@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-14 18:02:28
 pub_date: 2021-01-14 18:02:28
 time_added: 2021-01-15 15:28:45
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/01/wilson-lima-scaled-1-1200x630.jpg
 ---

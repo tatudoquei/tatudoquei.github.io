@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-20 21:26:26
 pub_date: 2018-12-20 21:26:26
 time_added: 2020-05-29 18:32:20
-category: 
+categories: []
 tags: []
 image: https://deolhonosruralistas.com.br/wp-content/uploads/2018/12/ricardosalles-endireita.jpg
 ---

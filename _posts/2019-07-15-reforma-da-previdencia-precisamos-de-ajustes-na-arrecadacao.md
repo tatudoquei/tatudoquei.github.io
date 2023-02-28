@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-15 17:39:32
 pub_date: 2019-07-15 17:39:32
 time_added: 2019-07-15 19:39:32
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Reforma-da-Previd%C3%AAncia-precisamos-de-ajustes-na-arrecada%C3%A7%C3%A3o/ALTERNATES/LANDSCAPE_720/Reforma%20da%20Previd%C3%AAncia:%20precisamos%20de%20ajustes%20na%20arrecada%C3%A7%C3%A3o
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-18 16:06:47
 pub_date: 2020-04-18 16:06:47
 time_added: 2020-04-27 21:58:38
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2020/04/lidice-da-mata-cleia-vianna-agcamara.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-06 10:34:00
 pub_date: 2020-01-06 10:34:00
 time_added: 2020-01-08 19:53:37
-category: 
+categories: []
 tags: []
 image: https://hashtag.blogfolha.uol.com.br/files/2020/01/amontoado.jpg
 ---

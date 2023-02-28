@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-25 21:22:11
 pub_date: 2020-10-25 21:22:11
 time_added: 2020-11-07 07:34:05
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2020/10/Salles-e-Bolso-Foto-Alan-SantosPR.jpg
 ---

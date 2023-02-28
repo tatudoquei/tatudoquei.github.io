@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-14 17:09:46
 pub_date: 2020-04-14 17:09:46
 time_added: 2020-04-14 19:09:46
-category: 
+categories: []
 tags: []
 image: https://almapreta.com/images/2020/04/gettyimagespandemiarep.jpg
 ---

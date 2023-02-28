@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-14 12:02:29
 pub_date: 2021-12-14 12:02:29
 time_added: 2021-12-24 20:10:04
-category: 
+categories: []
 tags: []
 image: https://www.cartacapital.com.br/wp-content/uploads/2021/12/image_processing20211122-32129-1aizs1x-1.jpg
 ---

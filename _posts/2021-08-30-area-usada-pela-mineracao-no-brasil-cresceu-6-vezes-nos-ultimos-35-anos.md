@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-30 15:12:02
 pub_date: 2021-08-30 15:12:02
 time_added: 2021-09-26 05:02:44
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/08/Oeco2_Mineracao_Felipe-Werneck_Ibama.jpg
 ---

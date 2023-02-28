@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-21 09:51:00
 pub_date: 2020-03-21 09:51:00
 time_added: 2020-03-22 08:31:17
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/fb/2020/03/21/21mar2020---homem-filma-faixas-com-ofensas-ao-presidente-da-china-xi-jinping-instaladas-em-frente-a-embaixada-daquele-pais-em-brasilia-dias-depois-de-um-dos-filhos-do-presidente-da-republica-jair-1584796728630_v2_615x300.jpg
 ---

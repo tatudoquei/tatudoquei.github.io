@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-20 23:00:00
 pub_date: 2019-01-20 23:00:00
 time_added: 2019-12-23 21:41:25
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://www.americasquarterly.org/sites/default/files/bolsonarotop_0.jpg
 ---

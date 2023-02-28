@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-27 09:00:03
 pub_date: 2020-03-27 09:00:03
 time_added: 2020-03-31 20:13:08
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/03/25/world/00-bergamo-promo/xxbergamo-photos-facebookJumbo.jpg
 ---

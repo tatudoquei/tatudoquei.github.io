@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-18 00:28:43
 pub_date: 2021-03-18 00:28:43
 time_added: 2021-03-21 09:26:45
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/02/DiaDoSoladado-Militares-JairBolsonaro-HmailtonMourao-SergioMoro-RicardoSalles-Soldados-313-3-1200x630.jpg
 ---

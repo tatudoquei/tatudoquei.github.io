@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-02 05:00:00
 pub_date: 2019-08-02 05:00:00
 time_added: 2019-08-03 18:52:50
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/4iVGUAYMK6ml4TRhLCnwbBACGgk=/648x389/i.glbimg.com/og/ig/infoglobo1/f/original/2017/01/25/celso-de-mello_-_o_globo.jpg
 ---

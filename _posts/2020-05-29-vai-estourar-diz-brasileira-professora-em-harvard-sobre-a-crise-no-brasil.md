@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-29 08:00:54
 pub_date: 2020-05-29 08:00:54
 time_added: 2020-05-29 18:32:25
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/nmTxt3NvIQ-4ncC-QfUYkv7DLPU=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2020/N/0/rq9ekKSbaAxv8R094AGQ/foto29cul-701-joao-d16.jpg
 ---

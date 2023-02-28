@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-18 12:55:55
 pub_date: 2021-12-18 12:55:55
 time_added: 2021-12-23 23:26:02
-category: 
+categories: []
 tags: []
 image: https://cdn.theatlantic.com/thumbor/eeIzzDDuAuR-xlPpOWp5oJjRUgs=/6x194:4998x2794/1200x625/media/img/mt/2021/12/crop_AP21163701171718/original.jpg
 ---

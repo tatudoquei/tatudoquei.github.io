@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-21 08:38:26
 pub_date: 2020-05-21 08:38:26
 time_added: 2020-05-27 21:07:00
-category: 
+categories: []
 tags: []
 image: https://sustentabilidade.estadao.com.br/blogs/ambiente-se/wp-content/uploads/sites/92/2020/04/41737918074-612e6a1571-k_220420204751.jpg
 ---

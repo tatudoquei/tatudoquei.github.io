@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-24 23:00:00
 pub_date: 2020-04-24 23:00:00
 time_added: 2020-04-25 07:57:31
-category: refletimos
+categories: [refletimos]
 tags: [ciência, saúde]
 image: https://f.i.uol.com.br/fotografia/2020/04/10/15865470035e90c93bd1151_1586547003_3x2_rt.jpg
 ---

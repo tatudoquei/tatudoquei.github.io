@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-25 22:00:00
 pub_date: 2020-04-25 22:00:00
 time_added: 2020-04-29 19:02:46
-category: 
+categories: []
 tags: []
 image: https://www.atribuna.com.br/image/contentid/policy:1.98567:1587898928/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56
 ---

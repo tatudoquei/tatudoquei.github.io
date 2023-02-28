@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-29 04:58:36
 pub_date: 2020-09-29 04:58:36
 time_added: 2020-09-29 06:58:36
-category: 
+categories: []
 tags: []
 image: https://www.ovale.com.br/_midias/jpg/2020/09/02/inpe_868x600-1165633.jpg
 ---

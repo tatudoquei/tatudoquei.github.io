@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-13 20:39:45
 pub_date: 2020-05-13 20:39:45
 time_added: 2020-05-13 21:09:27
-category: 
+categories: []
 tags: []
 image: https://cdn.revistaforum.com.br/wp-content/uploads/2020/03/sergio-carmago-visita-bolsonaro-amigos-868x644-1.jpeg
 ---

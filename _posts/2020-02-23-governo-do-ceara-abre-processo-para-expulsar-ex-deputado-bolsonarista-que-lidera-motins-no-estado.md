@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-23 16:47:40
 pub_date: 2020-02-23 16:47:40
 time_added: 2020-02-25 01:21:14
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2020/02/cabosabino.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-22 18:09:01
 pub_date: 2020-02-22 18:09:01
 time_added: 2020-02-22 19:09:01
-category: 
+categories: []
 tags: []
 image: http://s3.amazonaws.com/jusbrasil-uploads/profiles/48/images/1375300221_standard.jpg
 ---

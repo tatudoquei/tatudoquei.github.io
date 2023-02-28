@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-05 02:00:00
 pub_date: 2020-07-05 02:00:00
 time_added: 2020-07-06 11:51:01
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/27/2020/07/03/bares-do-leblon-1593788486066_v2_615x300.jpg
 ---

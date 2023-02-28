@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-31 06:00:00
 pub_date: 2019-03-31 06:00:00
 time_added: 2019-04-01 19:21:21
-category: 
+categories: []
 tags: []
 image: https://aventurasnahistoria.uol.com.br/media/_versions/milicos_em_brasilia_widelg.png
 ---

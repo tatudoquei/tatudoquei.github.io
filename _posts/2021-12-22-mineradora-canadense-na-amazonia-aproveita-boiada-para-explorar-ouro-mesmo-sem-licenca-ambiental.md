@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-22 04:14:00
 pub_date: 2021-12-22 04:14:00
 time_added: 2021-12-25 10:25:32
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2021/12/BOIADA-INTERCEPT-R.jpg
 ---

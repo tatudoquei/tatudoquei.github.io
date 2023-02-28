@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-27 17:48:50
 pub_date: 2021-04-27 17:48:50
 time_added: 2021-04-27 19:48:50
-category: 
+categories: []
 tags: []
 image: https://www.revistaquestaodeciencia.com.br/sites/default/files/styles/facebook/public/2021-04/GLASSWERE_SQUARE_OK.jpg?itok=r0XxJbQl
 ---

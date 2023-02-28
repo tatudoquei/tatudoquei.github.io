@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-15 17:20:00
 pub_date: 2021-03-15 17:20:00
 time_added: 2021-03-21 09:22:57
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24924842-96c-685/FT1086A/92016992_RI-Rio-de-Janeiro-RJ-14-03-2021Movimento-nas-praias-da-Zona-Sul-do-Riona-tarde-de-domi.jpg
 ---

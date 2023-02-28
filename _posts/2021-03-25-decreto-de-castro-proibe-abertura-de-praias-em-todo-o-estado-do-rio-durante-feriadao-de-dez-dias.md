@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-25 00:12:00
 pub_date: 2021-03-25 00:12:00
 time_added: 2021-03-27 19:04:15
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24936826-32f-8d4/FT1086A/governador-claudio-castro.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-24 19:18:17
 pub_date: 2021-05-24 19:18:17
 time_added: 2021-05-24 21:18:17
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2021/05/176_questoesrepublicanas_redes.jpg
 ---

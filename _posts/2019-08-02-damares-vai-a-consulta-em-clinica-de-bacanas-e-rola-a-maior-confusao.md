@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-02 09:02:29
 pub_date: 2019-08-02 09:02:29
 time_added: 2019-08-05 22:31:18
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/05/brasil-damares-alves-20190508-006-copy.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

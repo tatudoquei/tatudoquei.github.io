@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-28 17:06:33
 pub_date: 2022-10-28 17:06:33
 time_added: 2022-10-29 07:28:59
-category: 
+categories: []
 tags: []
 image: https://cdn.oantagonista.com/uploads/2022/03/Untitled-1-1024x576.jpg
 ---

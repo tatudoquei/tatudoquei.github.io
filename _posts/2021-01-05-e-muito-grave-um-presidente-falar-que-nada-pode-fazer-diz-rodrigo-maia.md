@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-05 21:29:00
 pub_date: 2021-01-05 21:29:00
 time_added: 2021-01-06 15:06:35
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/f7/2020/12/29/rodrigo-maia-presta-solidariedade-a-dilma-rousseff-apos-fala-de-bolsonaro-tortura-e-debochar-da-dor-do-outro-1609267415639_v2_615x300.png
 ---

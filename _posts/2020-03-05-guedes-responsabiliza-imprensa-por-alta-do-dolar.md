@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-05 19:42:25
 pub_date: 2020-03-05 19:42:25
 time_added: 2020-03-05 22:45:20
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/LzZhVQFbcygWVUnqZRtjpmQeKpI=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2019/x/u/jWBYwBRXqcMZUxp8WCJg/07bra-100-apertos-a6-img01.jpg
 ---

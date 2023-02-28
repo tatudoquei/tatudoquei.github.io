@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-05 09:44:00
 pub_date: 2020-06-05 09:44:00
 time_added: 2020-06-06 22:33:44
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/7b/2020/03/30/miguel-nicolelis-1585606590246_v2_615x300.jpg
 ---

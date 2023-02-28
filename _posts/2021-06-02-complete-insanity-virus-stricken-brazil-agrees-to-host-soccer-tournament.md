@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-02 16:53:25
 pub_date: 2021-06-02 16:53:25
 time_added: 2021-06-05 15:06:33
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2021/06/02/business/02brazil-soccer-01/02brazil-soccer-01-facebookJumbo.jpg
 ---

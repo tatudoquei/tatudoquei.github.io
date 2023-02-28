@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-05 12:47:00
 pub_date: 2020-06-05 12:47:00
 time_added: 2020-06-06 22:33:53
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/8e/2020/06/05/presidente-dos-eua-donald-trump-na-casa-branca-1591367745005_v2_615x300.jpg
 ---

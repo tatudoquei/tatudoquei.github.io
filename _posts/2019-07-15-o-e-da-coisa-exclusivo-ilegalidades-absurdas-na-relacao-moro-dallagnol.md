@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-15 18:46:00
 pub_date: 2019-07-15 18:46:00
 time_added: 2019-07-16 06:14:34
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2019/07/oedacoisaquinjulho-615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-20 17:35:49
 pub_date: 2020-05-20 17:35:49
 time_added: 2020-05-20 20:41:22
-category: 
+categories: []
 tags: []
 image: https://www.hrw.org/sites/default/files/styles/open_graph/public/multimedia_images_2020/051920amer_brazil_amazonfines.jpg?itok=mVP2airx
 ---

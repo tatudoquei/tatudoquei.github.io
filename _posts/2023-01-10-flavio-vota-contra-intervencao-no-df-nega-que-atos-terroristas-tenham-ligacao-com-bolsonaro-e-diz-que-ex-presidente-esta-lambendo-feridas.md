@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-10 16:55:37
 pub_date: 2023-01-10 16:55:37
 time_added: 2023-01-14 14:26:52
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/WcFFJv7b_Ig586ybYeRCt8uOlYk=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/2/C/V5OnDAQ8qWOgP48LHibA/flaviobolsonaro.jpg
 ---

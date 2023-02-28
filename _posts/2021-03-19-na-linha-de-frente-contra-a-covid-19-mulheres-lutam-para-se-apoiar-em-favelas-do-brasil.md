@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-19 16:37:42
 pub_date: 2021-03-19 16:37:42
 time_added: 2021-03-27 08:58:21
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/03/na-linha-de-frente-contra-a-covid-19-mulheres-lutam-para-se-apoiar-em-favelas-do-brasil.jpg
 ---

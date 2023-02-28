@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-10 07:05:23
 pub_date: 2019-03-10 07:05:23
 time_added: 2019-03-11 18:44:13
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://politica.estadao.com.br/blogs/estadao-verifica/wp-content/uploads/sites/690/2019/03/jair.jpg
 ---

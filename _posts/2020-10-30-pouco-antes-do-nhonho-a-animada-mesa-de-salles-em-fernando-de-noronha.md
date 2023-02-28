@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-30 13:48:49
 pub_date: 2020-10-30 13:48:49
 time_added: 2021-07-25 16:48:01
-category: 
+categories: []
 tags: []
 image: https://cdn.crusoe.com.br/uploads/2020/10/AD16D7E1-A940-40A2-A6BD-407C180ACBE5.jpeg
 ---

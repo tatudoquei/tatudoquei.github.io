@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-15 16:21:56
 pub_date: 2019-09-15 16:21:56
 time_added: 2019-09-24 19:12:45
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2016/09/size_960_16_9_cacique-raoni.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

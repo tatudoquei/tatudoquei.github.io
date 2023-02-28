@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-15 07:54:00
 pub_date: 2019-04-15 07:54:00
 time_added: 2019-04-18 21:22:56
-category: refletimos
+categories: [refletimos]
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/04/desigualdades_redes.jpg
 ---

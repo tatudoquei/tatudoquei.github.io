@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-30 17:03:20
 pub_date: 2022-10-30 17:03:20
 time_added: 2022-10-31 00:25:38
-category: 
+categories: []
 tags: []
 image: https://images.jota.info/wp-content/uploads/2022/10/alexandre-de-moraes.jpg
 ---

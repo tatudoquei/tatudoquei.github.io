@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-28 04:34:23
 pub_date: 2019-09-28 04:34:23
 time_added: 2019-09-28 06:34:23
-category: 
+categories: []
 tags: []
 image: https://media.gazetadopovo.com.br/2019/09/23222302/arminio-fraga-jose-cruz-agencia-brasil-660x372.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-28 18:31:25
 pub_date: 2018-12-28 18:31:25
 time_added: 2018-12-28 22:45:58
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://abrilveja.files.wordpress.com/2018/03/mundo-mike-pompeo.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

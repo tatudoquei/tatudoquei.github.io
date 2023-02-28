@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-30 10:30:12
 pub_date: 2022-09-30 10:30:12
 time_added: 2022-10-03 00:39:47
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/timeline-eleicoes-2022/wp-content/uploads/sites/728/2022/09/52388840774-decef85603-k_300920222659.jpg
 ---

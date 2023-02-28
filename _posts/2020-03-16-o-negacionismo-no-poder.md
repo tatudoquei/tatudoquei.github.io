@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-16 14:47:27
 pub_date: 2020-03-16 14:47:27
 time_added: 2020-03-16 15:47:27
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2020/02/161_questoesdaposverdade_redes.jpg
 ---

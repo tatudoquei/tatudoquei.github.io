@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-04 13:07:10
 pub_date: 2019-05-04 13:07:10
 time_added: 2021-07-25 16:46:04
-category: 
+categories: []
 tags: []
 image: https://www.sintect-sp.org.br/wp-content/uploads/2019/05/destaque_sintect_sp_porque_o_brasil_precisa_2_dos_correios.jpg
 ---

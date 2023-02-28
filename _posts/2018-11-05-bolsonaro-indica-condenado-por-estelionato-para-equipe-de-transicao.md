@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-11-05 20:31:50
 pub_date: 2018-11-05 20:31:50
 time_added: 2019-12-23 21:19:30
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://abrilveja.files.wordpress.com/2018/10/brasil-eleicoes-bolsonaro-20181028-009.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-17 07:23:00
 pub_date: 2019-04-17 07:23:00
 time_added: 2019-04-19 07:40:59
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/17/2018/03/28/esplanada-dos-ministerios-meio-ambiente-na-mira-da-bancada-ruralista-1522267591112_v2_750x421.jpg
 ---

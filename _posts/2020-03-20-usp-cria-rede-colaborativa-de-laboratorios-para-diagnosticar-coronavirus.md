@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-20 19:58:53
 pub_date: 2020-03-20 19:58:53
 time_added: 2020-03-22 11:30:11
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/11/20191128_Laboratorio_Urologia.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-29 11:06:02
 pub_date: 2019-08-29 11:06:02
 time_added: 2019-09-02 22:00:34
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/08/suicidio_redes_27082019.jpg
 ---

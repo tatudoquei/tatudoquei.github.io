@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-03 09:30:11
 pub_date: 2020-07-03 09:30:11
 time_added: 2020-07-03 11:30:11
-category: 
+categories: []
 tags: []
 image: https://cdn.crusoe.com.br/uploads/2020/04/WhatsApp-Image-2020-04-03-at-10.23.28.jpeg
 ---

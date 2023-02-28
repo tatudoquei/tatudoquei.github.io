@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-16 00:31:28
 pub_date: 2019-04-16 00:31:28
 time_added: 2019-04-18 20:49:13
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2018/12/Raquel.jpg
 ---

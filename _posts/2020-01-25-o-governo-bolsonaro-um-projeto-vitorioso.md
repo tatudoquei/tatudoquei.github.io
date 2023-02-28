@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-25 09:59:28
 pub_date: 2020-01-25 09:59:28
 time_added: 2020-01-25 10:59:28
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Teaser-Ensaio-6-Parceria-ABCP/alternates/LANDSCAPE_768/Teaser%20-%20Ensaio%206%20-%20Parceria%20ABCP
 ---

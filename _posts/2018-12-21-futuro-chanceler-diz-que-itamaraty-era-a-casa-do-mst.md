@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-21 08:52:45
 pub_date: 2018-12-21 08:52:45
 time_added: 2019-12-23 21:19:31
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2018/12/Ernesto-1200x630.jpg
 ---

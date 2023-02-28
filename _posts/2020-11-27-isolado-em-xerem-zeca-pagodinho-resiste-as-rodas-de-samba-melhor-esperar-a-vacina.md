@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-27 07:36:00
 pub_date: 2020-11-27 07:36:00
 time_added: 2020-11-29 20:08:09
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/cultura/24768542-59c-d93/FT1086A/652/zecapagodinho.jpg
 ---

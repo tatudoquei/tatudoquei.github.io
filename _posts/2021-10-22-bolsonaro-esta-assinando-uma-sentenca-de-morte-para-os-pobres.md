@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-22 20:57:34
 pub_date: 2021-10-22 20:57:34
 time_added: 2021-10-23 07:59:55
-category: 
+categories: []
 tags: []
 image: https://nadanovonofrontcom.files.wordpress.com/2021/10/image-edited-1.png
 ---

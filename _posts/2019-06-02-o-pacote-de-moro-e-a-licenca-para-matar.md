@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-02 03:00:00
 pub_date: 2019-06-02 03:00:00
 time_added: 2019-12-23 21:37:45
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://s2.glbimg.com/JLXypGNSFGx3-xu8UCT1suJ-xoE=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2018/12/07/80159716_sergio_moro_incoming_justice_minister_arrives_for_a_meeting_with_brazil27s_president-ele.jpg
 ---

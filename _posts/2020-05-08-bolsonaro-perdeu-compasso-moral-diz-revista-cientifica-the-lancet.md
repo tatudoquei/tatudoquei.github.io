@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-08 05:24:00
 pub_date: 2020-05-08 05:24:00
 time_added: 2020-05-09 13:43:37
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/23/2020/05/07/7mai2020---presidente-jair-bolsonaro-caminha-ao-lado-de-braga-netto-e-paulo-guedes-ate-o-stf-para-reuniao-com-dias-toffoli-1588901978873_v2_615x300.jpg
 ---

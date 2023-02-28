@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-26 19:43:00
 pub_date: 2019-11-26 19:43:00
 time_added: 2019-11-30 09:08:58
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24102881-de9-f23/FT1086A/652/75043294_Rio-20-02-2018-Garantia-da-Lei-e-da-OrdemExercitoOperacao-para-garantia-da-lei-e.jpg
 ---

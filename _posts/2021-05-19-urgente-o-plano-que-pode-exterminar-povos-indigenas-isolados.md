@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-19 19:22:56
 pub_date: 2021-05-19 19:22:56
 time_added: 2021-05-19 21:22:56
-category: 
+categories: []
 tags: []
 image: https://assets.survivalinternational.org/pictures/15224/screenshot-2021-04-30-at-15-04-40_460_landscape.png
 ---

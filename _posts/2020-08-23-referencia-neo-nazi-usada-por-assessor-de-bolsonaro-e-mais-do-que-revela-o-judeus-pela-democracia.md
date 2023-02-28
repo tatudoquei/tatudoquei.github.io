@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-23 03:27:19
 pub_date: 2020-08-23 03:27:19
 time_added: 2020-08-31 17:51:52
-category: 
+categories: []
 tags: []
 image: https://urbsmagna.com/wp-content/uploads/2020/08/FRASE-LATIM-compressed.jpg
 ---

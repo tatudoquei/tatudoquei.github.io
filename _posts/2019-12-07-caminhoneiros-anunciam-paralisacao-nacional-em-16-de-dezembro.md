@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-07 00:39:21
 pub_date: 2019-12-07 00:39:21
 time_added: 2019-12-08 01:30:26
-category: 
+categories: []
 tags: []
 image: http://blogs.correiobraziliense.com.br/servidor/wp-content/uploads/sites/10/2019/12/caminhneiros.jpg
 ---

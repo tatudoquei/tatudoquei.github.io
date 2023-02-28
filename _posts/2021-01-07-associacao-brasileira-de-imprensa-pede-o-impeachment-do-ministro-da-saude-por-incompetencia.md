@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-07 01:53:56
 pub_date: 2021-01-07 01:53:56
 time_added: 2021-01-06 22:53:56
-category: 
+categories: []
 tags: []
 image: https://cultura.uol.com.br/upload/tvcultura/noticias/happens_big/20201209143009_pazuello-eduardo.jpg
 ---

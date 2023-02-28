@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-03 22:00:00
 pub_date: 2021-05-03 22:00:00
 time_added: 2021-05-24 08:00:35
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/social_CPI-da-Covid-o-depoimento-de-Mandetta-e-a-aus%C3%AAncia-de-Pazuello/alternates/LANDSCAPE_768/social_CPI%20da%20Covid%3A%20o%20depoimento%20de%20Mandetta%20e%20a%20aus%C3%AAncia%20de%20Pazuello%20
 ---

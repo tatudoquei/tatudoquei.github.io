@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-20 22:00:00
 pub_date: 2020-04-20 22:00:00
 time_added: 2020-04-22 12:34:07
-category: 
+categories: []
 tags: []
 image: https://media.npr.org/assets/img/2020/04/21/gettyimages-1207507939_wide-1b3e7b4656158a9f3647ddfedd5d754915ff1021.jpg?s=1400
 ---

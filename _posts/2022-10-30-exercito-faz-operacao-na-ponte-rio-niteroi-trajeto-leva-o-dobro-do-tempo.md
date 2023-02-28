@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-30 13:39:00
 pub_date: 2022-10-30 13:39:00
 time_added: 2022-10-31 00:25:29
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/78/2022/10/30/imagens-publicadas-nas-redes-sociais-mostram-blitz-na-ponte-rio-niteroi-no-dia-da-votacao-do-segundo-turno-1667151476110_v2_615x300.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-07 00:36:13
 pub_date: 2019-05-07 00:36:13
 time_added: 2019-05-09 22:44:55
-category: refletimos
+categories: [refletimos]
 tags: [ciência]
 ---
 

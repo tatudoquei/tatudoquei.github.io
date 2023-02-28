@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-22 19:20:29
 pub_date: 2019-08-22 19:20:29
 time_added: 2019-08-26 06:25:32
-category: 
+categories: []
 tags: []
 image: https://cdn.cnn.com/cnnnext/dam/assets/190822091930-02-brazil-fire-0820-super-tease.jpg
 ---

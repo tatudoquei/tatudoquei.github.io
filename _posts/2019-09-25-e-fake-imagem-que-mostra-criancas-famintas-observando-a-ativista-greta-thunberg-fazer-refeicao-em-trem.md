@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-25 15:15:00
 pub_date: 2019-09-25 15:15:00
 time_added: 2019-09-27 21:47:10
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23973888-23a-115/FT1086A/652/materia-greta-fake.jpg
 ---

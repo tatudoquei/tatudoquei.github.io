@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-25 22:22:03
 pub_date: 2021-03-25 22:22:03
 time_added: 2021-05-16 17:33:50
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/03/Pesquisa-IBGE-Agencia-Brasil-1.jpeg
 ---

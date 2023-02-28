@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-08 16:00:30
 pub_date: 2021-10-08 16:00:30
 time_added: 2021-10-24 14:51:34
-category: 
+categories: []
 tags: []
 image: https://diplomatique.org.br/wp-content/uploads/2021/10/pandemia_aldeia.2.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-16 15:49:48
 pub_date: 2021-05-16 15:49:48
 time_added: 2021-05-16 17:49:48
-category: 
+categories: []
 tags: []
 image: https://mediastorage.cnnbrasil.com.br/IMAGES/00/00/02/24560_C3AEC30EB7FF71C7.jpg
 ---

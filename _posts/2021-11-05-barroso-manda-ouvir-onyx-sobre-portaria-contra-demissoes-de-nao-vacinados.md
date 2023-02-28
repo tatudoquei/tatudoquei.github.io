@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-05 01:49:00
 pub_date: 2021-11-05 01:49:00
 time_added: 2021-11-05 22:30:30
-category: 
+categories: []
 tags: []
 image: https://blogs.correiobraziliense.com.br/vicente/wp-content/uploads/sites/16/2019/06/Onyx-Lorenzoni-Ed-Alves-CB-D.A-Press.jpg
 ---

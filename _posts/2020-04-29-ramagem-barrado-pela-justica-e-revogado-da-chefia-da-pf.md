@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-29 17:59:22
 pub_date: 2020-04-29 17:59:22
 time_added: 2020-04-29 19:59:22
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/alexandre/alternates/LANDSCAPE_768/alexandre
 ---

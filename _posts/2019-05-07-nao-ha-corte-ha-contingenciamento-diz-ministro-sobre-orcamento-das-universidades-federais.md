@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-07 15:56:18
 pub_date: 2019-05-07 15:56:18
 time_added: 2019-05-08 16:28:02
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/adai4CMyzs5U4fTkdiLl9s1unms=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/d/k/wCzM29R0CC7MfYivOxJg/weintraub4cesenado07052019.jpg
 ---

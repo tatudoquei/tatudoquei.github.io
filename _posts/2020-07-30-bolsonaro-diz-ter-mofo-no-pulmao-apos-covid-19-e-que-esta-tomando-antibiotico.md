@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-30 18:25:00
 pub_date: 2020-07-30 18:25:00
 time_added: 2020-07-31 06:11:21
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/07/2020/07/23/presidente-jair-bolsonaro-gesticula-para-apoiadores-no-palacio-da-alvorada-em-brasilia-1595516471775_v2_615x300.jpg
 ---

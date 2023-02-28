@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-01 15:48:00
 pub_date: 2021-06-01 15:48:00
 time_added: 2021-06-01 21:21:27
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/20/2021/06/01/01jun2021---medica-nise-yamaguchi-durante-depoimento-na-cpi-da-covid-no-senado-federal-em-brasilia-df-1622562455117_v2_615x300.jpg
 ---

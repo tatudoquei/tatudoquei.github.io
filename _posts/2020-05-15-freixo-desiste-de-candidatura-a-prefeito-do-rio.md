@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-15 12:48:00
 pub_date: 2020-05-15 12:48:00
 time_added: 2020-05-16 22:35:16
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24142317-a6a-49f/FT1086A/652/freixo.jpg
 ---

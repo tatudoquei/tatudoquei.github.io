@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-08 22:03:53
 pub_date: 2019-05-08 22:03:53
 time_added: 2019-05-09 22:42:37
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/05/20190508_ex-ministros1.jpg
 ---

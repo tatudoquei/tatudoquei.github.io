@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-31 07:27:00
 pub_date: 2022-10-31 07:27:00
 time_added: 2022-10-31 13:23:15
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/38/2022/10/31/apoiadores-de-jair-bolsonaro-em-frente-ao-condominio-vivendas-da-barra-1667217326566_v2_615x300.jpg
 ---

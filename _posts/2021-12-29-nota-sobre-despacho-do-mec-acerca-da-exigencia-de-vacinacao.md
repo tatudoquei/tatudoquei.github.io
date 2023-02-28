@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-29 23:00:00
 pub_date: 2021-12-29 23:00:00
 time_added: 2022-01-08 12:22:33
-category: 
+categories: []
 tags: []
 image: https://ufrj.br/wp-content/uploads/2021/12/Vacinacao-210121_MoisesPimentel_62-2-1200x800.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-30 22:39:01
 pub_date: 2020-04-30 22:39:01
 time_added: 2020-05-01 04:51:04
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2020/04/cm_4941-copiar.jpg.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

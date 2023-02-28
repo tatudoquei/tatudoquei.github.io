@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-27 20:59:00
 pub_date: 2021-05-27 20:59:00
 time_added: 2021-06-19 06:04:40
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2021/05/redes-romulo-vacina.jpg
 ---

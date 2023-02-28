@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-18 10:49:00
 pub_date: 2021-03-18 10:49:00
 time_added: 2021-03-21 09:27:51
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/splash/fa/2020/12/16/felipe-neto-1608125263531_v2_615x300.jpg
 ---

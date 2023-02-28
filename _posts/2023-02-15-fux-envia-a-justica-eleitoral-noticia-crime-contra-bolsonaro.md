@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-15 15:43:25
 pub_date: 2023-02-15 15:43:25
 time_added: 2023-02-17 07:11:43
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Ministro_Luiz_Fux_stf.jpg/alternates/LANDSCAPE_768/Ministro_Luiz_Fux_stf.jpg
 ---

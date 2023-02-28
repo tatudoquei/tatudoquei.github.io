@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-30 00:15:05
 pub_date: 2021-07-30 00:15:05
 time_added: 2021-08-20 20:58:37
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2021/07/hitler.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

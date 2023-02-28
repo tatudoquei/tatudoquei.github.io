@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-26 16:29:00
 pub_date: 2022-10-26 16:29:00
 time_added: 2022-10-28 21:02:22
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e6/2022/10/24/fabio-wajngarten-e-fabio-faria-em-declaracao-no-palacio-da-alvorada-1666662446342_v2_615x300.jpg
 ---

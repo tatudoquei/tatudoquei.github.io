@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-24 02:00:00
 pub_date: 2020-05-24 02:00:00
 time_added: 2020-05-24 17:54:13
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/7d/2020/05/19/sem-conseguir-operar-no-sus-precisou-pagar-por-um-tratamento-hormonal-1589915522235_v2_750x421.jpg
 ---

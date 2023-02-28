@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-25 16:11:00
 pub_date: 2019-12-25 16:11:00
 time_added: 2019-12-27 00:04:11
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24158434-3a5-fd7/FT1086A/652/porchat-vale.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-08 11:44:00
 pub_date: 2020-04-08 11:44:00
 time_added: 2020-04-08 20:02:50
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ae/2020/04/08/postagem-de-jair-bolsonaro-em-suas-redes-sociais-comemorando-retorno-de-brasileiros-1586363951957_v2_615x300.jpg
 ---

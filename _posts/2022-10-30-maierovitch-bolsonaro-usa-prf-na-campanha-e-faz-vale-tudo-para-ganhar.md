@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-30 15:13:00
 pub_date: 2022-10-30 15:13:00
 time_added: 2022-10-30 20:00:08
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f2/2022/10/28/prf-bolsonaro-1666981724398_v2_615x300.jpg
 ---

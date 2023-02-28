@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-04 10:16:15
 pub_date: 2021-07-04 10:16:15
 time_added: 2021-07-04 12:16:15
-category: 
+categories: []
 tags: []
 image: https://amazoniareal.com.br/wp-content/uploads/2021/06/Ouro-do-Sangue-Yanomami-Foto-principal-Bruno-Kelly-Amazonia-Real.jpg
 ---

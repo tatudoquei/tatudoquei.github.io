@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-02 22:04:05
 pub_date: 2023-01-02 22:04:05
 time_added: 2023-01-06 23:28:46
-category: 
+categories: []
 tags: []
 image: https://oeco.org.br/wp-content/uploads/2023/01/000_32K28CC-1.jpg
 ---

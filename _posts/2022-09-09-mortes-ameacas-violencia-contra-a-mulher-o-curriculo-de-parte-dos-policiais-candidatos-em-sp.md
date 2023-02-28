@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-09 17:34:52
 pub_date: 2022-09-09 17:34:52
 time_added: 2022-10-03 00:48:06
-category: 
+categories: []
 tags: []
 image: https://ponte.org/wp-content/uploads/2022/09/policiais-candidatos-2022-reproducoes-redes-sociais.jpg
 ---

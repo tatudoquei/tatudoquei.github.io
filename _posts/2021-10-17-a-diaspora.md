@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-17 17:59:47
 pub_date: 2021-10-17 17:59:47
 time_added: 2021-10-17 14:59:47
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2021/10/181_arquivoscientificos_redes.jpg
 ---

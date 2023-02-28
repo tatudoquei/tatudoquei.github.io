@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-09 16:01:26
 pub_date: 2020-04-09 16:01:26
 time_added: 2020-04-09 18:01:26
-category: 
+categories: []
 tags: []
 image: https://extra.globo.com/incoming/24360286-162-fe7/w976h550-PROP/fiocruz.jpg
 ---

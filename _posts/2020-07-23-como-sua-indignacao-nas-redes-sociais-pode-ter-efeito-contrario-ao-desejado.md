@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-23 18:09:00
 pub_date: 2020-07-23 18:09:00
 time_added: 2020-07-25 07:49:06
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/5a/2020/07/24/protesto-contra-youtuber-felipe-neto-ficou-entre-os-assuntos-mais-comentados-mas-muitas-mensagens-o-defendiam-1595597923534_v2_615x300.jpg
 ---

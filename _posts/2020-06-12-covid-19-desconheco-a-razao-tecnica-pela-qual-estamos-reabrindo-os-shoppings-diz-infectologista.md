@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-12 02:30:00
 pub_date: 2020-06-12 02:30:00
 time_added: 2020-06-12 19:16:44
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24475425-1aa-959/FT1086A/652/88443115_RIRio-de-Janeiro-RJ-11-06-2020O-prefeito-Marcelo-Crivella-determinou-a-abertura-grad.jpg
 ---

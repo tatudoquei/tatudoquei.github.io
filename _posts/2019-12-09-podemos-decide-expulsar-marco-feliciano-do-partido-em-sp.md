@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-09 19:42:00
 pub_date: 2019-12-09 19:42:00
 time_added: 2019-12-15 00:28:40
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a9/2019/04/24/24abr2019---o-deputado-federal-marco-feliciano-pode-sp-em-audiencia-publica-para-discutir-sobre-o-andamento-do-programa-minha-casa-minha-vida-1556146608669_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-11 14:50:00
 pub_date: 2021-03-11 14:50:00
 time_added: 2021-03-21 09:17:17
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24920108-389-6ed/FT1086A/geraldo-magela.jpg
 ---

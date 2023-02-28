@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-08 12:37:00
 pub_date: 2020-01-08 12:37:00
 time_added: 2020-01-09 08:06:24
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/0f/2020/01/01/eduardo-falzi-1577911216646_v2_615x300.jpg
 ---

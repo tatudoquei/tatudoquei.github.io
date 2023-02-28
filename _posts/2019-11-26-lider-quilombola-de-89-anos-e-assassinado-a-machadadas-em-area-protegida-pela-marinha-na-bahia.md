@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-26 12:17:04
 pub_date: 2019-11-26 12:17:04
 time_added: 2019-11-28 22:12:40
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2019/11/quilombro.jpg
 ---

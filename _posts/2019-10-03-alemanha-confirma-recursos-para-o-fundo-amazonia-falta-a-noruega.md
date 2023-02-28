@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-03 12:52:00
 pub_date: 2019-10-03 12:52:00
 time_added: 2019-10-06 08:20:33
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/285/files/2019/09/Screen-Shot-2019-09-13-at-8.29.53-PM-615x300.png
 ---

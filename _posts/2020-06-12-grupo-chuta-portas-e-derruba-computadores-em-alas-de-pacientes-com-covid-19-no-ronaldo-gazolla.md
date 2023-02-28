@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-12 15:13:00
 pub_date: 2020-06-12 15:13:00
 time_added: 2020-06-12 22:48:10
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24477085-da0-65d/FT1086A/652/ronaldogazolla.jpg
 ---

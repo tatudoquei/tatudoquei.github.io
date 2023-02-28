@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-08 02:13:53
 pub_date: 2022-11-08 02:13:53
 time_added: 2022-11-12 14:04:26
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2022/05/paraiba-ja.png?w=680&h=453&crop=1
 ---

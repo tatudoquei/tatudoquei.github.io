@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-24 00:08:08
 pub_date: 2020-03-24 00:08:08
 time_added: 2020-03-24 18:48:02
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2020/03/junior-durski-1024x683-1-e1583426478165.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-13 15:04:41
 pub_date: 2019-06-13 15:04:41
 time_added: 2019-06-15 08:53:49
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2018/11/20181121_00_exame_sangue_malaria.jpg
 ---

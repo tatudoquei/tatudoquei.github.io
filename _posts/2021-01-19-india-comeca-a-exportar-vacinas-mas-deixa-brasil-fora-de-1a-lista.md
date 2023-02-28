@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-19 16:18:34
 pub_date: 2021-01-19 16:18:34
 time_added: 2021-01-20 15:53:59
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/04/Narendra-Modi-india-primeiro-ministro-1200x630.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-04 19:32:22
 pub_date: 2021-10-04 19:32:22
 time_added: 2021-10-17 14:27:27
-category: 
+categories: []
 tags: []
 image: https://almapreta.com/images/2021/10/advogados_negros_criticam_a_OAB-SP.jpg
 ---

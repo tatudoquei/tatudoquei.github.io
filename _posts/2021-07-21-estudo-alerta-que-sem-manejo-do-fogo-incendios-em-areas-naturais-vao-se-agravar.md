@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-21 19:32:23
 pub_date: 2021-07-21 19:32:23
 time_added: 2021-07-22 22:13:39
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/07/Oeco2_MIF-IMG_VaniaPivello1.jpg
 ---

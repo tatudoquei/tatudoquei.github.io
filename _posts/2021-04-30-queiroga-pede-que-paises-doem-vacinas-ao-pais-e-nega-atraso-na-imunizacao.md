@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-30 14:00:00
 pub_date: 2021-04-30 14:00:00
 time_added: 2021-04-30 15:48:16
-category: 
+categories: []
 tags: []
 image: https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2021/04/dinheiro-facebook.png
 ---

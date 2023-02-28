@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-25 07:29:46
 pub_date: 2020-04-25 07:29:46
 time_added: 2020-04-25 09:29:46
-category: avisamos
+categories: [avisamos]
 tags: [meio ambiente]
 image: https://www.socioambiental.org/sites/blog.socioambiental.org/files/styles/twitter-card/public/blogs/foto_22.jpg?itok=_RsCjeX6
 ---

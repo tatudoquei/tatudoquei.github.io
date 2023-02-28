@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-22 20:28:00
 pub_date: 2021-03-22 20:28:00
 time_added: 2021-03-27 18:50:51
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24936589-cce-07a/FT1086A/medidas-prefeitos.jpeg.jpg
 ---

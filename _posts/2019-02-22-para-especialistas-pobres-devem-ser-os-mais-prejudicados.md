@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-22 08:00:01
 pub_date: 2019-02-22 08:00:01
 time_added: 2019-03-31 11:56:56
-category: 
+categories: []
 tags: []
 image: https://www.valor.com.br/sites/all/themes/basic/images/facebook/valor-big.jpg
 ---

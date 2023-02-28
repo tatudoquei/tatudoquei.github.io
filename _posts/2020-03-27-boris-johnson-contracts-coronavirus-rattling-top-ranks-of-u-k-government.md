@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-27 11:41:32
 pub_date: 2020-03-27 11:41:32
 time_added: 2020-03-28 07:54:18
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/03/27/world/27virus-britain1/merlin_170786514_64ffdf50-8087-4379-acab-bfdb17c744c1-facebookJumbo.jpg
 ---

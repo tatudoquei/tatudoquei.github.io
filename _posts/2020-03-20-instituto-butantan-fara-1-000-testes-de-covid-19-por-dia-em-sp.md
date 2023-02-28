@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-20 16:08:00
 pub_date: 2020-03-20 16:08:00
 time_added: 2020-03-22 17:50:00
-category: 
+categories: []
 tags: []
 image: https://img.r7.com/images/teste-coronavirus-14032020125726967?dimensions=600x315&crop_position=c
 ---

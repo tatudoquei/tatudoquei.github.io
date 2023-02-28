@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-07 03:00:00
 pub_date: 2021-11-07 03:00:00
 time_added: 2021-11-07 06:37:13
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/bolsonaro-entre-eleitoresJPG/alternates/LANDSCAPE_768/bolsonaro%20entre%20eleitoresJPG
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-21 17:27:00
 pub_date: 2020-05-21 17:27:00
 time_added: 2020-05-22 18:54:12
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24436986-2dd-a82/FT1086A/652/88196958_SO-Sao-PauloSP20-05-2020-CORONAVIRUSCOVID-19Movimentacao-da-cidade-durante-o-f.jpg
 ---

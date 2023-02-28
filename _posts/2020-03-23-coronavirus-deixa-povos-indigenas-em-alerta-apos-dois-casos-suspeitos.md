@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-23 19:46:37
 pub_date: 2020-03-23 19:46:37
 time_added: 2020-03-24 22:46:40
-category: 
+categories: []
 tags: []
 image: https://imagens.brasil.elpais.com/resizer/B72fNR1mMnYDBegy85T1iuPLLa4=/1000x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/O5EDKVWKM5H6NIZFUXYYP7GU5E.JPG
 ---

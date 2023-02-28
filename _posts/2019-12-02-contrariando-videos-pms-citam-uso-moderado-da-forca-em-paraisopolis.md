@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-02 11:00:00
 pub_date: 2019-12-02 11:00:00
 time_added: 2019-12-03 07:41:31
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/12/2019/12/01/01dez2019------policial-militar-agride-com-chutes-um-jovem-caido-no-chao-durante-confusao-durante-baile-funk-em-paraisopolis-zona-sul-de-sao-paulo-nove-pessoas-uma-mulher-e-oito-homens-morreram-1575227838063_v2_615x300.jpg
 ---

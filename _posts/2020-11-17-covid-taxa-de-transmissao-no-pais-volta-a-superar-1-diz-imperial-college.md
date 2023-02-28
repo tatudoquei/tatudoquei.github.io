@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-17 14:20:00
 pub_date: 2020-11-17 14:20:00
 time_added: 2020-11-17 21:29:14
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/aa/2020/07/23/22jul2020---movimentacao-das-ruas-de-sao-paulo-durante-a-pandemia-do-novo-coronavirus-1595517578503_v2_615x300.jpg
 ---

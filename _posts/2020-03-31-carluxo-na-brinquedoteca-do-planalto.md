@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-31 16:55:18
 pub_date: 2020-03-31 16:55:18
 time_added: 2020-04-01 12:15:00
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/01/carlos-bolsonaro-rolls-royce-2019-2.jpg.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

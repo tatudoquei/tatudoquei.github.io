@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-12 04:52:37
 pub_date: 2021-04-12 04:52:37
 time_added: 2021-05-16 20:18:42
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2019/12/Deltan-Dallagnol-7.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-07 22:20:04
 pub_date: 2021-01-07 22:20:04
 time_added: 2021-01-09 19:16:34
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/01/vacina-sergio-868x630.jpg
 ---

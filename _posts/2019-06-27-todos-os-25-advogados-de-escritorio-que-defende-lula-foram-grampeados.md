@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-27 06:43:12
 pub_date: 2016-03-17 21:27:00
 time_added: 2019-06-27 06:43:12
-category: 
+categories: []
 tags: []
 image: http://s.conjur.com.br/img/b/sergio-moro23.jpeg
 ---

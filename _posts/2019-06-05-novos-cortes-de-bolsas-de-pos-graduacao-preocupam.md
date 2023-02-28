@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-05 13:44:53
 pub_date: 2019-06-05 13:44:53
 time_added: 2019-06-06 17:24:47
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2018/04/CAPES.jpeg
 ---

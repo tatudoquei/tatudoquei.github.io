@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-02 14:14:22
 pub_date: 2019-05-02 14:14:22
 time_added: 2019-05-03 22:10:41
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2019/05/Brad-senador-americano-586x630.png
 ---

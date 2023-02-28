@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-01 17:17:22
 pub_date: 2021-07-01 17:17:22
 time_added: 2021-07-04 12:47:00
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2021/07/51283345636_256d7480f9_k-1200x630.jpg
 ---

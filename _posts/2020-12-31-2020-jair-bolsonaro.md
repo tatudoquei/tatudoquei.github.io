@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-31 00:46:04
 pub_date: 2020-12-31 00:46:04
 time_added: 2020-12-30 21:46:04
-category: 
+categories: []
 tags: []
 image: https://www.occrp.org/assets/personoftheyear/JairBolsonaro.jpg
 ---

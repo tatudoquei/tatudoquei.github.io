@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-05 03:02:00
 pub_date: 2021-01-05 03:02:00
 time_added: 2021-01-05 13:57:32
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/95/2020/12/14/moradores-da-comunidade-mais-pobre-de-maceio-1607985513942_v2_615x300.jpg
 ---

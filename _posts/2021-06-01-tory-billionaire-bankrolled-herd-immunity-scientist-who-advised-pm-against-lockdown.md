@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-01 17:57:53
 pub_date: 2021-06-01 17:57:53
 time_added: 2021-06-01 19:57:53
-category: 
+categories: []
 tags: []
 image: https://cdn-prod.opendemocracy.net/media/images/2F78NP8.2e16d0ba.fill-1200x630.jpg
 ---

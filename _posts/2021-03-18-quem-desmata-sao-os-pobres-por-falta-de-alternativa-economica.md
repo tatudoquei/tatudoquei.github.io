@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-18 23:40:15
 pub_date: 2021-03-18 23:40:15
 time_added: 2021-03-19 00:40:15
-category: 
+categories: []
 tags: []
 image: https://fakebook.eco.br/wp-content/uploads/2020/06/curua-livre_06_img_4805-1200x800.jpg
 ---

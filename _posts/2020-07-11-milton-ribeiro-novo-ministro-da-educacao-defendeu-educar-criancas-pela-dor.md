@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-11 15:55:44
 pub_date: 2020-07-11 15:55:44
 time_added: 2020-07-12 13:10:35
-category: 
+categories: []
 tags: []
 image: https://www.otempo.com.br/image/contentid/policy:1.2358695:1594493135/Captura%20de%20Tela%202020-07-10%20%C3%A0s%2017.27.52.png?f=3x2&w=620&$p$f$w=32676a3
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-09 17:40:00
 pub_date: 2019-07-09 17:40:00
 time_added: 2019-07-11 18:52:50
-category: 
+categories: []
 tags: []
 image: https://media.gazetadopovo.com.br/2019/07/09193726/portaria-imposto-importacao-jose-serra-660x372.jpg
 ---

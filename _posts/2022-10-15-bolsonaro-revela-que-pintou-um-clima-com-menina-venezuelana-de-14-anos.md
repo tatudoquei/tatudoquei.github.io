@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-15 23:57:03
 pub_date: 2022-10-15 23:57:03
 time_added: 2022-10-16 14:25:20
-category: 
+categories: []
 tags: []
 image: https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2022/10/05/628535131-jairbolsonaro.jpg
 ---

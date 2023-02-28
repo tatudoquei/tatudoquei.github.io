@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-24 19:27:24
 pub_date: 2020-03-24 19:27:24
 time_added: 2020-03-24 20:27:24
-category: 
+categories: []
 tags: []
 image: https://cdn.nybooks.com/wp-content/uploads/2020/03/bolsonaro-covid1.jpg
 ---

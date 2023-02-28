@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-13 03:00:00
 pub_date: 2021-08-13 03:00:00
 time_added: 2021-08-20 21:30:15
-category: 
+categories: []
 tags: []
 image: https://fakebook.eco.br/wp-content/uploads/2020/09/49886259618_b73b89b07b_k-e1599860036499-1200x519.jpg
 ---

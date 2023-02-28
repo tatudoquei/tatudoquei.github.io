@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-01 22:00:00
 pub_date: 2019-06-01 22:00:00
 time_added: 2019-06-04 06:18:34
-category: 
+categories: []
 tags: []
 image: https://1.bp.blogspot.com/-bUd_CFxupPw/XPQ54TXtvWI/AAAAAAAAJoc/zNzTvm7wL5Qs490mrSuJAOy4pbAC67XSwCLcBGAs/w1200-h630-p-k-no-nu/bolso%2Btales%2Bprinc.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-17 17:02:01
 pub_date: 2021-08-17 17:02:01
 time_added: 2021-08-20 21:55:13
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2021/08/17133422/17_08_2021_13_34_05.jpg
 ---

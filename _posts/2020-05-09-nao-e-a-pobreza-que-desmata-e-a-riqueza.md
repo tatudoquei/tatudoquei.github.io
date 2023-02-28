@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-09 11:43:22
 pub_date: 2020-05-09 11:43:22
 time_added: 2020-05-09 13:43:22
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/11/20191119_desmatamento_ibama3.jpg
 ---

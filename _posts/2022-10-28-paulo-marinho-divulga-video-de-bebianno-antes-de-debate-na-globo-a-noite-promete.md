@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-28 09:36:00
 pub_date: 2022-10-28 09:36:00
 time_added: 2022-10-29 07:38:33
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/u/fotografias/m/2022/10/28/f1280x720-90434_222109_5127.png
 ---

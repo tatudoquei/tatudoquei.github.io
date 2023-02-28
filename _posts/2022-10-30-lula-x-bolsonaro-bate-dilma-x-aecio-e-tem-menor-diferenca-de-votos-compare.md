@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-30 19:34:00
 pub_date: 2022-10-30 19:34:00
 time_added: 2022-10-30 23:40:10
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/47/2022/10/30/bolsonaro-x-lula-brasileiros-definem-neste-domingo-3010-quem-sera-o-proximo-presidente-da-republica-1667162429431_v2_615x300.jpg
 ---

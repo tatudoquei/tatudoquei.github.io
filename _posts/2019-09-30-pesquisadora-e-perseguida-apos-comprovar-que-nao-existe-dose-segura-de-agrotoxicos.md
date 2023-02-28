@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-30 20:39:30
 pub_date: 2019-09-30 20:39:30
 time_added: 2020-03-07 18:29:32
-category: 
+categories: []
 tags: []
 image: https://www.sul21.com.br/wp-content/uploads/2019/09/20190930-unnamed.jpg
 ---

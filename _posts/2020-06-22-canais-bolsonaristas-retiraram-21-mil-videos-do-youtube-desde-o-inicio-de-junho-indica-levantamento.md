@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-22 18:00:00
 pub_date: 2020-06-22 18:00:00
 time_added: 2020-06-23 11:38:19
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/yMadoOzWqV_xrc-SH5Q7fa0kXdI=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2020/06/22/85546025_bsb_-_brasilia_-_brasil_-_05-11-2019_-_cpmi_fake_news_no_senado_federal_durante_o_depo.jpg
 ---

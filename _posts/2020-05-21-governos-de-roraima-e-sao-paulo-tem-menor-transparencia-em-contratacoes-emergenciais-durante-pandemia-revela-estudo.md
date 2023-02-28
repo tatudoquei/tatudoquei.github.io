@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-21 07:00:05
 pub_date: 2020-05-21 07:00:05
 time_added: 2020-05-22 18:54:48
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/d2AVPBod9Ut4YDV3eB1PBsULnEA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Z/eqhPbxSLm3u3k1VP2unw/ranking-capitais-e-estados.png
 ---

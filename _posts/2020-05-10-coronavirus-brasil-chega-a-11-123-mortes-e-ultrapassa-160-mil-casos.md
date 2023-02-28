@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-10 16:45:00
 pub_date: 2020-05-10 16:45:00
 time_added: 2020-05-11 09:33:53
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c6/2020/05/10/10052020---movimentacao-no-cemiterio-da-vila-pires-em-santo-andre-sp-na-manha-deste-domingo-10-os-cemiterios-publicos-forma-fechados-para-visitacao-pela-prefeitura-devido-a-pandemia-de-coronavirus-1589135384686_v2_615x300.jpg
 ---

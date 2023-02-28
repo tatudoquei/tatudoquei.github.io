@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-14 00:36:07
 pub_date: 2023-01-14 00:36:07
 time_added: 2023-01-14 09:24:46
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Jose-Medeiros/alternates/LANDSCAPE_768/Jose%20Medeiros
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-01 10:57:00
 pub_date: 2020-10-01 10:57:00
 time_added: 2020-10-02 21:29:00
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b8/2020/10/01/o-presidente-jair-bolsonaro-gerou-aglomeracao-em-aeroporto-de-campina-grande-na-paraiba-1601557658169_v2_615x300.png
 ---

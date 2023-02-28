@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-21 12:09:51
 pub_date: 2019-09-21 12:09:51
 time_added: 2019-09-24 19:09:59
-category: 
+categories: []
 tags: []
 image: http://208.84.247.237/_midias/jpg/2019/09/21/raoni_em_foto_de_marcelo_camargo_agencia_v-473075.jpg
 ---

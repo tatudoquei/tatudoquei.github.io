@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-19 17:57:26
 pub_date: 2021-01-19 17:57:26
 time_added: 2021-01-20 15:53:26
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/01/paciente-transferencia-868x644-2-868x630.jpeg
 ---

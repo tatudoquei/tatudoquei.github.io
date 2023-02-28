@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-25 04:34:15
 pub_date: 2020-07-25 04:34:15
 time_added: 2020-07-25 16:51:02
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/07/26/world/virus-amazon2/virus-amazon2-facebookJumbo.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-11 06:04:01
 pub_date: 2020-08-11 06:04:01
 time_added: 2020-08-12 13:54:37
-category: 
+categories: []
 tags: []
 image: https://brpolitico.com.br/wp-content/uploads/sites/683/2020/08/andre_040820202859.jpg
 ---

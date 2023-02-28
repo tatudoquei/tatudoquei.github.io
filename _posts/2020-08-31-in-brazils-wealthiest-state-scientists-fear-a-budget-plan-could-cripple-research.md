@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-31 18:15:00
 pub_date: 2020-08-31 18:15:00
 time_added: 2020-09-20 14:00:25
-category: 
+categories: []
 tags: []
 image: https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/SaoPaolo_UniversityCuts_1280x720.jpg?itok=wGMGEQeA
 ---

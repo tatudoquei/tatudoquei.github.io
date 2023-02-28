@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-15 14:53:13
 pub_date: 2020-04-15 14:53:13
 time_added: 2020-04-15 22:27:06
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2020/04/design-sem-nome-16.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

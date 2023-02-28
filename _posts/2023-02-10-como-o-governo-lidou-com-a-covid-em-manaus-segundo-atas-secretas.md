@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-10 16:20:50
 pub_date: 2023-02-10 16:20:50
 time_added: 2023-02-11 23:19:51
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Vista-a%C3%A9rea-mostra-o-cemit%C3%A9rio-Parque-Taruma-em-Manaus/alternates/LANDSCAPE_768/Vista%20a%C3%A9rea%20mostra%20o%20cemit%C3%A9rio%20Parque%20Taruma%2C%20em%20Manaus
 ---

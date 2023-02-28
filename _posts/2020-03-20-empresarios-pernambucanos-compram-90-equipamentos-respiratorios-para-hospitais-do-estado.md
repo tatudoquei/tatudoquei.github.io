@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-20 12:21:57
 pub_date: 2020-03-20 12:21:57
 time_added: 2020-03-20 13:21:57
-category: 
+categories: []
 tags: []
 image: https://www.folhape.com.br/obj/7/374487,475,80,0,0,475,365,0,0,0,0.jpg
 ---

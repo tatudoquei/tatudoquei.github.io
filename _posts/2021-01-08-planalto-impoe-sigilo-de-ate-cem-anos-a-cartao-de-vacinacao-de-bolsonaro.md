@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-08 11:00:00
 pub_date: 2021-01-08 11:00:00
 time_added: 2021-01-08 20:27:30
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24800421-d4e-3e3/FT1086A/652/zegotinha.jpg
 ---

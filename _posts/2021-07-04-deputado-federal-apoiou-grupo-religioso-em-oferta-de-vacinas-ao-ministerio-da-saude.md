@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-04 21:06:23
 pub_date: 2021-07-04 21:06:23
 time_added: 2021-07-24 08:22:23
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/07/materia-04-07-facebook.png
 ---

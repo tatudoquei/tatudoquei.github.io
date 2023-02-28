@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-01 14:34:00
 pub_date: 2022-11-01 14:34:00
 time_added: 2022-11-04 20:09:13
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/69/2022/11/01/entidades-produtoras-de-oxigenio-medicinal-soltaram-alertas-sobre-possivel-desabastecimento-1667327314652_v2_615x300.png
 ---

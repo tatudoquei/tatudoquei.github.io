@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-27 19:37:10
 pub_date: 2023-01-27 19:37:10
 time_added: 2023-01-29 09:48:29
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Ricardo-Capelli/alternates/LANDSCAPE_768/Ricardo%20Capelli
 ---

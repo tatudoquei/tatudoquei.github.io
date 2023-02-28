@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-04 12:42:41
 pub_date: 2012-08-27 13:49:00
 time_added: 2021-07-04 12:42:41
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2016/05/pos-think-original3.jpeg?quality=70&strip=info&w=680&h=453&crop=1
 ---

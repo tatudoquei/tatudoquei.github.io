@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-22 12:06:00
 pub_date: 2023-01-22 12:06:00
 time_added: 2023-01-26 19:05:53
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/70/2023/01/08/golpitas-invadem-congresso-nacional-e-pedem-intervencao-militar-1673203219622_v2_615x300.jpg
 ---

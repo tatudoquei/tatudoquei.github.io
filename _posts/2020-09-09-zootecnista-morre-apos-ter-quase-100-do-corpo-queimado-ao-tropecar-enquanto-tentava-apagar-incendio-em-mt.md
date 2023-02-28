@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-09 11:37:28
 pub_date: 2020-09-09 11:37:28
 time_added: 2020-09-09 19:38:43
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/7foDhPX_e9nZzSeXEkXzx_zqzss=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/S/S/r8tV5ATg6rZesLba6WkQ/whatsapp-image-2020-09-08-at-08.02.45.jpeg
 ---

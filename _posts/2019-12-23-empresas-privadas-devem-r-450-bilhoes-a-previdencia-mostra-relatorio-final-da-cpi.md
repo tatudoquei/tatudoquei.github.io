@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-23 21:15:15
 pub_date: 2017-10-23 21:51:09
 time_added: 2019-12-23 21:15:15
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://www12.senado.leg.br/noticias/materias/2017/10/23/empresas-privadas-devem-r-450-bilhoes-a-previdencia-mostra-relatorio-final-da-cpi/20171023_00469w.jpg
 ---

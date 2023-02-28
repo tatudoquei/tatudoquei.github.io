@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-26 10:27:51
 pub_date: 2019-04-26 10:27:51
 time_added: 2019-04-27 08:07:07
-category: 
+categories: []
 tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2019/04/bolsonaro-e-olavo-de-carvalho.png
 ---

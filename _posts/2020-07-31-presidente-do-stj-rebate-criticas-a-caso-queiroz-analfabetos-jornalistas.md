@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-31 18:17:00
 pub_date: 2020-07-31 18:17:00
 time_added: 2020-08-01 07:02:50
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ff/2020/05/09/joao-otavio-de-noronha-presidente-do-stj-1589027418924_v2_615x300.jpg
 ---

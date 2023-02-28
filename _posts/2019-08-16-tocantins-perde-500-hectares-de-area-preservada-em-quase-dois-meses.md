@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-16 10:30:29
 pub_date: 2019-08-16 10:30:29
 time_added: 2019-08-19 22:19:11
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/08/mapa-desmata.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

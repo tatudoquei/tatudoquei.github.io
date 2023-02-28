@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-15 03:00:00
 pub_date: 2020-01-15 03:00:00
 time_added: 2020-01-15 20:42:31
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/6f/2019/01/03/bolsonaro-militares-1546507368821_750x421.jpg
 ---

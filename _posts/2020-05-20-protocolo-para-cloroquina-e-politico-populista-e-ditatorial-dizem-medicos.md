@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-20 11:09:00
 pub_date: 2020-05-20 11:09:00
 time_added: 2020-05-20 20:41:16
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/27/2020/04/08/coronavirus-producao-de-cloroquina-na-china-1586379316241_v2_750x421.jpg
 ---

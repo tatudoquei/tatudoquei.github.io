@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-25 01:01:07
 pub_date: 2021-11-25 01:01:07
 time_added: 2021-11-25 02:01:07
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/economia/25279308-c3e-85f/FT1086A/760/6456b9d8-71e6-4442-9a3f-94e4f83ff2ba.jpg
 ---

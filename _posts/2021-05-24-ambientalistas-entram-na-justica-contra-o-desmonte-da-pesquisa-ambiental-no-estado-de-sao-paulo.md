@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-24 19:23:52
 pub_date: 2021-05-24 19:23:52
 time_added: 2021-06-15 22:44:41
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/05/Doria.jpg
 ---

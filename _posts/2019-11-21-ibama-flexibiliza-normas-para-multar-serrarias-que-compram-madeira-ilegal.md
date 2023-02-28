@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-21 17:37:00
 pub_date: 2019-11-21 17:37:00
 time_added: 2019-11-26 20:19:32
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24092772-cb8-6cf/FT1086A/652/40661951_07021998MARCELO-SAYAOPAMADEIREIRAS-NA-AMAZONIASERRARIA-NA-SERRA-DO-CACHIMBO..jpg
 ---

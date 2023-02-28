@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-19 12:24:20
 pub_date: 2021-01-19 12:24:20
 time_added: 2021-01-22 21:48:23
-category: 
+categories: []
 tags: [saúde]
 image: https://sanpontopoderstgv2.blob.core.windows.net/prd/2021/01/WhatsApp-Image-2021-01-19-at-09.16.36.jpeg
 ---

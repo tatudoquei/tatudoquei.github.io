@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-11 19:19:00
 pub_date: 2020-06-11 19:19:00
 time_added: 2020-06-14 05:54:52
-category: 
+categories: []
 tags: []
 image: https://rollingstone.uol.com.br/media/_versions/tom_morello_ap_photo_branimir_kvartuc_pequena_widelg.jpg
 ---

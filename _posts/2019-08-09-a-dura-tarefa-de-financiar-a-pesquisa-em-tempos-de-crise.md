@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-09 15:53:49
 pub_date: 2019-08-09 15:53:49
 time_added: 2019-08-11 07:23:51
-category: refletimos
+categories: [refletimos]
 tags: [ciência]
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/07/Capa-JC-785.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-16 14:07:00
 pub_date: 2020-12-16 14:07:00
 time_added: 2020-12-17 12:07:29
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24799186-515-dba/FT1086A/652/90883298_BrasilBrasilia16-12-2020-Governo-lanca-Plano-Nacional-de-Operacionalizacao-da-Vacina.jpg
 ---

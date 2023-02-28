@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-13 14:29:08
 pub_date: 2020-08-13 14:29:08
 time_added: 2020-10-21 05:34:23
-category: 
+categories: []
 tags: []
 image: https://reporternordeste.com.br/wp-content/uploads/2020/08/8769186-1.jpg
 ---

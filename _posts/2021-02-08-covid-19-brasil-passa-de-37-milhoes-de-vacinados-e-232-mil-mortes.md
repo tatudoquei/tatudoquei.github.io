@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-08 23:01:00
 pub_date: 2021-02-08 23:01:00
 time_added: 2021-02-12 23:13:23
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24874690-76a-42e/FT1086A/652/91528269_Sao-Paulo-SP-08-02-2021Sistema-drive-thru-de-vacinacao-em-idososInicio-da-Vacinacao-D.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-01 14:35:33
 pub_date: 2019-03-01 14:35:33
 time_added: 2019-03-11 17:43:33
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://abrilexame.files.wordpress.com/2019/02/img20190220102102156.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

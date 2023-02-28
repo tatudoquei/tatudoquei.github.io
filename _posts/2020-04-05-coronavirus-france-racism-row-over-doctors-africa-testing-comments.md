@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-05 10:10:44
 pub_date: 2020-04-05 10:10:44
 time_added: 2020-04-05 12:10:44
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_news/5C35/production/_111550632_africacorona2.jpg
 ---

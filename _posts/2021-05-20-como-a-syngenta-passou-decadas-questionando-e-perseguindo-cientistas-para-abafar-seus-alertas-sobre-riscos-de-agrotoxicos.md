@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-20 14:41:26
 pub_date: 2021-05-20 14:41:26
 time_added: 2021-05-30 21:31:15
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/05/syngenta-facebook.png
 ---

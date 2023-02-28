@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-24 19:43:59
 pub_date: 2020-01-24 19:43:59
 time_added: 2020-01-25 11:10:27
-category: 
+categories: []
 tags: []
 image: http://p2.trrsf.com/image/fget/cf/800/450/middle/s1.trrsf.com/atm/3/core/_img/terra-logo-white-bg-v3.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-31 00:57:21
 pub_date: 2022-10-31 00:57:21
 time_added: 2022-10-31 13:12:07
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/AMG9tR3W1NJ5EUVF1hRo5ZUoj9k=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/Q/B/rPhBYMS2iQizO8veDScw/100807797-us-president-joe-biden-delivers-virtual-remarks-at-the-summit-on-fire-prevention-and-c.jpg
 ---

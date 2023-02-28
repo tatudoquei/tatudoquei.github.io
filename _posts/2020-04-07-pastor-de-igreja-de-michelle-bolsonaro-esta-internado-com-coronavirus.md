@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-07 10:40:00
 pub_date: 2020-04-07 10:40:00
 time_added: 2020-04-07 17:34:37
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/4c/2019/05/26/26mai2019---o-presidente-jair-bolsonaro-e-a-primeira-dama-michelle-participam-de-culto-na-igreja-atitude-no-rio-1558885392493_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-23 22:22:00
 pub_date: 2021-03-23 22:22:00
 time_added: 2021-03-27 18:55:23
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/epoca/24921099-bae-050/FT1086A/GettyImages-1220639651.jpg
 ---

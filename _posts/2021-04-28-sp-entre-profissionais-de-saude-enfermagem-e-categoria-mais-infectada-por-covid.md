@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-28 07:45:42
 pub_date: 2021-04-28 07:45:42
 time_added: 2021-05-29 21:12:33
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2020/07/01164014/Enfermeira2.jpg
 ---

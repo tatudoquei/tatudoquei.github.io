@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-08 22:48:08
 pub_date: 2021-10-08 22:48:08
 time_added: 2022-10-16 14:25:34
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/10/capa-facebook-bolsonaro-decreto-agrotoxicos.png
 ---

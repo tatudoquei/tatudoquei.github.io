@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-13 17:00:00
 pub_date: 2023-02-13 17:00:00
 time_added: 2023-02-14 06:43:42
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/apublica.org/wp-content/uploads/2023/02/Capa_Facebook_Atas-mostram-que-resolucao-sobre-presos-provisorios-incomodou-Ministerio-da-Justica.png?fit=1200%2C630&ssl=1
 ---

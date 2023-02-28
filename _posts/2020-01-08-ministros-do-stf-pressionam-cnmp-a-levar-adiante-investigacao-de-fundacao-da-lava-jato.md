@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-08 00:59:00
 pub_date: 2020-01-08 00:59:00
 time_added: 2020-01-08 20:26:30
-category: 
+categories: []
 tags: []
 image: https://painel.blogfolha.uol.com.br/files/2016/09/alexandre.jpeg
 ---

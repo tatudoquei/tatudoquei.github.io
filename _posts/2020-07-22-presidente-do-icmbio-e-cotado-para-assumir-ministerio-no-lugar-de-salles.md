@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-22 19:31:09
 pub_date: 2020-07-22 19:31:09
 time_added: 2020-07-23 06:55:54
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2020/07/homero-1024x585-1.jpg
 ---

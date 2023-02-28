@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-04 10:41:28
 pub_date: 2020-03-04 10:41:28
 time_added: 2020-03-04 14:23:10
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/umqIGF1TbN-EOm_doB9owK6d8_Y=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2019/03/14/policiais.jpg
 ---

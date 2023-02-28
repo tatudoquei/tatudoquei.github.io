@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-14 00:14:53
 pub_date: 2021-06-14 00:14:53
 time_added: 2021-06-13 21:14:53
-category: 
+categories: []
 tags: []
 image: https://api.metro1.com.br/noticias/108031,professores-sao-demitidos-de-colegio-particular-apos-nao-retornarem-ao-ensino-semipresencial-3.jpg
 ---

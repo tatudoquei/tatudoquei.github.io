@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-20 21:47:20
 pub_date: 2021-04-20 21:47:20
 time_added: 2021-04-22 20:00:21
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/jornal.usp.br/wp-content/uploads/2021/04/20210420_cnpq.jpg?fit=1200%2C630&ssl=1
 ---

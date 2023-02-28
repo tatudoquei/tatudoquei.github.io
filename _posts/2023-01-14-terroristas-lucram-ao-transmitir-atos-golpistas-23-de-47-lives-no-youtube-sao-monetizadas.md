@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-14 13:24:36
 pub_date: 2023-01-14 13:24:36
 time_added: 2023-01-14 14:24:36
-category: 
+categories: []
 tags: []
 image: https://static.aosfatos.org/media/images/entries/08-01-2023_bipe_monetizacao_lives_golpistas.png.570x384_q85_box-173,3,957,531_crop_upscale.jpg
 ---

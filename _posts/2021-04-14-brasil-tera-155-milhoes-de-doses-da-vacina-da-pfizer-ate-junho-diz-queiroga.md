@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-14 13:57:59
 pub_date: 2021-04-14 13:57:59
 time_added: 2021-05-16 20:20:53
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/04/queiroga-ze-gotinha-1200x630.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-14 18:38:03
 pub_date: 2021-04-14 18:38:03
 time_added: 2021-05-16 20:20:05
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/04/stf-cpi-covid-1080x630.jpg
 ---

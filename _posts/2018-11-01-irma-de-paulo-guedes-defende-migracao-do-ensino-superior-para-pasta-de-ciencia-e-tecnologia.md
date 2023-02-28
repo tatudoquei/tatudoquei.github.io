@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-11-01 09:36:00
 pub_date: 2018-11-01 09:36:00
 time_added: 2018-11-05 22:16:32
-category: avisamos
+categories: [avisamos]
 tags: [educação]
 image: https://ogimg.infoglobo.com.br/in/23204297-2fb-ead/FT1086A/652/Guedes.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-17 15:15:00
 pub_date: 2022-10-17 15:15:00
 time_added: 2022-10-22 17:35:50
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/70/2021/10/18/joao-guilherme-1634570432563_v2_615x300.jpg
 ---

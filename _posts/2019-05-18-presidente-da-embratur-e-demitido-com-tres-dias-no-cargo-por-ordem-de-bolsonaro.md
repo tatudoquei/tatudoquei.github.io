@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-18 07:17:04
 pub_date: 2019-05-18 07:17:04
 time_added: 2020-06-26 06:00:57
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2019/05/snz.jpg
 ---

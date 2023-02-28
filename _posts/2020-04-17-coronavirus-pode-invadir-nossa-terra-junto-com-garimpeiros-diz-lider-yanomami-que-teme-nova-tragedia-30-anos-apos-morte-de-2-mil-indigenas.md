@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-17 16:02:00
 pub_date: 2020-04-17 16:02:00
 time_added: 2020-04-18 21:10:49
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/5RaHtab1vpOqDadj6L9DUE7IeaE=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2020/04/17/87878060_roraima_rr_-_05-01-1990_-_indio_ianomani_indios_ianomamis_-_um_piloto_da_funai_carrega_cria.jpg
 ---

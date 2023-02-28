@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-12 09:18:00
 pub_date: 2020-07-12 09:18:00
 time_added: 2020-07-12 18:34:45
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24524396-142-7c4/FT1086A/652/Daniela.jpeg.jpg
 ---

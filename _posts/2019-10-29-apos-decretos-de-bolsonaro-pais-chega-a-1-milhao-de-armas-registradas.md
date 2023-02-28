@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-29 06:30:00
 pub_date: 2019-10-29 06:30:00
 time_added: 2019-10-31 22:12:39
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/brasil/23381831-d19-f30/FT1086A/652/80653951_An-employee-from-gun-manufacturer-Taurus-Armas-SA-works-at-the-companys-assembly-line.jpg
 ---

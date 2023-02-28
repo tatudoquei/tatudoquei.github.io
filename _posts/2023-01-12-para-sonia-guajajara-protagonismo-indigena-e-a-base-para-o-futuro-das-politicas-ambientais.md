@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-12 18:54:26
 pub_date: 2023-01-12 18:54:26
 time_added: 2023-01-14 09:19:35
-category: 
+categories: []
 tags: []
 image: https://oeco.org.br/wp-content/uploads/2023/01/soniapossevaltercampanato.jpg
 ---

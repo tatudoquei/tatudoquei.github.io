@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-11 01:19:11
 pub_date: 2021-05-11 01:19:11
 time_added: 2021-05-26 21:09:54
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/05/Lira-licenciamento.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-07 18:45:32
 pub_date: 2021-06-07 18:45:32
 time_added: 2021-06-07 19:04:57
-category: 
+categories: []
 tags: []
 image: https://www.cartacapital.com.br/wp-content/uploads/2021/05/ricardosalles.jpg
 ---

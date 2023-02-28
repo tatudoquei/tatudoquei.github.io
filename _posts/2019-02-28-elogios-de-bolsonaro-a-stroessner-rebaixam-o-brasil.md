@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-28 04:00:00
 pub_date: 2019-02-28 04:00:00
 time_added: 2019-12-23 21:21:00
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://s2.glbimg.com/XsoD1glbUXUPAGPUV3XnhIC3kFw=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/02/27/81300107_brazils_president_jair_bolsonaro_attends_the_inauguration_of_the_new_director_of_the_brazi.jpg
 ---

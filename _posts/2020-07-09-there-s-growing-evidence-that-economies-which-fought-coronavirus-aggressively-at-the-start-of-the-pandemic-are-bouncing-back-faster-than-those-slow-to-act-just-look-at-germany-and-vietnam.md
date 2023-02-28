@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-09 15:57:48
 pub_date: 2020-07-09 15:57:48
 time_added: 2020-07-09 17:57:48
-category: 
+categories: []
 tags: []
 image: https://images.markets.businessinsider.com/image/5f034ac63f7370708d5ca908
 ---

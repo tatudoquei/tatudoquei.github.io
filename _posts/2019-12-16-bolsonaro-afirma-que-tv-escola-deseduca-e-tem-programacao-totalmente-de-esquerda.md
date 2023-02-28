@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-16 09:04:00
 pub_date: 2019-12-16 09:04:00
 time_added: 2019-12-16 22:13:55
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24140800-810-b55/FT1086A/652/Jair-Bolsonaro.jpg
 ---

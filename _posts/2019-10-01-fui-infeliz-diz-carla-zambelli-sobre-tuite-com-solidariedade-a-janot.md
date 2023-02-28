@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-01 18:38:10
 pub_date: 2019-10-01 18:38:10
 time_added: 2019-10-03 07:44:33
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/07/scarla-zambelli-deputada-federal-1.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

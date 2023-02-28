@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-08 10:22:37
 pub_date: 2020-07-08 10:22:37
 time_added: 2020-07-10 04:01:30
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2020/05/luis-roberto-barroso_120520203545.jpg
 ---

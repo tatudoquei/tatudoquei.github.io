@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-05 09:12:00
 pub_date: 2021-02-05 09:12:00
 time_added: 2021-05-29 21:02:24
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2021/02/coronavac_050221_redes.jpg
 ---

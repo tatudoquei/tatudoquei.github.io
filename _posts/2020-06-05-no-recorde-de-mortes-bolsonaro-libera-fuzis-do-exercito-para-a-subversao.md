@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-05 07:08:00
 pub_date: 2020-06-05 07:08:00
 time_added: 2020-06-07 08:50:46
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/32/2020/06/05/fuzis-556-e-762-1591347225610_v2_615x300.jpg
 ---

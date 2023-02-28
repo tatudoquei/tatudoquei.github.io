@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-15 03:53:52
 pub_date: 2020-07-15 03:53:52
 time_added: 2020-07-15 05:28:48
-category: 
+categories: []
 tags: []
 image: https://jornalggn.com.br/sites/default/files/2020/07/nao-se-mede-incendio-pelo-numero-de-bombeiros-diz-lotufo-sobre-ocupacao-de-leitos-na-pandemia-paulo-lotufoo.jpg
 ---

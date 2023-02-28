@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-31 11:25:07
 pub_date: 2020-03-31 11:25:07
 time_added: 2020-04-08 12:43:42
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/03/31/arts/31virus-denmark-museums-02/31virus-denmark-museums-02-facebookJumbo-v2.jpg
 ---

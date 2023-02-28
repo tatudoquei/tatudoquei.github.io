@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-28 17:36:50
 pub_date: 2020-12-28 17:36:50
 time_added: 2020-12-28 14:36:50
-category: 
+categories: []
 tags: []
 image: https://static.dw.com/image/47222079_6.jpg
 ---

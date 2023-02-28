@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-15 18:02:00
 pub_date: 2021-03-15 18:02:00
 time_added: 2021-03-21 09:22:16
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/tab/5e/2020/12/07/felipe-neto-em-entrevista-do-uol-na-segunda-feira-6-1607376433225_v2_615x300.jpg
 ---

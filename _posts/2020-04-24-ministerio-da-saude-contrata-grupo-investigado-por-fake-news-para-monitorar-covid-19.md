@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-24 17:30:35
 pub_date: 2020-04-24 17:30:35
 time_added: 2020-04-27 22:01:52
-category: 
+categories: []
 tags: []
 image: https://reporterbrasil.org.br/wp-content/uploads/2020/04/teste-corona-ag-senado.jpg
 ---

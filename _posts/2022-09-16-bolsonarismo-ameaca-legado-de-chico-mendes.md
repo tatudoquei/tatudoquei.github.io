@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-16 00:16:03
 pub_date: 2022-09-16 00:16:03
 time_added: 2022-09-17 20:03:40
-category: 
+categories: []
 tags: []
 image: https://jacobin.com.br/wp-content/uploads/2022/09/ESTATUA-CHICO-MENDES-FOTO-JUAN-DIAZ4.webp
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-22 20:19:00
 pub_date: 2018-12-22 20:19:00
 time_added: 2019-12-23 21:19:31
-category: fake news
+categories: [fake news, resistimos]
 tags: []
 image: https://f.i.uol.com.br/fotografia/2018/12/11/15445597645c101c9498953_1544559764_3x2_rt.jpg
 ---

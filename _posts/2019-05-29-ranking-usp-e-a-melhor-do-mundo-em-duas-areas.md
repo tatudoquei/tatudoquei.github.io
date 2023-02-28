@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-29 18:58:22
 pub_date: 2017-04-04 19:02:26
 time_added: 2019-05-29 18:58:22
-category: 
+categories: []
 tags: []
 image: https://abrilguiadoestudante.files.wordpress.com/2016/12/usp_ribs1-1024x576.jpg?quality=100&strip=info&w=680&h=453&crop=1
 ---

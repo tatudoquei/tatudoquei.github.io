@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-22 18:24:31
 pub_date: 2019-01-22 18:24:31
 time_added: 2020-04-08 13:17:16
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2019/01/robert-shiller.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

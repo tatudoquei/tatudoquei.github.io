@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-16 17:36:48
 pub_date: 2020-04-16 17:36:48
 time_added: 2020-04-19 16:36:54
-category: 
+categories: []
 tags: []
 image: https://cdn.cnn.com/cnnnext/dam/assets/200401102330-1918-spanish-flu-super-tease.jpg
 ---

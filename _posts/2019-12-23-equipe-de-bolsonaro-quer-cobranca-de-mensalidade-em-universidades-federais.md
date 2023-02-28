@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-23 21:19:29
 pub_date: 2018-10-22 08:00:37
 time_added: 2019-12-23 21:19:29
-category: avisamos
+categories: [avisamos]
 tags: [ciência]
 image: https://img.estadao.com.br/resources/jpg/8/2/1540177486028.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-22 22:08:39
 pub_date: 2022-12-22 22:08:39
 time_added: 2023-01-06 23:15:19
-category: 
+categories: []
 tags: []
 image: https://oeco.org.br/wp-content/uploads/2022/12/bolsonero.jpeg
 ---

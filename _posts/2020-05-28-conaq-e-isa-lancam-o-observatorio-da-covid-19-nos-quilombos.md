@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-28 16:16:27
 pub_date: 2020-05-28 16:16:27
 time_added: 2020-05-28 18:16:27
-category: 
+categories: []
 tags: []
 image: https://www.socioambiental.org/sites/blog.socioambiental.org/files/styles/twitter-card/public/nsa/rs55434_ana_mendesimg_0954_mamuna_7-lpr.jpg?itok=DqIwlzpZ
 ---

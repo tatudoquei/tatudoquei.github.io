@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-01 21:09:20
 pub_date: 2020-05-01 21:09:20
 time_added: 2020-05-02 05:08:14
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/05/predio-funai-brasilia-20151022-001.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

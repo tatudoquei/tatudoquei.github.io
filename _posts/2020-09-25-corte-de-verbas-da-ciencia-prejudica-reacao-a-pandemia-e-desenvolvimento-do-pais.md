@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-25 21:22:24
 pub_date: 2020-09-25 21:22:24
 time_added: 2020-11-29 13:18:09
-category: 
+categories: []
 tags: []
 image: https://www12.senado.leg.br/noticias/agenciaSenadoFacebook.png
 ---

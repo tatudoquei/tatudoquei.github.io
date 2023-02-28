@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-25 20:19:52
 pub_date: 2021-09-25 20:19:52
 time_added: 2021-09-25 17:19:52
-category: 
+categories: []
 tags: []
 image: https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportDomesticNews/tagreuters.com2021binary_LYNXMPEH8C0V7-BASEIMAGE.jpg?w=800
 ---

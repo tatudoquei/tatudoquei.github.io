@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-08 07:30:00
 pub_date: 2021-02-08 07:30:00
 time_added: 2021-02-12 23:09:45
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24731211-e44-340/FT1086A/652/89047820_PA-Brasilia-BSB-04-08-2020-Entrevista-com-o-Senador-Flavio-Bolsonaro-em-seu-gabinete-Fo.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-20 13:59:49
 pub_date: 2021-03-20 13:59:49
 time_added: 2021-03-20 14:59:49
-category: 
+categories: []
 tags: []
 image: https://blogs.correiobraziliense.com.br/cbpoder/wp-content/uploads/sites/5/2018/10/CBIFOT201020185094-bolsonaro-e1540218828578.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-29 12:08:23
 pub_date: 2019-09-29 12:08:23
 time_added: 2019-09-29 09:08:23
-category: 
+categories: []
 tags: []
 image: https://azmina.com.br/wp-content/uploads/2019/09/Aborto_capa_600x337.png
 ---

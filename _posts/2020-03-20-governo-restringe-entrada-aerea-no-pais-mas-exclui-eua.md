@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-20 06:09:00
 pub_date: 2020-03-20 06:09:00
 time_added: 2020-03-20 21:32:34
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/03/2020/03/19/turistas-desembarcam-no-aeroporto-de-guarulhos-em-sao-paulo-1584645076831_v2_750x421.jpg
 ---

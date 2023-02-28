@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-31 22:04:31
 pub_date: 2021-01-31 22:04:31
 time_added: 2021-02-07 23:13:12
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/01/YELLOWSTONE-NATIONAL-PARK.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-21 22:00:00
 pub_date: 2019-08-21 22:00:00
 time_added: 2019-08-25 09:42:26
-category: 
+categories: []
 tags: []
 image: https://amp.businessinsider.com/images/5d5d54f2cd978412e5636ced-2732-1366.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-04 06:10:00
 pub_date: 2019-03-04 06:10:00
 time_added: 2019-03-06 05:06:41
-category: 
+categories: []
 tags: []
 image: https://estaticos.globoradio.globo.com/fotos/2019/02/be8e6659-e918-40f3-9ac0-928e0727ba36.jpg.640x360_q75_box-27%2C0%2C1080%2C593_crop_detail.jpg
 ---

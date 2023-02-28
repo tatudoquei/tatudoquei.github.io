@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-09 15:44:49
 pub_date: 2019-10-09 15:44:49
 time_added: 2019-10-10 21:10:47
-category: 
+categories: []
 tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2019/10/Cafe-Com-Jornalistas_Neila-Roch_Ascom-MCTIC.jpg
 ---

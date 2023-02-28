@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-01 18:24:00
 pub_date: 2022-11-01 18:24:00
 time_added: 2022-11-04 20:09:24
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/35/2022/10/30/lula-e-bolsonaro-na-votacao-do-segundo-turno--canal-uol-1667147184724_v2_615x300.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-12 10:05:00
 pub_date: 2021-10-12 10:05:00
 time_added: 2021-10-17 15:06:30
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/0a/2016/06/20/20jun2016---o-ex-ministro-da-educacao-renato-janine-ribeiro-presta-depoimento-como-testemunha-da-defesa-da-presidente-afastada-dilma-rousseff-na-comissao-especial-do-impeachment-no-senado-1466461869299_615x300.jpg
 ---

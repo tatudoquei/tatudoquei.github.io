@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-04 00:15:39
 pub_date: 2021-03-04 00:15:39
 time_added: 2021-03-03 21:15:39
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Idoso-carrega-doa%C3%A7%C3%A3o-de-alimentos/alternates/LANDSCAPE_768/Idoso%20carrega%20doa%C3%A7%C3%A3o%20de%20alimentos
 ---

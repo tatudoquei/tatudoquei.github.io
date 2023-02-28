@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-06 15:35:08
 pub_date: 2020-04-06 15:35:08
 time_added: 2020-04-06 16:18:04
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/d8vQhw8ZVyI0XYiyxCCCVI47SUg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/v/Y/ByeiCyTqe3BqRHPmcuIA/joao-doria-coletiva-6-de-abril.png
 ---

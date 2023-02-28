@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-04 11:38:00
 pub_date: 2020-02-04 11:38:00
 time_added: 2020-02-05 12:52:30
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/e6/2019/09/17/violencia-domestica-agressor-1568747079542_v2_750x421.jpg
 ---

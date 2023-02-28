@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-02 19:53:36
 pub_date: 2019-09-02 19:53:36
 time_added: 2019-09-02 21:53:36
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/labquimica007.jpg/ALTERNATES/LANDSCAPE_720/labquimica007.jpg
 ---

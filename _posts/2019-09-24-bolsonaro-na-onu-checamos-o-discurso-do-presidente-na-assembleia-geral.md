@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-24 15:07:08
 pub_date: 2019-09-24 15:07:08
 time_added: 2019-09-28 06:34:15
-category: 
+categories: []
 tags: []
 image: https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2019/09/bolsonaro-onu.jpg
 ---

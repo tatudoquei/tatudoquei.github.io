@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-06 13:54:31
 pub_date: 2022-10-06 13:54:31
 time_added: 2022-10-10 06:46:46
-category: 
+categories: []
 tags: []
 image: https://psolnacamara.org.br/wp-content/uploads/2022/10/Contra-cortes-na-educacao.jpg
 ---

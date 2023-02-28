@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-20 02:30:00
 pub_date: 2019-04-20 02:30:00
 time_added: 2019-04-24 07:06:32
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23611944-30a-0ac/FT1086A/652/56841430_21-10-2015Editoria-BrasilLocal-SPPauta-Pingue-pongue-com-ricardo-paes-de-barros-do-insper-u.jpg
 ---

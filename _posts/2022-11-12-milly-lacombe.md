@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-12 10:57:00
 pub_date: 2022-11-12 10:57:00
 time_added: 2022-11-16 18:29:54
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2015/04/12/12abr2015---manifestante-ergue-faixa-com-os-dizeres-fora-dilma-durante-manifestacao-contra-o-governo-da-presidente-dilma-rousseff-na-avenida-paulista-centro-de-sao-paulo-neste-domingo-12-1428869959379_615x300.jpg
 ---

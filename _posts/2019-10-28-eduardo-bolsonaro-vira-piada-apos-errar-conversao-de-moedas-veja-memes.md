@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-28 14:01:00
 pub_date: 2019-10-28 14:01:00
 time_added: 2019-10-31 15:21:39
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ba/2019/10/24/22out2020---o-novo-lider-do-psl-da-camara-eduardo-bolsonaro-psl-no-plenario-da-casa-1571926341162_v2_615x300.jpg
 ---

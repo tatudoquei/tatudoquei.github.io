@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-27 15:23:53
 pub_date: 2020-03-27 15:23:53
 time_added: 2020-04-03 23:53:21
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
 ---

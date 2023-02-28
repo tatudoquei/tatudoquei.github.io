@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-04 15:47:02
 pub_date: 2021-07-04 15:47:02
 time_added: 2021-07-04 12:47:02
-category: 
+categories: []
 tags: []
 image: http://www.ihu.unisinos.br/images/ihu/2021/07/01_07_floresta_amazonica_rio_sobrevoo_foto_ibama.jpg
 ---

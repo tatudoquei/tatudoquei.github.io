@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-20 02:30:00
 pub_date: 2019-08-20 02:30:00
 time_added: 2019-08-22 08:55:27
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23888594-9d1-2a7/FT1086A/652/83960569_Emprego-e-economia.jpg
 ---

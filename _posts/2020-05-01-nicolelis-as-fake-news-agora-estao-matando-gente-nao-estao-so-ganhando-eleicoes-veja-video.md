@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-01 15:19:10
 pub_date: 2020-05-01 15:19:10
 time_added: 2020-05-02 21:57:04
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2018/04/nicolelis.jpg
 ---

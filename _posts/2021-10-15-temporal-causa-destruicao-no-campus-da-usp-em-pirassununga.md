@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-15 18:34:16
 pub_date: 2021-10-15 18:34:16
 time_added: 2021-10-17 15:03:04
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/jornal.usp.br/wp-content/uploads/2021/10/20211015_00_microexplosao_pirassununga1.jpg?fit=1200%2C630&ssl=1
 ---

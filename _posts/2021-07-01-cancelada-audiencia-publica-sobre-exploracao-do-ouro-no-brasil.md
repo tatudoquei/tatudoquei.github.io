@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-01 17:25:00
 pub_date: 2021-07-01 17:25:00
 time_added: 2021-07-04 12:38:52
-category: 
+categories: []
 tags: []
 image: https://www.camara.leg.br/midias/image/2021/06/img20200120112456445-768x512.jpg
 ---

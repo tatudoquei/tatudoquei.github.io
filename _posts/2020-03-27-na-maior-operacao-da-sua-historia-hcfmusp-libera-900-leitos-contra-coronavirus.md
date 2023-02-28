@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-27 11:50:50
 pub_date: 2020-03-27 11:50:50
 time_added: 2020-03-27 12:50:50
-category: 
+categories: []
 tags: []
 image: http://www.fm.usp.br/fmusp/Manager/show_image.php?show_arquivo=institucional&show_campo=institucional_imagem_pq&show_chave=Institucional_id=1142
 ---

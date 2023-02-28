@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-21 05:15:17
 pub_date: 2023-01-21 05:15:17
 time_added: 2023-01-21 21:02:20
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2023/01/14182130/bavop.jpeg
 ---

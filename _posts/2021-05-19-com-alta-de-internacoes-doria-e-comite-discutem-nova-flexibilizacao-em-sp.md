@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-19 02:00:00
 pub_date: 2021-05-19 02:00:00
 time_added: 2021-05-19 20:31:55
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/05/2021/05/03/21abr2021---movimentacao-intensa-de-passageiros-na-estacao-da-luz-do-metro-e-da-cptm-no-centro-de-sao-paulo-1620064485759_v2_615x300.jpg
 ---

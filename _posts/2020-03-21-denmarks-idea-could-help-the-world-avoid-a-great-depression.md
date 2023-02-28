@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-21 11:00:00
 pub_date: 2020-03-21 11:00:00
 time_added: 2020-03-23 08:17:28
-category: 
+categories: []
 tags: []
 image: https://cdn.theatlantic.com/thumbor/EFpoGYITIQmOCVxSaS4CYYeauNE=/0x43:2000x1085/960x500/media/img/mt/2020/03/0320_Lapidos_Martin_Denmark/original.jpg
 ---

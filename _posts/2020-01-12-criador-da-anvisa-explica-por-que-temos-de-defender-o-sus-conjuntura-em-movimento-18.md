@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-12 22:00:59
 pub_date: 2020-01-12 22:00:59
 time_added: 2020-01-16 19:49:19
-category: 
+categories: []
 tags: []
 image: https://i1.wp.com/www.intersindicalcentral.com.br/wp-content/uploads/2020/01/sus-anvisa-gonzalo-vecina-intersindical.jpg?fit=770%2C403&ssl=1
 ---

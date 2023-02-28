@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-26 22:00:00
 pub_date: 2020-05-26 22:00:00
 time_added: 2020-05-27 19:14:17
-category: 
+categories: []
 tags: []
 image: https://static.scientificamerican.com/sciam/cache/file/32FCFAB7-9F64-4953-892EC9C9A3A15A43.jpg
 ---

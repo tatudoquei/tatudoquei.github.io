@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-26 01:09:40
 pub_date: 2019-02-26 01:09:40
 time_added: 2019-02-27 11:21:09
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://abrilexame.files.wordpress.com/2019/01/bolsonaro3.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

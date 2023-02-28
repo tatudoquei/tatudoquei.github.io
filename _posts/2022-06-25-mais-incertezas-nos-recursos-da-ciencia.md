@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-06-25 01:32:39
 pub_date: 2022-06-25 01:32:39
 time_added: 2022-06-25 08:11:09
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/externo-Mais-incertezas-nos-recursos-da-ci%C3%AAncia/alternates/LANDSCAPE_768/externo%20-%20Mais%20incertezas%20nos%20recursos%20da%20ci%C3%AAncia
 ---

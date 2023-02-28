@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-17 15:31:30
 pub_date: 2020-04-17 15:31:30
 time_added: 2020-04-18 04:28:56
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/DGs64gV1uUh--NiLoQDZX1MUlHE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/H/n/fVFaqATZCghJx8Wz9FJg/2020-04-06t162035z-1-lynxmpeg351iu-rtroptp-4-health-coronavirus-brazil-logistics.jpg
 ---

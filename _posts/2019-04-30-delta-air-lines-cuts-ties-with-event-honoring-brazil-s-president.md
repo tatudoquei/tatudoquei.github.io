@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-30 23:11:04
 pub_date: 2019-04-30 23:11:04
 time_added: 2019-05-01 09:06:44
-category: 
+categories: []
 tags: []
 image: https://cdn.cnn.com/cnnnext/dam/assets/190430175447-jair-bolsonaro-0430-super-tease.jpg
 ---

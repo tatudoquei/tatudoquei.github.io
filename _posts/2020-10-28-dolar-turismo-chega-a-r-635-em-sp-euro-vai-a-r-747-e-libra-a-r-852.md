@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-28 14:47:00
 pub_date: 2020-10-28 14:47:00
 time_added: 2020-10-29 21:08:42
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/2a/2020/03/09/o-dolar-comercial-terminou-o-dia-no-brasil-a-r-473-em-alta-de-203-1583790534901_v2_615x300.jpg
 ---

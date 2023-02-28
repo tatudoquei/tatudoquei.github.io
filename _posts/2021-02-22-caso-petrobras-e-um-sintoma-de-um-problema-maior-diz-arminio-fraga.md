@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-22 08:00:37
 pub_date: 2021-02-22 08:00:37
 time_added: 2021-02-27 17:06:28
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/Yrse-8xOHvVrJycK5D5UgaF_ceU=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2021/v/R/Q6NDcsTvesNLO9OGm6Pg/foto22emp-101-fraga-b5.jpg
 ---

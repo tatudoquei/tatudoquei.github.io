@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-11 20:45:00
 pub_date: 2020-12-11 20:45:00
 time_added: 2020-12-12 14:21:25
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ae/2020/04/22/joao-doria-e-jair-bolsonaro-frente-a-frente-1587545997947_v2_615x300.jpg
 ---

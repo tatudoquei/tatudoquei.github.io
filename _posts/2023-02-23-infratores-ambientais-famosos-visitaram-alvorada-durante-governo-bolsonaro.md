@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-23 14:00:00
 pub_date: 2023-02-23 14:00:00
 time_added: 2023-02-24 00:44:42
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/apublica.org/wp-content/uploads/2023/02/Capa_Facebook_Infratores-ambientais-famosos-visitaram-Alvorada-durante-governo-Bolsonaro.png?fit=1200%2C630&ssl=1
 ---

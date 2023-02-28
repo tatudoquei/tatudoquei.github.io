@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-28 16:48:11
 pub_date: 2020-04-28 16:48:11
 time_added: 2020-04-28 18:48:11
-category: 
+categories: []
 tags: []
 image: https://deolhonosruralistas.com.br/wp-content/uploads/2020/04/nabhangarcia.jpg
 ---

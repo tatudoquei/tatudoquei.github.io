@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-16 20:38:19
 pub_date: 2020-04-16 20:38:19
 time_added: 2020-04-18 15:39:01
-category: 
+categories: []
 tags: []
 image: https://phantom-elmundo.unidadeditorial.es/1ab9e6c4c7e4569a3c2b97743a6c0b4a/resize/1200/f/webp/assets/multimedia/imagenes/2020/04/16/15870484466388.jpg
 ---

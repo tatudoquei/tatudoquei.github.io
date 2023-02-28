@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-02 09:00:03
 pub_date: 2020-04-02 09:00:03
 time_added: 2020-04-02 12:53:35
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/04/02/us/virus-distancing-promo/virus-distancing-promo-facebookJumbo-v5.jpg
 ---

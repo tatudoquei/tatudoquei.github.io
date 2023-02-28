@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-28 15:36:00
 pub_date: 2020-08-28 15:36:00
 time_added: 2020-08-28 21:59:06
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/dc/2020/08/25/projeto-sobre-desmatamento-e-debatido-entre-ambientalistas-e-representantes-do-agronegocio-1598371222889_v2_615x300.jpg
 ---

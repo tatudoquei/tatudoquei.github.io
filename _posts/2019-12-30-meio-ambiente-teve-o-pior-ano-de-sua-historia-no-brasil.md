@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-30 03:30:00
 pub_date: 2019-12-30 03:30:00
 time_added: 2019-12-30 23:42:14
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24164004-d51-a82/FT1086A/652/brumadinho.jpg
 ---

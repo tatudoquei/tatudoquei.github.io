@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-01-12 20:52:48
 pub_date: 2022-01-12 20:52:48
 time_added: 2022-01-13 08:04:10
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2022/01/dia-do-fico.png
 ---

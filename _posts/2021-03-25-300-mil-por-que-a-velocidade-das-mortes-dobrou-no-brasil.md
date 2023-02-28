@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-25 03:00:00
 pub_date: 2021-03-25 03:00:00
 time_added: 2021-03-27 09:19:50
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/pandemia1/alternates/LANDSCAPE_768/pandemia
 ---

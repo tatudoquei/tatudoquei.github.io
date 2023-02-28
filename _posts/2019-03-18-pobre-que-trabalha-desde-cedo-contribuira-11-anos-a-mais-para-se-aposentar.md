@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-18 03:00:00
 pub_date: 2019-03-18 03:00:00
 time_added: 2019-03-20 13:19:27
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e4/2019/02/21/idosos-aposentadoria-previdencia-pobreza-1550768324070_v2_615x300.jpg
 ---

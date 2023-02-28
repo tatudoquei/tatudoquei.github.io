@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-18 03:00:00
 pub_date: 2021-03-18 03:00:00
 time_added: 2021-03-27 08:56:07
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/durma-210318_social.png/alternates/LANDSCAPE_768/durma%20210318_social.png
 ---

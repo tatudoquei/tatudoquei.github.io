@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-22 05:00:23
 pub_date: 2022-09-22 05:00:23
 time_added: 2022-10-10 06:42:08
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2022/09/20184143/Bolsonaro-verba-colegio-militar-creches.jpeg
 ---

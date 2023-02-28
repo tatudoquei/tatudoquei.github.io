@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-18 14:09:27
 pub_date: 2019-09-18 14:09:27
 time_added: 2019-10-06 08:28:31
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/colunista_renato_janine_800px.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-11 12:44:28
 pub_date: 2020-07-11 12:44:28
 time_added: 2020-07-14 20:57:17
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/05/usp-reitoria-scaled2.jpg
 ---

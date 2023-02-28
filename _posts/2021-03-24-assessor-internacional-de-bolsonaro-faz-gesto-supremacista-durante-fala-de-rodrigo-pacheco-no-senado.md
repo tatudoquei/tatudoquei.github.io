@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-24 22:43:00
 pub_date: 2021-03-24 22:43:00
 time_added: 2021-03-27 19:03:50
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24939921-741-36f/FT1086A/filipe.jpg
 ---

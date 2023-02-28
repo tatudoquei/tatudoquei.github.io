@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-02 16:03:46
 pub_date: 2019-01-02 16:03:46
 time_added: 2019-01-03 00:03:58
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2019/01/captura-de-tela-2019-01-02-as-140114.png
 ---

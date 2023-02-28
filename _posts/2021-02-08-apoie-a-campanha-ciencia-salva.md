@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-08 15:15:15
 pub_date: 2021-02-08 15:15:15
 time_added: 2021-02-11 07:58:59
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2021/02/ciena-salva.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-15 19:26:00
 pub_date: 2019-07-15 19:26:00
 time_added: 2019-07-16 06:14:28
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2019/07/deltanerobito-615x300.jpg
 ---

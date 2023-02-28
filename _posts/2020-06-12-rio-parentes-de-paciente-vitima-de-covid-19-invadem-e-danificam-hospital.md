@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-12 18:15:00
 pub_date: 2020-06-12 18:15:00
 time_added: 2020-06-13 07:01:07
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e2/2020/06/12/o-hospital-municipal-ronaldo-gazolla-e-referencia-para-pacientes-com-covid-19-1592003705332_v2_615x300.jpg
 ---

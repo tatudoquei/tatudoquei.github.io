@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-25 13:10:52
 pub_date: 2019-12-25 13:10:52
 time_added: 2019-12-25 09:02:27
-category: 
+categories: []
 tags: []
 image: https://extra.globo.com/incoming/24157894-542-957/w976h550-PROP/xprodutora.jpeg.pagespeed.ic.4rp-porzbf.jpg
 ---

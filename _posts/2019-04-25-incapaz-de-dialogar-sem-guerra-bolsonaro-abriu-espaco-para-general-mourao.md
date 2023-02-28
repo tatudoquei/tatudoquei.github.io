@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-25 02:19:00
 pub_date: 2019-04-25 02:19:00
 time_added: 2019-04-26 03:58:58
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/04/bolsonaro_mourao-615x300.jpg
 ---

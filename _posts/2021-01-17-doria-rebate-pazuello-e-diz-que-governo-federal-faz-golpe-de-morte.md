@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-17 18:31:00
 pub_date: 2021-01-17 18:31:00
 time_added: 2021-01-19 13:50:06
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2a/2021/01/14/joao-doria-governador-de-sao-paulo-1610666485093_v2_750x421.jpg
 ---

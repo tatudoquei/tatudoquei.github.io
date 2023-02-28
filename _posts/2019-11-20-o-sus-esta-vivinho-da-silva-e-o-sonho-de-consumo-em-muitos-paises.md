@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-20 03:00:00
 pub_date: 2019-11-20 03:00:00
 time_added: 2019-11-21 13:16:08
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/283/files/2019/11/PHOTO-2019-11-14-13-40-00-322x300.jpg
 ---

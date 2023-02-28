@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-13 11:09:00
 pub_date: 2021-08-13 11:09:00
 time_added: 2021-08-20 21:30:53
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25153664-b11-1a6/FT1086A/760/88759948_BrasilBrasiliaPA09-07-2020Estatuto-da-ArmasApoiadores-do-presidente-Jair.jpg
 ---

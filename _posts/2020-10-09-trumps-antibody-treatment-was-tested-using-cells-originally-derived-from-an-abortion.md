@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-09 03:35:40
 pub_date: 2020-10-09 03:35:40
 time_added: 2020-10-09 05:35:40
-category: 
+categories: []
 tags: []
 image: https://wp.technologyreview.com/wp-content/uploads/2020/10/GettyImages-1276876840-thumb.jpg?resize=1200,600
 ---

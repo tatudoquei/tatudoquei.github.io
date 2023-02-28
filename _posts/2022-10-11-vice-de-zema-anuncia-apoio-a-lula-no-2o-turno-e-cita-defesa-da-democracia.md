@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-11 17:36:00
 pub_date: 2022-10-11 17:36:00
 time_added: 2022-10-16 14:40:36
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ac/2022/10/11/atual-vice-governador-de-minas-gerais-paulo-brant-declarou-apoio-a-lula-no-segundo-turno-e-citou-a-defesa-da-democracia-como-justificativa-1665527445067_v2_615x300.jpg
 ---

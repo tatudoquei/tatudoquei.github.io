@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-24 17:54:00
 pub_date: 2019-09-24 17:54:00
 time_added: 2019-09-28 06:34:38
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/37/2019/09/02/presidente-da-republica-jair-bolsonaro-fala-a-imprensa-no-palacio-da-alvorada-em-brasilia-1567440192139_v2_615x300.jpg
 ---

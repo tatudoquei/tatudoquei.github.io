@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-21 11:20:22
 pub_date: 2020-01-21 11:20:22
 time_added: 2020-01-21 20:58:15
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2019/07/glenn-greenwald1jpg-15102018085003201.jpeg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-12 09:18:00
 pub_date: 2022-12-12 09:18:00
 time_added: 2022-12-18 22:46:39
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/40/2022/12/09/o-senador-eleito-flavio-dino-foi-indicado-para-o-ministerio-da-justica-do-governo-lula-1670598484895_v2_615x300.jpg
 ---

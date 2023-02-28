@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-09 16:20:53
 pub_date: 2021-04-09 16:20:53
 time_added: 2021-04-25 06:54:17
-category: 
+categories: []
 tags: []
 image: https://revistapoder.uol.com.br/wp-content/uploads/2021/04/FILIPE-MARTINS-1.png
 ---

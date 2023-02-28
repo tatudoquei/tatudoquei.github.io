@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-09 20:25:20
 pub_date: 2020-09-09 20:25:20
 time_added: 2020-09-09 22:25:20
-category: 
+categories: []
 tags: []
 image: http://cienciahoje.org.br/wp-content/uploads/2020/08/368-entrevista-thumb.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-07 22:07:23
 pub_date: 2021-02-07 22:07:23
 time_added: 2021-02-07 23:07:23
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/01/capa-especial-versao-4.jpg
 ---

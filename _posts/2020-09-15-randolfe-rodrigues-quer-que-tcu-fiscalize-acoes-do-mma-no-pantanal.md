@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-15 21:46:05
 pub_date: 2020-09-15 21:46:05
 time_added: 2020-09-15 22:04:59
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2020/09/TCU.jpg
 ---

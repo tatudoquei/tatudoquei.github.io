@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-08 19:31:00
 pub_date: 2021-11-08 19:31:00
 time_added: 2021-11-13 14:10:18
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/32/2021/07/07/deputado-daniel-silveira-esta-preso-novamente-desde-junho-1625686363463_v2_615x300.png
 ---

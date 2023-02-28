@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-06 20:52:00
 pub_date: 2019-10-06 20:52:00
 time_added: 2019-10-08 00:42:54
-category: 
+categories: []
 tags: []
 image: https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/joker.png
 ---

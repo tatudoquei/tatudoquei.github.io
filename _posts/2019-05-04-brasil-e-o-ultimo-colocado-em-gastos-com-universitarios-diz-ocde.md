@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-04 07:00:00
 pub_date: 2019-05-04 07:00:00
 time_added: 2019-05-04 17:37:36
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/275/files/2019/05/weintraub-615x300.jpg
 ---

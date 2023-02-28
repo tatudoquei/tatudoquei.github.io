@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-29 12:48:00
 pub_date: 2020-03-29 12:48:00
 time_added: 2020-03-29 19:50:33
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/dc/2019/03/20/quicando-facebook-1553097074540_956x500.png
 ---

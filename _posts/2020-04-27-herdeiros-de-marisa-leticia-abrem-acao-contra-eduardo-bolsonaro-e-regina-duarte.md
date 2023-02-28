@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-27 14:08:00
 pub_date: 2020-04-27 14:08:00
 time_added: 2020-04-27 22:18:42
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/21/2017/01/24/marisa-leticia-e-lula-durante-votacao-do-primeiro-turno-em-2016-1485279985138_750x421.jpg
 ---

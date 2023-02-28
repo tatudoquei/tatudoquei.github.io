@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-30 19:21:21
 pub_date: 2020-06-30 19:21:21
 time_added: 2020-07-01 18:01:01
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/06/20200630_testecovid.jpg
 ---

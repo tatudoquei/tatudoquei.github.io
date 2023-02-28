@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-23 21:37:28
 pub_date: 2019-08-23 21:37:28
 time_added: 2019-08-27 06:27:40
-category: 
+categories: []
 tags: []
 image: https://cdn-istoe-ssl.akamaized.net/wp-content/uploads/sites/14/2019/02/flavio-bolsonaro_ok.jpg
 ---

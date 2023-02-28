@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-25 13:11:00
 pub_date: 2021-02-25 13:11:00
 time_added: 2021-02-26 00:17:10
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/brasil/24457699-41a-416/FT1086A/652/82052701_RI04-04-2019-DEPUTADO-FEDERAL-DANIEL-SILVEIRA.-Foto-reproducao.jpg
 ---

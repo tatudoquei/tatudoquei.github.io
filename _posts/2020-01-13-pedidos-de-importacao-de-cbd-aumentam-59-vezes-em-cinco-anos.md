@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-13 21:30:00
 pub_date: 2020-01-13 21:30:00
 time_added: 2020-01-18 12:15:32
-category: 
+categories: []
 tags: []
 image: https://cannabisinc.blogfolha.uol.com.br/files/2019/08/ruderalis-cannabis-leaf.jpg
 ---

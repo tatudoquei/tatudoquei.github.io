@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-24 00:15:53
 pub_date: 2022-09-24 00:15:53
 time_added: 2022-09-24 10:08:07
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/trator/alternates/LANDSCAPE_768/trator
 ---

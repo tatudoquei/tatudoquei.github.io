@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-04 14:37:47
 pub_date: 2020-02-04 14:37:47
 time_added: 2020-02-05 05:25:07
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2019/03/bolsonaro-maia-alcolumbre-guedes.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-14 12:15:20
 pub_date: 2023-01-14 12:15:20
 time_added: 2023-01-14 13:15:20
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2023/01/09/world/09brazil/09brazil-facebookJumbo.jpg
 ---

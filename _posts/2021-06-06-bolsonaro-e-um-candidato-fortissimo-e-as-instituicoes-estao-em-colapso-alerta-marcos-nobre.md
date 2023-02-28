@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-06 18:00:00
 pub_date: 2021-06-06 18:00:00
 time_added: 2021-06-07 19:03:35
-category: 
+categories: []
 tags: []
 image: https://marcozero.org/wp-content/uploads/2021/06/Marcos-Nobre.jpg
 ---

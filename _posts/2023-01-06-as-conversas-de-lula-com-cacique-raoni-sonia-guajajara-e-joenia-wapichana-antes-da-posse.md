@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-06 15:48:56
 pub_date: 2023-01-06 15:48:56
 time_added: 2023-01-06 23:34:23
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2023/01/Capa_Facebook_Coluna-Rubens_As-conversas-de-Lula-com-cacique-Raoni-Sonia-Guajajara-e-Joenia-Wapichana-antes-da-posse-1.png
 ---

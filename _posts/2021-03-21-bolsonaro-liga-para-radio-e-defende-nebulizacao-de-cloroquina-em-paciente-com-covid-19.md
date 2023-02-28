@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-21 18:39:00
 pub_date: 2021-03-21 18:39:00
 time_added: 2021-03-27 18:47:16
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24935159-d0a-237/FT1086A/xBolsonaro-Cloroquina-790x533.jpg.pagespeed.ic.SdSG6_m602.jpg
 ---

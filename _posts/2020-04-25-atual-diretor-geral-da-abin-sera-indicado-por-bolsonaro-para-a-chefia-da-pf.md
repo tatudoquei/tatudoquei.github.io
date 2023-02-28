@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-25 01:44:49
 pub_date: 2020-04-25 01:44:49
 time_added: 2020-04-27 11:15:19
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/04/Alexandre-Ramagem-1200x630.jpg
 ---

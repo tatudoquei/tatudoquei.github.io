@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-09 23:00:00
 pub_date: 2020-01-09 23:00:00
 time_added: 2020-01-11 15:01:31
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Teaser-Marcelle-Soares-Santos-Cientistas-do-Brasil/alternates/LANDSCAPE_768/Teaser%20-%20Marcelle%20Soares-Santos%20-%20Cientistas%20do%20Brasil
 ---

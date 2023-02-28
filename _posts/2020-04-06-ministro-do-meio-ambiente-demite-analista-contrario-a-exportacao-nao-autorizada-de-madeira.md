@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-06 23:36:01
 pub_date: 2020-04-06 23:36:01
 time_added: 2020-04-08 13:17:07
-category: 
+categories: []
 tags: []
 image: http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2020/04/06/2020-04-06T233634Z_1_LYNXMPEG3525T_RTROPTP_4_BRAZIL-ENVIRONMENT-USA.JPG
 ---

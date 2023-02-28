@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-28 18:57:17
 pub_date: 2022-10-28 18:57:17
 time_added: 2022-10-28 20:57:17
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2022/10/tarcisio_240422_redes.jpg
 ---

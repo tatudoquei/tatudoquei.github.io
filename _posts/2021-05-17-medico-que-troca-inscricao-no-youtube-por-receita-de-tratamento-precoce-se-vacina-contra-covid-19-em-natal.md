@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-17 14:38:23
 pub_date: 2021-05-17 14:38:23
 time_added: 2021-05-29 21:16:59
-category: 
+categories: []
 tags: []
 image: https://i1.wp.com/www.saibamais.jor.br/wp-content/uploads/2021/05/WhatsApp-Image-2021-05-17-at-11.28.43.jpeg?fit=1080%2C510&ssl=1
 ---

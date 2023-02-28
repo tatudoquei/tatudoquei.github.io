@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-22 03:00:00
 pub_date: 2020-01-22 03:00:00
 time_added: 2020-01-22 16:04:55
-category: refletimos
+categories: [refletimos]
 tags: [ciência]
 image: https://conteudo.imguol.com.br/c/entretenimento/f9/2020/01/13/analise-em-laboratorio-1578925918084_v2_615x300.jpg
 ---

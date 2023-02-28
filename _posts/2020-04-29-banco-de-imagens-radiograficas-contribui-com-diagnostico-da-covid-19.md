@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-29 16:12:56
 pub_date: 2020-04-29 16:12:56
 time_added: 2020-04-30 20:35:37
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/04/202000403_00_tomografia-torax.jpg
 ---

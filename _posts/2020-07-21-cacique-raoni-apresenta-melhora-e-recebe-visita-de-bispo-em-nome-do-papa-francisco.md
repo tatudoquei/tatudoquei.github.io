@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-21 14:11:00
 pub_date: 2020-07-21 14:11:00
 time_added: 2020-07-21 20:59:43
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24194873-d99-d6b/FT1086A/652/Cacique-Raoni.jpg
 ---

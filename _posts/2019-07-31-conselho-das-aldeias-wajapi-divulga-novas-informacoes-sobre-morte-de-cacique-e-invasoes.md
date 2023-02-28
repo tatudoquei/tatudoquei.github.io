@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-31 20:03:06
 pub_date: 2019-07-31 20:03:06
 time_added: 2019-07-31 22:03:06
-category: 
+categories: []
 tags: []
 image: https://www.socioambiental.org/sites/blog.socioambiental.org/files/styles/twitter-card/public/nsa/wajapi.jpg?itok=zbYOK4kw
 ---

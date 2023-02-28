@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-31 05:23:00
 pub_date: 2019-07-31 05:23:00
 time_added: 2019-08-01 21:05:59
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2019/07/ernestofeiselejarbaspassarinho-497x300.jpg
 ---

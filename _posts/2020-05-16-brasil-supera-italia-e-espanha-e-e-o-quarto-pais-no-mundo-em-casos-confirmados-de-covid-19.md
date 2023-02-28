@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-16 17:23:00
 pub_date: 2020-05-16 17:23:00
 time_added: 2020-05-17 10:03:14
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24431208-f0a-408/FT1086A/652/88124916_RI-Rio-de-Janeiro-RJ-13-05-2020CORONAVIRUS-Tunel-de-desinfeccao-na-entrada-do-Pronto-Soc.jpg
 ---

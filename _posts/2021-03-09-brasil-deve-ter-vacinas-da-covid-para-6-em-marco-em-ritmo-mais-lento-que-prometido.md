@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-09 19:28:00
 pub_date: 2021-03-09 19:28:00
 time_added: 2021-03-21 09:09:25
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/39/2021/03/08/vacina-1615227308815_v2_615x300.jpg
 ---

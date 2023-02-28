@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-12 16:58:00
 pub_date: 2020-05-12 16:58:00
 time_added: 2020-05-13 11:35:33
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/3e/2020/05/12/12052020---movimentacao-na-estacao-de-metro-do-tatuape-em-sao-paulo-durante-pandemia-de-coronavirus-1589309737399_v2_615x300.jpg
 ---

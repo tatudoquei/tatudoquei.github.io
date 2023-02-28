@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-18 08:00:41
 pub_date: 2020-01-18 08:00:41
 time_added: 2020-01-18 09:43:25
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/poijBxngSSxGFYijWcy-O5xKQ4o=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/W/T/Da9mXSRASpTL4KYTp56g/encontro-poderes-brasilia.jpg
 ---

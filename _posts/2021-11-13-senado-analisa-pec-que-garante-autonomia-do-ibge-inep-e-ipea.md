@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-13 16:15:49
 pub_date: 2021-11-13 16:15:49
 time_added: 2021-11-13 13:15:49
-category: 
+categories: []
 tags: []
 image: https://www12.senado.leg.br/radio/1/noticia/2021/09/14/senado-analisa-pec-que-garante-autonomia-do-ibge-inep-e-ipea/@@images/38846be4-141b-432d-b804-cfb399cd2469.jpeg
 ---

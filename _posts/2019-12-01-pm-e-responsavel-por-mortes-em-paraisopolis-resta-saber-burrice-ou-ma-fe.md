@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-01 17:34:00
 pub_date: 2019-12-01 17:34:00
 time_added: 2019-12-03 21:20:03
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/12/paraisopolis-615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-19 03:00:00
 pub_date: 2021-03-19 03:00:00
 time_added: 2021-03-20 14:57:53
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/1c/2021/02/26/24fev2021---o-presidente-jair-bolsonaro-sem-partido-visita-o-municipio-de-sena-madureira-no-acre-1614356514519_v2_615x300.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-17 08:00:13
 pub_date: 2020-12-17 08:00:13
 time_added: 2020-12-17 12:10:57
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/coluna-do-estadao/wp-content/uploads/sites/352/2020/12/govs_161220203142.jpg
 ---

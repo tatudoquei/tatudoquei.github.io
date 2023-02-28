@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-09 02:30:00
 pub_date: 2020-04-09 02:30:00
 time_added: 2020-04-11 18:44:46
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24360912-b58-c2f/FT1086A/652/dengue.jpg
 ---

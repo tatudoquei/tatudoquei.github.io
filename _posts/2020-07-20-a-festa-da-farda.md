@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-20 22:00:00
 pub_date: 2020-07-20 22:00:00
 time_added: 2020-07-22 16:55:14
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/rTAC-JAv07nwZbrNFu0lJuusW5E=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2020/07/20/84214257_bsb_-_brasilia_-_brasil_-_23-08-2019_-_presidente_jair_bolsonaro_participa_da_cerimonia_d.jpg
 ---

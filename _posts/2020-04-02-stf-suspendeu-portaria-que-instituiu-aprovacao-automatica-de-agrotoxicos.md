@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-02 19:39:02
 pub_date: 2020-04-02 19:39:02
 time_added: 2020-04-03 12:40:45
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2020/04/Lewandowisk.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-18 20:42:00
 pub_date: 2021-01-18 20:42:00
 time_added: 2021-01-19 13:54:15
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24832846-fd9-eea/FT1086A/652/91112783_Brazilian-Health-Minister-Eduardo-Pazuello-gestures-during-a-press-conference-regarding-the.jpg
 ---

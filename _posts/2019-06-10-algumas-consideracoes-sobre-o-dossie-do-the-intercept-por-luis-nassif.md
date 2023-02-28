@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-10 13:11:30
 pub_date: 2019-06-10 13:11:30
 time_added: 2019-06-11 19:16:42
-category: 
+categories: []
 tags: []
 image: https://jornalggn.com.br/sites/default/files/2019/06/algumas-consideracoes-sobre-o-dossie-do-the-intercept-por-luis-nassif-capturarmoro.jpg
 ---

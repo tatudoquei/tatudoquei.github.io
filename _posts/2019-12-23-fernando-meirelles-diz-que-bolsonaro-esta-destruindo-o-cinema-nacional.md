@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-23 11:09:00
 pub_date: 2019-12-23 11:09:00
 time_added: 2019-12-25 11:28:43
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/e1/2019/11/11/fernando-meirelles-1573501994352_v2_615x300.jpg
 ---

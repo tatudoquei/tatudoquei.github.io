@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-09 19:45:39
 pub_date: 2021-02-09 19:45:39
 time_added: 2021-02-09 22:19:01
-category: 
+categories: []
 tags: [meio ambiente]
 image: https://www.oeco.org.br/wp-content/uploads/2021/02/Mineracao.jpg
 ---

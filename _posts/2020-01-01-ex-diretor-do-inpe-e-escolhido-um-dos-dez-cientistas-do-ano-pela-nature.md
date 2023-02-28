@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-01 23:10:25
 pub_date: 2020-01-01 23:10:25
 time_added: 2020-01-02 00:10:25
-category: resistimos
+categories: [resistimos]
 tags: [ciência]
 image: https://www.dw.com/image/51664990_304.jpg
 ---

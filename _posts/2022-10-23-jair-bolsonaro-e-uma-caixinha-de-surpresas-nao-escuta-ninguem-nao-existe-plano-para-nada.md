@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-23 18:04:08
 pub_date: 2022-10-23 18:04:08
 time_added: 2022-10-28 20:49:05
-category: 
+categories: []
 tags: []
 image: https://cdn.brasildefato.com.br/media/c4cc1e791c3952aaa321c69fa1da7ee7.jpeg
 ---

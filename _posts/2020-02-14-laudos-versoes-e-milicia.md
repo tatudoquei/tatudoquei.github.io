@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-14 19:10:00
 pub_date: 2020-02-14 19:10:00
 time_added: 2020-02-16 15:21:33
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2020/02/adriano_redes_14022020.jpg
 ---

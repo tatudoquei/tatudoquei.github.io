@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-16 00:35:30
 pub_date: 2020-04-16 00:35:30
 time_added: 2020-04-16 05:14:30
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/mo-XvCRifTeX_idjstHcWAhQpN0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/A/0/zcdk2vSLuqaKiAy1GQ5w/obitos-covid19-confirmados-e-suspeitos-sim-14042020-semana9a15-1-.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-28 21:27:03
 pub_date: 2020-10-28 21:27:03
 time_added: 2020-11-07 07:33:09
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2020/10/oeco-Sinal-de-Fumaca.jpg
 ---

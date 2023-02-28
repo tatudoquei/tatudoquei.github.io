@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-27 03:30:00
 pub_date: 2020-01-27 03:30:00
 time_added: 2020-01-30 06:46:02
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/KTIdB1Pv3aT8i-q_ycBqt5iMmSM=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2020/01/26/58869951_pa_sao_paulo_sp_29-05-2016_-_20a_edicao_da_parada_do_orgulho_lgbt_de_sao_paulo_tema_lei.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-30 06:53:47
 pub_date: 2020-01-30 06:53:47
 time_added: 2020-01-30 07:53:47
-category: 
+categories: []
 tags: []
 image: https://www.paramulheresnaciencia.com.br/wp-content/uploads/2020/01/Marcia-Barbosa-2.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-16 10:09:00
 pub_date: 2019-06-16 10:09:00
 time_added: 2019-06-18 16:02:27
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/06/sm-redes-1560704200.jpg
 ---

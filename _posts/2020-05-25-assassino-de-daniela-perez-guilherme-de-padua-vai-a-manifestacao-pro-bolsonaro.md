@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-25 12:09:55
 pub_date: 2020-05-25 12:09:55
 time_added: 2020-05-27 21:07:02
-category: 
+categories: []
 tags: []
 image: https://cdn-istoe-ssl.akamaized.net/wp-content/uploads/sites/14/2020/05/guilherme.jpg
 ---

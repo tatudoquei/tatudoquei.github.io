@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-07 08:00:00
 pub_date: 2021-06-07 08:00:00
 time_added: 2021-06-07 20:38:40
-category: 
+categories: []
 tags: [ciência]
 image: https://img.estadao.com.br/resources/jpg/4/3/1623023288534.jpg
 ---

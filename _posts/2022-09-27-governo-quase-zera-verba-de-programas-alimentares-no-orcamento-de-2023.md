@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-27 08:00:00
 pub_date: 2022-09-27 08:00:00
 time_added: 2022-10-03 00:41:23
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/bd/2022/09/23/maria-domingas-marques-pinto-sem-apoio-do-alimenta-brasil-falta-dinheiro-na-casa-1663969335393_v2_615x300.jpg
 ---

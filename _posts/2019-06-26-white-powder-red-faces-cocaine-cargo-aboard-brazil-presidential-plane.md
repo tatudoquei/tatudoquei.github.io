@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-26 23:03:40
 pub_date: 2019-06-26 23:03:40
 time_added: 2019-06-28 07:08:02
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2019/06/26/world/americas/26brazil/merlin_157037508_f0313472-fe9a-43f7-bed2-f97cfbb01a8e-facebookJumbo.jpg
 ---

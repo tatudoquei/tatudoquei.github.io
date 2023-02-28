@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-09 14:50:00
 pub_date: 2020-04-09 14:50:00
 time_added: 2020-04-10 05:06:26
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/5a/2020/03/27/presidente-da-camara-dos-deputados-rodrigo-maia-ao-lado-do-ministro-da-economia-paulo-guedes-em-evento-do-lide-em-campos-do-jordao-sp-1585336448797_v2_615x300.jpg
 ---

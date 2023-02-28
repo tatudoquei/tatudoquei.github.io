@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-15 03:30:00
 pub_date: 2020-04-15 03:30:00
 time_added: 2020-04-15 12:43:23
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/8DeYzmhhUGT9_iv0E9lDX5OgtOs=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2020/04/14/84035302_sc_rio_de_janeiro_rj_07-08-2019_o_ator_fabio_assuncao._foto_leonardo_aversa.jpg
 ---

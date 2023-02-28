@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-21 12:05:00
 pub_date: 2020-01-21 12:05:00
 time_added: 2020-01-23 22:01:05
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/economia/24202393-42d-ecd/FT1086A/652/86585432_A-sign-is-pictured-at-the-Congress-Center-ahead-of-the-World-Economic-Forum-WEF-annual-meet.jpg
 ---

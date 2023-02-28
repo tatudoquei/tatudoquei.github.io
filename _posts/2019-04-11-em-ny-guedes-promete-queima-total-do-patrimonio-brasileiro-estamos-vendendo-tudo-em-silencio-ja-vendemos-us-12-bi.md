@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-11 09:01:06
 pub_date: 2019-04-11 09:01:06
 time_added: 2019-04-15 06:43:42
-category: 
+categories: []
 tags: []
 image: https://www.viomundo.com.br/wp-content/uploads/2019/02/guedes-vac-abr-020120192546.jpg
 ---

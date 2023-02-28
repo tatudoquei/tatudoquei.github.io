@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-22 00:09:41
 pub_date: 2020-04-22 00:09:41
 time_added: 2020-04-22 23:02:27
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/11/20191128_cruesp.jpg
 ---

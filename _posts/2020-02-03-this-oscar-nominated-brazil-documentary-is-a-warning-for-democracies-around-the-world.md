@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-03 20:59:22
 pub_date: 2020-02-03 20:59:22
 time_added: 2020-02-04 19:50:50
-category: 
+categories: []
 tags: []
 image: https://cdn.cnn.com/cnnnext/dam/assets/200203152228-petra-costa-the-edge-of-democracy-restricted-super-tease.jpg
 ---

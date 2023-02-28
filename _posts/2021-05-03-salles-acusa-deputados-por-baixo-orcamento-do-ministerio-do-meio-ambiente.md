@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-03 19:02:22
 pub_date: 2021-05-03 19:02:22
 time_added: 2021-05-24 07:57:27
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/05/Oeco_Salles-camara-dos-deputados-03-05-2021_reproducao.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-15 17:44:00
 pub_date: 2020-04-15 17:44:00
 time_added: 2020-04-16 05:07:05
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/9f/2020/02/16/marisa-leticia-1581879099844_v2_615x300.jpg
 ---

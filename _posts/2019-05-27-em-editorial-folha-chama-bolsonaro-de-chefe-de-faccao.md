@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-27 11:14:10
 pub_date: 2019-05-27 11:14:10
 time_added: 2019-05-27 21:36:22
-category: 
+categories: []
 tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2019/05/bolsonaro-brasilia1.jpg
 ---

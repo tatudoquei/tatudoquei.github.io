@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-20 17:25:00
 pub_date: 2020-06-20 17:25:00
 time_added: 2020-06-20 22:30:42
-category: 
+categories: []
 tags: []
 image: https://theintercept.imgix.net/static/placeholder_2_1.jpg?auto=compress%2Cformat&q=90
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-06 21:27:28
 pub_date: 2021-05-06 21:27:28
 time_added: 2021-05-24 08:05:11
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/05/Vinicius-Mendonca-Ibama.jpg
 ---

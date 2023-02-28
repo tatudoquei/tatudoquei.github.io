@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-14 17:40:32
 pub_date: 2021-02-14 17:40:32
 time_added: 2021-02-14 23:23:07
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/02/microplasticoB.jpg
 ---

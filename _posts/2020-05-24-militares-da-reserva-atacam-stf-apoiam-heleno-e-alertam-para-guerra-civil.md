@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-24 09:21:00
 pub_date: 2020-05-24 09:21:00
 time_added: 2020-05-24 19:22:09
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d3/2020/05/19/11mai2020---o-ministro-chefe-do-gsi-general-augusto-heleno-durante-coletiva-sobre-a-operacao-verde-brasil-em-brasilia-df-1589919595750_v2_615x300.jpg
 ---

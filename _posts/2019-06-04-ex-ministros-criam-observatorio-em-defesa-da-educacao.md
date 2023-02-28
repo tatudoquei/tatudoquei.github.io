@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-04 21:08:41
 pub_date: 2019-06-04 21:08:41
 time_added: 2019-06-04 22:35:39
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/06/20190604_02_Ex-Min_Educacao.jpg
 ---

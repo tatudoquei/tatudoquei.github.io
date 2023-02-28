@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-06 18:20:00
 pub_date: 2020-11-06 18:20:00
 time_added: 2020-11-07 07:25:17
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/28/2020/08/25/senador-flavio-bolsonaro-no-palacio-do-itamaraty-em-brasilia-1598373083777_v2_615x300.jpg
 ---

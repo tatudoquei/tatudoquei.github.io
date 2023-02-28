@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-30 16:44:00
 pub_date: 2020-03-30 16:44:00
 time_added: 2020-04-02 21:37:11
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d4/2020/03/30/presidente-jair-bolsonaro-no-palacio-do-planalto-1585575215869_v2_615x300.jpg
 ---

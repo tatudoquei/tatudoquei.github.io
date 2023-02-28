@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-01 02:05:17
 pub_date: 2021-06-01 02:05:17
 time_added: 2021-06-20 09:55:06
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/05/Salles-e-Zambelli.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-07 02:30:00
 pub_date: 2021-12-07 02:30:00
 time_added: 2021-12-13 14:49:51
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25305712-78b-d5d/FT1086A/760/89417521_Brazils-Minister-of-Women-Family-and-Human-Rights-Damares-Alves-speaks-during-a-ceremony-a.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-27 20:59:53
 pub_date: 2020-07-27 20:59:53
 time_added: 2020-07-27 21:34:53
-category: 
+categories: []
 tags: []
 image: https://ponte.org/wp-content/uploads/2020/07/foto-ambiental.jpg
 ---

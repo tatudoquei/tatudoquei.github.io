@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-09 23:05:33
 pub_date: 2021-07-09 23:05:33
 time_added: 2021-08-08 06:38:11
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/07/desmatamento.jpg
 ---

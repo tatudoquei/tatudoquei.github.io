@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-04 11:49:27
 pub_date: 2022-11-04 11:49:27
 time_added: 2022-11-06 14:18:12
-category: 
+categories: []
 tags: []
 image: https://diplomatique.org.br/wp-content/uploads/2022/11/pag06-07_Le_Monde_Edicao_184_Foto_Rovena_Rosa-Agencia_Brasil-1024x682.jpg
 ---

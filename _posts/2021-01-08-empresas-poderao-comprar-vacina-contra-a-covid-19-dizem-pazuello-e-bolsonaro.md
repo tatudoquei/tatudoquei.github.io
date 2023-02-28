@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-08 00:02:44
 pub_date: 2021-01-08 00:02:44
 time_added: 2021-01-09 19:16:56
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/01/JairBolsonaro-EduardoPazuello-PlanaoNacionalDaVacinacao-Covid19-Vacinacao-Zegotinha-23-1200x630.jpg
 ---

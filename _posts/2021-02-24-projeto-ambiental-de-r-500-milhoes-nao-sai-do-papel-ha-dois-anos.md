@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-24 21:35:18
 pub_date: 2021-02-24 21:35:18
 time_added: 2021-02-25 20:44:44
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/02/Piritiba.jpg
 ---

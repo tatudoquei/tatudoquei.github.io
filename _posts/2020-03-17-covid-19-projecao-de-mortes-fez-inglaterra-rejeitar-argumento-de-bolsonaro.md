@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-17 16:42:00
 pub_date: 2020-03-17 16:42:00
 time_added: 2020-03-20 21:32:52
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/277/files/2020/03/bolsonaro-mandetta-coronavirus-615x300.jpg
 ---

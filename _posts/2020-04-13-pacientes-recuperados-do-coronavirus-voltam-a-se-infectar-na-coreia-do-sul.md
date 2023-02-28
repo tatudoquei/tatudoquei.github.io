@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-13 09:06:00
 pub_date: 2020-04-13 09:06:00
 time_added: 2020-04-13 15:44:49
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/7a/2020/03/10/mulher-usa-mascara-de-protecao-em-daegu-na-coreia-do-sul-1583845347038_v2_615x300.jpg
 ---

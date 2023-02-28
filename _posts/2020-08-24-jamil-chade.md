@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-24 15:33:00
 pub_date: 2020-08-24 15:33:00
 time_added: 2020-08-24 22:43:47
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/93/2020/08/24/presidente-jair-bolsonaro-com-caixa-de-cloroquina-do-lado-de-fora-do-palacio-da-alvorada-1598285462264_v2_615x300.jpg
 ---

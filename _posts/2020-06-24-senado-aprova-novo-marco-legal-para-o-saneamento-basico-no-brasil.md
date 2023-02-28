@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-24 14:55:00
 pub_date: 2020-06-24 14:55:00
 time_added: 2020-06-25 12:37:04
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24496458-26f-c0c/FT1086A/652/88530514_EC-Rio-de-Janeiro-RJ-19-06-2020Marco-que-vai-ser-aprovado-sobre-investimentos-no-set.jpg
 ---

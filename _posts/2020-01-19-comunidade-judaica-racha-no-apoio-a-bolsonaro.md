@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-19 07:39:01
 pub_date: 2018-10-25 11:07:54
 time_added: 2020-01-19 07:39:01
-category: 
+categories: []
 tags: []
 image: https://projetocolabora.com.br/wp-content/uploads/2018/10/hebraica-1.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-09 19:06:58
 pub_date: 2020-04-09 19:06:58
 time_added: 2020-04-12 05:42:27
-category: 
+categories: []
 tags: []
 image: https://outraspalavras.net/wp-content/uploads/2020/04/1540892748_432874_1540893016_album_normal.jpg
 ---

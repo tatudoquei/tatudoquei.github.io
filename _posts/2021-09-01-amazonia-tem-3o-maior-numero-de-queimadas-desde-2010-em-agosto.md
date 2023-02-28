@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-01 20:41:51
 pub_date: 2021-09-01 20:41:51
 time_added: 2021-09-26 05:04:24
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/09/Amazonia-Real.jpg
 ---

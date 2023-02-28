@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-04 19:42:07
 pub_date: 2022-12-04 19:42:07
 time_added: 2022-12-04 20:42:07
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2022/11/195_instantaneoseleitoraisI_redes.jpg
 ---

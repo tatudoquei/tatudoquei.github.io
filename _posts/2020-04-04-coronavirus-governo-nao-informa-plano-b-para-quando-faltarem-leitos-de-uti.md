@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-04 02:00:00
 pub_date: 2020-04-04 02:00:00
 time_added: 2020-04-05 08:22:07
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f4/2020/03/18/hospital-cleriston-andrade-em-feira-de-santana-e-unico-que-oferece-na-rede-publica-da-cidade-leitos-de-uti--e-eles-ja-estao-ocupados-1584575312902_v2_615x300.jpg
 ---

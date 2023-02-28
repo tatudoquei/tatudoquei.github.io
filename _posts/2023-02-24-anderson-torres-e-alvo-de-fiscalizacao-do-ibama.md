@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-24 22:22:46
 pub_date: 2023-02-24 22:22:46
 time_added: 2023-02-26 09:29:03
-category: 
+categories: []
 tags: []
 image: https://oeco.org.br/wp-content/uploads/2023/02/coletiva-min-justica_mcamgo_abr_281020221818-11.jpg
 ---

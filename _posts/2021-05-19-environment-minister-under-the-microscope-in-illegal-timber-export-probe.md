@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-19 21:07:07
 pub_date: 2021-05-19 21:07:07
 time_added: 2021-05-20 11:59:53
-category: 
+categories: []
 tags: []
 image: https://brazilian.report/wp-content/uploads/2021/05/deforestation-logging-brazil-scaled.jpeg
 ---

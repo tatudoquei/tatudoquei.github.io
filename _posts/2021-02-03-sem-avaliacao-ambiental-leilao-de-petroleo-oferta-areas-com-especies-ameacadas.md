@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-03 09:07:00
 pub_date: 2021-02-03 09:07:00
 time_added: 2021-02-06 12:07:42
-category: 
+categories: []
 tags: []
 image: https://ambiencia.blogfolha.uol.com.br/files/2020/07/oleo.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-21 19:03:52
 pub_date: 2020-05-21 19:03:52
 time_added: 2020-05-22 06:55:42
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/u0t-9p3lqpaXOp-Qj4IxxCUjKEw=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/N/t/zYTJIGQUyhYamOH4Zk8g/zuckerberg.jpg
 ---

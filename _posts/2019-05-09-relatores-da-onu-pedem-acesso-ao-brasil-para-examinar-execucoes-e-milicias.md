@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-09 07:00:00
 pub_date: 2019-05-09 07:00:00
 time_added: 2019-05-11 02:38:01
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/275/files/2019/03/Marielle-2-615x300.jpg
 ---

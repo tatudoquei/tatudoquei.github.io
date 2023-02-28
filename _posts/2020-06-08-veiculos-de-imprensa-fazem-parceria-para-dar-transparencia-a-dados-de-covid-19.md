@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-08 08:00:00
 pub_date: 2020-06-08 08:00:00
 time_added: 2020-06-09 00:05:34
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24468146-75b-472/FT1086A/652/88382263_A-health-professional-takes-care-of-a-patient-at-the-Intensive-Care-Unit-ICU-ward-where-pat.jpg
 ---

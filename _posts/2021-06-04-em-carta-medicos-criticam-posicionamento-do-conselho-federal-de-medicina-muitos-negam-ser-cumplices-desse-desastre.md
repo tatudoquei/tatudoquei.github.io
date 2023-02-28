@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-04 21:37:43
 pub_date: 2021-06-04 21:37:43
 time_added: 2021-06-05 11:03:26
-category: 
+categories: []
 tags: []
 image: https://cdn.revistaforum.com.br/wp-content/uploads/2021/06/radis221-margareth-dalcolmo-vacina-foto-virgina-fuchs-m.jpg
 ---

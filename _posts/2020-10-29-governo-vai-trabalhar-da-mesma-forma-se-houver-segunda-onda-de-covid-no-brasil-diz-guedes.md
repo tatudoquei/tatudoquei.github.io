@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-29 20:04:31
 pub_date: 2020-10-29 20:04:31
 time_added: 2020-10-29 21:04:31
-category: 
+categories: []
 tags: []
 image: https://extra.globo.com/incoming/24718488-ace-4f1/w976h550-PROP/87996340_pa-brasilia-bsb-29-04-2020-coletiva-com-o-ministro-da-economia-paulo-guedes-e-do-ministro-c.jpg
 ---

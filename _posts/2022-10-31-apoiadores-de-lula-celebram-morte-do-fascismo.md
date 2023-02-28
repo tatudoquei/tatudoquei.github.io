@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-31 11:41:13
 pub_date: 2022-10-31 11:41:13
 time_added: 2022-10-31 13:23:13
-category: 
+categories: []
 tags: []
 image: https://ponte.org/wp-content/uploads/2022/10/vitoria-lula-paulista-2022.jpeg
 ---

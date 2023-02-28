@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-16 19:00:42
 pub_date: 2023-02-16 19:00:42
 time_added: 2023-02-18 08:41:10
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2023/02/Capa_Facebook_O-que-dizem-as-atas-secretas-sobre-a-compra-de-vacinas.png
 ---

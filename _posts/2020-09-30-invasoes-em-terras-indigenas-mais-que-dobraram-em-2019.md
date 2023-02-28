@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-30 19:07:54
 pub_date: 2020-09-30 19:07:54
 time_added: 2020-09-30 22:34:05
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2020/09/Huni-Kui-AC-2019_foto-Denisa-Sterbova-02.jpg
 ---

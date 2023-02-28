@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-14 09:51:00
 pub_date: 2021-08-14 09:51:00
 time_added: 2021-08-20 21:34:34
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/B-rf91LzvX6_7KK9QkfOvhdZrm4=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2021/08/13/94698000_roberto_jefferson_com_arma_blogdojefferson8_verificado_nossa_turma_da_guns_bob_jeff_rub.jpg
 ---

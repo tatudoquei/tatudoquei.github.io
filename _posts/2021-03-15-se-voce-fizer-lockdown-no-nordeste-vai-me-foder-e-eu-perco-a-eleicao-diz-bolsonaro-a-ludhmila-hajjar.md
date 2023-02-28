@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-15 19:32:12
 pub_date: 2021-03-15 19:32:12
 time_added: 2021-03-15 21:52:20
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/03/ludhmila-hajjar-1200x630.jpg
 ---

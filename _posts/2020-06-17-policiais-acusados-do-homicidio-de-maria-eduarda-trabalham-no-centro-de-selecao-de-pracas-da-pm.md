@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-17 20:31:41
 pub_date: 2020-06-17 20:31:41
 time_added: 2020-06-17 22:13:42
-category: 
+categories: []
 tags: []
 image: https://extra.globo.com/incoming/23978423-543-de7/w976h550-PROP/maria-eduarda-estudante-bala-perdida.jpg
 ---

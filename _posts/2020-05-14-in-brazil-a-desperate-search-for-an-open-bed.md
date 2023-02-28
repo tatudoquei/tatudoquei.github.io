@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-14 20:22:30
 pub_date: 2020-05-14 20:22:30
 time_added: 2020-05-14 22:22:30
-category: refletimos
+categories: [refletimos]
 tags: [saúde]
 image: https://www.washingtonpost.com/resizer/SEBcdlvjllhJnpHNcOcHjus7Otc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D2I4O7UTYYI6VB5DELJSII2WGY.jpg
 ---

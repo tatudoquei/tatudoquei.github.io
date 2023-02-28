@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-04 14:07:17
 pub_date: 2019-10-04 14:07:17
 time_added: 2019-10-06 08:38:00
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2019/09/pacotemoro-1200x630.jpg
 ---

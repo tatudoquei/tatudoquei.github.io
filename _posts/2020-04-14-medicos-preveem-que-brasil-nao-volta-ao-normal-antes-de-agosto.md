@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-14 02:00:00
 pub_date: 2020-04-14 02:00:00
 time_added: 2020-04-18 13:44:04
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f4/2020/04/08/homem-caminha-sozinho-na-rua-sao-bento-no-centro-de-sao-paulo-durante-pandemia-do-novo-coronavirus-1586386133496_v2_615x300.jpg
 ---

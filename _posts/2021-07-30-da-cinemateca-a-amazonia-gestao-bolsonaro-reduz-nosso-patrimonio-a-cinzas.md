@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-30 12:01:00
 pub_date: 2021-07-30 12:01:00
 time_added: 2021-07-30 21:55:09
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/87/2021/07/29/incendio-atingiu-galpao-da-cinemateca-na-zona-oeste-de-sao-paulo-1627600873184_v2_615x300.jpg
 ---

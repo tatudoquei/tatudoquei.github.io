@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-05 13:06:23
 pub_date: 2021-06-05 13:06:23
 time_added: 2021-06-05 15:06:23
-category: 
+categories: []
 tags: []
 image: https://static.aosfatos.org/media/images/entries/51217328272_751ef4397f_k.jpg.1860x1080_q85_box-0,0,2047,1189_crop_upscale.jpg
 ---

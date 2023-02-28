@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-04 15:04:47
 pub_date: 2019-09-04 15:04:47
 time_added: 2019-09-15 10:03:20
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/09/coronel-bezerra.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

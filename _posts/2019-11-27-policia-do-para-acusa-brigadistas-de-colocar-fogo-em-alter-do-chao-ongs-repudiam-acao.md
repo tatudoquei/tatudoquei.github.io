@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-27 00:52:13
 pub_date: 2019-11-27 00:52:13
 time_added: 2019-12-01 08:17:04
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2019/11/Civil.jpg
 ---

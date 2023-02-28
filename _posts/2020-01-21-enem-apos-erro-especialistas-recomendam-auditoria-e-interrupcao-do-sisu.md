@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-21 17:04:00
 pub_date: 2020-01-21 17:04:00
 time_added: 2020-01-22 14:14:37
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/327/files/2020/01/alexandrelopes-615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-26 13:29:00
 pub_date: 2021-02-26 13:29:00
 time_added: 2021-02-27 00:28:57
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/0b/2020/11/27/o-neurocientista-miguel-nicolelis-1606529680498_v2_615x300.jpg
 ---

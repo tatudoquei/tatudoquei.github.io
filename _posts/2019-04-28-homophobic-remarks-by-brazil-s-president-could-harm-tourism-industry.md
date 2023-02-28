@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-28 15:27:05
 pub_date: 2019-04-28 15:27:05
 time_added: 2019-04-30 18:55:20
-category: 
+categories: []
 tags: []
 image: https://static.foxnews.com/foxnews.com/content/uploads/2019/04/ContentBroker_contentid-36b7a259de1a4eba88e1687d85336f54.png
 ---

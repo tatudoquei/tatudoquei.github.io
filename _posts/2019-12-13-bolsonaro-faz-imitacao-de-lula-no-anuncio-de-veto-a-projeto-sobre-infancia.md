@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-13 12:12:00
 pub_date: 2019-12-13 12:12:00
 time_added: 2019-12-14 11:24:23
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/3f/2019/12/12/presidente-jair-bolsonaro-durante-cerimonia-no-palacio-do-planalto-1576164159286_v2_750x421.jpg
 ---

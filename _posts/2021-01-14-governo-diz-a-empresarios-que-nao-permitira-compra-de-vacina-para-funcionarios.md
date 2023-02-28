@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-14 13:49:47
 pub_date: 2021-01-14 13:49:47
 time_added: 2021-01-15 15:30:29
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/01/fiesp-skaf.jpg
 ---

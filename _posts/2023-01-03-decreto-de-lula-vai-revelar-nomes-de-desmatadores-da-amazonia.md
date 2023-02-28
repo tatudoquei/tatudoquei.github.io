@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-03 18:54:00
 pub_date: 2023-01-03 18:54:00
 time_added: 2023-01-06 23:30:08
-category: 
+categories: []
 tags: []
 image: https://oeco.org.br/wp-content/uploads/2021/04/Oeco_forca_nacional_desmatamento_Foto-Mario-Vilela-Funai-e1672771920275.jpg
 ---

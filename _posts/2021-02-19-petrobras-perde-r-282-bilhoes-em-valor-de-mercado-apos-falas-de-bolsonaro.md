@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-19 14:19:00
 pub_date: 2021-02-19 14:19:00
 time_added: 2021-02-27 17:09:51
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/economia/24168202-67e-818/FT1086A/652/84559602_FILE-PHOTO-People-are-seen-in-front-of-an-electronic-board-showing-the-graph-of-the-rec.jpg
 ---

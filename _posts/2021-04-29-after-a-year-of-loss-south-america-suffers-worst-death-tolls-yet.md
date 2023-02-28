@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-29 20:49:43
 pub_date: 2021-04-29 20:49:43
 time_added: 2021-07-11 08:20:27
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2021/04/27/world/00virus-latam-top/00virus-latam-top-facebookJumbo.jpg
 ---

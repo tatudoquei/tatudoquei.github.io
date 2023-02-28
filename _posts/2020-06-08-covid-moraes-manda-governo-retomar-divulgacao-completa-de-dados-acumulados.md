@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-08 21:57:00
 pub_date: 2020-06-08 21:57:00
 time_added: 2020-06-09 06:42:37
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/db/2020/05/27/alexandre-de-moraes-determinou-acao-com-base-em-um-inquerito-que-apura-a-disseminacao-de-ofensas-ataques-e-ameacas-contra-ministros-da-corte-e-seus-familiares-1590621309551_v2_615x300.jpg
 ---

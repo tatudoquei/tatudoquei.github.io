@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-18 23:00:05
 pub_date: 2020-06-18 23:00:05
 time_added: 2020-06-19 20:16:34
-category: 
+categories: []
 tags: [saúde]
 image: https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png
 ---

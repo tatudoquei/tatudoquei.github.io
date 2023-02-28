@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-23 17:28:00
 pub_date: 2020-12-23 17:28:00
 time_added: 2020-12-23 22:10:54
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/bd/2020/07/27/01dez2019---assembleia-dos-paises-do-tribunal-penal-internacional-em-haia-na-holanda-1595877006977_v2_615x300.jpg
 ---

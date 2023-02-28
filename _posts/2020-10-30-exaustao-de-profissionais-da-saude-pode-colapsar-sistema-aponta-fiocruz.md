@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-30 16:06:35
 pub_date: 2020-10-30 16:06:35
 time_added: 2020-11-01 00:52:50
-category: 
+categories: []
 tags: []
 image: https://vejario.abril.com.br/wp-content/uploads/2020/10/Adriana-Correa-e-colegas-do-hospital-de-campanha-acervo-pessoal.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

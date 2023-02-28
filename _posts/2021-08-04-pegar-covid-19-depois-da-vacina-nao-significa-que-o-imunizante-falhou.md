@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-04 18:29:45
 pub_date: 2021-08-04 18:29:45
 time_added: 2021-08-20 21:12:11
-category: 
+categories: []
 tags: []
 image: https://saude.abril.com.br/wp-content/uploads/2021/08/mufid-majnun-1PkQljcl3T0-unsplash-2.jpg?quality=85&strip=info&w=680&h=453&crop=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-27 23:59:00
 pub_date: 2020-04-27 23:59:00
 time_added: 2020-04-28 19:11:40
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24352954-458-f53/FT1086A/652/85206729_BSBBrasiliaBrasil16-10-2019Presidente-Jair-Bolsonaro-participa-da-solenida.jpg
 ---

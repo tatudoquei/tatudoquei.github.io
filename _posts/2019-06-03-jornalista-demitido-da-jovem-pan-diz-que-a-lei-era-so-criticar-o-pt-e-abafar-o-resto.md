@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-03 20:04:06
 pub_date: 2017-10-12 14:57:27
 time_added: 2019-06-03 20:04:06
-category: 
+categories: []
 tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2017/10/paulo-pontes-jovem-pan.jpg
 ---

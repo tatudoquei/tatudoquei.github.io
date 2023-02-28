@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-19 02:02:00
 pub_date: 2020-06-19 02:02:00
 time_added: 2020-06-19 21:27:00
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/43/2020/06/19/clovis-arns-da-cunha-no-conversa-com-bial-1592542935671_v2_615x300.jpg
 ---

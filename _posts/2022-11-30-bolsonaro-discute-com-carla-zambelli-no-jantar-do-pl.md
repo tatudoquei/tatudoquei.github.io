@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-30 14:33:01
 pub_date: 2022-11-30 14:33:01
 time_added: 2022-12-03 22:22:50
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2022/03/31082728/Carla-Zambelli-fala-sobre-tornozeleira-eletronica-de-Daniel-Silveira.jpeg
 ---

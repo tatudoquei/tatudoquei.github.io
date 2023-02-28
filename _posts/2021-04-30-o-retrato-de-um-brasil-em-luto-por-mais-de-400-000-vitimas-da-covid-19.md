@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-30 23:43:57
 pub_date: 2021-04-30 23:43:57
 time_added: 2021-05-23 08:02:24
-category: 
+categories: []
 tags: []
 image: https://ep00.epimg.net/elpais/imagenes/2021/04/30/album/1619738141_211649_1619738670_rrss_normal.jpg
 ---

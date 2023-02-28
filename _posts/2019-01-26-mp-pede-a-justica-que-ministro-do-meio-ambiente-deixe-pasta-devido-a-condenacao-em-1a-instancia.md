@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-26 15:31:12
 pub_date: 2019-01-26 15:31:12
 time_added: 2019-01-30 00:06:39
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://s2.glbimg.com/ytGgLvO0Vl6p6kxr2e6k8zmqvyc=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2019/01/17/ricardo-salles.jpg
 ---

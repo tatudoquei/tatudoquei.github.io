@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-31 07:00:00
 pub_date: 2021-07-31 07:00:00
 time_added: 2021-08-20 20:54:39
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/60/2021/05/20/20mai2021---o-ex-ministro-da-saude-eduardo-pazuello-durante-depoimento-a-cpi-da-covid-1621538675557_v2_615x300.jpg
 ---

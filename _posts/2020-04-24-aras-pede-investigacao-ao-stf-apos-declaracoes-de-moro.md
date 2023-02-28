@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-24 03:08:07
 pub_date: 2020-04-24 03:08:07
 time_added: 2020-04-24 20:25:52
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2020/04/aras-22_150420202756.jpg
 ---

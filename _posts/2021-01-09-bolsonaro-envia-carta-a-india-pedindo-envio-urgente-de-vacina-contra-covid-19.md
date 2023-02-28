@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-09 01:34:55
 pub_date: 2021-01-09 01:34:55
 time_added: 2021-07-04 12:13:59
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/01/Narendra-Modi-bolsonaro-ernesto-planalto-1200x630.jpg
 ---

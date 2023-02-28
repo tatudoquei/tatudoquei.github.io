@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-21 08:45:00
 pub_date: 2022-10-21 08:45:00
 time_added: 2022-10-22 17:59:04
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/7e/2022/10/21/joao-inocentini-presidente-do-sindicato-nacional-dos-aposentados-pensionistas-e-idosos-1666359433260_v2_615x300.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-15 22:00:00
 pub_date: 2019-04-15 22:00:00
 time_added: 2019-04-18 22:22:54
-category: 
+categories: []
 tags: []
 image: https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F43434623%2F960x0.jpg%3Ffit%3Dscale
 ---

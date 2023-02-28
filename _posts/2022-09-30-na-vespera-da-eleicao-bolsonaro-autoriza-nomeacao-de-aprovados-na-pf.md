@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-30 11:45:54
 pub_date: 2022-09-30 11:45:54
 time_added: 2022-11-04 20:26:04
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2022/08/23090612/Policia-Federal-10.jpg
 ---

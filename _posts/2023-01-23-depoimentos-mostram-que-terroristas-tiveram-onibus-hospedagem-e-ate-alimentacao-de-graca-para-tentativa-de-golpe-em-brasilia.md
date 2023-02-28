@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-23 22:00:00
 pub_date: 2023-01-23 22:00:00
 time_added: 2023-01-24 05:55:10
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2023/01/print-depoimento-golpistas-redes.jpg
 ---

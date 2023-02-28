@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-11 10:33:37
 pub_date: 2019-05-11 10:33:37
 time_added: 2019-05-12 11:16:50
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2019/04/fcpzzb_abr_270320193554-1024x630.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-18 19:41:51
 pub_date: 2021-06-18 19:41:51
 time_added: 2021-06-19 21:38:13
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/15B10/production/_118984888_reutersricardomoraes-rio.jpg
 ---

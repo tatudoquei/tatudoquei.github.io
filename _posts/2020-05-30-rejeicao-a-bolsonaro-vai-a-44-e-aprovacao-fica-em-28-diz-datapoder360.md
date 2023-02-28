@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-30 05:00:08
 pub_date: 2020-05-30 05:00:08
 time_added: 2020-06-12 19:24:50
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/05/bolsonaro-planalto-mascaras-1200x630.jpg
 ---

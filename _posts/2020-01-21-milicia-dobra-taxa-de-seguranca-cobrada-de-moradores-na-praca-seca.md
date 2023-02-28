@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-21 05:00:00
 pub_date: 2020-01-21 05:00:00
 time_added: 2020-01-22 14:11:17
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24201790-c70-1a6/FT1086A/652/taxa-seguranca-milicia-praca-seca.jpg
 ---

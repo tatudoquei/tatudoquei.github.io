@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-02 03:30:00
 pub_date: 2020-01-02 03:30:00
 time_added: 2020-01-07 19:49:39
-category: avisamos
+categories: [avisamos]
 tags: [educação]
 ---
 

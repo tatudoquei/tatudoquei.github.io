@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-18 13:38:00
 pub_date: 2022-10-18 13:38:00
 time_added: 2022-10-22 17:57:20
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e1/2022/03/01/vista-da-corte-internacional-de-justica-em-haia-na-holanda-1646166459430_v2_615x300.jpg
 ---

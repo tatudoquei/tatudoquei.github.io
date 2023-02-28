@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-18 11:48:00
 pub_date: 2020-02-18 11:48:00
 time_added: 2020-02-27 02:14:00
-category: 
+categories: []
 tags: []
 image: https://estaticos.globoradio.globo.com/fotos/2020/01/9eeddd27-ef3d-4123-b101-d71cf863efaa.jpg.640x360_q75_box-38%2C10%2C960%2C529_crop_detail.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-20 00:13:59
 pub_date: 2019-12-20 00:13:59
 time_added: 2019-12-21 20:10:45
-category: 
+categories: []
 tags: []
 image: http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2019/12/12/20191212-porta-dos-fundos.jpg
 ---

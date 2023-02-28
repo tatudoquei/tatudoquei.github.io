@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-27 23:23:44
 pub_date: 2018-12-27 23:23:44
 time_added: 2019-05-03 22:10:15
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2018/12/salles.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-25 14:15:23
 pub_date: 2020-03-25 14:15:23
 time_added: 2020-03-25 19:45:08
-category: 
+categories: []
 tags: []
 image: https://portaldisparada.com.br/wp-content/uploads/2020/03/img-covid.jpeg
 ---

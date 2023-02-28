@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-20 20:20:00
 pub_date: 2021-08-20 20:20:00
 time_added: 2021-08-20 20:39:02
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2014/05/15/o-cofundador-da-telexfree-carlos-wanzeler-e-a-mulher-katia-em-foto-publicada-em-rede-social-1400193047213_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-30 23:05:27
 pub_date: 2023-01-30 23:05:27
 time_added: 2023-02-06 23:17:03
-category: 
+categories: [malditos milicos, refletimos]
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Liliacrop.png1/alternates/LANDSCAPE_768/Liliacrop.png
 ---

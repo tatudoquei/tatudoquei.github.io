@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-05 23:31:38
 pub_date: 2019-04-05 23:31:38
 time_added: 2020-03-31 20:13:10
-category: 
+categories: []
 tags: []
 image: https://ep00.epimg.net/brasil/imagenes/2019/04/01/cultura/1554136024_994794_1554486859_rrss_normal.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-16 07:00:00
 pub_date: 2021-06-16 07:00:00
 time_added: 2021-06-19 20:11:23
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d0/2020/05/04/assinatura-do-termo-de-posse-do-diretor-geral-da-pf-rolando-alexandre-de-souza-1588607574296_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-27 04:18:03
 pub_date: 2021-05-27 04:18:03
 time_added: 2021-05-27 06:18:03
-category: 
+categories: []
 tags: []
 image: https://cultura.uol.com.br/upload/tvcultura/noticias/happens_big/20210526185734_befunky-collage.png
 ---

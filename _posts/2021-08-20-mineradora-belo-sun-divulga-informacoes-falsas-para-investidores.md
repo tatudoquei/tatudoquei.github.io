@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-20 23:52:15
 pub_date: 2021-08-20 23:52:15
 time_added: 2021-08-20 20:52:15
-category: 
+categories: []
 tags: []
 image: https://www.socioambiental.org/sites/blog.socioambiental.org/files/styles/twitter-card/public/nsa/rs22137_canoada_xingu_2018_143.jpg?itok=eaGGkyi5
 ---

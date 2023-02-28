@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-01 08:50:33
 pub_date: 2019-03-01 08:50:33
 time_added: 2019-03-04 12:42:30
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2017/11/Escola-sem-partido.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-18 17:28:00
 pub_date: 2022-10-18 17:28:00
 time_added: 2022-10-22 18:16:39
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/4a/2022/10/18/lula-aparece-ao-lado-do-apresentador-igor-nos-bastidores-do-flow-podcast-1666131265013_v2_615x300.jpg
 ---

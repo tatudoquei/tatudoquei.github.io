@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-19 07:49:00
 pub_date: 2020-03-19 07:49:00
 time_added: 2020-03-19 20:01:24
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/brasil/24314286-6f9-68b/FT1086A/652/Dom-Antonio-e-Dom-Rafael-1.png
 ---

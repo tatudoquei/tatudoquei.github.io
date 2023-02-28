@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-12 13:24:00
 pub_date: 2020-06-12 13:24:00
 time_added: 2020-06-13 07:05:45
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b1/2020/06/12/9jun2020---saida-do-presidente-jair-bolsonaro-do-palacio-da-alvorada-em-brasilia-df-1591967125443_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-07 00:23:51
 pub_date: 2020-05-07 00:23:51
 time_added: 2020-05-07 12:32:12
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/05/RodrigoMaia-SalaoVerde-Entrevista-Coronavirus-Sozinho-32-1-1200x630.jpg
 ---

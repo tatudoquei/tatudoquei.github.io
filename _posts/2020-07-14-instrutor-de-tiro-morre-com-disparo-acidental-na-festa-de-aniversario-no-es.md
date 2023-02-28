@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-14 11:47:00
 pub_date: 2020-07-14 11:47:00
 time_added: 2020-07-14 21:46:31
-category: 
+categories: []
 tags: []
 image: https://w3.i.uol.com.br/novas-midias/2012/07/04/bala-de-revolver-municao-arma-1341435353909_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-03 22:14:39
 pub_date: 2019-09-03 22:14:39
 time_added: 2019-09-04 22:56:05
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2019/09/CNPq.jpg
 ---

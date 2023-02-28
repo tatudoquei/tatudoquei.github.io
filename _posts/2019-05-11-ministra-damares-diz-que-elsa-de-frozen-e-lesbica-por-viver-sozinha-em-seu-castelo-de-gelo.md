@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-11 23:00:57
 pub_date: 2019-05-11 23:00:57
 time_added: 2019-05-13 11:13:28
-category: 
+categories: []
 tags: []
 image: https://odia.ig.com.br/_midias/jpg/2019/03/07/700x470/1_vac_abr_01031912335-10080530.jpg
 ---

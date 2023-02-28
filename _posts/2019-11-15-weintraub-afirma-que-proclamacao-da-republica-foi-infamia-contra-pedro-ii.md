@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-15 09:07:00
 pub_date: 2019-11-15 09:07:00
 time_added: 2019-11-16 15:26:55
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24034226-899-588/FT1086A/652/84987709_BSBBrasiliaBrasil04-10-2019O-ministro-da-Educacao-Abraham-Weintraub-concede-en.jpg
 ---

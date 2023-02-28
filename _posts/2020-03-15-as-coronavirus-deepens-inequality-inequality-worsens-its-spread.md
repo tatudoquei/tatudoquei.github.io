@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-15 17:10:55
 pub_date: 2020-03-15 17:10:55
 time_added: 2020-03-15 22:18:22
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/03/16/world/16virus-leadall-print/merlin_170529987_dc18f6bc-f8bf-41cd-980b-3ba0d7ec22df-facebookJumbo.jpg
 ---

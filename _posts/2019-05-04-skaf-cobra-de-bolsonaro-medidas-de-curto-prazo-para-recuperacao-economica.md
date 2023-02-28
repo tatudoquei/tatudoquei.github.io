@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-04 14:54:47
 pub_date: 2019-05-04 14:54:47
 time_added: 2019-05-07 06:33:38
-category: 
+categories: []
 tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2013/12/Paulo-Skaf-Fiesp-e1556981570798.jpg
 ---

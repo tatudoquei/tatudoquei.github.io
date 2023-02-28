@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-08 10:30:36
 pub_date: 2020-04-08 10:30:36
 time_added: 2020-04-08 12:30:36
-category: 
+categories: []
 tags: []
 image: https://sao-paulo.estadao.com.br/blogs/seus-direitos/wp-content/uploads/sites/146/2020/02/1132-700_280220202940.jpg
 ---

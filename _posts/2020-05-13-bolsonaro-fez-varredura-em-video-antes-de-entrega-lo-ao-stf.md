@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-13 02:00:00
 pub_date: 2020-05-13 02:00:00
 time_added: 2020-05-13 11:28:25
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/lLH84JOgo5SHutJ2Nh9rcE1eLlM=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2020/04/04/87700123_in_this_file_picture_taken_on_december_13_2019_brazilian_president_jair_bolsonaro_attends_t.jpg
 ---

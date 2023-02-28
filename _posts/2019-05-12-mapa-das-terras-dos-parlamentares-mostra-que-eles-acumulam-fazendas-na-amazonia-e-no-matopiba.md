@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-12 16:32:56
 pub_date: 2019-05-12 16:32:56
 time_added: 2019-05-16 19:02:48
-category: 
+categories: []
 tags: []
 image: https://deolhonosruralistas.com.br/wp-content/uploads/2019/04/mapa.png
 ---

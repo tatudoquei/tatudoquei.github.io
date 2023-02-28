@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-17 08:22:00
 pub_date: 2020-01-17 08:22:00
 time_added: 2020-01-18 22:37:52
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24147867-225-761/FT1086A/652/85581014_BRASILIA-DF-07112019Entrevista-exclusiva-com-o-Presidente-da-Camara-dos-Deputados-Rodrigo.jpg
 ---

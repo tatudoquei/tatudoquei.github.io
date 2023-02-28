@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-28 02:30:00
 pub_date: 2021-06-28 02:30:00
 time_added: 2021-07-04 12:38:08
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25079722-e0b-619/FT1086A/93431871_Rio-de-JaneiroRJ-17-06-2021-Palavras-do-Presidente-da-Republica-Jair-Bolsonaro.-Foto-Isa.jpg
 ---

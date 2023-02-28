@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-04 20:19:20
 pub_date: 2020-06-04 20:19:20
 time_added: 2020-12-02 21:31:32
-category: 
+categories: []
 tags: []
 image: https://www.nationalgeographic.com/content/dam/science/2020/05/29/Cinchona/cinchona-964866752.ngsversion.1591301960655.adapt.1900.1.jpg
 ---

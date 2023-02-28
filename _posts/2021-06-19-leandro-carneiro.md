@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-19 17:33:00
 pub_date: 2021-06-19 17:33:00
 time_added: 2021-06-19 20:17:22
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/c6/2021/06/17/cesar-tralli-no-jornal-hoje-1623961369005_v2_615x300.png
 ---

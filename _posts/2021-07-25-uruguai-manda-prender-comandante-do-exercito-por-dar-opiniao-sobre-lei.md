@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-25 16:50:22
 pub_date: 2018-09-13 00:52:00
 time_added: 2021-07-25 16:50:22
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/mundo/23063955-693-a72/FT1086A/62842820_PA-Sao-PauloSP21-11-2016O-presidente-do-Uruguai-Tabare-Vazqueznum-almoco-noLIDE.jpg
 ---

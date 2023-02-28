@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-31 07:23:34
 pub_date: 2018-09-19 12:10:01
 time_added: 2019-07-31 07:23:34
-category: 
+categories: []
 tags: []
 image: https://cdn.vox-cdn.com/thumbor/zU_VEmE8yrVN65guGzdQId9S2Vg=/0x66:446x300/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13110813/stock_photo_nazi_german_soldiers_at_the_nuremberg_rally_september_251930365.jpg
 ---

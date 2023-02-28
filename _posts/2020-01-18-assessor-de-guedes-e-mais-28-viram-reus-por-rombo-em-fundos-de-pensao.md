@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-18 00:44:39
 pub_date: 2020-01-18 00:44:39
 time_added: 2020-03-01 19:50:06
-category: 
+categories: []
 tags: []
 image: https://www.infomoney.com.br/wp-content/uploads/2019/06/esteves-colnago.jpg?fit=900%2C600&quality=75&strip=all
 ---

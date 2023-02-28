@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-05 14:11:00
 pub_date: 2020-08-05 14:11:00
 time_added: 2020-08-06 07:17:47
-category: 
+categories: []
 tags: []
 image: https://darwinedeus.blogfolha.uol.com.br/files/2020/04/coronitos.jpg
 ---

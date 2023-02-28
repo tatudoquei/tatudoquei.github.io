@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-21 14:02:00
 pub_date: 2019-02-21 14:02:00
 time_added: 2019-02-23 19:17:22
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/4f/2019/01/15/bancos-banco-dividas-juros-endividamento-inadimplencia-dinheiro-credito-1547585308908_v2_615x300.jpg
 ---

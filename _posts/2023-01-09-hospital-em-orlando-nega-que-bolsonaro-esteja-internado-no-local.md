@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-09 20:29:00
 pub_date: 2023-01-09 20:29:00
 time_added: 2023-01-14 14:17:19
-category: 
+categories: []
 tags: []
 image: https://i.em.com.br/b429PPr6iMZ70y8ytFK3eBhkBCA=/600x315/smart/imgsapp.em.com.br/app/noticia_127983242361/2023/01/09/1442713/jair-bolsonaro-_1_50658.jpg
 ---

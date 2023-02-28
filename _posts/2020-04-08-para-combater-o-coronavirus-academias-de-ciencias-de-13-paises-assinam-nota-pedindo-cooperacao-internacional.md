@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-08 06:52:00
 pub_date: 2020-04-08 06:52:00
 time_added: 2020-04-08 21:52:24
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24352741-71a-c71/FT1086A/652/57417655_RG-Rio-de-Janeiro-RJ28-04-2016-Cientistas-Luiz-Davidovich-fisico.-FotoFernando-L.jpg
 ---

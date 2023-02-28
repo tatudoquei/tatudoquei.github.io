@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-24 22:00:00
 pub_date: 2020-06-24 22:00:00
 time_added: 2020-06-26 12:44:30
-category: 
+categories: []
 tags: []
 image: http://imagem.band.com.br/f_479313.jpg
 ---

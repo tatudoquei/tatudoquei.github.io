@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-07 02:00:00
 pub_date: 2021-04-07 02:00:00
 time_added: 2021-04-10 21:04:45
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/c5/2021/04/06/arquivo-pessoalcirurgiao-ortopedista-marcelo-abdalla-khouri-1617732300613_v2_615x300.jpg
 ---

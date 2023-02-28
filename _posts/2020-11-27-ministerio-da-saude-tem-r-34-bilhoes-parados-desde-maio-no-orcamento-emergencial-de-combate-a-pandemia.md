@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-27 03:00:00
 pub_date: 2020-11-27 03:00:00
 time_added: 2020-11-27 12:36:27
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24754435-0db-3b1/FT1086A/652/UTIeinstein.jpg
 ---

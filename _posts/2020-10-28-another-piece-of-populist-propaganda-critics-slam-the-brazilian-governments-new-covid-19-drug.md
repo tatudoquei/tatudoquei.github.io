@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-28 17:00:00
 pub_date: 2020-10-28 17:00:00
 time_added: 2020-10-28 20:14:28
-category: 
+categories: []
 tags: []
 image: https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/bolsonaro_thumbnail_1280p.jpg?itok=gzsyMEuE
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-13 16:29:11
 pub_date: 2020-01-13 16:29:11
 time_added: 2020-01-18 12:12:06
-category: 
+categories: []
 tags: []
 image: https://extra.globo.com/incoming/23547368-75d-dcf/w976h550-PROP/marica-png.jpg
 ---

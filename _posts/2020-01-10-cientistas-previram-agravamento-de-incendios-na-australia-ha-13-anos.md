@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-10 23:00:00
 pub_date: 2020-01-10 23:00:00
 time_added: 2020-01-07 19:51:16
-category: refletimos
+categories: [refletimos]
 tags: [ciência]
 image: https://s2.glbimg.com/a1Z8m1QrtdFOhgpAO2YdbCF1_uU=/512x320/smart/e.glbimg.com/og/ed/f/original/2020/01/06/2019-12-21t044000z_978822215_rc2gzd9v92ey_rtrmadp_3_australia-bushfires.jpg
 ---

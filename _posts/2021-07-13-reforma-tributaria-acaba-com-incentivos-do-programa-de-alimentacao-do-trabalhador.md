@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-13 19:56:00
 pub_date: 2021-07-13 19:56:00
 time_added: 2021-07-25 16:59:11
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25076609-4b8-fd8/FT1086A/reforma-tributaria.jpg
 ---

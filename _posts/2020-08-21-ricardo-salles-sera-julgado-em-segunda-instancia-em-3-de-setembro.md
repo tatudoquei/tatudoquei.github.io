@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-21 18:32:45
 pub_date: 2020-08-21 18:32:45
 time_added: 2020-08-29 22:33:33
-category: 
+categories: []
 tags: []
 image: https://www.redebrasilatual.com.br/wp-content/uploads/2020/08/Salles.jpg
 ---

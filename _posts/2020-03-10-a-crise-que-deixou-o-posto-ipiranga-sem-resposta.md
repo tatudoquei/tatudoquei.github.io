@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-10 00:12:36
 pub_date: 2020-03-10 00:12:36
 time_added: 2020-03-10 01:12:36
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2020/03/bolsa_redes_10032020.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-19 07:25:00
 pub_date: 2019-07-19 07:25:00
 time_added: 2019-07-19 22:58:37
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/62/2019/06/04/24fev2016---sede-da-fiocruz-no-rio-de-janeiro-1559699851311_v2_750x421.jpg
 ---

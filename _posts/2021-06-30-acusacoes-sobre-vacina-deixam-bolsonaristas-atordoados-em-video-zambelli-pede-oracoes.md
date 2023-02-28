@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-30 01:15:00
 pub_date: 2021-06-30 01:15:00
 time_added: 2021-07-04 12:44:54
-category: 
+categories: []
 tags: []
 image: https://saidapeladireita.blogfolha.uol.com.br/files/2021/06/carla.jpeg
 ---

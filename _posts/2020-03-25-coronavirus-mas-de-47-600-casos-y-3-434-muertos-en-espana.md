@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-25 10:39:25
 pub_date: 2020-03-25 10:39:25
 time_added: 2020-03-25 12:45:38
-category: 
+categories: []
 tags: []
 image: https://www.newtral.es/wp-content/uploads/2020/03/55003378440-FF-CORONAVIRUS-RP-FERNANDO-SIMON-COMITE-GESTION-TECNICA-JOSE-MARIA-CUADRADO-EFE-20200318-scaled.jpg
 ---

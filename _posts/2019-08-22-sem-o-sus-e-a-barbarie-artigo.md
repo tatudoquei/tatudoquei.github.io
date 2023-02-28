@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-22 16:00:01
 pub_date: 2019-08-22 16:00:01
 time_added: 2019-11-20 21:48:30
-category: 
+categories: []
 tags: []
 image: https://drauziovarella.uol.com.br/wp-content/uploads/2019/08/Depositphotos_150950646_s-2019-e1566500208771.jpg
 ---

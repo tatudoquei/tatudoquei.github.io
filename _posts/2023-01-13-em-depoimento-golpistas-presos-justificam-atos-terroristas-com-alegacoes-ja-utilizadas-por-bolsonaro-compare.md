@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-13 21:53:10
 pub_date: 2023-01-13 21:53:10
 time_added: 2023-01-14 14:40:27
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/yUPLNq6yIBLeG2iuD6VIwWHEVug=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/P/B/4zFct2QeiIfpddnYNlnw/bolsonaro-em-live-que-admitiu-nao-ter-provas-de-fraude-nas-urnas-eletronicas.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-18 00:23:36
 pub_date: 2019-02-18 00:23:36
 time_added: 2019-02-18 23:59:13
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2019/02/sobrinho.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-07 16:46:28
 pub_date: 2019-09-07 16:46:28
 time_added: 2019-09-08 09:50:09
-category: 
+categories: []
 tags: []
 image: http://scd.br.rfi.fr/sites/brasil.filesrfi/dynimagecache/0/0/3000/1695/1024/578/sites/images.rfi.fr/files/aefimagesnew/aef_image/tiphaine.jpg
 ---

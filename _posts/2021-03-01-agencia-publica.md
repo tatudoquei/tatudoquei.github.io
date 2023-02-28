@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-01 17:57:39
 pub_date: 2021-03-01 17:57:39
 time_added: 2022-11-12 14:16:51
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/03/copia-de-thumb-facebook-22.png
 ---

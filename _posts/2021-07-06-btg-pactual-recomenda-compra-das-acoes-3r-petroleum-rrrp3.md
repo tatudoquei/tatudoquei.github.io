@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-06 15:56:33
 pub_date: 2021-07-06 15:56:33
 time_added: 2021-07-25 17:01:18
-category: 
+categories: []
 tags: []
 image: https://einvestidor.estadao.com.br/wp-content/uploads/sites/715/2020/04/working-oil-pump-in-deserted-district-in-the-brigh-t2u8fy5_200420202156.jpg
 ---

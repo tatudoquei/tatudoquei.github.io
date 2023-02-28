@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-30 15:01:16
 pub_date: 2021-04-30 15:01:16
 time_added: 2021-05-23 08:01:17
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/04/mourao-facebook.png
 ---

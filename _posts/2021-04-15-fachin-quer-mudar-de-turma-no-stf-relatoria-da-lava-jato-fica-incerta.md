@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-15 12:35:00
 pub_date: 2021-04-15 12:35:00
 time_added: 2021-05-16 20:26:06
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/86/2021/03/02/ministro-edson-fachin-do-supremo-1614680204966_v2_615x300.jpg
 ---

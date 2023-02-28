@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-10 10:12:07
 pub_date: 2022-11-10 10:12:07
 time_added: 2022-11-12 14:24:19
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/d-qmjttAtEFwSpCfZDV3x0ylAvk=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/O/b/D1RSRYQgmXZ1nEV5AHjQ/98351031-mariz-pa-brasilia-28-03-2022-filiacao-sergio-camargo-evento-de-filiacao-dos-ministros-d.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-12 21:45:00
 pub_date: 2021-01-12 21:45:00
 time_added: 2021-01-13 20:08:28
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/98/2021/01/12/a-senadora-simone-tebet-mdb-ms-durante-sessao-da-ccj-comissao-de-constituicao-e-justica-1610473917758_v2_615x300.jpg
 ---

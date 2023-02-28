@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-21 03:34:17
 pub_date: 2020-10-21 03:34:17
 time_added: 2020-10-21 05:34:17
-category: 
+categories: []
 tags: []
 image: https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/cdhm/noticias/201cgovernador-o-centro-de-umbanda-ja-foi-pro-chao201d-a-violencia-contra-povos-e-comunidades-tradicionais-de-matriz-africana/image_large
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-30 09:15:13
 pub_date: 2019-05-30 09:15:13
 time_added: 2019-05-30 17:54:26
-category: 
+categories: []
 tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2019/05/weintraub-bolsonaro-1.jpg
 ---

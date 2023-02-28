@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-10 07:30:00
 pub_date: 2021-01-10 07:30:00
 time_added: 2021-01-11 15:59:08
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24831507-c2b-be6/FT1086A/652/91103203_E-para-a-montadora-alema-BMW-que-o-engenheiro-da-computacao-especia.jpg
 ---

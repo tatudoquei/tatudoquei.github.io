@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-11 18:57:00
 pub_date: 2020-05-11 18:57:00
 time_added: 2022-09-11 10:46:10
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24227756-d97-cfe/FT1086A/760/xexercito-academia-militar-das-agulhas-negras.jpg.pagespeed.ic.OgwhTryv5r.jpg
 ---

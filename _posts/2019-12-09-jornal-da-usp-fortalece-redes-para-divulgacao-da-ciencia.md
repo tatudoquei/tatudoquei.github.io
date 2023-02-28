@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-09 21:11:14
 pub_date: 2019-12-09 21:11:14
 time_added: 2019-12-09 23:30:55
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/12/20191209_jornal_ciencias.jpg
 ---

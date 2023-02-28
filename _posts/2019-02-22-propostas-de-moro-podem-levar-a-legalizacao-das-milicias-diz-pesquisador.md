@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-22 04:36:00
 pub_date: 2019-02-22 04:36:00
 time_added: 2019-05-04 17:36:53
-category: 
+categories: []
 tags: []
 image: https://cdnbr1.img.sputniknews.com/images/390/43/3904348.jpg
 ---

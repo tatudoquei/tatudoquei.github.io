@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-22 12:30:00
 pub_date: 2021-02-22 12:30:00
 time_added: 2021-02-25 00:20:50
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2021/02/universidade-redes.jpg
 ---

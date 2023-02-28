@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-20 07:00:00
 pub_date: 2021-01-20 07:00:00
 time_added: 2021-01-20 15:54:20
-category: avisamos
+categories: [avisamos]
 tags: [saúde]
 image: https://conteudo.imguol.com.br/c/noticias/9f/2021/01/18/18jan2021---profissionais-de-saude-do-hospital-das-clinicas-de-sp-sao-vacinados-com-a-vacina-coronavac-no-centro-de-convencoes-reboucas-em-sao-paulo-1610984107071_v2_750x421.jpg
 ---

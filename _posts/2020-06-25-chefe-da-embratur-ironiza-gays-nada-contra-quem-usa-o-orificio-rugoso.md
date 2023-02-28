@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-25 02:34:11
 pub_date: 2020-06-25 02:34:11
 time_added: 2020-06-26 06:01:48
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2019/05/29192004/Gilson-Machado.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-03 16:13:00
 pub_date: 2019-09-03 16:13:00
 time_added: 2020-01-19 23:47:14
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23924348-9ae-7f7/FT1086A/652/Molyneux-Salles.png
 ---

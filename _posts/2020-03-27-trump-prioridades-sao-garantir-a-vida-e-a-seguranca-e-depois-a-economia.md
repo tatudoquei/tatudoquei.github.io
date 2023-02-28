@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-27 20:06:00
 pub_date: 2020-03-27 20:06:00
 time_added: 2020-03-28 08:39:46
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/31/2020/02/27/26fev2020---o-presidente-dos-eua-donald-trump-concede-entrevista-coletiva-na-casa-branca-ao-lado-do-vice-presidente-mike-pence-1582803824919_v2_615x300.jpg
 ---

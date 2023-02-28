@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-10 10:40:00
 pub_date: 2019-09-10 10:40:00
 time_added: 2019-09-17 22:51:05
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23938687-848-242/FT1086A/652/84512510_BSBBrasiliaBrasil10-09-2019Os-coordenadores-dos-Programas-de-Pos-graducao-da-a.jpg
 ---

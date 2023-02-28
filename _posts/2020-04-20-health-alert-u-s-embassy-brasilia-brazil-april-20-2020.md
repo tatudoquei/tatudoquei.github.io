@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-20 20:00:05
 pub_date: 2020-04-20 20:00:05
 time_added: 2020-04-21 21:02:39
-category: 
+categories: []
 tags: []
 image: https://d2v9ipibika81v.cloudfront.net/uploads/sites/32/website-banner-flights-750.png
 ---

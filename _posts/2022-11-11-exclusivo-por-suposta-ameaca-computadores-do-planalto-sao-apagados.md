@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-11 10:54:57
 pub_date: 2022-11-11 10:54:57
 time_added: 2022-11-12 14:24:38
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2022/07/15163847/Foto-palacio-do-planalto-1.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-06 09:43:54
 pub_date: 2020-04-06 09:43:54
 time_added: 2020-04-02 21:37:43
-category: 
+categories: []
 tags: []
 image: https://noticias.ufsc.br/files/2020/04/DestaqueMascara.jpg
 ---

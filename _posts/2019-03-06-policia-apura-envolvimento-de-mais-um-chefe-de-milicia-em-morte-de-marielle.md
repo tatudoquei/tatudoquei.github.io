@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-06 03:00:00
 pub_date: 2019-03-06 03:00:00
 time_added: 2019-03-07 01:00:25
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/6a/2019/03/05/5mar2019----o-policial-civil-rafael-luz-souza-e-apontado-como-chefe-de-milicia-na-zona-oeste-do-rio-1551798300068_v2_615x300.jpg
 ---

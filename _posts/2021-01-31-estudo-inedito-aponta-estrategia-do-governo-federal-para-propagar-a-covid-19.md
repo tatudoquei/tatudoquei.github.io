@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-31 19:03:25
 pub_date: 2021-01-31 19:03:25
 time_added: 2021-01-31 20:03:25
-category: 
+categories: []
 tags: []
 image: https://www.conectas.org/wp/wp-content/uploads/2021/01/boletim10_10x15.jpg
 ---

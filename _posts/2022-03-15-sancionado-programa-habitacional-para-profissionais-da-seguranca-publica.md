@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-03-15 12:31:12
 pub_date: 2022-03-15 12:31:12
 time_added: 2022-09-11 10:47:09
-category: 
+categories: []
 tags: []
 image: https://www12.senado.leg.br/noticias/materias/2022/03/15/sancionado-programa-habitacional-para-profissionais-da-seguranca-publica/20220216_01743mo.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-19 08:15:00
 pub_date: 2020-07-19 08:15:00
 time_added: 2020-07-19 22:11:11
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/9e/2017/09/06/montes-claros-mg-1504704138310_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-12 03:00:00
 pub_date: 2019-03-12 03:00:00
 time_added: 2019-03-18 19:37:49
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://s2.glbimg.com/RNuzBQyN-9ez2I-8Jm0kjEWBmww=/640x424/top/i.glbimg.com/og/ig/infoglobo1/f/original/2018/11/26/80004318_soc_rio_de_janeiro_rj_o_filosofo_olavo_de_carvalho._foto_divulgacao.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-01-22 11:01:00
 pub_date: 2022-01-22 11:01:00
 time_added: 2022-03-22 20:30:17
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2022/01/damares-queiroga-redes.jpg
 ---

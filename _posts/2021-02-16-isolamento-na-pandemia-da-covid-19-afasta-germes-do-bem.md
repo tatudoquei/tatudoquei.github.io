@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-16 07:30:00
 pub_date: 2021-02-16 07:30:00
 time_added: 2021-02-18 07:16:19
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24884965-e4d-a31/FT1086A/652/alcool.jpg
 ---

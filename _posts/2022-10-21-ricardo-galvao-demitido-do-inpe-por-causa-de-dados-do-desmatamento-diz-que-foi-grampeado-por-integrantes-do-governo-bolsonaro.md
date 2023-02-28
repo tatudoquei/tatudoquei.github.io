@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-21 16:06:00
 pub_date: 2022-10-21 16:06:00
 time_added: 2022-10-28 20:39:20
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/VCHKsfHl6XUcZ6DckEcduTpoytk=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/u/W/KVIOrPTVKvYqUanBm9Nw/93609468-sao-jose-dos-campos-sp-31-08-2018-brasil-china-brasil-e-china-comemoram-no-inpe-a-1-.jpg
 ---

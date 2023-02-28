@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-05 04:00:00
 pub_date: 2020-07-05 04:00:00
 time_added: 2020-07-05 22:52:14
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/vj_sfkBwKf2bUmcnjJNSNkmPSzE=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2020/06/18/captura_de_tela_2020-06-18_as_11.52.39.png
 ---

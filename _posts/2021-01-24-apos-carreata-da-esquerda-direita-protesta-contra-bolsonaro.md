@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-24 11:51:00
 pub_date: 2021-01-24 11:51:00
 time_added: 2021-01-25 21:37:55
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/55/2021/01/24/manifestantes-de-direita-fazem-carreata-contra-bolsonaro-neste-domingo-1611502848641_v2_615x300.jpg
 ---

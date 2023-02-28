@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-20 18:43:14
 pub_date: 2020-07-20 18:43:14
 time_added: 2020-07-20 20:43:14
-category: 
+categories: []
 tags: []
 image: http://pioneiro.rbsdirect.com.br/imagesrc/25734397.jpg?w=600
 ---

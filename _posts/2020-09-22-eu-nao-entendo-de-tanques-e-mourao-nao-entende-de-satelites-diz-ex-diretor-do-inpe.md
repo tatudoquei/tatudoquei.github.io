@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-22 17:59:00
 pub_date: 2020-09-22 17:59:00
 time_added: 2020-09-23 22:29:16
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24654461-3b5-cab/FT1086A/652/gilbertocamara.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-02 02:03:00
 pub_date: 2020-08-02 02:03:00
 time_added: 2020-08-07 19:45:56
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/08/deltan-eua-redes.jpg
 ---

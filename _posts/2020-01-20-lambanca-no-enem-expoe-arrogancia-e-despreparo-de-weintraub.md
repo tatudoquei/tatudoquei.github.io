@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-20 23:00:00
 pub_date: 2020-01-20 23:00:00
 time_added: 2020-01-21 21:56:41
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/eo_aGrcvfJ1ybtvVQ3pW-CwO8A4=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/12/26/86020612_bsb_-_brasilia_-_brasil_-_05-12-2019_-_educacao_-_mec_lanca_conta_pra_mim_-_o_ministro_da.jpg
 ---

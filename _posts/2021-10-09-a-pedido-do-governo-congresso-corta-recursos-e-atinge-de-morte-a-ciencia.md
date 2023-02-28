@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-09 02:26:24
 pub_date: 2021-10-09 02:26:24
 time_added: 2021-10-17 14:56:17
-category: avisamos
+categories: [avisamos]
 tags: [ciência]
 image: https://brasilamazoniaagora.com.br/wp-content/uploads/2021/10/Marcos-Pontes-e-Jair-Bolsonaro.jpg
 ---

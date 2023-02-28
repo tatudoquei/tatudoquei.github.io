@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-26 23:11:28
 pub_date: 2022-10-26 23:11:28
 time_added: 2022-10-30 16:13:45
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/coluna-do-estadao/wp-content/uploads/sites/352/2016/06/haddad-rafael-arbex.jpg
 ---

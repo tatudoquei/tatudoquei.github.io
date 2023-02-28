@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-28 12:00:15
 pub_date: 2020-07-28 12:00:15
 time_added: 2020-07-28 23:49:08
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2020/07/FELIPE-NETO-INSTAGRAM-@FELIPENETO-18-2020.jpg.jpg?quality=70&strip=info&w=500&h=453&crop=1
 ---

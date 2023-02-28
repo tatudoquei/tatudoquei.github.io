@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-22 08:13:00
 pub_date: 2020-09-22 08:13:00
 time_added: 2020-09-23 22:30:42
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24653268-81f-372/FT1086A/652/xAugustoHeleno.jpg.pagespeed.ic.r6zegA1oWf.jpg
 ---

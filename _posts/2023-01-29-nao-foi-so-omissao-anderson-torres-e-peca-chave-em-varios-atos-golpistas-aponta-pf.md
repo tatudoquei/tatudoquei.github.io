@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-29 16:00:00
 pub_date: 2023-01-29 16:00:00
 time_added: 2023-01-30 00:06:48
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2023/01/19545041-high-anderson-torres-atos-golpistas-redes.jpg
 ---

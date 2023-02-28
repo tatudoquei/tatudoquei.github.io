@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-24 13:29:29
 pub_date: 2023-01-24 13:29:29
 time_added: 2023-01-25 23:27:34
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2023/01/Capa_Facebook_Coluna-Rubens_So-comparavel-a-Africa-Subsaariana-um-terco-das-criancas-Yanomami-tem-deficit-de-peso.png
 ---

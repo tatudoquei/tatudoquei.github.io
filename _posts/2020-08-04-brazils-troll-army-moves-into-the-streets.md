@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-04 09:00:22
 pub_date: 2020-08-04 09:00:22
 time_added: 2020-08-04 13:21:04
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/08/05/opinion/05campos/04campos-facebookJumbo.jpg
 ---

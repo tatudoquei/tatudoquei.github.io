@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-07 17:28:57
 pub_date: 2020-03-07 17:28:57
 time_added: 2020-03-07 18:28:57
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/03/ibama-redes-1583268308.jpg
 ---

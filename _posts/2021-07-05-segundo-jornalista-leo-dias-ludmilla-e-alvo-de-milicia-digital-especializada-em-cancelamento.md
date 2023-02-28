@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-05 20:26:24
 pub_date: 2021-07-05 20:26:24
 time_added: 2021-07-25 16:44:13
-category: 
+categories: []
 tags: []
 image: https://mundonegro.inf.br/wp-content/uploads/2021/07/Design-sem-nome-2-2.png
 ---

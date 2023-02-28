@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-16 00:24:49
 pub_date: 2021-12-16 00:24:49
 time_added: 2021-12-24 20:07:18
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2021/10/21134419/Bolsonaro-12-e1638907546533.jpeg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-01 18:49:00
 pub_date: 2020-12-01 18:49:00
 time_added: 2020-12-04 20:23:48
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c3/2020/12/01/detalhe-do-arquivo-produzido-pelo-governo-que-separa-jornalistas-e-formadores-de-opiniao-entre-detratores-neutros-informativos-e-favoraveis-1606848961680_v2_615x300.jpg
 ---

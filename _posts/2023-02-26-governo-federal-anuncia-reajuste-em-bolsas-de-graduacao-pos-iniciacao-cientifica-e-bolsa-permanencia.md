@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-26 20:48:22
 pub_date: 2023-02-26 20:48:22
 time_added: 2023-02-26 17:48:22
-category: 
+categories: []
 tags: []
 image: https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2023/02/governo-federal-anuncia-reajuste-em-bolsas-de-graduacao-pos-iniciacao-cientifica-e-bolsas-permanencia/15022023_universidade1080.jpg/@@images/ab98f967-7b13-49fc-8ce3-51b63c53d74c.jpeg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-17 13:57:00
 pub_date: 2020-03-17 13:57:00
 time_added: 2020-03-19 19:35:14
-category: 
+categories: []
 tags: []
 image: https://www.bahianoticias.com.br/fotos/municipios_noticias/19785/IMAGEM_NOTICIA_9.jpg
 ---

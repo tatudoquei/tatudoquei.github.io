@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-08 21:31:16
 pub_date: 2019-08-08 21:31:16
 time_added: 2019-08-11 07:23:56
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/20180131_00_reator_nuclear2.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-04 15:23:54
 pub_date: 2021-03-04 15:23:54
 time_added: 2021-09-25 17:19:36
-category: 
+categories: []
 tags: []
 image: https://i2.wp.com/jornal.usp.br/wp-content/uploads/2020/08/20200807_covid2.jpg?fit=800%2C420&ssl=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-10 13:03:09
 pub_date: 2023-02-10 13:03:09
 time_added: 2023-02-26 18:35:00
-category: 
+categories: []
 tags: []
 image: https://infoamazonia.org/wp-content/uploads/2023/02/840761e7a5e5d31a7ba8760524b1fbd405eee250_1.jpeg
 ---

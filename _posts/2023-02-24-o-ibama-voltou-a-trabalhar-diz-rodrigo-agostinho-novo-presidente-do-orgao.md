@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-24 19:47:11
 pub_date: 2023-02-24 19:47:11
 time_added: 2023-02-26 09:28:39
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2023/02/Capa_Facebook_O-Ibama-voltou-a-trabalhar-diz-Rodrigo-Agostinho-novo-presidente-do-orgao.png
 ---

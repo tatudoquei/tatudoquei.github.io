@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-09 16:06:00
 pub_date: 2020-10-09 16:06:00
 time_added: 2020-10-10 07:01:14
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2020/10/bar_redes_09102020.jpg
 ---

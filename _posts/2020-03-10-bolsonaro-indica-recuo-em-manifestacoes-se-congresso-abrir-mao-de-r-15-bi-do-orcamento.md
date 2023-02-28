@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-10 00:29:17
 pub_date: 2020-03-10 00:29:17
 time_added: 2020-03-10 01:46:20
-category: recuadas
+categories: [recuadas]
 tags: []
 image: https://img.estadao.com.br/resources/jpg/2/8/1583798730582.jpg
 ---

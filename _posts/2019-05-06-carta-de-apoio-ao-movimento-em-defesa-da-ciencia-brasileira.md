@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-06 20:29:14
 pub_date: 2019-05-06 20:29:14
 time_added: 2019-05-07 06:17:04
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2018/12/20190110_Ciencias_dos_Alimentos.jpg
 ---

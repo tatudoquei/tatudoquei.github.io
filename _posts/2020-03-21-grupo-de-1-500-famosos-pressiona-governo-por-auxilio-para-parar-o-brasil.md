@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-21 23:07:00
 pub_date: 2020-03-21 23:07:00
 time_added: 2020-03-22 17:29:56
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/3a/2019/09/05/gio-e-bruno-gagliasso-estao-na-amazonia-a-convite-do-greenpeace-1567690135421_v2_615x300.jpg
 ---

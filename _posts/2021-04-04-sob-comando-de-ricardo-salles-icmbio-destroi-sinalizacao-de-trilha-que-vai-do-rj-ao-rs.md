@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-04 04:30:00
 pub_date: 2021-04-04 04:30:00
 time_added: 2021-04-05 09:52:14
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/L5sw5AozomBIcKjP238YCYyhYX4=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2021/04/02/palmeira_sinalizacao_do_projeto_coberta_com_tinta_branca.jpg
 ---

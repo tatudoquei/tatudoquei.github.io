@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-10 20:07:00
 pub_date: 2021-02-10 20:07:00
 time_added: 2021-02-18 13:03:38
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24140612-e57-46e/FT1086A/652/villas-boas.jpg
 ---

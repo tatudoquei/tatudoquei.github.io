@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-26 23:24:55
 pub_date: 2019-12-26 23:24:55
 time_added: 2019-12-27 00:41:06
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/DugxcjS-8YRwzzWjSGQXJvrfox8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/I/T/YUG0F3SV21KVBx7x3sjg/whatsapp-image-2019-10-25-at-07.11.02.jpeg
 ---

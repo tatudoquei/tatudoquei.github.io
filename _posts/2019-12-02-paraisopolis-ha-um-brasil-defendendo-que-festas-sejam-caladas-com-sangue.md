@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-02 17:55:00
 pub_date: 2019-12-02 17:55:00
 time_added: 2019-12-03 21:15:49
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/12/protesto-paraisopolis-1-615x300.jpg
 ---

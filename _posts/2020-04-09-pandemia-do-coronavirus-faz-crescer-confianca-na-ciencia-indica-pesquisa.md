@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-09 10:31:00
 pub_date: 2020-04-09 10:31:00
 time_added: 2020-04-10 19:59:42
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/sociedade/24361242-19f-d7a/FT1086A/652/87734234_A-scientist-uses-a-microscope-to-examine-the-special-layer-of-the-SilverMask-reusable-face.jpg
 ---

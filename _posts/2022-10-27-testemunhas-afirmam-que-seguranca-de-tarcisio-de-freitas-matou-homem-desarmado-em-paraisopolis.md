@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-27 21:12:00
 pub_date: 2022-10-27 21:12:00
 time_added: 2022-10-28 21:08:25
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2022/10/22032686-high-tarcisio-paraisopolis-tiroteio-campanha-sao-paulo-redes1.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-22 16:10:00
 pub_date: 2020-01-22 16:10:00
 time_added: 2020-01-22 23:41:51
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2e/2019/12/23/esplanada-dos-ministerios-e-congresso-nacional-em-brasilia-1577112153357_v2_615x300.jpg
 ---

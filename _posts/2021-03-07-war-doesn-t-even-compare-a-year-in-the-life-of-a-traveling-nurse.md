@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-07 23:00:00
 pub_date: 2021-03-07 23:00:00
 time_added: 2021-03-10 18:38:19
-category: 
+categories: []
 tags: []
 image: https://media.npr.org/assets/img/2021/03/08/nic-with-papr-in-ca-jpeg-original-2_wide-f3f33447f44bfec94e34cf5c65b94daf329e04e0.jpg?s=1400
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-29 07:28:00
 pub_date: 2020-07-29 07:28:00
 time_added: 2020-07-29 22:17:27
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24464061-821-97e/FT1086A/652/valedojava.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-21 08:15:00
 pub_date: 2021-02-21 08:15:00
 time_added: 2021-02-25 00:15:01
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2021/02/redes-daniel.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-29 20:00:52
 pub_date: 2020-09-29 20:00:52
 time_added: 2020-09-29 22:00:52
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c5/2020/09/29/menino-boia-em-area-de-manguezal-no-brasil-mangue-manguezais-1978-1601397998365_v2_750x1000.jpg
 ---

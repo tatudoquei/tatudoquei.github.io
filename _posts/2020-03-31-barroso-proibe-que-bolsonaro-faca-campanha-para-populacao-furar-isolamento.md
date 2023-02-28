@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-31 19:07:00
 pub_date: 2020-03-31 19:07:00
 time_added: 2020-04-01 05:20:56
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/83/2018/11/28/26set2018---ministro-luis-roberto-barroso-durante-sessao-do-stf-supremo-tribunal-federal-em-setembro-1543424848892_v2_615x300.jpg
 ---

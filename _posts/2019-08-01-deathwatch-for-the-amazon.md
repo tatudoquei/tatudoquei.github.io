@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-01 19:06:22
 pub_date: 2019-08-01 19:06:22
 time_added: 2019-08-01 21:06:22
-category: 
+categories: []
 tags: []
 image: https://www.economist.com/sites/default/files/images/print-edition/20190803_LDD001_0.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-07-14 09:00:00
 pub_date: 2022-07-14 09:00:00
 time_added: 2022-07-16 14:45:20
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2022/07/capa-facebook-madeireiros-foram-principais-beneficiados-por-canetada-de-bim-no-ibama.png
 ---

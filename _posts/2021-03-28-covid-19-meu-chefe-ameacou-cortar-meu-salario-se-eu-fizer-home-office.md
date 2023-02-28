@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-28 22:00:00
 pub_date: 2021-03-28 22:00:00
 time_added: 2021-03-29 23:24:32
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/B927/production/_117699374_1curitiba.jpg
 ---

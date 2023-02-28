@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-25 18:50:09
 pub_date: 2020-03-25 18:50:09
 time_added: 2020-03-25 19:48:39
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2020/03/crianc3a7as-com-coronavc3adrus-e1585162160693.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

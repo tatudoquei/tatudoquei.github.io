@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-23 17:42:00
 pub_date: 2019-05-23 17:42:00
 time_added: 2019-05-26 23:06:20
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23658151-27f-0ab/FT1086A/652/planalto.jpg
 ---

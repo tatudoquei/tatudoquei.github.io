@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-17 20:35:17
 pub_date: 2020-04-17 20:35:17
 time_added: 2020-04-20 20:36:52
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/04/20200417_00_ilustracao_ciencias.jpg
 ---

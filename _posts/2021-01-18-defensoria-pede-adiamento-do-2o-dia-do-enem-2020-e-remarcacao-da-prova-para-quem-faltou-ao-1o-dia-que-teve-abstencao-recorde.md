@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-18 21:54:09
 pub_date: 2021-01-18 21:54:09
 time_added: 2021-01-19 13:51:25
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/igiwXXmZP20O8GcxiSh_Epv4IPM=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/3/S/e42GtAROKoJVNgmqxM7g/inep-reaplicacao.jpg
 ---

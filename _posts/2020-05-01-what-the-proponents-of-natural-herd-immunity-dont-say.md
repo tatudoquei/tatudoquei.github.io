@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-01 19:00:03
 pub_date: 2020-05-01 19:00:03
 time_added: 2020-05-02 05:24:03
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/05/03/opinion/sunday/03Bergstrom/03Bergstrom-facebookJumbo.jpg
 ---

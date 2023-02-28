@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-18 15:59:44
 pub_date: 2019-11-18 15:59:44
 time_added: 2019-11-18 16:38:28
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2019/11/O-Eco_20190121_DJI.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-06 15:17:52
 pub_date: 2021-11-06 15:17:52
 time_added: 2021-11-13 13:15:42
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/AFSawypXwh3bK0q3UUMFLmZIPtc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/t/y/seRfB8TBS96tluiTAecw/merito-cientifico-atualidades-capa-20180803.jpeg
 ---

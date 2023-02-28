@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-04 15:16:48
 pub_date: 2019-06-04 15:16:48
 time_added: 2019-06-07 21:02:55
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2019/06/04062019-exmineducacao-05.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

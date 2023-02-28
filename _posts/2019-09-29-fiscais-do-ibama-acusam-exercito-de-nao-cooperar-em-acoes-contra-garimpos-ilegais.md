@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-29 19:17:00
 pub_date: 2019-09-29 19:17:00
 time_added: 2019-10-03 07:23:19
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23983835-ba9-c69/FT1086A/652/maquina_destruida_amazonia.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-30 14:46:20
 pub_date: 2020-03-30 14:46:20
 time_added: 2020-03-30 22:17:36
-category: 
+categories: []
 tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2020/03/Escola_de_Atenas_-Rafael.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-04 23:01:00
 pub_date: 2021-12-04 23:01:00
 time_added: 2021-12-13 14:48:21
-category: 
+categories: []
 tags: []
 image: https://i.glbimg.com/og/ig/infoglobo1/f/original/blog/image_share/opiniao.jpg
 ---

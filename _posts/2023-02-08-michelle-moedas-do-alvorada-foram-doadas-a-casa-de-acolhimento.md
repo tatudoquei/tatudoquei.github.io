@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-08 22:26:42
 pub_date: 2023-02-08 22:26:42
 time_added: 2023-02-26 18:37:29
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2022/12/29162915/diplomac%CC%A7a%CC%83o-cerimo%CC%82nia-do-Tribunal-Regional-Eleitoral-do-Distrito-Federal-TRE-DF-brasilia-eleicao-2022-12.jpeg
 ---

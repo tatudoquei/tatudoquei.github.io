@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-15 20:16:00
 pub_date: 2020-02-15 20:16:00
 time_added: 2020-02-16 08:57:38
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/41/2020/02/15/15fev2020---o-presidente-jair-bolsonaro-e-o-missionario-rr-soares-1581798410046_v2_300x225.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-15 22:44:00
 pub_date: 2020-05-15 22:44:00
 time_added: 2020-05-17 12:50:50
-category: 
+categories: []
 tags: []
 image: https://img.r7.com/images/walter-braga-netto-02042020172837425?dimensions=600x315&crop_position=c
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-29 17:05:00
 pub_date: 2020-11-29 17:05:00
 time_added: 2020-11-29 22:08:02
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a8/2020/11/22/22nov2020---banhistas-circulam-sem-mascara-de-protecao-contra-o-novo-coronavirus-pelas-praias-e-na-orla-de-itanhaem-na-baixada-santista-em-sao-paulo-1606067404830_v2_615x300.jpg
 ---

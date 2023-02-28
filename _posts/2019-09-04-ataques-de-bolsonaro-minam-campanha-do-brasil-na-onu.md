@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-04 12:25:00
 pub_date: 2019-09-04 12:25:00
 time_added: 2019-09-07 08:26:47
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/275/files/2019/06/teto-615x300.jpg
 ---

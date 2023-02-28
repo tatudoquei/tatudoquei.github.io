@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-15 13:22:00
 pub_date: 2019-12-15 13:22:00
 time_added: 2019-12-23 11:20:06
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/12/wando-moro-redes-1576185252.jpg
 ---

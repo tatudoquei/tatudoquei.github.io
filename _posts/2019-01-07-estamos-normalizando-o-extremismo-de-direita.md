@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-07 19:54:16
 pub_date: 2019-01-07 19:54:16
 time_added: 2019-12-23 21:41:24
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Equipe-de-ministros-de-Jair-Bolsonaro1/ALTERNATES/LANDSCAPE_720/Equipe%20de%20ministros%20de%20Jair%20Bolsonaro
 ---

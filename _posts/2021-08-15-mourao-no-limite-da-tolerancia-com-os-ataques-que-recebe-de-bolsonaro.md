@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-15 09:40:00
 pub_date: 2021-08-15 09:40:00
 time_added: 2021-08-20 21:34:31
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/9wy6W5qGaK7DHTVYUs1SJjafWYc=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2021/08/13/x80699689_brasilbrasilia-df18-01-2019o-presidente-jair-bolsonaro-participa-de-cerimonia.jpg.pagespeed.ic.fgs3xqen9b.jpg
 ---

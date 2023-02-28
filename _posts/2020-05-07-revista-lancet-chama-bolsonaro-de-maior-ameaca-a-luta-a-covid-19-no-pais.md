@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-07 14:07:00
 pub_date: 2020-05-07 14:07:00
 time_added: 2020-05-08 11:32:27
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c2/2019/12/13/12dez2019---o-presidente-jair-bolsonaro-cumprimenta-apoiadores-ao-sair-do-palacio-da-alvorada-1576245028336_v2_615x300.jpg
 ---

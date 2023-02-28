@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-15 01:59:39
 pub_date: 2020-03-15 01:59:39
 time_added: 2020-03-15 12:49:42
-category: 
+categories: []
 tags: []
 image: https://extra.globo.com/incoming/24305849-20a-bd0/w976h550-PROP/bebianno2.jpg
 ---

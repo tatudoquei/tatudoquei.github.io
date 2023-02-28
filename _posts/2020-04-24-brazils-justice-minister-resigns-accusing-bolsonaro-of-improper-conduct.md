@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-24 18:17:04
 pub_date: 2020-04-24 18:17:04
 time_added: 2020-04-24 20:17:04
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://www.washingtonpost.com/resizer/_eOqhQkZkZtAKOH5Da-fvVg0GGs=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VQMCWCUGIMI6VI7L5H6JGFQHAM.jpg
 ---

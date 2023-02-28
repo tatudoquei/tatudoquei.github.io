@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-30 10:31:26
 pub_date: 2019-11-30 10:31:26
 time_added: 2019-12-01 00:11:31
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2019/11/30/reader-center/30brazil-2/30brazil-2-facebookJumbo.jpg
 ---

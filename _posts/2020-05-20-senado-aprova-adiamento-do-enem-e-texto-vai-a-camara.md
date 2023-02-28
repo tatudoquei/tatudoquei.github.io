@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-20 00:56:49
 pub_date: 2020-05-20 00:56:49
 time_added: 2020-05-20 20:12:44
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/03/Enem.2019-1080x630.jpg
 ---

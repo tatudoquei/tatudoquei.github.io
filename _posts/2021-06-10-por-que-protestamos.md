@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-10 09:00:00
 pub_date: 2021-06-10 09:00:00
 time_added: 2021-06-13 21:01:43
-category: 
+categories: []
 tags: []
 image: https://i.em.com.br/11zhIL52mLdZdc2KXzUET16aZRc=/600x315/smart/imgsapp.em.com.br/app/noticia_127983242361/2021/06/10/1274987/20210609134611977352u.jpg
 ---

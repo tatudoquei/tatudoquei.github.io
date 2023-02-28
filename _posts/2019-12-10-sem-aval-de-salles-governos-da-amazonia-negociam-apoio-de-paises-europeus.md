@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-10 06:33:00
 pub_date: 2019-12-10 06:33:00
 time_added: 2019-12-10 22:58:12
-category: 
+categories: []
 tags: []
 image: https://ambiencia.blogfolha.uol.com.br/files/2019/12/WhatsApp-Image-2019-12-10-at-06.31.48-e1575973723916.jpeg
 ---

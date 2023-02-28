@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-19 13:22:00
 pub_date: 2021-05-19 13:22:00
 time_added: 2021-05-19 20:25:09
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/4f/2021/05/19/ricardo-salles-da-entrevista-apos-operacao-realizada-pela-pf-1621440854957_v2_615x300.jpg
 ---

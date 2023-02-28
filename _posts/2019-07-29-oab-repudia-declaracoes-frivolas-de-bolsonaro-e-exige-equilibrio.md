@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-29 01:36:23
 pub_date: 2019-07-29 01:36:23
 time_added: 2019-07-29 23:25:53
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2016/07/oabdiv.jpg
 ---

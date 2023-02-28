@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-19 12:00:38
 pub_date: 2020-05-19 12:00:38
 time_added: 2020-05-20 20:14:43
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/bFGATN0ewrbRXJbeTKP55ML1YTY=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/C/j/vhU4qZS26jUtqVNaotaw/2020-05-18t191434z-507461846-rc27rg9kuuoy-rtrmadp-3-health-coronavirus-brazil-indigenous.jpg
 ---

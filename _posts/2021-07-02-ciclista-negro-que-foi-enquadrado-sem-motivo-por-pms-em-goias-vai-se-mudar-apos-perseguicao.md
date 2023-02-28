@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-02 18:15:33
 pub_date: 2021-07-02 18:15:33
 time_added: 2021-07-04 12:49:46
-category: 
+categories: []
 tags: []
 image: https://ponte.org/wp-content/uploads/2021/07/filipe-ferreira.jpg
 ---

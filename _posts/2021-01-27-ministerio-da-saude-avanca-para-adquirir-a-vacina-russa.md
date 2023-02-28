@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-27 04:00:53
 pub_date: 2021-01-27 04:00:53
 time_added: 2021-01-28 13:27:20
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/coluna-do-estadao/wp-content/uploads/sites/352/2020/02/1578576096452.jpg
 ---

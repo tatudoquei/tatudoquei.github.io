@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-12 14:41:58
 pub_date: 2020-03-12 14:41:58
 time_added: 2020-09-01 17:33:06
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/03/Poder360-Ideias-Paulo-Guedes-Poder360-Piantas-146-1200x630.jpg
 ---

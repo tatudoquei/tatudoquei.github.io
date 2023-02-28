@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-13 03:00:00
 pub_date: 2021-03-13 03:00:00
 time_added: 2021-03-27 08:35:28
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/bolsonaro-de-mascara-divulgacao-PR.jpg/alternates/LANDSCAPE_768/bolsonaro%20de%20mascara%20divulgacao%20PR.jpg
 ---

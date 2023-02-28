@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-10 18:38:00
 pub_date: 2020-01-10 18:38:00
 time_added: 2020-01-11 15:01:21
-category: avisamos
+categories: [avisamos]
 tags: [economia]
 image: https://f.i.uol.com.br/fotografia/2019/11/21/15743768975dd715c1dbc18_1574376897_3x2_rt.jpg
 ---

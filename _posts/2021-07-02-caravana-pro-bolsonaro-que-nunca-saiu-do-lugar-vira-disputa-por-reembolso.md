@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-02 07:00:00
 pub_date: 2021-07-02 07:00:00
 time_added: 2021-07-04 12:48:30
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/8b/2021/06/30/pagina-do-site-de-financiamento-coletivo-para-a-caravana-da-liberdade-que-nunca-aconteceu-1625070143924_v2_615x300.png
 ---

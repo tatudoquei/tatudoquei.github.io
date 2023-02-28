@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-29 07:02:51
 pub_date: 2020-01-29 07:02:51
 time_added: 2020-01-29 08:02:51
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/12/160_questoesdademocraciavirtual_redes.jpg
 ---

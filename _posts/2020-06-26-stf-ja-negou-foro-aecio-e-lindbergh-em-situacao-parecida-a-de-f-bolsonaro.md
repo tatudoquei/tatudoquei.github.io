@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-26 16:18:00
 pub_date: 2020-06-26 16:18:00
 time_added: 2020-06-26 22:33:39
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/9a/2020/06/18/flavio-bolsonaro-e-fabricio-queiroz-fazem-sinal-de-arminha-1592475684846_v2_615x300.jpg
 ---

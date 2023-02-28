@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-20 22:29:13
 pub_date: 2020-03-20 22:29:13
 time_added: 2020-03-21 12:27:22
-category: 
+categories: []
 tags: []
 image: https://jornalggn.com.br/sites/default/files/2020/03/presidente-chines-se-recusa-a-atender-jair-bolsonaro-jinping-e-bolsonaro.jpg
 ---

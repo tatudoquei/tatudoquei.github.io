@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-09 06:41:29
 pub_date: 2020-04-09 06:41:29
 time_added: 2020-04-10 10:45:40
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/estadao-verifica/wp-content/uploads/sites/690/2020/04/primo-antonio-carlos_090420203915.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-26 23:03:01
 pub_date: 2018-09-17 03:01:00
 time_added: 2019-05-26 23:03:01
-category: 
+categories: []
 tags: []
 image: https://theintercept.imgix.net/wp-uploads/sites/1/2018/09/14-09-2018-ultrassom-3-1536954073.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800
 ---

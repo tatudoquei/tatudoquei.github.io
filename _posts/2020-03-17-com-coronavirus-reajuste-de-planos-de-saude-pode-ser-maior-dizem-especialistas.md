@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-17 04:49:00
 pub_date: 2020-03-17 04:49:00
 time_added: 2020-03-18 13:33:08
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24308914-983-872/FT1086A/652/87520192_A-medical-worker-attends-to-a-COVID-19-coronavirus-patient-at-the-Red-Cross-Hospital-in.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-25 15:27:12
 pub_date: 2022-10-25 15:27:12
 time_added: 2022-10-28 20:59:26
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2022/07/Paulo-Guedes-telebrasil_mcamgo_abr_280620221818-6.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

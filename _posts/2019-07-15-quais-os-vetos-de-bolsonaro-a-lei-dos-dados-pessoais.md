@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-15 17:39:58
 pub_date: 2019-07-15 17:39:58
 time_added: 2019-07-15 19:39:58
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/computador.jpg1/ALTERNATES/LANDSCAPE_720/computador.jpg
 ---

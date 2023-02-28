@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-22 19:36:54
 pub_date: 2020-10-22 19:36:54
 time_added: 2021-08-08 17:06:09
-category: 
+categories: []
 tags: []
 image: https://outraspalavras.net/wp-content/uploads/2020/10/Araquem-Alcantara_Mais-Medicos_01-1.jpg
 ---

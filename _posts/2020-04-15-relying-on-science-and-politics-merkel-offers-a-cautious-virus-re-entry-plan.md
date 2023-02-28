@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-15 22:35:31
 pub_date: 2020-04-15 22:35:31
 time_added: 2020-04-19 22:11:01
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/04/15/world/15virus-merkel/15virus-merkel-facebookJumbo.jpg
 ---

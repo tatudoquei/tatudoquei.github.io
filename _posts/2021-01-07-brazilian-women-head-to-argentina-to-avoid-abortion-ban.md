@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-07 14:38:45
 pub_date: 2021-01-07 14:38:45
 time_added: 2021-01-07 20:51:09
-category: 
+categories: []
 tags: []
 image: https://static.independent.co.uk/2021/01/07/14/Brazil_Argentina_Abortions_Abroad_76704.jpg
 ---

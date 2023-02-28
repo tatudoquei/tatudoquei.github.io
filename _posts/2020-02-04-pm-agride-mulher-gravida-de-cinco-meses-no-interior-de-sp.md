@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-04 16:50:00
 pub_date: 2020-02-04 16:50:00
 time_added: 2020-02-04 21:10:58
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/64/2020/02/04/pm-agride-mulher-gravida-no-interior-de-sp-1580848540330_v2_750x421.jpg
 ---

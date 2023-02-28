@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-07 02:00:00
 pub_date: 2020-02-07 02:00:00
 time_added: 2020-02-07 20:08:39
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24233337-391-03b/FT1086A/652/86875874_BSBBrasiliaBrasil05-02-2020Solenidade-Alusiva-aos-400-dias-de-Governo-do-presid.jpg
 ---

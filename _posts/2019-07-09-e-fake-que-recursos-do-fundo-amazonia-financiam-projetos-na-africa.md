@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-09 11:20:00
 pub_date: 2019-07-09 11:20:00
 time_added: 2019-07-26 06:46:31
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23794275-c59-4b9/FT1086A/652/selo-fake-salles.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-27 17:22:00
 pub_date: 2021-01-27 17:22:00
 time_added: 2021-01-28 12:41:11
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24852684-4de-504/FT1086A/652/Rodrigo-Maia.jpg
 ---

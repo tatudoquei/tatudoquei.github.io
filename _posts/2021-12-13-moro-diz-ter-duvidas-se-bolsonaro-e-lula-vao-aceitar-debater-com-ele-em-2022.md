@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-13 20:55:00
 pub_date: 2021-12-13 20:55:00
 time_added: 2021-12-24 20:05:24
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/_layout/v3/logoUOL2021/default-share/noticias.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-24 23:16:02
 pub_date: 2019-11-24 23:16:02
 time_added: 2019-12-01 08:57:35
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2019/11/placa.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-28 10:43:08
 pub_date: 2023-01-28 10:43:08
 time_added: 2023-01-28 07:43:08
-category: 
+categories: []
 tags: []
 image: https://theintercept.imgix.net/wp-uploads/sites/1/2023/01/pzzb2158.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800
 ---

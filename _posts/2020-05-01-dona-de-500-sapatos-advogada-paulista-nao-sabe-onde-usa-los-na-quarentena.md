@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-01 02:00:00
 pub_date: 2020-05-01 02:00:00
 time_added: 2020-05-02 05:09:33
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/3f/2020/04/30/foto-feita-no-jardim-do-palacio-de-cristal-em-curitiba-para-enviar-ao-casal-sergio-moro-infelizmente-nao-chegou-a-eles-1588300721705_v2_615x300.jpg
 ---

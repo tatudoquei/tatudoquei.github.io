@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-04 19:09:15
 pub_date: 2022-11-04 19:09:15
 time_added: 2022-11-04 20:09:15
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2022/10/redes_clnpablo.png
 ---

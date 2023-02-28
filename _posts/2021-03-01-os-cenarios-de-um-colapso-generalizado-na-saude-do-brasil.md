@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-01 10:00:39
 pub_date: 2021-03-01 10:00:39
 time_added: 2021-03-01 07:00:39
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/UTI2/alternates/LANDSCAPE_768/UTI
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-23 12:52:00
 pub_date: 2020-06-23 12:52:00
 time_added: 2020-06-23 23:03:58
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24494280-7dd-a1a/FT1086A/652/88573847_People-enjoy-the-sun-on-the-banks-of-the-river-Seine-in-Paris-on-June-23-2020-as-France-eas.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-24 17:39:00
 pub_date: 2019-04-24 17:39:00
 time_added: 2019-04-26 03:57:54
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23547003-036-00f/FT1086A/652/Carlos-Bolsonaro.jpg
 ---

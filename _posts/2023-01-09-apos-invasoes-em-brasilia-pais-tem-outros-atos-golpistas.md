@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-09 14:29:29
 pub_date: 2023-01-09 14:29:29
 time_added: 2023-01-10 23:55:11
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/marginal-tiete/alternates/LANDSCAPE_768/marginal-tiete
 ---

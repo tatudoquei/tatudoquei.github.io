@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-19 18:42:17
 pub_date: 2020-03-19 18:42:17
 time_added: 2020-03-20 20:26:43
-category: 
+categories: []
 tags: []
 image: https://cdn.theatlantic.com/thumbor/C_yCViPpxUepQzxmhCrf4Fzyh_Y=/0x639:4337x2896/960x500/media/img/mt/2020/03/GettyImages_1207534657_toned/original.jpg
 ---

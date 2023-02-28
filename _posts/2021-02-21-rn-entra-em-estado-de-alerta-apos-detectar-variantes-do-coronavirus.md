@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-21 16:07:00
 pub_date: 2021-02-21 16:07:00
 time_added: 2021-02-27 17:12:55
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/6f/2021/01/24/24jan2021---as-primeiras-doses-da-vacina-de-oxford-chegam-a-natal-no-rio-grande-do-norte-1611526140300_v2_615x300.png
 ---

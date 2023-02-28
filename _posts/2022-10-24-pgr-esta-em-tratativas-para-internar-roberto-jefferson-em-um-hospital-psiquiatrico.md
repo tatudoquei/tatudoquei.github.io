@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-24 22:00:00
 pub_date: 2022-10-24 22:00:00
 time_added: 2022-10-28 20:58:05
-category: 
+categories: []
 tags: []
 image: https://www.correiodopovo.com.br/image/policy:1.726287:1637352217/image.jpg?a=191%3A100&q=0.6&w=900&$p$a$q$w=61e089e
 ---

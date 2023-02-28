@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-10 10:14:00
 pub_date: 2019-10-10 10:14:00
 time_added: 2019-10-10 21:06:28
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/09/2019/05/17/oecd-e-a-sigla-em-ingles-para-organizacao-para-a-cooperacao-e-desenvolvimento-economico-ocde-1558090987515_v2_300x200.jpg
 ---

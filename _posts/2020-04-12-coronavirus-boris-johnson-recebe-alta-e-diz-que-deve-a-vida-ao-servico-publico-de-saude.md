@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-12 07:13:00
 pub_date: 2020-04-12 07:13:00
 time_added: 2020-04-12 19:39:34
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24366587-7e8-1a7/FT1086A/652/87825834_British-Prime-Minister-Boris-Johnson-delivers-a-speech-to-British-citizens-after-being-disc-1.jpg
 ---

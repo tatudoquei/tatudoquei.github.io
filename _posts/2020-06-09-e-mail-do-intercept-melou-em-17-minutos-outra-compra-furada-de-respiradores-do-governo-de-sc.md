@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-09 02:04:00
 pub_date: 2020-06-09 02:04:00
 time_added: 2020-06-09 06:41:46
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/06/sc-redes.jpg
 ---

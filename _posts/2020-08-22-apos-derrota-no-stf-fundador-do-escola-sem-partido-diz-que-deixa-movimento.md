@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-22 13:24:00
 pub_date: 2020-08-22 13:24:00
 time_added: 2020-08-22 23:05:26
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/8b/2019/04/11/midia-indoor-wap-celular-tv-educacao-sala-de-aula-ensino-lousa-aluno-estudante-estudo-greve-paralisacao-vazia-classe-alfabetizacao-1555008847817_750x421.png
 ---

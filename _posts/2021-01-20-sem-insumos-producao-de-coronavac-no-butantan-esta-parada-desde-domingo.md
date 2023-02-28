@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-20 20:34:00
 pub_date: 2021-01-20 20:34:00
 time_added: 2021-01-21 15:52:26
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/bb/2020/10/21/laboratorio-do-instituto-butantan-em-sao-paulo-vacina-de-origem-chinesa-em-fase-de-testes-no-estado-foi-mais-uma-vez-rechacada-por-bolsonaro-que-contradisse-seu-proprio-ministro-da-saude-1603313918284_v2_615x300.jpg
 ---

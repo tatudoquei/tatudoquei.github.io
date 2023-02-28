@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-06 08:42:00
 pub_date: 2020-05-06 08:42:00
 time_added: 2020-05-07 12:31:20
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/fd/2020/05/05/5mai2020---profissional-da-saude-prepara-maca-especial-para-transporte-de-doente-de-covid-19-em-uma-uti-aerea-1588694648234_v2_615x300.jpg
 ---

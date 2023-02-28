@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-23 14:46:00
 pub_date: 2021-12-23 14:46:00
 time_added: 2021-12-24 20:39:05
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f0/2021/12/23/11mai221---o-diretor-presidente-da-anvisa-antonio-barra-torres-em-depoimento-a-cpi-da-covid-1640285570928_v2_615x300.jpg
 ---

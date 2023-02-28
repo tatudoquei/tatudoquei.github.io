@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-30 07:55:00
 pub_date: 2019-06-30 07:55:00
 time_added: 2019-07-01 19:31:02
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/7d/2019/06/30/nos-seis-primeiros-meses-de-governo-de-jair-bolsonaro-poucos-ministerios-despertaram-tanta-polemica-e-debate-quanto-o-da-educacao-1561898723434_v2_615x300.jpg
 ---

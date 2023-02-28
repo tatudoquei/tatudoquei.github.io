@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-12 17:09:00
 pub_date: 2021-06-12 17:09:00
 time_added: 2021-06-13 21:14:46
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25058603-f73-041/FT1086A/ecko_morte.jpg
 ---

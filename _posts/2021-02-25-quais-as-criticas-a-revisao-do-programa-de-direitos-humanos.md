@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-25 03:12:14
 pub_date: 2021-02-25 03:12:14
 time_added: 2021-02-25 00:12:14
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Damares-Alves-Ministra/alternates/LANDSCAPE_768/Damares-Alves-Ministra
 ---

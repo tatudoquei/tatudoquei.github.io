@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-09 14:15:18
 pub_date: 2021-08-09 14:15:18
 time_added: 2021-08-16 19:42:26
-category: 
+categories: []
 tags: []
 image: https://i1.wp.com/jornal.usp.br/wp-content/uploads/2021/08/20210806_fogopantanal.jpg?fit=1200%2C630&ssl=1
 ---

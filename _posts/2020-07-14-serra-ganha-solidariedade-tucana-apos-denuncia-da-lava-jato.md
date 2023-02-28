@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-14 02:30:00
 pub_date: 2020-07-14 02:30:00
 time_added: 2020-07-15 06:38:55
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24530744-c8f-f80/FT1086A/652/SERRA.jpg
 ---

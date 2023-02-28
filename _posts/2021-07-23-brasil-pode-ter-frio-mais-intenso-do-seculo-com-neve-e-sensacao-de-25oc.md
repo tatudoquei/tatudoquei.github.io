@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-23 17:27:00
 pub_date: 2021-07-23 17:27:00
 time_added: 2021-07-25 13:34:15
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e8/2021/07/20/geada-na-serra-catarinense-nesta-terca-feira-1626790782654_v2_615x300.png
 ---

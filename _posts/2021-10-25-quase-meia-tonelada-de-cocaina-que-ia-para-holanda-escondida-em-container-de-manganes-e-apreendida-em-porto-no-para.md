@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-25 16:54:32
 pub_date: 2021-10-25 16:54:32
 time_added: 2021-10-31 22:25:43
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/1uzK5xy5jP-UuwzlBkAMn-Ym1kI=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/7/Y/8WkSiRQIAoItQlCeiGAg/apreensao-no-porto.jpg
 ---

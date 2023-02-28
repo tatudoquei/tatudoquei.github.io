@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-27 22:20:12
 pub_date: 2021-05-27 22:20:12
 time_added: 2021-05-27 23:05:05
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/05/fora-bolsonaro-sergio-lima-26mai2021-1200x630.jpg
 ---

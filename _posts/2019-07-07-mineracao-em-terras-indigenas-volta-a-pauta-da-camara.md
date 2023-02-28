@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-07 08:53:23
 pub_date: 2019-07-07 08:53:23
 time_added: 2019-07-10 19:28:48
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2019/07/mineracao_120815_usace_cc_0.jpg
 ---

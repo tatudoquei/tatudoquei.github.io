@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-15 16:24:00
 pub_date: 2020-05-15 16:24:00
 time_added: 2020-05-16 16:44:49
-category: resistimos
+categories: [resistimos]
 tags: [cultura]
 image: https://f.i.uol.com.br/fotografia/2020/05/15/15895750005ebefd5856503_1589575000_3x2_rt.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-27 08:04:00
 pub_date: 2020-05-27 08:04:00
 time_added: 2020-05-27 18:45:03
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/22/2019/06/12/luciano-hang-empresario-dono-da-havan-entre-funcionarios-em-uma-das-suas-lojas-em-post-divulgado-em-seu-twitter-1560357348299_v2_615x300.jpg
 ---

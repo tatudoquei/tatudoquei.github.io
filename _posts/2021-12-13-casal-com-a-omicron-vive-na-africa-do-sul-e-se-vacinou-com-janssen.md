@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-13 13:36:50
 pub_date: 2021-12-13 13:36:50
 time_added: 2021-12-13 14:36:50
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/11/AeroportoDeBrasilia-Aeroporto-Embarque-Aviao-Checkin-117-2-1-1200x630.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-05 23:00:00
 pub_date: 2020-02-05 23:00:00
 time_added: 2020-02-06 15:12:54
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/rZcG252HS7lpnLlRQ0Ec16DYOGc=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2020/01/27/bolsonaro_bronca.jpg
 ---

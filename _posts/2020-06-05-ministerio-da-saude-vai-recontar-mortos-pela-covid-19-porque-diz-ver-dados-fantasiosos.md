@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-05 20:47:00
 pub_date: 2020-06-05 20:47:00
 time_added: 2020-06-06 08:23:48
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/0566W3BlXYIPtaL3xtaEfS2WiqI=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2020/06/05/xhospital.jpg.pagespeed.ic.eagmlxmcdg.jpg
 ---

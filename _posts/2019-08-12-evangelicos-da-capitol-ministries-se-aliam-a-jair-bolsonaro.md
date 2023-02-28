@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-12 17:05:01
 pub_date: 2019-08-12 17:05:01
 time_added: 2022-10-22 17:59:13
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2019/08/donald-trump-e-jair-bolsonaro.jpg
 ---

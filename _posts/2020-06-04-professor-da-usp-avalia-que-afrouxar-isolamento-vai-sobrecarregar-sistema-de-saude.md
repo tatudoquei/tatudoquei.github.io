@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-04 02:30:00
 pub_date: 2020-06-04 02:30:00
 time_added: 2020-06-04 15:07:05
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24461740-c41-038/FT1086A/652/88276597_SO-Sao-PauloSP28-05-2020-Paulo-Lutofo-e-um-profissional-da-saude-medico-epidemiologista.jpg
 ---

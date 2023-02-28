@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-06 15:37:00
 pub_date: 2022-10-06 15:37:00
 time_added: 2022-10-10 06:49:36
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/siV5dhtdSeL_ahrLuzYsI2vCWkg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/2/h/VZgaWLQ9Ks5JAi4iAmKA/romualdo-panceiro.png
 ---

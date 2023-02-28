@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-23 18:22:28
 pub_date: 2022-10-23 18:22:28
 time_added: 2022-10-28 20:41:06
-category: 
+categories: []
 tags: []
 image: https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2022/10/23/foto-capa-(3)-tode49m5soc0.jpg
 ---

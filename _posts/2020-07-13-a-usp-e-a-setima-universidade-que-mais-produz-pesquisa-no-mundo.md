@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-13 18:53:24
 pub_date: 2020-07-13 18:53:24
 time_added: 2020-07-18 10:48:35
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/07/20200713_ranking_cwts.jpg
 ---

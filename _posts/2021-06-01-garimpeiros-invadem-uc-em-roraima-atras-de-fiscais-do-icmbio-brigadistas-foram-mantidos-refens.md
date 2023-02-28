@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-01 17:31:58
 pub_date: 2021-06-01 17:31:58
 time_added: 2021-06-20 09:56:04
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/06/uraricoera_lupacca-1024x683-1.jpg
 ---

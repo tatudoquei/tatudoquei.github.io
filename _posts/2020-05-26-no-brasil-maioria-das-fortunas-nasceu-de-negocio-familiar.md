@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-26 08:00:30
 pub_date: 2020-05-26 08:00:30
 time_added: 2020-06-17 10:47:24
-category: 
+categories: []
 tags: []
 image: https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-11-14 17:25:00
 pub_date: 2018-11-14 17:25:00
 time_added: 2018-11-15 18:48:40
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://painel.blogfolha.uol.com.br/files/2018/10/bolsonaro_eleito.jpg
 ---

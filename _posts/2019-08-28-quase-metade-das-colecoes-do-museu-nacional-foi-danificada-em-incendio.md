@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-28 11:18:00
 pub_date: 2019-08-28 11:18:00
 time_added: 2019-08-30 23:38:02
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23911061-85d-426/FT1086A/652/museu-nacional.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-08 20:59:39
 pub_date: 2021-01-08 20:59:39
 time_added: 2021-01-09 09:00:33
-category: 
+categories: []
 tags: []
 image: https://p2.trrsf.com/image/fget/cf/1200/628/middle/images.terra.com/2021/01/07/age20210104004.jpg
 ---

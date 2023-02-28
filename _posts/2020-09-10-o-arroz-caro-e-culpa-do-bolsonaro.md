@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-10 12:42:00
 pub_date: 2020-09-10 12:42:00
 time_added: 2020-09-10 21:38:29
-category: 
+categories: []
 tags: []
 image: https://nadanovonofrontcom.files.wordpress.com/2020/09/img_9959.jpg
 ---

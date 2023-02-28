@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-21 18:26:03
 pub_date: 2021-02-21 18:26:03
 time_added: 2021-02-25 00:19:37
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/02/Oeco_Alexandre-de-Moraes-Foto-Carlos-Moura-SCO-STF.jpg
 ---

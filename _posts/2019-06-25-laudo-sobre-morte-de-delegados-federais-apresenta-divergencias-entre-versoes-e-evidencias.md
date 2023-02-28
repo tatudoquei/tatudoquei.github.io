@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-25 03:25:05
 pub_date: 2019-06-25 03:25:05
 time_added: 2019-06-25 05:25:05
-category: 
+categories: []
 tags: []
 image: http://cbndiario.rbsdirect.com.br/imagesrc/23449436.jpg?w=680&a=c
 ---

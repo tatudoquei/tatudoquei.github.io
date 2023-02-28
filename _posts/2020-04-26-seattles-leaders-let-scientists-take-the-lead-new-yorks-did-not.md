@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-26 20:17:44
 pub_date: 2020-04-26 20:17:44
 time_added: 2020-04-26 22:17:44
-category: 
+categories: []
 tags: []
 image: https://media.newyorker.com/photos/5ea370e667c3040008f05522/16:9/w_1280,c_limit/200504_r36312.jpg
 ---

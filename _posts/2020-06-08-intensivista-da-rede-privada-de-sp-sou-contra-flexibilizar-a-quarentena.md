@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-08 12:25:00
 pub_date: 2020-06-08 12:25:00
 time_added: 2020-06-09 06:51:48
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/190/files/2020/06/mariana.jpg
 ---

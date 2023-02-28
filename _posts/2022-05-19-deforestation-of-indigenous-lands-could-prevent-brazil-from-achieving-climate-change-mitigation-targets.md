@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-05-19 13:03:25
 pub_date: 2022-05-19 13:03:25
 time_added: 2022-05-19 15:03:25
-category: 
+categories: []
 tags: []
 image: https://scx2.b-cdn.net/gfx/news/2022/deforestation-of-indig.jpg
 ---

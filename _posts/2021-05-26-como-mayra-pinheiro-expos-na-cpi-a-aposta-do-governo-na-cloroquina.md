@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-26 03:00:00
 pub_date: 2021-05-26 03:00:00
 time_added: 2021-06-15 22:47:02
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/mayra/alternates/LANDSCAPE_768/mayra
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-15 19:20:27
 pub_date: 2020-05-15 19:20:27
 time_added: 2020-05-15 21:20:27
-category: 
+categories: []
 tags: []
 image: https://www.socioambiental.org/sites/blog.socioambiental.org/files/styles/twitter-card/public/nsa/rs32848_aldeia-30.jpg?itok=SGCVWB3-
 ---

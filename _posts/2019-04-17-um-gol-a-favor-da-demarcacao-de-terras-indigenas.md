@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-17 16:41:47
 pub_date: 2019-04-17 16:41:47
 time_added: 2019-04-18 22:22:50
-category: 
+categories: []
 tags: []
 image: https://ep00.epimg.net/brasil/imagenes/2019/04/16/deportes/1555444922_882819_1555445210_rrss_normal.jpg
 ---

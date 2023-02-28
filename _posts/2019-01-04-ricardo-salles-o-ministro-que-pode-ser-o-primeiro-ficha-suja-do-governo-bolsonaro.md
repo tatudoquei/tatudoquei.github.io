@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-04 15:02:23
 pub_date: 2019-01-04 15:02:23
 time_added: 2019-01-25 21:29:34
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://video-images.vice.com/articles/5c2f68efd2d66f0007d796ff/lede/1546612363261-11_ricardo_salles.jpeg?crop=0.9991111111111111xw:1xh;center,center&resize=1200:*
 ---

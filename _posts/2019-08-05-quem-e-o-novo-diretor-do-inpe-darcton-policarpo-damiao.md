@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-05 21:37:41
 pub_date: 2019-08-05 21:37:41
 time_added: 2019-08-05 23:37:41
-category: 
+categories: []
 tags: []
 image: https://media.gazetadopovo.com.br/2019/07/04104550/bolsonaro-astronauta-marcos-pontes-640x372.jpg
 ---

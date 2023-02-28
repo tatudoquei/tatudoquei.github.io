@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-23 13:00:27
 pub_date: 2020-05-23 13:00:27
 time_added: 2020-05-23 17:26:35
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2020/05/villa-lobos_shopping.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

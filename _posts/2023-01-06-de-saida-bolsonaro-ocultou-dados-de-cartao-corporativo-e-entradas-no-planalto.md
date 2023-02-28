@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-06 14:28:14
 pub_date: 2023-01-06 14:28:14
 time_added: 2023-01-06 23:33:30
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2023/01/Capa_Facebook_De-saida-Bolsonaro-ocultou-dados-de-cartao-corporativo-e-entradas-no-Planalto.png
 ---

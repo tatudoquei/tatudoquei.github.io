@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-19 17:20:00
 pub_date: 2020-05-19 17:20:00
 time_added: 2020-05-21 06:59:50
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e6/2020/05/19/imagens-de-vitimas-do-novo-coronavirus-no-brasil-1589924014507_v2_615x300.jpg
 ---

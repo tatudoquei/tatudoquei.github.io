@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-02 13:47:00
 pub_date: 2021-07-02 13:47:00
 time_added: 2021-07-04 12:47:19
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25087174-aa0-bd6/FT1086A/93663278_PA-Brasilia-BSB-29-06-2021-O-Presidente-Jair-Bolsonaro-participa-de-Lancamento-do-novo.jpg
 ---

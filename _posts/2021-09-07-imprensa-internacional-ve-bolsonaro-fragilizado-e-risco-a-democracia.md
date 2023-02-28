@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-07 03:00:00
 pub_date: 2021-09-07 03:00:00
 time_added: 2021-09-26 05:07:45
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Ato-no-Rio-em-7-de-setembro/alternates/LANDSCAPE_768/Ato%20no%20Rio%20em%207%20de%20setembro
 ---

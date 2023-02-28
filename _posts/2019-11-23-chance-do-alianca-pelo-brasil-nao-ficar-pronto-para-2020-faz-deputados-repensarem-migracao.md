@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-23 00:59:00
 pub_date: 2019-11-23 00:59:00
 time_added: 2019-11-23 10:14:14
-category: 
+categories: []
 tags: []
 image: https://painel.blogfolha.uol.com.br/files/2019/06/va.jpg
 ---

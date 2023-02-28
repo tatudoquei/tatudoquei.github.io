@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-26 18:52:02
 pub_date: 2021-04-26 18:52:02
 time_added: 2021-05-23 07:55:04
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/04/facebook-maria-leusa-munduruku-sobre-garimpo-ilegal-estamos-em-um-estado-muito-grave-de-ameacas-fisicas.png
 ---

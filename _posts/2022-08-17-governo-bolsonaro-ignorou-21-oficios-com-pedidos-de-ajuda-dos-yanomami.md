@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-08-17 23:00:00
 pub_date: 2022-08-17 23:00:00
 time_added: 2023-01-26 19:07:25
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2022/08/186914-high-yanomami-bolsonaro-oficios-redes.jpg
 ---

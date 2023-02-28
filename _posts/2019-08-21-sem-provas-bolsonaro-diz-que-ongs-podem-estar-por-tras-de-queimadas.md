@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-21 12:23:53
 pub_date: 2019-08-21 12:23:53
 time_added: 2019-08-22 23:46:55
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2019/08/2019-08-20t235457z_185733965_rc181091b840_rtrmadp_3_brazil-environment-wildfires.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-01 19:31:17
 pub_date: 2018-12-01 19:31:17
 time_added: 2018-12-02 08:51:21
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://abrilexame.files.wordpress.com/2018/10/eduardo-bolsonaro1.jpg?quality=70&strip=info&w=680&h=433&crop=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-12 18:43:34
 pub_date: 2019-04-12 18:43:34
 time_added: 2019-04-13 06:20:00
-category: 
+categories: []
 tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2019/04/ebc-fuzilamento-musico-militares.jpg
 ---

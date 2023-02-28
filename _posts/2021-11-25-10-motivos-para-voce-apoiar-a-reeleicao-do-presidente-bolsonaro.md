@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-25 01:25:59
 pub_date: 2021-11-25 01:25:59
 time_added: 2021-11-25 02:25:59
-category: 
+categories: []
 tags: []
 image: https://img.r7.com/images/efe-jair-bolsonaro-brasil-fraterno-1500-11112021151425130?dimensions=771x420&resize=771x420&amp;crop=1500x817+0+145
 ---

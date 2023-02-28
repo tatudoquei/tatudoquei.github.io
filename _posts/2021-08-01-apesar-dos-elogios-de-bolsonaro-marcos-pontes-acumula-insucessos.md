@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-01 07:30:00
 pub_date: 2021-08-01 07:30:00
 time_added: 2021-08-20 20:57:53
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25135387-4db-eca/FT1086A/760/88256870_PA-Brasilia-BSB-26-05-2020-Coletiva-interministerial-no-Palacio-do-Planalto-com-os-part-1.jpg
 ---

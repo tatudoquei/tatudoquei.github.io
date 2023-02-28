@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-17 12:28:19
 pub_date: 2021-10-17 12:28:19
 time_added: 2021-10-17 14:28:19
-category: 
+categories: []
 tags: []
 image: https://pt.surveymonkey.com/collect/images/default_custom_meta_image.jpg
 ---

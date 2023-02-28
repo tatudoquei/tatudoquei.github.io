@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-01 11:30:15
 pub_date: 2020-05-01 11:30:15
 time_added: 2020-05-04 05:59:21
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2020/04/2020-04-19t191208z_224217170_rc2v7g9w9hlt_rtrmadp_3_health-coronavirus-brazil-e1587562840285.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

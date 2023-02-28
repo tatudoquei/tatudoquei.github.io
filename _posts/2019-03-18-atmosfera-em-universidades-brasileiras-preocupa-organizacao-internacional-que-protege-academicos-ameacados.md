@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-18 15:01:40
 pub_date: 2019-03-18 15:01:40
 time_added: 2019-09-05 14:22:09
-category: 
+categories: []
 tags: []
 image: https://i2.wp.com/apublica.org/wp-content/uploads/2019/03/madochee-640x640-scholarsatrisk.jpg?fit=640%2C640&ssl=1
 ---

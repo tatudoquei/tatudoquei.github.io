@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-12 11:15:00
 pub_date: 2020-06-12 11:15:00
 time_added: 2020-06-12 19:06:52
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/9c/2019/01/16/luciano-hang-dono-da-havan-1547678551592_615x300.png
 ---

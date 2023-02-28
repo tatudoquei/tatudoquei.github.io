@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-19 07:30:00
 pub_date: 2021-06-19 07:30:00
 time_added: 2021-06-19 20:15:58
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/bhjF5CveuOcXDl3QrND0jX99l-0=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2021/06/18/medications-1853400_1920.jpg
 ---

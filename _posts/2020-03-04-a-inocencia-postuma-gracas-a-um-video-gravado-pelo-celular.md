@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-04 11:45:00
 pub_date: 2015-02-27 23:28:56
 time_added: 2020-03-04 11:45:00
-category: 
+categories: []
 tags: []
 image: http://ep00.epimg.net/brasil/imagenes/2015/02/27/politica/1425067518_532711_1425072412_noticia_normal.jpg
 ---

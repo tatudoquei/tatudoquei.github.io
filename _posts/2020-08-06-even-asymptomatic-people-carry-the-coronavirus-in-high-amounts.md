@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-06 15:11:45
 pub_date: 2020-08-06 15:11:45
 time_added: 2020-08-06 17:29:51
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/08/06/science/06VIRUS-ASYMPTOMATIC/06VIRUS-ASYMPTOMATIC-facebookJumbo.jpg
 ---

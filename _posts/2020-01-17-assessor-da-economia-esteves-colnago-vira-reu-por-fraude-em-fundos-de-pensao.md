@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-17 20:18:08
 pub_date: 2020-01-17 20:18:08
 time_added: 2020-01-20 15:56:31
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/01/esteves-colnago-denuncia.jpg
 ---

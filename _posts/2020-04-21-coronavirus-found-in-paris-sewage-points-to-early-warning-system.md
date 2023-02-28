@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-21 18:10:00
 pub_date: 2020-04-21 18:10:00
 time_added: 2020-04-22 18:08:29
-category: 
+categories: []
 tags: []
 image: https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/COVID_sewage_France_1280x720.jpg?itok=If8BgL7V
 ---

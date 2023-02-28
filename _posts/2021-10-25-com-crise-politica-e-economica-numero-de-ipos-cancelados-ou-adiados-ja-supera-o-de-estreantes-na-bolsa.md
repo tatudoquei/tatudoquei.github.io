@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-25 07:30:00
 pub_date: 2021-10-25 07:30:00
 time_added: 2021-10-25 21:50:53
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/economia/25190285-5c6-825/FT1086A/760/85692761_A-statement-by-President-Jair-Bolsonaro-asking-for-lower-interest-rates-at-Banco-do-Bra-2.jpg
 ---

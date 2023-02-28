@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-05 13:10:42
 pub_date: 2021-06-05 13:10:42
 time_added: 2021-06-05 15:10:42
-category: 
+categories: []
 tags: []
 image: https://www.revistaquestaodeciencia.com.br/sites/default/files/styles/facebook/public/2021-04/DOCTORS_SQUARE_120421_OK.jpg?itok=xggpG1ln
 ---

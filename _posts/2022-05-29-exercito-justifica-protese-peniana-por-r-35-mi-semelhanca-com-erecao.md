@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-05-29 10:45:00
 pub_date: 2022-05-29 10:45:00
 time_added: 2022-09-11 10:46:27
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/36/2022/04/12/protese-peniana-e-a-terceira-linha-de-tratamento-para-a-disfuncao-eretil-1649788087556_v2_615x300.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-29 10:37:00
 pub_date: 2021-12-29 10:37:00
 time_added: 2022-01-08 12:23:30
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a6/2021/12/19/2dez2021---o-pre-candidato-a-presidencia-pelo-podemos-sergio-moro-em-evento-em-curitiba-1639945383359_v2_615x300.jpg
 ---

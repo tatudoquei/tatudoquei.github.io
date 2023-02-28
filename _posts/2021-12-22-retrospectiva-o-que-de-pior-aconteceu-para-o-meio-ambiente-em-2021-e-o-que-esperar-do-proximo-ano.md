@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-22 19:42:20
 pub_date: 2021-12-22 19:42:20
 time_added: 2021-12-25 10:20:18
-category: 
+categories: []
 tags: []
 image: http://oeco.org.br/wp-content/uploads/2021/12/Dois-poderes.jpg
 ---

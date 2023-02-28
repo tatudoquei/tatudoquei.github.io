@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-10 03:24:39
 pub_date: 2019-06-10 03:24:39
 time_added: 2019-06-11 05:48:56
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/coluna-do-estadao/wp-content/uploads/sites/352/2019/05/Sergio-Moro.jpg
 ---

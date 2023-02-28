@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-27 21:06:38
 pub_date: 2020-10-27 21:06:38
 time_added: 2020-11-07 07:33:31
-category: avisamos
+categories: [avisamos]
 tags: [meio ambiente]
 image: https://www.oeco.org.br/wp-content/uploads/2020/10/Fabio-Rodrigues-Pozzebom-Agencia-Brasil.jpg
 ---

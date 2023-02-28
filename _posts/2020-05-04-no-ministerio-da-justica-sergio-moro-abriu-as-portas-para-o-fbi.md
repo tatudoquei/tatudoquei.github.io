@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-04 19:28:36
 pub_date: 2020-05-04 19:28:36
 time_added: 2020-05-04 22:45:36
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2020/05/no-ministerio-da-justica-sergio-moro-abriu-as-portas-para-o-fbi-img8.jpg
 ---

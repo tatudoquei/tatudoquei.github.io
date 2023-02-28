@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-18 14:47:26
 pub_date: 2020-01-18 14:47:26
 time_added: 2020-02-01 01:08:05
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2020/01/leandro-geurreiro.jpg
 ---

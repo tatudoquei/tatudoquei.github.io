@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-11 19:35:42
 pub_date: 2020-08-11 19:35:42
 time_added: 2020-08-12 06:06:08
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2019/04/vitor-hugo-joice-eduardo-bolsonaro-fcpzzb_abr_180920193886-1140x630.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-27 06:14:00
 pub_date: 2020-11-27 06:14:00
 time_added: 2020-11-27 13:29:21
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c4/2020/11/27/luiz-fux-e-giovanni-gentile-1606471751996_v2_615x300.jpg
 ---

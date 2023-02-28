@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-21 23:00:00
 pub_date: 2020-03-21 23:00:00
 time_added: 2020-03-25 13:15:57
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Teaser-Rafaela-Ferreira-Cientistas-do-Brasil/alternates/LANDSCAPE_768/Teaser%20-%20Rafaela%20Ferreira%20-%20Cientistas%20do%20Brasil
 ---

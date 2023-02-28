@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-08 16:49:00
 pub_date: 2020-01-08 16:49:00
 time_added: 2020-01-14 07:23:54
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/iwxPssV65an6IqCNdjGKmqM3Ghg=/645x363/i.glbimg.com/og/ig/infoglobo1/f/original/2019/12/26/gregorio_jesus.jpg
 ---

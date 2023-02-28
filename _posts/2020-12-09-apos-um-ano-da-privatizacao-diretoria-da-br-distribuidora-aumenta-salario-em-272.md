@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-09 19:49:56
 pub_date: 2020-12-09 19:49:56
 time_added: 2021-09-22 15:43:14
-category: 
+categories: []
 tags: []
 image: https://sindipetrosp.org.br/wp-content/uploads/2020/12/banco-de-imagens-br-distribuidora.jpg
 ---

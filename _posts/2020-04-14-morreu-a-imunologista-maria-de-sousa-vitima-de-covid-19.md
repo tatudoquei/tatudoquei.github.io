@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-14 08:30:54
 pub_date: 2020-04-14 08:30:54
 time_added: 2020-04-14 19:11:24
-category: 
+categories: []
 tags: []
 image: https://imagens.publico.pt/imagens.aspx/1458917?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png
 ---

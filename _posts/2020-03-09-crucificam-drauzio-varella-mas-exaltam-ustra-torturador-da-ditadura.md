@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-09 14:54:22
 pub_date: 2020-03-09 14:54:22
 time_added: 2020-03-09 21:47:15
-category: 
+categories: []
 tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2020/03/drauzio-ustra.jpg
 ---

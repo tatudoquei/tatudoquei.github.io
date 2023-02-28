@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-30 07:11:00
 pub_date: 2020-10-30 07:11:00
 time_added: 2021-07-25 16:47:56
-category: 
+categories: []
 tags: []
 image: https://cdn.crusoe.com.br/uploads/2020/01/santini-500x333.jpg
 ---

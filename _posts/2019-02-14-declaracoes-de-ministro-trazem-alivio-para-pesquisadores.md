@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-14 21:31:12
 pub_date: 2019-02-14 21:31:12
 time_added: 2019-12-23 21:19:31
-category: resistimos
+categories: [resistimos]
 tags: [ciência]
 image: https://jornal.usp.br/wp-content/uploads/2019/02/20190213_Ministro_Marcos_Pontes.jpg
 ---

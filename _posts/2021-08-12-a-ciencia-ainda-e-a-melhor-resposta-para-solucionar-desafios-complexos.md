@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-12 15:31:53
 pub_date: 2021-08-12 15:31:53
 time_added: 2021-08-20 21:32:51
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2021/08/adalbertoluizvalfoto_120820213124.jpg
 ---

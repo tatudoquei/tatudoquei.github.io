@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-15 18:07:00
 pub_date: 2021-03-15 18:07:00
 time_added: 2021-03-21 09:22:18
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/b2/2021/01/26/19-felipe-neto-ao-saber-das-dificuldades-disse-que-bemti-e-um-artista-fenomenal-e-fez-um-deposito-para-ele-1611679055869_v2_615x300.jpg
 ---

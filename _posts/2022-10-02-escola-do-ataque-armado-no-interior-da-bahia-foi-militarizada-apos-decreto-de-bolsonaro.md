@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-02 14:41:31
 pub_date: 2022-10-02 14:41:31
 time_added: 2022-10-02 23:41:31
-category: 
+categories: []
 tags: []
 image: https://jornalggn.com.br/wp-content/uploads/2022/09/militar-escola-bahia-.jpg
 ---

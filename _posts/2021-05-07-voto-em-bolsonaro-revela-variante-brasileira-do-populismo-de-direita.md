@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-07 03:19:48
 pub_date: 2021-05-07 03:19:48
 time_added: 2021-05-07 05:19:48
-category: 
+categories: []
 tags: []
 image: https://humanas.blog.scielo.org/wp-content/uploads/2021/04/imagem_thumb_Voto-em-Bolsonaro-revela-variante-brasileira-do-populismo-de-direita-150x90.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-31 16:08:41
 pub_date: 2020-03-31 16:08:41
 time_added: 2020-03-31 19:41:03
-category: 
+categories: []
 tags: []
 image: https://www.redebrasilatual.com.br/wp-content/uploads/2020/03/nicolelis-e-rezende.jpg
 ---

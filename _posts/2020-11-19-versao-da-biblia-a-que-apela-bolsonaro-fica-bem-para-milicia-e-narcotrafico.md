@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-19 05:52:00
 pub_date: 2020-11-19 05:52:00
 time_added: 2020-11-19 19:55:10
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/6a/2020/11/19/arma-e-biblia-1605779497634_v2_615x300.jpg
 ---

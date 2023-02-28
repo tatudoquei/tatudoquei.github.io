@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-12 08:10:00
 pub_date: 2020-06-12 08:10:00
 time_added: 2020-06-12 17:48:29
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/71/2020/06/01/ministro-luiz-eduardo-ramos-da-secretaria-de-governo-1591037154812_v2_615x300.jpg
 ---

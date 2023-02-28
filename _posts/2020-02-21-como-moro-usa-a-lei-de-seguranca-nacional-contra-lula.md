@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-21 19:18:40
 pub_date: 2020-02-21 19:18:40
 time_added: 2020-02-21 20:18:40
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Lula25/alternates/LANDSCAPE_768/Lula
 ---

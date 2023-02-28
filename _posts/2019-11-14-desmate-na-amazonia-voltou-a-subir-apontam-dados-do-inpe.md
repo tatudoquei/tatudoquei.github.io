@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-14 23:00:00
 pub_date: 2019-11-14 23:00:00
 time_added: 2019-11-16 09:12:54
-category: 
+categories: []
 tags: []
 image: http://imagem.band.com.br/f_463503.jpg
 ---

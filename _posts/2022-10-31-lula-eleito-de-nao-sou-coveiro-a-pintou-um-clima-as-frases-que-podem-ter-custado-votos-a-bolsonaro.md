@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-31 01:09:11
 pub_date: 2022-10-31 01:09:11
 time_added: 2022-10-31 03:10:04
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/12CD5/production/_126931077_bolsonarofaltadear.jpg
 ---

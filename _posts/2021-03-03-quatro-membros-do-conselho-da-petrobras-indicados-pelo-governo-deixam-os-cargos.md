@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-03 00:58:00
 pub_date: 2021-03-03 00:58:00
 time_added: 2021-03-06 22:08:56
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/economia/24896070-fe9-21c/FT1086A/652/PetrobrasReuters-2205.jpg
 ---

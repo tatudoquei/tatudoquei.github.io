@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-26 18:14:00
 pub_date: 2019-09-26 18:14:00
 time_added: 2019-09-28 06:22:11
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23977269-158-79f/FT1086A/652/Raoni.jpg
 ---

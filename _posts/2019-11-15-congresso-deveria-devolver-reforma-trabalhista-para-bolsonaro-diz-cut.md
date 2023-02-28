@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-15 03:13:02
 pub_date: 2019-11-15 03:13:02
 time_added: 2019-11-15 04:13:02
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/11/bolsoos-615x300.jpg
 ---

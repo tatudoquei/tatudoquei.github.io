@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-11 03:30:00
 pub_date: 2018-12-11 03:30:00
 time_added: 2018-12-12 07:26:33
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23295974-4fc-855/FT1086A/652/80246212_CAsa-do-ex-motorista-de-Flavio-Bolsonaro-filho-do-presidente-eleito-Jair-BolsonaroFabrici.jpg
 ---

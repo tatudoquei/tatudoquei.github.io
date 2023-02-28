@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-15 21:49:00
 pub_date: 2023-01-15 21:49:00
 time_added: 2023-01-21 10:23:45
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/8d/2023/01/13/policiais-contiveram-golpistas-que-invadiram-palacio-do-planalto-no-ultimo-domingo-1673620365661_v2_615x300.png
 ---

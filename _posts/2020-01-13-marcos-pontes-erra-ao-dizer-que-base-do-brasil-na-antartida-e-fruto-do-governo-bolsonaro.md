@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-13 16:17:00
 pub_date: 2020-01-13 16:17:00
 time_added: 2020-01-14 00:55:00
-category: 
+categories: []
 tags: []
 image: https://aosfatos.org/media/images/entries/49351016958_c8e4e05587_o2.jpg.1860x1080_q85_box-0%2C0%2C1595%2C925_crop_upscale.jpg
 ---

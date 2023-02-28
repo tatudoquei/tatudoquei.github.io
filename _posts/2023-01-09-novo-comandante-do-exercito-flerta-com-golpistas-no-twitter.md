@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-09 16:33:43
 pub_date: 2023-01-09 16:33:43
 time_added: 2023-01-15 09:24:22
-category: 
+categories: []
 tags: []
 image: https://jacobin.com.br/wp-content/uploads/2023/01/Crivella.jpg
 ---

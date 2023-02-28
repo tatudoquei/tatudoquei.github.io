@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-27 14:51:00
 pub_date: 2020-03-27 14:51:00
 time_added: 2020-03-28 08:59:10
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/7d/2020/02/27/retrato-de-janaina-paschoal-deputada-estadual-de-sao-paulo-na-alesp-1582843242546_v2_750x421.jpg
 ---

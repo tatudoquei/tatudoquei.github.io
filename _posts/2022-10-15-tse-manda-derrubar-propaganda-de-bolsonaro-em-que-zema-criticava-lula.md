@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-15 18:35:00
 pub_date: 2022-10-15 18:35:00
 time_added: 2022-10-16 14:25:27
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/92/2022/10/14/os-presidenciaveis-luiz-inacio-lula-da-silva-pt-e-jair-bolsonaro-pl-adversarios-no-segundo-turno-das-eleicoes-1665741330261_v2_615x300.jpg
 ---

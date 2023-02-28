@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-23 14:24:00
 pub_date: 2019-03-23 14:24:00
 time_added: 2019-03-24 14:38:47
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23514609-097-690/FT1086A/652/81080982_BSBBrasiliaBrasil12-02-2019PAO-presidente-da-Camara-Rodrigo-Maia-preside-se.jpg
 ---

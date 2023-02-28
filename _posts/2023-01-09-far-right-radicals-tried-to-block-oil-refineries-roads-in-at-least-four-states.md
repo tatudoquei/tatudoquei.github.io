@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-09 14:19:16
 pub_date: 2023-01-09 14:19:16
 time_added: 2023-01-14 13:27:42
-category: 
+categories: []
 tags: []
 image: https://brazilian.report/wp-content/uploads/2023/01/refineries-petrobras.jpeg
 ---

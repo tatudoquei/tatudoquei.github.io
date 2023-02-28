@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-13 16:22:27
 pub_date: 2021-04-13 16:22:27
 time_added: 2021-04-13 18:22:27
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Vacina_Brasil.jpeg/alternates/LANDSCAPE_768/Vacina_Brasil.jpeg
 ---

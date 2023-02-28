@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-17 15:14:00
 pub_date: 2021-11-17 15:14:00
 time_added: 2021-11-25 02:00:23
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/5b/2021/10/20/garimpo-em-terra-indigena-yanomami-1634761893743_v2_615x300.jpg
 ---

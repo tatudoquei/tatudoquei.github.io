@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-04 22:00:00
 pub_date: 2020-04-04 22:00:00
 time_added: 2020-04-05 19:13:16
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/44C2/production/_111620671_7.bertha_familia.jpg
 ---

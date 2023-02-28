@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-28 16:03:00
 pub_date: 2019-11-28 16:03:00
 time_added: 2019-11-29 07:17:12
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b7/2019/11/03/heloisa-e-eduardo-bolsonaro-1572780289342_v2_615x300.jpg
 ---

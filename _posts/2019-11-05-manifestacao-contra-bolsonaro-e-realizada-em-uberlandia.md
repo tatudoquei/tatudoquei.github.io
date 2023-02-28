@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-05 23:36:22
 pub_date: 2019-11-05 23:36:22
 time_added: 2019-11-06 00:26:48
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/OeRJMneUHmxIXW8SY-60Y6SGR9I=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/3/2/5mECI0SkOBRDG4B8X5DA/manifestacao-contra-bolsonaro-em-uberlandia-01.jpeg
 ---

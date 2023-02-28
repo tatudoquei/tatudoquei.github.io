@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-26 11:06:00
 pub_date: 2021-05-26 11:06:00
 time_added: 2021-05-27 06:19:04
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25034730-0c3-9eb/FT1086A/93075157_Anti-Brexit-protesters-hold-signs-and-a-flag-during-a-demonstration-in-London-Britain-May-2.jpg
 ---

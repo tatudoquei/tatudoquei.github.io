@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-23 21:19:31
 pub_date: 2007-03-16 18:42:00
 time_added: 2019-12-23 21:19:31
-category: avisamos
+categories: [avisamos]
 tags: []
 image: http://p2.trrsf.com/image/fget/cf/800/450/middle/s1.trrsf.com/atm/3/core/_img/terra-logo-white-bg-v3.jpg
 ---

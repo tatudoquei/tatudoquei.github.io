@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-21 16:09:24
 pub_date: 2022-10-21 16:09:24
 time_added: 2022-10-28 20:56:06
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_news/9279/production/_127279473_fisherwomen_resize.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-16 13:04:13
 pub_date: 2020-07-16 13:04:13
 time_added: 2020-07-16 16:38:37
-category: 
+categories: []
 tags: []
 image: https://s.yimg.com/uu/api/res/1.2/rqlSkrq1uxcuwH0JpGnjTA--~B/aD01MDM7dz03NTQ7c209MTthcHBpZD15dGFjaHlvbg--/https:/media.zenfs.com/pt-br/ag_ncia_brasil_161/079ccc0cb0988c12266c66ef9f346535
 ---

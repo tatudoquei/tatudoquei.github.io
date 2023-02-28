@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-16 22:50:00
 pub_date: 2020-06-16 22:50:00
 time_added: 2020-06-19 04:05:05
-category: 
+categories: []
 tags: []
 image: https://s.conjur.com.br/img/b/carga-descarga-mercadoria-carregamento.jpeg
 ---

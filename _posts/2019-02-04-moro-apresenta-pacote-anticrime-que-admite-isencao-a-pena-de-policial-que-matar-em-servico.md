@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-04 10:47:20
 pub_date: 2019-02-04 10:47:20
 time_added: 2019-02-05 00:51:39
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2019/02/51148731_1334886293320611_2714208920624168960_n.jpg
 ---

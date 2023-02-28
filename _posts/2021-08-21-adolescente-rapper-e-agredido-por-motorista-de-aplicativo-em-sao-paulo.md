@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-21 22:19:47
 pub_date: 2021-08-21 22:19:47
 time_added: 2021-09-06 08:18:21
-category: 
+categories: []
 tags: []
 image: https://almapreta.com/images/2021/08/caso_uber_site.jpg
 ---

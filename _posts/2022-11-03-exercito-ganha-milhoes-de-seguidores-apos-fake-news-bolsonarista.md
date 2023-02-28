@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-03 15:33:00
 pub_date: 2022-11-03 15:33:00
 time_added: 2022-11-06 14:18:28
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ef/2022/11/03/fake-news-bolsonarista-de-cunho-golpista-bombou-o-perfil-do-exercito-no-instagram-1667502592611_v2_615x300.jpg
 ---

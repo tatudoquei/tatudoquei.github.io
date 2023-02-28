@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-22 19:02:28
 pub_date: 2020-05-22 19:02:28
 time_added: 2021-07-11 08:19:47
-category: 
+categories: []
 tags: []
 image: https://api.time.com/wp-content/uploads/2020/05/brazil-coronavirus.jpg?quality=85&w=1200&h=628&crop=1
 ---

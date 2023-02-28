@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-18 23:13:02
 pub_date: 2020-07-18 23:13:02
 time_added: 2020-07-19 06:05:55
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2020/07/2019-08-26t182210z_5524913_rc1f03f69040_rtrmadp_3_g7-summit-1.jpg?quality=70&strip=info
 ---

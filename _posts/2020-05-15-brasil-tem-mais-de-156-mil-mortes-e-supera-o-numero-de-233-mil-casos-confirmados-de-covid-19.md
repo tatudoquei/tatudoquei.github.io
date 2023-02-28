@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-15 22:00:00
 pub_date: 2020-05-15 22:00:00
 time_added: 2020-05-17 10:03:14
-category: 
+categories: []
 tags: []
 image: https://www.correiodopovo.com.br/image/policy:1.423442:1589669759/image.jpg?a=191%3A100&q=0.6&w=900&$p$a$q$w=61e089e
 ---

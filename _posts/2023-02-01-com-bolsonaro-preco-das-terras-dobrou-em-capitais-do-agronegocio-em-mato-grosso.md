@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-01 18:00:00
 pub_date: 2023-02-01 18:00:00
 time_added: 2023-02-06 23:19:56
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2023/02/bolsonaro-terras-preco-agronegocio-mato-grosso-redes.jpg
 ---

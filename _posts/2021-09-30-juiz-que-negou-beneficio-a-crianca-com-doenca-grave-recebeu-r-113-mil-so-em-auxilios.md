@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-30 00:05:39
 pub_date: 2021-09-30 00:05:39
 time_added: 2021-10-17 14:31:25
-category: 
+categories: []
 tags: []
 image: https://cdn.revistaforum.com.br/wp-content/uploads/2021/09/csm-crianca-juiz-negativa-c4da4ef290-.jpeg
 ---

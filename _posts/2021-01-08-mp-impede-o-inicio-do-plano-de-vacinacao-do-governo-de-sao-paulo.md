@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-08 23:26:38
 pub_date: 2021-01-08 23:26:38
 time_added: 2021-01-08 20:26:38
-category: 
+categories: []
 tags: []
 image: https://cultura.uol.com.br/upload/tvcultura/noticias/happens_big/20210107232740_50811188697-82f8abe36c-c.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-09 02:00:00
 pub_date: 2019-08-09 02:00:00
 time_added: 2019-08-10 21:08:59
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/6e/2019/08/08/confere-bolsonaro-1565308438789_v2_615x300.jpg
 ---

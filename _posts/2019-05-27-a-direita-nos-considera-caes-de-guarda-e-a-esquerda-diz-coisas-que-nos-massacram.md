@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-27 15:22:00
 pub_date: 2019-05-27 15:22:00
 time_added: 2019-05-29 19:38:18
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23697011-2b3-a33/FT1086A/652/fotoPAF-UJS.png
 ---

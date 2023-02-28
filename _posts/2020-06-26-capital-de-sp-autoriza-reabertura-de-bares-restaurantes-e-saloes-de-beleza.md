@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-26 10:46:00
 pub_date: 2020-06-26 10:46:00
 time_added: 2020-06-26 21:37:54
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/3e/2020/06/19/19jun2020---governador-de-sao-paulo-joao-doria-psdb-em-entrevista-coletiva-para-atualizacao-dos-dados-do-novo-coronavirus-no-estado-1592589241027_v2_615x300.jpg
 ---

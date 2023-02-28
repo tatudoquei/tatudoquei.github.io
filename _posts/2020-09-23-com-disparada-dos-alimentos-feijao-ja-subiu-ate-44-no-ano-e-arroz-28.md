@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-23 10:32:00
 pub_date: 2020-09-23 10:32:00
 time_added: 2020-09-23 22:33:00
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e1/2020/09/09/prato-de-arroz-feijao-e-couve-1599679225658_v2_615x300.jpg
 ---

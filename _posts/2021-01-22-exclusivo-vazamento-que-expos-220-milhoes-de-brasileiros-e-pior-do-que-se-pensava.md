@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-22 17:10:04
 pub_date: 2021-01-22 17:10:04
 time_added: 2021-02-01 20:58:41
-category: 
+categories: []
 tags: []
 image: https://tecnoblog.net/wp-content/uploads/2018/01/bandeira-brasil-ordem.jpg
 ---

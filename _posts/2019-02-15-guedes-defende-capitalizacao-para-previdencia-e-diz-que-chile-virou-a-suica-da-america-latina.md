@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-15 18:05:00
 pub_date: 2019-02-15 18:05:00
 time_added: 2019-10-22 21:35:19
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23457217-ceb-69e/FT1086A/652/81000687_BRASILBrasilia-DF07-02-2019O-ministro-da-Economia-Paulo-Guedes-se-reune-com-o.jpg
 ---

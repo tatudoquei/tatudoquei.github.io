@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-26 08:26:08
 pub_date: 2020-04-26 08:26:08
 time_added: 2020-04-26 22:03:34
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/2TeuNHs_N3A9RLimeQlq0sKuVug=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/M/S/nRGOfgT0AiLtmbAZEHqA/2020-04-23t232820z-2119317185-rc2nag9i9c7l-rtrmadp-3-health-coronavirus-brazil-amazon-1-min.jpg
 ---

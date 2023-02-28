@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-21 14:53:48
 pub_date: 2021-09-21 14:53:48
 time_added: 2021-09-22 21:49:44
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2017/03/CNPQ.jpg
 ---

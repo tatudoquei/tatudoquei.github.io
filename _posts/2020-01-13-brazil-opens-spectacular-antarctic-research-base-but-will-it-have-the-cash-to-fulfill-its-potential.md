@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-13 21:25:00
 pub_date: 2020-01-13 21:25:00
 time_added: 2020-01-16 19:49:27
-category: 
+categories: []
 tags: []
 image: https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/Brazilian_Antarctic_Research_Station_1280x720.jpg?itok=K9ipos88
 ---

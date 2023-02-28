@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-04 11:19:00
 pub_date: 2021-02-04 11:19:00
 time_added: 2021-02-06 12:14:52
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24869012-878-fde/FT1086A/652/arte-1.png
 ---

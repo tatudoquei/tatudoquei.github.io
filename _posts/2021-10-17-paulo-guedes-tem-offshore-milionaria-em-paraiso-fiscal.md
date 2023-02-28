@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-17 17:29:39
 pub_date: 2021-10-17 17:29:39
 time_added: 2021-10-17 14:29:39
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2021/09/guedes-redes.jpg
 ---

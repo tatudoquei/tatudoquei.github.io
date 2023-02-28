@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-06 21:42:00
 pub_date: 2020-12-06 21:42:00
 time_added: 2020-12-07 00:06:30
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/51/2020/09/24/16092020---profissionais-da-area-da-saude-levam-paciente-de-maca-ate-hospital-de-campanha-do-estadio-mane-garrincha-em-brasilia-df-durante-pandemia-do-novo-coronavirus-1600981166101_v2_615x300.jpg
 ---

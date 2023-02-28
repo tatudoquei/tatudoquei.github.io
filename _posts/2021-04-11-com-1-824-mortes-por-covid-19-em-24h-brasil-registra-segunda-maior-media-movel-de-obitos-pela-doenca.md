@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-11 18:00:00
 pub_date: 2021-04-11 18:00:00
 time_added: 2021-05-16 18:23:49
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24966358-5d1-9dc/FT1086A/92353802_FILES-This-file-photo-taken-on-March-31-2021-shows-a-coffin-being-buried-at-the-Vila-Formos.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-11-11 13:37:56
 pub_date: 2018-11-11 13:37:56
 time_added: 2019-12-23 21:15:15
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://ep00.epimg.net/cultura/imagenes/2018/10/30/actualidad/1540877021_709606_1540932251_rrss_normal.jpg
 ---

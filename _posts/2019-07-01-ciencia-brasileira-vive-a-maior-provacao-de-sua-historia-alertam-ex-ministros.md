@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-01 21:49:03
 pub_date: 2019-07-01 21:49:03
 time_added: 2019-07-05 05:09:19
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/07/20190701_03_ex-ministros_CeT.jpg
 ---

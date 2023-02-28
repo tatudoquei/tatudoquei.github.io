@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-20 02:01:00
 pub_date: 2020-04-20 02:01:00
 time_added: 2020-04-21 19:56:27
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b8/2020/04/15/estudantes-ajudam-na-colheita-de-aspargos-em-lohmar-alemanha-durante-pandemia-de-coronavirus-1586982522393_v2_615x300.jpg
 ---

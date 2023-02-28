@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-25 19:54:39
 pub_date: 2021-07-25 19:54:39
 time_added: 2021-07-25 16:54:39
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a6/2020/08/26/o-ex-advogado-do-senador-flavio-bolsonaro-republicanos-rj-frederick-wassef-em-evento-no-palacio-do-planalto-1598472489677_v2_615x300.jpg
 ---

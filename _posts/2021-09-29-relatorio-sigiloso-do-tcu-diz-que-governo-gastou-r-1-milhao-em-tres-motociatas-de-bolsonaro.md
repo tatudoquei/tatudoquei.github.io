@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-29 07:30:00
 pub_date: 2021-09-29 07:30:00
 time_added: 2021-10-17 14:42:06
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/0HP05kJZWhykS5GkN5mtrukrlok=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2021/06/15/93326814_pa_sao_paulo_sp_bolsonaro_faz_passeio_de_moto_em_sao_paulo_._foto_edilson_dantas_-_agenc.jpg
 ---

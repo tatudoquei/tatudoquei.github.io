@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-14 10:00:24
 pub_date: 2021-04-14 10:00:24
 time_added: 2021-04-14 19:08:47
-category: 
+categories: []
 tags: []
 image: https://exame.com/wp-content/uploads/2021/04/GettyImages-530635315.jpg?quality=70&strip=info
 ---

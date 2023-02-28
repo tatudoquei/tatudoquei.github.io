@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-05 08:47:00
 pub_date: 2020-08-05 08:47:00
 time_added: 2020-08-05 16:53:38
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/epoca/24547803-32c-20e/FT1086A/652/88897207_Brazils-Economy-Minister-Paulo-Guedes-speaks-next-to-President-of-Brazils-Lower-House.jpg
 ---

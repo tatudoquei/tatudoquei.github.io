@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-13 17:25:00
 pub_date: 2020-05-13 17:25:00
 time_added: 2020-05-15 21:46:19
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/05/weintraub-redes.jpg
 ---

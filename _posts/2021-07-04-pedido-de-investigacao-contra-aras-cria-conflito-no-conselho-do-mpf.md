@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-04 07:30:00
 pub_date: 2021-07-04 07:30:00
 time_added: 2021-07-25 16:40:20
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24886859-39b-703/FT1086A/PGR.jpg
 ---

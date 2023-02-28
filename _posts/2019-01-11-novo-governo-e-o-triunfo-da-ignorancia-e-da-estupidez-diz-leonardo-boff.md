@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-11 15:11:19
 pub_date: 2019-01-11 15:11:19
 time_added: 2019-12-23 21:41:24
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://i0.wp.com/jornalistaslivres.org/wp-content/uploads/2019/01/boff.jpeg?resize=780%2C490&ssl=1
 ---

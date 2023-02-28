@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-13 22:02:00
 pub_date: 2021-04-13 22:02:00
 time_added: 2021-05-16 20:20:10
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/rkaXZuoTUOMst7Co7V61AIi7A2w=/640x424/top/i.glbimg.com/og/ig/infoglobo1/f/original/2021/04/06/bolsonaroim.jpg
 ---

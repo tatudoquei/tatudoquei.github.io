@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-31 22:01:35
 pub_date: 2021-05-31 22:01:35
 time_added: 2021-06-01 08:40:18
-category: 
+categories: []
 tags: []
 image: https://drauziovarella.uol.com.br/wp-content/uploads/2021/05/202105_drauzio_linha-de-frente_teresina_1200x676-1.jpg
 ---

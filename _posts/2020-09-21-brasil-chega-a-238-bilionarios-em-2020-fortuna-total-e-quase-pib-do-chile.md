@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-21 11:12:00
 pub_date: 2020-09-21 11:12:00
 time_added: 2020-09-21 22:09:44
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/78/2020/09/18/alexandre-behring-um-dos-socios-e-fundadores-da-3g-capital-1600454681090_v2_615x300.jpg
 ---

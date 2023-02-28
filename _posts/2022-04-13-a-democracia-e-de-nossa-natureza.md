@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-04-13 21:24:55
 pub_date: 2022-04-13 21:24:55
 time_added: 2022-04-24 21:01:11
-category: 
+categories: []
 tags: []
 image: https://umagotanooceano.org/wp-content/uploads/2022/04/20220413_Site_2560x1080_a-democracia-e-de-nossa-natureza.png
 ---

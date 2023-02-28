@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-25 12:00:18
 pub_date: 2020-01-25 12:00:18
 time_added: 2020-01-25 13:00:18
-category: 
+categories: []
 tags: []
 image: http://www.ihu.unisinos.br/images/ihu/2020/01/20_01_indigenas_foto_midia_ninja.jpg
 ---

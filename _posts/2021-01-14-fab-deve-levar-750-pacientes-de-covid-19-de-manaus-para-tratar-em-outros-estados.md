@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-14 16:53:15
 pub_date: 2021-01-14 16:53:15
 time_added: 2021-01-15 15:31:22
-category: 
+categories: []
 tags: []
 image: https://www.otempo.com.br/image/contentid/policy:1.2348160:1591827077/000_1T41DM.jpg?f=3x2&w=620&$p$f$w=9883bc0
 ---

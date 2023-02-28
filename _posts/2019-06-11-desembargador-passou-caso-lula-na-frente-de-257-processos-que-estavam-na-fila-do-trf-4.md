@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-11 07:10:13
 pub_date: 2018-01-25 17:55:12
 time_added: 2019-06-11 07:10:13
-category: 
+categories: []
 tags: []
 image: http://cartacampinas.com.br/wordpress/wp-content/uploads/Leandro-Paulsen-silvio-sirangelo-trf4.jpg
 ---

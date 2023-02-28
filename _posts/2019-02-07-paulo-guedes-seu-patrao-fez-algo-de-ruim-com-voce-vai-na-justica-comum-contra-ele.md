@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-07 10:12:28
 pub_date: 2019-02-07 10:12:28
 time_added: 2019-02-10 00:32:27
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2018/10/pg.jpg
 ---

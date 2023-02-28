@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-01 00:26:21
 pub_date: 2022-10-01 00:26:21
 time_added: 2022-10-01 08:00:25
-category: 
+categories: []
 tags: []
 image: https://oeco.org.br/wp-content/uploads/2022/09/queimadas-2.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-16 15:45:00
 pub_date: 2020-05-16 15:45:00
 time_added: 2020-05-17 10:03:16
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b1/2020/04/01/general-hamilton-mourao-vice-presidente-da-republica-1585730420594_v2_615x300.jpg
 ---

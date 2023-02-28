@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-20 20:18:00
 pub_date: 2020-03-20 20:18:00
 time_added: 2020-03-21 12:26:01
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/8b/2019/04/24/28mar2019---o-deputado-eduardo-bolsonaro-psl-sp-filho-do-presidente-jair-bolsonaro-1556117196869_v2_615x300.jpg
 ---

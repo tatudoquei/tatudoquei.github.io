@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-30 13:35:00
 pub_date: 2022-10-30 13:35:00
 time_added: 2022-10-31 00:25:31
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/6d/2022/10/30/relatos-nas-redes-sociais-criticam-operacoes-da-prf-que-supostamente-estao-atrapalhando-o-transito-de-eleitores-1667146720000_v2_615x300.png
 ---

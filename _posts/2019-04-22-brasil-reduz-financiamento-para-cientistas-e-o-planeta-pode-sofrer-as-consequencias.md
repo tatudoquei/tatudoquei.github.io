@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-22 14:20:48
 pub_date: 2019-04-22 14:20:48
 time_added: 2019-04-23 20:28:59
-category: 
+categories: []
 tags: []
 image: https://static.nationalgeographicbrasil.com/files/styles/desktop/public/01_science_gettyimages-859222314.jpg?itok=eqXmz6bb
 ---

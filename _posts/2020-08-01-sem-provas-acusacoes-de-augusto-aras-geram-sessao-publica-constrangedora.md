@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-01 21:35:44
 pub_date: 2020-08-01 21:35:44
 time_added: 2020-08-01 23:35:44
-category: 
+categories: []
 tags: []
 image: https://blogdofred.blogfolha.uol.com.br/files/2020/08/Aras-desabafa.jpg
 ---

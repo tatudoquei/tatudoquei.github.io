@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-23 10:49:00
 pub_date: 2020-04-23 10:49:00
 time_added: 2020-04-23 18:47:23
-category: avisamos
+categories: [avisamos]
 tags: [saúde]
 image: https://f.i.uol.com.br/fotografia/2020/04/04/15860353615e88faa15a956_1586035361_3x2_rt.jpg
 ---

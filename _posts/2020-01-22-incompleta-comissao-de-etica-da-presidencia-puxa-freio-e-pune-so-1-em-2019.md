@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-22 03:00:00
 pub_date: 2020-01-22 03:00:00
 time_added: 2020-01-23 07:09:34
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/88/2020/01/21/o-presidente-da-comissao-de-etica-publica-da-presidencia-paulo-henrique-lucon-1579630202455_v2_615x300.png
 ---

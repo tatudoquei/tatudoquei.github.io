@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-27 09:15:00
 pub_date: 2020-06-27 09:15:00
 time_added: 2020-06-27 15:19:25
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/8b/2020/05/01/calcula-se-que-uma-vacina-poderia-ficar-pronta-entre-12-e-16-meses-1588356688618_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-12 07:00:00
 pub_date: 2021-06-12 07:00:00
 time_added: 2021-06-13 21:06:25
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d6/2020/11/10/fiscalizacao-do-ibama-1605052510998_v2_615x300.jpg
 ---

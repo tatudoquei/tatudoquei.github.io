@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-20 17:02:00
 pub_date: 2020-04-20 17:02:00
 time_added: 2020-04-21 05:39:17
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24382466-243-7a0/FT1086A/652/87894091_Brazilian-President-Jair-Bolsonaro-speaks-after-joining-his-supporters-who-were-taking-part.jpg
 ---

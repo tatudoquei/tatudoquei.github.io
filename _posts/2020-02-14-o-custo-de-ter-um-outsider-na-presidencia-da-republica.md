@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-14 17:57:27
 pub_date: 2020-02-14 17:57:27
 time_added: 2020-02-14 18:57:27
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/colunista_marta.jpg/alternates/LANDSCAPE_768/colunista_marta.jpg
 ---

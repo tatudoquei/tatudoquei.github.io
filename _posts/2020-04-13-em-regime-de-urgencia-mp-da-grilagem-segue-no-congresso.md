@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-13 12:06:55
 pub_date: 2020-04-13 12:06:55
 time_added: 2020-04-15 07:45:53
-category: 
+categories: []
 tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2020/04/Plenario_Camara.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-13 00:57:25
 pub_date: 2021-04-13 00:57:25
 time_added: 2021-05-16 18:25:26
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/04/nunes-marques-impeachment-alexandre-de-moraes-1080x630.jpg
 ---

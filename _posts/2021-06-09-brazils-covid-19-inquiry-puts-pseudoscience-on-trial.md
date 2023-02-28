@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-09 09:15:00
 pub_date: 2021-06-09 09:15:00
 time_added: 2021-06-13 20:57:38
-category: 
+categories: []
 tags: []
 image: https://www.skeptic.org.uk/wp-content/uploads/2021/06/brazil-1542335_1920.jpg
 ---

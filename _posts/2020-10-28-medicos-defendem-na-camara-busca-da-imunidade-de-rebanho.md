@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-28 14:56:00
 pub_date: 2020-10-28 14:56:00
 time_added: 2021-07-04 12:32:06
-category: 
+categories: []
 tags: []
 image: https://img.r7.com/images/nise-yamaguchi-que-ha-exagero-nas-noticias-28102020114433159?dimensions=460x305&
 ---

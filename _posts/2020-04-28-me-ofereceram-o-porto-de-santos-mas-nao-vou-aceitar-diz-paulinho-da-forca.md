@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-28 06:36:36
 pub_date: 2020-04-28 06:36:36
 time_added: 2020-04-29 12:17:51
-category: 
+categories: []
 tags: []
 image: https://brpolitico.com.br/wp-content/uploads/sites/683/2020/04/paulinho-da-forca_280420203521.jpg
 ---

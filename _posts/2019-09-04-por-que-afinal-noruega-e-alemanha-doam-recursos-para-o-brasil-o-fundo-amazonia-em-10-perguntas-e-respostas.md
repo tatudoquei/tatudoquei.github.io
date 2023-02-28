@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-04 20:20:28
 pub_date: 2019-09-04 20:20:28
 time_added: 2019-09-07 08:26:16
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2019/09/Fundo2.jpg
 ---

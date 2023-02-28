@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-05 16:12:53
 pub_date: 2019-12-05 16:12:53
 time_added: 2019-12-06 20:37:35
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/12/WhatsApp-Image-2019-12-05-at-15.42.11v2.jpg
 ---

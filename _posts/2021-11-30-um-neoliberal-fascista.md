@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-30 15:59:56
 pub_date: 2021-11-30 15:59:56
 time_added: 2021-12-13 14:48:47
-category: 
+categories: []
 tags: []
 image: http://jacobin.com.br/wp-content/uploads/2021/11/bolsonaro-paulo-guedes-1-1024x683.png
 ---

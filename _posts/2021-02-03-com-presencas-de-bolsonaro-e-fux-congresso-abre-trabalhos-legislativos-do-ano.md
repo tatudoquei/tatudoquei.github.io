@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-03 19:11:44
 pub_date: 2021-02-03 19:11:44
 time_added: 2021-02-06 12:06:06
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/feoE6hzIkzEtfwUiPB0Sfp9AX1g=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/v/r/cAek4yTbAA2ehaBRxDWQ/abertura-congresso.jpg
 ---

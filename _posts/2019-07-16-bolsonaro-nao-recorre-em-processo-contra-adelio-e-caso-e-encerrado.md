@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-16 22:21:38
 pub_date: 2019-07-16 22:21:38
 time_added: 2020-04-24 20:26:39
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://abrilexame.files.wordpress.com/2019/07/bolsonaro-facada.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

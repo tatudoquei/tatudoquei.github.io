@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-07 07:32:00
 pub_date: 2022-10-07 07:32:00
 time_added: 2022-10-10 07:00:52
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/8b/2022/10/07/lima-duarte-se-posiciona-contra-o-governo-de-jair-bolsonaro-1665145320667_v2_615x300.jpg
 ---

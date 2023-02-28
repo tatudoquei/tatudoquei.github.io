@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-08-10 12:00:00
 pub_date: 2022-08-10 12:00:00
 time_added: 2022-10-03 00:04:42
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2022/08/capa-facebook-ajude-a-publica-a-investigar-a-violencia-nas-eleicoes-de-2022.png
 ---

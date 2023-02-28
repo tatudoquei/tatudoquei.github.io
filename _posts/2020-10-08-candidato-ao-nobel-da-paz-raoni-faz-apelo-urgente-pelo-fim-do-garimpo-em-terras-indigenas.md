@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-08 20:12:43
 pub_date: 2020-10-08 20:12:43
 time_added: 2020-10-08 22:12:43
-category: 
+categories: []
 tags: []
 image: https://www.socioambiental.org/sites/blog.socioambiental.org/files/styles/twitter-card/public/nsa/rs52741_encontro-mebengokr-14-a-1701-aldeia-piaraumt_49423872818_o-lpr.jpg?itok=kKpcv-os
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-05 03:00:00
 pub_date: 2020-04-05 03:00:00
 time_added: 2020-04-05 19:13:19
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24351569-58e-275/FT1086A/652/A-ciencia-assumiu-protagonismo-e-despertou-como-nunca-o-interesse-dos-leitores.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-30 18:54:18
 pub_date: 2020-04-30 18:54:18
 time_added: 2020-04-30 22:34:23
-category: 
+categories: []
 tags: []
 image: https://vejario.abril.com.br/wp-content/uploads/2016/11/2257_biscoito-globo.jpeg?quality=70&strip=info&w=680&h=453&crop=1
 ---

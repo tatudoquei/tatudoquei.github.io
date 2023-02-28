@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-27 11:33:14
 pub_date: 2020-04-27 11:33:14
 time_added: 2020-04-27 21:44:07
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/05/ministro-da-ciecc82ncia-tecnologia-inovaccca7occ83es-e-comunicaccca7occ83es-marcos-pontesfoto-marcelo-camargoagencia-brasil-1.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

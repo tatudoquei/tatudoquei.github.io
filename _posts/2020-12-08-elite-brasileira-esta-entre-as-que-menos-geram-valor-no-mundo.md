@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-08 16:12:36
 pub_date: 2020-12-08 16:12:36
 time_added: 2021-02-15 18:53:38
-category: 
+categories: []
 tags: []
 image: https://exame.com/wp-content/uploads/2020/12/desigualdade.jpg?quality=70&strip=info
 ---

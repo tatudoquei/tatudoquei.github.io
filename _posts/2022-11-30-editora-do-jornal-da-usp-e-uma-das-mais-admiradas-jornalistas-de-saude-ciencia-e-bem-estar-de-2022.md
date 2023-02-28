@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-30 23:00:28
 pub_date: 2022-11-30 23:00:28
 time_added: 2022-12-18 22:29:12
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2022/11/20221130_luiza-caires.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-10 04:39:12
 pub_date: 2022-10-10 04:39:12
 time_added: 2022-10-10 06:39:12
-category: 
+categories: []
 tags: []
 image: https://files.nsctotal.com.br/s3fs-public/graphql-upload-files/Bolsonaro%20e%20Lula_3.jpg?B7l9a0Ahfz1G_H5fwhHd2xEiI0BXqgOK&width=600&quality=75
 ---

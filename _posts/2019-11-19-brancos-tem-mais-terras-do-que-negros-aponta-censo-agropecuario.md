@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-19 15:30:27
 pub_date: 2019-11-19 15:30:27
 time_added: 2021-07-04 12:44:51
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2019/11/o-agro-e-braco-img1.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-07 02:30:00
 pub_date: 2020-06-07 02:30:00
 time_added: 2020-06-08 12:33:29
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24466856-683-1d8/FT1086A/652/header-racismo.jpg
 ---

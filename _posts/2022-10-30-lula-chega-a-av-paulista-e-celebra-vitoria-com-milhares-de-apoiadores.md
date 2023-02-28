@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-30 21:55:00
 pub_date: 2022-10-30 21:55:00
 time_added: 2022-10-31 02:13:32
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b6/2022/10/30/lula-sobe-em-trio-eletrico-na-avenida-paulista-em-sao-paulo-para-comemorar-vitoria-na-eleicao-2022-1667181168251_v2_615x300.png
 ---

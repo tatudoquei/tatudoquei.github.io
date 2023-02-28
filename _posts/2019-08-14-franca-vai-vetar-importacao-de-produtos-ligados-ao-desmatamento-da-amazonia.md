@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-14 22:46:22
 pub_date: 2017-07-06 12:41:42
 time_added: 2019-08-14 22:46:22
-category: 
+categories: []
 tags: []
 image: http://scd.br.rfi.fr/sites/brasil.filesrfi/dynimagecache/0/87/3500/1978/1024/578/sites/images.rfi.fr/files/aef_image/2017-07-06t114840z_979407006_rc1cb58355f0_rtrmadp_3_climatchange-france_0.jpg
 ---

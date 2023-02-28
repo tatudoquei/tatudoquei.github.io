@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-24 03:00:00
 pub_date: 2020-03-24 03:00:00
 time_added: 2020-03-27 22:15:37
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/03/2020/02/06/viktor-orban-primeiro-ministro-da-hungria-1581013279220_v2_615x300.jpg
 ---

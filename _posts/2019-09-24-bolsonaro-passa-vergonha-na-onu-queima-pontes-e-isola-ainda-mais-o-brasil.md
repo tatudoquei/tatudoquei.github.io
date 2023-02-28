@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-24 10:27:00
 pub_date: 2019-09-24 10:27:00
 time_added: 2019-09-28 06:35:09
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/09/olhos-615x300.jpg
 ---

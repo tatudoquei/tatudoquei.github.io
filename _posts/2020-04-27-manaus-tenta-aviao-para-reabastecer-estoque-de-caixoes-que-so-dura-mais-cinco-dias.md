@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-27 02:30:00
 pub_date: 2020-04-27 02:30:00
 time_added: 2020-04-27 11:14:53
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24395217-8c1-9f9/FT1086A/652/87940048_A-collective-burial-of-people-that-have-passed-away-due-to-the-coronavirus-disease-COVID-19.jpg
 ---

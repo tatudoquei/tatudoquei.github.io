@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-11 23:00:00
 pub_date: 2020-02-11 23:00:00
 time_added: 2020-02-22 19:07:20
-category: 
+categories: []
 tags: []
 image: https://www.opovo.com.br/includes/assets/online/geral/imgs/opovo-online-img-og.png
 ---

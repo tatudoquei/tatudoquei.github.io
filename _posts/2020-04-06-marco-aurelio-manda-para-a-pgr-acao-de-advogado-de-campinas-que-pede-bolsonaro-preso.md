@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-06 00:00:07
 pub_date: 2020-04-06 00:00:07
 time_added: 2020-04-07 11:39:41
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2019/12/Jair-Bolsonaro.jpg
 ---

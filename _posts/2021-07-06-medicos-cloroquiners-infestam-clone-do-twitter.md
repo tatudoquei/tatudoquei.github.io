@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-06 18:07:00
 pub_date: 2021-07-06 18:07:00
 time_added: 2021-07-25 16:46:17
-category: 
+categories: []
 tags: []
 image: https://nucleo.jor.br/img/curtas/redes_padroes/outras.png
 ---

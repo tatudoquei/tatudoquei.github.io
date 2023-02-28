@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-30 21:02:00
 pub_date: 2022-10-30 21:02:00
 time_added: 2022-10-31 01:07:25
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/89/2022/10/30/janja-lula-alckmin-e-lu-com-a-bandeira-do-brasil-apoo-o-presidente-eleito-discursar-em-sao-paulo-1667176504618_v2_615x300.jpg
 ---

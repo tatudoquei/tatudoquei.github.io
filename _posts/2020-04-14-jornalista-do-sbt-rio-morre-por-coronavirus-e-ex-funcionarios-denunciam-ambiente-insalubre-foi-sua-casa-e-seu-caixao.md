@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-14 09:19:54
 pub_date: 2020-04-14 09:19:54
 time_added: 2020-04-14 19:28:58
-category: 
+categories: []
 tags: []
 image: https://cdn.revistaforum.com.br/wp-content/uploads/2020/04/new-project-31.jpg
 ---

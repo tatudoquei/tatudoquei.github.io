@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-02 17:00:55
 pub_date: 2021-11-02 17:00:55
 time_added: 2021-11-13 12:37:42
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2021/11/Mario-e-Wagner.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

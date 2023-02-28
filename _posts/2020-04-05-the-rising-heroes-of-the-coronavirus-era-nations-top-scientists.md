@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-05 04:01:11
 pub_date: 2020-04-05 04:01:11
 time_added: 2020-04-05 20:35:49
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/03/31/world/00virus-heroes/00virus-heroes-facebookJumbo.jpg
 ---

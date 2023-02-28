@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-07 19:57:38
 pub_date: 2022-10-07 19:57:38
 time_added: 2022-10-07 21:57:38
-category: 
+categories: []
 tags: []
 image: https://theintercept.imgix.net/wp-uploads/sites/1/2022/10/Nota-Bolsonaro-Schadek-Automotive-header.png?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800
 ---

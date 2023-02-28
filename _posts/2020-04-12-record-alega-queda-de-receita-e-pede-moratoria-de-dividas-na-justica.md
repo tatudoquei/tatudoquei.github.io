@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-12 22:09:00
 pub_date: 2020-04-12 22:09:00
 time_added: 2020-04-14 04:54:07
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/bd/2019/08/02/xuxa-e-entrevistada-por-rodrigo-faro-1564779527135_v2_615x300.jpg
 ---

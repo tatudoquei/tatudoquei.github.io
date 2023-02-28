@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-08 03:00:00
 pub_date: 2021-09-08 03:00:00
 time_added: 2021-09-26 05:08:44
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Supremo-sob-guarda/alternates/LANDSCAPE_768/Supremo%20sob%20guarda
 ---

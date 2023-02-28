@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-20 10:17:00
 pub_date: 2021-04-20 10:17:00
 time_added: 2021-04-20 18:48:06
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24778005-2c9-2fa/FT1086A/xWagner-Rosario.jpg.pagespeed.ic.R-83QRwWq-.jpg
 ---

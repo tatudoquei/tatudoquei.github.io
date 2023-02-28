@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-12 17:45:00
 pub_date: 2021-04-12 17:45:00
 time_added: 2021-05-16 18:25:42
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24960484-247-53f/FT1086A/92368256_FILE-PHOTO-A-medical-specialist-holds-a-vial-of-Sputnik-V-vaccine-against-the-coronavirus-i.jpg
 ---

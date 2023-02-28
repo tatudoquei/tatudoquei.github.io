@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-21 11:04:59
 pub_date: 2019-01-21 11:04:59
 time_added: 2019-01-22 00:46:18
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2018/12/fabricio-queiroz-foto-reproducao-sbt.jpg
 ---

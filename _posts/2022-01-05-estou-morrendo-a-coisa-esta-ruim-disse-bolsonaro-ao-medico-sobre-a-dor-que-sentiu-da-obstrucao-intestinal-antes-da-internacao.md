@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-01-05 15:09:00
 pub_date: 2022-01-05 15:09:00
 time_added: 2022-01-08 12:59:06
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25339509-7b9-e8d/FT1086A/760/Bolsonaro.jpg
 ---

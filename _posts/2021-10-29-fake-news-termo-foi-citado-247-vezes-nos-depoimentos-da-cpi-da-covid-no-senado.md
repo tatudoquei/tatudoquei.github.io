@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-29 20:34:17
 pub_date: 2021-10-29 20:34:17
 time_added: 2021-10-31 22:30:30
-category: 
+categories: []
 tags: []
 image: https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/10/cpi.jpg
 ---

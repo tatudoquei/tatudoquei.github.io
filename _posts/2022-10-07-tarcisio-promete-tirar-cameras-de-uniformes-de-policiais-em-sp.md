@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-07 12:35:00
 pub_date: 2022-10-07 12:35:00
 time_added: 2022-10-10 06:52:21
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/6a/2022/10/07/tarcisio-de-freitas-durante-programa-panico-da-jovem-pan-1665163976419_v2_615x300.png
 ---

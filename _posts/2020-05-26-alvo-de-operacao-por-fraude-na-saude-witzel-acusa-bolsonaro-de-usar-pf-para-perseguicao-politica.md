@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-26 18:38:11
 pub_date: 2020-05-26 18:38:11
 time_added: 2020-05-27 11:52:44
-category: 
+categories: []
 tags: []
 image: https://extra.globo.com/incoming/24446438-4b3-e41/w976h550-PROP/witzel-pronunciamento.jpeg.jpg
 ---

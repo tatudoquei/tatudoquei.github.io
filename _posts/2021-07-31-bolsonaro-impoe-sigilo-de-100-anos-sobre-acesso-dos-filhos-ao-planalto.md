@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-31 15:55:00
 pub_date: 2021-07-31 15:55:00
 time_added: 2021-08-20 20:55:02
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/62/2021/07/08/5fev2020---o-presidente-jair-bolsonaro-sem-partido-em-foto-de-arquivo-1625773614626_v2_615x300.jpg
 ---

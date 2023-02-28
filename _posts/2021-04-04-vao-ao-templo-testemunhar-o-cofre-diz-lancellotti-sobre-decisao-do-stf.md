@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-04 15:11:00
 pub_date: 2021-04-04 15:11:00
 time_added: 2021-05-16 16:59:52
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e4/2021/04/04/padre-julio-lancellotti-critica-decisao-que-liberou-cultos-presenciais-1617565593345_v2_615x300.png
 ---

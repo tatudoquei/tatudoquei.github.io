@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-17 20:24:43
 pub_date: 2023-02-17 20:24:43
 time_added: 2023-02-18 08:53:53
-category: 
+categories: []
 tags: []
 image: https://oeco.org.br/wp-content/uploads/2023/02/operacao-ibama.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-17 23:00:00
 pub_date: 2018-12-17 23:00:00
 time_added: 2020-05-16 16:43:32
-category: 
+categories: []
 tags: []
 image: https://www.popsci.com/resizer/q19_sUJUl3raRKr_z6uAQqFG6JY=/1200x628/smart/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/D3TKHLCTP3IG2FC7ZFARMRTHKQ.jpg
 ---

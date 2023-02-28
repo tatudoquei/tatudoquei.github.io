@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-16 02:37:38
 pub_date: 2019-06-16 02:37:38
 time_added: 2019-06-18 16:03:36
-category: 
+categories: []
 tags: []
 image: https://www.valor.com.br/sites/default/files/imagecache/media_library_big_horizontal/gn/19/06/foto04bra-101-claudia-a3.jpg
 ---

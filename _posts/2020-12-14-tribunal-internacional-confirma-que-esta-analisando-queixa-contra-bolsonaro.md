@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-14 22:11:00
 pub_date: 2020-12-14 22:11:00
 time_added: 2020-12-17 20:53:36
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/28/2020/07/27/21fev2000---juizes-do-tribunal-penal-internacional-1595876859385_v2_615x300.jpg
 ---

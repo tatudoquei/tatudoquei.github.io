@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-29 04:22:00
 pub_date: 2019-04-29 04:22:00
 time_added: 2019-04-30 18:55:35
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/275/files/2019/04/petrobras-fachada-predio-sede-1547476468493_v2_1920x1280-615x300.jpg
 ---

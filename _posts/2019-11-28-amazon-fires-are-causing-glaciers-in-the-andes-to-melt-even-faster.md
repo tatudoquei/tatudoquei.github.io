@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-28 16:28:36
 pub_date: 2019-11-28 16:28:36
 time_added: 2019-11-29 20:32:48
-category: 
+categories: []
 tags: []
 image: https://images.theconversation.com/files/304292/original/file-20191128-178089-1dwq01a.jpg?ixlib=rb-1.1.0&rect=6%2C866%2C3918%2C1955&q=45&auto=format&w=1356&h=668&fit=crop
 ---

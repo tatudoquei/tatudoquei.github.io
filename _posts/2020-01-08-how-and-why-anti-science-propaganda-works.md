@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-08 22:37:09
 pub_date: 2020-01-08 22:37:09
 time_added: 2020-01-11 09:09:36
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://wrestlingwithphilosophy.files.wordpress.com/2020/01/psychological-manipulation-techniques-5-600x480-1.jpg
 ---

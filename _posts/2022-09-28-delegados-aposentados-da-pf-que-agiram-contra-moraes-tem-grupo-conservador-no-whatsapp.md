@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-28 15:00:00
 pub_date: 2022-09-28 15:00:00
 time_added: 2022-10-03 00:20:49
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2022/09/Capa_Facebook_Delegados-aposentados-da-PF-que-agiram-contra-Moraes-tem-grupo-conservador-no-WhatsApp.png
 ---

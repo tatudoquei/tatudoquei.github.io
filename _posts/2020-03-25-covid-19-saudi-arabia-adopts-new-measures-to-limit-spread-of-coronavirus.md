@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-25 10:41:07
 pub_date: 2020-03-25 10:41:07
 time_added: 2020-03-28 07:55:41
-category: 
+categories: []
 tags: []
 image: https://imagevars.gulfnews.com/2020/03/25/20200325_saudi_17110b5a296_medium.jpg
 ---

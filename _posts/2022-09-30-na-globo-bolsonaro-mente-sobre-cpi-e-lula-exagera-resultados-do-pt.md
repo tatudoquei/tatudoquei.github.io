@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-30 00:07:00
 pub_date: 2022-09-30 00:07:00
 time_added: 2022-10-02 23:59:31
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/26/2022/09/30/30set2022--debate-da-rede-globo-reuniu-sete-candidatos-a-presidencia-da-republica-jair-bolsonaro-pl-padre-kelmon-ptb-felipe-davila-novo-soraya-thronicke-uniao-luiz-inacio-lula-da-silva-1664513090053_v2_615x300.png
 ---

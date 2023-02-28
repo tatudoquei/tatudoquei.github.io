@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-12 14:56:50
 pub_date: 2023-01-12 14:56:50
 time_added: 2023-01-15 09:50:01
-category: 
+categories: []
 tags: []
 image: https://www.revistaogrito.com/wp-content/uploads/2023/01/planalto_0498110123-1.jpg
 ---

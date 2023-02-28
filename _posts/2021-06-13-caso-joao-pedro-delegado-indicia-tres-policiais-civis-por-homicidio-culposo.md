@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-13 19:01:21
 pub_date: 2021-06-13 19:01:21
 time_added: 2021-06-13 21:01:21
-category: 
+categories: []
 tags: []
 image: https://extra.globo.com/incoming/24477892-000-41c/w533h800/joao-pedro.jpeg.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-22 19:10:00
 pub_date: 2019-11-22 19:10:00
 time_added: 2020-01-17 19:32:07
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/11/olavo-redes-1574453547.jpg
 ---

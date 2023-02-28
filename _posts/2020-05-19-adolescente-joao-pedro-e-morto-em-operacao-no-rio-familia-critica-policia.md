@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-19 07:59:00
 pub_date: 2020-05-19 07:59:00
 time_added: 2020-05-19 18:47:55
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c2/2020/05/19/joao-pedro-14-e-morto-apos-operacao-policial-em-sao-goncalo-rj-1589892743475_v2_615x300.jpg
 ---

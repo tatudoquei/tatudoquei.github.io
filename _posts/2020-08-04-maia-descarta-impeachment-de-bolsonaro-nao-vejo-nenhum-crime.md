@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-04 08:12:21
 pub_date: 2020-08-04 08:12:21
 time_added: 2020-08-04 13:20:16
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2020/07/rodrigo-maia-luis-macedo-camara-dos-deputados-1100x630.jpeg
 ---

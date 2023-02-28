@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-27 07:30:21
 pub_date: 2023-01-27 07:30:21
 time_added: 2023-02-04 11:20:40
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/zKPYKj22LvEpyRsgp5zug2AUHzM=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/X/a/QZVDYlSwaHTsuIK2YxYQ/valdemar.png
 ---

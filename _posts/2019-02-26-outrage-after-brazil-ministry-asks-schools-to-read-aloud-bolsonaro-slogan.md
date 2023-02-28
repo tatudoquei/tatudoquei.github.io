@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-26 20:55:16
 pub_date: 2019-02-26 20:55:16
 time_added: 2019-12-23 21:21:00
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://i.guim.co.uk/img/media/ab5a224778a12245dcc72bb52902427ecb37eff2/0_93_3670_2201/master/3670.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=ae00ba72ba4a01c0894f4a45a5591f7a
 ---

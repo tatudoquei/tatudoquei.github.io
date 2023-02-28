@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-05 21:16:42
 pub_date: 2021-04-05 21:16:42
 time_added: 2021-05-29 21:24:59
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2020/07/21170818/guedes-maia-alcolumbre-reforma-tributaria8-1.jpeg
 ---

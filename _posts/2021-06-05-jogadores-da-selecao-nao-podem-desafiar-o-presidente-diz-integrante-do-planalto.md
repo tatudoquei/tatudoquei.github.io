@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-05 19:01:14
 pub_date: 2021-06-05 19:01:14
 time_added: 2021-06-06 06:47:43
-category: 
+categories: []
 tags: []
 image: https://blogs.correiobraziliense.com.br/vicente/wp-content/uploads/sites/16/2021/06/Selecao.jpg
 ---

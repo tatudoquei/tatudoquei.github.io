@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-17 13:37:49
 pub_date: 2023-01-17 13:37:49
 time_added: 2023-01-21 04:02:14
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/josuegomesdasilva/alternates/LANDSCAPE_768/josuegomesdasilva
 ---

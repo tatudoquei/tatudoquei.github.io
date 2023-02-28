@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-08 09:56:00
 pub_date: 2019-12-08 09:56:00
 time_added: 2019-12-09 23:44:19
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/fb/2019/11/27/o-presidente-jair-bolsonaro-em-evento-realizado-em-manaus-1574855322922_v2_615x300.jpg
 ---

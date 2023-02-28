@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-01 19:07:04
 pub_date: 2019-08-01 19:07:04
 time_added: 2019-08-01 21:07:04
-category: 
+categories: []
 tags: []
 image: https://media.gazetadopovo.com.br/2019/05/31212215/bolsonaro-bancada-novo-foto-marcos-correa-pr-660x372.jpg
 ---

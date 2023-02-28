@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-19 02:03:00
 pub_date: 2020-07-19 02:03:00
 time_added: 2020-07-22 05:09:14
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/07/GettyImages-1220639598-moro.jpg
 ---

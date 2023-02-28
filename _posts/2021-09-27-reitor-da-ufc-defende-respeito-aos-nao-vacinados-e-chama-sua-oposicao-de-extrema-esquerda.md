@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-27 18:58:00
 pub_date: 2021-09-27 18:58:00
 time_added: 2021-10-17 14:36:06
-category: 
+categories: []
 tags: []
 image: https://www.opovo.com.br/_midias/jpg/2019/10/04/750x500/1_candido_albuquerque3-10125708.jpg
 ---

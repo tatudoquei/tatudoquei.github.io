@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-11 15:23:39
 pub_date: 2023-01-11 15:23:39
 time_added: 2023-01-14 14:06:06
-category: 
+categories: []
 tags: []
 image: https://brazilian.report/wp-content/uploads/2023/01/mcajr_abr_qg_acampamento_0901233660.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-20 17:11:33
 pub_date: 2020-07-20 17:11:33
 time_added: 2020-07-20 22:28:48
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/SGexfNIuDYxO3DKpfWKucgtveV0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/u/s/0bSvfRSxO3zBct8Ex1HQ/isabele.jpg
 ---

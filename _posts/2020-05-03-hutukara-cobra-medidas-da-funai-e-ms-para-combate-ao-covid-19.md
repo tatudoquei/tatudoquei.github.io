@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-03 21:04:14
 pub_date: 2020-05-03 21:04:14
 time_added: 2020-05-03 23:04:14
-category: 
+categories: []
 tags: []
 image: https://ebvadmin.com.br/public/images/noti-1588524071.jpg
 ---

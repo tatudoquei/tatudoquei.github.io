@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-29 22:25:53
 pub_date: 2021-04-29 22:25:53
 time_added: 2021-04-30 06:11:57
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/04/rafael-para-04.jpg
 ---

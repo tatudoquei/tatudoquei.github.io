@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-15 12:35:32
 pub_date: 2020-04-15 12:35:32
 time_added: 2020-04-15 22:33:07
-category: 
+categories: []
 tags: []
 image: https://cdn-statics.brazilian.report/wp-content/uploads/2020/04/ddedfr.jpg
 ---

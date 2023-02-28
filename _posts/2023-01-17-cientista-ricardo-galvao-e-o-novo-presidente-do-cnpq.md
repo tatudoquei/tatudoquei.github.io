@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-17 21:52:44
 pub_date: 2023-01-17 21:52:44
 time_added: 2023-01-21 04:03:11
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Ricardo-Galv%C3%A3o/alternates/LANDSCAPE_768/Ricardo%20Galv%C3%A3o
 ---

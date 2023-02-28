@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-30 18:13:00
 pub_date: 2019-04-30 18:13:00
 time_added: 2019-05-01 08:54:24
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/94/2019/04/25/24abr2019---pronunciamento-do-presidente-da-republica-jair-bolsonaro-sobre-reforma-da-previdencia-1556202354930_v2_615x300.jpg
 ---

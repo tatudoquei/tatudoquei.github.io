@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-01 13:14:32
 pub_date: 2021-03-01 13:14:32
 time_added: 2021-03-06 22:08:20
-category: refletimos
+categories: [refletimos]
 tags: [saúde]
 image: https://static.poder360.com.br/2021/02/covas_cemiterio-1200x630.jpeg
 ---

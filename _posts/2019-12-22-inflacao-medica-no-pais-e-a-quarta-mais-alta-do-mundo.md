@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-22 07:04:00
 pub_date: 2019-12-22 07:04:00
 time_added: 2019-12-24 22:56:58
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24049861-884-90a/FT1086A/652/mamografia.jpg
 ---

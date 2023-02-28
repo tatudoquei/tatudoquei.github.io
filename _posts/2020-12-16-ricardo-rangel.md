@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-16 15:08:24
 pub_date: 2020-12-16 15:08:24
 time_added: 2021-06-13 20:57:03
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2020/05/eduardo-pazuello3.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-23 13:47:00
 pub_date: 2021-08-23 13:47:00
 time_added: 2021-09-06 08:28:02
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25166772-f96-c36/FT1086A/760/94899731_Brazils-President-Jair-Bolsonaro-looks-on-before-the-depart-of-the-Brazilian-firefight.jpg
 ---

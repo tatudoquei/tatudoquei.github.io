@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-31 20:20:00
 pub_date: 2021-01-31 20:20:00
 time_added: 2021-02-01 20:58:37
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/88/2021/01/31/na-praia-do-gonzaga-em-santos-sp-banhistas-encheram-a-areia-e-enfrentaram-as-restricoes-impostas-pela-pandemia-do-novo-coronavirus-1612133224026_v2_615x300.jpg
 ---

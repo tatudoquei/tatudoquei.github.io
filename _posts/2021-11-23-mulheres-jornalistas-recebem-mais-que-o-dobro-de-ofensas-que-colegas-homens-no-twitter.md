@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-23 15:17:46
 pub_date: 2021-11-23 15:17:46
 time_added: 2021-11-25 02:41:58
-category: 
+categories: []
 tags: []
 image: https://www.nucleo.jor.br/content/images/2021/11/reportagem_azmina.jpeg
 ---

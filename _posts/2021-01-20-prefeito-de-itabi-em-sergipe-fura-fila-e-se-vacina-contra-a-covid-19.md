@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-20 13:39:00
 pub_date: 2021-01-20 13:39:00
 time_added: 2021-01-22 21:48:37
-category: 
+categories: []
 tags: [saúde]
 image: https://conteudo.imguol.com.br/c/noticias/7c/2021/01/20/o-prefeito-de-itabi-junior-de-amynthas-dem-publicou-video-nas-redes-sociais-justificando-a-imunizacao-contra-a-covid-19-1611149022677_v2_615x300.png
 ---

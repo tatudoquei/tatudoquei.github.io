@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-28 14:48:00
 pub_date: 2020-05-28 14:48:00
 time_added: 2020-05-29 11:34:07
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24450889-93f-7ce/FT1086A/652/pirambu.jpg
 ---

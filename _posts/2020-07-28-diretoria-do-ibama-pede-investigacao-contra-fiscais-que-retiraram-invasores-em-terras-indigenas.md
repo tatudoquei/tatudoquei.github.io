@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-28 14:54:00
 pub_date: 2020-07-28 14:54:00
 time_added: 2020-07-28 23:43:48
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24227904-938-0c8/FT1086A/652/83944430_ESPECIAL-A-CORRIDA-PELO-OURO-DENTRO-DA-RESERVA-YANOMAMI-BRASILBoa-Vista-RR01-08-2019.jpg
 ---

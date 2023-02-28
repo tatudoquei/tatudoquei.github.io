@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-01 22:00:00
 pub_date: 2021-04-01 22:00:00
 time_added: 2021-04-02 14:24:19
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/puuezYXoucdL7omwGIcUStpxCCQ=/645x388/i.glbimg.com/og/ig/infoglobo1/f/original/2021/04/01/montagem_seis.jpg
 ---

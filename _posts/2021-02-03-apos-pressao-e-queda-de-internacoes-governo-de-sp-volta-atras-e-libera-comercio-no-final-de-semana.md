@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-03 12:02:00
 pub_date: 2021-02-03 12:02:00
 time_added: 2021-02-06 12:05:01
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/brasil/24849569-856-d12/FT1086A/652/91235909_SO-Sao-PauloSP17-01-2021-Governador-Joao-Doria-anuncia-o-inicio-davacinacao-de-va.jpg
 ---

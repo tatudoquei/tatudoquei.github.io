@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-20 14:03:00
 pub_date: 2020-04-20 14:03:00
 time_added: 2020-04-21 19:56:49
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a5/2019/05/28/23abr2019---wilson-lima-psc-governador-do-amazonas-1559065768909_v2_615x300.jpg
 ---

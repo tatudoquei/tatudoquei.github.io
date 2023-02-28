@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-30 16:05:00
 pub_date: 2023-01-30 16:05:00
 time_added: 2023-02-03 21:23:28
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/05/2023/01/30/300123---lula-em-reuniao-com-ministros-sobre-povo-yanomami-1675094642653_v2_615x300.jpg
 ---

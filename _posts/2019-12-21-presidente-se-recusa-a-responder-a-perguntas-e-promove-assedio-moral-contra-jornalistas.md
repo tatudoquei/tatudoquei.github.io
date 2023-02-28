@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-21 09:44:56
 pub_date: 2019-12-21 09:44:56
 time_added: 2019-12-21 10:44:56
-category: 
+categories: []
 tags: []
 image: https://abraji-bucket-001.s3.sa-east-1.amazonaws.com/uploads/news/image/0784de87-b438-4720-b25f-baa1cf396b63/231916.png
 ---

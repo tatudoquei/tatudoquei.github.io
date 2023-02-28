@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-11 18:11:22
 pub_date: 2020-02-11 18:11:22
 time_added: 2020-02-12 07:55:57
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2018/09/esplanada_dos_ministerios.jpg
 ---

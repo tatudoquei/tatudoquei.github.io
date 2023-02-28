@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-20 17:37:22
 pub_date: 2021-08-20 17:37:22
 time_added: 2021-08-20 21:59:13
-category: 
+categories: []
 tags: []
 image: https://cimi.org.br/wp-content/uploads/2021/07/indigenas-ccj-andressa-zumpano-art-pastorais-campo-01-scaled.jpeg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-13 12:06:22
 pub_date: 2021-12-13 12:06:22
 time_added: 2021-12-13 14:55:24
-category: 
+categories: []
 tags: []
 image: https://cdn.brasildefato.com.br/media/e856020b71ec621391615f39ef4436ea.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-23 21:06:34
 pub_date: 2020-07-23 21:06:34
 time_added: 2020-07-23 22:05:26
-category: 
+categories: []
 tags: []
 image: https://cdn-istoe-ssl.akamaized.net/wp-content/uploads/sites/14/2020/07/maria-gal-credito-da-foto-reproducao-instagram.jpg
 ---

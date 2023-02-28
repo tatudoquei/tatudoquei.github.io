@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-24 02:01:00
 pub_date: 2019-07-24 02:01:00
 time_added: 2019-07-27 18:08:33
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/fe/2019/07/23/2582010---engenheiros-espaciais-trabalham-dentro-do-laboratorio-de-integracao-e-testes-do-inpe-no-prototipo-do-satelite-argentino-sac-d-1563914623687_v2_615x300.jpg
 ---

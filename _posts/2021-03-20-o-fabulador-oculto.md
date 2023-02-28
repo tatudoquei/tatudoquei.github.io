@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-20 22:13:44
 pub_date: 2021-03-20 22:13:44
 time_added: 2021-03-20 23:13:44
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2021/03/174_vultosdarepublica_redes.jpg
 ---

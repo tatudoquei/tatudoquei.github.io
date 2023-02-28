@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-29 04:56:19
 pub_date: 2019-06-29 04:56:19
 time_added: 2019-06-29 18:51:13
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/06/brasil-sergio-moro-30032017-012-1.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

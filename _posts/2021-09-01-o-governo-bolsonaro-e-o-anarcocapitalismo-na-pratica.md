@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-01 19:19:24
 pub_date: 2021-09-01 19:19:24
 time_added: 2021-11-13 12:38:31
-category: 
+categories: []
 tags: []
 image: https://nadanovonofrontcom.files.wordpress.com/2021/09/grafico2-ffaa2.jpg
 ---

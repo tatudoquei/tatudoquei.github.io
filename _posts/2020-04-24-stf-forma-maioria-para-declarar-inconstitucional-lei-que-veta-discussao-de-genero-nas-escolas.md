@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-24 21:02:00
 pub_date: 2020-04-24 21:02:00
 time_added: 2020-04-25 06:23:29
-category: resistimos
+categories: [resistimos]
 tags: [educação]
 image: https://f.i.uol.com.br/fotografia/2020/02/17/15819696105e4af0ca881ec_1581969610_3x2_rt.jpg
 ---

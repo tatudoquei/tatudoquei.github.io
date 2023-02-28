@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-27 18:45:15
 pub_date: 2019-09-27 18:45:15
 time_added: 2019-10-03 07:21:03
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/09/20190927_00_lixao_trabalhadores.jpg
 ---

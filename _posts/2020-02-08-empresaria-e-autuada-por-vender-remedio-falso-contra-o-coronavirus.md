@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-08 16:09:00
 pub_date: 2020-02-08 16:09:00
 time_added: 2020-02-11 06:57:23
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c7/2020/02/08/empresaria-e-autuada-por-vender-remedio-falso-contra-o-coronavirus-na-internet-1581192298933_v2_615x300.jpg
 ---

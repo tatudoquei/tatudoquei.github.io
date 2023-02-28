@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-30 10:36:00
 pub_date: 2021-04-30 10:36:00
 time_added: 2021-04-30 20:51:06
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24695181-dc1-431/FT1086A/guajajara.jpg
 ---

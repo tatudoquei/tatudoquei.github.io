@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-23 00:01:33
 pub_date: 2021-01-23 00:01:33
 time_added: 2021-01-26 18:52:48
-category: 
+categories: []
 tags: []
 image: https://static.reuters.com/resources/r/?m=02&d=20210123&t=2&i=1548774944&r=LYNXMPEH0M000&w=800
 ---

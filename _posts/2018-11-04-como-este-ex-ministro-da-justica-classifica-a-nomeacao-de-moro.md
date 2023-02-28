@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-11-04 13:34:00
 pub_date: 2018-11-04 13:34:00
 time_added: 2019-12-23 21:19:30
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Jos%C3%A9-Carlos-Dias/ALTERNATES/LANDSCAPE_720/Jos%C3%A9%20Carlos%20Dias
 ---

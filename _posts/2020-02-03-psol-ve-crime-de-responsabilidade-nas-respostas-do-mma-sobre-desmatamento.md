@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-03 16:57:00
 pub_date: 2020-02-03 16:57:00
 time_added: 2020-02-04 19:53:59
-category: 
+categories: []
 tags: []
 image: https://ambiencia.blogfolha.uol.com.br/files/2019/11/salles-panico.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-21 15:38:00
 pub_date: 2021-04-21 15:38:00
 time_added: 2021-05-16 20:47:22
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/19/2021/04/07/vacina-de-astrazeneca-e-universidade-de-oxford-deve-continuar-a-ser-usada-nas-campanhas-de-imunizacao-1617835659931_v2_615x300.png
 ---

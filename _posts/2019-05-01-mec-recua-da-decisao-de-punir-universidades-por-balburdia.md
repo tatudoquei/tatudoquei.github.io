@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-01 13:07:31
 pub_date: 2019-05-01 13:07:31
 time_added: 2019-05-02 19:35:02
-category: recuadas
+categories: [recuadas]
 tags: [ciência, educação]
 image: https://abrilexame.files.wordpress.com/2019/04/abraham-weintraub-mex.gif?w=680&h=453&crop=1
 ---

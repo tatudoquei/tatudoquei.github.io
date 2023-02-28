@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-19 07:00:00
 pub_date: 2020-12-19 07:00:00
 time_added: 2020-12-19 22:17:48
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/cf/2020/07/27/sede-do-tribunal-penal-internacional-com-sede-em-haia-na-holanda-1595876614042_v2_615x300.jpg
 ---

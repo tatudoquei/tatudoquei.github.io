@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-06 14:15:48
 pub_date: 2019-09-06 14:15:48
 time_added: 2019-09-07 08:18:10
-category: 
+categories: []
 tags: []
 image: https://assets.b9.com.br/wp-content/uploads/2019/09/censura-crivella-vingadores.jpg
 ---

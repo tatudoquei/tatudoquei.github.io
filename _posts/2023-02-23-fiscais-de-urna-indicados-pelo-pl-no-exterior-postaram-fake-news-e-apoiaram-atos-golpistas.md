@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-23 17:00:00
 pub_date: 2023-02-23 17:00:00
 time_added: 2023-02-24 00:45:14
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2023/02/Capa_Facebook_Fiscais-de-urna-indicados-por-PL-no-exterior-postaram-fake-news-e-apoiaram-atos-golpistas.png
 ---

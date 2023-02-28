@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-02 18:57:17
 pub_date: 2021-07-02 18:57:17
 time_added: 2021-07-24 08:20:18
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/07/STF.jpg
 ---

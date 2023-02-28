@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-06 11:29:00
 pub_date: 2020-01-06 11:29:00
 time_added: 2020-01-07 09:02:34
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/34/2020/01/06/presidente-jair-bolsonaro-na-saida-do-palacio-da-alvorada-1578320678402_v2_615x300.jpg
 ---

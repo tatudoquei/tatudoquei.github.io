@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-21 07:04:11
 pub_date: 2023-01-21 07:04:11
 time_added: 2023-01-21 04:04:11
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2023/01/Capa_Facebook_Segunda-resex-mais-desmatada-da-Amazonia-tem-185-mil-cabecas-de-gado-e-so-2-multas.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-04 22:42:03
 pub_date: 2019-02-04 22:42:03
 time_added: 2019-02-04 23:42:03
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://www.brasil247.com/images/cms-image-000617605.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-06 22:00:00
 pub_date: 2020-06-06 22:00:00
 time_added: 2020-06-11 18:13:46
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/7B9D/production/_112754613_bolsonaro2.jpg
 ---

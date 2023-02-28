@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-02 04:02:00
 pub_date: 2019-12-02 04:02:00
 time_added: 2020-01-25 15:38:01
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/10/panoramica-redes-1572451316.jpg
 ---

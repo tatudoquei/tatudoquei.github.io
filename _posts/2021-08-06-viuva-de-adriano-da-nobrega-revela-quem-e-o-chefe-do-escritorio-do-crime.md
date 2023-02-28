@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-06 09:00:23
 pub_date: 2021-08-06 09:00:23
 time_added: 2021-08-20 21:13:56
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2021/08/VIUVA_ADRIANO-NOBREGA-JULIA-LOTUFO-1.jpg.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

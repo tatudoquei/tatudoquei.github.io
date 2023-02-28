@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-14 17:36:00
 pub_date: 2020-05-14 17:36:00
 time_added: 2020-05-17 09:46:35
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/4f/2020/05/14/14052020---funcionarios-do-cemiterio-sao-francisco-xavier-maior-cemiterio-publico-do-rio-de-janeiro-sao-vistos-com-trajes-de-protecao-durante-o-sepultamento-de-corpos-vitima-de-coronavirus-1589485847548_v2_615x300.jpg
 ---

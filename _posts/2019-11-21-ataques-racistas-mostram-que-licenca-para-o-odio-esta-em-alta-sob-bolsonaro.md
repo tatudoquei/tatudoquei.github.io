@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-21 11:45:00
 pub_date: 2019-11-21 11:45:00
 time_added: 2019-11-21 21:59:03
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/11/coronel-tadeu-placa-615x300.jpg
 ---

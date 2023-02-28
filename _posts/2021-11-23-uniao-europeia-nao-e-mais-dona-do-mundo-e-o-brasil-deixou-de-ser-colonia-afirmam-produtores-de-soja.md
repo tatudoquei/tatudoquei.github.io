@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-23 09:37:00
 pub_date: 2021-11-23 09:37:00
 time_added: 2021-11-25 02:36:28
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/economia/25157254-d42-0e6/FT1086A/760/Producao-de-soja.jpg
 ---

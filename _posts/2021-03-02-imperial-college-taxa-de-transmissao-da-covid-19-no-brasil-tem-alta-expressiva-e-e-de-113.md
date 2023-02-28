@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-02 15:56:00
 pub_date: 2021-03-02 15:56:00
 time_added: 2021-03-06 22:09:09
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24905643-728-afd/FT1086A/652/mortes.jpg
 ---

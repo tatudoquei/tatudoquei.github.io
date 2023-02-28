@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-10 09:09:09
 pub_date: 2020-04-10 09:09:09
 time_added: 2020-04-10 11:09:09
-category: 
+categories: []
 tags: []
 image: https://api.time.com/wp-content/uploads/2020/04/GettyImages-1209293938.jpg?quality=85&w=1024&h=628&crop=1
 ---

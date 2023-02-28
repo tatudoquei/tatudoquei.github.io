@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-06 14:05:04
 pub_date: 2020-09-06 14:05:04
 time_added: 2020-09-06 16:05:04
-category: 
+categories: []
 tags: []
 image: https://www.socioambiental.org/sites/blog.socioambiental.org/files/styles/twitter-card/public/nsa/landau_kabu_protesto_br163_10.jpg?itok=pHiAl3PS
 ---

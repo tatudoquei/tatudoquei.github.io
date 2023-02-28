@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-02 14:01:54
 pub_date: 2019-10-02 14:01:54
 time_added: 2019-10-03 07:43:35
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2019/10/augusto-aras.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-16 12:07:00
 pub_date: 2021-03-16 12:07:00
 time_added: 2021-03-19 00:39:59
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/30/2020/11/04/imagem-ilustrativa-de-auxilio-emergencial-1604528879298_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-03 10:40:00
 pub_date: 2019-11-03 10:40:00
 time_added: 2019-11-08 23:07:38
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2019/11/guedes-wilson-dias-abr-1200x630.jpg
 ---

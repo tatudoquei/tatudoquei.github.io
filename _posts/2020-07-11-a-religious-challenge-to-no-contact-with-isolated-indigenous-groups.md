@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-11 00:00:00
 pub_date: 2020-07-11 00:00:00
 time_added: 2020-07-10 10:27:56
-category: 
+categories: []
 tags: []
 image: https://www.economist.com/sites/default/files/images/print-edition/20200711_AMP003_0.jpg
 ---

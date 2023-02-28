@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-14 20:54:00
 pub_date: 2023-02-14 20:54:00
 time_added: 2023-02-26 17:57:30
-category: 
+categories: []
 tags: []
 image: https://s.conjur.com.br/img/b/juiza-ludmila-lins-grilo.jpeg
 ---

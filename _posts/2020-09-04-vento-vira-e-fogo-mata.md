@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-04 15:58:00
 pub_date: 2020-09-04 15:58:00
 time_added: 2020-09-05 11:54:09
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2020/09/bombeiro_040920_redes.jpg
 ---

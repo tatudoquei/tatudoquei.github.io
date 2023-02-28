@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-21 18:27:00
 pub_date: 2021-05-21 18:27:00
 time_added: 2021-05-22 16:18:13
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25011881-b18-894/FT1086A/kei.jpg
 ---

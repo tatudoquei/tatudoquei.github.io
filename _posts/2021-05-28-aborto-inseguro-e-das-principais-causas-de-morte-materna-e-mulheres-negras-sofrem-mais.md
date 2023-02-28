@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-28 16:14:10
 pub_date: 2021-05-28 16:14:10
 time_added: 2021-06-19 06:07:10
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/05/facebook-aborto-inseguro-segue-entre-as-principais-causas-de-morte-materna-e-mulheres-negras-sao-as-que-mais-sofrem-diz-pesquisadora.png
 ---

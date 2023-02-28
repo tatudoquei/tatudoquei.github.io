@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-30 23:21:00
 pub_date: 2019-03-30 23:21:00
 time_added: 2019-04-01 07:11:53
-category: 
+categories: []
 tags: []
 image: https://hashtag.blogfolha.uol.com.br/files/2019/03/bolsonaro_bandeira.jpg
 ---

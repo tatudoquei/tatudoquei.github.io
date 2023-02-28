@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-22 17:00:00
 pub_date: 2023-02-22 17:00:00
 time_added: 2023-02-24 00:41:04
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2023/02/Capa_Facebook_Campeoes-de-ausencias-e-omissoes-o-papel-de-cada-ministerio-nas-atas-secretas-1.png
 ---

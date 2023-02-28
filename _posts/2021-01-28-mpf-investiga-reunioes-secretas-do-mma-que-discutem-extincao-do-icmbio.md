@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-28 21:48:07
 pub_date: 2021-01-28 21:48:07
 time_added: 2021-02-07 23:09:42
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/01/Salles-Destaque.jpg
 ---

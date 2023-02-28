@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-24 21:45:55
 pub_date: 2021-03-24 21:45:55
 time_added: 2021-03-27 19:04:18
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/03/ANVISA-Sede-AgenciaNacional-de-VigilaciaSanitaria-Coranavirus-Covd19-18-1200x630.jpg
 ---

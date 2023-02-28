@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-29 09:47:00
 pub_date: 2020-04-29 09:47:00
 time_added: 2020-05-01 18:04:29
-category: 
+categories: []
 tags: []
 image: https://imagens1.ne10.uol.com.br/blogsjconline/olhovivo/2017/07/medico741.jpg
 ---

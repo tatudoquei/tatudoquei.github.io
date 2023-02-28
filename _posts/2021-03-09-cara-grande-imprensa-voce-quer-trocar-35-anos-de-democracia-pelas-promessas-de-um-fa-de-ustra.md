@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-09 04:15:00
 pub_date: 2021-03-09 04:15:00
 time_added: 2021-03-14 01:17:02
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2021/03/redes-fabbi.jpg
 ---

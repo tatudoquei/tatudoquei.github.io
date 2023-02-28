@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-29 15:51:00
 pub_date: 2021-03-29 15:51:00
 time_added: 2021-03-30 04:51:09
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/4a/2021/03/25/o-novo-ministro-da-saude-marcelo-queiroga-1616720473154_v2_615x300.jpg
 ---

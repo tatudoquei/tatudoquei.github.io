@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-20 11:39:00
 pub_date: 2020-03-20 11:39:00
 time_added: 2020-03-20 17:14:04
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f8/2020/03/18/jair-bolsonaro-sem-partido-usa-a-mascara-pendurada-na-orelha-durante-coletiva-sobre-coronavirus-1584559871319_v2_615x300.jpg
 ---

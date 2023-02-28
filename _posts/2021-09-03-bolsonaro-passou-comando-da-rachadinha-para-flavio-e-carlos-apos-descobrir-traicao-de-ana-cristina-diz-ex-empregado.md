@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-03 12:43:29
 pub_date: 2021-09-03 12:43:29
 time_added: 2021-10-30 17:35:07
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2021/09/02224129/ANA-CRISTINA-VALLE-JAIR-BOLSONARO-1.jpg.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-31 19:11:43
 pub_date: 2022-12-31 19:11:43
 time_added: 2023-01-06 23:23:06
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Bras%C3%ADlia-posse-Lula-2023/alternates/LANDSCAPE_768/Bras%C3%ADlia%20posse%20Lula%202023%20
 ---

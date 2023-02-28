@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-07 05:41:46
 pub_date: 2021-02-07 05:41:46
 time_added: 2021-02-07 06:41:46
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Mara-Gabrilli-Teaser/alternates/LANDSCAPE_768/Mara%20Gabrilli%20-%20Teaser
 ---

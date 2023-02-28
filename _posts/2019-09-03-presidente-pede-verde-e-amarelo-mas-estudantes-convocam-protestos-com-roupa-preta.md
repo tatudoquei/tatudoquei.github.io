@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-03 22:20:00
 pub_date: 2019-09-03 22:20:00
 time_added: 2019-09-04 23:01:09
-category: 
+categories: []
 tags: []
 image: https://painel.blogfolha.uol.com.br/files/2019/05/protestos.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-06 12:23:04
 pub_date: 2019-03-06 12:23:04
 time_added: 2019-03-08 17:10:57
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2019/03/20181130-jair-bolsonaro-ministro-minas-energia.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-08 17:06:02
 pub_date: 2020-09-08 17:06:02
 time_added: 2020-09-08 19:06:02
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/4a/2020/09/07/cientista-faz-analise-em-microscopio-1599508737579_v2_615x300.jpg
 ---

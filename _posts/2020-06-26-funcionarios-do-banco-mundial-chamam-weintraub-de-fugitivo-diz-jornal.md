@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-26 08:12:00
 pub_date: 2020-06-26 08:12:00
 time_added: 2020-10-27 19:49:07
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e0/2020/06/24/ex-ministro-da-educacao-abraham-weintraub-1593029575051_v2_615x300.jpg
 ---

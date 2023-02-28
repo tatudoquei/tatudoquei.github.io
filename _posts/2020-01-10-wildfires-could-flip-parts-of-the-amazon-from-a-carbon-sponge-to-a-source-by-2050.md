@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-10 19:00:18
 pub_date: 2020-01-10 19:00:18
 time_added: 2020-01-11 09:09:53
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://www.sciencenews.org/wp-content/uploads/2020/01/011020_cg_amazon_feat.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-12 06:07:00
 pub_date: 2020-06-12 06:07:00
 time_added: 2020-06-12 19:08:20
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2b/2020/06/12/o-taxista-marcio-antonio-do-nascimento-silva-recoloca-cruzes-na-areia-de-copacabana-depois-que-um-homem-as-retirou-1591958927607_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-12 14:01:36
 pub_date: 2021-04-12 14:01:36
 time_added: 2021-05-16 18:24:33
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/04/bolsonaro-12abr2021-1136x630.png
 ---

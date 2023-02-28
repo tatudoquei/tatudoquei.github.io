@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-09 01:08:32
 pub_date: 2019-10-09 01:08:32
 time_added: 2019-10-10 02:08:49
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2019/10/Travessia_28-Atalaia.jpg
 ---

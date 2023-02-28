@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-30 15:37:38
 pub_date: 2021-03-30 15:37:38
 time_added: 2021-03-30 16:55:44
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/hLhpdJCZC1a4iFd4ocmAqtnzH6w=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/V/a/9TmV36R8aL78v6y8mlNA/montagem-comandantes.png
 ---

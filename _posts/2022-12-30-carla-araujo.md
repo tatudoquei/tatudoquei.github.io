@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-30 11:07:00
 pub_date: 2022-12-30 11:07:00
 time_added: 2022-12-31 12:16:17
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e7/2022/12/30/jair-bolsonaro-pl-em-live-nesta-sexta-feira-30-1672406604349_v2_615x300.jpg
 ---

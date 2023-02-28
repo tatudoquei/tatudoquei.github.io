@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-31 10:58:29
 pub_date: 2019-01-31 10:58:29
 time_added: 2019-02-02 08:15:49
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2019/01/e4675fae124d10dc9b5a6bd71968329b-full.jpg
 ---

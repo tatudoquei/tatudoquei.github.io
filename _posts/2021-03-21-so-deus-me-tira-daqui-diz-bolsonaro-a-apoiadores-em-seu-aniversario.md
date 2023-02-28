@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-21 17:50:52
 pub_date: 2021-03-21 17:50:52
 time_added: 2021-03-27 18:47:44
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/03/Bolsonaro-fala-com-apoiadores.gif
 ---

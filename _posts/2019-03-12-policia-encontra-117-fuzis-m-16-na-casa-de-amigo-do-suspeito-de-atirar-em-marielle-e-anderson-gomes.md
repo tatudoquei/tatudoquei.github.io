@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-12 21:11:22
 pub_date: 2019-03-12 21:11:22
 time_added: 2019-12-23 21:19:32
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://s2.glbimg.com/bfhV8WaGZvY-oMkcUO7SM14LVAE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/D/q/VAZaFFQqOS04g81cTnpQ/whatsapp-image-2019-03-12-at-17.45.16.jpeg
 ---

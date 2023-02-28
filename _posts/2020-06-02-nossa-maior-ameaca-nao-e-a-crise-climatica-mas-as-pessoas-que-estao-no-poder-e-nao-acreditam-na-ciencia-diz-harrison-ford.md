@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-02 16:58:34
 pub_date: 2020-06-02 16:58:34
 time_added: 2020-06-06 22:33:31
-category: 
+categories: []
 tags: []
 image: https://conexaoplaneta.com.br/wp-content/uploads/2020/06/harrison-ford-conexao-planeta.jpg
 ---

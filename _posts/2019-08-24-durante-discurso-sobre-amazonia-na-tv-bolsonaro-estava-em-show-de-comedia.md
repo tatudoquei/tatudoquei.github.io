@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-24 10:15:00
 pub_date: 2019-08-24 10:15:00
 time_added: 2019-08-25 09:32:47
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/4b/2019/08/24/presidente-jair-bolsonaro-e-a-primeira-dama-michelle-com-o-humorista-jonathan-nemer-1566656493830_v2_615x300.jpg
 ---

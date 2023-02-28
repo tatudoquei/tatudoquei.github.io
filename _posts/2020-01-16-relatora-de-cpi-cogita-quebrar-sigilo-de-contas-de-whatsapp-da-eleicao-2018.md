@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-16 17:33:00
 pub_date: 2020-01-16 17:33:00
 time_added: 2020-01-18 22:38:44
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a4/2019/12/12/10dez2019---deputada-federal-lidice-da-mata-relatora-da-cpmi-das-fake-news-1576185774789_v2_615x300.jpg
 ---

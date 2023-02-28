@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-18 14:02:00
 pub_date: 2021-01-18 14:02:00
 time_added: 2021-01-19 13:52:47
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24836073-90e-820/FT1086A/652/91163458_Brazils-President-Jair-Bolsonaro-looks-on-during-a-ceremony-at-the-Planalto-Palace-in.jpg
 ---

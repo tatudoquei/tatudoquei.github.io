@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-15 12:38:00
 pub_date: 2019-11-15 12:38:00
 time_added: 2019-11-16 09:08:06
-category: 
+categories: []
 tags: []
 image: https://blogdofred.blogfolha.uol.com.br/files/2019/11/Bolsonaro-Toffoli-e-Augusto-Aras.png
 ---

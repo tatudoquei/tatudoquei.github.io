@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-10 05:10:00
 pub_date: 2019-06-10 05:10:00
 time_added: 2019-06-10 13:54:14
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2019/06/sergiomoroedeltan-570x300.jpg
 ---

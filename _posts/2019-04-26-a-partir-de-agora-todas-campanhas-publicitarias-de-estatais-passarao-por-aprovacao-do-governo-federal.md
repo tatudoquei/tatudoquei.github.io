@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-26 17:36:19
 pub_date: 2019-04-26 17:36:19
 time_added: 2019-04-27 08:07:25
-category: 
+categories: []
 tags: []
 image: https://assets.b9.com.br/wp-content/uploads/2019/04/banco-do-brasil-governo-publicidade.jpg
 ---

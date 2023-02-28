@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-04 05:29:26
 pub_date: 2020-06-04 05:29:26
 time_added: 2020-06-04 12:25:05
-category: 
+categories: []
 tags: []
 image: https://odia.ig.com.br/_midias/jpg/2019/11/04/700x470/1_xalcione_2019_promo_fotos__marcoshermes_21-14110419.jpg
 ---

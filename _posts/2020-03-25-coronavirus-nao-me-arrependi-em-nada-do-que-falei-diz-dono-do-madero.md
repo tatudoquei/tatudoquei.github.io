@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-25 06:44:00
 pub_date: 2020-03-25 06:44:00
 time_added: 2020-03-25 19:47:37
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/6b/2020/03/23/o-empresario-junior-durski-dono-do-madero-1585012944514_v2_615x300.png
 ---

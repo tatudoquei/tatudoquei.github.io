@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-30 15:39:00
 pub_date: 2021-11-30 15:39:00
 time_added: 2021-12-03 21:08:43
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/5b/2021/09/24/um-exemplar-do-chamado-kit-covid-distribuido-pela-prevent-senior-segundo-profissionais-que-denunciam-a-empresa-por-supostas-irregularidades-ele-seria-composto-por-azitromicina-antibiotico-ivermectina-1632493383779_v2_615x300.jpg
 ---

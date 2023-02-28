@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-28 17:12:58
 pub_date: 2018-10-01 16:26:23
 time_added: 2019-05-28 17:12:58
-category: 
+categories: []
 tags: []
 image: http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2018/10/01/papa-topo.png
 ---

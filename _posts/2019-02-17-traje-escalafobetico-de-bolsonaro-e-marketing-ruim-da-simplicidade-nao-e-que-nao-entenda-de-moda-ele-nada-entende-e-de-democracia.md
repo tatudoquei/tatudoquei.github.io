@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-17 05:53:00
 pub_date: 2019-02-17 05:53:00
 time_added: 2019-02-17 23:46:41
-category: avisamos
+categories: [avisamos]
 tags: []
 image: http://www3.redetv.uol.com.br/blog/reinaldo/wp-content/uploads/2019/02/traje-escalafobetico-de-bolsonaro-e-marketing-ruim-da-simplicidade-nao-e-que-nao-entenda-de-moda-ele-nada-entende-e-de-democracia.jpg
 ---

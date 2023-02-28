@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-15 15:35:18
 pub_date: 2019-05-15 15:35:18
 time_added: 2019-05-16 18:56:53
-category: 
+categories: []
 tags: []
 image: https://www.valor.com.br/sites/default/files/imagecache/media_library_big_horizontal/gn/19/02/foto15pol-201-previ-a6.jpg
 ---

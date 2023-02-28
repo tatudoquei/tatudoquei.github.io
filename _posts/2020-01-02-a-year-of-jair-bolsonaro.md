@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-02 15:50:21
 pub_date: 2020-01-02 15:50:21
 time_added: 2020-01-03 12:49:24
-category: 
+categories: []
 tags: []
 image: https://www.economist.com/sites/default/files/20200104_LDP502.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-25 20:52:52
 pub_date: 2021-03-25 20:52:52
 time_added: 2021-03-27 19:03:29
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/03/bolsonaro-hospitais-planalto-1200x630.jpg
 ---

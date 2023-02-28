@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-21 18:03:32
 pub_date: 2023-01-21 18:03:32
 time_added: 2023-01-26 19:05:32
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2023/01/08091427/Lula-2-8.jpg
 ---

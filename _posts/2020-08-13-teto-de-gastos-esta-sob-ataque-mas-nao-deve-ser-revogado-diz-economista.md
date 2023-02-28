@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-13 02:30:00
 pub_date: 2020-08-13 02:30:00
 time_added: 2020-08-13 19:33:40
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/economia/24582994-450-c69/FT1086A/652/68556725_Data-23-01-2015Editoria-FinancasReporter-Lucinda-Maria-Pinto-GomesLocal-residencia-da-fonte.jpg
 ---

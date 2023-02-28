@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-19 11:00:00
 pub_date: 2020-11-19 11:00:00
 time_added: 2020-11-19 20:00:11
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/72/2020/11/12/12mai2019---o-senador-flavio-bolsonaro-republicanos-rj-durante-entrevista-em-sua-residencia-oficial-na-asa-sul-em-brasilia-1605208078279_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-11-14 13:29:02
 pub_date: 2018-11-14 13:29:02
 time_added: 2018-11-16 01:26:07
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://static.poder360.com.br/2016/11/Valter-Campanato-ABr-MaisMedicos2-600x315.jpg
 ---

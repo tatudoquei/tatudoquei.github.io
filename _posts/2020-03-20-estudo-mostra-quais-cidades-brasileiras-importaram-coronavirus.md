@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-20 21:44:22
 pub_date: 2020-03-20 21:44:22
 time_added: 2020-03-21 12:25:48
-category: 
+categories: []
 tags: []
 image: https://jornalggn.com.br/sites/default/files/2020/03/exclusivo-estudo-mostra-quais-cidades-brasileiras-importaram-coronavirus-italia.jpg
 ---

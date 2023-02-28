@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-14 21:54:05
 pub_date: 2022-11-14 21:54:05
 time_added: 2022-11-14 22:54:05
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2022/11/194_vultosdarepublica_redes.jpg
 ---

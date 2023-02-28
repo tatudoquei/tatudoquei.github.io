@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-26 18:23:02
 pub_date: 2019-10-26 18:23:02
 time_added: 2019-10-26 20:23:02
-category: 
+categories: []
 tags: []
 image: https://www.diariodocentrodomundo.com.br/wp-content/uploads/2018/08/amoedo-1.jpg
 ---

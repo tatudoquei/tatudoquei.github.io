@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-20 18:28:17
 pub_date: 2017-10-31 03:00:00
 time_added: 2019-06-20 18:28:17
-category: 
+categories: []
 tags: []
 image: http://conteudo.imguol.com.br/c/noticias/60/2017/10/27/navio-pioneiro-de-libra-1509137040926_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-07 05:05:00
 pub_date: 2019-06-07 05:05:00
 time_added: 2019-06-08 22:13:45
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/138/files/2019/06/idiocratie-615x300.jpg
 ---

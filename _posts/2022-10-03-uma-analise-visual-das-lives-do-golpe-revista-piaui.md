@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-03 04:25:54
 pub_date: 2022-10-03 04:25:54
 time_added: 2022-10-03 00:25:54
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2022/09/lives-redes.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-28 15:29:10
 pub_date: 2021-10-28 15:29:10
 time_added: 2021-10-30 17:33:27
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2016/09/13114334/Fernando-Francischini.jpeg
 ---

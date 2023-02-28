@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-31 14:55:00
 pub_date: 2020-07-31 14:55:00
 time_added: 2020-08-01 07:06:25
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/53/2019/11/28/logo-da-fundacao-palmares-1574962991743_v2_615x300.png
 ---

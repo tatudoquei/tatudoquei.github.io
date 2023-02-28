@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-25 09:41:00
 pub_date: 2022-10-25 09:41:00
 time_added: 2022-10-28 20:57:10
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/esporte/94/2018/10/06/antonio-costa-primeiro-ministro-de-portugal-1538873918919_v2_615x300.jpg
 ---

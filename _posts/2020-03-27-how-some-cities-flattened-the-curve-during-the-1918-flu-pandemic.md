@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-27 14:31:00
 pub_date: 2020-03-27 14:31:00
 time_added: 2020-03-27 20:54:10
-category: 
+categories: []
 tags: []
 image: https://www.nationalgeographic.com/content/dam/archaeologyandhistory/rights-exempt/OG/1918-flatten-curve-og.ngsversion.1585335294076.adapt.1900.1.jpg
 ---

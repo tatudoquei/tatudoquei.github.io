@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-25 18:37:52
 pub_date: 2021-06-25 18:37:52
 time_added: 2021-06-25 20:37:52
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/hFgehFui3_7F7UMtyCHdTrbmb6o=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2021/t/T/Cc4LcAQLaPuuqG6pbUkg/pfizer.jpg
 ---

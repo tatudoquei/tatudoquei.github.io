@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-28 02:00:00
 pub_date: 2020-06-28 02:00:00
 time_added: 2020-07-07 06:53:06
-category: 
+categories: []
 tags: [meio ambiente]
 image: https://conteudo.imguol.com.br/c/noticias/49/2020/06/24/forcas-armadas-em-acao-conjunta-com-o-ibama-na-amazonia-1593012434832_v2_615x300.jpg
 ---

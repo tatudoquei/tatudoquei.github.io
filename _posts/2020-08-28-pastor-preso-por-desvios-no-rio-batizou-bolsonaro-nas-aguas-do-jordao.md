@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-28 10:45:56
 pub_date: 2020-08-28 10:45:56
 time_added: 2020-08-28 18:59:30
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2020/08/EggGD_IVgAAQNtd.jpg?quality=70&strip=info&w=580&h=386&crop=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-09 18:07:42
 pub_date: 2021-03-09 18:07:42
 time_added: 2021-03-10 18:05:25
-category: 
+categories: []
 tags: []
 image: https://jacobin.com.br/wp-content/uploads/2021/03/SG-news-covid-guidance.jpg
 ---

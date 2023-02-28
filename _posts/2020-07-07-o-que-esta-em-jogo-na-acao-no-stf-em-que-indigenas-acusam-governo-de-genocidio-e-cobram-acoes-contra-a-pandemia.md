@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-07 22:00:00
 pub_date: 2020-07-07 22:00:00
 time_added: 2020-07-08 14:25:48
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/8C96/production/_112609953_rs48899_yanomamiisa-30-lpr.jpg
 ---

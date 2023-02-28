@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-27 16:34:57
 pub_date: 2021-01-27 16:34:57
 time_added: 2021-01-28 12:41:23
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/YT2uTwDxrWLBaqAy6zAFRsQW6qc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/D/J/9tVAqEQvCgehBkg3MYjQ/2021-01-26t234741z-1797888537-rc2zfl9t4cgd-rtrmadp-3-health-coronavirus-portugal.jpg
 ---

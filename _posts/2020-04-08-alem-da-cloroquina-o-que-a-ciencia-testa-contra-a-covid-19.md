@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-08 22:00:00
 pub_date: 2020-04-08 22:00:00
 time_added: 2020-04-13 07:00:35
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/covid./alternates/LANDSCAPE_768/covid.
 ---

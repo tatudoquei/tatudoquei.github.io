@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-26 23:07:22
 pub_date: 2019-04-26 23:07:22
 time_added: 2019-04-27 22:20:49
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://cultura.estadao.com.br/blogs/marcelo-rubens-paiva/wp-content/uploads/sites/111/2019/04/puritans1.jpg
 ---

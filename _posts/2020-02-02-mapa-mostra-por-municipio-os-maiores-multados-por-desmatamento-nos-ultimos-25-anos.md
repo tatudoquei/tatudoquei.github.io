@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-02 21:00:12
 pub_date: 2020-02-02 21:00:12
 time_added: 2020-02-03 08:16:18
-category: 
+categories: []
 tags: []
 image: https://deolhonosruralistas.com.br/wp-content/uploads/2020/01/desmatadores-abre-1024x751.png
 ---

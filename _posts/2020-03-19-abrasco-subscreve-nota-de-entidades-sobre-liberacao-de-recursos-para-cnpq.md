@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-19 19:20:31
 pub_date: 2020-03-19 19:20:31
 time_added: 2020-04-08 13:17:13
-category: 
+categories: []
 tags: []
 image: https://www.abrasco.org.br/site/wp-content/uploads/2020/03/carta-cnpq.jpg
 ---

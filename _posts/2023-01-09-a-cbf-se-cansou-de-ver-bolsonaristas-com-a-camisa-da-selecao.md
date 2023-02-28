@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-09 17:08:55
 pub_date: 2023-01-09 17:08:55
 time_added: 2023-01-14 13:59:09
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2023/01/manifestacao1_mcamgo_abr_080120231818-2.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

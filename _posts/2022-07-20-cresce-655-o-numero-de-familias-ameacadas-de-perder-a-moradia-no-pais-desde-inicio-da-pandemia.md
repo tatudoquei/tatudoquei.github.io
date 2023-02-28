@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-07-20 05:00:00
 pub_date: 2022-07-20 05:00:00
 time_added: 2022-10-22 18:01:28
-category: 
+categories: []
 tags: []
 image: https://img.r7.com/images/despejo-familias-ocupacao-em-porto-alegre-18072022115115041?dimensions=771x420&&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;resize=771x420&amp;crop=1499x816+0+184
 ---

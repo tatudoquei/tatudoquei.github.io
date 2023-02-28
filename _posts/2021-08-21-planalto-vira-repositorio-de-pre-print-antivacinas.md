@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-21 00:15:07
 pub_date: 2021-08-21 00:15:07
 time_added: 2021-08-20 21:15:07
-category: 
+categories: []
 tags: []
 image: https://revistaquestaodeciencia.com.br/sites/default/files/styles/facebook/public/2021-08/VIRUS_SARS_COV_2_SQUARE.jpg?itok=YCFOvd-L
 ---

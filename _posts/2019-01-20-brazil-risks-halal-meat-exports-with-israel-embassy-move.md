@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-20 08:05:36
 pub_date: 2019-01-20 08:05:36
 time_added: 2019-01-20 09:05:36
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://www.ft.com/__assets/creatives/brand-ft/icons/v3/open-graph.png
 ---

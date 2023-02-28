@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-11 14:57:51
 pub_date: 2020-04-11 14:57:51
 time_added: 2020-04-25 10:32:22
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://static01.nyt.com/images/2020/04/11/autossell/11op-kristof-thumb/11op-kristof-thumb-facebookJumbo-v2.jpg
 ---

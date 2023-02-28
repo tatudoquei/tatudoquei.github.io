@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-10 15:21:42
 pub_date: 2021-08-10 15:21:42
 time_added: 2021-08-20 21:29:58
-category: 
+categories: []
 tags: []
 image: https://psol50.org.br/wp-content/uploads/2021/04/guilherme-boulos-pre-candidato-a-prefeitura-de-sao-paulo-pelo-psol-1598907523061_v2_1920x1279.jpg
 ---

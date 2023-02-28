@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-26 03:20:48
 pub_date: 2019-12-26 03:20:48
 time_added: 2019-12-26 18:49:04
-category: 
+categories: []
 tags: []
 image: https://amazonas1.com.br/wp-content/uploads/2019/12/1577314234463291-e1577314278373.jpg
 ---

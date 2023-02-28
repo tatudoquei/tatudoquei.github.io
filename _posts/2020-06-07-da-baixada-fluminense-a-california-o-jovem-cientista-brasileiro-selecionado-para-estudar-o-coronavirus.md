@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-07 22:00:00
 pub_date: 2020-06-07 22:00:00
 time_added: 2020-06-09 07:22:19
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/1B30/production/_112706960_romulo1.jpg
 ---

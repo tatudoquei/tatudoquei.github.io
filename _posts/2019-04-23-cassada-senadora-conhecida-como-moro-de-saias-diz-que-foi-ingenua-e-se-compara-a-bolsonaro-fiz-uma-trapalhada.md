@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-23 22:00:00
 pub_date: 2019-04-23 22:00:00
 time_added: 2019-04-29 18:51:25
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/169DC/production/_106563629_selma5.jpg
 ---

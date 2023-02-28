@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-18 16:29:43
 pub_date: 2020-05-18 16:29:43
 time_added: 2020-05-18 22:45:20
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/kf_YqVG8e8wIO_NPYCdg6IvcD9I=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/Z/l/GjIp6GQUGEmGP2MOq2AA/carlos-credito-gil-leonardi.jpg
 ---

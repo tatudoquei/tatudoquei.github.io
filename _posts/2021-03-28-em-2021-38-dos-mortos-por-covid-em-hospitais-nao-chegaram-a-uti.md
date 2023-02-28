@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-28 02:30:00
 pub_date: 2021-03-28 02:30:00
 time_added: 2021-05-16 16:44:55
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24944239-9f5-ff2/FT1086A/92195863_AME5140-SAO-LEOPOLDO-BRASIL-24-03-2021Fotografia-de-un-medico-utilizando-un-aparato-para.jpg
 ---

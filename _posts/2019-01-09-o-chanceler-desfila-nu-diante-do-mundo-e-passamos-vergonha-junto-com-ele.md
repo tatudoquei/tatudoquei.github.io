@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-09 08:52:00
 pub_date: 2019-01-09 08:52:00
 time_added: 2019-12-23 21:41:24
-category: refletimos
+categories: [refletimos]
 tags: [diplomacia]
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/01/chance-615x300.jpg
 ---

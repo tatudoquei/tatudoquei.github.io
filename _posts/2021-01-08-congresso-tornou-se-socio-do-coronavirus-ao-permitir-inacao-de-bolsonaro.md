@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-08 23:07:00
 pub_date: 2021-01-08 23:07:00
 time_added: 2021-01-09 09:05:43
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a6/2020/08/04/enterro-de-vitima-do-coronavirus-no-cemiterio-da-vila-formosa-na-zona-leste-de-sao-paulo-1596567971451_v2_615x300.jpg
 ---

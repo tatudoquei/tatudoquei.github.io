@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-19 19:49:17
 pub_date: 2019-07-19 19:49:17
 time_added: 2019-07-21 19:28:12
-category: 
+categories: []
 tags: []
 image: https://pedlowski.files.wordpress.com/2019/07/bolsonaro-inpe.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-04 21:34:35
 pub_date: 2020-02-04 21:34:35
 time_added: 2020-02-05 12:54:42
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2016/08/marco-feliciano-agenciacamara.jpg
 ---

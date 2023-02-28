@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-04 10:39:21
 pub_date: 2020-03-04 10:39:21
 time_added: 2020-03-04 14:23:07
-category: 
+categories: []
 tags: []
 image: https://www.otempo.com.br/image/contentid/policy:1.2148368:1552398280/xElcio-Vieira-de-Queiroz-e-acusado-de-ter-dirigido-o-carro-utilizado-no-crime-Ex-PM-e-adido-da-Policia-Civil-Ronnie-Lessa-e-suspeito-de-ter-atirado-contra-Marielle-Franco-e-Anderson-Gomes.jpg.pagespee.jpg?f=3x2&w=620&$p$f$w=ccec0b7
 ---

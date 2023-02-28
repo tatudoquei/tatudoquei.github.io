@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-07 12:06:25
 pub_date: 2019-12-07 12:06:25
 time_added: 2019-12-08 01:31:39
-category: 
+categories: []
 tags: []
 image: https://i0.statig.com.br/bancodeimagens/by/qq/8t/byqq8t4cd0j94qqf98h0ie13g.jpg
 ---

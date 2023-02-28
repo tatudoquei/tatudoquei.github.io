@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-06 04:42:59
 pub_date: 2020-03-06 04:42:59
 time_added: 2020-03-07 00:08:45
-category: 
+categories: []
 tags: []
 image: https://climainfo.org.br/wp-content/uploads/2020/03/salles-ANP.jpg
 ---

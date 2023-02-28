@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-30 22:10:51
 pub_date: 2020-03-30 22:10:51
 time_added: 2020-03-31 20:13:03
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/03/26/science/26VIRUS-FEVER1/26VIRUS-FEVER1-facebookJumbo.jpg
 ---

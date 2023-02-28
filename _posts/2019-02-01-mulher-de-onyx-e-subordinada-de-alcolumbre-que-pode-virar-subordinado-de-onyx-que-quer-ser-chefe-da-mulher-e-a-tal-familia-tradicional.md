@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-01 23:12:00
 pub_date: 2019-02-01 23:12:00
 time_added: 2019-02-04 23:56:00
-category: avisamos
+categories: [avisamos]
 tags: []
 image: http://www3.redetv.uol.com.br/blog/reinaldo/wp-content/uploads/2019/02/mulher-de-onyx-e-subordinada-de-alcolumbre-que-pode-virar-subordinado-de-onyx-que-quer-ser-chefe-da-mulher-e-a-tal-familia-tradicional.jpg
 ---

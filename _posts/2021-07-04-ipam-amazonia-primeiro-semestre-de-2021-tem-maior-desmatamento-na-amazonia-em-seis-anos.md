@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-04 15:49:01
 pub_date: 2021-07-04 15:49:01
 time_added: 2021-07-04 12:49:01
-category: 
+categories: []
 tags: []
 image: https://ipam.org.br/wp-content/uploads/2021/06/toras-semas-PA.jpeg
 ---

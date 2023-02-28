@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-13 21:52:29
 pub_date: 2023-01-13 21:52:29
 time_added: 2023-01-14 09:23:50
-category: 
+categories: []
 tags: []
 image: https://oeco.org.br/wp-content/uploads/2023/01/carlosfavaro.jpeg
 ---

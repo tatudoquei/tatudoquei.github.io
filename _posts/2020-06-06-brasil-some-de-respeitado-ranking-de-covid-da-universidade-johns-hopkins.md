@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-06 16:30:00
 pub_date: 2020-06-06 16:30:00
 time_added: 2020-06-06 23:07:03
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/7a/2020/06/06/brasil-some-de-respeitado-ranking-da-covid-19-feito-pela-johns-hopkins-1591478674929_v2_615x300.jpg
 ---

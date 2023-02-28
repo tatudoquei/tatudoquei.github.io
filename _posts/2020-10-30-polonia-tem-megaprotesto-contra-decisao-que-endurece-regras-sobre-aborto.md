@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-30 19:19:12
 pub_date: 2020-10-30 19:19:12
 time_added: 2020-10-31 22:07:03
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/-xWYC6UfmMSFR8dn5mnvoPSWbV4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/g/R/ZPWpnYQHypk9acT36d7w/2020-10-30t182900z-1417680519-rc26tj9tm7o1-rtrmadp-3-poland-abortion.jpg
 ---

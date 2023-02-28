@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-26 13:42:23
 pub_date: 2021-01-26 13:42:23
 time_added: 2021-01-27 13:54:15
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/01/Parque-Rio-Doce-MG-1200x630.jpg
 ---

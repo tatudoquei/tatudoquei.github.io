@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-23 18:42:00
 pub_date: 2021-12-23 18:42:00
 time_added: 2021-12-24 20:40:08
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/a1/2021/10/25/crianca-recebendo-vacina-imunizacao-1635169915101_v2_750x421.jpg
 ---

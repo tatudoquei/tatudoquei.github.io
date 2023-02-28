@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-14 06:07:00
 pub_date: 2020-05-14 06:07:00
 time_added: 2020-05-14 20:34:52
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24172142-95b-83a/FT1086A/652/79116746_RI-Itatiaia-RJ-29-09-2018-Ana-Cristina-Siqueira-Valle-ex-mulher-de-Jair-Bolsonaro-falou.jpg
 ---

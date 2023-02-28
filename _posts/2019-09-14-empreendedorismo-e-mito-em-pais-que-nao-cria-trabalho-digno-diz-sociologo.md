@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-14 02:00:00
 pub_date: 2019-09-14 02:00:00
 time_added: 2019-11-17 09:56:44
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/9b/2019/09/06/sociologoricardo-antunes-professor-da-unicamp-1567797942558_v2_615x300.jpg
 ---

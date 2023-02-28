@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-27 14:48:00
 pub_date: 2021-03-27 14:48:00
 time_added: 2021-03-29 18:06:34
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d6/2020/08/06/imagem-do-cemiterio-da-vila-formosa-em-sao-paulo-com-valas-preparadas-para-o-sepultamento-de-vitimas-da-covid-1596752709179_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-03 16:38:00
 pub_date: 2019-05-03 16:38:00
 time_added: 2019-05-07 06:33:34
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/265/files/2019/05/Abraham-Weintraub-reproducao-entrevista-coletiva-615x300.png
 ---

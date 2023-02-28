@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-05 15:37:00
 pub_date: 2020-10-05 15:37:00
 time_added: 2020-10-05 23:44:15
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/96/2020/10/05/sean-conley-medico-do-presidente-donald-trump-durante-coletiva-05102020-1601930220824_v2_615x300.png
 ---

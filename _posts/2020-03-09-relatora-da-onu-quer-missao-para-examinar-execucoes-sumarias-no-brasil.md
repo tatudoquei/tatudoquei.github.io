@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-09 03:00:00
 pub_date: 2020-03-09 03:00:00
 time_added: 2020-03-09 20:20:15
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/66/2019/02/28/perguntas-serao-entregues-aos-47-membros-do-conselho-de-direitos-humanos-da-onu-1551393842904_v2_615x300.jpg
 ---

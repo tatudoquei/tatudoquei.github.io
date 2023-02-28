@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-26 03:07:54
 pub_date: 2020-04-26 03:07:54
 time_added: 2020-04-27 05:13:54
-category: 
+categories: []
 tags: []
 image: https://sustentabilidade.estadao.com.br/blogs/ambiente-se/wp-content/uploads/sites/92/2020/04/indigena_260420202104.jpg
 ---

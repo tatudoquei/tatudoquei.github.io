@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-12 02:53:37
 pub_date: 2020-04-12 02:53:37
 time_added: 2020-04-12 04:53:37
-category: 
+categories: []
 tags: []
 image: https://cdn-engage.s3.amazonaws.com/2020/04/08/17/54/54/c9c89715-66b5-40dd-8055-a9f0cf084938/nicole-buchanan-png
 ---

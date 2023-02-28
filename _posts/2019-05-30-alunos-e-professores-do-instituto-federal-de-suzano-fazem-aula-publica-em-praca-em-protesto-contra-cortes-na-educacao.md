@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-30 18:05:59
 pub_date: 2019-05-30 18:05:59
 time_added: 2019-06-01 11:05:19
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/w3GQFBmMGn5SfGKZ9wMUj7m_Vjs=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/J/w/ZgLPAdTQ2BYz7EfVrzUw/protesto-ifsp-30-05-02.jpg
 ---

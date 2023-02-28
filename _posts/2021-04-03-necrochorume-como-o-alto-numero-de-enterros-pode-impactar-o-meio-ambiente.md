@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-03 21:37:13
 pub_date: 2021-04-03 21:37:13
 time_added: 2021-04-03 23:37:13
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/tab/92/2021/03/23/300-mil-mortos-cemiterio-vila-formosa-1616527412284_v2_615x300.jpg
 ---

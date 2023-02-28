@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-03 16:07:00
 pub_date: 2021-07-03 16:07:00
 time_added: 2021-07-24 08:21:08
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2021/07/mxm-redes.jpg
 ---

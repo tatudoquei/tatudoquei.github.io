@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-06 23:00:00
 pub_date: 2020-01-06 23:00:00
 time_added: 2020-01-07 01:06:15
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/DHtVtgtg8-xbd3g3KGQDrYSLDIs=/512x320/smart/e.glbimg.com/og/ed/f/original/2015/08/27/gr320_rprimavesi_01.jpg
 ---

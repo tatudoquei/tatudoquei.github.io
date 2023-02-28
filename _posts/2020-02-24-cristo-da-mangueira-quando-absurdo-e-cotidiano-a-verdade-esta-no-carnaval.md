@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-24 19:10:00
 pub_date: 2020-02-24 19:10:00
 time_added: 2020-02-25 14:37:02
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/61/2020/02/24/desfile-da-escola-mangueira-no-primeiro-dia-do-grupo-especial-na-sapucai-1582585817411_v2_615x300.jpg
 ---

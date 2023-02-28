@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-09 15:33:00
 pub_date: 2020-04-09 15:33:00
 time_added: 2020-04-11 18:48:34
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/04/vilela-redes-2.jpg
 ---

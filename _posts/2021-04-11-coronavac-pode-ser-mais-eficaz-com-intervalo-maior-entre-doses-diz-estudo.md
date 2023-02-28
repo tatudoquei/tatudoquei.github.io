@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-11 14:48:00
 pub_date: 2021-04-11 14:48:00
 time_added: 2021-05-16 18:23:43
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/74/2021/04/10/10abr2021---a-merendeira-silmara-cristina-da-silva-de-moraes-recebeu-a-primeira-dose-da-coronavac-1618069425485_v2_750x421.jpg
 ---

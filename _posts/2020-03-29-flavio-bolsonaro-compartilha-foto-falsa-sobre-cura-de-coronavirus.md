@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-29 22:00:00
 pub_date: 2020-03-29 22:00:00
 time_added: 2020-03-30 13:52:29
-category: 
+categories: []
 tags: []
 image: https://www.opovo.com.br/_midias/jpg/2020/03/30/reproducao-12294352.jpg
 ---

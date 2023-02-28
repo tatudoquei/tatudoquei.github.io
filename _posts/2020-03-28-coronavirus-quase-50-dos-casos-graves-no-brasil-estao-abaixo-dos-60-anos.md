@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-28 03:00:00
 pub_date: 2020-03-28 03:00:00
 time_added: 2020-03-29 08:13:50
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/13/2020/03/17/17032020---pedestres-utilizando-mascaras-de-protecao-ao-coronavirus-na-regiao-da-estacao-do-brooklin-do-metro-em-sao-paulo-sp-1584476488815_v2_750x421.jpg
 ---

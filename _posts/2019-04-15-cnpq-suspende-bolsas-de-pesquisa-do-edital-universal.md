@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-15 20:37:01
 pub_date: 2019-04-15 20:37:01
 time_added: 2019-04-18 21:18:57
-category: 
+categories: []
 tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2019/04/mcmgo_abr_22021912140.jpg
 ---

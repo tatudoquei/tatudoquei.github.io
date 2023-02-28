@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-14 06:23:23
 pub_date: 2020-01-14 06:23:23
 time_added: 2020-01-14 07:23:23
-category: 
+categories: []
 tags: []
 image: https://media.newyorker.com/photos/5d658bd077ed9800080163aa/16:9/w_1200,h_630,c_limit/Pires-AmazonFires.jpg
 ---

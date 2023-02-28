@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-24 16:17:54
 pub_date: 2021-06-24 16:17:54
 time_added: 2021-07-24 08:12:20
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/06/facebook-ministerio-da-saude-pediu-a-exercito-envio-de-cloroquina-para-todo-o-brasil-com-emergencia.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-07 17:04:00
 pub_date: 2021-03-07 17:04:00
 time_added: 2021-03-21 09:07:01
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/43/2021/03/03/aglomeracao-na-estacao-da-luz-na-cptm-em-sao-paulo-no-dia-em-que-foi-anunciado-o-retorno-do-estado-a-fase-vermelha-1614814299817_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-17 19:32:00
 pub_date: 2020-01-17 19:32:00
 time_added: 2020-01-18 09:47:08
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e9/2019/10/03/agencia-do-inss-previdencia-social-1570123186669_v2_615x300.jpg
 ---

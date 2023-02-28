@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-28 18:11:30
 pub_date: 2023-01-28 18:11:30
 time_added: 2023-01-28 15:11:30
-category: 
+categories: []
 tags: []
 image: https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto:best,f_jpg,dpr_1.0,c_fill,w_1300,h_628/image-uploads/post-list-image/png/dca6fbf9b1b260d4e86213bbf4b2c405.png
 ---

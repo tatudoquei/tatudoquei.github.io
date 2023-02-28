@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-31 03:00:00
 pub_date: 2020-12-31 03:00:00
 time_added: 2020-12-30 00:18:09
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/khvFRCO9i4OMx43W2eSxzPRhjWs=/512x320/smart/e.glbimg.com/og/ed/f/original/2020/12/04/pexels-rfstudio-3825529.jpg
 ---

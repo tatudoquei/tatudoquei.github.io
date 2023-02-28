@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-18 15:23:53
 pub_date: 2020-04-18 15:23:53
 time_added: 2020-04-19 14:31:55
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/VDbM7N5L_q6Cw9NVPck39KZgovs=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/A/G/raxpJ5S3mxCzKZ626Iiw/2020-04-18t030118z-82465946-rc2r6g9y734b-rtrmadp-3-health-coronavirus-japan-testing.jpg
 ---

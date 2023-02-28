@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-18 10:38:00
 pub_date: 2021-04-18 10:38:00
 time_added: 2021-05-16 20:37:12
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/99/2021/04/18/dara-ramires-lemes-indigena-guarani-kaiowa-formada-em-medicina-1618748483520_v2_300x200.jpg
 ---

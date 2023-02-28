@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-28 17:31:20
 pub_date: 2021-06-28 17:31:20
 time_added: 2021-07-04 12:44:18
-category: 
+categories: []
 tags: []
 image: https://agencia.fiocruz.br/sites/agencia.fiocruz.br/files/imagemDestaque/mapa_rodovias_covid_d.jpg
 ---

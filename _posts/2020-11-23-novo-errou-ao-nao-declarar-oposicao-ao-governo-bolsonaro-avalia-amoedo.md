@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-23 10:23:00
 pub_date: 2020-11-23 10:23:00
 time_added: 2020-11-23 21:27:51
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/33/2018/09/12/o-candidato-do-novo-a-presidencia-joao-amoedo-1536794621619_615x300.jpg
 ---

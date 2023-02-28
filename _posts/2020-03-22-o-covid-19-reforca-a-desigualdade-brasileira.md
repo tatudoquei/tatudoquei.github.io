@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-22 12:43:00
 pub_date: 2020-03-22 12:43:00
 time_added: 2020-03-23 10:33:05
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/ae/2020/03/22/cidade-de-deus-1584894728866_v2_615x300.jpg
 ---

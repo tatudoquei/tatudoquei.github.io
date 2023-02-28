@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-22 21:50:44
 pub_date: 2019-05-22 21:50:44
 time_added: 2019-05-30 14:19:23
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/01/brasil-ernesto-araujo-20190102-001.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

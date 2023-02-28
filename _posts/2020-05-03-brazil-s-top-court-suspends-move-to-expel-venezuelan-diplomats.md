@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-03 00:06:09
 pub_date: 2020-05-03 00:06:09
 time_added: 2020-05-03 06:06:54
-category: 
+categories: []
 tags: []
 image: https://s4.reutersmedia.net/resources_v2/images/rcom-default.png
 ---

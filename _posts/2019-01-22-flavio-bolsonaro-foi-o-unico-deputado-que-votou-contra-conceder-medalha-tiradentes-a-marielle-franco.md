@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-22 13:42:18
 pub_date: 2019-01-22 13:42:18
 time_added: 2019-02-04 23:34:38
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2019/01/flaviobolsonaromarielle.jpg
 ---

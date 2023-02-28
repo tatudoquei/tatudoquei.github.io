@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-13 04:40:20
 pub_date: 2023-01-13 04:40:20
 time_added: 2023-01-21 10:11:17
-category: 
+categories: []
 tags: []
 image: https://www.istoedinheiro.com.br/wp-content/uploads/sites/17/2023/01/27-1.jpg
 ---

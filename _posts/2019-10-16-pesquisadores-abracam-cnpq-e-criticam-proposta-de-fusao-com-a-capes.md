@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-16 21:22:19
 pub_date: 2019-10-16 21:22:19
 time_added: 2019-10-17 20:31:25
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/10/20191016_abraco_cnpq.jpg
 ---

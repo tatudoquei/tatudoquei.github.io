@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-20 10:02:00
 pub_date: 2020-03-20 10:02:00
 time_added: 2020-03-20 21:33:04
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/51/2020/03/19/mascara-cobre-os-olhos-de-bolsonaro-em-coletiva-sobre-coronavirus-1584614929699_v2_615x300.jpg
 ---

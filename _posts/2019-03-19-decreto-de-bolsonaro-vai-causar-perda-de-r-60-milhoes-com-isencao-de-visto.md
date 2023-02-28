@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-19 03:00:00
 pub_date: 2019-03-19 03:00:00
 time_added: 2019-03-22 08:02:33
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/47/2017/08/04/passaporte-dos-eua-1501853315727_v2_615x300.jpg
 ---

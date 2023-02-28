@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-02 20:40:04
 pub_date: 2020-07-02 20:40:04
 time_added: 2020-07-02 23:19:46
-category: 
+categories: []
 tags: []
 image: https://prp.wpcdn.cloud/wp-content/uploads/2020/07/covid-no-parana-recordes.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-23 13:15:00
 pub_date: 2021-12-23 13:15:00
 time_added: 2021-12-24 20:38:48
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/4a/2021/10/22/o-ministro-da-saude-marcelo-queiroga-participa-do-programa-brasil-em-pauta-na-tv-brasil-1634941558730_v2_615x300.jpg
 ---

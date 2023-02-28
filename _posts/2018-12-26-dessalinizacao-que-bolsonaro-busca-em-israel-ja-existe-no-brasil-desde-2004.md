@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-26 19:32:00
 pub_date: 2018-12-26 19:32:00
 time_added: 2018-12-27 01:09:48
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23330044-661-74b/FT1086A/652/80255530_BSBBrasiliaBrasil11-12-2018PAO-presidente-eleito-Jair-Bolsonaro-chega-no-Clu.jpg
 ---

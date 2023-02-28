@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-18 21:42:27
 pub_date: 2020-04-18 21:42:27
 time_added: 2020-04-19 06:38:27
-category: 
+categories: []
 tags: []
 image: https://deolhonosruralistas.com.br/wp-content/uploads/2020/04/ari-uru-eu-wau-wau.jpeg
 ---

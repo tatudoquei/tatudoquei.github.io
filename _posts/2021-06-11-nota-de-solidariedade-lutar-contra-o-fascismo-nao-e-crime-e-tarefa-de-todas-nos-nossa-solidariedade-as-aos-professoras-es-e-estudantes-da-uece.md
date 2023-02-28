@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-11 22:17:39
 pub_date: 2021-06-11 22:17:39
 time_added: 2021-06-20 12:40:42
-category: 
+categories: []
 tags: []
 image: http://adufc.org.br/wp-content/uploads/2021/06/Card-Nota-solidariedade_ADUFC_Uece_11.6.2021-1024x1024.jpeg
 ---

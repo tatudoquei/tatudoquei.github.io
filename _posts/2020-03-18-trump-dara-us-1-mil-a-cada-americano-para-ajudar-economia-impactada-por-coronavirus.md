@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-18 16:03:00
 pub_date: 2020-03-18 16:03:00
 time_added: 2020-03-20 21:32:56
-category: 
+categories: []
 tags: []
 image: https://www.infomoney.com.br/wp-content/uploads/2020/01/Trump-Fotos-Publicas.jpg?resize=1024,683
 ---

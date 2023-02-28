@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-20 01:02:42
 pub_date: 2021-03-20 01:02:42
 time_added: 2021-03-21 07:23:34
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/9e5iXtXEVcksThQZIfZkuToLWto=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/H/j/2pqBSkTy6xSCIZHz9Csg/2021-03-17t205038z-607327717-rc28dm95xyhs-rtrmadp-3-health-coronavirus-brazil-icu.jpg
 ---

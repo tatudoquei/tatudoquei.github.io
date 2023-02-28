@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-01 12:35:00
 pub_date: 2022-10-01 12:35:00
 time_added: 2022-10-03 00:52:45
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/splash/af/2022/10/01/gusttavo-lima-se-manifestou-a-favor-do-presidente-jair-bolsonaro-pl-em-show-em-miami-nos-eua-1664623078250_v2_615x300.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-25 10:45:00
 pub_date: 2020-08-25 10:45:00
 time_added: 2021-07-04 12:35:20
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2020/08/ricardobarros-redes.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-18 19:37:36
 pub_date: 2020-05-18 19:37:36
 time_added: 2020-05-19 12:33:57
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/05/20200514_00_ZEBRAFISH-TESTE-COVID.jpg
 ---

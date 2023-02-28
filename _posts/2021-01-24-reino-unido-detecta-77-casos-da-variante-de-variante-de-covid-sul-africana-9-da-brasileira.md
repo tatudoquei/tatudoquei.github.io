@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-24 11:18:00
 pub_date: 2021-01-24 11:18:00
 time_added: 2021-01-25 21:34:21
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/29/2019/03/24/bandeira-do-reino-unido-exposta-em-um-restaurante-no-centro-de-havana-1553465241729_v2_615x300.jpg
 ---

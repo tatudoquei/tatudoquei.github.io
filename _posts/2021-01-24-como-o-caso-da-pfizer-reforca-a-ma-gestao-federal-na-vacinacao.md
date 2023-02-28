@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-24 23:00:00
 pub_date: 2021-01-24 23:00:00
 time_added: 2021-02-07 06:59:21
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Pfizer_BioNtech/alternates/LANDSCAPE_768/Pfizer_BioNtech
 ---

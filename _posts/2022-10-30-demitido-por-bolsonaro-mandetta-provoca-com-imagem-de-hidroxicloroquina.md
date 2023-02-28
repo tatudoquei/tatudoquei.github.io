@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-30 22:42:00
 pub_date: 2022-10-30 22:42:00
 time_added: 2022-10-31 03:04:42
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a1/2020/04/08/presidente-jair-bolsonaro-ao-lado-do-ministro-da-saude-luiz-henrique-mandetta-durante-evento-em-brasilia-1586387628825_v2_615x300.jpg
 ---

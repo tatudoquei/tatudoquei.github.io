@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-19 02:00:00
 pub_date: 2020-04-19 02:00:00
 time_added: 2020-04-19 16:37:08
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/30/2020/04/18/marilia-bittencourt-e-mae-de-tres-filhos-e-faz-residencia-em-enfermagem-obstetrica-em-londrina-pr-1587252622516_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-16 18:41:00
 pub_date: 2020-04-16 18:41:00
 time_added: 2020-04-17 06:28:28
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24376522-ed2-5bd/FT1086A/652/sepult.jpeg.jpg
 ---

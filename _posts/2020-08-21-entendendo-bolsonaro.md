@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-21 11:31:00
 pub_date: 2020-08-21 11:31:00
 time_added: 2020-08-22 06:34:18
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/277/files/2020/08/ciro-gomes-615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-10 19:13:00
 pub_date: 2021-01-10 19:13:00
 time_added: 2021-01-11 16:02:24
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/63/2020/08/07/ministro-da-justica-e-seguranca-publica-andre-mendonca-1596843380329_v2_615x300.jpg
 ---

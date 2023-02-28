@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-26 08:57:58
 pub_date: 2019-08-26 08:57:58
 time_added: 2019-08-29 05:27:20
-category: 
+categories: []
 tags: []
 image: https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/forestfire_1280p.jpg?itok=-W_ZTwep
 ---

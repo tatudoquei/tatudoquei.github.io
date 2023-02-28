@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-21 03:00:00
 pub_date: 2021-03-21 03:00:00
 time_added: 2021-03-27 09:04:32
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/corrup%C3%A7%C3%A3o-por-reuters.JPG/alternates/LANDSCAPE_768/corrup%C3%A7%C3%A3o%20por%20reuters.JPG
 ---

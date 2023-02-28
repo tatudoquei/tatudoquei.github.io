@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-20 03:30:00
 pub_date: 2020-03-20 03:30:00
 time_added: 2020-03-20 23:25:36
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24316931-6b3-8c7/FT1086A/652/87574599_Sao-Paulo-SP-19-03-2020CoronavirusCombateShoppingsSPVista-do-Shopping-Ci-1.jpg
 ---

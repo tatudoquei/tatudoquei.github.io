@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-29 08:09:00
 pub_date: 2020-11-29 08:09:00
 time_added: 2020-11-29 22:00:12
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/46/2020/11/29/guilherme-boulos-e-bruno-covas-1606645252395_v2_615x300.jpg
 ---

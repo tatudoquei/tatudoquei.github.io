@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-29 04:00:00
 pub_date: 2020-04-29 04:00:00
 time_added: 2021-10-17 15:06:12
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2020/04/exclusivo-a-desastrosa-operacao-do-exercito-que-levou-a-morte-de-evaldo-rosa-destaque.jpg
 ---

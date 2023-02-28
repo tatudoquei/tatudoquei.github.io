@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-24 18:17:31
 pub_date: 2019-05-24 18:17:31
 time_added: 2019-05-27 21:29:55
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/cartacampinas.com.br/wordpress/wp-content/uploads/mestres-e-doutorres-no-Brasil.png?fit=595%2C422&ssl=1
 ---

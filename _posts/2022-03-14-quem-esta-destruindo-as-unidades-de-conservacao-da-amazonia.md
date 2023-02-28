@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-03-14 07:00:00
 pub_date: 2022-03-14 07:00:00
 time_added: 2022-03-22 20:28:19
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2022/03/capa-facebook-quem-esta-destruindo-as-unidades-de-conservacao-da-amazonia.png
 ---

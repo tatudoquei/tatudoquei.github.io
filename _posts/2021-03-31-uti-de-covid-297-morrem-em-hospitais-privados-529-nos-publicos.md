@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-31 10:00:48
 pub_date: 2021-03-31 10:00:48
 time_added: 2021-05-16 16:59:30
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/03/Coronavirus-Covid19-1200x630.jpg
 ---

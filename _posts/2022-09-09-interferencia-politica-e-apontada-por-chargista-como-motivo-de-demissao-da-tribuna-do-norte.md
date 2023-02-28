@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-09 20:34:47
 pub_date: 2022-09-09 20:34:47
 time_added: 2022-09-11 11:27:09
-category: 
+categories: []
 tags: []
 image: https://saibamais.jor.br/wp-content/uploads/2022/09/Charge-de-Brum-sobre-Rogerio-Marinho.png
 ---

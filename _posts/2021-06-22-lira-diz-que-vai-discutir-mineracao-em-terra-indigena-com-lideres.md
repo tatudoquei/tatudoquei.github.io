@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-22 23:00:00
 pub_date: 2021-06-22 23:00:00
 time_added: 2021-07-04 12:38:44
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/06/ArthurLira-2206.jpg
 ---

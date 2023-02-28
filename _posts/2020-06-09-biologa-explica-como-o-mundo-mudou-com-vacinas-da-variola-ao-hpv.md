@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-09 10:44:00
 pub_date: 2020-06-09 10:44:00
 time_added: 2020-06-10 06:40:21
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24470133-d4a-802/FT1086A/652/33172646_Rio-de-Janeiro-RJ-30-11-1970MedicinaVacinaVacina-contraVariolaVacinacao-na-F.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-02 23:42:19
 pub_date: 2021-08-02 23:42:19
 time_added: 2021-08-20 21:09:39
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2021/08/02203942/pregacao.jpg
 ---

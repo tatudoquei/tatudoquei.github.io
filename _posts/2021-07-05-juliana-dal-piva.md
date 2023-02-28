@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-05 17:47:00
 pub_date: 2021-07-05 17:47:00
 time_added: 2021-07-25 16:40:58
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/0b/2019/04/16/10abr2019---o-senador-alessandro-viera-pps-se-1555420416958_v2_615x300.jpg
 ---

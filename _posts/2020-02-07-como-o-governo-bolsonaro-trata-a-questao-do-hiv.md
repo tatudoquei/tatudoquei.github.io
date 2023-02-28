@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-07 21:06:41
 pub_date: 2020-02-07 21:06:41
 time_added: 2020-02-07 22:06:41
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Luiz-Henrique-Mandetta3/alternates/LANDSCAPE_768/%20Luiz%20Henrique%20Mandetta%20
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-24 10:02:00
 pub_date: 2019-09-24 10:02:00
 time_added: 2019-09-26 06:40:41
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23970116-da7-01a/FT1086A/652/carteira-nova-0409.jpg
 ---

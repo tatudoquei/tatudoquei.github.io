@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-01 23:00:00
 pub_date: 2021-02-01 23:00:00
 time_added: 2021-02-03 07:20:07
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/02/animacao-mostra-como-pandemia-e-queimadas-afetaram-a-amazonia-destaque.jpg
 ---

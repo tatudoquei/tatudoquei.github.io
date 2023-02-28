@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-17 20:49:38
 pub_date: 2020-03-17 20:49:38
 time_added: 2020-03-18 09:02:55
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/06/capa-trauma-traduz-itunes.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

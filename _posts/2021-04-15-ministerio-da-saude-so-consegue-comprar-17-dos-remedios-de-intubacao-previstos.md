@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-15 12:27:00
 pub_date: 2021-04-15 12:27:00
 time_added: 2021-05-16 20:27:35
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/df/2021/03/25/o-ministro-da-saude-marcelo-queiroga-1616720284208_v2_615x300.jpg
 ---

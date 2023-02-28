@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-26 17:31:00
 pub_date: 2020-04-26 17:31:00
 time_added: 2020-04-27 12:05:58
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/5f/2020/04/26/cena-da-serie-a-casa-das-flores-que-faz-referencia-ao-presidente-jair-bolsonaro-1587939557428_v2_615x300.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-01 15:08:03
 pub_date: 2023-01-01 15:08:03
 time_added: 2023-01-01 21:49:12
-category: 
+categories: []
 tags: []
 image: https://brazilian.report/wp-content/uploads/2023/01/52600504438_c71f4c9334_c.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-13 14:00:00
 pub_date: 2020-03-13 14:00:00
 time_added: 2020-03-16 15:28:51
-category: 
+categories: []
 tags: []
 image: https://www.sciencenews.org/wp-content/uploads/2020/03/031120_tsjl_coronavirus-containment_feat.jpg
 ---

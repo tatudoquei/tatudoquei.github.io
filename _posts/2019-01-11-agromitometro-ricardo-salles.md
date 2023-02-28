@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-11 23:00:00
 pub_date: 2019-01-11 23:00:00
 time_added: 2019-12-23 21:19:31
-category: resistimos
+categories: [resistimos]
 tags: [meio ambiente]
 ---
 

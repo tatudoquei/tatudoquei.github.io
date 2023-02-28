@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-14 03:53:37
 pub_date: 2020-06-14 03:53:37
 time_added: 2020-06-14 05:53:37
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/f6/2020/06/13/jaqueline-e-ester-1592069872608_v2_615x300.jpg
 ---

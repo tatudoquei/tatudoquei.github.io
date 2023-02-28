@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-13 15:31:13
 pub_date: 2021-03-13 15:31:13
 time_added: 2021-07-04 12:13:55
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/03/Carloz-Wizard-pazzuelo-868x640-1-868x640-1-868x630.jpeg
 ---

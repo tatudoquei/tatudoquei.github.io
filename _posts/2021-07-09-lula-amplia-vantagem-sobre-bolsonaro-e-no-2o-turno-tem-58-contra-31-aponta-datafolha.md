@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-09 15:32:30
 pub_date: 2021-07-09 15:32:30
 time_added: 2021-07-25 16:52:59
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/kCnkEaw_Syh5K9ArGiqEmOjQzZ8=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2018/08/22/lula-bolsonaro.jpg
 ---

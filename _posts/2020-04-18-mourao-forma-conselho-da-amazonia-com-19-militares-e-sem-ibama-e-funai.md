@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-18 11:53:00
 pub_date: 2020-04-18 11:53:00
 time_added: 2020-04-18 18:04:02
-category: 
+categories: []
 tags: [meio ambiente]
 image: https://conteudo.imguol.com.br/c/entretenimento/22/2020/02/11/bolsonaro-assina-decreto-que-cria-conselho-nacional-da-amazonia-legal-na-presenca-de-mourao-e-ministros-1581456075622_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-03 17:36:05
 pub_date: 2020-04-03 17:36:05
 time_added: 2020-04-03 23:51:16
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/04/20200330_00_reagente-coronavirus.jpg
 ---

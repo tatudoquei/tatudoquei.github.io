@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-16 19:26:09
 pub_date: 2021-01-16 19:26:09
 time_added: 2021-02-07 06:49:56
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/01/ethel-maciel-vai-estourar-em-outros-estados-e-vacina-da-covid-19-e-a-melhor-estrategia-para-diminuir-transmissao.jpg
 ---

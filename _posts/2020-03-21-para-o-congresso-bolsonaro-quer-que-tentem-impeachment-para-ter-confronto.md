@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-21 03:00:00
 pub_date: 2020-03-21 03:00:00
 time_added: 2020-03-22 08:31:08
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/bc/2020/03/16/presidente-jair-bolsonaro-chega-a-reuniao-com-ministro-das-minas-e-energia-em-brasilia-1584358415903_v2_615x300.jpg
 ---

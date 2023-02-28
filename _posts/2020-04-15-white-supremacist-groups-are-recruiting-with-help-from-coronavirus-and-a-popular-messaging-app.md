@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-15 11:41:17
 pub_date: 2020-04-15 11:41:17
 time_added: 2020-04-15 13:41:17
-category: 
+categories: []
 tags: []
 image: https://api.time.com/wp-content/uploads/2020/04/telegram-white-supremacists-coronavirus.jpg?quality=85&w=1200&h=628&crop=1
 ---

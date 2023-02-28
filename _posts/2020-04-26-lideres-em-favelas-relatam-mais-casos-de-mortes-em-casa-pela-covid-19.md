@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-26 02:30:00
 pub_date: 2020-04-26 02:30:00
 time_added: 2020-04-27 07:06:46
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24394333-d0e-ae1/FT1086A/652/providencia.jpg
 ---

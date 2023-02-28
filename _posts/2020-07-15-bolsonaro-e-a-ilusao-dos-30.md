@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-15 15:56:00
 pub_date: 2020-07-15 15:56:00
 time_added: 2020-07-18 13:51:44
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2020/07/bolsonaro_redes_15072020.jpg
 ---

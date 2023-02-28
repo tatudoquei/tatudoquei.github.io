@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-17 07:56:00
 pub_date: 2020-01-17 07:56:00
 time_added: 2020-01-17 19:51:37
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24121502-7a0-c6d/FT1086A/652/x83767182_Brazilian-theater-director-Roberto-Alvim-attends-an-interview-with-AFP-in-Sao-Paulo-Bra.jpg.pagespeed.ic.65xncs35W-.jpg
 ---

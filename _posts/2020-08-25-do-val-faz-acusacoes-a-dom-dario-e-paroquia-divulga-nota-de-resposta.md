@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-25 03:00:00
 pub_date: 2020-08-25 03:00:00
 time_added: 2021-07-04 12:46:02
-category: 
+categories: []
 tags: []
 image: https://www.seculodiario.com.br/images/s/Politica/montagem/b2ap3_large_marcos_dario_leonardo_sa_divulgacao.jpg
 ---

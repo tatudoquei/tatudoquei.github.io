@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-08 18:04:37
 pub_date: 2020-12-08 18:04:37
 time_added: 2020-12-09 22:48:10
-category: 
+categories: []
 tags: []
 image: https://www.infomoney.com.br/wp-content/uploads/2020/12/mcamgo_pazuello_saude_1609201077.jpg?fit=1170%2C700&quality=75&strip=all
 ---

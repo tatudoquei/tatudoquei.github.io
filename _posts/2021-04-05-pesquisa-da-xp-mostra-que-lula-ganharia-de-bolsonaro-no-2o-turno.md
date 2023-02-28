@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-05 23:22:16
 pub_date: 2021-04-05 23:22:16
 time_added: 2021-05-16 17:27:48
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/03/JairBolsonaro-AuxilioEmergencial-Pronunciamento-PalacioDoPlanalto-338-1200x630.jpg
 ---

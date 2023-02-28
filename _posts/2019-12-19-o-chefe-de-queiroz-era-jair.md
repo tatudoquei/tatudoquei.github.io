@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-19 23:00:00
 pub_date: 2019-12-19 23:00:00
 time_added: 2020-06-19 12:19:34
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/BFvR3dkYh90NqsgJNS9d7gUW5yo=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2018/11/28/80075893_bsb_-_brasilia_-_brasil_-_28-11-2018_-_pa_-_o_presidente_eleito_jair_bolsonaro_chega_p.jpg
 ---

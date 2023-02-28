@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-13 16:47:00
 pub_date: 2020-08-13 16:47:00
 time_added: 2020-08-13 23:33:03
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c6/2020/06/16/estatua-da-justica-do-lado-de-fora-do-predio-do-supremo-tribunal-federal-em-brasilia-1592320973629_v2_615x300.jpg
 ---

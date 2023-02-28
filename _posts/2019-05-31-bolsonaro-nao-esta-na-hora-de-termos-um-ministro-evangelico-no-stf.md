@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-31 14:32:29
 pub_date: 2019-05-31 14:32:29
 time_added: 2019-06-01 16:48:55
-category: 
+categories: []
 tags: []
 image: https://www.valor.com.br/sites/default/files/imagecache/media_library_big_horizontal/fotoweb/bolsonaro54.jpg
 ---

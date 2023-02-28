@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-15 11:06:00
 pub_date: 2021-04-15 11:06:00
 time_added: 2021-05-16 20:35:24
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/economia/24959591-7d9-74f/FT1086A/Vacina-patente.jpg
 ---

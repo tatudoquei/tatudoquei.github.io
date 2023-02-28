@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-13 07:19:00
 pub_date: 2021-05-13 07:19:00
 time_added: 2021-05-14 06:20:20
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/9b/2021/04/23/23abr2021---aumento-de-co2-na-amazonia-pode-ter-impacto-ate-maior-que-o-do-desmatamento-na-diminuicao-das-chuvas-1619180918198_v2_615x300.jpg
 ---

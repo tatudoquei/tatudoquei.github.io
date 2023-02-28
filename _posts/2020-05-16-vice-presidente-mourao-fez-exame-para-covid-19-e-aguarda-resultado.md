@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-16 17:41:15
 pub_date: 2020-05-16 17:41:15
 time_added: 2020-05-17 10:03:19
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2019/01/mourao_romerio-cunha-pr.jpg
 ---

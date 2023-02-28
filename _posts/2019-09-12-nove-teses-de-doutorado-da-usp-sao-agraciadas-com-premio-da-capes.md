@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-12 16:35:17
 pub_date: 2019-09-12 16:35:17
 time_added: 2019-09-17 16:17:07
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/09/20190912_00_premio_capes_teses.jpg
 ---

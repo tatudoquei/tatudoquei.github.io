@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-19 02:03:02
 pub_date: 2021-02-19 02:03:02
 time_added: 2021-02-18 23:03:02
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Protesto-contra-Coronavac/alternates/LANDSCAPE_768/Protesto%20contra%20Coronavac
 ---

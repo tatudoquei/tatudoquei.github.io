@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-09 17:36:58
 pub_date: 2020-07-09 17:36:58
 time_added: 2020-07-11 07:31:29
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2018/06/joao-otavio-noronha-stj-1.jpg
 ---

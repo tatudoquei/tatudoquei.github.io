@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-12 21:20:00
 pub_date: 2021-07-12 21:20:00
 time_added: 2021-08-20 21:06:13
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d0/2021/03/01/8abr2020---o-secretario-de-politica-economica-adolfo-sachsida-em-coletiva-do-ministerio-da-economia-1614634961785_v2_615x300.jpg
 ---

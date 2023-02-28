@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-04 02:30:00
 pub_date: 2021-04-04 02:30:00
 time_added: 2021-05-16 17:00:30
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24954918-a07-f0c/FT1086A/92277000_EPOCASao-CarlosSP31-03-2021-Roberto-Muniz-Juniorgerente-medico-da-Santa-Casa-de-Sa.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-07 02:15:00
 pub_date: 2021-03-07 02:15:00
 time_added: 2021-03-07 10:48:36
-category: avisamos
+categories: [avisamos, dita cuja]
 tags: []
 image: https://f.i.uol.com.br/fotografia/2019/07/03/15621731535d1cdee1bb734_1562173153_3x2_rt.jpg
 ---

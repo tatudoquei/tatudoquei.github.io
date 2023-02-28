@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-13 08:58:00
 pub_date: 2021-12-13 08:58:00
 time_added: 2021-12-13 14:55:42
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24658748-d91-4db/FT1086A/760/contarato_.jpg
 ---

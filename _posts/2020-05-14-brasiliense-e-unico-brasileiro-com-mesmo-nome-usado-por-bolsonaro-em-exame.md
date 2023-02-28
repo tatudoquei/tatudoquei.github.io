@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-14 08:30:42
 pub_date: 2020-05-14 08:30:42
 time_added: 2020-05-15 20:54:48
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2016/09/09180504/compartilhamento_novo.png
 ---

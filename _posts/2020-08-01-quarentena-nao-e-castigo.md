@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-01 02:31:00
 pub_date: 2020-08-01 02:31:00
 time_added: 2020-08-01 21:15:49
-category: 
+categories: []
 tags: []
 image: https://i.glbimg.com/og/ig/infoglobo1/f/original/blog/image_share/a-hora-da-ciencia.jpg
 ---

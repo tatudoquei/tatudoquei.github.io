@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-30 20:12:00
 pub_date: 2022-10-30 20:12:00
 time_added: 2022-10-31 00:24:11
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/1f/2022/10/29/o-ex-presidente-luiz-inacio-lula-da-silva-pt-e-o-presidente-jair-bolsonaro-pl-em-montagem-1667047004005_v2_615x300.jpg
 ---

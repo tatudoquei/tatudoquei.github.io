@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-09 10:00:00
 pub_date: 2020-06-09 10:00:00
 time_added: 2021-02-20 07:51:26
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24469188-2bb-c7d/FT1086A/652/deputado-daniel-silveira-psl-rj-1571343886774_v2_900x506.jpg
 ---

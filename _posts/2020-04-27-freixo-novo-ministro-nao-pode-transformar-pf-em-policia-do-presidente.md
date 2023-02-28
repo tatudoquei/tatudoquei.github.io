@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-27 15:30:00
 pub_date: 2020-04-27 15:30:00
 time_added: 2020-04-27 22:16:58
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/2c/2019/08/29/retrato-do-deputado-estadual-pelo-rio-de-janeiro-marcelo-freixo-psol-1567089116075_v2_615x300.jpg
 ---

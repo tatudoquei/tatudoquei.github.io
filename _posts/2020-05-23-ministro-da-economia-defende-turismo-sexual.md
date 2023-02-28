@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-23 14:36:49
 pub_date: 2020-05-23 14:36:49
 time_added: 2020-05-24 08:41:23
-category: 
+categories: []
 tags: []
 image: https://blogdacidadania.com.br/wp-content/uploads/2020/05/MODELO-2020-05-23T113421.654.png
 ---

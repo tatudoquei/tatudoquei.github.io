@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-16 06:58:26
 pub_date: 2017-02-25 23:34:26
 time_added: 2020-01-16 06:58:26
-category: 
+categories: []
 tags: []
 image: https://avoyager.net/wp-content/uploads/2019/07/Coreia-do-Sul-RS.png
 ---

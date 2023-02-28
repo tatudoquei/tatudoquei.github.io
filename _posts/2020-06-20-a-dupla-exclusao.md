@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-20 17:34:39
 pub_date: 2020-06-20 17:34:39
 time_added: 2020-06-20 19:34:39
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2020/06/165_temposdapeste8_redes.jpg
 ---

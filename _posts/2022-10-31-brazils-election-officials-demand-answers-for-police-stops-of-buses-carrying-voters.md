@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-31 12:12:13
 pub_date: 2022-10-31 12:12:13
 time_added: 2022-10-31 13:12:13
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2022/10/30/multimedia/30brazil-morais-2-1-d4ad/30brazil-morais-2-1-d4ad-facebookJumbo.jpg
 ---

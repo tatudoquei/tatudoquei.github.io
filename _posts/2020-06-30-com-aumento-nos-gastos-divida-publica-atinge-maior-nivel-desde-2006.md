@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-30 07:31:00
 pub_date: 2020-06-30 07:31:00
 time_added: 2020-07-01 12:12:05
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24494074-f01-e86/FT1086A/652/84565911_BRASILBrasilia-DF13-09-2019Fotos-da-fachada-do-Congresso-Nacional-Palacio-da-Justi.jpg
 ---

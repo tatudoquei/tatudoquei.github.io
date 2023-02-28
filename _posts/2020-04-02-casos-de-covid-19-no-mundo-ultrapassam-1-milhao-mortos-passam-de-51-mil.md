@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-02 14:05:00
 pub_date: 2020-04-02 14:05:00
 time_added: 2020-04-02 22:08:28
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24346173-794-222/FT1086A/652/87722946_A-healthcare-worker-adjusts-the-mask-of-a-colleague-outside-the-emergency-entrance-of-t.jpg
 ---

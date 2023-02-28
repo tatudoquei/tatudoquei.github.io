@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-09 07:27:10
 pub_date: 2020-06-09 07:27:10
 time_added: 2020-06-09 22:51:46
-category: 
+categories: []
 tags: []
 image: https://extra.globo.com/incoming/24469738-cf8-2b3/w976h550-PROP/87492758_ririo-de-janeirorj13-03-2020comunidade-da-rocinhafoto.jpg
 ---

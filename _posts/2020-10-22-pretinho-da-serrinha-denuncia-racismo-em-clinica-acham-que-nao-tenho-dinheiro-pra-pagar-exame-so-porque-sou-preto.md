@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-22 21:08:14
 pub_date: 2020-10-22 21:08:14
 time_added: 2020-10-23 21:09:44
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/noticiapreta.com.br/wp-content/uploads/2020/10/pretinho.png?fit=759%2C444&ssl=1
 ---

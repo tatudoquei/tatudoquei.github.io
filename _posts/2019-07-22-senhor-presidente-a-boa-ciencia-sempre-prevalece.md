@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-22 16:40:37
 pub_date: 2019-07-22 16:40:37
 time_added: 2019-07-22 22:02:39
-category: 
+categories: []
 tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2019/07/Amazonia-2011_Nasa-Goddard.jpg
 ---

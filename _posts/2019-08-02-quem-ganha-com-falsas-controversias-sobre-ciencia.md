@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-02 22:00:00
 pub_date: 2019-08-02 22:00:00
 time_added: 2019-08-06 04:42:46
-category: 
+categories: []
 tags: []
 image: http://revistaquestaodeciencia.com.br/sites/default/files/styles/facebook/public/2019-08/CONTROVERSY_SQUARE.jpg?itok=g18DGUqX
 ---

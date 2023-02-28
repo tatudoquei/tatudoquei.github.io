@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-25 00:00:00
 pub_date: 2019-07-25 00:00:00
 time_added: 2019-07-26 05:58:35
-category: 
+categories: []
 tags: []
 image: https://painel.blogfolha.uol.com.br/files/2019/01/15483408805c49ce90c7966_1548340880_3x2_rt.jpg
 ---

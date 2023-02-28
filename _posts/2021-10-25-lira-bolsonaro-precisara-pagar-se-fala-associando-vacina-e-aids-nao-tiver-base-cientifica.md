@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-25 15:57:00
 pub_date: 2021-10-25 15:57:00
 time_added: 2021-10-25 22:01:00
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ed/2021/10/20/o-presidente-da-camara-dos-deputados-arthur-lira-pp-al-1634777969024_v2_615x300.jpg
 ---

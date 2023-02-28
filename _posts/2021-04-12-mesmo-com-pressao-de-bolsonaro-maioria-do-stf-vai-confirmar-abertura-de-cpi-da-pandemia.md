@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-12 02:00:00
 pub_date: 2021-04-12 02:00:00
 time_added: 2021-05-16 18:23:24
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/UolWj-C2DRxb_5WuEw7XMMCjmdk=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2021/04/07/92365370_chapeco_sc_07-04-2021_-_jair_bolsonaro_visita_centro_de_tratamento_do_covid_-_o_presidente.jpg
 ---

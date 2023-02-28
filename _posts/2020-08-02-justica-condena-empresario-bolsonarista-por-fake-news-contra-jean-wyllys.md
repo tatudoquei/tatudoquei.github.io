@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-02 12:57:00
 pub_date: 2020-08-02 12:57:00
 time_added: 2020-08-02 22:02:52
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/23/2016/05/29/29mai2016---o-deputado-federal-jean-wyllys-psol-rj-participa-da-20-parada-do-orgulho-lgbt-em-sao-paulo-neste-domingo-o-deputado-aproveitou-a-ocasiao-para-fazer-um-discurso-em-favor-dos-homossexuais-1464549214465_615x300.jpg
 ---

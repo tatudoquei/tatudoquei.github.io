@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-09 18:00:06
 pub_date: 2020-03-09 18:00:06
 time_added: 2020-03-11 02:11:25
-category: 
+categories: []
 tags: []
 image: https://abrilvocesa.files.wordpress.com/2020/03/ciencia_pesquisas_tarja.jpg?quality=70&strip=info
 ---

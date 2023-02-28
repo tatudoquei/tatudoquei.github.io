@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-07 14:43:27
 pub_date: 2019-05-07 14:43:27
 time_added: 2019-05-11 21:08:58
-category: 
+categories: []
 tags: []
 image: https://www.extraclasse.org.br/wp-content/uploads/2019/05/Foto-Karlos-Geromy-DIVULGACAO.jpeg
 ---

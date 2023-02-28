@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-10-29 02:21:00
 pub_date: 2018-10-29 02:21:00
 time_added: 2019-12-23 21:19:29
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://imgsapp2.correiobraziliense.com.br/app/noticia_127983242361/2018/10/28/716035/20181028232413131542e.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-18 20:37:32
 pub_date: 2019-12-18 20:37:32
 time_added: 2019-12-19 00:44:00
-category: 
+categories: []
 tags: []
 image: https://cdn.oantagonista.net/uploads/2019/11/flavio-bolsonaro-uif.jpg
 ---

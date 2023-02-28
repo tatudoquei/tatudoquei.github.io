@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-07 07:30:00
 pub_date: 2021-02-07 07:30:00
 time_added: 2021-02-12 23:08:19
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24872852-84e-ae7/FT1086A/652/91429099_PA-Brasilia-BSB-01-02-2021Eleicoes-para-Presidencia-da-Camara-dos-Deputados-Arthur-Lira.jpg
 ---

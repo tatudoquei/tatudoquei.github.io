@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-18 14:08:09
 pub_date: 2022-11-18 14:08:09
 time_added: 2022-11-23 22:33:58
-category: 
+categories: []
 tags: []
 image: https://www.agendadopoder.com.br/wp-content/uploads/2022/11/hali-fotos-de-capa-2022-07-22T200547.297.webp
 ---

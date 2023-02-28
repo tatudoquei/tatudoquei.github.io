@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-29 13:22:00
 pub_date: 2020-05-29 13:22:00
 time_added: 2020-05-29 21:28:39
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/7b/2020/01/28/28jan2018---o-ministro-do-meio-ambiente-ricardo-salles-em-seu-apartamento-em-sao-paulo-15jan2019-1580248364109_v2_615x300.jpg
 ---

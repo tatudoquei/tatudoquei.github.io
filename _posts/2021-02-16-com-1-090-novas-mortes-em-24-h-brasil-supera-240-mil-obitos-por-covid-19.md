@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-16 21:53:00
 pub_date: 2021-02-16 21:53:00
 time_added: 2021-02-18 13:06:18
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/fd/2020/07/27/enterro-no-cemiterio-da-vila-formosa-em-sao-paulo-sp-1595889650882_v2_615x300.jpg
 ---

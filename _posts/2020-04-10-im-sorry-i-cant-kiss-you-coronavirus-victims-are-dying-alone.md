@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-10 16:02:00
 pub_date: 2020-04-10 16:02:00
 time_added: 2020-04-11 05:29:49
-category: 
+categories: []
 tags: []
 image: https://images.wsj.net/im-175073/social
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-01 15:05:00
 pub_date: 2020-07-01 15:05:00
 time_added: 2020-07-02 12:08:08
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/218/files/2020/07/iStock-1222801668.jpg
 ---

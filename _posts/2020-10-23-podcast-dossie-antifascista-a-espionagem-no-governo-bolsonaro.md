@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-23 13:00:41
 pub_date: 2020-10-23 13:00:41
 time_added: 2020-11-07 07:34:28
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2020/10/dossie-antifascista-a-espionagem-no-governo-bolsonaro.png
 ---

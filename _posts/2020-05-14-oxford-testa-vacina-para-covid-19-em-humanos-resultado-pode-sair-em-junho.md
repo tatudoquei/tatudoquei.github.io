@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-14 08:37:00
 pub_date: 2020-05-14 08:37:00
 time_added: 2020-05-15 16:09:54
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/df/2020/05/11/ilustracao-do-novo-coronavirus-criada-pelo-cdc-1589210774819_v2_615x300.jpg
 ---

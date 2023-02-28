@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-04 19:08:29
 pub_date: 2022-11-04 19:08:29
 time_added: 2022-11-04 20:08:29
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/jornal.usp.br/wp-content/uploads/2022/09/20220914_reitoria.jpg?fit=1200%2C630&ssl=1
 ---

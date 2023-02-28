@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-23 22:00:00
 pub_date: 2020-10-23 22:00:00
 time_added: 2020-11-07 07:34:22
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/vacinacao1/alternates/LANDSCAPE_768/vacinacao
 ---

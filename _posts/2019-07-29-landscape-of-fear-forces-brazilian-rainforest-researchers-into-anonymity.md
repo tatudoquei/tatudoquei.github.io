@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-29 22:00:00
 pub_date: 2019-07-29 22:00:00
 time_added: 2019-12-10 22:05:02
-category: 
+categories: []
 tags: []
 image: https://www.natureindex.com/news-blog/image/5de9d01d9d67dd312f378aa6
 ---

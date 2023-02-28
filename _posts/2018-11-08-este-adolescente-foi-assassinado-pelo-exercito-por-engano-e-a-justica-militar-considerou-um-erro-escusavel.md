@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-11-08 19:25:28
 pub_date: 2018-11-08 19:25:28
 time_added: 2021-06-05 15:08:54
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2018/11/Matheus-Martins-1.jpg
 ---

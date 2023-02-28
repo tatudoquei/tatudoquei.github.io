@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-01 09:31:20
 pub_date: 2021-07-01 09:31:20
 time_added: 2021-07-01 20:21:39
-category: 
+categories: []
 tags: []
 image: https://extra.globo.com/incoming/25085381-2d6-932/w976h550-PROP/januario-garcia.jpg
 ---

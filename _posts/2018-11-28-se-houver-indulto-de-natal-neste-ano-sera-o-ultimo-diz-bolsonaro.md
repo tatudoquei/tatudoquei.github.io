@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-11-28 11:36:00
 pub_date: 2018-11-28 11:36:00
 time_added: 2018-11-28 22:58:11
-category: avisamos
+categories: [avisamos]
 tags: []
 image: http://conteudo.imguol.com.br/c/noticias/16/2018/11/27/27nov2018---jair-bolsonaro-enxuga-suor-durante-reuniao-com-bancada-evangelica-1543359507723_v2_956x500.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-10 04:00:38
 pub_date: 2020-01-10 04:00:38
 time_added: 2020-01-18 12:12:16
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/coluna-do-estadao/wp-content/uploads/sites/352/2019/11/BOLSOANRO-NO-SENADO.jpg
 ---

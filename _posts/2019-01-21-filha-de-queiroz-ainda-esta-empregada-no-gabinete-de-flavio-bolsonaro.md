@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-21 17:26:00
 pub_date: 2019-01-21 17:26:00
 time_added: 2019-01-22 07:45:24
-category: avisamos
+categories: [avisamos, bandido bom]
 tags: []
 ---
 

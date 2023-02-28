@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-10 19:19:18
 pub_date: 2020-04-10 19:19:18
 time_added: 2020-04-10 20:02:49
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2020/04/2020-04-09t141318z_50896204_rc221g99q6wy_rtrmadp_3_health-coronavirus-sweden.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

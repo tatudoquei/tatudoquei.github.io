@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-27 20:49:14
 pub_date: 2020-04-27 20:49:14
 time_added: 2020-04-27 22:16:46
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2020/04/colapso-da-saude-em-belem-contrasta-com-numero-oficial-de-casos-destaque.jpeg
 ---

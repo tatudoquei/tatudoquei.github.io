@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-11 11:32:00
 pub_date: 2019-11-11 11:32:00
 time_added: 2019-11-11 20:35:17
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/287/files/2019/11/carluxo-615x300.png
 ---

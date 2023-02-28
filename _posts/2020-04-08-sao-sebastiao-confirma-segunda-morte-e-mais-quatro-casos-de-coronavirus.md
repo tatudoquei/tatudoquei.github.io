@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-08 11:20:57
 pub_date: 2020-04-08 11:20:57
 time_added: 2020-04-08 13:20:57
-category: 
+categories: []
 tags: []
 image: http://radarlitoral.com.br/upload/upnoticia/1586306442.jpg
 ---

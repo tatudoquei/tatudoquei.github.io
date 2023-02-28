@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-05 13:00:00
 pub_date: 2021-09-05 13:00:00
 time_added: 2021-09-26 05:06:01
-category: 
+categories: []
 tags: []
 image: https://theintercept.imgix.net/wp-uploads/sites/1/2021/09/GettyImages-1218215534-bolsonaro.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800
 ---

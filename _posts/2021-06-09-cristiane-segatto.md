@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-09 02:00:00
 pub_date: 2021-06-09 02:00:00
 time_added: 2021-06-13 21:00:37
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/c0/2021/06/08/cesar-victora-professor-da-universidade-federal-de-pelotas-e-coordenador-do-estudo-epicovid-1623182048593_v2_615x300.jpg
 ---

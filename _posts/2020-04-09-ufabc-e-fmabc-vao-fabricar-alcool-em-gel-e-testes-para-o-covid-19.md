@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-09 06:25:00
 pub_date: 2020-04-09 06:25:00
 time_added: 2020-04-12 08:25:07
-category: 
+categories: []
 tags: []
 image: http://minharegiaoabc.com.br/wp-content/uploads/2018/01/ufabc.jpg
 ---

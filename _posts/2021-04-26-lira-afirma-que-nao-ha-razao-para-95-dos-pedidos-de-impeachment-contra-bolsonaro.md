@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-26 07:45:00
 pub_date: 2021-04-26 07:45:00
 time_added: 2021-04-26 14:42:59
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24986618-623-4d8/FT1086A/92546674_Discussao-e-votacao-de-propostas-Presidente-da-Camara-Arthur-Lira-PPAL20-04-2021.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-20 11:31:52
 pub_date: 2020-03-20 11:31:52
 time_added: 2020-03-20 21:33:07
-category: 
+categories: []
 tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2016/11/Capes.jpeg
 ---

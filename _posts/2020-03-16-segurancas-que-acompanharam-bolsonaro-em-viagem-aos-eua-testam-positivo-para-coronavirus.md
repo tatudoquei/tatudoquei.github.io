@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-16 08:11:13
 pub_date: 2020-03-16 08:11:13
 time_added: 2020-03-16 15:28:54
-category: 
+categories: []
 tags: []
 image: https://extra.globo.com/noticias/brasil/24306800-246-c7e/w976h550-PROP/segurancas.jpg
 ---

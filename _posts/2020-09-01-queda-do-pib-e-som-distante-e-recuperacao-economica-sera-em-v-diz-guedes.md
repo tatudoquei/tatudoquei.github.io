@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-01 09:09:00
 pub_date: 2020-09-01 09:09:00
 time_added: 2020-09-01 17:29:10
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d6/2020/08/21/ministro-da-economia-paulo-guedes-1598046694430_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-22 19:49:00
 pub_date: 2021-03-22 19:49:00
 time_added: 2021-03-27 18:50:39
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/92/2020/09/17/ministro-marco-aurelio-mello-durante-sessao-do-stf-1600360864359_v2_615x300.jpg
 ---

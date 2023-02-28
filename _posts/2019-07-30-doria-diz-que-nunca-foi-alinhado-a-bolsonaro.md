@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-30 02:25:12
 pub_date: 2019-07-30 02:25:12
 time_added: 2019-07-30 21:57:26
-category: 
+categories: []
 tags: []
 image: https://br18.com.br/wp-content/uploads/sites/683/2019/07/bolsodoria2.jpg
 ---

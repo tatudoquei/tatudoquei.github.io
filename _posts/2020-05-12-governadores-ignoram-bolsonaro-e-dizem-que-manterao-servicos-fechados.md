@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-12 02:45:49
 pub_date: 2020-05-12 02:45:49
 time_added: 2020-05-12 12:45:31
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/05/Bolsonaro-carro-1200x630.jpg
 ---

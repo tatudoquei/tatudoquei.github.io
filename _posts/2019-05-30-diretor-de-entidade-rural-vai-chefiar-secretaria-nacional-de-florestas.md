@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-30 16:12:30
 pub_date: 2019-05-30 16:12:30
 time_added: 2019-05-30 18:12:30
-category: 
+categories: []
 tags: []
 image: http://www.ihu.unisinos.br/images/ihu/2019/05/30_05_desmatamentofoto_cristiano_martins_agencia_para.jpg
 ---

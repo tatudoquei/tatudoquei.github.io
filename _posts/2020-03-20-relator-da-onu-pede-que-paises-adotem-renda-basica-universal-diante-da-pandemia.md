@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-20 16:45:35
 pub_date: 2020-03-20 16:45:35
 time_added: 2020-03-21 12:27:24
-category: 
+categories: []
 tags: []
 image: https://nacoesunidas.org/wp-content/uploads/2018/02/Juan_Pablo_Bohoslavsky-e1519842335636.jpg
 ---

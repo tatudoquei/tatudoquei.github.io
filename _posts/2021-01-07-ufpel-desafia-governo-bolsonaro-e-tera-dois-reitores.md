@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-07 20:44:52
 pub_date: 2021-01-07 20:44:52
 time_added: 2021-01-09 09:09:00
-category: 
+categories: []
 tags: []
 image: https://www.sul21.com.br/wp-content/uploads/2021/01/20210107-logo-ufpel.jpg
 ---

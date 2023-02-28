@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-01 19:33:00
 pub_date: 2021-01-01 19:33:00
 time_added: 2021-01-05 13:59:51
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24819780-97d-927/FT1086A/652/90898289_PA-Brasilia-BSB-17-12-2020-Cerimonia-de-Posse-do-senhor-Gilson-Machado-Ministro-de-Esta.jpg
 ---

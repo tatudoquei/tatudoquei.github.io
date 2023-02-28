@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-04 19:12:38
 pub_date: 2019-12-04 19:12:38
 time_added: 2019-12-08 12:30:55
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2019/12/grupo.jpg
 ---

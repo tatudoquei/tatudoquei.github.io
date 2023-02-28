@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-26 15:03:26
 pub_date: 2019-05-26 15:03:26
 time_added: 2020-09-10 21:38:23
-category: 
+categories: []
 tags: []
 image: https://static-wp-canalr-prd.canalrural.com.br/2019/05/conab-unidade.jpg
 ---

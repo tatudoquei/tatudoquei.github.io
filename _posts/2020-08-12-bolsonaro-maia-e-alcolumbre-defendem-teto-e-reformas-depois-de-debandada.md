@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-12 22:45:46
 pub_date: 2020-08-12 22:45:46
 time_added: 2020-08-13 19:32:43
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/08/alcolumbre-bolsonaro-maia-1200x630.jpeg
 ---

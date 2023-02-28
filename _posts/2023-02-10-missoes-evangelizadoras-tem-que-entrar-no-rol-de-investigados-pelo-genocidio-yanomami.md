@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-10 12:00:00
 pub_date: 2023-02-10 12:00:00
 time_added: 2023-02-11 23:15:10
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2023/02/REDES-TIB_Ilustra_EvangelicosYanomami.jpg
 ---

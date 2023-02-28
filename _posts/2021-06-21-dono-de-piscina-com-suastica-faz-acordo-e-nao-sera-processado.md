@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-21 21:37:19
 pub_date: 2021-06-21 21:37:19
 time_added: 2021-07-04 12:09:43
-category: 
+categories: []
 tags: []
 image: https://www.vozdaresistencia.com.br/wp-content/uploads/2021/06/admin-ajax.jpg
 ---

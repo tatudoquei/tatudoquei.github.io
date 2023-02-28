@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-28 15:42:12
 pub_date: 2019-03-28 15:42:12
 time_added: 2019-04-02 21:35:21
-category: 
+categories: []
 tags: []
 image: https://cdn.static-economist.com/sites/default/files/images/print-edition/20190330_AMD001_0.jpg
 ---

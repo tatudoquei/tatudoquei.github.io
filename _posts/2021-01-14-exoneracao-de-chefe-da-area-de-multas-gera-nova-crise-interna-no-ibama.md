@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-14 20:35:53
 pub_date: 2021-01-14 20:35:53
 time_added: 2021-02-07 06:48:22
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/01/Oeco_Ibama-RS.jpg
 ---

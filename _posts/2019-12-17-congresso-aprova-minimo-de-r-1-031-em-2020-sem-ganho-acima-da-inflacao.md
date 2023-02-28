@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-17 19:10:00
 pub_date: 2019-12-17 19:10:00
 time_added: 2019-12-21 10:19:02
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/75/2016/06/22/dinheiro-real-notas-de-real-moedas-economia-brasileira-1466594810424_750x421.jpg
 ---

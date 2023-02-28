@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-26 00:38:00
 pub_date: 2021-03-26 00:38:00
 time_added: 2021-03-27 19:02:37
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/6b/2021/03/25/romison-rodrigues-mota-diretor-substituto-da-quarta-diretoria-da-anvisa-1616717426389_v2_615x300.jpg
 ---

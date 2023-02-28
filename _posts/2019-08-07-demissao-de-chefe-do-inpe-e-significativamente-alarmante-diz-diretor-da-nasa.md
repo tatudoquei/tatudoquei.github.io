@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-07 13:05:34
 pub_date: 2019-08-07 13:05:34
 time_added: 2019-08-07 19:26:13
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/ZbFGHg6u9HhB21UVv6VNRtKcdkM=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2015/03/21/desmatamento.jpeg
 ---

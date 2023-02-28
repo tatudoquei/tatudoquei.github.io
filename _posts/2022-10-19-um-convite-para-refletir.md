@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-19 12:30:18
 pub_date: 2022-10-19 12:30:18
 time_added: 2022-10-21 07:23:12
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2018/09/urna.jpg
 ---

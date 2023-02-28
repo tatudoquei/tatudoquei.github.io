@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-14 16:51:00
 pub_date: 2020-01-14 16:51:00
 time_added: 2020-01-18 15:00:29
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/45/2020/01/14/aluna-escreve-fora-bolsonaro-em-coreano-durante-reportagem-no-jornal-hoje-1579034317567_v2_615x300.jpg
 ---

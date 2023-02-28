@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-11 15:02:12
 pub_date: 2019-06-11 15:02:12
 time_added: 2019-06-12 20:58:18
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2018/11/screen-shot-2018-11-16-at-7-07-24-pm.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

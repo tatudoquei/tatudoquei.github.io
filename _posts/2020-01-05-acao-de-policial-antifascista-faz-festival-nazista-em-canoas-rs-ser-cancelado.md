@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-05 14:55:57
 pub_date: 2020-01-05 14:55:57
 time_added: 2020-01-08 21:02:35
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2020/01/festival-neonazista-e1577973413852.jpg
 ---

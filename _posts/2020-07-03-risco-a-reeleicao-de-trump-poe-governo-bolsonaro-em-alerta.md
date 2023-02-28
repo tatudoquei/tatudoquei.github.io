@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-03 08:01:54
 pub_date: 2020-07-03 08:01:54
 time_added: 2020-07-03 11:30:55
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/kSlZHDlOVB-TQjjPFHIp0y_p1us=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2019/04/09/bolso_trump.jpg
 ---

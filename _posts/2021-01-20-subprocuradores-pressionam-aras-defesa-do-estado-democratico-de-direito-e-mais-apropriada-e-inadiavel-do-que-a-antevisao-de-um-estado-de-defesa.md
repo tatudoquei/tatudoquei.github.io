@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-20 06:55:24
 pub_date: 2021-01-20 06:55:24
 time_added: 2021-01-21 15:50:08
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2020/06/bolsonaro-e-aras-3_270620201843.jpg
 ---

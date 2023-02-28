@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-17 20:51:40
 pub_date: 2019-04-17 20:51:40
 time_added: 2019-04-18 06:53:22
-category: 
+categories: []
 tags: []
 image: https://scd.france24.com/en/files/imagecache/home_1024/images/afp/d8af0605dbf7e142a19b8847e7836ba975aac505.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-22 05:00:00
 pub_date: 2019-08-22 05:00:00
 time_added: 2019-08-25 07:54:05
-category: 
+categories: []
 tags: []
 image: https://ogcss.infoglobo.com.br/9876543210/img/epoca.jpg
 ---

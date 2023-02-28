@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-10 08:00:00
 pub_date: 2021-12-10 08:00:00
 time_added: 2021-12-13 14:53:00
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/economia/24729770-4b4-b60/FT1086A/760/Gasolina-combustiveisRoberto-Moreyra.jpg
 ---

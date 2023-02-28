@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-21 07:30:00
 pub_date: 2021-03-21 07:30:00
 time_added: 2021-03-27 18:46:38
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24934751-c99-5dc/FT1086A/92088196_Legenda-Fabiana-Santiago-professora-de-Direito-e-especialista-na-Lei-de-Seguranca-Nacio.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-10 17:10:27
 pub_date: 2022-10-10 17:10:27
 time_added: 2022-10-10 21:27:12
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Agentes-PF-Opera%C3%A7%C3%A3o-Codevasf-divuilga%C3%A7%C3%A3o-PF.jpg/alternates/LANDSCAPE_768/Agentes%20PF%20Opera%C3%A7%C3%A3o%20Codevasf%20divuilga%C3%A7%C3%A3o%20PF.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-19 13:09:00
 pub_date: 2021-06-19 13:09:00
 time_added: 2021-06-13 20:55:49
-category: 
+categories: []
 tags: []
 image: http://www.lance.com.br/files/og_image/uploads/2018/09/11/5b980f38cc557.jpeg
 ---

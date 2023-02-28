@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-19 16:45:57
 pub_date: 2021-04-19 16:45:57
 time_added: 2021-05-16 20:43:57
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/04/ReformaAdministrativa-PauloGuedes-RodrigoMaia-CongressoNacional-Coronavirus-Covid19-166-1200x630.jpg
 ---

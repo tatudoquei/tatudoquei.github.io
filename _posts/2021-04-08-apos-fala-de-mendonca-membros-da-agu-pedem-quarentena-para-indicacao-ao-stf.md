@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-08 18:39:16
 pub_date: 2021-04-08 18:39:16
 time_added: 2021-05-16 17:49:23
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/03/AndreMendonca-JairBolsonaro-MinistroDaJustica-Posse-46-scaled-1-868x644-1-868x630.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-17 15:29:00
 pub_date: 2019-10-17 15:29:00
 time_added: 2019-10-20 21:57:13
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24025194-8aa-49a/FT1086A/652/oleo_trajeto.jpg
 ---

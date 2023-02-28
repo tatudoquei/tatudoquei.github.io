@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-31 19:44:33
 pub_date: 2021-01-31 19:44:33
 time_added: 2021-02-02 08:02:41
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/01/Bruno-Covas-no-Maracana-958x630.jpg
 ---

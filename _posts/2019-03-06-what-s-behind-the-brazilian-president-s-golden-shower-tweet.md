@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-06 17:57:57
 pub_date: 2019-03-06 17:57:57
 time_added: 2019-12-23 21:21:00
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://brazilian.report/wp-content/uploads/2019/03/bolsonaro-golden-shower-carnival-1024x683.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-03 11:00:00
 pub_date: 2019-05-03 11:00:00
 time_added: 2019-05-04 06:25:41
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Tabata-Amaral1/ALTERNATES/LANDSCAPE_720/Tabata%20Amaral
 ---

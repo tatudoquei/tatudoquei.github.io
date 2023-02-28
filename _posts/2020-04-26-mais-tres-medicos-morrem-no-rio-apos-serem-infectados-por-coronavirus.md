@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-26 16:37:00
 pub_date: 2020-04-26 16:37:00
 time_added: 2020-04-27 11:14:49
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24395062-12b-422/FT1086A/652/87790182_RI-Rio-de-Janeiro-RJ-08-04-2020Materia-sobre-vagas-em-hospitais-publicos-e-privados.jpg
 ---

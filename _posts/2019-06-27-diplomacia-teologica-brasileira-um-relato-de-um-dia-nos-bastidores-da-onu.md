@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-27 13:11:00
 pub_date: 2019-06-27 13:11:00
 time_added: 2019-06-28 07:02:17
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/275/files/2019/06/IMG_0098-2-615x300.jpg
 ---

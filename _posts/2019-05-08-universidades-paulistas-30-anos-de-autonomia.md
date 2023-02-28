@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-08 22:00:00
 pub_date: 2019-05-08 22:00:00
 time_added: 2019-05-28 17:12:42
-category: 
+categories: []
 tags: []
 image: http://revistapesquisa.fapesp.br/wp-content/thumbs/33c9da74a41648ea373e4493d182fe5624116b02_1200-630.jpg
 ---

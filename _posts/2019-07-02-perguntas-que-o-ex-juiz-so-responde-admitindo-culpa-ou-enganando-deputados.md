@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-02 19:56:00
 pub_date: 2019-07-02 19:56:00
 time_added: 2019-07-04 22:27:50
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2019/03/papofurado-615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-28 02:00:00
 pub_date: 2019-05-28 02:00:00
 time_added: 2019-06-02 05:01:53
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/39/2019/02/20/20022019---presidente-da-camara-dos-deputados-dep-rodrigo-maia-recebe-o-presidente-da-republica-jair-bolsonaro-1550685415790_v2_750x421.jpg
 ---

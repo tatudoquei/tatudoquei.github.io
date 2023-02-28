@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-07 09:18:47
 pub_date: 2019-05-07 09:18:47
 time_added: 2019-05-07 06:18:47
-category: 
+categories: []
 tags: []
 image: https://www.ft.com/__assets/creatives/brand-ft/icons/v3/open-graph.png
 ---

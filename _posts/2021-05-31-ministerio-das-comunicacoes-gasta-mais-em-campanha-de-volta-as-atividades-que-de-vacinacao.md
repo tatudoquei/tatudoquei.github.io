@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-31 21:55:26
 pub_date: 2021-05-31 21:55:26
 time_added: 2021-06-20 09:53:31
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/05/facebook-ministerio-das-comunicacoes-gasta-6-vezes-em-campanha-de-volta-a-atividades-que-de-vacina.png
 ---

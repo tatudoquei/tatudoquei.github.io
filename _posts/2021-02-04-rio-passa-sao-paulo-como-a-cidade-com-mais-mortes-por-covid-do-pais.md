@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-04 22:25:12
 pub_date: 2021-02-04 22:25:12
 time_added: 2021-02-06 12:12:45
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/GazewQGuguRh-mI--N_BCATOOVs=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/l/c/8FmrGhSm2dbh3tYTqoIw/2020-05-09t000000z-407321053-rc2rkg9esxzz-rtrmadp-3-health-coronavirus-brazil.jpg
 ---

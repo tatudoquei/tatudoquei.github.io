@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-26 12:52:00
 pub_date: 2020-03-26 12:52:00
 time_added: 2020-03-27 08:23:53
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e7/2020/03/17/plenario-da-camara-esvaziado-apos-restricao-de-circulacao-de-pessoas-pelo-congresso-1584482896921_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-19 01:39:01
 pub_date: 2021-06-19 01:39:01
 time_added: 2021-06-20 12:40:37
-category: 
+categories: []
 tags: []
 image: https://cdn.revistaforum.com.br/wp-content/uploads/2021/06/lelismoro.png
 ---

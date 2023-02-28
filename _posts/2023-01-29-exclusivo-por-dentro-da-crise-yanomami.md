@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-29 01:30:04
 pub_date: 2023-01-29 01:30:04
 time_added: 2023-02-04 11:10:36
-category: 
+categories: []
 tags: []
 image: https://cdn.oantagonista.com/uploads/2023/01/ReportagemYanomami-1024x576.jpg
 ---

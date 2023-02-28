@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-06 07:49:00
 pub_date: 2020-05-06 07:49:00
 time_added: 2020-05-07 18:12:46
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/25/2020/05/06/medica-infectologista-ho-yeh-li-e-homenageada-pela-serie-donas-da-rua-da-mauricio-de-sousa-producoes-1588769102843_v2_615x300.jpg
 ---

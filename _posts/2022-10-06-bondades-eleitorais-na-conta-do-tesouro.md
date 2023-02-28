@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-06 06:00:00
 pub_date: 2022-10-06 06:00:00
 time_added: 2022-10-10 06:56:09
-category: 
+categories: []
 tags: []
 image: https://statics.estadao.com.br/s2016/portal/logos/estadao-logo-200x200.png
 ---

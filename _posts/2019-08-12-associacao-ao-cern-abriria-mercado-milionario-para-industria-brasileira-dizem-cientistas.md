@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-12 16:26:17
 pub_date: 2019-08-12 16:26:17
 time_added: 2019-08-14 22:48:29
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/08/cern-genebra-imagem.jpg
 ---

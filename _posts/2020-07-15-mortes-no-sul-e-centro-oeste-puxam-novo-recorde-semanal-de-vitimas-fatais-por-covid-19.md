@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-15 18:41:00
 pub_date: 2020-07-15 18:41:00
 time_added: 2020-07-16 19:26:07
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24534515-694-97b/FT1086A/652/88816263_BrasilBrasiliaPA13-07-2020COVID-19Presidente-Jair-Bolsonaro-em-isolament.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-14 07:00:00
 pub_date: 2021-06-14 07:00:00
 time_added: 2021-06-19 20:10:03
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ca/2021/06/07/tortura-loucura---imagem-3-1623083770414_v2_750x421.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-25 10:53:25
 pub_date: 2020-05-25 10:53:25
 time_added: 2020-05-25 19:34:42
-category: 
+categories: []
 tags: []
 image: https://d.newsweek.com/en/full/1593473/bolsonaro.jpg
 ---

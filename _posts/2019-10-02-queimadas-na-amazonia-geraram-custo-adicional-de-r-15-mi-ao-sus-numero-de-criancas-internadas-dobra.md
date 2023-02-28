@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-02 17:55:13
 pub_date: 2019-10-02 17:55:13
 time_added: 2019-10-03 07:43:41
-category: 
+categories: []
 tags: []
 image: https://assets.folhavitoria.com.br/images/49ad7ec0-a71c-0137-150f-6231c35b6685--minified.jpg
 ---

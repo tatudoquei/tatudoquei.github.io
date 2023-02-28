@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-06 18:45:24
 pub_date: 2020-06-06 18:45:24
 time_added: 2020-06-06 22:50:15
-category: 
+categories: []
 tags: []
 image: http://blogs.correiobraziliense.com.br/vicente/wp-content/uploads/sites/16/2020/04/BolsonaroVirus.jpg
 ---

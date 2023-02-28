@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-17 09:42:00
 pub_date: 2019-12-17 09:42:00
 time_added: 2022-09-11 10:46:02
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/3f/2019/03/29/oito-dos-22-ministros-de-bolsonaro-sao-militares-a-maior-participacao-das-forcas-armadas-em-um-governo-desde-a-redemocratizacao-1553896440423_v2_615x300.jpg
 ---

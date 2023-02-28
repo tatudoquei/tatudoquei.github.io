@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-30 03:13:39
 pub_date: 2019-09-30 03:13:39
 time_added: 2019-10-03 07:37:27
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2018/10/manuela.jpg
 ---

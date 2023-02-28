@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-07 21:34:56
 pub_date: 2022-10-07 21:34:56
 time_added: 2022-10-07 21:54:21
-category: 
+categories: []
 tags: []
 image: https://oeco.org.br/wp-content/uploads/2022/10/Joenia-e-Celia_Jornalistas-Livres-scaled-1.jpg
 ---

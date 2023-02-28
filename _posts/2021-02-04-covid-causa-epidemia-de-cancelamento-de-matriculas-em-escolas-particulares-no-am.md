@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-04 06:15:04
 pub_date: 2021-02-04 06:15:04
 time_added: 2021-02-04 07:15:04
-category: 
+categories: []
 tags: []
 image: https://www.acritica.com/uploads/news/image/782989/share_big_sala-de-aula-vazia-1590717233904_v2_1920x1280_876B2462-7C9F-4C75-855A-3DFC66B0F0E5.jpg
 ---

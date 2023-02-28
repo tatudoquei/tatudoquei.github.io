@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-03 08:35:00
 pub_date: 2018-12-03 08:35:00
 time_added: 2019-12-23 21:15:16
-category: recuadas
+categories: [recuadas]
 tags: []
 ---
 

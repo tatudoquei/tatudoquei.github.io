@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-05 19:02:42
 pub_date: 2021-05-05 19:02:42
 time_added: 2021-05-24 08:02:26
-category: 
+categories: []
 tags: [meio ambiente]
 image: https://www.oeco.org.br/wp-content/uploads/2021/05/Oeco_Toras_Foto-Policia-Federal-Divulgacao.jpeg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-01 16:19:00
 pub_date: 2019-08-01 16:19:00
 time_added: 2019-08-03 18:52:10
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/a6/2015/08/28/claudio-guerra-ex-delegado-da-policia-civil-que-assassinou-e-incinerou-militantes-em-cena-de-uma-familia-ilustre-1440781430820_v2_615x300.jpg
 ---

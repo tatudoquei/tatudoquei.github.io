@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-10 18:02:37
 pub_date: 2020-01-10 18:02:37
 time_added: 2020-01-11 10:44:59
-category: avisamos
+categories: [avisamos]
 tags: [meio ambiente]
 image: https://s3.reutersmedia.net/resources/r/?m=02&d=20200110&t=2&i=1474746046&w=1200&r=LYNXMPEG091CJ-OBRDN
 ---

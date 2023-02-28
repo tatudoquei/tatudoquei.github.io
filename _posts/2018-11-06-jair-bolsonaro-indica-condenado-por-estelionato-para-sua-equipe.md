@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-11-06 01:02:06
 pub_date: 2018-11-06 01:02:06
 time_added: 2019-12-23 21:19:30
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2018/11/bolsonaro-julian-lemos.jpeg
 ---

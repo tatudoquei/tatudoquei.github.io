@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-08 12:01:00
 pub_date: 2023-02-08 12:01:00
 time_added: 2023-02-26 18:53:47
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2023/02/amazonia-bolsonaro-mma-redes.jpg
 ---

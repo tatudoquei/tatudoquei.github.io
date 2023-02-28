@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-09 20:45:00
 pub_date: 2020-06-09 20:45:00
 time_added: 2020-06-09 23:05:21
-category: 
+categories: []
 tags: []
 image: https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/06/brazil-politics-.jpg?itok=tg3i0AkM
 ---

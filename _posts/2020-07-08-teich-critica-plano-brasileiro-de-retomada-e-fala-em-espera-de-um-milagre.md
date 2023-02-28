@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-08 06:53:00
 pub_date: 2020-07-08 06:53:00
 time_added: 2020-07-10 04:02:49
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/8a/2020/05/04/nelson-teich-ministro-do-saude-1588647378835_v2_750x421.jpg
 ---

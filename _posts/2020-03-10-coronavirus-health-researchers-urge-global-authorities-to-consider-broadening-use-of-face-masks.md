@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-10 14:24:19
 pub_date: 2020-03-10 14:24:19
 time_added: 2020-03-16 02:38:40
-category: 
+categories: []
 tags: []
 image: https://cdn.i-scmp.com/sites/default/files/styles/og_image_inkstone_generic/public/d8/images/2020/03/10/10032020_cover-01.png?itok=3l6OtbVz&v=1583829691
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-27 14:29:14
 pub_date: 2020-02-27 14:29:14
 time_added: 2020-03-07 18:29:00
-category: 
+categories: []
 tags: []
 image: http://www.anpg.org.br/wp-content/uploads/2020/02/bann.png
 ---

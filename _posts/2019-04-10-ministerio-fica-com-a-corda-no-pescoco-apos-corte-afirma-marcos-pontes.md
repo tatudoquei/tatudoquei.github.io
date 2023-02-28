@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-10 12:21:30
 pub_date: 2019-04-10 12:21:30
 time_added: 2019-04-12 03:56:58
-category: 
+categories: []
 tags: []
 image: https://img.ibxk.com.br/2019/04/10/10142047027021.jpg?w=600
 ---

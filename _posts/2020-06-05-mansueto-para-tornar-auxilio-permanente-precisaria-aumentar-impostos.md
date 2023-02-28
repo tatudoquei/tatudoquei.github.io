@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-05 17:20:00
 pub_date: 2020-06-05 17:20:00
 time_added: 2020-06-16 04:25:54
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/61/2020/03/05/o-secretario-do-tesouro-nacional-mansueto-almeida-1583448691930_v2_615x300.jpg
 ---

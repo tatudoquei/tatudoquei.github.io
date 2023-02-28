@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-09 20:56:30
 pub_date: 2023-01-09 20:56:30
 time_added: 2023-01-10 23:57:26
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2023/01/Capa_Facebook_Maioria-dos-onibus-que-transportaram-terroristas-sao-de-Parana-e-Sao-Paulo.png
 ---

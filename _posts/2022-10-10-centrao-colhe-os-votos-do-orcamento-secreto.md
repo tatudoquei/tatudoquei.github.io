@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-10 04:58:41
 pub_date: 2022-10-10 04:58:41
 time_added: 2022-10-10 06:58:41
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2022/10/57D71BAE-42AF-4462-8E21-85D906FBFE02.png
 ---

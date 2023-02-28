@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-04 20:16:33
 pub_date: 2019-07-04 20:16:33
 time_added: 2019-07-07 19:01:48
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2017/08/professores-ufjf.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-15 02:01:00
 pub_date: 2020-06-15 02:01:00
 time_added: 2020-06-15 22:33:47
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/06/escola-com-partido-redes.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-19 21:41:00
 pub_date: 2021-01-19 21:41:00
 time_added: 2021-01-22 21:48:41
-category: 
+categories: []
 tags: [saúde]
 image: https://f.i.uol.com.br/fotografia/2021/01/18/1610975403600588abd2745_1610975403_3x2_rt.jpg
 ---

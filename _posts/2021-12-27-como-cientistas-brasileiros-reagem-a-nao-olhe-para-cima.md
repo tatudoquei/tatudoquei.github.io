@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-27 22:42:38
 pub_date: 2021-12-27 22:42:38
 time_added: 2021-12-28 08:08:26
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/dont-look-up-leonardo-dicaprio-jennifer-lawrence.jpeg/alternates/LANDSCAPE_768/dont-look-up-leonardo-dicaprio-jennifer-lawrence.jpeg
 ---

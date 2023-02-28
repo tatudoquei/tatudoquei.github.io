@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-20 16:45:54
 pub_date: 2020-04-20 16:45:54
 time_added: 2020-04-23 06:45:55
-category: 
+categories: []
 tags: []
 image: http://www.fundacaoastrojildo.com.br/2015/wp-content/uploads/2020/04/PAULIMANIFSSS01.jpg
 ---

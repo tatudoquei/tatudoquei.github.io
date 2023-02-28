@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-10 09:08:35
 pub_date: 2020-06-10 09:08:35
 time_added: 2020-06-12 19:18:52
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/06/09/us/coronavirus-history-promo-1591757376313/coronavirus-history-promo-1591757376313-facebookJumbo-v3.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-07 20:47:47
 pub_date: 2021-04-07 20:47:47
 time_added: 2021-05-29 21:34:04
-category: 
+categories: []
 tags: []
 image: https://coalizaonegrapordireitos.org.br/wp-content/uploads/2021/04/IMG_1498-1024x683.jpg
 ---

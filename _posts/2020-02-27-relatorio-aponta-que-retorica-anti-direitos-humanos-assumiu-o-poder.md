@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-27 02:11:00
 pub_date: 2020-02-27 02:11:00
 time_added: 2020-02-27 10:50:12
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/b8/2019/09/24/anistia-internacional-teme-mais-mortes-como-de-agatha-felix-caso-excludente-de-ilicitude-seja-aprovado-1569357122516_v2_615x300.jpg
 ---

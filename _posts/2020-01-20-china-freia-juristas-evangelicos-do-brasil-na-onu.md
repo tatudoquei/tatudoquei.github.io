@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-20 15:50:00
 pub_date: 2020-01-20 15:50:00
 time_added: 2020-01-20 22:53:58
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/90/2019/12/18/assunto-voltou-a-ser-debatido-entre-paises-na-onu-no-segundo-semestre-de-2019-1576700664271_v2_615x300.jpg
 ---

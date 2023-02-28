@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-27 15:24:00
 pub_date: 2019-02-27 15:24:00
 time_added: 2019-02-27 22:56:44
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://s2.glbimg.com/T-8622pGEoZP8l84BWHEt_1EJF8=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/02/27/72263543_ri_rio_de_janeiro_rj_16-10-2017_-_2018_brasil_do_amanha_ilona_szabo_instituto_igarape_local.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-07 13:10:53
 pub_date: 2021-10-07 13:10:53
 time_added: 2021-10-07 21:29:20
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/10/Atol_das_rocas.jpg
 ---

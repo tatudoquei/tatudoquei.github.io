@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-21 20:00:48
 pub_date: 2019-09-21 20:00:48
 time_added: 2019-09-24 19:10:21
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2019/09/22/opinion/22londono-01/22londono-01-facebookJumbo.jpg
 ---

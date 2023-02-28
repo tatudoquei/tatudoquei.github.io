@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-27 14:57:00
 pub_date: 2019-03-27 14:57:00
 time_added: 2019-03-27 22:16:35
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23554863-40e-344/FT1086A/652/Paulo_Guedes.jpg
 ---

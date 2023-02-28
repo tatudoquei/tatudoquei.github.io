@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-01 01:49:20
 pub_date: 2020-05-01 01:49:20
 time_added: 2020-05-01 13:58:15
-category: 
+categories: []
 tags: []
 image: https://www.infomoney.com.br/wp-content/uploads/2019/06/arminio-fraga.jpg?fit=900%2C1200&quality=75&strip=all
 ---

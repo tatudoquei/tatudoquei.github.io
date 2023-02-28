@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-27 16:20:14
 pub_date: 2020-05-27 16:20:14
 time_added: 2020-05-27 19:25:58
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/07/alexandre-moraes-2019-2857.jpg_1.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

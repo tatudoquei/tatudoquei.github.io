@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-22 22:40:00
 pub_date: 2021-07-22 22:40:00
 time_added: 2021-07-25 17:03:51
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a0/2021/07/22/paineis-fotograficos-da-exposicao-democracia-em-disputa-na-fachada-do-centro-cultural-bernardo-mascarenhas-em-juiz-de-fora-mg-1626992188691_v2_615x300.jpg
 ---

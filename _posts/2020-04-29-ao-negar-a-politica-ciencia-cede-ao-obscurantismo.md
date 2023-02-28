@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-29 22:14:17
 pub_date: 2020-04-29 22:14:17
 time_added: 2020-04-30 19:06:23
-category: 
+categories: []
 tags: []
 image: https://outraspalavras.net/wp-content/uploads/2020/04/sds03.jpg
 ---

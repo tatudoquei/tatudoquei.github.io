@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-28 18:20:13
 pub_date: 2021-07-28 18:20:13
 time_added: 2021-08-20 20:54:05
-category: 
+categories: []
 tags: []
 image: https://img.r7.com/images/pr-38-reuniao-do-conselho-de-governo-1500-27102020133650578?dimensions=771x420&
 ---

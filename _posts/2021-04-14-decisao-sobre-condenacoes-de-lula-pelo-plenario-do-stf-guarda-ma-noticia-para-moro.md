@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-14 17:14:00
 pub_date: 2021-04-14 17:14:00
 time_added: 2021-05-16 20:20:19
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/RYJR3B4pueVMpFn5ec0yFMBf0XY=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2020/12/02/86419345_bsb_-_brasilia_-_brasil_-_0801-2020_-_o_ministro_da_educacao_abraham_weintraub_o_ministro_d.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-28 16:47:00
 pub_date: 2020-03-28 16:47:00
 time_added: 2020-03-29 08:38:24
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/KlsuYk9WMKHI-auOZl9gC8sWGLc=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2020/03/28/64390091_soc_rio_de_janeiro_18-01-2017_caderno_especial_sobre_o_aedes_aegypti_local_fiocruz._foto_pa.jpg
 ---

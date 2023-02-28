@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-20 16:52:00
 pub_date: 2023-01-20 16:52:00
 time_added: 2023-01-21 10:19:43
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/02/2023/01/20/ricardo-galvao-presidente-do-cnpq-1674232676464_v2_615x300.jpg
 ---

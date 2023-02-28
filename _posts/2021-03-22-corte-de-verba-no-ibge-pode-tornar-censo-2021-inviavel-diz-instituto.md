@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-22 23:55:41
 pub_date: 2021-03-22 23:55:41
 time_added: 2021-03-27 18:50:33
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/02/censo-demografico-ibge-1170x630.jpeg
 ---

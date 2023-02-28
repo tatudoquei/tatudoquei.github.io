@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-21 03:00:00
 pub_date: 2020-03-21 03:00:00
 time_added: 2020-03-22 10:56:44
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/7d/2017/10/18/aviao-hercules-c-130-da-forca-aerea-pousa-em-base-aerea-1508336411306_615x300.jpg
 ---

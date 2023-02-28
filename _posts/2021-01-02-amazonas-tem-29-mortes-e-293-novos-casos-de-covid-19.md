@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-02 22:37:12
 pub_date: 2021-01-02 22:37:12
 time_added: 2021-01-05 13:59:30
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/wpCwiH79yz75ugQ4IU59StCb5Bg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/B/C/69p2MOSYaJeM61tUPYUg/taruma.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-17 09:19:06
 pub_date: 2019-05-17 09:19:06
 time_added: 2019-05-21 19:35:09
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2019/05/2019-05-15t194018z_1808681433_rc18016aae00_rtrmadp_3_brazil-politics-education-sao-paulo.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-23 15:44:00
 pub_date: 2020-03-23 15:44:00
 time_added: 2020-03-27 12:50:53
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/34/2020/03/23/chanceler-alema-angela-merkel-1584993251607_v2_615x300.jpg
 ---

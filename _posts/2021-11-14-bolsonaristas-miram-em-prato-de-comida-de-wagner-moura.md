@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-14 03:00:00
 pub_date: 2021-11-14 03:00:00
 time_added: 2021-11-14 08:29:09
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Wagner-Moura.jfif/alternates/LANDSCAPE_768/Wagner%20Moura.jfif
 ---

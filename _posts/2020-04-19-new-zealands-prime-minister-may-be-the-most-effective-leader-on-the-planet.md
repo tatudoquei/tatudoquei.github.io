@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-19 12:00:00
 pub_date: 2020-04-19 12:00:00
 time_added: 2020-04-22 13:20:12
-category: 
+categories: []
 tags: []
 image: https://cdn.theatlantic.com/thumbor/JKZEYLm_ltHHzfM9ruJN2evecXY=/343x598:5406x3235/960x500/media/img/mt/2020/04/Ardern_SS610794/original.jpg
 ---

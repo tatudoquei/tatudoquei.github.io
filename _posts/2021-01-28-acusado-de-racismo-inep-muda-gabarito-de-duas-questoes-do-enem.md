@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-28 20:27:54
 pub_date: 2021-01-28 20:27:54
 time_added: 2021-01-30 19:45:41
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/01/enem-868x644-1-2-1-868x630.jpg
 ---

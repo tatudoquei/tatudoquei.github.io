@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-11 07:00:00
 pub_date: 2019-05-11 07:00:00
 time_added: 2019-05-12 10:40:23
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/7a/2019/04/10/o-presidente-jair-bolsonaro-durante-a-solenidade-de-sancao-da-lei-de-cadastro-positivo-no-palacio-do-planalto-em-brasilia-df-1554926663290_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-28 15:56:03
 pub_date: 2021-10-28 15:56:03
 time_added: 2021-10-30 17:33:25
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2016/03/03183302/CPMI_-_Petrobras_-_2014_-_CPMIPETRO_15481586455.jpg
 ---

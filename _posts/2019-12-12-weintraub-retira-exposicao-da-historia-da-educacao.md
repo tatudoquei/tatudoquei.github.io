@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-12 21:39:18
 pub_date: 2019-12-12 21:39:18
 time_added: 2019-12-14 17:05:24
-category: 
+categories: []
 tags: []
 image: https://blogdacidadania.com.br/wp-content/uploads/2019/12/Bozo-13-9.png
 ---

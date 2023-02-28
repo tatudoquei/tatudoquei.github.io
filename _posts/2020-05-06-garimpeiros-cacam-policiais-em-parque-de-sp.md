@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-06 11:50:00
 pub_date: 2020-05-06 11:50:00
 time_added: 2020-05-12 19:24:03
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2020/05/garimpo_redes_06052020.jpg
 ---

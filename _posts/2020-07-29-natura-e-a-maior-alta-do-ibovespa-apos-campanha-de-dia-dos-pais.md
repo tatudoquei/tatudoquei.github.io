@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-29 22:05:22
 pub_date: 2020-07-29 22:05:22
 time_added: 2020-07-30 22:45:31
-category: 
+categories: []
 tags: []
 image: https://exame.com/wp-content/uploads/2020/07/thammy-natura-pai-1.jpg?quality=70&strip=info
 ---

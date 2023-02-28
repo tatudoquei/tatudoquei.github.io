@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-29 20:01:43
 pub_date: 2020-09-29 20:01:43
 time_added: 2020-09-29 22:01:43
-category: 
+categories: []
 tags: []
 image: https://blogdodatena.band.uol.com.br/wp-content/uploads/2020/09/ricardo-salles-conama.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-05 19:26:18
 pub_date: 2019-12-05 19:26:18
 time_added: 2019-12-08 12:29:05
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2019/12/soja-Foto-Marilze-Venturelli-Bernard-Flickr.jpg
 ---

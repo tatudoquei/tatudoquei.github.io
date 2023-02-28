@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-16 22:13:51
 pub_date: 2020-04-16 22:13:51
 time_added: 2020-04-16 19:22:41
-category: 
+categories: []
 tags: []
 image: https://extra.globo.com/incoming/24375672-128-74d/w976h550-PROP/major-zuma.jpg
 ---

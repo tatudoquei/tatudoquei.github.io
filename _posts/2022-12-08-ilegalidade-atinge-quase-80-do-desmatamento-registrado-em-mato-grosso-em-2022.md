@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-08 20:03:37
 pub_date: 2022-12-08 20:03:37
 time_added: 2023-01-06 23:08:00
-category: 
+categories: []
 tags: []
 image: https://oeco.org.br/wp-content/uploads/2022/12/Alta-Floresta.jpg
 ---

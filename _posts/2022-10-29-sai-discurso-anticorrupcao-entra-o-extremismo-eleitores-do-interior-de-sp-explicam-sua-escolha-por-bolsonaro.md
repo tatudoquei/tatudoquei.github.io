@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-29 12:28:00
 pub_date: 2022-10-29 12:28:00
 time_added: 2022-10-29 22:09:31
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2022/10/bolsonaro-eleitores-ribeirao-preto-franca-sao-paulo-redes1.jpg
 ---

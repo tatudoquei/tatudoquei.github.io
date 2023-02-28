@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-01 23:37:21
 pub_date: 2023-01-01 23:37:21
 time_added: 2023-01-06 23:25:13
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/ministros-lula-1/alternates/LANDSCAPE_768/ministros%20lula%201%20
 ---

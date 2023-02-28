@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-18 06:15:00
 pub_date: 2019-04-18 06:15:00
 time_added: 2019-04-18 20:45:49
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/da/2019/04/07/7abr2019---dois-homens-dentro-de-um-carro-foram-baleados-por-policiais-na-favela-do-muquico-em-guadalupe-na-zona-oeste-do-rio-de-janeiro-rj-um-deles-morreu-no-local-e-outro-foi-socorrido-1554678408447_v2_750x421.jpg
 ---

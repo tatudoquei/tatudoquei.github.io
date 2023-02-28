@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-11 23:50:46
 pub_date: 2023-01-11 23:50:46
 time_added: 2023-01-14 09:07:18
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2023/01/Capa_Facebook_Imagens-do-ataque-golpista-foram-preservadas-e-entregues-a-Policia-Federal-diz-ministro-do-GSI.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-24 23:37:38
 pub_date: 2020-04-24 23:37:38
 time_added: 2020-04-25 13:20:45
-category: refletimos
+categories: [refletimos]
 tags: [saúde]
 image: https://img.estadao.com.br/resources/jpg/4/6/1587157995864.jpg
 ---

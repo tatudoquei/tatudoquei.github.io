@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-02 21:35:14
 pub_date: 2015-12-10 20:15:00
 time_added: 2019-04-02 21:35:14
-category: 
+categories: []
 tags: []
 image: https://abrilsuperinteressante.files.wordpress.com/2015/12/ignorante-fb.png
 ---

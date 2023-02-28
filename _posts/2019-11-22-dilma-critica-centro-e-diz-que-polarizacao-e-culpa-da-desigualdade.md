@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-22 16:19:00
 pub_date: 2019-11-22 16:19:00
 time_added: 2019-11-23 10:25:40
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/tab/ba/2019/09/18/dilma-rousseff-no-documentario-torre-das-donzelas-de-suzanna-lira-1568836495533_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-20 08:32:59
 pub_date: 2021-03-20 08:32:59
 time_added: 2021-03-20 23:14:10
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2021/03/hospital-pedro-guerreiro-agencia-para-1200x630.jpg
 ---

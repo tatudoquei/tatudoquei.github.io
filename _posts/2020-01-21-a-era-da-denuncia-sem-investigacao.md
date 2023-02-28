@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-21 23:00:00
 pub_date: 2020-01-21 23:00:00
 time_added: 2020-01-22 16:04:18
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/qef-APRboFckKVOcW-VAa_2ySJA=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/07/09/glenn-greenwald2.jpg
 ---

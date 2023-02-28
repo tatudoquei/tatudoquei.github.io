@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-15 04:03:00
 pub_date: 2019-11-15 04:03:00
 time_added: 2019-11-16 09:17:30
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/11/alcantara-redes-1573765260.jpg
 ---

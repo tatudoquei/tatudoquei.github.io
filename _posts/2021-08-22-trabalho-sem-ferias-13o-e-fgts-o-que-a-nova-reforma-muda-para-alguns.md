@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-22 07:00:00
 pub_date: 2021-08-22 07:00:00
 time_added: 2021-09-06 08:17:14
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/ee/2016/01/21/midia-indoor-wap-celular-tv-emprego-desemprego-carteira-de-trabalho-salario-trabalhador-assinada-formal-registro-previdencia-aposentadoria-operario-economia-indice-1453385742477_750x421.jpg
 ---

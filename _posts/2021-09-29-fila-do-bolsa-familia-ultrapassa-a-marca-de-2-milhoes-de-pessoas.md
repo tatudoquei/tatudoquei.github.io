@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-29 16:04:39
 pub_date: 2021-09-29 16:04:39
 time_added: 2021-10-17 14:34:02
-category: 
+categories: []
 tags: []
 image: https://almapreta.com/images/2021/09/bolsa_familia_-_pagamento.jpg
 ---

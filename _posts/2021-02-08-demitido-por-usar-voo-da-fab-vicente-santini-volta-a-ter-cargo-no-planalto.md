@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-08 13:02:00
 pub_date: 2021-02-08 13:02:00
 time_added: 2021-07-25 16:48:04
-category: 
+categories: []
 tags: []
 image: https://istoe.com.br/wp-content/uploads/sites/14/2020/01/vicente-santini.jpg
 ---

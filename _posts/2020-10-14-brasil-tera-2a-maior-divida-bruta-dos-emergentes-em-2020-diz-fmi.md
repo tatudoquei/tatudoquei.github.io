@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-14 12:11:29
 pub_date: 2020-10-14 12:11:29
 time_added: 2020-10-14 21:01:54
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/f5o-kju1Gof7RLmkv-XyP2t8fks=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2020/r/d/e2BCKcSZeoySuSPhdgRA/savings-2789153-1920.jpg
 ---

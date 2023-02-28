@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-20 10:27:29
 pub_date: 2019-02-20 10:27:29
 time_added: 2019-02-21 10:06:28
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2019/02/lUISmACEDO-1140x630.jpg
 ---

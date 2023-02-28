@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-08 21:00:03
 pub_date: 2021-03-08 21:00:03
 time_added: 2021-07-04 13:06:09
-category: 
+categories: []
 tags: []
 image: https://cdn.theatlantic.com/thumbor/aTUTB8boO76vVD6nDCGXSuPD9aA=/0x43:2000x1085/960x500/media/img/2021/02/WEL_Applebaum_Opener/original.jpg
 ---

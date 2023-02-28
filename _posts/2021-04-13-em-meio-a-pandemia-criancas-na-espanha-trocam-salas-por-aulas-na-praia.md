@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-13 15:34:00
 pub_date: 2021-04-13 15:34:00
 time_added: 2021-05-16 20:19:51
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b4/2021/04/13/em-meio-a-pandemia-do-novo-coronavirus-criancas-tem-aulas-na-praia-na-espanha-1618344263701_v2_615x300.jpg
 ---

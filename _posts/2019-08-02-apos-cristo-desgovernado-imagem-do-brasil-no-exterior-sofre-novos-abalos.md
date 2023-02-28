@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-02 03:00:00
 pub_date: 2019-08-02 03:00:00
 time_added: 2019-08-03 18:53:45
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/11BC7/production/_108174627_untitledcollage-1.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-22 00:03:32
 pub_date: 2019-05-22 00:03:32
 time_added: 2019-06-27 06:43:17
-category: 
+categories: []
 tags: []
 image: https://pedlowski.files.wordpress.com/2019/05/abelhas.jpg
 ---

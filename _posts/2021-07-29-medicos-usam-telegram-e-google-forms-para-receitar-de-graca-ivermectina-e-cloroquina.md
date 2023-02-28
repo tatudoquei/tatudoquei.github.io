@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-29 09:01:00
 pub_date: 2021-07-29 09:01:00
 time_added: 2021-08-20 20:58:50
-category: 
+categories: []
 tags: []
 image: https://nucleo.jor.br/img/telegram/receitas_Teaser.png
 ---

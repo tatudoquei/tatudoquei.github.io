@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-06 15:58:27
 pub_date: 2021-06-06 15:58:27
 time_added: 2021-07-03 03:19:33
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/06/queimada.jpg
 ---

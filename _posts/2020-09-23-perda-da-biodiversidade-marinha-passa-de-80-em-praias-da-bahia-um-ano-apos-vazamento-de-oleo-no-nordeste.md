@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-23 22:14:50
 pub_date: 2020-09-23 22:14:50
 time_added: 2020-09-24 22:21:49
-category: 
+categories: []
 tags: []
 image: https://envolverde.com.br/wp-content/uploads/oleo-contamina-costa-corais-alagoas-4-conexao-planeta-768x432-1.jpg
 ---

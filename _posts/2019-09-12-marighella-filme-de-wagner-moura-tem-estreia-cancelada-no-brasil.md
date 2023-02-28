@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-12 23:11:59
 pub_date: 2019-09-12 23:11:59
 time_added: 2019-09-15 09:58:05
-category: 
+categories: []
 tags: []
 image: https://assets.papelpop.com/wp-content/uploads/2019/09/wag.jpg
 ---

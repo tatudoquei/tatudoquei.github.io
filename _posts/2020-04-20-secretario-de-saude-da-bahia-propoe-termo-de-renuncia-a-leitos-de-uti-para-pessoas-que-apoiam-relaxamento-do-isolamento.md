@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-20 06:34:00
 pub_date: 2020-04-20 06:34:00
 time_added: 2020-04-21 12:19:18
-category: 
+categories: []
 tags: []
 image: https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2020/04/20/615x300/1_thumbnail-8068823.jpg
 ---

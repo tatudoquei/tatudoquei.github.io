@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-01 23:35:00
 pub_date: 2020-06-01 23:35:00
 time_added: 2020-06-02 13:50:25
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24433450-9c3-d05/FT1086A/652/Celso-de-Mello.jpg
 ---

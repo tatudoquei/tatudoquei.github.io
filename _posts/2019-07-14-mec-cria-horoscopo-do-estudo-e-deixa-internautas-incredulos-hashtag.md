@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-14 22:06:00
 pub_date: 2019-07-14 22:06:00
 time_added: 2019-07-15 22:13:34
-category: 
+categories: []
 tags: []
 image: https://hashtag.blogfolha.uol.com.br/files/2019/07/mec-escorpiao.jpg
 ---

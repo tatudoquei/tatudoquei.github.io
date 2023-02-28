@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-17 03:00:00
 pub_date: 2020-01-17 03:00:00
 time_added: 2020-01-18 22:39:30
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/73/2019/10/02/1out2019---o-procurador-geral-da-republica-augusto-aras-durante-entrevista-em-seu-gabinete-na-pgr-em-brasilia-nesta-terca-feira-1-de-outubro-de-2019-1570027181180_v2_615x300.jpg
 ---

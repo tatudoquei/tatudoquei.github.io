@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-13 12:16:00
 pub_date: 2020-01-13 12:16:00
 time_added: 2020-01-14 16:55:18
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ef/2019/05/09/deputado-jesse-lopes-psl-1557432208281_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-16 20:58:00
 pub_date: 2019-05-16 20:58:00
 time_added: 2019-05-17 06:40:20
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/05/bolsonarodallas-615x300.jpg
 ---

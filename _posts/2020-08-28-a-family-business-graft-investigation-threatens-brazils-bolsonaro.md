@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-28 17:27:48
 pub_date: 2020-08-28 17:27:48
 time_added: 2020-08-30 03:21:34
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/08/26/world/00brazil-bolsonaro/00brazil-bolsonaro-facebookJumbo.jpg
 ---

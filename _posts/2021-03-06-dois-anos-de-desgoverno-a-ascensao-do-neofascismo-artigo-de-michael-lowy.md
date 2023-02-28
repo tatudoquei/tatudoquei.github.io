@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-06 21:44:24
 pub_date: 2021-03-06 21:44:24
 time_added: 2021-03-06 18:44:24
-category: 
+categories: []
 tags: []
 image: http://www.ihu.unisinos.br/images/midias_sociais/compartilhamento/default.png
 ---

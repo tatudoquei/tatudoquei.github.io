@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-14 16:50:00
 pub_date: 2019-06-14 16:50:00
 time_added: 2019-06-15 08:51:21
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/04/folha-615x300.jpg
 ---

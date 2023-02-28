@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-27 05:00:57
 pub_date: 2022-12-27 05:00:57
 time_added: 2022-12-27 16:08:08
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2022/12/09172653/WhatsApp-Image-2022-12-09-at-17.18.57-1.jpeg
 ---

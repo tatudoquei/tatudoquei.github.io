@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-19 11:00:00
 pub_date: 2021-06-19 11:00:00
 time_added: 2021-06-19 20:17:28
-category: 
+categories: []
 tags: []
 image: https://ebvadmin.com.br/public/images/noti-1624053482.webp
 ---

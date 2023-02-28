@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-07 12:07:00
 pub_date: 2021-03-07 12:07:00
 time_added: 2021-03-21 09:06:54
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/b0/2021/03/07/kleber-lopes-andreia-de-nobrega-gloria-coelho-e-carlos-alberto-de-nobrega-1615134384004_v2_615x300.png
 ---

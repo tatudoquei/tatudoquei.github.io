@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-21 20:20:33
 pub_date: 2022-09-21 20:20:33
 time_added: 2022-09-24 10:09:28
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/2022-09-20T214754Z_1_LYNXMPEI8J15Y_RTROPTP_4_BRAZIL-FUEL-GUEDES.jpg/alternates/LANDSCAPE_768/2022-09-20T214754Z_1_LYNXMPEI8J15Y_RTROPTP_4_BRAZIL-FUEL-GUEDES.jpg
 ---

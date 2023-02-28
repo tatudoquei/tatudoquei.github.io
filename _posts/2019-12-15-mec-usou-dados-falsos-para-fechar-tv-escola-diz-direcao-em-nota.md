@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-15 12:01:09
 pub_date: 2019-12-15 12:01:09
 time_added: 2019-12-15 23:50:43
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2019/07/weintraub-guarda-chuva-1200x630.jpg
 ---

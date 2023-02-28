@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-11 23:06:03
 pub_date: 2020-08-11 23:06:03
 time_added: 2020-08-12 13:51:14
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/08/Salim-Mattar-Paulo-Uebel-1-1200x630.jpg
 ---

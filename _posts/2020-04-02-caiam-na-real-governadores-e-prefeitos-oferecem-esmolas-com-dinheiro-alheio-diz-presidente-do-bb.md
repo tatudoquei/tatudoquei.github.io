@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-02 14:48:58
 pub_date: 2020-04-02 14:48:58
 time_added: 2020-04-02 21:52:14
-category: 
+categories: []
 tags: []
 image: https://img.estadao.com.br/resources/jpg/6/2/1546881970626.jpg
 ---

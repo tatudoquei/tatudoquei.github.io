@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-08 15:17:00
 pub_date: 2020-06-08 15:17:00
 time_added: 2020-06-09 06:45:35
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/7a/2020/05/22/27abr2020---o-secretario-executivo-do-ministerio-da-saude-general-eduardo-pazuello-em-coletiva-do-ministerio-da-saude-1590148314382_615x300.png
 ---

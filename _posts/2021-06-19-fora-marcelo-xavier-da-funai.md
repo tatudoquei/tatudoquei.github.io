@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-19 23:13:20
 pub_date: 2021-06-19 23:13:20
 time_added: 2021-06-19 20:13:20
-category: 
+categories: []
 tags: []
 image: https://apiboficial.org/files/2021/06/foramarceloxavier.jpg
 ---

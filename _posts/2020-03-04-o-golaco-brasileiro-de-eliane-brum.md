@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-04 11:58:00
 pub_date: 2020-03-04 11:58:00
 time_added: 2020-03-07 00:10:16
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/_layout/v3/blog-article/esporte/jucakfouri/Blog-Jucak-kfouri.png
 ---

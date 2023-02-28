@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-19 15:56:30
 pub_date: 2020-11-19 15:56:30
 time_added: 2020-11-19 19:59:10
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2020/11/desmatamento-madeira.jpg
 ---

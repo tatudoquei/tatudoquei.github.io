@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-14 21:58:00
 pub_date: 2019-03-14 21:58:00
 time_added: 2019-03-18 22:34:03
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://diariodegoias.com.br/images/2018/10/15/bolsonaro_coletiva_foto_fernando_frazao_agencia_brasil.jpg
 ---

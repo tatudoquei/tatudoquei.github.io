@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-14 17:10:22
 pub_date: 2020-04-14 17:10:22
 time_added: 2020-04-14 19:10:22
-category: 
+categories: []
 tags: []
 image: https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2020/04/fda-hidroxicloroquina-destaque.jpg
 ---

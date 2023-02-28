@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-11 14:49:06
 pub_date: 2021-06-11 14:49:06
 time_added: 2021-06-19 20:07:25
-category: 
+categories: []
 tags: []
 image: https://i2.wp.com/jornal.usp.br/wp-content/uploads/2021/06/20210611_tupa-super-computador.jpg?fit=1200%2C630&ssl=1
 ---

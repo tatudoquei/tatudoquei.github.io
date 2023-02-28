@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-15 22:00:00
 pub_date: 2020-09-15 22:00:00
 time_added: 2020-07-29 19:42:49
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/6lSP-YoujqUB-XFG2WZ3gTAW8NQ=/512x320/smart/e.glbimg.com/og/ed/f/original/2020/07/08/05_cecilia_oliveira.jpg
 ---

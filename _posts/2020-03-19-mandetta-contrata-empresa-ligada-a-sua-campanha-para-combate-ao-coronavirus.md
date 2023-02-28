@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-19 16:13:00
 pub_date: 2020-03-19 16:13:00
 time_added: 2020-03-19 23:12:31
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c0/2020/02/28/ministro-da-saude-brasileiro-luiz-henrique-mandetta-disse-que-novo-virus-e-so-mais-uma-gripe-1582917084808_v2_615x300.jpg
 ---

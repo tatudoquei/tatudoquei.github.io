@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-04 13:11:00
 pub_date: 2020-02-04 13:11:00
 time_added: 2020-03-07 18:29:18
-category: 
+categories: []
 tags: []
 image: http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/05/21/violenciadomesticaelzafiuza.jpg
 ---

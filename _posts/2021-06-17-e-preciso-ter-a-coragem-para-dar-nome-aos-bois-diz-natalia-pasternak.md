@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-17 14:29:24
 pub_date: 2021-06-17 14:29:24
 time_added: 2021-06-19 20:15:06
-category: 
+categories: []
 tags: []
 image: https://jornal.unesp.br/wp-content/uploads/2021/06/01natalia.jpg
 ---

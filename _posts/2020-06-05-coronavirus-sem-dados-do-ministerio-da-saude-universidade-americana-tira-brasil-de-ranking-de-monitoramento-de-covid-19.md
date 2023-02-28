@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-05 22:00:00
 pub_date: 2020-06-05 22:00:00
 time_added: 2020-06-07 08:48:51
-category: 
+categories: []
 tags: []
 image: https://news.files.bbci.co.uk/ws/img/logos/og/brasil.png
 ---

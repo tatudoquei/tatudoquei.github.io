@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-12 19:14:36
 pub_date: 2020-05-12 19:14:36
 time_added: 2020-05-13 21:01:14
-category: 
+categories: []
 tags: []
 image: https://deolhonosruralistas.com.br/wp-content/uploads/2020/05/dinamamtuxa-camara.jpg
 ---

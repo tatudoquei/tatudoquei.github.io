@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-12 20:43:56
 pub_date: 2023-01-12 20:43:56
 time_added: 2023-01-21 10:20:13
-category: 
+categories: []
 tags: []
 image: https://www.cartacapital.com.br/wp-content/uploads/2023/01/repcapabelluzzo-1.jpg
 ---

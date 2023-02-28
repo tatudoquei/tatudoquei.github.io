@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-03 14:08:07
 pub_date: 2022-10-03 14:08:07
 time_added: 2022-10-03 16:08:07
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ca/2022/09/29/29set2022---jair-bolsonaro-pl-chega-aos-estudios-globo-no-rio-de-janeiro-para-o-debate-entre-candidatos-a-presidencia-da-republica-1664500150521_v2_615x300.jpg
 ---

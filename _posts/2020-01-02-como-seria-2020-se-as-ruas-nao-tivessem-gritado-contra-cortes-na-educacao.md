@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-02 03:01:00
 pub_date: 2020-01-02 03:01:00
 time_added: 2020-01-02 19:06:30
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/0b/2019/12/20/como-seria-2020-se-as-ruas-nao-tivessem-protestado-contra-cortes-na-educacao-1576874802429_v2_615x300.jpg
 ---

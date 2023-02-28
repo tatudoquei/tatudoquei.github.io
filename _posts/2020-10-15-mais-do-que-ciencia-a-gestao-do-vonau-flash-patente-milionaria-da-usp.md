@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-15 09:00:45
 pub_date: 2020-10-15 09:00:45
 time_added: 2020-10-16 19:41:09
-category: 
+categories: []
 tags: []
 image: https://exame.com/wp-content/uploads/2018/12/br-1.jpg?quality=70&strip=info
 ---

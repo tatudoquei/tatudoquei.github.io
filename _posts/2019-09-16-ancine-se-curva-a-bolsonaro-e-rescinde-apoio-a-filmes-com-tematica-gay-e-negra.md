@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-16 05:02:00
 pub_date: 2019-09-16 05:02:00
 time_added: 2019-09-17 16:05:14
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/vTiiT_xEbZSC_AkCYyUS1YOTcZ0=/400x266/top/i.glbimg.com/og/ig/infoglobo1/f/original/2017/03/13/65722221_gg_exclusiva_nanini.jpg
 ---

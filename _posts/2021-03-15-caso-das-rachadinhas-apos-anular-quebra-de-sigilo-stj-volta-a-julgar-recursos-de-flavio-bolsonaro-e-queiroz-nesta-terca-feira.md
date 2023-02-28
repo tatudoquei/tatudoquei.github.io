@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-15 23:01:00
 pub_date: 2021-03-15 23:01:00
 time_added: 2021-03-21 09:22:12
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24918680-df8-f2f/FT1086A/FLAVIO2.jpg
 ---

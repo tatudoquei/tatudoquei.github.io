@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-18 11:46:00
 pub_date: 2019-06-18 11:46:00
 time_added: 2019-06-19 19:08:03
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/6b/2018/10/29/sakamoto---share-1540825181920_956x500.png
 ---

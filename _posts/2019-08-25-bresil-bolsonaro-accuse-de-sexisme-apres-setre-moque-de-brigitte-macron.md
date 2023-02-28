@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-25 18:18:36
 pub_date: 2019-08-25 18:18:36
 time_added: 2019-08-27 06:30:16
-category: 
+categories: []
 tags: []
 image: https://arc-anglerfish-eu-central-1-prod-leparisien.s3.amazonaws.com/public/GCWWIH2CMC74SX6BX3DD6A32MA.jpg
 ---

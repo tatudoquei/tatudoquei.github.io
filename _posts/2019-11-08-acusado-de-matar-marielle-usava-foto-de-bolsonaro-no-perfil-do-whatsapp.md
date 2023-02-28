@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-08 00:59:00
 pub_date: 2019-11-08 00:59:00
 time_added: 2019-11-08 07:02:53
-category: 
+categories: []
 tags: []
 image: https://painel.blogfolha.uol.com.br/files/2019/03/bolsonaro_sindicatos.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-14 06:30:25
 pub_date: 2019-07-14 06:30:25
 time_added: 2022-12-27 16:08:16
-category: 
+categories: []
 tags: []
 image: https://www.cartacapital.com.br/wp-content/uploads/2019/07/Gelson-Luiz-de-Paula.png
 ---

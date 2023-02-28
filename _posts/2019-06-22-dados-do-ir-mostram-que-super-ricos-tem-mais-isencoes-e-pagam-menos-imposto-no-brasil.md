@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-22 11:27:59
 pub_date: 2019-06-22 11:27:59
 time_added: 2019-06-25 05:15:00
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/L89lGsYFKHCln-VFtR93dSepYNM=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/a/n/mP14skStyiGO6831Tk6A/piramide1.jpg
 ---

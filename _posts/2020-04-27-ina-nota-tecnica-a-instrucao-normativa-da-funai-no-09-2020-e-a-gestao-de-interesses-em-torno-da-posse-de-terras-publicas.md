@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-27 13:16:56
 pub_date: 2020-04-27 13:16:56
 time_added: 2020-04-28 19:27:21
-category: 
+categories: []
 tags: []
 image: http://obind.eco.br/wp-content/uploads/2017/11/cropped-logolaepi1.jpg
 ---

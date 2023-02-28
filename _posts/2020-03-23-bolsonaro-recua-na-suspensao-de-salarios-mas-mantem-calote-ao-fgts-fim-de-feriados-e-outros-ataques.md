@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-23 18:09:33
 pub_date: 2020-03-23 18:09:33
 time_added: 2020-03-23 19:09:33
-category: avisamos
+categories: [avisamos, recuadas]
 tags: []
 image: http://www.esquerdadiario.com.br/IMG/arton33948.jpg
 ---

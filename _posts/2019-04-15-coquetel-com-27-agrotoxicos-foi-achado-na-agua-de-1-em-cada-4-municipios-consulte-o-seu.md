@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-15 17:00:40
 pub_date: 2019-04-15 17:00:40
 time_added: 2019-04-21 23:17:30
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/apublica.org/wp-content/uploads/2019/04/2-fotoshutterstock.jpg?fit=800%2C450&ssl=1
 ---

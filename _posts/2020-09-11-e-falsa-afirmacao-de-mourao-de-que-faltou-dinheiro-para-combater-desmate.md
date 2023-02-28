@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-11 18:35:15
 pub_date: 2020-09-11 18:35:15
 time_added: 2020-09-11 20:35:15
-category: 
+categories: []
 tags: []
 image: https://fakebook.eco.br/wp-content/uploads/2020/09/romerio-cunha-vpr-e1599725949366.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-27 19:14:04
 pub_date: 2020-04-27 19:14:04
 time_added: 2020-04-27 22:04:55
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2016/11/alessandro-molon2.jpg?quality=70&strip=info&w=590&h=443&crop=1
 ---

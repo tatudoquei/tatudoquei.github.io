@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-05 17:59:00
 pub_date: 2019-11-05 17:59:00
 time_added: 2019-11-06 00:28:51
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f5/2019/11/05/joice-hasselmann-chora-ao-discursar-na-tribuna-da-camara-sobre-os-ataques-virtuais-que-vem-sofrendo-1572989893385_v2_615x300.jpg
 ---

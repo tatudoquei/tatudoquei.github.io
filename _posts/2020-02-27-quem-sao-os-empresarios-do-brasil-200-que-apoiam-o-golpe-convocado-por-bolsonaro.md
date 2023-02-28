@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-27 17:08:04
 pub_date: 2020-02-27 17:08:04
 time_added: 2020-02-28 03:17:39
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2019/05/brasil-200-e1558574937795.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-03 14:00:00
 pub_date: 2021-04-03 14:00:00
 time_added: 2021-05-16 17:00:43
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/87/2019/12/11/agnaldo-timoteo-participou-do-conversa-com-bial-da-tv-globo-1576058400033_v2_615x300.jpg
 ---

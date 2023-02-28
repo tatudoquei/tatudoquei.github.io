@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-29 01:31:03
 pub_date: 2020-11-29 01:31:03
 time_added: 2020-11-29 13:48:57
-category: 
+categories: []
 tags: []
 image: https://ponte.org/wp-content/uploads/2020/11/wenny-reproducao.jpg
 ---

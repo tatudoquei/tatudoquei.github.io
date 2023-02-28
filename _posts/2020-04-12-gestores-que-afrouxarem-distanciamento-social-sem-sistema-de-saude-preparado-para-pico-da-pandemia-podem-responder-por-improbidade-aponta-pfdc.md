@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-12 03:28:28
 pub_date: 2020-04-12 03:28:28
 time_added: 2020-04-12 05:28:28
-category: 
+categories: []
 tags: []
 image: http://www.mpf.mp.br/pfdc/noticias/gestores-que-afrouxarem-distanciamento-social-sem-sistema-de-saude-preparado-para-pico-da-pandemia-podem-responder-por-improbidade-aponta-pfdc/@@images/f3c1f9b5-0c2a-4e72-b233-6f060532340e.jpeg
 ---

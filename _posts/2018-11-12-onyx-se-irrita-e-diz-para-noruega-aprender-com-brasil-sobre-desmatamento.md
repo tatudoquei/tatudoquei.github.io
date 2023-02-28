@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-11-12 18:57:00
 pub_date: 2018-11-12 18:57:00
 time_added: 2018-11-13 01:54:31
-category: avisamos
+categories: [avisamos]
 tags: []
 image: http://conteudo.imguol.com.br/c/noticias/2014/04/03/3abr2014---o-deputado-onyx-lorenzoni-dem-rs-faz-parte-do-grupo-de-politicos-que-ja-recorreu-ao-implante-de-cabelo-para-dar-mais-volume-aos-fios-1396572456505_956x500.jpg
 ---

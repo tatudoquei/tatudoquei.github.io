@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-23 23:53:31
 pub_date: 2019-10-23 23:53:31
 time_added: 2019-10-24 05:20:28
-category: 
+categories: []
 tags: []
 image: http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2019/10/21/2019-10-21T115658Z_1_LYNXMPEF9K0UT_RTROPTP_4_BRAZIL-ENVIRONMENT-OIL.JPG
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-16 16:00:33
 pub_date: 2020-04-16 16:00:33
 time_added: 2020-04-17 19:10:15
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2018/09/biodiversidade.jpg
 ---

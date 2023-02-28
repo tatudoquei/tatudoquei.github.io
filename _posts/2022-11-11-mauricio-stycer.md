@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-11 08:02:00
 pub_date: 2022-11-11 08:02:00
 time_added: 2022-11-12 14:24:24
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/1c/2022/11/02/cassia-kis-participa-de-manifestacao-no-rio-de-janeiro-1667421318733_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-31 19:44:23
 pub_date: 2020-03-31 19:44:23
 time_added: 2020-03-31 21:44:23
-category: 
+categories: []
 tags: []
 image: http://ufes.br/sites/default/files/field/image/escudo.jpg
 ---

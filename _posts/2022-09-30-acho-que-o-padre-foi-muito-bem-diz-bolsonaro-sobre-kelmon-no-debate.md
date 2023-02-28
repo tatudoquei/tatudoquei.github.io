@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-30 23:16:00
 pub_date: 2022-09-30 23:16:00
 time_added: 2022-10-03 00:40:14
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/02/2022/09/24/padre-kelmon-fez-dobradinha-com-bolsonaro-durante-o-debate-entre-presidenciaveis-no-sbt-1664063926005_v2_615x300.jpg
 ---

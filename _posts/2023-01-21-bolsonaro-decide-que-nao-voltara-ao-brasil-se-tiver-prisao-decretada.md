@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-21 05:00:50
 pub_date: 2023-01-21 05:00:50
 time_added: 2023-01-21 10:19:52
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2023/01/16162022/bolsonaro-orlando.jpeg
 ---

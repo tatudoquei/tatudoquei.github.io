@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-09 22:00:00
 pub_date: 2020-04-09 22:00:00
 time_added: 2020-04-11 16:01:35
-category: 
+categories: []
 tags: []
 image: https://cdn.jamanetwork.com/images/logos/JAMA.png
 ---

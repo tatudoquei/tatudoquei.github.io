@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-22 00:59:58
 pub_date: 2020-04-22 00:59:58
 time_added: 2020-04-24 14:38:34
-category: avisamos
+categories: [avisamos, bandido bom]
 tags: [meio ambiente]
 image: https://www.oeco.org.br/wp-content/uploads/2020/04/Ministro-Salles.jpg
 ---

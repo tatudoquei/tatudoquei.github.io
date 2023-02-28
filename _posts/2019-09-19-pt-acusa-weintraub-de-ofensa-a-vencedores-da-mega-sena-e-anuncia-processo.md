@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-19 22:00:53
 pub_date: 2019-09-19 22:00:53
 time_added: 2019-09-23 06:31:07
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/05/abraham-12.jpg.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-14 18:27:00
 pub_date: 2019-01-14 18:27:00
 time_added: 2019-12-23 21:41:24
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://conteudo.imguol.com.br/c/interacao/facebook/uol-noticias-600px.jpg
 ---

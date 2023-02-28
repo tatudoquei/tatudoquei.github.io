@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-24 20:02:00
 pub_date: 2021-02-24 20:02:00
 time_added: 2021-02-27 00:29:01
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/af/2021/02/11/11-fev-2021---hospital-municipal-brigadeiro-na-zona-oeste-de-sao-paulo-1613056821605_v2_615x300.jpg
 ---

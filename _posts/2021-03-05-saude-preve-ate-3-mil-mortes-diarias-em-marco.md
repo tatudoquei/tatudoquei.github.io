@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-05 08:00:55
 pub_date: 2021-03-05 08:00:55
 time_added: 2021-03-06 22:11:32
-category: 
+categories: []
 tags: []
 image: https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png
 ---

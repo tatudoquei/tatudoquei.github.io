@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-23 14:04:00
 pub_date: 2020-03-23 14:04:00
 time_added: 2020-03-24 07:24:44
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/a1/2020/03/08/8mar2020---mulher-segura-uma-rosa-em-sua-mao-sangrando-durante-protesto-por-igualdade-de-genero-e-contra-a-violencia-contra-a-mulher-no-dia-internacional-da-mulher-em-pristina-capital-do-kosovo-1583673567004_v2_615x300.jpg
 ---

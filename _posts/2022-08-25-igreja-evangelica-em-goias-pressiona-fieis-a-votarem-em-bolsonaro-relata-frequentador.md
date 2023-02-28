@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-08-25 00:06:39
 pub_date: 2022-08-25 00:06:39
 time_added: 2022-09-03 16:54:08
-category: 
+categories: []
 tags: []
 image: https://diariodegoias.com.br/wp-content/uploads/2022/08/congregacao_crista_no_brasil.jpg
 ---

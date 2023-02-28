@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-03 23:00:00
 pub_date: 2020-03-03 23:00:00
 time_added: 2020-03-07 18:29:40
-category: 
+categories: []
 tags: []
 image: https://www.opovo.com.br/_midias/jpg/2020/02/04/ministro_da_educacao_abraham_weintraub_10102019115321760-11622041.jpeg
 ---

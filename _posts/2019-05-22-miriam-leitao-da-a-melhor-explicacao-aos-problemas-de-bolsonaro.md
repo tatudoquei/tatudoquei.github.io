@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-22 11:09:11
 pub_date: 2019-05-22 11:09:11
 time_added: 2019-05-22 19:42:46
-category: 
+categories: []
 tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2019/05/brasil-jair-bolsonaro-miriam-leitao.jpg
 ---

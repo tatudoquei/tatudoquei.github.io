@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-31 11:45:00
 pub_date: 2021-01-31 11:45:00
 time_added: 2021-02-02 08:06:59
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/1e/2019/04/10/ministro-de-infraestrurura-tarcisio-gomes-de-freitas-1554927099974_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-27 17:18:49
 pub_date: 2021-01-27 17:18:49
 time_added: 2021-02-07 23:07:11
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/01/capa-reportagem-mt-versao-2.jpg
 ---

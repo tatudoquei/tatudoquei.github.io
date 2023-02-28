@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-16 14:18:00
 pub_date: 2020-04-16 14:18:00
 time_added: 2020-04-16 19:34:11
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/9b/2020/04/15/25mar2020---o-ministro-da-saude-luiz-henrique-mandetta-1586978204146_v2_615x300.jpg
 ---

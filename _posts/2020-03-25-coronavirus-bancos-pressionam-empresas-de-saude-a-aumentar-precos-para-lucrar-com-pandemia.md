@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-25 05:45:45
 pub_date: 2020-03-25 05:45:45
 time_added: 2020-03-25 06:45:45
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/03/pharma-theintercept-2-1584644092-redes.jpg
 ---

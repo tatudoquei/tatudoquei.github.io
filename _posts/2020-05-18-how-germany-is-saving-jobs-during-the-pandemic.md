@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-18 11:00:18
 pub_date: 2020-05-18 11:00:18
 time_added: 2020-05-19 06:52:35
-category: 
+categories: []
 tags: []
 image: https://pyxis.nymag.com/v1/imgs/dbf/2c3/14c8c8ab06f54b4bc81ce83860f796a8ed-15-germany-restaurant.1x.rsocial.w1200.jpg
 ---

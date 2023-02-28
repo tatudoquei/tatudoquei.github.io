@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-13 20:34:59
 pub_date: 2020-04-13 20:34:59
 time_added: 2020-04-14 11:16:44
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2020/04/marcelo-pegoraro-e-bolsonaro.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

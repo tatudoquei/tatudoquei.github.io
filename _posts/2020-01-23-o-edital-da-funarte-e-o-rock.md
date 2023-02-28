@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-23 08:25:00
 pub_date: 2020-01-23 08:25:00
 time_added: 2020-01-23 21:45:29
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/DImWGaKlCsBRDQdmZBs3bPoh5CM=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/12/04/dante-mantovani.jpg
 ---

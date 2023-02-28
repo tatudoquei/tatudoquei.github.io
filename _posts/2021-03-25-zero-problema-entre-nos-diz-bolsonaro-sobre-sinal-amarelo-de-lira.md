@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-25 16:02:14
 pub_date: 2021-03-25 16:02:14
 time_added: 2021-03-27 19:03:31
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/03/Bolsonaro-Lira-119-1200x630.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-09 16:25:00
 pub_date: 2020-12-09 16:25:00
 time_added: 2020-12-09 23:09:17
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/blogs/62/2020/11/21/bolsonaro-mourao-1605983689452_v2_615x300.jpg
 ---

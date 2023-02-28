@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-11 22:00:00
 pub_date: 2021-05-11 22:00:00
 time_added: 2021-05-13 17:08:55
-category: 
+categories: []
 tags: []
 image: https://static.portaldaindustria.com.br/portaldaindustria/noticias/media/16_9/fotogiannaizalcipauloguedes.jpg
 ---

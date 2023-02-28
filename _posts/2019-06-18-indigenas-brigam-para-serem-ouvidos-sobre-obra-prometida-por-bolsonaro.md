@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-18 22:00:00
 pub_date: 2019-06-18 22:00:00
 time_added: 2020-10-16 19:54:43
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/14EA9/production/_107337658_waimiri.jpg
 ---

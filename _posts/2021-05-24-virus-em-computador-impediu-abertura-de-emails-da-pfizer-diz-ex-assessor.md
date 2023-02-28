@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-24 19:53:55
 pub_date: 2021-05-24 19:53:55
 time_added: 2021-05-25 06:15:03
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/05/elcio-franco-email-pfizer-1080x630.jpg
 ---

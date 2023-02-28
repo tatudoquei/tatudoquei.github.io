@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-26 07:52:00
 pub_date: 2022-09-26 07:52:00
 time_added: 2022-10-02 23:53:35
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/1c/2022/09/25/bolsonaro-mudou-local-de-live-apos-determinacao-do-tse-1664153328649_v2_615x300.jpg
 ---

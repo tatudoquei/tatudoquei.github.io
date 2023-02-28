@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-10 18:23:04
 pub_date: 2020-03-10 18:23:04
 time_added: 2020-03-11 12:29:08
-category: 
+categories: []
 tags: []
 image: https://jornalggn.com.br/sites/default/files/2020/03/a-narrativa-mais-logica-do-caso-ronaldinho-lavagem-de-dinheiro-ronaldinho-g1.jpg
 ---

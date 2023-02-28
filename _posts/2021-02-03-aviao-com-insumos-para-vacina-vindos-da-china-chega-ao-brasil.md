@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-03 22:54:00
 pub_date: 2021-02-03 22:54:00
 time_added: 2021-02-06 12:04:47
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d6/2021/02/03/aviao-com-insumos-vindos-da-china-desembarca-no-brasil-1612407205393_v2_615x300.jpg
 ---

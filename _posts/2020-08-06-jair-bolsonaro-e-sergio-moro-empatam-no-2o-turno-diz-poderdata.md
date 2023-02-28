@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-06 22:25:43
 pub_date: 2020-08-06 22:25:43
 time_added: 2020-08-07 11:50:27
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/08/sergio.moro_.jair_.bolsonaro.29.ago_.2019.sergio.lima_-1-1200x630.jpg
 ---

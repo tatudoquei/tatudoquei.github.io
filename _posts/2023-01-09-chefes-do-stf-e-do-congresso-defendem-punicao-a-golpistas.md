@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-09 00:30:15
 pub_date: 2023-01-09 00:30:15
 time_added: 2023-01-10 23:52:39
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/congresso-invas%C3%A3o/alternates/LANDSCAPE_768/congresso%20invas%C3%A3o%20
 ---

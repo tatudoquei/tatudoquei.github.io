@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-13 22:27:40
 pub_date: 2019-12-13 22:27:40
 time_added: 2019-12-14 22:14:06
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/12/20191213_00_orcamento_ciencia.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-15 14:31:00
 pub_date: 2020-09-15 14:31:00
 time_added: 2020-09-15 22:11:31
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/b5/2020/06/22/urna-eletronica-1592829763724_v2_615x300.png
 ---

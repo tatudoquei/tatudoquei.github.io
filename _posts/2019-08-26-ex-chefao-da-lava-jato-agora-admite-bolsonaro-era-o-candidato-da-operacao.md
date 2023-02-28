@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-26 05:29:00
 pub_date: 2019-08-26 05:29:00
 time_added: 2019-08-28 22:14:46
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2019/08/carlosfernandoartristinho-566x300.jpg
 ---

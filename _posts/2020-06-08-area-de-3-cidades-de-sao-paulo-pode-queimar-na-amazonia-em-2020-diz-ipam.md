@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-08 12:00:25
 pub_date: 2020-06-08 12:00:25
 time_added: 2020-06-13 06:49:18
-category: 
+categories: []
 tags: [meio ambiente]
 image: https://www.oeco.org.br/wp-content/uploads/2020/06/quimada.jpg
 ---

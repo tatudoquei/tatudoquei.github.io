@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-14 11:30:55
 pub_date: 2021-03-14 11:30:55
 time_added: 2021-03-14 12:30:55
-category: 
+categories: []
 tags: []
 image: https://almapreta.com/images/2021/03/giorgia_prates.jpeg
 ---

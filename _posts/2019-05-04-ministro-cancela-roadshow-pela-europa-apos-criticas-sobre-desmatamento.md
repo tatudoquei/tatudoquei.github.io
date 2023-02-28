@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-04 17:51:00
 pub_date: 2019-05-04 17:51:00
 time_added: 2019-05-08 16:27:31
-category: 
+categories: []
 tags: []
 image: http://ambiencia.blogfolha.uol.com.br/files/2018/12/salles.jpg
 ---

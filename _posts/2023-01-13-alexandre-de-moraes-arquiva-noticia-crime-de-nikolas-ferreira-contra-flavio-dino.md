@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-13 17:34:30
 pub_date: 2023-01-13 17:34:30
 time_added: 2023-01-14 14:42:34
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/SodiBLG_mcNWFqgYtYFjcaEksXU=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/N/4/mPUYtNTq2osaM1q5YXYQ/101016437-brazilian-minister-of-the-supreme-federal-court-and-judge-at-the-superior-electoral-co.jpg
 ---

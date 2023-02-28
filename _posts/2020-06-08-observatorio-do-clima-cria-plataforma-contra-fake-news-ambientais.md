@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-08 22:18:21
 pub_date: 2020-06-08 22:18:21
 time_added: 2020-06-09 06:51:56
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2020/06/Oeco_fakebook-printscreen-2.jpg
 ---

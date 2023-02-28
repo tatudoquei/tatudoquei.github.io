@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-19 14:20:00
 pub_date: 2020-06-19 14:20:00
 time_added: 2020-06-19 18:33:00
-category: 
+categories: []
 tags: []
 image: https://vermelho.org.br/wp-content/uploads/2020/01/abraham_weintraub.jpg
 ---

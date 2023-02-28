@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-29 15:03:39
 pub_date: 2019-03-29 15:03:39
 time_added: 2019-03-29 23:51:22
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://i0.wp.com/apublica.org/wp-content/uploads/2019/03/foto-home.jpg?fit=1920%2C1117&ssl=1
 ---

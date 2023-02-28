@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-15 18:49:00
 pub_date: 2019-10-15 18:49:00
 time_added: 2019-11-03 09:25:48
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/10/vigilancia-redes-1571176470.jpg
 ---

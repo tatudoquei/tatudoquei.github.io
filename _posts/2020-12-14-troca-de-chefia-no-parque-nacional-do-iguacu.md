@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-14 17:19:14
 pub_date: 2020-12-14 17:19:14
 time_added: 2020-12-14 18:41:09
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2020/12/Oeco_Cibele-nova-gestora-PARNA-do-Iguacu_Wemerson-Augusto.jpeg
 ---

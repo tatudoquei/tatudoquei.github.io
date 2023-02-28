@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-31 20:02:03
 pub_date: 2020-03-31 20:02:03
 time_added: 2020-03-31 22:02:03
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2020/03/bolsonaro-redes-3.jpg
 ---

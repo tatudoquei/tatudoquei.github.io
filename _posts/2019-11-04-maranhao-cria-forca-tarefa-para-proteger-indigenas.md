@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-04 12:38:16
 pub_date: 2019-11-04 12:38:16
 time_added: 2019-11-06 08:00:01
-category: 
+categories: []
 tags: []
 image: https://blogdacidadania.com.br/wp-content/uploads/2019/11/BC-52.png
 ---

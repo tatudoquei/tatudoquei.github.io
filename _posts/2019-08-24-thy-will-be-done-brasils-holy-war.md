@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-24 18:00:27
 pub_date: 2018-10-18 07:34:16
 time_added: 2019-08-24 18:00:27
-category: 
+categories: []
 tags: []
 image: http://www.brasilwire.com/wp-content/uploads/2018/10/1956_special_studies_photo-e1539848245303-400x400.jpg
 ---

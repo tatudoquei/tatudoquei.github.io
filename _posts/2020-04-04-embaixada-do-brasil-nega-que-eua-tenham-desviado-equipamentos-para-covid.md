@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-04 20:09:00
 pub_date: 2020-04-04 20:09:00
 time_added: 2020-04-05 12:15:30
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/15/2020/04/02/donald-trump-presidente-dos-eua-1585878137409_v2_750x421.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-04 10:00:00
 pub_date: 2021-08-04 10:00:00
 time_added: 2021-08-20 21:12:16
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25139089-21f-371/FT1086A/760/instagram.jpg
 ---

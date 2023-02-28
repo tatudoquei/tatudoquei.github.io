@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-18 04:30:00
 pub_date: 2020-04-18 04:30:00
 time_added: 2020-04-18 15:40:36
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24378141-e09-fe6/FT1086A/652/WhatsApp-Image-2020-04-17-at-11.57.24.jpeg.jpg
 ---

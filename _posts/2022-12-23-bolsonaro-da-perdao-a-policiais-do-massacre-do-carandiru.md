@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-23 15:09:14
 pub_date: 2022-12-23 15:09:14
 time_added: 2023-01-06 23:15:42
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Prisioneiro-no-Carandiru/alternates/LANDSCAPE_768/Prisioneiro%20no%20Carandiru
 ---

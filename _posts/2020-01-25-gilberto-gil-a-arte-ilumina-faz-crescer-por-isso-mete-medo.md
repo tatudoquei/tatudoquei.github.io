@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-25 11:59:31
 pub_date: 2020-01-25 11:59:31
 time_added: 2020-01-25 12:59:31
-category: 
+categories: []
 tags: []
 image: https://www.diariodocentrodomundo.com.br/wp-content/uploads/2018/06/gilberto-gil-nao-chore-mais.jpg
 ---

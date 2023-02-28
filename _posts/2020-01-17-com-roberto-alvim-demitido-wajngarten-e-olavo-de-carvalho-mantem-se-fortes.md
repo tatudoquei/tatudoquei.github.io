@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-17 14:38:00
 pub_date: 2020-01-17 14:38:00
 time_added: 2020-01-17 20:37:19
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/49/2020/01/17/o-presidente-jair-bolsonaro-o-ministro-da-educacao-abraham-weintraub-e-o-secretario-de-cultura-roberto-alvim-1579273017953_v2_615x300.jpg
 ---

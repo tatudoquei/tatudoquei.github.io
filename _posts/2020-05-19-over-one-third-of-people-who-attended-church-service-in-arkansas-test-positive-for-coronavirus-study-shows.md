@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-19 21:24:55
 pub_date: 2020-05-19 21:24:55
 time_added: 2020-05-20 06:38:56
-category: 
+categories: []
 tags: []
 image: https://d.newsweek.com/en/full/1591909/coronavirus-us.jpg
 ---

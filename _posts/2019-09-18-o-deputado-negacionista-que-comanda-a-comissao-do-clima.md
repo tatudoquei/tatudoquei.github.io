@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-18 20:27:20
 pub_date: 2019-09-18 20:27:20
 time_added: 2019-09-18 22:27:20
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Senador-Zequinha-Marinho/ALTERNATES/LANDSCAPE_720/Senador%20Zequinha%20Marinho
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-21 18:07:00
 pub_date: 2020-01-21 18:07:00
 time_added: 2020-01-22 23:49:27
-category: 
+categories: []
 tags: []
 image: https://painel.blogfolha.uol.com.br/files/2018/08/gilmar.jpg
 ---

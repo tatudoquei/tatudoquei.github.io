@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-08 13:14:00
 pub_date: 2020-01-08 13:14:00
 time_added: 2020-01-18 12:07:27
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/24/2019/05/15/15mai2019---o-ministro-da-educacao-abraham-weintraub-fala-na-camara-1557953220611_v2_615x300.jpg
 ---

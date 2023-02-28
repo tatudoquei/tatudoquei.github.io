@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-04 22:01:00
 pub_date: 2020-05-04 22:01:00
 time_added: 2020-05-05 13:12:58
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/fb/2020/05/04/renan-da-silva-sena-foi-identificado-como-um-dos-agressores-de-profissionais-da-saude-que-faziam-protesto-em-brasilia-no-ultimo-dia-1-de-maio-1588631679398_v2_615x300.jpg
 ---

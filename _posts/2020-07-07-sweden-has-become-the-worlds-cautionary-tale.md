@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-07 15:16:04
 pub_date: 2020-07-07 15:16:04
 time_added: 2020-07-08 14:04:37
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/07/06/business/06sweden-01/06sweden-01-facebookJumbo.jpg
 ---

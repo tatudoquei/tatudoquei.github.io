@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-29 02:01:00
 pub_date: 2019-06-29 02:01:00
 time_added: 2019-12-22 11:18:45
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/06/vzjt-mr-redes-1561759283.jpg
 ---

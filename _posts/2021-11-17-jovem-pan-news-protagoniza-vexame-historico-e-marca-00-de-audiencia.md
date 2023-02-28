@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-17 10:13:12
 pub_date: 2021-11-17 10:13:12
 time_added: 2021-11-25 02:00:10
-category: 
+categories: []
 tags: []
 image: https://www.tvpop.com.br/wp-content/uploads/2021/11/adriana-reid-jornal-da-manha-foto-reproducao-jovem-pan-news-tvpop.jpg
 ---

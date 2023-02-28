@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-06 18:20:00
 pub_date: 2020-02-06 18:20:00
 time_added: 2020-02-07 23:39:36
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/34/2019/08/17/a-antartida-e-a-maior-terra-de-ninguem-do-planeta-mas-nao-a-unica-1566067472344_v2_615x300.jpg
 ---

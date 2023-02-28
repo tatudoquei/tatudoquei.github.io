@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-25 04:43:16
 pub_date: 2020-04-25 04:43:16
 time_added: 2020-04-25 07:59:03
-category: refletimos
+categories: [refletimos]
 tags: [saúde]
 image: https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_coronavirus_generic/public/d8/images/methode/2020/04/25/6cd8f768-86ab-11ea-8863-2139a14b0dea_image_hires_124306.jpg?itok=GfuqH5hV&v=1587789793
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-30 20:19:00
 pub_date: 2022-10-30 20:19:00
 time_added: 2022-10-31 00:41:49
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/8b/2022/10/30/luis-inacio-lula-da-silva-pt-1667161008325_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-18 21:57:42
 pub_date: 2020-01-18 21:57:42
 time_added: 2020-01-19 07:34:40
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2020/01/roberto-alvim-e1579252846182.png
 ---

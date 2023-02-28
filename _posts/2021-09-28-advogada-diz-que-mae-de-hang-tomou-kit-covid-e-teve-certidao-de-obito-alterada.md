@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-28 18:20:35
 pub_date: 2021-09-28 18:20:35
 time_added: 2021-10-17 14:35:39
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2021/07/16111558/Luciano-Hang-trocou-helicoptero-por-chocolate.jpg
 ---

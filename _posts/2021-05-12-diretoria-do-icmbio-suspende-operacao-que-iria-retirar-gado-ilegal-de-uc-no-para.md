@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-12 19:56:03
 pub_date: 2021-05-12 19:56:03
 time_added: 2021-05-30 06:42:53
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/05/Oeco2_ICMBio_Foto-Bruno-Bimbato.jpg
 ---

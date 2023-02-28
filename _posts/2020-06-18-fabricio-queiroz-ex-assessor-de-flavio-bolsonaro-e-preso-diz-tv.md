@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-18 04:45:00
 pub_date: 2020-06-18 04:45:00
 time_added: 2020-06-18 11:27:36
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2d/2018/12/27/fabricio-queiroz-ex-assessor-de-flavio-bolsonaro-durante-entrevista-ao-sbt-1545948579764_v2_750x421.jpg
 ---

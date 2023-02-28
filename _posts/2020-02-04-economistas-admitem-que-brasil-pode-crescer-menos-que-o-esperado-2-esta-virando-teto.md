@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-04 22:06:29
 pub_date: 2020-02-04 22:06:29
 time_added: 2020-02-05 13:58:02
-category: 
+categories: []
 tags: []
 image: http://blogs.correiobraziliense.com.br/vicente/wp-content/uploads/sites/16/2019/07/bc-768x512.jpg
 ---

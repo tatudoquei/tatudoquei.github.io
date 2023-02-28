@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-08 08:39:00
 pub_date: 2021-02-08 08:39:00
 time_added: 2021-02-08 12:27:08
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2021/02/cfm-redes.jpg
 ---

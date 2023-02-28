@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-06 10:13:00
 pub_date: 2020-09-06 10:13:00
 time_added: 2020-09-06 21:22:06
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/fb/2020/09/01/16ago2020---area-devastada-pelo-fogo-na-amazonia-1598983516666_v2_615x300.jpg
 ---

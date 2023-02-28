@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-21 03:10:06
 pub_date: 2019-03-21 03:10:06
 time_added: 2019-03-24 07:14:29
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://s2.glbimg.com/MiiZLCMxtibYu2f06-6r65DxViM=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/q/R/gzjgvGQ26V2JvB7PPVgw/selos-natuza-nery.jpg
 ---

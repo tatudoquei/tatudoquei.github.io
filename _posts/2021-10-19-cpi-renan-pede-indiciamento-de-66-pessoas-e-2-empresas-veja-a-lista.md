@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-19 21:19:00
 pub_date: 2021-10-19 21:19:00
 time_added: 2021-10-24 15:18:57
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/89/2021/04/27/o-ex-ministro-da-saude-eduardo-pazuello-e-o-presidente-jair-bolsonaro-1619571090498_v2_615x300.jpg
 ---

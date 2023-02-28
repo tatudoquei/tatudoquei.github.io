@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-18 05:14:00
 pub_date: 2020-06-18 05:14:00
 time_added: 2020-06-18 20:05:14
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/brasil/24147493-56e-007/FT1086A/652/82645067_Justica-autoriza-quebra-de-sigilo-do-senador-Flavio-Bolsonaro-e-do-ex-assessor-Fabricio.jpg
 ---

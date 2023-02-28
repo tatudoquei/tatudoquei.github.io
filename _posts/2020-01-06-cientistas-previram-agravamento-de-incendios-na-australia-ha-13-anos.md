@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-06 17:28:00
 pub_date: 2020-01-06 17:28:00
 time_added: 2020-01-11 15:01:26
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24166649-63b-478/FT1086A/652/86326673_TOPSHOTBurning-embers-cover-the-ground-as-firefighters-back-R-battle-against-bushfires-a.jpg
 ---

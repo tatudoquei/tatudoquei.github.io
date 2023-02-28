@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-19 12:21:00
 pub_date: 2021-02-19 12:21:00
 time_added: 2021-02-20 07:59:50
-category: 
+categories: []
 tags: []
 image: https://saidapeladireita.blogfolha.uol.com.br/files/2021/02/silveira1.jpeg
 ---

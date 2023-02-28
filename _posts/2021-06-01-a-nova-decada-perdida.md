@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-01 23:14:26
 pub_date: 2021-06-01 23:14:26
 time_added: 2021-06-05 11:06:44
-category: 
+categories: []
 tags: []
 image: https://jacobin.com.br/wp-content/uploads/2021/06/fila.caixa_auxilio.emergencial.coronavirus.jpg
 ---

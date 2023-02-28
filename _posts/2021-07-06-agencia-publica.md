@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-06 20:51:33
 pub_date: 2021-07-06 20:51:33
 time_added: 2021-07-24 08:25:11
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/07/facebook-coronel-guerra-irmao-de-ex-auditor-preso-por-corrupcao-na-saude-teria-negociado-vacinas.png
 ---

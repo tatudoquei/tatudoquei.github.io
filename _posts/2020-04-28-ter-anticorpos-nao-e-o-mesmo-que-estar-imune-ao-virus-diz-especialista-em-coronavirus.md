@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-28 02:30:00
 pub_date: 2020-04-28 02:30:00
 time_added: 2020-04-28 11:53:19
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24397117-a51-8ca/FT1086A/652/Professor_Eurico_Arruda.jpeg.jpg
 ---

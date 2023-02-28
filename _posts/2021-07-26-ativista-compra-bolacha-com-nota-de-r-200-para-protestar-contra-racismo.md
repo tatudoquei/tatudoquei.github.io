@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-26 15:54:47
 pub_date: 2021-07-26 15:54:47
 time_added: 2021-08-20 20:47:26
-category: 
+categories: []
 tags: []
 image: https://almapreta.com/images/2021/07/protesto_compre_bem_rib_pires.jpg
 ---

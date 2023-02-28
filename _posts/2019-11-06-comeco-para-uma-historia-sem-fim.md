@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-06 09:57:00
 pub_date: 2019-11-06 09:57:00
 time_added: 2019-11-13 05:46:38
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/11/marielle_redes_06112019.jpg
 ---

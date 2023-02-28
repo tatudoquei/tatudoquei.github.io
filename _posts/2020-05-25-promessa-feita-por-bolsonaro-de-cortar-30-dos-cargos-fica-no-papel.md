@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-25 10:05:00
 pub_date: 2020-05-25 10:05:00
 time_added: 2020-05-26 08:31:01
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f1/2020/05/24/24mai2020---presidente-jair-bolsonaro-sem-partido-participa-de-manifestacao-pro-governo-em-brasilia-1590340491226_v2_750x421.jpg
 ---

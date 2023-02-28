@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-20 18:05:06
 pub_date: 2021-05-20 18:05:06
 time_added: 2021-05-20 20:05:06
-category: 
+categories: []
 tags: []
 image: https://www.oc.eco.br/wp-content/uploads/2021/05/50324436706_bb91e94e2f_3k.jpg
 ---

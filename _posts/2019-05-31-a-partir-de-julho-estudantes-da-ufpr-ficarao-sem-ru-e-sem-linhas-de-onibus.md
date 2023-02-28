@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-31 13:35:00
 pub_date: 2019-05-31 13:35:00
 time_added: 2019-06-03 06:43:47
-category: 
+categories: []
 tags: []
 image: https://uploads.bemparana.com.br/upload/image/noticia/noticia_415973_img1_ru.jpg
 ---

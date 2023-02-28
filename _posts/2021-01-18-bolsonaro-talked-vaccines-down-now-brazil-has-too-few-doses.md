@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-18 23:38:40
 pub_date: 2021-01-18 23:38:40
 time_added: 2021-06-05 15:07:00
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2021/01/18/world/18virus-brazil/18virus-brazil-facebookJumbo.jpg
 ---

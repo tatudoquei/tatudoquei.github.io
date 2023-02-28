@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-28 21:06:18
 pub_date: 2019-11-28 21:06:18
 time_added: 2019-11-28 22:20:47
-category: 
+categories: []
 tags: []
 image: https://i2.wp.com/oimpacto.com.br/wp-content/uploads/2019/11/Fogosaire.jpg?fit=800%2C445&ssl=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-23 21:57:16
 pub_date: 2022-10-23 21:57:16
 time_added: 2022-10-28 20:50:56
-category: 
+categories: []
 tags: []
 image: https://98fmnatal.com.br/wp-content/uploads/2022/10/ato-lula-macaiba.jpg
 ---

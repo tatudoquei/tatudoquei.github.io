@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-23 17:26:20
 pub_date: 2020-05-23 17:26:20
 time_added: 2020-05-24 18:10:15
-category: 
+categories: []
 tags: []
 image: https://i.cbc.ca/1.5581334.1590180934!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1214194194.jpg
 ---

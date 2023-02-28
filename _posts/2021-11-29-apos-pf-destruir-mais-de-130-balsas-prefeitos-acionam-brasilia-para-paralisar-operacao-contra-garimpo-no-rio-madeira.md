@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-29 14:01:00
 pub_date: 2021-11-29 14:01:00
 time_added: 2021-12-13 14:44:03
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25296980-c5d-af9/FT1086A/760/96416168_PAAmazonas-AM-28-11-2021Balsas-de-garimpo-incendiadas-em-operacao-da-Policia-Federal.jpg
 ---

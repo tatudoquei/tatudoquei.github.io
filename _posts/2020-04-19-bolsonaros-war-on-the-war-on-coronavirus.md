@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-19 13:00:33
 pub_date: 2020-04-19 13:00:33
 time_added: 2020-04-19 14:31:34
-category: 
+categories: []
 tags: []
 image: https://pixel.nymag.com/imgs/daily/intelligencer/2020/04/17/17-bolsonaro.w1200.h630.jpg
 ---

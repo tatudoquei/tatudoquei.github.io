@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-05 17:28:09
 pub_date: 2019-06-05 17:28:09
 time_added: 2019-06-06 05:56:01
-category: 
+categories: []
 tags: []
 image: http://scd.br.rfi.fr/sites/brasil.filesrfi/imagecache/rfi_16x9_1024_578/sites/images.rfi.fr/files/aefimagesnew/aef_image/foto.paradiset.jpg
 ---

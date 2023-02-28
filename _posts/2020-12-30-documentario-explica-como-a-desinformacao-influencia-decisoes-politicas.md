@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-30 23:00:00
 pub_date: 2020-12-30 23:00:00
 time_added: 2020-10-21 14:03:21
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/c5mfts-zYMdZSGYUHUNQZV1nGoI=/512x320/smart/e.glbimg.com/og/ed/f/original/2020/10/20/petria-cristina.png
 ---

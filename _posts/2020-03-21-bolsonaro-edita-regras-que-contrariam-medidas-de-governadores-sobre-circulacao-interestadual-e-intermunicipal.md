@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-21 07:46:00
 pub_date: 2020-03-21 07:46:00
 time_added: 2020-03-21 13:55:40
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24320229-427-55e/FT1086A/652/87587876_PA-Brasilia-BSB-20-03-2020Coletiva-com-o-Presidente-Jair-Bolsonaro-e-o-Ministro-da-Saude.jpg
 ---

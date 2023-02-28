@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-24 14:05:00
 pub_date: 2020-04-24 14:05:00
 time_added: 2020-04-24 20:10:25
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://conteudo.imguol.com.br/c/interacao/facebook/uol-noticias-600px.jpg
 ---

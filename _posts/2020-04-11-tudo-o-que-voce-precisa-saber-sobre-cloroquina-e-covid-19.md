@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-11 13:50:27
 pub_date: 2020-04-11 13:50:27
 time_added: 2020-04-11 15:50:27
-category: 
+categories: []
 tags: []
 image: https://www.revistaquestaodeciencia.com.br/sites/default/files/styles/facebook/public/2020-04/PILLS_VARIED_SQUARE.jpg?itok=590M6W-y
 ---

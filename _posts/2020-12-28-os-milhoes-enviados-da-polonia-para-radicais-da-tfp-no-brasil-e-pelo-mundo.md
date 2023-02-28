@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-28 14:00:00
 pub_date: 2020-12-28 14:00:00
 time_added: 2021-01-03 09:37:30
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/7a/2020/12/26/antiga-sede-da-tfp-em-sao-paulo-onde-hoje-e-do-instituto-plinio-de-oliveira-1609028755828_v2_615x300.jpg
 ---

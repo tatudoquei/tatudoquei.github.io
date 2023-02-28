@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-02 17:53:40
 pub_date: 2020-03-02 17:53:40
 time_added: 2020-03-03 16:14:18
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/03/20200302_00_Gabriel_Mantelli.jpg
 ---

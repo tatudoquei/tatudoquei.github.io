@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-14 16:54:47
 pub_date: 2020-05-14 16:54:47
 time_added: 2020-05-14 18:54:47
-category: 
+categories: []
 tags: []
 image: https://cdn.theatlantic.com/thumbor/isgyYY9FYMg6QTRujPJ85g9VIYQ=/0x146:2000x1188/960x500/media/img/photo/2020/05/brazil-tk/a01_1209373532-1/original.jpg
 ---

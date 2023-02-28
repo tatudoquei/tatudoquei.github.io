@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-15 13:20:00
 pub_date: 2021-04-15 13:20:00
 time_added: 2021-05-16 20:26:08
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24971030-453-e8e/FT1086A/Fachin.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-18 03:00:00
 pub_date: 2019-12-18 03:00:00
 time_added: 2019-12-19 07:36:23
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d2/2019/12/17/17dez2019---favela-sururu-de-capote-em-maceioal-1576620650545_v2_750x421.jpg
 ---

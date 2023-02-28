@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-05-19 16:05:00
 pub_date: 2022-05-19 16:05:00
 time_added: 2022-10-03 00:23:54
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2022/05/Brasil-Paralelo-Entrevista-R.jpg
 ---

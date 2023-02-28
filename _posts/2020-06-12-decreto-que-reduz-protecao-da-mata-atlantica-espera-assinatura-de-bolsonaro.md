@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-12 02:03:00
 pub_date: 2020-06-12 02:03:00
 time_added: 2020-06-12 17:48:09
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/e5/2020/05/26/plantacao-de-eucaliptos-no-sul-da-bahia-segundo-estado-que-mais-perdeu-mata-atlantica-entre-2018-e-2019-1590535793301_v2_615x300.jpg
 ---

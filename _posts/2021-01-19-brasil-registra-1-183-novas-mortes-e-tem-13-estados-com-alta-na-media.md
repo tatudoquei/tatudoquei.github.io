@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-19 21:40:00
 pub_date: 2021-01-19 21:40:00
 time_added: 2021-01-20 15:52:08
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/88/2021/01/14/medicos-chegando-ao-hospital-getulio-vargas-em-manaus-com-paciente-infectado-pelo-novo-coronavirus-1610665276768_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-28 22:20:39
 pub_date: 2021-10-28 22:20:39
 time_added: 2021-10-30 17:33:22
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/10/bolsonaro-planalto-foto-sergio-lima-1200x630.jpg
 ---

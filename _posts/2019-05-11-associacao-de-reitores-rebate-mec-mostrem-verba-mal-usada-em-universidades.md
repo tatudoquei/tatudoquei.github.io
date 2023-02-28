@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-11 07:00:00
 pub_date: 2019-05-11 07:00:00
 time_added: 2019-05-12 11:11:22
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ae/2019/05/10/reinaldo-centoducatte-presidente-da-andifes-associacao-nacional-dos-dirigentes-das-instituicoes-federais-de-ensino-superior-e-reitor-da-ufes-universidade-federal-do-espirito-santo-1557513104181_v2_615x300.jpg
 ---

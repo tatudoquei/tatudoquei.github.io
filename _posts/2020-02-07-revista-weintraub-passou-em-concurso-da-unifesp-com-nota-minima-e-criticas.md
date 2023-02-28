@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-07 14:39:00
 pub_date: 2020-02-07 14:39:00
 time_added: 2020-02-08 00:01:04
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e2/2019/04/09/posso-do-ministro-da-educacao-abraham-weintraub-1554842676081_v2_615x300.jpg
 ---

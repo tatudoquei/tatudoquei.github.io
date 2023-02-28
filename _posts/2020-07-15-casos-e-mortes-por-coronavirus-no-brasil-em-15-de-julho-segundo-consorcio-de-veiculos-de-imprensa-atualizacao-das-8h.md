@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-15 11:00:08
 pub_date: 2020-07-15 11:00:08
 time_added: 2020-07-16 19:19:12
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/w6IJglkpOSkyVPtHNajE7uoh5qU=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/8/B/TSRVE1SeiCbfL3TwAN8Q/subindo.png
 ---

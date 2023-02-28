@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-22 19:32:00
 pub_date: 2021-02-22 19:32:00
 time_added: 2021-02-27 17:00:36
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/economia/24892512-20b-b43/FT1086A/652/Petrobrassede-no-centro-do-Rio.jpg
 ---

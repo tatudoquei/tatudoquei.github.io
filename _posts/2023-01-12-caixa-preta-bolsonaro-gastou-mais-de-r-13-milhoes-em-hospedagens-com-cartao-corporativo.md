@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-12 12:46:57
 pub_date: 2023-01-12 12:46:57
 time_added: 2023-01-14 09:08:35
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2023/01/Capa_Facebook_Caixa-preta-Bolsonaro-gastou-mais-de-R-13-milhoes-em-hospedagens-com-cartao-corporativo.png
 ---

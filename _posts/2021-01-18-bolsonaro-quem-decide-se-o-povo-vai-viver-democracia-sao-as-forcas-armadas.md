@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-18 19:22:26
 pub_date: 2021-01-18 19:22:26
 time_added: 2021-01-19 13:52:57
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/01/JairBolsonaro-Rampa-PalacioDoPlanalto-Soladados-Militares-Bolsonaro-130-1200x630.jpg
 ---

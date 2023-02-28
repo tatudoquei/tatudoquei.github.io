@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-10 07:21:00
 pub_date: 2020-03-10 07:21:00
 time_added: 2020-03-11 12:34:34
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/esporte/de/2020/03/09/ronaldinho-gaucho-e-seu-irmao-assis-foram-detidos-no-paraguai-na-ultima-quinta-feira-5-1583767975708_v2_615x300.jpg
 ---

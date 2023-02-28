@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-08 14:00:00
 pub_date: 2020-07-08 14:00:00
 time_added: 2020-07-08 22:24:38
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/qrZvtoaVorHRJcEODjJP86IOoVY=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2020/07/08/eduardo-flaviobolsonaro-1200x720.jpg
 ---

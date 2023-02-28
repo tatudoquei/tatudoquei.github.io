@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-13 07:00:00
 pub_date: 2019-05-13 07:00:00
 time_added: 2019-05-16 19:05:30
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ce/2019/05/10/procurador-daniel-azeredo-da-pgr-1557499056759_v2_615x300.jpg
 ---

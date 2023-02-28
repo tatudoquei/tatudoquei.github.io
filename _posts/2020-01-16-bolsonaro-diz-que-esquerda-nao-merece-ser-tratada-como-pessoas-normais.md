@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-16 17:27:00
 pub_date: 2020-01-16 17:27:00
 time_added: 2020-01-17 07:58:48
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ba/2020/01/07/o-presidente-jair-bolsonaro-participa-de-cerimonia-das-forcas-armadas-no-planalto-1578432975841_v2_615x300.jpg
 ---

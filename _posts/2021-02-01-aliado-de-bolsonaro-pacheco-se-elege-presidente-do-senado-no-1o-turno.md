@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-01 17:57:00
 pub_date: 2021-02-01 17:57:00
 time_added: 2021-02-02 20:35:53
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/58/2021/02/01/01-fev-2021---os-candidatos-rodrigo-pacheco-dem-mg-e-simone-tebet-mdb-ms-conversam-no-plenario-do-senado-1612214422606_v2_615x300.jpg
 ---

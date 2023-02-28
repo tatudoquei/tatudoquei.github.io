@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-12 13:42:00
 pub_date: 2021-06-12 13:42:00
 time_added: 2021-06-12 23:23:10
-category: 
+categories: []
 tags: []
 image: https://noticiasdatv.uol.com.br/media/uploads/artigos/alexandre-garcia-reproducao-cnn-brasil_JR6GsKU.jpg
 ---

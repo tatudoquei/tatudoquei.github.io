@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-15 22:43:04
 pub_date: 2019-07-15 22:43:04
 time_added: 2019-07-17 05:53:11
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2019/06/moro-deltan.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

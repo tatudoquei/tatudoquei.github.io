@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-11 01:20:05
 pub_date: 2022-09-11 01:20:05
 time_added: 2022-09-11 11:27:14
-category: 
+categories: []
 tags: []
 image: https://www.diariodocentrodomundo.com.br/wp-content/uploads/2022/09/screen-shot-2022-09-10-at-22-08-00.png
 ---

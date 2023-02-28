@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-21 16:40:24
 pub_date: 2019-04-21 16:40:24
 time_added: 2019-04-21 18:40:24
-category: 
+categories: []
 tags: []
 image: https://www.socioambiental.org/sites/blog.socioambiental.org/files/styles/twitter-card/public/nsa/rs4580_maf_2017-03_tiyanomami_0224_0.jpg?itok=PfvGxcBN
 ---

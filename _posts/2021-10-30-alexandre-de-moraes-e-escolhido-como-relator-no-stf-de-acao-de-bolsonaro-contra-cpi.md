@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-30 20:33:05
 pub_date: 2021-10-30 20:33:05
 time_added: 2021-10-30 17:33:05
-category: 
+categories: []
 tags: []
 image: https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/10/bancoImagemFotoAudiencia_AP_461547-e1635371019694.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-16 03:00:00
 pub_date: 2019-12-16 03:00:00
 time_added: 2019-12-16 09:35:32
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/2e/2019/12/13/o-presidente-jair-bolsonaro-1576265744572_v2_615x300.jpg
 ---

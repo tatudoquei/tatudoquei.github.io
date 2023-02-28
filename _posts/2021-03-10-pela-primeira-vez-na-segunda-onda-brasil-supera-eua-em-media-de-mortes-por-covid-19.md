@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-10 14:09:00
 pub_date: 2021-03-10 14:09:00
 time_added: 2021-03-21 09:12:44
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24918091-470-af6/FT1086A/covid.jpg
 ---

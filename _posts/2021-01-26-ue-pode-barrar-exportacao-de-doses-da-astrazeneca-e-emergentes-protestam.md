@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-26 05:36:00
 pub_date: 2021-01-26 05:36:00
 time_added: 2021-01-26 19:33:23
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/72/2020/09/16/presidente-da-comissao-europeia-ursula-von-der-leyen-discursa-no-parlamento-europeu-em-bruxelas-1600262460925_v2_615x300.jpg
 ---

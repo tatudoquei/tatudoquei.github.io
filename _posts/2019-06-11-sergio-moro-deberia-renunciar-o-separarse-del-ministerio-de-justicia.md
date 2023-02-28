@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-11 22:00:00
 pub_date: 2019-06-11 22:00:00
 time_added: 2019-06-12 20:47:37
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2019/06/12/universal/12Pires-ES/12Pires-ES-videoSixteenByNine768.jpg
 ---

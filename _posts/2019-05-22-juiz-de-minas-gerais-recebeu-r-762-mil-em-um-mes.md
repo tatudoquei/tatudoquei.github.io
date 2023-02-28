@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-22 06:00:04
 pub_date: 2019-05-22 06:00:04
 time_added: 2019-05-26 20:51:36
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/coluna-do-estadao/wp-content/uploads/sites/352/2019/05/tjmg-web.jpg
 ---

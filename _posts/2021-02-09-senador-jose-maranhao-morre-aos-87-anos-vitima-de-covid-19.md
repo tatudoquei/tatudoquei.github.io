@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-09 01:11:56
 pub_date: 2021-02-09 01:11:56
 time_added: 2021-03-21 09:27:29
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/02/jose-maranhao.jpeg
 ---

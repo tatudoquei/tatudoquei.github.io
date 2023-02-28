@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-21 19:02:28
 pub_date: 2020-01-21 19:02:28
 time_added: 2020-01-21 20:02:28
-category: 
+categories: []
 tags: []
 image: https://cpj.org/rt_brazil_07-29-2019_rs.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-26 20:31:01
 pub_date: 2020-12-26 20:31:01
 time_added: 2021-01-15 15:28:33
-category: 
+categories: []
 tags: []
 image: https://amazoniareal.com.br/wp-content/uploads/2020/12/PROTESTO-CENTRO-DE-MANAUS-EDMAR-BARROS2.jpg
 ---

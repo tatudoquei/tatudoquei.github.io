@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-20 15:01:00
 pub_date: 2020-03-20 15:01:00
 time_added: 2020-03-20 20:25:45
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f4/2020/03/20/20mar2020---auxiliar-de-enfermagem-foi-agredida-com-uma-marmita-no-metro-de-sao-paulo-quando-ia-para-o-hospital-vestida-de-branco-1584727920529_v2_750x421.jpg
 ---

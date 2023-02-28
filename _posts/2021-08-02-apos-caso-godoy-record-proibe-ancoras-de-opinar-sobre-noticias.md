@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-02 16:32:00
 pub_date: 2021-08-02 16:32:00
 time_added: 2021-08-20 21:00:48
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/11/2021/07/30/mariana-godoy-comentou-as-declaracoes-infundadas-de-jair-bolsonaro-sem-partido-durante-o-fala-brasil-1627663008564_v2_615x300.jpg
 ---

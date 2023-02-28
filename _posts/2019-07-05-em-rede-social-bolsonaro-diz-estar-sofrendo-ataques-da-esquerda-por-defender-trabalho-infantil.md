@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-05 12:12:00
 pub_date: 2019-07-05 12:12:00
 time_added: 2019-07-07 08:14:55
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23786754-75c-9e1/FT1086A/652/twitter-bolsonaro-2.jpg
 ---

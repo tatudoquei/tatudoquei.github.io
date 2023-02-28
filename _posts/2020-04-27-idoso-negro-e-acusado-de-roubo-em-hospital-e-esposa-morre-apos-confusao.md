@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-27 02:00:00
 pub_date: 2020-04-27 02:00:00
 time_added: 2020-04-28 11:50:09
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/bc/2020/04/24/idoso-negro-e-acusado-de-roubo-em-hospital-e-esposa-morre-apos-confusao-1587765823944_v2_300x200.jpg
 ---

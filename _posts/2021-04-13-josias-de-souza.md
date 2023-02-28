@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-13 16:42:00
 pub_date: 2021-04-13 16:42:00
 time_added: 2021-05-16 20:18:33
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/75/2021/04/13/o-presidente-do-senado-rodrigo-pacheco-dem-mg-durante-a-sessao-de-abertura-da-cpi-da-covid-1618348873183_v2_615x300.jpg
 ---

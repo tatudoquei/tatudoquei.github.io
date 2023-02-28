@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-05-24 02:24:32
 pub_date: 2022-05-24 02:24:32
 time_added: 2022-05-28 07:54:20
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/bolsonaro_arthur_lira_ciro_nogueira/alternates/LANDSCAPE_768/bolsonaro_arthur_lira_ciro_nogueira
 ---

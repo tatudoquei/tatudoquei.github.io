@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-12 13:56:00
 pub_date: 2020-11-12 13:56:00
 time_added: 2021-10-17 14:55:56
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24741900-443-e10/FT1086A/760/Paulo-Guedes-com-supermercados.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-20 11:26:27
 pub_date: 2020-05-20 11:26:27
 time_added: 2020-05-20 18:44:57
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/Bh7w_5dEfkWPZ589H-NR4g9Rjhs=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2020/5/0/0iZSpOSxqRAAaOG7qojw/corona.jpg
 ---

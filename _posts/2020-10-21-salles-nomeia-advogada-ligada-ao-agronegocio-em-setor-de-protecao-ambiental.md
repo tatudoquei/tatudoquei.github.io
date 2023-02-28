@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-21 08:20:00
 pub_date: 2020-10-21 08:20:00
 time_added: 2020-10-21 20:23:31
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/23/2020/10/16/jair-bolsonaro-aperta-a-mae-do-ministro-do-meio-ambiente-ricardo-salles-em-evento-de-inauguracao-de-uma-usina-de-biogas-no-interior-de-sao-paulo-1602862240561_v2_615x300.jpg
 ---

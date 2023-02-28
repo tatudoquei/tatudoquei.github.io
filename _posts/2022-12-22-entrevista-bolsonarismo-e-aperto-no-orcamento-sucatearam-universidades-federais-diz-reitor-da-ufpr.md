@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-22 12:11:00
 pub_date: 2022-12-22 12:11:00
 time_added: 2023-01-06 23:14:49
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2022/12/22080322-ricardo-marcelo-fonseca-entrevista-bolsonaro-educacao-redes.jpg
 ---

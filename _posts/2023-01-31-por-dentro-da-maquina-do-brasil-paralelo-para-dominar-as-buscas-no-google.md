@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-31 16:52:34
 pub_date: 2023-01-31 16:52:34
 time_added: 2023-02-03 21:25:20
-category: 
+categories: []
 tags: []
 image: https://nucleo.jor.br/content/images/2023/01/HEADER-GIF.gif
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-21 18:32:23
 pub_date: 2022-10-21 18:32:23
 time_added: 2022-10-22 18:01:49
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2022/10/Capa_Facebook_Coluna-Rubens_Evangelicos-bolsonaristas-e-empreendedores-no-centro-de-um-escandalo-milionario.png
 ---

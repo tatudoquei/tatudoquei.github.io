@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-09 08:47:00
 pub_date: 2020-05-09 08:47:00
 time_added: 2020-05-09 17:55:47
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/07/2020/02/28/general-heleno-recebe-continencia-1582888786949_v2_750x421.jpg
 ---

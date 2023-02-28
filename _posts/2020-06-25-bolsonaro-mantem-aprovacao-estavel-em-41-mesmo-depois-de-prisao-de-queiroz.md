@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-25 09:00:27
 pub_date: 2020-06-25 09:00:27
 time_added: 2020-06-25 12:36:07
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/06/Bolsonaro-Planalto-1200x630.jpg
 ---

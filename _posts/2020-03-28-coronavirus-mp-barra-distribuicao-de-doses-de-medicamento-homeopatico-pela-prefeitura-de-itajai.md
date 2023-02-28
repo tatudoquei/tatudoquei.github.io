@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-28 22:20:50
 pub_date: 2020-03-28 22:20:50
 time_added: 2020-03-28 23:20:50
-category: 
+categories: []
 tags: []
 image: https://files.nsctotal.com.br/s3fs-public/graphql-upload-files/homeopatia_0_1.jpg?YqMM_qOJg1JNY0SYFO3pbVtah.RmCxbQ
 ---

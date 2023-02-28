@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-29 05:01:05
 pub_date: 2020-07-29 05:01:05
 time_added: 2020-08-03 07:02:49
-category: 
+categories: []
 tags: []
 image: https://reporterbrasil.org.br/wp-content/uploads/2020/07/Mapa-16.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-26 13:15:00
 pub_date: 2023-01-26 13:15:00
 time_added: 2023-01-27 01:23:23
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2023/01/amazonia-sitiada-clubes-de-tiro-fazendas-redes.jpg
 ---

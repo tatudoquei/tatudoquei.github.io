@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-24 22:01:00
 pub_date: 2020-04-24 22:01:00
 time_added: 2020-04-25 19:04:51
-category: avisamos
+categories: [avisamos, bandido bom]
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a2/2020/04/24/sergio-moro-faz-pronunciamento-acusa-bolsonaro-e-se-demite-1587783516827_v2_615x300.jpg
 ---

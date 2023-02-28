@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-22 15:06:16
 pub_date: 2021-11-22 15:06:16
 time_added: 2021-11-25 02:36:26
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/oeco.org.br/wp-content/uploads/2021/11/ilustra_bombeiros.gif?fit=1920%2C1280&ssl=1
 ---

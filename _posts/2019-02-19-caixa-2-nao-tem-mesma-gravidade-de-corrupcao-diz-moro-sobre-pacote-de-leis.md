@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-19 11:14:00
 pub_date: 2019-02-19 11:14:00
 time_added: 2019-02-20 08:51:56
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2a/2019/02/19/19fev2019---o-presidente-jair-bolsonaro-voltou-a-conduzir-a-reuniao-do-conselho-de-governo-a-primeira-dele-apos-a-internacao-1550588323762_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-24 23:35:49
 pub_date: 2020-01-24 23:35:49
 time_added: 2020-01-25 11:03:31
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/prRzrLYddQ03nlSbvwhuV1glQ8k=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2013/01/30/oab-fachada-07-02-2012-006-.jpg
 ---

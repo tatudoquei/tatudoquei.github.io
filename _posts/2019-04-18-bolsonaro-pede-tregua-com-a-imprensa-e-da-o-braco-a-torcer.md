@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-18 19:43:04
 pub_date: 2019-04-18 19:43:04
 time_added: 2019-04-19 15:04:48
-category: 
+categories: []
 tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2019/04/bolsonaro-7.jpg
 ---

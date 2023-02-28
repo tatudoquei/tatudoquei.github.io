@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-30 17:18:00
 pub_date: 2021-05-30 17:18:00
 time_added: 2021-06-20 09:48:59
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/05/Proyecto-Navidad-Chubut-Argentina-Marcha-de-la-Union-de-Asambleas-de-Comunidades-de-Chubut-UACCh-en-Gangan-Dic.-2019.jpg
 ---

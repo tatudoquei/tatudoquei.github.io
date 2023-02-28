@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-14 22:30:00
 pub_date: 2019-05-14 22:30:00
 time_added: 2019-05-16 19:07:53
-category: recuadas
+categories: [recuadas]
 tags: [ciência, educação]
 image: https://conteudo.imguol.com.br/c/interacao/facebook/uol-educacao.png
 ---

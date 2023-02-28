@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-13 12:30:00
 pub_date: 2023-01-13 12:30:00
 time_added: 2023-01-14 09:22:10
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2023/01/bolsonaro-jorge-oliveira-redes.jpg
 ---

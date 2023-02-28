@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-28 06:56:54
 pub_date: 2020-03-28 06:56:54
 time_added: 2020-03-28 07:56:54
-category: 
+categories: []
 tags: []
 image: https://media.wired.com/photos/5e7d05648283f9000a415196/191:100/w_1280,c_limit/Science_SKorea_1203667402.jpg
 ---

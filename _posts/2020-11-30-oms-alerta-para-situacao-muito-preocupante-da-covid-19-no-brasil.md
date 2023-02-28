@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-30 14:42:00
 pub_date: 2020-11-30 14:42:00
 time_added: 2020-12-02 08:20:14
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/85/2020/09/28/o-liacuteder-da-oms-tedros-ghebreyesus-acrescentou-que-ateacute-agora-o-programa-de-aceleraccedilatildeo-do-desenvolvimento-de-uma-vacina-para-a-doenccedila-arrecadou-mais-de-us-35-1601315684583_v2_615x300.jpg
 ---

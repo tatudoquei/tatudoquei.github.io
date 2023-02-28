@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-01 18:11:00
 pub_date: 2021-02-01 18:11:00
 time_added: 2021-02-02 20:25:08
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b9/2021/01/31/apesar-da-pandemia-muitos-banhistas-nao-usavam-mascaras-na-praia-do-gonzaga-em-santos-sp-neste-domingo-31-1612135280857_v2_615x300.jpg
 ---

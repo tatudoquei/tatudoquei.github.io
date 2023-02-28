@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-16 09:45:34
 pub_date: 2019-08-16 09:45:34
 time_added: 2019-08-22 08:54:15
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/08/jair-bolsonaro-indios-indigenas-cocar-2019-15.jpg.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

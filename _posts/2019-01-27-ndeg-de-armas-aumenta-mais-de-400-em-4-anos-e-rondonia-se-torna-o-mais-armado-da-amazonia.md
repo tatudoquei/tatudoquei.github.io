@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-27 20:48:09
 pub_date: 2019-01-27 20:48:09
 time_added: 2019-12-23 21:37:44
-category: refletimos
+categories: [refletimos]
 tags: [segurança]
 image: https://s2.glbimg.com/iqUEC-AOm8VIHHs5ROgWH0Ve6NM=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2019/01/23/fup20190122293_pW9mZ2n.jpg
 ---

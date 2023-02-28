@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-23 02:30:00
 pub_date: 2020-05-23 02:30:00
 time_added: 2020-05-24 22:39:40
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/economia/24442687-df5-3b0/FT1086A/652/88184897_EC-Rio-de-Janeiro-RJ-19-05-2020Pandemia-de-CoronavirusPessoas-que-estao-recebendo.jpg
 ---

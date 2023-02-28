@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-02 15:50:24
 pub_date: 2021-06-02 15:50:24
 time_added: 2021-06-02 17:50:24
-category: 
+categories: []
 tags: []
 image: https://www.revistaquestaodeciencia.com.br/sites/default/files/styles/facebook/public/2021-06/AMOEBAS_SQUARE.jpg?itok=DR8P2CUD
 ---

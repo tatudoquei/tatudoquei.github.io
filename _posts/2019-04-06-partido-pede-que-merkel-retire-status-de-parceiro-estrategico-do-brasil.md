@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-06 02:00:00
 pub_date: 2019-04-06 02:00:00
 time_added: 2019-04-07 06:26:16
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/275/files/2019/04/bundestag-615x300.jpg
 ---

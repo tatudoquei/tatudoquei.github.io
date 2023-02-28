@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-25 15:09:00
 pub_date: 2020-08-25 15:09:00
 time_added: 2020-08-26 18:16:28
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/86/2020/07/19/homem-se-revoltou-com-guarda-ao-ser-abordado-por-uso-de-mascara-em-santos-ele-se-apresentou-como-desembargador-1595163497462_v2_615x300.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-13 17:16:00
 pub_date: 2021-04-13 17:16:00
 time_added: 2021-05-16 20:19:18
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/9b/2021/04/11/paciente-com-covid-19-sendo-conduzido-para-a-uti-do-hospital-dr-jayme-santos-neves-na-serra-o-maior-hospital-publico-do-espirito-santo-1618142092124_v2_615x300.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-13 02:14:23
 pub_date: 2010-12-06 23:00:00
 time_added: 2020-03-13 02:14:23
-category: 
+categories: []
 tags: []
 image: http://blogs.scientificamerican.com/themes/responsive/images/global/logo400x400.jpg
 ---

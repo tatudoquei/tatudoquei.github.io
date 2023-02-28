@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-12 22:48:00
 pub_date: 2019-06-12 22:48:00
 time_added: 2019-06-13 06:57:34
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/06/chats-moro-redes-1560374387.jpg
 ---

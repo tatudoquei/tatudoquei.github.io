@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-06 18:33:58
 pub_date: 2020-04-06 18:33:58
 time_added: 2020-04-15 12:42:20
-category: 
+categories: []
 tags: []
 image: https://abrilcasa.files.wordpress.com/2020/04/como-as-epidemias-moldaram-a-casa-05.jpg?quality=95&strip=info&w=680&h=453&crop=1
 ---

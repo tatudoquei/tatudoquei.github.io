@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-01 02:48:17
 pub_date: 2020-05-01 02:48:17
 time_added: 2020-05-01 04:48:17
-category: 
+categories: []
 tags: []
 image: https://extra.globo.com/incoming/24401740-a1c-187/w976h550-PROP/87939844_an-amazon-worker-delivers-packages-amid-the-coronavirus-disease-covid-19-outbreak-in-denver.jpg
 ---

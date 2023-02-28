@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-04 22:55:46
 pub_date: 2021-03-04 22:55:46
 time_added: 2021-03-07 00:09:14
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/03/Marcelo-Camargo-ABR-3.jpg
 ---

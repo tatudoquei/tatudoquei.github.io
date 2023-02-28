@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-06 18:06:27
 pub_date: 2021-07-06 18:06:27
 time_added: 2021-07-25 16:47:00
-category: 
+categories: []
 tags: []
 image: https://almapreta.com/images/2021/07/caso-crismilly-perola.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-16 03:30:00
 pub_date: 2021-03-16 03:30:00
 time_added: 2021-03-21 09:22:58
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24925469-3a9-281/FT1086A/BRT-lotado-medidas-restritivas-Rio-covid-19-2.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-07 09:03:00
 pub_date: 2019-08-07 09:03:00
 time_added: 2019-08-10 21:09:07
-category: 
+categories: []
 tags: []
 image: https://imgsapp2.correiobraziliense.com.br/app/noticia_127983242361/2019/08/07/775868/20190807014534970122o.jpg
 ---

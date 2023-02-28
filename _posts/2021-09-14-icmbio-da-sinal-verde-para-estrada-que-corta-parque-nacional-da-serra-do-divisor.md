@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-14 21:43:32
 pub_date: 2021-09-14 21:43:32
 time_added: 2021-09-26 05:22:41
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/09/Oeco2_PARNA-Serra-do-Divisor_Marllus-de-Almeida-Wkps.jpg
 ---

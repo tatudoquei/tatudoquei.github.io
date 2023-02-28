@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-14 09:00:29
 pub_date: 2022-10-14 09:00:29
 time_added: 2022-10-16 15:20:03
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2022/10/montagem-STF-fantasmas-1.jpg?quality=70&strip=info
 ---

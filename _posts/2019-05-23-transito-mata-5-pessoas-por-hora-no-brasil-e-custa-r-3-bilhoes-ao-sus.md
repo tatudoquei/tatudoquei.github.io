@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-23 04:00:00
 pub_date: 2019-05-23 04:00:00
 time_added: 2019-12-19 07:24:35
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/d8/2018/04/20/acidente-transito-russia-1524245632253_v2_750x421.jpg
 ---

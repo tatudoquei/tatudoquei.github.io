@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-31 15:00:00
 pub_date: 2023-01-31 15:00:00
 time_added: 2023-02-06 23:18:11
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/apublica.org/wp-content/uploads/2023/01/Capa_Facebook_Generais-do-clube-militar-convocaram-bolsonaristas-aos-quarteis-antes-da-invasao-no-DF.png?fit=1200%2C630&ssl=1
 ---

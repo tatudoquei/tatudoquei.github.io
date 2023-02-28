@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-24 18:12:00
 pub_date: 2020-03-24 18:12:00
 time_added: 2020-03-25 06:43:39
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/67/2020/03/24/o-ortopedista-henrique-de-souza-rodrigues-31-foi-infectado-pelo-coronavirus-passou-seis-dias-em-uti-mas-ja-e-considerado-curado-da-doenca-1585085546796_v2_615x300.jpg
 ---

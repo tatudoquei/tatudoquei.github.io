@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-23 12:58:00
 pub_date: 2020-10-23 12:58:00
 time_added: 2020-10-24 07:34:44
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24665208-a57-de8/FT1086A/652/Flavio-Bolsonaro.jpg
 ---

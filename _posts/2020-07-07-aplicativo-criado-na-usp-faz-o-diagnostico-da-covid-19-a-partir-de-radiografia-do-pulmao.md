@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-07 20:17:10
 pub_date: 2020-07-07 20:17:10
 time_added: 2020-07-08 22:28:59
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/01/20200110_00_tuberculose_pulmao.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-05 16:28:00
 pub_date: 2021-04-05 16:28:00
 time_added: 2021-05-16 17:28:06
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f9/2020/08/07/14abr2020---equipe-medica-do-instituto-de-infectologia-emilio-ribas-recebem-paciente-de-covid-19-na-uti-1596832214810_v2_615x300.jpg
 ---

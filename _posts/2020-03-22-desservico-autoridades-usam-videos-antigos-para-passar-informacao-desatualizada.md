@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-22 14:40:37
 pub_date: 2020-03-22 14:40:37
 time_added: 2020-03-22 16:57:23
-category: 
+categories: []
 tags: []
 image: https://drauziovarella.uol.com.br/wp-content/uploads/2020/03/2020_drauzio_portal_thumb_uso_indevido_videos_antigos_coronavirus_marco.jpg
 ---

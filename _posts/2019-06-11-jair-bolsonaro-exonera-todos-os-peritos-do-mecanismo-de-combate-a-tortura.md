@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-11 17:14:14
 pub_date: 2019-06-11 17:14:14
 time_added: 2019-06-12 21:04:08
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2019/06/gettyimages-120387080.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

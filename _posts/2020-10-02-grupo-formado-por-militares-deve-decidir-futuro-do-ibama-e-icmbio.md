@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-02 18:30:26
 pub_date: 2020-10-02 18:30:26
 time_added: 2020-11-01 09:31:51
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2020/10/Oeco_Salles-Foto-Fabio-Rodrigues-Pozzebom-Agencia-Brasil.jpg
 ---

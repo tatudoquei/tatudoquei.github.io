@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-21 02:30:00
 pub_date: 2020-06-21 02:30:00
 time_added: 2020-06-22 03:40:24
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24491037-f43-2b8/FT1086A/652/88529802_Gravediggers-work-in-a-burial-of-a-person-who-died-of-unknown-reasons-during-the-outbre.jpg
 ---

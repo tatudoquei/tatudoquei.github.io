@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-06 22:25:05
 pub_date: 2020-08-06 22:25:05
 time_added: 2020-08-07 11:50:09
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/08/jair-bolsonaro-7-mai-2019-sergio-lima-1200x630.jpg
 ---

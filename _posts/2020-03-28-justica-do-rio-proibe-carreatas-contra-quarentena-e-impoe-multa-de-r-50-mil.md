@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-28 11:29:08
 pub_date: 2020-03-28 11:29:08
 time_added: 2020-03-29 08:43:53
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2020/03/carreata_280320202816.jpg
 ---

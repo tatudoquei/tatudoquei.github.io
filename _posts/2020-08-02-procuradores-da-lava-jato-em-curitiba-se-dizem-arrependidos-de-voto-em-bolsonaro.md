@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-02 04:00:00
 pub_date: 2020-08-02 04:00:00
 time_added: 2020-08-02 19:34:40
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24561914-812-b53/FT1086A/652/forca-tarefa-lava-jato-parana1.jpeg.jpg
 ---

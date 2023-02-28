@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-08 10:39:00
 pub_date: 2020-06-08 10:39:00
 time_added: 2020-06-09 06:52:32
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/3f/2020/05/25/dinheiro-coronavirus-real-covid-1590430344670_v2_750x421.jpg
 ---

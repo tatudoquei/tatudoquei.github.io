@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-10 03:00:00
 pub_date: 2020-01-10 03:00:00
 time_added: 2020-01-11 10:53:20
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://conteudo.imguol.com.br/blogs/339/files/2020/01/cientistaa-615x300.jpg
 ---

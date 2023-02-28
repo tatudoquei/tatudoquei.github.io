@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-10 15:15:00
 pub_date: 2021-03-10 15:15:00
 time_added: 2021-03-21 09:11:26
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/36/2021/03/08/25fev2021---o-ministro-da-saude-eduardo-pazuello-durante-declaracao-a-imprensa-sobre-a-falta-de-leitos-em-uti-no-pais-1615225087339_v2_615x300.jpg
 ---

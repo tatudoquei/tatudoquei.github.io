@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-08 18:26:00
 pub_date: 2019-12-08 18:26:00
 time_added: 2019-12-09 23:45:39
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2019/12/Abraham-Weintraub.jpg
 ---

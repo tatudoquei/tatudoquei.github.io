@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-29 18:02:42
 pub_date: 2020-04-29 18:02:42
 time_added: 2020-04-29 20:02:42
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Bolsonaro-e-a-suspeita-de-interfer%C3%AAncia-indevida-no-Ex%C3%A9rcito/alternates/LANDSCAPE_768/Bolsonaro%20e%20a%20suspeita%20de%20interfer%C3%AAncia%20indevida%20no%20Ex%C3%A9rcito
 ---

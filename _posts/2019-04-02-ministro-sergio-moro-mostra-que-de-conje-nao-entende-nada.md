@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-02 13:39:56
 pub_date: 2019-04-02 13:39:56
 time_added: 2019-04-02 21:36:22
-category: 
+categories: []
 tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2019/04/moro-conje.png
 ---

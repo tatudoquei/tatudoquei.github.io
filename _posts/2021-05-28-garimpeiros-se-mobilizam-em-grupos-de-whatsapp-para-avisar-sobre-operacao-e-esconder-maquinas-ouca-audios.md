@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-28 15:35:24
 pub_date: 2021-05-28 15:35:24
 time_added: 2021-05-28 17:35:24
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2020/08/munduruku_210820205020.jpg
 ---

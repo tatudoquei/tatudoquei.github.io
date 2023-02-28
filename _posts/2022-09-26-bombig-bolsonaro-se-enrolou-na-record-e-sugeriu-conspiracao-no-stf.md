@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-26 20:50:00
 pub_date: 2022-09-26 20:50:00
 time_added: 2022-10-02 23:53:33
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/34/2022/09/26/26set2022---o-presidente-jair-bolsonaro-pl-candidato-a-reeleicao-participa-de-sabatina-no-jornal-da-record-da-rede-record-1664239644045_v2_615x300.jpg
 ---

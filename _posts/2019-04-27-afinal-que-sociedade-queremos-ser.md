@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-27 13:42:00
 pub_date: 2019-04-27 13:42:00
 time_added: 2019-04-29 18:51:40
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/275/files/2019/04/sociedade-1-594x300.jpg
 ---

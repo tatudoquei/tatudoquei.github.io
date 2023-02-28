@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-03 20:37:59
 pub_date: 2019-01-03 20:37:59
 time_added: 2019-01-05 09:40:35
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://deolhonosruralistas.com.br/wp-content/uploads/2019/01/bolsonaro-quilombolas.jpg
 ---

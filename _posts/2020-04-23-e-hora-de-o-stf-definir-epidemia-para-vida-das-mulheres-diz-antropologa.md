@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-23 02:00:00
 pub_date: 2020-04-23 02:00:00
 time_added: 2020-04-24 15:00:10
-category: refletimos
+categories: [refletimos]
 tags: [saúde]
 image: https://conteudo.imguol.com.br/c/entretenimento/98/2018/08/05/debora-diniz-1533472633823_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-22 14:13:38
 pub_date: 2017-05-10 15:24:00
 time_added: 2020-01-22 14:13:38
-category: 
+categories: []
 tags: []
 image: http://conteudo.imguol.com.br/c/noticias/df/2017/05/10/o-juiz-substituto-da-10-vara-federal-criminal-do-distrito-federal-ricardo-augusto-soares-leite-1494446892920_615x300.jpg
 ---

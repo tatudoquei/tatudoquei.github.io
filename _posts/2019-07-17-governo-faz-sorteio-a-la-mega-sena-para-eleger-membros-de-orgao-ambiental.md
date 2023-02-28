@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-17 13:39:00
 pub_date: 2019-07-17 13:39:00
 time_added: 2019-08-26 06:26:05
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ec/2019/07/17/realizado-na-sede-do-ibama-com-apoio-da-caixa-economica-o-sorteio-foi-acompanhado-por-dirigentes-de-instituicoes-publicas-e-ongs-1563387100780_v2_750x421.jpg
 ---

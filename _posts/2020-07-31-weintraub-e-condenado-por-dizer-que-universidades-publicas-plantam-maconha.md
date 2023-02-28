@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-31 18:10:00
 pub_date: 2020-07-31 18:10:00
 time_added: 2020-08-01 07:03:01
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/fd/2020/06/22/11fev2020---o-entao-ministro-da-educacao-abraham-weintraub-falando-a-comissao-do-senado-sobre-problemas-na-correcao-das-provas-do-enem-1592860563916_v2_615x300.jpg
 ---

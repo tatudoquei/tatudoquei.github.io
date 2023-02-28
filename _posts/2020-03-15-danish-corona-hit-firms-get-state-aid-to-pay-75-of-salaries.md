@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-15 14:18:01
 pub_date: 2020-03-15 14:18:01
 time_added: 2020-03-18 15:46:12
-category: 
+categories: []
 tags: []
 image: https://www.euractiv.com/wp-content/uploads/sites/2/2020/03/danish-pm-800x450.jpg
 ---

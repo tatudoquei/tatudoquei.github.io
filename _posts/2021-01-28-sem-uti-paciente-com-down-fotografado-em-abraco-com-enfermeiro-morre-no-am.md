@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-28 11:32:00
 pub_date: 2021-01-28 11:32:00
 time_added: 2021-01-28 22:16:59
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/17/2021/01/24/ao-ver-o-desespero-do-paciente-emerson-junior-30-que-temia-o-uso-da-mascara-com-oxigenio-o-enfermeiro-raimundo-nogueira-matos-38-o-abracou-1611530959910_v2_615x300.jpg
 ---

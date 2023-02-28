@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-04 20:13:12
 pub_date: 2020-06-04 20:13:12
 time_added: 2020-06-04 23:23:19
-category: 
+categories: []
 tags: []
 image: https://fabiofelix.com.br/wp-content/uploads/2020/06/violencia.jpg
 ---

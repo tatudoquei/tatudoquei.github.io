@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-03 00:00:00
 pub_date: 2021-08-03 00:00:00
 time_added: 2021-08-20 21:02:42
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/44/2021/07/29/presidente-do-tse-luis-roberto-barroso-discursa-em-evento-no-acre-1627588112805_v2_615x300.png
 ---

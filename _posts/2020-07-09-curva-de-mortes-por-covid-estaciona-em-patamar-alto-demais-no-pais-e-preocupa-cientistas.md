@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-09 02:30:00
 pub_date: 2020-07-09 02:30:00
 time_added: 2020-07-10 04:02:28
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24522836-986-f1f/FT1086A/652/funeraria.jpg
 ---

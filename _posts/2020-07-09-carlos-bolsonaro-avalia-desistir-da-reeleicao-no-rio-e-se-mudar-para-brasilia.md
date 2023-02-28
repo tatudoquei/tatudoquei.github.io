@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-09 14:31:00
 pub_date: 2020-07-09 14:31:00
 time_added: 2020-07-11 07:44:29
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/99Jlr4GjpXIUmQXeoexs-GXO-Ag=/615x300/top/i.glbimg.com/og/ig/infoglobo1/f/original/2020/07/09/carlos-jair-reproducao_2UrdQME.png
 ---

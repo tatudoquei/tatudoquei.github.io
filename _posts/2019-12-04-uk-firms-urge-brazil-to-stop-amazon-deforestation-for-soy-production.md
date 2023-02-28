@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-04 17:48:04
 pub_date: 2019-12-04 17:48:04
 time_added: 2019-12-04 18:48:04
-category: 
+categories: []
 tags: []
 image: https://www.tiredearth.com/sites/default/files/4c8406ea-12c7-11ea-a7e6-62bf4f9e548a.jpg
 ---

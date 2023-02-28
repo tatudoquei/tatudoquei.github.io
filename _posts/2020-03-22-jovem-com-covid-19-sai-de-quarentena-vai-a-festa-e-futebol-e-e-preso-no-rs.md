@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-22 12:58:00
 pub_date: 2020-03-22 12:58:00
 time_added: 2020-03-22 23:28:12
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/1a/2020/03/21/virus-coronavirus-1584814589634_v2_615x300.jpg
 ---

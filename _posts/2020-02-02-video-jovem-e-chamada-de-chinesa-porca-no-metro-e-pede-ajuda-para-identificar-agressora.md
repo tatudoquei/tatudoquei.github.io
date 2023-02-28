@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-02 00:33:25
 pub_date: 2020-02-02 00:33:25
 time_added: 2020-02-02 08:40:20
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2020/02/racismo-metro.png
 ---

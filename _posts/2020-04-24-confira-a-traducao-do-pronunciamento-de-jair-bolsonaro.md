@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-24 21:58:00
 pub_date: 2020-04-24 21:58:00
 time_added: 2020-04-25 06:23:40
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://renatoterra.blogfolha.uol.com.br/files/2020/04/pronunciamento-moro-queiroz.png
 ---

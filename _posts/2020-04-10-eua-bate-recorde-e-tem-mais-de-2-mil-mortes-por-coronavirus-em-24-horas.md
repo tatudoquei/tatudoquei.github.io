@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-10 20:28:00
 pub_date: 2020-04-10 20:28:00
 time_added: 2020-04-11 06:39:47
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/7b/2020/03/25/times-square-esvaziada-em-nova-york-nos-eua-durante-a-pandemia-de-coronavirus-1585176397950_v2_750x421.jpg
 ---

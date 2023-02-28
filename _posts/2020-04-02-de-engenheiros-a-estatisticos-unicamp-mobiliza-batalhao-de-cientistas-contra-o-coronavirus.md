@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-02 22:00:00
 pub_date: 2020-04-02 22:00:00
 time_added: 2020-04-03 12:55:06
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/C8B8/production/_111548315_20190525_1-4_upa-2019-drone_alex_284929.jpg
 ---

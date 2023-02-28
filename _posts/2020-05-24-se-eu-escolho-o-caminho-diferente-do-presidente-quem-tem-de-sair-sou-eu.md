@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-24 17:44:00
 pub_date: 2020-05-24 17:44:00
 time_added: 2020-05-25 08:12:20
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c0/2020/05/19/houve-pressao-por-parte-de-bolsonaro-para-que-brasil-autorizasse-uso-da-cloroquina-em-pacientes-com-coronavirus-no-brasil-mas-ex-ministro-nelson-teich-afirmou-que-medicamento-era-uma-incerteza-1589896013069_v2_615x300.jpg
 ---

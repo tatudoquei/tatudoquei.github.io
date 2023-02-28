@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-21 19:39:00
 pub_date: 2020-03-21 19:39:00
 time_added: 2020-03-22 08:20:24
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/da/2020/03/21/bolsonaro-e-alvo-de-panelacos-em-sao-paulo-1584834863896_v2_615x300.jpg
 ---

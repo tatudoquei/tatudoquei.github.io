@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-25 20:26:15
 pub_date: 2019-09-25 20:26:15
 time_added: 2019-10-12 08:10:08
-category: 
+categories: []
 tags: []
 image: https://video-images.vice.com/articles/5d8bc6dd9efced000809cb8c/lede/1569443083739-bolsonaro-plankton.png?crop=1xw:1xh;center,center&resize=1200:*
 ---

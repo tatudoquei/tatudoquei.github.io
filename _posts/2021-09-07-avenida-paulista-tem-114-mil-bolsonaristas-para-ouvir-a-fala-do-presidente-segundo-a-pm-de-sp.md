@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-07 18:17:00
 pub_date: 2021-09-07 18:17:00
 time_added: 2021-09-25 17:58:25
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/RvgssDNeRkKvapqI74v-7WorwQE=/621x372/i.glbimg.com/og/ig/infoglobo1/f/original/2021/09/07/paulista.png
 ---

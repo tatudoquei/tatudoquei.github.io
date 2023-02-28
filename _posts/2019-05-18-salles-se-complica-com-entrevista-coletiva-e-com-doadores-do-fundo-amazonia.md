@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-18 17:13:32
 pub_date: 2019-05-18 17:13:32
 time_added: 2019-05-22 19:40:50
-category: 
+categories: []
 tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2019/05/Ricardo-Salles_Pallemberg-Aquino.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-24 23:00:00
 pub_date: 2020-01-24 23:00:00
 time_added: 2020-01-25 10:55:08
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Ind%C3%ADgena-Yanomami-em-Roraima/alternates/LANDSCAPE_768/Ind%C3%ADgena%20Yanomami%2C%20em%20Roraima
 ---

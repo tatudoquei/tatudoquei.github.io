@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-07 10:00:00
 pub_date: 2020-02-07 10:00:00
 time_added: 2020-02-07 20:09:02
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/10/2018/09/21/cartao-de-credito-cartao-dolar-cambio-cotacoes-1537541587313_v2_615x300.jpg
 ---

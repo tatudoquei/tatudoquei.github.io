@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-23 15:45:00
 pub_date: 2020-03-23 15:45:00
 time_added: 2020-03-27 12:24:53
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/16/2020/03/23/19mar2020---catadora-de-lixo-foi-internada-na-upa-da-cdd-em-estado-grave-com-suspeita-de-coronavirus-mas-caso-nao-foi-registrado-1584989198202_v2_615x300.jpg
 ---

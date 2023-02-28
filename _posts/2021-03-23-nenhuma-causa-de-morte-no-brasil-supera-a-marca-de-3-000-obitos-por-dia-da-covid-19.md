@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-23 23:19:00
 pub_date: 2021-03-23 23:19:00
 time_added: 2021-03-27 18:56:02
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24937214-7fe-76e/FT1086A/92077306_SO-Ribeirao-PretoSP18-03-2021Ribeirao-Preto-e-uma-das-cidades-do-Estado-mais-afe.jpg
 ---

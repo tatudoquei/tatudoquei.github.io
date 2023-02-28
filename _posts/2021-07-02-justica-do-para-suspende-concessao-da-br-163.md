@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-02 22:44:57
 pub_date: 2021-07-02 22:44:57
 time_added: 2021-07-03 23:27:47
-category: 
+categories: []
 tags: []
 image: https://amazoniareal.com.br/wp-content/uploads/2020/08/PROTESTO_BR163_FOTO-LUCAS-LANDAU-INSTITUTO-KABU-2.jpg
 ---

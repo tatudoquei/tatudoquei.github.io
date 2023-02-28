@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-15 08:34:12
 pub_date: 2020-02-15 08:34:12
 time_added: 2020-02-15 09:34:12
-category: 
+categories: []
 tags: []
 image: https://media.gazetadopovo.com.br/2020/02/14084006/000_1OW2EJ-crop-20200214113942-660x372.jpg
 ---

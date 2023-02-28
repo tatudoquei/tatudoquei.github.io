@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-15 10:00:46
 pub_date: 2019-03-15 10:00:46
 time_added: 2019-03-18 22:37:54
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/03/pg40-1.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

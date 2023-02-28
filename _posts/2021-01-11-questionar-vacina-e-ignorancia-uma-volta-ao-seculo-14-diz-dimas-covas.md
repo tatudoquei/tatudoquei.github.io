@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-11 15:05:00
 pub_date: 2021-01-11 15:05:00
 time_added: 2021-01-12 13:04:57
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/22/2020/10/28/dimas-covas-diretor-do-instituto-butantan-em-coletiva-no-palacio-dos-bandeirantes-23102020-1603929886325_v2_615x300.jpg
 ---

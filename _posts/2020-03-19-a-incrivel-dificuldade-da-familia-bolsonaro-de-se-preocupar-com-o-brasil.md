@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-19 18:01:00
 pub_date: 2020-03-19 18:01:00
 time_added: 2020-03-20 21:33:00
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a4/2020/02/27/jair-bolsonaro-acompanhado-dos-filhos-flavio-eduardo-e-carlos-1582792891395_v2_615x300.jpg
 ---

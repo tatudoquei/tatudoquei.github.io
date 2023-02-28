@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-24 21:08:34
 pub_date: 2021-01-24 21:08:34
 time_added: 2021-01-25 21:35:03
-category: 
+categories: []
 tags: []
 image: https://img.estadao.com.br/resources/jpg/2/6/1610828101862.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-28 00:00:00
 pub_date: 2019-07-28 00:00:00
 time_added: 2019-07-28 21:38:05
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/pnTQKPgxopdMz4GBc1vDwGecwUI=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/06/14/83115894_correction_-_justice_minister_sergio_moro_speaks_during_a_press_conference_after_the_openin.jpg
 ---

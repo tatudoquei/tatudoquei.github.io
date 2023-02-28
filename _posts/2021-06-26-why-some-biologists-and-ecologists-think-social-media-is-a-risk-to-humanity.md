@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-26 12:00:00
 pub_date: 2021-06-26 12:00:00
 time_added: 2021-07-01 05:54:22
-category: 
+categories: []
 tags: []
 image: https://cdn.vox-cdn.com/thumbor/ScDCkbUYm8Ln4PkSsXOH7UfbGDk=/0x75:3840x2085/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22682222/GettyImages_1304845476.jpg
 ---

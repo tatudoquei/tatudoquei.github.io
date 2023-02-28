@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-01 03:34:32
 pub_date: 2020-04-01 03:34:32
 time_added: 2020-04-01 05:34:32
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/03/entrevista-rafa-redes.jpg
 ---

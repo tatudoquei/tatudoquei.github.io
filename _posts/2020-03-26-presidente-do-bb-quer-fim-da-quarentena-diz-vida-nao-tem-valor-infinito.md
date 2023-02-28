@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-26 06:28:00
 pub_date: 2020-03-26 06:28:00
 time_added: 2020-03-29 13:40:50
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/9c/2020/03/26/rubem-novaes-presidente-do-banco-do-brasil-cumprimenta-paulo-guedes-1585218316491_v2_615x300.jpg
 ---

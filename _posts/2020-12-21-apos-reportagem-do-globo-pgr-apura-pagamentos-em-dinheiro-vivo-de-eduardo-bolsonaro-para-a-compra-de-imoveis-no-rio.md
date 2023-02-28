@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-21 20:42:00
 pub_date: 2020-12-21 20:42:00
 time_added: 2020-12-22 22:04:03
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24781537-518-447/FT1086A/652/x85899410_BSBBrasiliaBrasil27-11-2019Deputado-Eduardo-Bolsonaro-preside-a-Comissao-de.jpg.pagespeed.ic.0htjzkfufD.jpg
 ---

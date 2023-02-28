@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-02 08:45:20
 pub_date: 2019-08-02 08:45:20
 time_added: 2019-08-05 22:36:31
-category: 
+categories: []
 tags: []
 image: https://meiahora.ig.com.br/_midias/jpg/2019/08/02/77-12398804.jpg
 ---

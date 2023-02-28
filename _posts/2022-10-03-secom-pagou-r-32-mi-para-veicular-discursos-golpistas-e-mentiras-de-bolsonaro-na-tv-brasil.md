@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-03 04:20:42
 pub_date: 2022-10-03 04:20:42
 time_added: 2022-10-03 00:20:42
-category: 
+categories: []
 tags: []
 image: https://static.aosfatos.org/media/images/entries/28_09_2022_gastos_secom_desinformacao_bolsonaro_capa.jpg.570x384_q85_box-18,0,5257,3529_crop_upscale.jpg
 ---

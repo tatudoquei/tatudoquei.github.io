@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-31 10:04:00
 pub_date: 2022-10-31 10:04:00
 time_added: 2022-10-31 15:19:02
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/20/2022/10/26/26out2022---o-presidente-jair-bolsonaro-pl-durante-coletiva-de-imprensa-no-palacio-da-alvorada-em-brasilia-1666828012416_v2_615x300.jpg
 ---

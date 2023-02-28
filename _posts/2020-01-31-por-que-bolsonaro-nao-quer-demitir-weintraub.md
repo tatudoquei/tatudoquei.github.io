@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-31 16:48:06
 pub_date: 2020-01-31 16:48:06
 time_added: 2020-02-06 20:56:05
-category: 
+categories: []
 tags: []
 image: https://revistacult.uol.com.br/home/wp-content/uploads/2020/01/mcmgo_abr_070520194065df.jpg
 ---

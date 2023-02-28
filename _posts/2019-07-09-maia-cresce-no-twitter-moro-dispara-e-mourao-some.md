@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-09 11:46:00
 pub_date: 2019-07-09 11:46:00
 time_added: 2019-07-09 18:22:30
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/07/twitter_redes_09072019.jpg
 ---

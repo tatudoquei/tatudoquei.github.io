@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-02 21:44:49
 pub_date: 2022-09-02 21:44:49
 time_added: 2022-09-03 16:52:34
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/oeco.org.br/wp-content/uploads/2022/09/incendio-unesp.png?fit=1920%2C1242&ssl=1
 ---

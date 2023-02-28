@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-29 16:51:37
 pub_date: 2019-04-29 16:51:37
 time_added: 2019-04-29 18:51:37
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/03/151_questoesbrasileiras_redes.jpg
 ---

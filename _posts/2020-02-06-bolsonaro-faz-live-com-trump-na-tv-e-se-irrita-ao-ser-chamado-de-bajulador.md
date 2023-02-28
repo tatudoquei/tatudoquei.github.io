@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-06 15:04:00
 pub_date: 2020-02-06 15:04:00
 time_added: 2020-02-06 23:13:11
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/08/2020/02/06/bolsonaro-apareceu-ao-vivo-assistindo-a-tv-durante-o-discurso-de-donald-trump-1581016323350_v2_615x300.jpg
 ---

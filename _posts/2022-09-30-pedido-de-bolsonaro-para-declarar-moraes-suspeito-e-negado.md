@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-30 22:08:00
 pub_date: 2022-09-30 22:08:00
 time_added: 2022-10-01 08:20:28
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/lewandowski-2/alternates/LANDSCAPE_768/lewandowski%202
 ---

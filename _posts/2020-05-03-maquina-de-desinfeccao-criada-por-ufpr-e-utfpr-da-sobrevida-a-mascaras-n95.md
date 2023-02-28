@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-03 13:00:02
 pub_date: 2020-05-03 13:00:02
 time_added: 2020-05-03 15:00:02
-category: 
+categories: []
 tags: []
 image: https://media.gazetadopovo.com.br/2020/04/29184715/ufpr-corona-660x372.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-21 12:51:00
 pub_date: 2021-07-21 12:51:00
 time_added: 2021-11-13 12:34:08
-category: 
+categories: []
 tags: []
 image: https://midias.correiobraziliense.com.br/_midias/jpg/2021/07/21/675x450/1_manuela-6768223.jpg
 ---

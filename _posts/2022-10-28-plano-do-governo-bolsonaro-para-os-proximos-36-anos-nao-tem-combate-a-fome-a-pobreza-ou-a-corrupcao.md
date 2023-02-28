@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-28 19:08:20
 pub_date: 2022-10-28 19:08:20
 time_added: 2022-10-28 21:08:20
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2022/10/breno_redes.jpg
 ---

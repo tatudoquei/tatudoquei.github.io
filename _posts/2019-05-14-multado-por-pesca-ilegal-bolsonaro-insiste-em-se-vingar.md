@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-14 05:00:00
 pub_date: 2019-05-14 05:00:00
 time_added: 2019-05-14 16:24:06
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/yTRK6NS45jt1kLYtVPU8HAsb4-s=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/05/13/80569847_a_superintendencia_do_ibama_no_rio_anulou_uma_multa_ambiental_de_r_10_mil_que_havia_sido_ap.jpg
 ---

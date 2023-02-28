@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-12 16:17:24
 pub_date: 2019-04-12 16:17:24
 time_added: 2019-04-15 06:13:58
-category: 
+categories: []
 tags: []
 image: https://thenypost.files.wordpress.com/2019/04/de-blasio-nyc-495-copy.jpg?quality=90&strip=all&w=1200
 ---

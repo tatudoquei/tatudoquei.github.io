@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-02 21:08:56
 pub_date: 2020-12-02 21:08:56
 time_added: 2020-12-07 00:01:36
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2020/12/02122020-reportagem-financiada.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-19 05:18:00
 pub_date: 2020-04-19 05:18:00
 time_added: 2020-04-19 18:40:44
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/5d/2020/04/02/caixao-de-vitima-da-covid-19-e-enterrado-por-funcionarios-do-cemiterio-da-vila-formosa-em-sao-paulo-1585836943235_v2_615x300.jpg
 ---

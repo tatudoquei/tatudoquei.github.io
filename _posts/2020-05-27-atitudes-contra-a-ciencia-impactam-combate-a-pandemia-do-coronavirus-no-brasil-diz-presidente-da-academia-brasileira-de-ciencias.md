@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-27 17:31:47
 pub_date: 2020-05-27 17:31:47
 time_added: 2020-05-27 19:09:41
-category: 
+categories: []
 tags: []
 image: https://sciam.uol.com.br/wp-content/uploads/2020/05/1-1.jpg
 ---

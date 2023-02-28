@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-21 10:41:58
 pub_date: 2020-10-21 10:41:58
 time_added: 2020-10-21 13:58:55
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/10/bolsonaro-mao-queixo-1200x630.jpg
 ---

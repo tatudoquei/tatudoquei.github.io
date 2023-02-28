@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-13 01:14:44
 pub_date: 2021-11-13 01:14:44
 time_added: 2021-11-12 22:14:44
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/bolsonaro-guedes/alternates/LANDSCAPE_768/bolsonaro-guedes
 ---

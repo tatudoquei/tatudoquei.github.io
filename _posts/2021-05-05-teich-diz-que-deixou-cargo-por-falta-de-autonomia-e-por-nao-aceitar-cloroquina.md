@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-05 14:25:49
 pub_date: 2021-05-05 14:25:49
 time_added: 2021-07-04 12:44:46
-category: 
+categories: []
 tags: []
 image: https://www12.senado.leg.br/noticias/materias/2021/05/05/teich-diz-que-deixou-cargo-por-falta-de-autonomia-e-por-nao-aceitar-cloroquina/20210505_00505jr.jpg
 ---

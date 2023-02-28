@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-26 11:07:00
 pub_date: 2020-02-26 11:07:00
 time_added: 2020-02-26 17:25:54
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/57/2020/02/26/jair-bolsonaro-1582724007845_v2_615x300.jpg
 ---

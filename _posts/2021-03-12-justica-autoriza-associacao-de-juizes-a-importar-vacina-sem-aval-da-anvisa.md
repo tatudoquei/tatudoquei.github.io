@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-12 11:09:17
 pub_date: 2021-03-12 11:09:17
 time_added: 2021-03-22 20:42:04
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/03/covid-vacina-868x644-1-868x630.jpeg
 ---

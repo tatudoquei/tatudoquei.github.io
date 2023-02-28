@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-11 04:34:00
 pub_date: 2020-12-11 04:34:00
 time_added: 2020-12-11 07:41:29
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/3d/2020/12/11/porchat-entrevista-silvero-pereira-preta-gil-e-welder-rodrigues-no-programa-exibido-nesta-quinta-na-globo-1607662381140_v2_615x300.jpg
 ---

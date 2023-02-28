@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-27 10:20:00
 pub_date: 2020-03-27 10:20:00
 time_added: 2020-03-28 09:06:11
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/bd/2020/03/27/pastor-e-musico-landon-spradlin-uma-das-primeiras-vitimas-do-coronavirus-nos-eua-1585318514130_v2_615x300.jpg
 ---

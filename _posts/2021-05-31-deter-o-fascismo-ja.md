@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-31 16:50:30
 pub_date: 2021-05-31 16:50:30
 time_added: 2021-06-20 12:40:53
-category: 
+categories: []
 tags: []
 image: https://revistacult.uol.com.br/home/wp-content/uploads/2021/05/29m2021.png
 ---

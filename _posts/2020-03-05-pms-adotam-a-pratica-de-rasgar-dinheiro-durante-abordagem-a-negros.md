@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-05 21:27:17
 pub_date: 2020-03-05 21:27:17
 time_added: 2020-03-05 22:45:34
-category: 
+categories: []
 tags: []
 image: https://ponte.org/wp-content/uploads/2020/03/dinheiro-rasgado.jpg
 ---

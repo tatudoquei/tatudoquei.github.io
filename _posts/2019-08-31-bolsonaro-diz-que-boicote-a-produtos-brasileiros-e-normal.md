@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-31 16:32:14
 pub_date: 2019-08-31 16:32:14
 time_added: 2019-09-02 21:55:26
-category: 
+categories: []
 tags: []
 image: https://img.estadao.com.br/resources/jpg/6/0/1567173678806.jpg
 ---

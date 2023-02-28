@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-19 02:02:49
 pub_date: 2021-02-19 02:02:49
 time_added: 2021-02-18 23:02:49
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/daniel-silveira-camara-luis-macedo.jpg/alternates/LANDSCAPE_768/daniel-silveira-camara-luis-macedo.jpg
 ---

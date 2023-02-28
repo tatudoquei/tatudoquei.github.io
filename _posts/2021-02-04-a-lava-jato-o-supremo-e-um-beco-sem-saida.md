@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-04 08:51:00
 pub_date: 2021-02-04 08:51:00
 time_added: 2021-02-06 12:14:40
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2021/02/moro-redes.jpg
 ---

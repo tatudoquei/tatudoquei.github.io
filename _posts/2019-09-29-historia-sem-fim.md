@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-29 12:34:13
 pub_date: 2019-09-29 12:34:13
 time_added: 2019-09-29 09:34:13
-category: 
+categories: []
 tags: []
 image: https://revistatrip.uol.com.br/upload/2019/08/5d5c47649a18e/1837x657x1200x630x318x13/ezgifcom-optimize-3.gif
 ---

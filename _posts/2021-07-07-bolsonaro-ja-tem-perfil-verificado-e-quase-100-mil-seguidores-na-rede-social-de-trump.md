@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-07 17:08:31
 pub_date: 2021-07-07 17:08:31
 time_added: 2021-07-24 08:26:46
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/07/facebook-bolsonaro-ja-tem-perfil-verificado-e-quase-100-mil-seguidores-na-rede-social-de-trump.png
 ---

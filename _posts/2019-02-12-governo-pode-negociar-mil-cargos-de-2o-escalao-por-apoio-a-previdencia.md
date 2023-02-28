@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-12 21:58:10
 pub_date: 2019-02-12 21:58:10
 time_added: 2019-02-16 00:48:51
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://abrilexame.files.wordpress.com/2018/04/fhc-1-e1523468491607.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

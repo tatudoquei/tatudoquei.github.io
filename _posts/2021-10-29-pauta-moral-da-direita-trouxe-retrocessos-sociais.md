@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-29 18:28:26
 pub_date: 2021-10-29 18:28:26
 time_added: 2021-10-30 21:01:46
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-29-at-15.22.39.jpeg
 ---

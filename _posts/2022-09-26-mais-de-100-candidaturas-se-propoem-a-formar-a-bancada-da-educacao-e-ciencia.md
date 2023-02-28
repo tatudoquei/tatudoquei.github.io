@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-26 09:25:52
 pub_date: 2022-09-26 09:25:52
 time_added: 2022-10-02 23:29:59
-category: 
+categories: []
 tags: []
 image: https://www.redebrasilatual.com.br/wp-content/uploads/2022/09/ciencia.jpg
 ---

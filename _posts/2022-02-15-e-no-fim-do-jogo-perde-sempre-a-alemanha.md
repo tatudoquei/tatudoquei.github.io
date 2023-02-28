@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-02-15 12:25:24
 pub_date: 2022-02-15 12:25:24
 time_added: 2022-02-17 20:12:52
-category: 
+categories: []
 tags: []
 image: https://expresso.pt/wp-content/uploads/2022/01/Francisco-Louca_opiniao.jpg
 ---

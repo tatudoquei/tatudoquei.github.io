@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-24 11:22:44
 pub_date: 2021-06-24 11:22:44
 time_added: 2021-07-24 08:11:38
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/06/Foto-Fernando-Augusto-Ibama-espigao.jpg
 ---

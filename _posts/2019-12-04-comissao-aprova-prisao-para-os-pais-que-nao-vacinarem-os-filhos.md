@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-04 16:21:59
 pub_date: 2019-12-04 16:21:59
 time_added: 2020-02-03 23:05:34
-category: 
+categories: []
 tags: []
 image: https://paisefilhos.uol.com.br/wp-content/uploads/2019/03/vacina-3-1024x683.jpg
 ---

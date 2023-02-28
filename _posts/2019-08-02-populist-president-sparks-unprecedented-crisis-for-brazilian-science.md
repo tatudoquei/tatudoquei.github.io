@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-02 22:00:00
 pub_date: 2019-08-02 22:00:00
 time_added: 2019-08-04 15:58:23
-category: 
+categories: []
 tags: []
 image: https://static.scientificamerican.com/sciam/cache/file/EF8EFB7A-EC0F-4EBE-8D5AD363253F4773.jpg
 ---

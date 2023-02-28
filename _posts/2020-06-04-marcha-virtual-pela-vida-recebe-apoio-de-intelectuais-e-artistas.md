@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-04 14:41:12
 pub_date: 2020-06-04 14:41:12
 time_added: 2020-06-05 07:27:12
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2020/06/duvivier2.png
 ---

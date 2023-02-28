@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-27 13:45:17
 pub_date: 2020-03-27 13:45:17
 time_added: 2020-03-27 14:45:17
-category: 
+categories: []
 tags: []
 image: https://ufrj.br/sites/default/files/img-noticia/2020/03/artur_moes_-_240320-04.jpg
 ---

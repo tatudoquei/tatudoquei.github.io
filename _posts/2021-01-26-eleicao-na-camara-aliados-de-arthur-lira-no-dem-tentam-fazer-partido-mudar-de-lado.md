@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-26 02:30:00
 pub_date: 2021-01-26 02:30:00
 time_added: 2021-01-26 19:36:15
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24854897-05c-a37/FT1086A/652/Arthur-Lira.jpeg.jpg
 ---

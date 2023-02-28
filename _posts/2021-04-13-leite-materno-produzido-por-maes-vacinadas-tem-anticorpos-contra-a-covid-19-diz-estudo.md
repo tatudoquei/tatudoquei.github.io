@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-13 10:20:00
 pub_date: 2021-04-13 10:20:00
 time_added: 2021-05-16 20:19:26
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24968593-40e-5b6/FT1086A/bebe.jpg
 ---

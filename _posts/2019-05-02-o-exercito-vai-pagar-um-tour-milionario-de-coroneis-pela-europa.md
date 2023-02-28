@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-02 06:02:00
 pub_date: 2019-05-02 06:02:00
 time_added: 2019-05-02 21:30:33
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/04/Militares-Ferias-Arte-redes-1556655409.jpg
 ---

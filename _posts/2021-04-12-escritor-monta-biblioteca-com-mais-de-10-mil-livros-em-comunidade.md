@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-12 04:00:00
 pub_date: 2021-04-12 04:00:00
 time_added: 2021-05-16 18:26:09
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/08/2021/04/08/no-rio-de-janeiro-escritor-constroi-biblioteca-com-mais-de-10-mil-livros-em-comunidade-1617935481858_v2_615x300.png
 ---

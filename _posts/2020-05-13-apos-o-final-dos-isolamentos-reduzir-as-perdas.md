@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-13 19:08:31
 pub_date: 2020-05-13 19:08:31
 time_added: 2020-05-13 21:08:31
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/05/20200512_otaviano-aAugusto-Helene.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-29 15:28:09
 pub_date: 2021-06-29 15:28:09
 time_added: 2021-07-24 08:15:41
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/06/eletrobras.jpg
 ---

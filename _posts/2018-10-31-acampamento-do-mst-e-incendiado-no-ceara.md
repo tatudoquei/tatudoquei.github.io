@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-10-31 13:39:22
 pub_date: 2018-10-31 13:39:22
 time_added: 2019-12-23 21:19:30
-category: avisamos
+categories: [avisamos]
 tags: []
 image: http://farm2.staticflickr.com/1949/45649409401_234cef2c70_b.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-06 14:06:09
 pub_date: 2020-09-06 14:06:09
 time_added: 2020-09-06 16:06:09
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2020/09/168_questoesdemocraticas_redes.jpg
 ---

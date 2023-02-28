@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-09 06:45:00
 pub_date: 2019-06-09 06:45:00
 time_added: 2019-06-11 05:47:51
-category: 
+categories: []
 tags: []
 image: https://i.glbimg.com/og/ig/infoglobo1/f/original/blog/image_share/bernardo-mello-franco.jpg
 ---

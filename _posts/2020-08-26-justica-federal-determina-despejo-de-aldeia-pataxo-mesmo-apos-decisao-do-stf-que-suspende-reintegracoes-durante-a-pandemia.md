@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-26 12:21:40
 pub_date: 2020-08-26 12:21:40
 time_added: 2020-08-26 22:36:15
-category: 
+categories: []
 tags: []
 image: https://cimi.org.br/wp-content/uploads/2019/10/D72A4133-tiago-miotto-cimi.jpg
 ---

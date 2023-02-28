@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-21 04:27:00
 pub_date: 2020-01-21 04:27:00
 time_added: 2021-11-13 12:36:50
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/01/vjlt-r-1583873144.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-19 08:59:00
 pub_date: 2021-04-19 08:59:00
 time_added: 2021-05-16 20:44:38
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24947196-3c9-631/FT1086A/92238677_O-Governador-do-Estado-de-Sao-Paulo-Joao-Doria-visita-o-Instituto-Butantan-para-liberac.jpg
 ---

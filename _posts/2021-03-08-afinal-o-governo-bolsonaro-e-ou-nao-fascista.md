@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-08 23:08:19
 pub_date: 2021-03-08 23:08:19
 time_added: 2021-03-09 00:08:19
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Bolsonaro-em-coletiva-em-Bras%C3%ADlia/alternates/LANDSCAPE_768/Bolsonaro%20em%20coletiva%20em%20Bras%C3%ADlia
 ---

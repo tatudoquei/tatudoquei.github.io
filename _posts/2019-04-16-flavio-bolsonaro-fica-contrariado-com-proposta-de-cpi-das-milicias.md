@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-16 15:53:23
 pub_date: 2019-04-16 15:53:23
 time_added: 2019-04-19 07:39:57
-category: 
+categories: []
 tags: []
 image: https://www.valor.com.br/sites/default/files/imagecache/media_library_big_horizontal/gn/19/01/foto22pol-101-atleta-a10.jpg
 ---

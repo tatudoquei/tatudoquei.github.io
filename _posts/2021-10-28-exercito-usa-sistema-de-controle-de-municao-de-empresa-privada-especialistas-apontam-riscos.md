@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-28 10:56:53
 pub_date: 2021-10-28 10:56:53
 time_added: 2022-12-03 22:22:48
-category: 
+categories: []
 tags: []
 image: https://congressoemfoco.uol.com.br/wp-content/uploads/2021/10/municao.png
 ---

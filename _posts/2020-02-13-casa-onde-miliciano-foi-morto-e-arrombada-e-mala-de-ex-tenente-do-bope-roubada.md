@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-13 20:00:00
 pub_date: 2020-02-13 20:00:00
 time_added: 2020-02-15 09:24:53
-category: 
+categories: []
 tags: []
 image: https://correio-cdn2.cworks.cloud/fileadmin/user_upload/correio24horas/2020/02/13/1302esplanada.jpg
 ---

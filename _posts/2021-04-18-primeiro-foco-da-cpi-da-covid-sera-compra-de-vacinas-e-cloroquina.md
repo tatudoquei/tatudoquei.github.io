@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-18 02:30:00
 pub_date: 2021-04-18 02:30:00
 time_added: 2021-05-16 20:35:54
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24976622-50d-9a3/FT1086A/87560824_PA-Brasilia-BSB-18-03-2020Usando-uma-mascara-durante-entrevista-coletiva-no-Palacio.jpg
 ---

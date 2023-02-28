@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-25 18:24:14
 pub_date: 2021-06-25 18:24:14
 time_added: 2021-07-04 12:37:14
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/06/WilsonWitzel-RioDeJaneiro-CPI-Pandemia-Covid19-Senado-RenanCalheiros-FlavioBolsonaro-25-1200x630.jpg
 ---

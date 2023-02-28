@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-27 21:16:45
 pub_date: 2023-01-27 21:16:45
 time_added: 2023-01-28 07:45:02
-category: 
+categories: []
 tags: []
 image: https://oeco.org.br/wp-content/uploads/2023/01/bolsonaroedamaris.jpeg
 ---

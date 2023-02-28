@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-19 05:03:00
 pub_date: 2020-04-19 05:03:00
 time_added: 2020-04-19 16:35:22
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/81/2020/04/17/hospital-penteado-1587143284818_v2_615x300.jpg
 ---

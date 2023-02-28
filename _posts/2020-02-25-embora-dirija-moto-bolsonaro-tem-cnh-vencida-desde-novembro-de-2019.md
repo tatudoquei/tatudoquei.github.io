@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-25 18:49:00
 pub_date: 2020-02-25 18:49:00
 time_added: 2020-02-27 02:13:29
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/07/2020/02/24/bolsonaro-anda-de-moto-com-capacete-solto-no-guaruja-1582585420688_v2_615x300.jpg
 ---

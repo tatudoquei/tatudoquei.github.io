@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-02 17:22:40
 pub_date: 2021-07-02 17:22:40
 time_added: 2021-07-04 12:48:58
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/07/facebook-governo-paga-r-13-milhao-por-mes-a-herdeiras-de-militares-acusados-de-crimes-na-ditadura.png
 ---

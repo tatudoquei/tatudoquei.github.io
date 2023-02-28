@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-15 03:00:00
 pub_date: 2021-03-15 03:00:00
 time_added: 2021-03-15 20:00:42
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/2c/2021/03/05/presidente-jair-bolsonaro-1614963600705_v2_615x300.jpg
 ---

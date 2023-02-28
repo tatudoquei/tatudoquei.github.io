@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-05 18:01:54
 pub_date: 2021-06-05 18:01:54
 time_added: 2021-06-06 06:49:26
-category: 
+categories: []
 tags: []
 image: https://blogs.correiobraziliense.com.br/vicente/wp-content/uploads/sites/16/2019/03/Bolsonaro2.jpg
 ---

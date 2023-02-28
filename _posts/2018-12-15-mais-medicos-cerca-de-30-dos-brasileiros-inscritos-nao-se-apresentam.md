@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-15 12:35:46
 pub_date: 2018-12-15 12:35:46
 time_added: 2018-12-17 23:42:21
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://abrilveja.files.wordpress.com/2018/11/brasil-mais-medicos-20150319-004.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

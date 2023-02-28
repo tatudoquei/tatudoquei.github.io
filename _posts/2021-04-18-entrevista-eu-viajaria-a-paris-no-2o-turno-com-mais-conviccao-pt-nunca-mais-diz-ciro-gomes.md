@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-18 02:30:00
 pub_date: 2021-04-18 02:30:00
 time_added: 2021-05-16 20:36:27
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24976677-7a6-f9d/FT1086A/78823990_PA-Rio-de-Janeiro-RJ-12-09-2018-Eleicoes-2018Sabatina-com-o-candidato-do-PDT-Ciro-Go.jpg
 ---

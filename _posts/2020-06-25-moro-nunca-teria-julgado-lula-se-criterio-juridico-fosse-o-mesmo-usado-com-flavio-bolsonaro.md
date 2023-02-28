@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-25 16:17:00
 pub_date: 2020-06-25 16:17:00
 time_added: 2020-06-26 12:43:47
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/2Nomhmb4jgKomvzN_u0XKoQTWdM=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2017/05/10/lula3.jpg
 ---

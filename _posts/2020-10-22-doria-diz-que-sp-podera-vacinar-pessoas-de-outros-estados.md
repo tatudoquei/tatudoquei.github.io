@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-22 10:18:01
 pub_date: 2020-10-22 10:18:01
 time_added: 2020-10-22 20:01:47
-category: 
+categories: []
 tags: []
 image: https://odia.ig.com.br/_midias/jpg/2018/11/26/_26_11_2018__joao_doria_26112018__eduardo_carmim__photo_premium__32256_-8774697.jpg
 ---

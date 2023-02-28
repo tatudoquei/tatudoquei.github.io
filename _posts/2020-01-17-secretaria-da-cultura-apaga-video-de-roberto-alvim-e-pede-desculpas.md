@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-17 15:14:00
 pub_date: 2020-01-17 15:14:00
 time_added: 2020-01-17 20:37:12
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/0b/2020/01/17/roberto-alvim-em-pronunciamento-com-plagio-de-joseph-goebbels-1579268264985_v2_615x300.jpg
 ---

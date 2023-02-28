@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-18 04:01:00
 pub_date: 2020-02-18 04:01:00
 time_added: 2020-02-26 00:51:13
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/02/moro-ibama-icmbio-redes-1581965622.jpg
 ---

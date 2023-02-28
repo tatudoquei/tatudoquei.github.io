@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-27 22:10:32
 pub_date: 2014-03-07 23:00:00
 time_added: 2019-03-27 22:10:32
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/2013/10/09/1968---as-atrizes-eva-todor-tonia-carrero-eva-wilma-leila-diniz-odete-lara-e-norma-bengell-em-1968-durante-a-passeata-dos-cem-mil-em-protesto-contra-a-ditadura-militar-no-brasil-no-rio-de-janeiro-1381319233039_615x300.jpg
 ---

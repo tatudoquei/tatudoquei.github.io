@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-02 14:01:00
 pub_date: 2023-01-02 14:01:00
 time_added: 2023-01-06 23:28:08
-category: 
+categories: []
 tags: []
 image: https://theintercept.imgix.net/wp-uploads/sites/1/2023/01/posse_Lula_Bras%C3%ADlia-e1672619429127.jpeg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800
 ---

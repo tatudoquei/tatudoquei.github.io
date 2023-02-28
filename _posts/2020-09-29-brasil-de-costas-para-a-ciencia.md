@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-29 09:01:00
 pub_date: 2020-09-29 09:01:00
 time_added: 2020-10-01 03:41:18
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2020/09/ciencia_redes.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-23 07:10:25
 pub_date: 2019-11-23 07:10:25
 time_added: 2019-11-23 08:10:25
-category: 
+categories: []
 tags: []
 image: http://boletim.sbq.org.br/images/BE2.gif
 ---

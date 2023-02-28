@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-02 09:00:00
 pub_date: 2022-12-02 09:00:00
 time_added: 2022-12-03 22:25:26
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/65/2022/01/14/pobreza-ribeirao-preto-sp-fome-1642182274093_v2_615x300.jpg
 ---

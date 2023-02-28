@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-10-29 13:53:00
 pub_date: 2018-10-29 13:53:00
 time_added: 2019-04-12 21:43:36
-category: 
+categories: []
 tags: []
 image: https://cdn.theatlantic.com/assets/media/img/mt/2018/10/RTX6GXKW/facebook.jpg?1540819839
 ---

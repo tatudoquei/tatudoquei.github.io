@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-23 19:24:00
 pub_date: 2020-12-23 19:24:00
 time_added: 2020-12-23 22:08:51
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b6/2020/12/21/luiz-fux-1608538461523_v2_615x300.jpg
 ---

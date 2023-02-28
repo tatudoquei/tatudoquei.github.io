@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-09 08:00:33
 pub_date: 2021-10-09 08:00:33
 time_added: 2021-10-11 07:13:32
-category: refletimos
+categories: [refletimos]
 tags: [ciência]
 image: https://img.estadao.com.br/resources/jpg/3/3/1614310453533.jpg
 ---

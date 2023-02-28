@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-03 23:24:09
 pub_date: 2021-08-03 23:24:09
 time_added: 2021-08-20 21:09:41
-category: 
+categories: []
 tags: []
 image: https://cdn.revistaforum.com.br/wp-content/uploads/2021/08/grilagem.jpg
 ---

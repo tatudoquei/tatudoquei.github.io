@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-29 14:37:00
 pub_date: 2020-11-29 14:37:00
 time_added: 2020-11-29 21:06:48
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/6e/2020/11/29/29nov2020---presidente-jair-bolsonaro-sem-partido-fala-com-jornalistas-em-seu-local-de-votacao-no-rio-de-janeiro-1606664164832_v2_615x300.jpg
 ---

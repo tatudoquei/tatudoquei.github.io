@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-16 22:21:46
 pub_date: 2020-07-16 22:21:46
 time_added: 2020-07-17 07:49:26
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/07/fiocruz_karla_tauil_home.jpg
 ---

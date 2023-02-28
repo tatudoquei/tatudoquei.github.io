@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-06 14:22:00
 pub_date: 2021-04-06 14:22:00
 time_added: 2021-05-16 17:33:44
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/45/2021/03/11/2fev2021---foto-ilustrativa-da-vacina-contra-a-covid-19-sputnik-v-desenvolvida-pelo-instituto-gamaleya-russia-1615506215191_v2_615x300.jpg
 ---

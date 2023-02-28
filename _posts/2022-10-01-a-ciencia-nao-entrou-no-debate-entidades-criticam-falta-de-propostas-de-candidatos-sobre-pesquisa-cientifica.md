@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-01 22:30:31
 pub_date: 2022-10-01 22:30:31
 time_added: 2022-10-01 22:56:47
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/9788/production/_126829783_cientificamente_oficina-csi_020-16_foto-ceclia-bastos-66-812x540.jpg
 ---

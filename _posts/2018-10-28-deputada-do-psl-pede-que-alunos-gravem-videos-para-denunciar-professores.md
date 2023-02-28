@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-10-28 23:49:00
 pub_date: 2018-10-28 23:49:00
 time_added: 2019-12-23 21:19:29
-category: avisamos
+categories: [avisamos]
 tags: []
 image: http://conteudo.imguol.com.br/c/noticias/dc/2017/03/30/a-professora-de-historia-ana-caroline-campagnolo-26-anos-1490912839636_615x300.jpg
 ---

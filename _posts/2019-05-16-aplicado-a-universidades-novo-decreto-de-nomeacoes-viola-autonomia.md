@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-16 21:05:42
 pub_date: 2019-05-16 21:05:42
 time_added: 2019-05-17 06:39:16
-category: 
+categories: []
 tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2019/05/BOLSONARO.jpg
 ---

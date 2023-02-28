@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-21 14:25:00
 pub_date: 2021-09-21 14:25:00
 time_added: 2021-09-25 17:19:32
-category: 
+categories: []
 tags: []
 image: https://linhadefrente.blogfolha.uol.com.br/files/2021/09/Marcelo-Queiroga.jpg
 ---

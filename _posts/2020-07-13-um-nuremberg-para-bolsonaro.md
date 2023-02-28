@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-13 17:30:38
 pub_date: 2020-07-13 17:30:38
 time_added: 2020-07-14 20:08:38
-category: 
+categories: []
 tags: []
 image: https://revistacult.uol.com.br/home/wp-content/uploads/2020/07/nurembergcapq088292qewq_widelg.jpg
 ---

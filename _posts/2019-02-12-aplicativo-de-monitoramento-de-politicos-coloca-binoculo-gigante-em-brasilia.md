@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-12 12:24:16
 pub_date: 2019-02-12 12:24:16
 time_added: 2019-12-23 21:19:31
-category: resistimos
+categories: [resistimos]
 tags: []
 image: https://static.poder360.com.br/2019/02/Binoculo-Esplanada-DeOlhoNoCongresso-101-2-1200x630.jpg
 ---

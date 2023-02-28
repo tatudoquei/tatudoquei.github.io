@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-12 20:32:37
 pub_date: 2021-07-12 20:32:37
 time_added: 2021-08-08 06:41:59
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/07/facebook-arthur-lira.png
 ---

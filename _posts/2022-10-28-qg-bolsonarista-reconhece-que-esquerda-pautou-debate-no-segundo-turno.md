@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-28 19:18:49
 pub_date: 2022-10-28 19:18:49
 time_added: 2022-10-28 21:18:49
-category: 
+categories: []
 tags: []
 image: https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/10/BR_CNN_261022_AGENDA_BOLSONARO_frame_797-e1666799127911.jpeg
 ---

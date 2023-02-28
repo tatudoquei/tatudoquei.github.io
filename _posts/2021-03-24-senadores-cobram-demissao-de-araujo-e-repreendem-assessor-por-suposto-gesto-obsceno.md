@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-24 22:22:52
 pub_date: 2021-03-24 22:22:52
 time_added: 2021-03-25 20:23:16
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/HvAKI7PoyjGX53Avq4ZasYmfwMY=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2021/O/B/RQlRTJSby4mYiUFco0gg/sem-titulo.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-27 11:14:00
 pub_date: 2020-11-27 11:14:00
 time_added: 2020-11-28 02:54:56
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/25/2019/11/21/jair-bolsonaro-e-o-filho-jair-renan-bolsonaro-1574364721179_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-11 16:26:00
 pub_date: 2020-04-11 16:26:00
 time_added: 2020-04-12 19:39:30
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24362249-5aa-d9f/FT1086A/652/87800248_RI-Rio-de-Janeiro-RJ-09-04-2020Pandemia-de-coronaviruscalcada-cheia-na-rua-Siqueira-C.jpg
 ---

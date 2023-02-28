@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-06 22:00:00
 pub_date: 2019-08-06 22:00:00
 time_added: 2019-08-08 05:44:01
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/CECE/production/_108124925_marcelo-xavier_promo.jpg
 ---

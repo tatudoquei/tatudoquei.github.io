@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-10 14:36:30
 pub_date: 2019-01-10 14:36:30
 time_added: 2019-03-24 07:09:50
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://abrilexame.files.wordpress.com/2018/12/bolsopartidosaaaa.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

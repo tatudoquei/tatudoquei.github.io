@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-20 12:40:00
 pub_date: 2020-03-20 12:40:00
 time_added: 2020-03-21 12:25:59
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24317392-365-b65/FT1086A/652/HEALTH-CORONAVIRUS_RITES-GF34HBB53.1.jpg
 ---

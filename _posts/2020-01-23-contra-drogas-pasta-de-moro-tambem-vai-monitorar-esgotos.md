@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-23 04:00:32
 pub_date: 2020-01-23 04:00:32
 time_added: 2020-01-24 07:46:41
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/coluna-do-estadao/wp-content/uploads/sites/352/2020/01/MORO-LEI-1.jpg
 ---

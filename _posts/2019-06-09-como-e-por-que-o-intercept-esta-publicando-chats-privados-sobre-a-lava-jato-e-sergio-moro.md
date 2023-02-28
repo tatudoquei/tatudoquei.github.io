@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-09 18:57:00
 pub_date: 2019-06-09 18:57:00
 time_added: 2019-06-09 21:57:11
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/06/editorial_redes-1560104243.jpg
 ---

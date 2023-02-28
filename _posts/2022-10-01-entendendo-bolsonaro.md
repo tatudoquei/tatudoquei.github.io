@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-01 16:28:00
 pub_date: 2022-10-01 16:28:00
 time_added: 2022-10-14 21:28:00
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/99/2022/09/22/o-candidato-a-governador-de-sao-paulo-tarcisio-de-freitas-republicanos-1663874721884_v2_615x300.jpg
 ---

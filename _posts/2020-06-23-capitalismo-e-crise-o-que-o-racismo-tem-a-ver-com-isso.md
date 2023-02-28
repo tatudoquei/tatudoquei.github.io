@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-23 16:15:40
 pub_date: 2020-06-23 16:15:40
 time_added: 2020-06-24 05:28:03
-category: 
+categories: []
 tags: []
 image: https://boitempoeditorial.files.wordpress.com/2020/06/silvio_almeida-17848817_blog.png?w=1200
 ---

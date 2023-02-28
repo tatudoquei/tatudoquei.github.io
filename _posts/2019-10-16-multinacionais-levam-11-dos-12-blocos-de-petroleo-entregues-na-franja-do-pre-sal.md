@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-16 18:14:18
 pub_date: 2019-10-16 18:14:18
 time_added: 2019-10-16 20:14:18
-category: 
+categories: []
 tags: []
 image: https://www.fup.org.br/media/k2/items/cache/a067d45c44f229e97de9986a9e0fc815_M.jpg?t=1570746917
 ---

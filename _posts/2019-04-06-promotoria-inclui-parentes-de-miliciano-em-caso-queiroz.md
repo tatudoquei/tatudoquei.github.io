@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-06 03:00:50
 pub_date: 2019-04-06 03:00:50
 time_added: 2019-04-07 06:22:16
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2019/04/FLAVIO-BOLSONARO-484x350.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-15 11:36:00
 pub_date: 2020-04-15 11:36:00
 time_added: 2020-04-15 22:36:55
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/92/2020/04/15/uol-debate---combate-ao-coronavirus-deve-se-basear-em-ciencia-nao-politica-1586966918384_v2_615x300.jpg
 ---

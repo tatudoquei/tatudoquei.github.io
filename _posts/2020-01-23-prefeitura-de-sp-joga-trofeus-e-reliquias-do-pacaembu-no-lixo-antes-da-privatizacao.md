@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-23 13:16:41
 pub_date: 2020-01-23 13:16:41
 time_added: 2020-01-24 08:11:34
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2020/01/edu-simoes-pacaembu-trofeus-no-lixo-e1579785219998.jpg
 ---

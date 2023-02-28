@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-29 15:00:00
 pub_date: 2022-10-29 15:00:00
 time_added: 2022-10-29 22:09:14
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2022/10/Capa_Facebook_Bolsonaro-destinou-zero-reais-a-pequenos-e-medios-agricultores-no-ultimo-ano-1.png
 ---

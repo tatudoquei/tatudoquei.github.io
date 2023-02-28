@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-05-26 04:24:00
 pub_date: 2022-05-26 04:24:00
 time_added: 2022-06-08 14:09:48
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/62/2022/05/26/homem-em-camara-de-gas-da-prf-em-sergipe-1653556910622_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-23 22:34:00
 pub_date: 2019-04-23 22:34:00
 time_added: 2019-04-24 22:28:21
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/49/2019/04/23/23abr2019---comissao-de-constituicao-e-justica-da-camara-dos-deputados-debate-reforma-da-previdencia-1556053611801_v2_615x300.jpg
 ---

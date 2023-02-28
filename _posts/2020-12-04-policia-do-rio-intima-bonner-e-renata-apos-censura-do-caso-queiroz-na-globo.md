@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-04 16:16:00
 pub_date: 2020-12-04 16:16:00
 time_added: 2020-12-04 20:25:09
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/esporte/58/2020/07/28/william-bonner-e-renata-vasconcellos-1595980683205_v2_615x300.jpg
 ---

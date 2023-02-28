@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-05 22:04:00
 pub_date: 2021-02-05 22:04:00
 time_added: 2021-05-29 21:12:19
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/apublica.org/impeachment-bolsonaro/wp-content/uploads/sites/38/2021/02/fabiorodriguespozzebomagencia-brasil.png?fit=1920%2C1080&ssl=1
 ---

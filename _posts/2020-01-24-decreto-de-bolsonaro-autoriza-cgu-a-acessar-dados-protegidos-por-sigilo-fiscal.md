@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-24 14:55:00
 pub_date: 2020-01-24 14:55:00
 time_added: 2020-01-25 11:00:16
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/89/2015/08/24/edificio-da-cgu-controladoria-geral-da-uniao-na-asa-sul-de-brasilia-1440430582217_750x421.jpg
 ---

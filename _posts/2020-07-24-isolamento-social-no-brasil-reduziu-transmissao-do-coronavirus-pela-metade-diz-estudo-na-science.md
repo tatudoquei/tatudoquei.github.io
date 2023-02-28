@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-24 21:45:56
 pub_date: 2020-07-24 21:45:56
 time_added: 2020-07-27 19:59:29
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/07/20200724_00_campanha-isolamento.jpg
 ---

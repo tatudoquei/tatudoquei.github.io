@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-27 19:21:05
 pub_date: 2022-12-27 19:21:05
 time_added: 2023-01-06 23:19:15
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/4559/production/_128135771_bolsonaro123.jpg
 ---

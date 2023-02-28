@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-25 21:21:41
 pub_date: 2021-02-25 21:21:41
 time_added: 2021-03-04 21:11:51
-category: 
+categories: []
 tags: []
 image: https://outraspalavras.net/wp-content/uploads/2021/02/Capa111.png
 ---

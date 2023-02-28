@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-26 13:46:44
 pub_date: 2019-02-26 13:46:44
 time_added: 2019-02-27 11:35:12
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://static.poder360.com.br/2019/02/Bolsonaro-CCBB-1200x630.jpg
 ---

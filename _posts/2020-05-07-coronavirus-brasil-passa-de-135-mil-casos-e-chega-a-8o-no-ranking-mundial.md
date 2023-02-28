@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-07 17:00:00
 pub_date: 2020-05-07 17:00:00
 time_added: 2020-05-08 12:05:43
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a0/2020/04/23/profissionais-de-saude-que-usam-mascaras-protetoras-seguram-flores-na-frente-de-cruzes-em-homenagem-a-colega-de-trabalho-maria-dos-santos-uma-enfermeira-que-morreu-da-doenca-por-coronavirus-em-meio-ao-1587693929784_v2_615x300.jpg
 ---

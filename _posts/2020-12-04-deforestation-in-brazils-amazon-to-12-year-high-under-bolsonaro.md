@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-04 15:40:02
 pub_date: 2020-12-04 15:40:02
 time_added: 2020-12-04 12:40:02
-category: 
+categories: []
 tags: []
 image: https://www.aljazeera.com/wp-content/uploads/2020/11/AP_20228726943013.jpg?resize=1200%2C630
 ---

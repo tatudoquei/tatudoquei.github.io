@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-26 23:04:13
 pub_date: 2016-04-09 00:50:50
 time_added: 2019-05-26 23:04:13
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2016/09/size_960_16_9_renato-bolsonaro.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

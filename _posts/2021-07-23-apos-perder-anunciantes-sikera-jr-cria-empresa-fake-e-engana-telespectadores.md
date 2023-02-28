@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-23 00:49:00
 pub_date: 2021-07-23 00:49:00
 time_added: 2021-07-25 17:04:01
-category: 
+categories: []
 tags: []
 image: https://noticiasdatv.uol.com.br/media/uploads/artigos_2021/sikera-jr-oticas-tambaqui-reproducao-redetv.jpg
 ---

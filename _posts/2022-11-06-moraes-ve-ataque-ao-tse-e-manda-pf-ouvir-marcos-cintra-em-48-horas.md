@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-06 17:57:00
 pub_date: 2022-11-06 17:57:00
 time_added: 2022-11-07 07:14:14
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f6/2022/10/29/20092022---alexandre-de-moraes-participa-de-reuniao-com-o-conselho-nacional-de-chefes-de-polacia-civil-no-tse-foto-gabriela-bilo-folhapress-politica-1667088217488_v2_615x300.jpg
 ---

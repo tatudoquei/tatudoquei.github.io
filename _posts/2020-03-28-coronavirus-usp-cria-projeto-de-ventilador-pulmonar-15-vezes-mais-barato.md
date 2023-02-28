@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-28 10:30:00
 pub_date: 2020-03-28 10:30:00
 time_added: 2020-03-30 22:08:00
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ff/2020/03/28/respirador-pulmonar-para-auxiliar-doentes-de-covid-19-doenca-provocada-pelo-coronavirus-1585405730962_v2_615x300.jpg
 ---

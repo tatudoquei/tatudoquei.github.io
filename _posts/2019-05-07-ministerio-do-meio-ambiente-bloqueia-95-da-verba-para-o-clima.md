@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-07 02:30:00
 pub_date: 2019-05-07 02:30:00
 time_added: 2019-08-26 06:34:32
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/sociedade/23646508-ce2-7df/FT1086A/652/82144498_BSBBrasiliaBrasil10-04-2019PARicardo-Salles-ministro-do-Meio-Ambiente-fa.jpg
 ---

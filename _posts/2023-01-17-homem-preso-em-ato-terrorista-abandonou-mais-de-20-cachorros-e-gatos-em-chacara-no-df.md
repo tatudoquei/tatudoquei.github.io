@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-17 19:33:00
 pub_date: 2023-01-17 19:33:00
 time_added: 2023-01-21 10:10:44
-category: 
+categories: []
 tags: []
 image: https://estaticos.globoradio.globo.com/fotos/2023/01/8a98219c-cad5-4065-83f0-3238962f9bf6.jfif.640x360_q75_box-0%2C299%2C900%2C806_crop_detail.jpg
 ---

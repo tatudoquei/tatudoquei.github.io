@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-18 11:00:38
 pub_date: 2019-05-18 11:00:38
 time_added: 2019-05-26 23:05:51
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2019/04/bolsonaro100dias.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

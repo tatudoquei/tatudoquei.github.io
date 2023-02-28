@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-06 19:00:22
 pub_date: 2020-09-06 19:00:22
 time_added: 2020-09-06 21:00:22
-category: 
+categories: []
 tags: []
 image: https://www.socioambiental.org/sites/blog.socioambiental.org/files/styles/twitter-card/public/nsa/rs28714_funai_brumadinho_ii.jpg?itok=STj4rr6A
 ---

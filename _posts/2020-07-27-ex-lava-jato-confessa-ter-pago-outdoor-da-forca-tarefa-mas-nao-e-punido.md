@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-27 02:05:00
 pub_date: 2020-07-27 02:05:00
 time_added: 2020-07-27 21:02:49
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/4f/2019/09/25/outdoor-da-lava-jato-em-curitiba-pr-1569436520230_v2_615x300.jpg
 ---

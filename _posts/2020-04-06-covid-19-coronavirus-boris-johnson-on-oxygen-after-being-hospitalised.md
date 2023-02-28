@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-06 13:14:41
 pub_date: 2020-04-06 13:14:41
 time_added: 2020-04-06 15:14:41
-category: 
+categories: []
 tags: []
 image: https://www.nzherald.co.nz/resizer/Cu0YVvaDaRxAlXQyEAElfa0F5Ec=/1200x0/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/EGXTLHSSVBHQ3FJH2MNP2HPVIM.jpg
 ---

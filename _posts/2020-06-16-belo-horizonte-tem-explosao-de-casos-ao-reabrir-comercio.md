@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-16 20:06:10
 pub_date: 2020-06-16 20:06:10
 time_added: 2020-06-17 06:42:58
-category: 
+categories: []
 tags: []
 image: https://odia.ig.com.br/_midias/jpg/2020/06/15/700x470/1_coronavirus-17713743.jpg
 ---

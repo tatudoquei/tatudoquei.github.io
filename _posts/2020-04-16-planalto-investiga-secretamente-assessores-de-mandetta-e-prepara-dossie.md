@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-16 12:00:31
 pub_date: 2020-04-16 12:00:31
 time_added: 2020-04-16 19:13:21
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2020/04/2020-04-14t205551z_825944313_rc2k4g9fn3db_rtrmadp_3_health-coronavirus-brazil.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

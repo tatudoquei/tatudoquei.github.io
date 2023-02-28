@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-10 08:00:01
 pub_date: 2019-05-10 08:00:01
 time_added: 2019-05-11 02:34:32
-category: 
+categories: []
 tags: []
 image: https://www.valor.com.br/sites/default/files/imagecache/media_library_big_horizontal/gn/19/05/foto10esp-101-cata-a14.jpg
 ---

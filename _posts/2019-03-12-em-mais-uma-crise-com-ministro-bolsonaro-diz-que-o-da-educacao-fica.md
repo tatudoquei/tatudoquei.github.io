@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-12 17:30:00
 pub_date: 2019-03-12 17:30:00
 time_added: 2019-03-18 19:41:49
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://img.huffingtonpost.com/asset/5c88159520000043046edbf4.jpeg?cache=UnCnEYwThz&ops=1200_630
 ---

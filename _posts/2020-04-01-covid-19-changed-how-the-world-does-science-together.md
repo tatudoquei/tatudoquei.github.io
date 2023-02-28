@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-01 09:00:28
 pub_date: 2020-04-01 09:00:28
 time_added: 2020-04-05 12:15:05
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/03/31/world/00virus-scientists1/00virus-scientists1-facebookJumbo-v2.jpg
 ---

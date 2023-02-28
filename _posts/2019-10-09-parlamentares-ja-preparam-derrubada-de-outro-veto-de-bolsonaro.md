@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-09 07:57:38
 pub_date: 2019-10-09 07:57:38
 time_added: 2019-10-10 01:43:11
-category: 
+categories: []
 tags: []
 image: https://brpolitico.com.br/wp-content/uploads/sites/683/2019/10/jair-bolsonaro-1.jpg
 ---

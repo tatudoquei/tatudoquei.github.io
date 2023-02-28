@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-24 16:38:00
 pub_date: 2021-06-24 16:38:00
 time_added: 2021-07-04 12:36:15
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c0/2021/06/24/o-indigena-sapara-alcebias-mota-constantino-da-terra-indigena-raposaserra-do-sol-e-socorrido-apos-ser-atingido-pela-pm-na-frente-do-anexo-ii-da-camara-dos-deputados-em-22-de-junho-de-2021-1624558978333_v2_615x300.jpg
 ---

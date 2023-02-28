@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-18 19:29:40
 pub_date: 2020-03-18 19:29:40
 time_added: 2020-03-22 17:46:08
-category: 
+categories: []
 tags: []
 image: https://www12.senado.leg.br/noticias/materias/2020/03/18/senadores-propoem-usar-dinheiro-do-fundo-eleitoral-no-combate-ao-coronavirus/46101073624_01b6c87d6b_k-1.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-28 20:58:00
 pub_date: 2021-12-28 20:58:00
 time_added: 2022-01-08 12:58:54
-category: 
+categories: []
 tags: []
 image: https://i.em.com.br/gVWaI_VtixpSR9KJRy04QrSUzT8=/600x315/smart/imgsapp.em.com.br/app/noticia_127983242361/2021/12/28/1334139/bolsonaro-anda-de-jet-com-laura-bolsonaro_1_115333.jpg
 ---

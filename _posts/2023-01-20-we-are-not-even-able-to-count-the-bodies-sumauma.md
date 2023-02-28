@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-20 10:31:22
 pub_date: 2023-01-20 10:31:22
 time_added: 2023-01-21 10:19:59
-category: 
+categories: []
 tags: []
 image: https://sumauma.com/wp-content/uploads/2023/01/20230119_saude_yanomami_08.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-24 07:15:00
 pub_date: 2019-01-24 07:15:00
 time_added: 2019-12-23 21:41:25
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23397104-ce3-8cd/FT1086A/652/AleEFlavio.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-16 15:00:19
 pub_date: 2021-05-16 15:00:19
 time_added: 2021-05-16 17:00:19
-category: 
+categories: []
 tags: []
 image: https://www.canalmeio.com.br/wp-content/themes/meio/img_cover.php?id=Quando+a+PM+tomou+o+poder
 ---

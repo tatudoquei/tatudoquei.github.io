@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-03 00:38:30
 pub_date: 2019-04-03 00:38:30
 time_added: 2019-04-03 20:19:39
-category: 
+categories: []
 tags: []
 image: https://blogdacidadania.com.br/wp-content/uploads/2019/04/lava-jato.jpg
 ---

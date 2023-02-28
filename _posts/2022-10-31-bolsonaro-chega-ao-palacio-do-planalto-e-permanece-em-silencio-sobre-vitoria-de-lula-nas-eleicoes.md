@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-31 13:05:08
 pub_date: 2022-10-31 13:05:08
 time_added: 2022-10-31 15:19:11
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/DOxoP_R6uScRwHX_Bc3_1QmTFyM=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/A/7/UME9FZRZiwK4XpboJnLA/100786112-mariz-pa-brasilia-10-10-2022-jair-bolsonaro-palacio-do-alvorada-eleicoes-2022-candid.jpg
 ---

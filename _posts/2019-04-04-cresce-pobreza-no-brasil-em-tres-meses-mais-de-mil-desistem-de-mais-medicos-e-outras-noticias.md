@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-04 22:00:00
 pub_date: 2019-04-04 22:00:00
 time_added: 2019-04-09 19:18:33
-category: 
+categories: []
 tags: []
 image: https://media.licdn.com/dms/image/C4E12AQEmK2iY2gfM7w/article-cover_image-shrink_720_1280/0?e=1559779200&v=beta&t=rSXfNizGaK7wtlm7LqulWX_fGzfCPZ3GueiBRrvnXhQ
 ---

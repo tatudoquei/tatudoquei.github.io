@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-09 12:30:21
 pub_date: 2021-04-09 12:30:21
 time_added: 2021-04-09 20:24:55
-category: 
+categories: []
 tags: []
 image: https://cdn-istoe-ssl.akamaized.net/wp-content/uploads/sites/14/2021/04/54.jpg
 ---

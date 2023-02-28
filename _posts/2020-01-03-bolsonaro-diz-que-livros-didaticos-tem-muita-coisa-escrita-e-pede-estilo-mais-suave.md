@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-03 19:02:49
 pub_date: 2020-01-03 19:02:49
 time_added: 2020-01-04 19:08:16
-category: avisamos
+categories: [avisamos]
 tags: [educação]
 image: https://img.estadao.com.br/resources/jpg/9/1/1578077888319.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-26 15:05:51
 pub_date: 2019-09-26 15:05:51
 time_added: 2019-09-28 06:25:05
-category: 
+categories: []
 tags: []
 image: http://climainfo.org.br/wp-content/uploads/2019/09/Greta.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-30 21:35:35
 pub_date: 2019-08-30 21:35:35
 time_added: 2019-08-30 23:35:35
-category: 
+categories: []
 tags: []
 image: https://outraspalavras.net/wp-content/uploads/2019/08/1300x0_1453231287_2039242307.jpeg
 ---

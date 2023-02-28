@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-06 18:06:51
 pub_date: 2021-01-06 18:06:51
 time_added: 2021-01-06 15:06:51
-category: 
+categories: []
 tags: []
 image: https://s3.amazonaws.com/appforest_uf/f1609815483971x118117465133087400/destaque%20site%20%281%29.png
 ---

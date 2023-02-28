@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-07 03:18:33
 pub_date: 2019-03-07 03:18:33
 time_added: 2019-12-23 21:19:32
-category: resistimos
+categories: [resistimos]
 tags: []
 image: https://ep00.epimg.net/brasil/imagenes/2019/03/06/politica/1551902790_097820_1551906489_rrss_normal.jpg
 ---

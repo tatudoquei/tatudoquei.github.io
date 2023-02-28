@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-17 05:11:37
 pub_date: 2020-09-17 05:11:37
 time_added: 2020-09-21 07:11:00
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/09/20200917_00_usp_unesp_unicamp.jpg
 ---

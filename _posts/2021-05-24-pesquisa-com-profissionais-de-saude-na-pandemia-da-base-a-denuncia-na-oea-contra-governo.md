@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-24 10:34:06
 pub_date: 2021-05-24 10:34:06
 time_added: 2021-05-29 21:16:56
-category: 
+categories: []
 tags: []
 image: https://abori.com.br/wp-content/uploads/2020/11/jc-gellidon-UIp163xCV6w-unsplash-scaled.jpg
 ---

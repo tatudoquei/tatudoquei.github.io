@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-24 19:55:00
 pub_date: 2021-03-24 19:55:00
 time_added: 2021-03-27 19:04:36
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/eb/2021/03/16/16mar2021---marcelo-queiroga-indicado-para-o-ministerio-da-saude-e-atual-presidente-da-sociedade-brasileira-de-cardiologia-1615921746669_v2_615x300.jpg
 ---

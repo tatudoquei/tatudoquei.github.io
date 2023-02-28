@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-24 07:40:34
 pub_date: 2017-03-17 15:34:38
 time_added: 2019-03-24 07:40:34
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://www.ptnacamara.org.br/images/IMG-2017/robinsonalmeida-GB.jpg
 ---

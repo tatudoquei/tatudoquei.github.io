@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-14 21:29:00
 pub_date: 2021-04-14 21:29:00
 time_added: 2021-05-16 20:43:39
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24968153-866-e0a/FT1086A/O-presidente-Jair-BolsonaroAdriano-MachadoReuters.jpg
 ---

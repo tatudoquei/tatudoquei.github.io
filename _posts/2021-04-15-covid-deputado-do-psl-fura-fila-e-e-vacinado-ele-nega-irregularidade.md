@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-15 16:04:00
 pub_date: 2021-04-15 16:04:00
 time_added: 2021-04-15 22:21:41
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/40/2021/04/15/o-deputado-estadual-professor-irineu-psl-1618517502192_v2_900x506.jpg?
 ---

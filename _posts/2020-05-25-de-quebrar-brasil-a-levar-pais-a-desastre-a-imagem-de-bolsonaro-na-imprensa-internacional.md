@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-25 13:40:00
 pub_date: 2020-05-25 13:40:00
 time_added: 2020-05-26 08:26:18
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2b/2020/05/25/veiculos-internacionais-publicaram-textos-com-duras-criticas-a-resposta-do-presidente-jair-bolsonaro-a-crise-gerada-pelo-coronavirus-1590431722440_v2_615x300.jpg
 ---

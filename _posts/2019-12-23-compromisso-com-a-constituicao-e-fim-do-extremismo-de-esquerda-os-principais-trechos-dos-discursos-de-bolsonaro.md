@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-23 21:19:29
 pub_date: 2018-10-27 22:00:00
 time_added: 2019-12-23 21:19:29
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/63FC/production/_104069552_discurso.jpg
 ---

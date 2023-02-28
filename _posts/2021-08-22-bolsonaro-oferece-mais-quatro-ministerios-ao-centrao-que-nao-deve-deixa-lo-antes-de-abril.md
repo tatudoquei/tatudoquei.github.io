@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-22 08:40:00
 pub_date: 2021-08-22 08:40:00
 time_added: 2021-09-06 08:18:08
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/1q4igMFaEsLX_pGaxpuTuMMyzSA=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2021/08/20/ciro-bolsonaro.jpg
 ---

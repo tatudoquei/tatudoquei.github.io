@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-30 16:07:00
 pub_date: 2022-10-30 16:07:00
 time_added: 2022-10-30 20:46:58
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/7e/2022/10/30/motoristas-aguardam-em-rodovia-enquanto-prf-faz-operacao-relatos-de-impedimento-para-votacao-se-espalham-pelas-redes-1667156580400_v2_615x300.png
 ---

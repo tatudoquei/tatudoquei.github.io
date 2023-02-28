@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-30 11:29:00
 pub_date: 2022-10-30 11:29:00
 time_added: 2022-10-31 00:24:45
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c7/2022/10/30/video-divulgado-nas-redes-sociais-fez-com-que-tse-intimasse-o-diretor-geral-da-policia-rodoviaria-federal-a-explicar-razoes-das-acoes-com-urgencia-1667143731386_v2_615x300.jpg
 ---

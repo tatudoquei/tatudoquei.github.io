@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-31 10:54:00
 pub_date: 2021-03-31 10:54:00
 time_added: 2021-05-16 16:59:05
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b0/2021/03/26/jair-bolsonaro-usa-mascara-1616759616440_v2_615x300.png
 ---

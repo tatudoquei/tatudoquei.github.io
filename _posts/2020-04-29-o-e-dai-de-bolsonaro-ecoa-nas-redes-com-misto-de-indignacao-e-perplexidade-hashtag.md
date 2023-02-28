@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-29 10:39:00
 pub_date: 2020-04-29 10:39:00
 time_added: 2020-04-29 20:02:59
-category: 
+categories: []
 tags: []
 image: https://hashtag.blogfolha.uol.com.br/files/2020/04/bolsonaro-morte.jpg
 ---

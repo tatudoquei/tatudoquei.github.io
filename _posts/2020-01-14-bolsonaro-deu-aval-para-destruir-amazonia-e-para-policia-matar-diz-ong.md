@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-14 16:00:00
 pub_date: 2020-01-14 16:00:00
 time_added: 2020-01-14 23:55:05
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/8d/2019/12/18/damares-alves-e-o-presidente-bolsonaro-durante-cerimonia-de-nomeacao-dos-ministros-de-estado-em-1o-de-janeiro-de-2019-no-palacio-do-planalto-1576662250289_v2_615x300.jpg
 ---

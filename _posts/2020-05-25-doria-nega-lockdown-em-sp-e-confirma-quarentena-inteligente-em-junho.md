@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-25 14:42:00
 pub_date: 2020-05-25 14:42:00
 time_added: 2020-05-26 06:01:55
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e2/2020/05/08/governador-joao-doria-psdb-durante-entrevista-coletiva-1588947421196_v2_615x300.jpg
 ---

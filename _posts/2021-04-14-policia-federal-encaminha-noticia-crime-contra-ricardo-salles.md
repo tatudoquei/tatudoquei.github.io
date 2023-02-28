@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-14 22:46:25
 pub_date: 2021-04-14 22:46:25
 time_added: 2021-05-29 21:17:22
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2020/10/RICARDO-SALLES-31633319767.jpg.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-04 18:18:39
 pub_date: 2020-03-04 18:18:39
 time_added: 2020-03-07 18:32:14
-category: 
+categories: []
 tags: []
 image: https://theglobepost.com/wp-content/uploads/2020/03/Brazil-Bolsonaro.jpg
 ---

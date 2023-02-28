@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-14 05:28:06
 pub_date: 2021-12-14 05:28:06
 time_added: 2021-12-24 20:08:03
-category: 
+categories: []
 tags: []
 image: https://climainfo.org.br/wp-content/uploads/2021/12/boiada-antiambiental.jpg
 ---

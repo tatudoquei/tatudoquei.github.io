@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-27 15:33:16
 pub_date: 2023-01-27 15:33:16
 time_added: 2023-01-28 07:44:05
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Invasao-do-Supremo/alternates/LANDSCAPE_768/Invasao%20do%20Supremo
 ---

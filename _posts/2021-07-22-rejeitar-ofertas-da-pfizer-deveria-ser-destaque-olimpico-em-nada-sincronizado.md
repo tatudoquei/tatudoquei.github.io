@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-22 20:00:00
 pub_date: 2021-07-22 20:00:00
 time_added: 2021-08-20 20:44:54
-category: 
+categories: []
 tags: []
 image: https://renatoterra.blogfolha.uol.com.br/files/2021/07/2021_07_22_Folha_RenatoTerra-blog-copy.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-16 22:13:27
 pub_date: 2020-04-16 22:13:27
 time_added: 2020-10-26 19:54:00
-category: 
+categories: []
 tags: []
 image: https://ponte.org/wp-content/uploads/2020/04/alfacon.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-08 02:30:00
 pub_date: 2020-07-08 02:30:00
 time_added: 2020-07-08 13:16:00
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24520936-6da-28d/FT1086A/652/88740076_Rio-de-Janeiro-RJ-07-07-2020Flexibilizacao-RioMovimentacao-no-Saara-comercio-de-lojas.jpg
 ---

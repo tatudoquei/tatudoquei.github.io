@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-19 04:09:00
 pub_date: 2019-06-19 04:09:00
 time_added: 2019-06-20 05:05:51
-category: 
+categories: []
 tags: []
 image: https://ambiencia.blogfolha.uol.com.br/files/2019/05/bolso.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-11 02:34:38
 pub_date: 2021-04-11 02:34:38
 time_added: 2021-05-16 18:23:13
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/04/Alessandro-Vieira-scaled-1-1050x630.jpg
 ---

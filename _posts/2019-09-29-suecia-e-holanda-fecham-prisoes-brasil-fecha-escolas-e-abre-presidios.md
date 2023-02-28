@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-29 11:50:11
 pub_date: 2019-09-29 11:50:11
 time_added: 2019-09-29 08:50:11
-category: 
+categories: []
 tags: []
 image: http://s3.amazonaws.com/jusbrasil-uploads/profiles/4548721/images/1390268459_standard.jpg
 ---

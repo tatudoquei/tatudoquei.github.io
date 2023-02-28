@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-10 18:33:00
 pub_date: 2020-06-10 18:33:00
 time_added: 2020-06-11 22:58:25
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/6gVtpWrQsBS_uMSART7OSWMWalA=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2020/06/09/88406095_topshot_-_a_black_lives_matter_placard_is_seen_behind_caution_tape_during_a_peaceful_pr.jpg
 ---

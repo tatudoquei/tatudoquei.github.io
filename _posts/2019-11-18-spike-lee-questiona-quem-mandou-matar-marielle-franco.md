@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-18 10:46:00
 pub_date: 2019-11-18 10:46:00
 time_added: 2019-11-18 16:42:48
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/d1/2017/08/03/um-dos-projetos-de-spike-lee-que-nao-saiu-do-papel-e-save-us-joe-louis-1501787169263_v2_615x300.jpg
 ---

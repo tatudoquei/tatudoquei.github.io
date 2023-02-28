@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-08 18:03:29
 pub_date: 2020-04-08 18:03:29
 time_added: 2020-04-08 20:03:29
-category: 
+categories: []
 tags: []
 image: https://www.socioambiental.org/sites/blog.socioambiental.org/files/styles/twitter-card/public/nsa/rs20555_encontro_das_aguas.jpg?itok=JMDFVAc0
 ---

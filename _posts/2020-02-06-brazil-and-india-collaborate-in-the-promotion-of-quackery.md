@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-06 08:08:48
 pub_date: 2020-02-06 08:08:48
 time_added: 2020-02-11 07:58:37
-category: 
+categories: []
 tags: []
 image: https://edzardernst.com/wp-content/uploads/2012/10/card-073-Edzard-Ernst.png
 ---

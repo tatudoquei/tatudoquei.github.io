@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-30 17:04:00
 pub_date: 2019-10-30 17:04:00
 time_added: 2019-10-31 08:27:55
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/10/bolso-615x300.jpeg
 ---

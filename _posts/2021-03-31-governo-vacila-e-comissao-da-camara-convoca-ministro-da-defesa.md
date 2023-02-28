@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-31 13:32:17
 pub_date: 2021-03-31 13:32:17
 time_added: 2021-05-16 16:59:02
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/12/JairBolsonaro-CombateCorrupcao-WagnerRosario-AugustoAras-BragaNetto-JoseMucio-26-1200x630.jpg
 ---

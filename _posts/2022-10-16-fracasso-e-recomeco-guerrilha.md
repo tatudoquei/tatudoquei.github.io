@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-16 14:51:33
 pub_date: 2016-09-01 22:00:00
 time_added: 2022-10-16 14:51:33
-category: 
+categories: []
 tags: []
 image: http://f.i.uol.com.br/folha/cotidiano/images/16245291.jpeg
 ---

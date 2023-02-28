@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-03 08:23:00
 pub_date: 2020-07-03 08:23:00
 time_added: 2020-07-03 14:51:37
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/72/2020/06/24/renato-feder-secretario-de-educacao-do-parana-1593008852420_v2_615x300.png
 ---

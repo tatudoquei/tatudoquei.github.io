@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-11 21:02:27
 pub_date: 2021-04-11 21:02:27
 time_added: 2021-04-12 18:35:39
-category: 
+categories: []
 tags: [meio ambiente]
 image: https://www.oeco.org.br/wp-content/uploads/2021/04/Oeco_Amazonia-dossel_Duda-Menegassi.jpeg
 ---

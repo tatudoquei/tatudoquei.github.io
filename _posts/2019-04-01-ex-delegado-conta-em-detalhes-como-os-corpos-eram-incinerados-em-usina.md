@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-01 10:00:00
 pub_date: 2019-04-01 10:00:00
 time_added: 2019-07-31 07:12:34
-category: 
+categories: []
 tags: []
 image: http://s2.glbimg.com/yGZS4xco2zX1KxNZ9aBnn9bqys0=/1200x630/s.glbimg.com/jo/g1/f/original/2014/08/19/cambaiba_claudio_guerra_12.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-02 05:02:06
 pub_date: 2018-10-28 16:46:40
 time_added: 2019-06-02 05:02:06
-category: 
+categories: []
 tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2018/10/cher-696x433.jpg
 ---

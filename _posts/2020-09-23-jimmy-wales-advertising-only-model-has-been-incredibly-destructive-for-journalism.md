@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-23 12:46:21
 pub_date: 2020-09-23 12:46:21
 time_added: 2020-09-28 06:26:40
-category: 
+categories: []
 tags: []
 image: https://www.verdict.co.uk/wp-content/uploads/2020/02/shutterstock_68995930-1024x717.jpg
 ---

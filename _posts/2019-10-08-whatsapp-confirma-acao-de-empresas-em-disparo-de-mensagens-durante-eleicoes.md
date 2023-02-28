@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-08 06:19:09
 pub_date: 2019-10-08 06:19:09
 time_added: 2020-04-27 22:01:20
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/estadao-verifica/wp-content/uploads/sites/690/2019/10/WhatsApp.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-14 22:35:30
 pub_date: 2020-05-14 22:35:30
 time_added: 2020-05-15 12:44:45
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/Nyq-uBq2KiXCwmLrDXVdLJsE4l4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/A/w/uIABATSjabkX8GPiOJ2w/casos-e-mortes-14-05.jpeg
 ---

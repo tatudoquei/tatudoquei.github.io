@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-17 17:55:52
 pub_date: 2021-10-17 17:55:52
 time_added: 2021-10-17 14:55:52
-category: 
+categories: []
 tags: []
 image: https://www.socioambiental.org/sites/blog.socioambiental.org/files/styles/twitter-card/public/nsa/rs42235_floresta-8995-scr.jpg?itok=zkalI2ST
 ---

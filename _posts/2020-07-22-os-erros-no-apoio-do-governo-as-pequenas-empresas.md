@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-22 22:00:00
 pub_date: 2020-07-22 22:00:00
 time_added: 2020-07-24 16:02:06
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Teaser-Laura-Carvalho-Colunista/alternates/LANDSCAPE_768/Teaser%20-%20Laura%20Carvalho%20-%20Colunista
 ---

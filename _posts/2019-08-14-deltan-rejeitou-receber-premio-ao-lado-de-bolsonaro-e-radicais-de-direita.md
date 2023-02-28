@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-14 02:00:00
 pub_date: 2019-08-14 02:00:00
 time_added: 2019-08-19 22:27:33
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/37/2019/08/13/conselho-nacional-do-ministerio-publico-pode-analisar-dois-casos-que-questionam-a-atuacao-de-deltan-dallagnol-1565695868728_v2_615x300.jpg
 ---

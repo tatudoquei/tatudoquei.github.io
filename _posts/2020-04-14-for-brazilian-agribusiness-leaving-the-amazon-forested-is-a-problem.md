@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-14 03:22:17
 pub_date: 2020-04-14 03:22:17
 time_added: 2021-03-27 09:01:30
-category: 
+categories: []
 tags: [meio ambiente]
 image: https://www.oeco.org.br/wp-content/uploads/2021/03/Amacro_20180910_MI_01484.jpg
 ---

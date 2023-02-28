@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-21 14:15:00
 pub_date: 2021-06-21 14:15:00
 time_added: 2021-07-04 12:09:19
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25070723-f33-a59/FT1086A/bolsonaro-pistola.png
 ---

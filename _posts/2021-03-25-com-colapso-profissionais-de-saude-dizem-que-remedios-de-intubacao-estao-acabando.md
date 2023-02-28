@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-25 21:20:01
 pub_date: 2021-03-25 21:20:01
 time_added: 2021-03-27 09:22:16
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/03/na-linha-de-frente-do-sistema-em-colapso-medicos-dizem-que-remedios-de-intubacao-estao-acabando-em-todo-o-pais.jpg
 ---

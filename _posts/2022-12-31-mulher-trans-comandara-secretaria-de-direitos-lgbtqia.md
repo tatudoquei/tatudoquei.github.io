@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-31 17:17:00
 pub_date: 2022-12-31 17:17:00
 time_added: 2023-01-01 06:54:23
-category: 
+categories: []
 tags: []
 image: https://f.i.uol.com.br/fotografia/2022/12/31/167252122163b0a605306f6_1672521221_3x2_md.jpg
 ---

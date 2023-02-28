@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-12 16:33:49
 pub_date: 2020-07-12 16:33:49
 time_added: 2020-07-12 18:33:49
-category: 
+categories: []
 tags: []
 image: https://almapreta.com/images/2020/07/brunorocha.jpg
 ---

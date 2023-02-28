@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-25 16:51:17
 pub_date: 2021-06-25 16:51:17
 time_added: 2021-07-24 08:13:48
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/06/Andressa.jpg
 ---

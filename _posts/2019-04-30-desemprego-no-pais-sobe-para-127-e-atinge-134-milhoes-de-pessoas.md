@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-30 07:12:00
 pub_date: 2019-04-30 07:12:00
 time_added: 2019-05-01 08:53:24
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2015/04/09/carteira-de-trabalho-clt-emprego-postos-de-trabalho-1428618234552_750x421.jpg
 ---

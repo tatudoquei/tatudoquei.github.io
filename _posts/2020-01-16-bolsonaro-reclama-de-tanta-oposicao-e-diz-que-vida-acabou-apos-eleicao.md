@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-16 15:38:00
 pub_date: 2020-01-16 15:38:00
 time_added: 2020-01-17 07:55:41
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/c2/2020/01/16/o-presidente-com-jovens-venezuelanos-que-visitaram-nesta-tarde-o-palacio-do-planalto-e-fizeram-uma-apresentacao-musical-1579203741298_v2_615x300.jpg
 ---

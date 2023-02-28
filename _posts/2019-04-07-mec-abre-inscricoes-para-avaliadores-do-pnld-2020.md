@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-07 06:22:40
 pub_date: 2018-06-12 22:00:00
 time_added: 2019-04-07 06:22:40
-category: 
+categories: []
 tags: []
 image: https://nova-escola-producao.s3.amazonaws.com/BKTTbrvbP7FNVUtZ577TC4rqXaGGX8BgcuWu4JdfS2TMURC24dUyCpgNp8ZN/fachada-do-ministerio-da-educacao-mec-15837724253.jpg
 ---

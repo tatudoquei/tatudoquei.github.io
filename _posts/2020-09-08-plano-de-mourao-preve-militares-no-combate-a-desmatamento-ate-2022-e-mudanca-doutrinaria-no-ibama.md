@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-08 09:32:00
 pub_date: 2020-09-08 09:32:00
 time_added: 2020-09-08 19:18:32
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24609206-5ae-289/FT1086A/652/89234561_Brasilia-DF-23-07-2020-Vice-Presidente-da-Republica-Hamilton-Mourao-no-Forum-Mundial-Am.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-03 14:56:00
 pub_date: 2019-01-03 14:56:00
 time_added: 2019-01-04 00:38:56
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23343708-bd3-7af/FT1086A/652/cadeiras.jpg
 ---

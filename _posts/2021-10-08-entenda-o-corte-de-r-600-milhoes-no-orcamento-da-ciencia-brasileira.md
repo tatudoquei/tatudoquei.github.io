@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-08 22:27:21
 pub_date: 2021-10-08 22:27:21
 time_added: 2021-10-17 14:56:19
-category: refletimos
+categories: [refletimos]
 tags: [ciência]
 image: https://super.abril.com.br/wp-content/uploads/2021/10/nota-da-mazita-sobre-corte-de-orcamento-na-ciencia-brasileira.jpg?quality=90&strip=info
 ---

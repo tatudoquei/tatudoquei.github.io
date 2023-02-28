@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-25 03:15:53
 pub_date: 2019-06-25 03:15:53
 time_added: 2019-06-25 05:15:53
-category: 
+categories: []
 tags: []
 image: https://imagem.natelinha.uol.com.br/grande/E42BFC12-5A2E-4E17-85B5-C7A805EE94E8_4779b18158fb2586b527b9bbde4590b2a260587c.jpeg
 ---

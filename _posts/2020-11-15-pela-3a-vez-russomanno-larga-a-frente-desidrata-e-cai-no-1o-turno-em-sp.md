@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-15 23:12:00
 pub_date: 2020-11-15 23:12:00
 time_added: 2020-11-16 07:52:12
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/57/2020/11/11/11-nov-2020---candidato-a-prefeitura-de-sao-paulo-celso-russomanno-republicanos-participa-de-debate-promovido-pelo-uol-e-folha-de-s-paulo-1605105831520_v2_750x421.jpg
 ---

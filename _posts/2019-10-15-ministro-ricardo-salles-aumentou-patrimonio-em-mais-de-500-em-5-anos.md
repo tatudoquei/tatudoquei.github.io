@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-15 11:09:37
 pub_date: 2019-10-15 11:09:37
 time_added: 2019-10-20 21:57:09
-category: 
+categories: []
 tags: []
 image: https://www.redebrasilatual.com.br/wp-content/uploads/2019/10/ricardo-salles.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-09 11:57:46
 pub_date: 2020-04-09 11:57:46
 time_added: 2020-04-10 05:05:57
-category: 
+categories: []
 tags: []
 image: https://www.otempo.com.br/image/contentid/policy:1.2322799:1586444119/WhatsApp%20Image%202020-04-09%20at%2011.53.35.jpeg?f=3x2&w=620&$p$f$w=7953849
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-07 18:47:00
 pub_date: 2020-02-07 18:47:00
 time_added: 2020-02-08 08:36:01
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/bf/2019/09/13/o-governador-do-rio-de-janeiro-wilson-witzel-1568408552064_v2_615x300.jpg
 ---

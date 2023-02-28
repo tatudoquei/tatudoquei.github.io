@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-23 21:11:32
 pub_date: 2020-11-23 21:11:32
 time_added: 2021-03-24 19:56:01
-category: 
+categories: []
 tags: []
 image: https://exame.com/wp-content/uploads/2020/11/Inicio-dos-testes-de-COVID-19-em-escolas-estaduais-7-1.jpg?quality=70&strip=info
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-10 07:21:00
 pub_date: 2020-07-10 07:21:00
 time_added: 2020-07-12 11:27:33
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/40/2020/07/10/31mai2019---rodrigo-duterte-presidente-das-filipinas-durante-evento-em-toquio-japao-1594388982909_v2_750x421.jpg
 ---

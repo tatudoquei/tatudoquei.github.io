@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-17 03:29:00
 pub_date: 2021-08-17 03:29:00
 time_added: 2021-08-20 21:55:34
-category: 
+categories: []
 tags: []
 image: https://midias.correiobraziliense.com.br/_midias/jpg/2021/01/27/675x450/1_cbifot180320200267-6502793.jpg
 ---

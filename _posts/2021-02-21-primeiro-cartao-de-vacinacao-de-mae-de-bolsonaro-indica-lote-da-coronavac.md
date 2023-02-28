@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-21 15:01:00
 pub_date: 2021-02-21 15:01:00
 time_added: 2021-02-27 17:13:12
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/9d/2021/02/21/comprovante-de-vacinacao-1613919070937_v2_615x300.jpg
 ---

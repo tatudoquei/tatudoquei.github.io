@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-06 16:58:00
 pub_date: 2019-12-06 16:58:00
 time_added: 2019-12-06 23:14:36
-category: avisamos
+categories: [avisamos]
 tags: [meio ambiente]
 image: https://f.i.uol.com.br/fotografia/2019/12/06/15756657965deac08448279_1575665796_3x2_rt.jpg
 ---

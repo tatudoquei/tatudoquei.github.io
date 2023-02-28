@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-18 02:00:00
 pub_date: 2020-04-18 02:00:00
 time_added: 2020-05-05 18:54:22
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2b/2020/04/06/06042020---homens-carregam-corpo-de-paciente-morta-por-covid-19-novo-coronavirus-no-cemiterio-santo-antonio-em-sorocaba-sp-1586221917156_v2_750x421.jpg
 ---

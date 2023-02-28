@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-28 04:00:00
 pub_date: 2022-09-28 04:00:00
 time_added: 2022-10-03 00:40:04
-category: 
+categories: []
 tags: []
 image: https://www.greenpeace.org/static/planet4-brasil-stateless/2022/09/2fc70f86-image-5.jpg
 ---

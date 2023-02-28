@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-08 07:18:37
 pub_date: 2020-11-08 07:18:37
 time_added: 2020-11-08 08:18:37
-category: 
+categories: []
 tags: []
 image: https://www.cisoadvisor.com.br/wp-content/uploads/2020/11/cibercrime-999.jpg
 ---

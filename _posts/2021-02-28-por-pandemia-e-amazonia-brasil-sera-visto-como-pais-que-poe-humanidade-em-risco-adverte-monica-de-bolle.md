@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-28 03:30:00
 pub_date: 2021-02-28 03:30:00
 time_added: 2021-03-06 10:38:55
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24902888-1e3-814/FT1086A/91793634_Monica-de-Bolle-senior-fellow-at-the-Peterson-Institute-for-International-Economics-and-dir.jpg
 ---

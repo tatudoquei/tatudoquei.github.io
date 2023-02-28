@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-15 01:22:34
 pub_date: 2020-05-15 01:22:34
 time_added: 2020-05-15 12:43:31
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/05/Augusto-Aras-1200x630.jpg
 ---

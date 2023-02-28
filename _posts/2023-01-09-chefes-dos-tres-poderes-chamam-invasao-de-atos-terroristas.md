@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-09 15:00:31
 pub_date: 2023-01-09 15:00:31
 time_added: 2023-01-10 23:55:24
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/lula-weber/alternates/LANDSCAPE_768/lula-weber
 ---

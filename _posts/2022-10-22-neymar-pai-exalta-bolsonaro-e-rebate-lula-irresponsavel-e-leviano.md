@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-22 15:51:04
 pub_date: 2022-10-22 15:51:04
 time_added: 2022-10-22 17:51:04
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/esporte/42/2022/10/17/o-jogador-neymar-sentado-ao-lado-do-pai-neymar-silva-santos-no-tribunal-em-barcelona-a-justica-espanhola-julga-a-suspeita-de-irregularidades-na-transferencia-do-atacante-do-santos-para-o-psg-em-1666028216807_v2_615x300.jpg
 ---

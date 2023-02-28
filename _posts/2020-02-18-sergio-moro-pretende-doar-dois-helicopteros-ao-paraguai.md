@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-18 20:16:01
 pub_date: 2020-02-18 20:16:01
 time_added: 2020-03-16 15:18:50
-category: 
+categories: []
 tags: []
 image: https://www.radioculturafoz.com.br/wp-content/uploads/2019/11/brasil-sergio-moro-20190214-004.jpg
 ---

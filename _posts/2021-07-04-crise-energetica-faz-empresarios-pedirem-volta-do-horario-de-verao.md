@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-04 03:00:00
 pub_date: 2021-07-04 03:00:00
 time_added: 2021-07-25 16:40:22
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/luciano-hang/alternates/LANDSCAPE_768/luciano-hang
 ---

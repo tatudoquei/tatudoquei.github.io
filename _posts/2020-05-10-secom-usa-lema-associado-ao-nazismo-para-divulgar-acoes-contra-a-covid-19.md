@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-10 13:25:00
 pub_date: 2020-05-10 13:25:00
 time_added: 2020-05-10 22:55:28
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/5b/2020/05/10/10mai2020---o-trabalho-liberta-secom-usa-lema-associado-ao-nazismo-para-divulgar-acoes-contra-a-covid-19-1589135087817_v2_615x300.jpg
 ---

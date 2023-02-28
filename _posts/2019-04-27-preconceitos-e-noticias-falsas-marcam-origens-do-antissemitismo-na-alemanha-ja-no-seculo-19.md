@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-27 22:00:00
 pub_date: 2019-04-27 22:00:00
 time_added: 2019-04-30 19:35:23
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/04/20190422_00_Miriam_Bettina.jpg
 ---

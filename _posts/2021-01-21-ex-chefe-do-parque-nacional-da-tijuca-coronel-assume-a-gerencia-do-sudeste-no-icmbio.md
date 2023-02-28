@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-21 13:20:14
 pub_date: 2021-01-21 13:20:14
 time_added: 2021-02-07 06:54:35
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/01/Oeco_DOU-nomeacao-andre-GR-Sudeste.jpg
 ---

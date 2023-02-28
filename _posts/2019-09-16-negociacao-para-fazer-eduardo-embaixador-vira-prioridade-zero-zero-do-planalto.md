@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-16 20:15:12
 pub_date: 2019-09-16 20:15:12
 time_added: 2019-09-17 22:51:45
-category: 
+categories: []
 tags: []
 image: https://img.estadao.com.br/fotos3/icon/estadao.gif
 ---

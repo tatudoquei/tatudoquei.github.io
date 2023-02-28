@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-19 23:58:48
 pub_date: 2020-05-19 23:58:48
 time_added: 2020-05-20 20:11:37
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2020/01/16200756/jair-Bolsonaro36.jpeg
 ---

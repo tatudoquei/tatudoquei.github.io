@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-27 09:00:09
 pub_date: 2021-05-27 09:00:09
 time_added: 2021-05-30 19:01:34
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2021/05/27/opinion/27barbara/27barbara-facebookJumbo-v10.jpg
 ---

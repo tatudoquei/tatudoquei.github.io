@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-23 20:12:33
 pub_date: 2021-07-23 20:12:33
 time_added: 2021-07-25 17:03:34
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2021/03/NUNES-MARQUES-STF-2020-01.jpg.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

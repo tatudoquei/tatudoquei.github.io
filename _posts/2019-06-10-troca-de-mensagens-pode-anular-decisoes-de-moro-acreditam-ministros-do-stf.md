@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-10 02:00:00
 pub_date: 2019-06-10 02:00:00
 time_added: 2019-06-10 13:53:49
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/265/files/2019/06/The-Intercept-Brasil-615x300.png
 ---

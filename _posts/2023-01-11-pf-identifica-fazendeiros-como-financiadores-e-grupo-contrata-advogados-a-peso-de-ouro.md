@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-11 13:51:56
 pub_date: 2023-01-11 13:51:56
 time_added: 2023-01-14 14:42:07
-category: 
+categories: []
 tags: []
 image: https://istoe.com.br/wp-content/uploads/2023/01/ad5ea8e6b8055365d166c3cdff2afcf3e92719de-1.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-17 22:16:07
 pub_date: 2021-03-17 22:16:07
 time_added: 2021-03-21 09:27:04
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/03/lulabiden-1200x630.jpg
 ---

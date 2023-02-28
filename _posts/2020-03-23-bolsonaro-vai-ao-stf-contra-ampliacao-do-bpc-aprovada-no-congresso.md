@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-23 21:35:00
 pub_date: 2020-03-23 21:35:00
 time_added: 2020-03-24 12:49:34
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/4f/2020/03/20/20mar2020---de-mascara-presidente-jair-bolsonaro-sem-partido-participa-de-videoconferencia-com-empresarios-1584744265176_v2_615x300.jpg
 ---

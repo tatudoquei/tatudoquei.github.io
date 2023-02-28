@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-22 16:16:20
 pub_date: 2022-10-22 16:16:20
 time_added: 2022-10-22 18:16:20
-category: 
+categories: []
 tags: []
 image: https://opopular.com.br/polopoly_fs/1.1713898.1556831497!/image/image.jpg_gen/derivatives/landscape_800/image.jpg
 ---

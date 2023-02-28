@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-24 19:07:37
 pub_date: 2021-12-24 19:07:37
 time_added: 2021-12-24 20:07:37
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25320929-9e7-a97/FT1086A/760/96587360_Brazilian-President-Jair-Bolsonaro-L-and-his-Finance-Minister-Paulo-Guedes-attend-a-cer.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-30 15:06:18
 pub_date: 2020-04-30 15:06:18
 time_added: 2020-05-03 05:40:27
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/N80wX_XsTslQKzy1jr6CSQQlY0g=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2020/V/J/EPoeAKR36C2qLGDK5nmg/wilson-dias-agencia-brasil.jpg
 ---

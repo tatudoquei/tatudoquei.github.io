@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-04 10:09:00
 pub_date: 2021-07-04 10:09:00
 time_added: 2021-07-04 12:09:00
-category: 
+categories: []
 tags: []
 image: https://midias.agazeta.com.br/2021/06/21/600x315/bernardo-santos-carmo-e-o-cliente-de-shopping-em-vitoria-que-recusou-pedido-para-uso-de-mascara-e-apontou-arma-para-vendedor-540511.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-03 10:44:00
 pub_date: 2020-04-03 10:44:00
 time_added: 2020-04-03 18:51:55
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/7e/2020/04/01/31mar2020---o-presidente-da-camara-dos-deputados-rodrigo-maia-dem-rj-em-coletiva-sobre-a-crise-do-coronavirus-1585762547270_v2_615x300.jpg
 ---

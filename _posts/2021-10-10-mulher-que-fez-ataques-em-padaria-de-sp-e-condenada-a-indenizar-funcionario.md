@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-10 12:14:00
 pub_date: 2021-10-10 12:14:00
 time_added: 2021-10-17 14:59:29
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/1b/2020/11/23/padaria-em-sp-mostra-novos-ataques-de-homofobia-1606123398569_v2_615x300.jpg
 ---

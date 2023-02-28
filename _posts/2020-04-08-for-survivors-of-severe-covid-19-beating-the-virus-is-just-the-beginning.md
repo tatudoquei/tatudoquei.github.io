@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-08 14:50:00
 pub_date: 2020-04-08 14:50:00
 time_added: 2020-04-09 06:38:18
-category: 
+categories: []
 tags: []
 image: https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/Longterm_coronavirus_1280x720.jpg?itok=YT9_0gok
 ---

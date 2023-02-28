@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-05 12:11:00
 pub_date: 2020-01-05 12:11:00
 time_added: 2020-01-06 00:25:46
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/42/2019/05/12/o-presidente-jair-bolsonaro-e-o-ministro-sergio-moro-participam-do-inicio-do-funcionamento-do-centro-integrado-de-inteligencia-de-seguranca-publica-da-regiao-sul-1557675688590_v2_615x300.jpg
 ---

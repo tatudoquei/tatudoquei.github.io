@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-21 13:05:56
 pub_date: 2023-01-21 13:05:56
 time_added: 2023-01-21 10:05:56
-category: 
+categories: []
 tags: []
 image: https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/06/braga_netto_003-e1656347633866.jpg
 ---

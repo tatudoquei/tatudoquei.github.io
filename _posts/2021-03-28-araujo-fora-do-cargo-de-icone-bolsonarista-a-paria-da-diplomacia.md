@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-28 22:00:00
 pub_date: 2021-03-28 22:00:00
 time_added: 2021-04-03 23:54:42
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Ernesto_Araujo.jpeg2/alternates/LANDSCAPE_768/Ernesto_Araujo.jpeg
 ---

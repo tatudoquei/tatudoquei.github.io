@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-11 18:36:00
 pub_date: 2020-07-11 18:36:00
 time_added: 2020-07-12 07:38:47
-category: 
+categories: []
 tags: []
 image: https://noticiasdatv.uol.com.br/media/_versions/artigos/caio-coppolla-reproducao-cnn-brasil_fixed_big.jpg
 ---

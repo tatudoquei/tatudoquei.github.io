@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-12 14:41:00
 pub_date: 2020-03-12 14:41:00
 time_added: 2020-03-13 02:09:48
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/03/fabio-redes-2-1584026315.jpg
 ---

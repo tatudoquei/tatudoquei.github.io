@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-06 03:30:00
 pub_date: 2020-08-06 03:30:00
 time_added: 2020-08-06 11:36:56
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/brasil/24570139-360-b1b/FT1086A/652/84214311_BSBBrasiliaBrasil23-08-2019Presidente-Jair-Bolsonaro-participa-da-cerimon.jpg
 ---

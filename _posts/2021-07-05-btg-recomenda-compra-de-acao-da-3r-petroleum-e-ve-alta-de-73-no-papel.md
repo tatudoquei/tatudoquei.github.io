@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-05 15:45:17
 pub_date: 2021-07-05 15:45:17
 time_added: 2021-07-25 17:01:16
-category: 
+categories: []
 tags: []
 image: https://s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/public/fb_investe.png
 ---

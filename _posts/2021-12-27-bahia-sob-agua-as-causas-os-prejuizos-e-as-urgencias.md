@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-27 23:40:05
 pub_date: 2021-12-27 23:40:05
 time_added: 2021-12-28 08:05:47
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/destrocos/alternates/LANDSCAPE_768/destrocos
 ---

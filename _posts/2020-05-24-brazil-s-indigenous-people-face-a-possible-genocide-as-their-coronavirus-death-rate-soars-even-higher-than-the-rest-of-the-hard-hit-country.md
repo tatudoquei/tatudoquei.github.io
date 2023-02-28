@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-24 22:00:00
 pub_date: 2020-05-24 22:00:00
 time_added: 2020-05-25 19:35:04
-category: 
+categories: []
 tags: []
 image: https://i.insider.com/5ecbad79f0f4192b0f36b815?width=1200&format=jpeg
 ---

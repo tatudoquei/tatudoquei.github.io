@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-16 09:00:00
 pub_date: 2021-05-16 09:00:00
 time_added: 2021-05-30 06:52:12
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2021/05/aziz-redes.jpg
 ---

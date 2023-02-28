@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-14 02:03:00
 pub_date: 2020-04-14 02:03:00
 time_added: 2020-04-14 11:20:40
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/04/rosana-redes.jpg
 ---

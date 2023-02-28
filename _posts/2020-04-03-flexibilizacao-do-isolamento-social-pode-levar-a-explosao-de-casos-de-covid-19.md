@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-03 14:29:23
 pub_date: 2020-04-03 14:29:23
 time_added: 2020-04-06 18:07:40
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/01/20200131_00_coronavirus1.jpg
 ---

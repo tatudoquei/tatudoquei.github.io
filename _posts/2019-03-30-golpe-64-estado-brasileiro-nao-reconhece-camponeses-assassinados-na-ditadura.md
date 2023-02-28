@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-30 09:55:19
 pub_date: 2018-04-01 12:14:51
 time_added: 2019-03-30 09:55:19
-category: 
+categories: []
 tags: []
 image: https://www.sul21.com.br/wp-content/uploads/2018/04/20180401-40228265515_053e677467_z.jpg
 ---

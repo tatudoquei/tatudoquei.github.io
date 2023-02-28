@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-24 19:27:00
 pub_date: 2020-07-24 19:27:00
 time_added: 2020-07-25 08:27:29
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/27/2020/07/20/desembargador-rocha-de-siqueira-rasga-multa-1595246902701_v2_615x300.jpg
 ---

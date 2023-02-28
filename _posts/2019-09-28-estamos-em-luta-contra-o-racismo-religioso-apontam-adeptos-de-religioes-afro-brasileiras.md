@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-28 04:25:41
 pub_date: 2019-09-28 04:25:41
 time_added: 2019-09-28 06:25:41
-category: 
+categories: []
 tags: []
 image: https://almapreta.com/images/2019/09/8E6E87F2-505D-4E53-9FB0-2E8CEF960A33.jpeg
 ---

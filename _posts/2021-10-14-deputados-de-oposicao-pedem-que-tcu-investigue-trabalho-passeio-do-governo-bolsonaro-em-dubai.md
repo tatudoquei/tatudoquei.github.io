@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-14 21:02:00
 pub_date: 2021-10-14 21:02:00
 time_added: 2021-10-17 15:07:00
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25235480-259-e64/FT1086A/760/WhatsApp-Image-2021-10-13-at-22.03.40.jpeg.jpg
 ---

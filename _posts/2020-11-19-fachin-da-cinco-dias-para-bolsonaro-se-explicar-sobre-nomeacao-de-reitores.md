@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-19 12:28:00
 pub_date: 2020-11-19 12:28:00
 time_added: 2020-11-19 19:54:32
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b0/2020/08/07/ministro-edson-fachin-durante-sessao-da-2-turma-do-stf-supremo-tribunal-federal-1596843157662_v2_615x300.jpg
 ---

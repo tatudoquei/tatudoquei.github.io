@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-07 06:32:11
 pub_date: 2020-11-07 06:32:11
 time_added: 2020-11-07 07:32:11
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Jair-Bolsonaro-e-Paulo-Guedes/alternates/LANDSCAPE_768/Jair%20Bolsonaro%20e%20Paulo%20Guedes
 ---

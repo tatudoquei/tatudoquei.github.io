@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-07 09:54:17
 pub_date: 2019-07-07 09:54:17
 time_added: 2019-07-11 18:53:04
-category: 
+categories: []
 tags: []
 image: https://projetocolabora.com.br/wp-content/uploads/2019/07/capabalburdiaSBPC.png
 ---

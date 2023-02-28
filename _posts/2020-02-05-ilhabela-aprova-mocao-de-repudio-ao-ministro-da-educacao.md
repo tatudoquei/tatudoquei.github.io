@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-05 18:05:07
 pub_date: 2020-02-05 18:05:07
 time_added: 2020-02-08 21:47:11
-category: 
+categories: []
 tags: []
 image: https://novaimprensa.com/wp-content/uploads/2020/02/Abraham-Weintraub.jpg
 ---

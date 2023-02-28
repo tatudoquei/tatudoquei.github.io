@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-07 22:50:55
 pub_date: 2020-04-07 22:50:55
 time_added: 2020-04-09 05:55:10
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2020/03/remedio.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

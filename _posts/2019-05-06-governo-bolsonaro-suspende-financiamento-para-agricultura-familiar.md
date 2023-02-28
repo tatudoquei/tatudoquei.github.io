@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-06 03:00:00
 pub_date: 2019-05-06 03:00:00
 time_added: 2019-05-16 19:10:34
-category: 
+categories: []
 tags: []
 image: http://www.ihu.unisinos.br/images/ihu/2019/05/06_05_governo_bolsonaro_suspende_financiamento_para_agricultura_familiar_foto_flickr_palacioa_do_planalto.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-10 06:35:00
 pub_date: 2019-09-10 06:35:00
 time_added: 2019-09-17 13:47:02
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23885729-246-533/FT1086A/652/O-vereador-Carlos-Bolsonaro-na-Camara-dos-Vereadores-do-Rio.jpg
 ---

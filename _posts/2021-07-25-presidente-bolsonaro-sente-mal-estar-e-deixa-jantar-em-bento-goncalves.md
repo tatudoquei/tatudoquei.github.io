@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-25 19:53:48
 pub_date: 2021-07-25 19:53:48
 time_added: 2021-07-25 16:53:48
-category: 
+categories: []
 tags: []
 image: https://www.nbnoticias.com.br/images/noticias/19157/1601da9bee1b5141839ff2d8d787d244.jpg
 ---

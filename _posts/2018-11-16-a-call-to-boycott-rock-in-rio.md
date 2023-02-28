@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-11-16 10:51:27
 pub_date: 2018-11-16 10:51:27
 time_added: 2019-12-23 21:19:30
-category: resistimos
+categories: [resistimos]
 tags: [cultura]
 image: http://www.brasilwire.com/wp-content/uploads/2018/11/Rock_in_Rio_-400x400.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-12 23:00:00
 pub_date: 2020-02-12 23:00:00
 time_added: 2020-02-13 19:32:58
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/F987/production/_110697836_promo_2_amazonas.png
 ---

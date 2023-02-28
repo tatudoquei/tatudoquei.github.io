@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-08-26 21:25:00
 pub_date: 2022-08-26 21:25:00
 time_added: 2022-10-28 21:00:21
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2022/08/capa-facebook-a-cada-cinco-doadores-da-campanha-de-bolsonaro-um-tem-multa-no-ibama.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-10 09:50:00
 pub_date: 2021-03-10 09:50:00
 time_added: 2021-03-10 20:43:32
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/home/11/2020/06/11/lula-1591915534677_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-24 02:00:00
 pub_date: 2022-10-24 02:00:00
 time_added: 2022-10-29 08:56:11
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/15/2022/10/21/montagem--ricardo-salles-e-ivan-sartori-1666358918472_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-01-01 22:58:56
 pub_date: 2022-01-01 22:58:56
 time_added: 2022-01-02 13:56:04
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/facada-bolsonaro-ok.jpg/alternates/LANDSCAPE_768/facada%20bolsonaro%20ok.jpg
 ---

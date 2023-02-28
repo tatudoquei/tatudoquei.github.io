@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-08 22:00:00
 pub_date: 2019-07-08 22:00:00
 time_added: 2019-07-10 19:29:10
-category: avisamos
+categories: [avisamos]
 tags: [meio ambiente]
 ---
 

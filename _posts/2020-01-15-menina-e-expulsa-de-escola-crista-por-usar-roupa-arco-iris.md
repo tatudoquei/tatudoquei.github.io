@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-15 12:14:19
 pub_date: 2020-01-15 12:14:19
 time_added: 2020-01-16 18:53:12
-category: 
+categories: []
 tags: []
 image: https://observatoriog.bol.uol.com.br/wordpress/wp-content/uploads/2020/01/picasion.com_be8a18975baf7c25b23cb5a7c11d7b6e.jpg
 ---

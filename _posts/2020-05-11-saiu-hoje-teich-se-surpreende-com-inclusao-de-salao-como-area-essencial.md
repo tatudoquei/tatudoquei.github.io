@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-11 19:33:00
 pub_date: 2020-05-11 19:33:00
 time_added: 2020-05-12 12:41:45
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/19/2020/05/06/ministro-nelson-teich-1588817515725_v2_615x300.jpg
 ---

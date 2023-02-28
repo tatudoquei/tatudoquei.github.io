@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-22 19:08:27
 pub_date: 2022-10-22 19:08:27
 time_added: 2022-10-28 20:40:33
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2021/05/Bolsonaro-com-Hang.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

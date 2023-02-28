@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-16 09:13:31
 pub_date: 2020-03-16 09:13:31
 time_added: 2020-03-23 18:49:12
-category: 
+categories: []
 tags: []
 image: https://files.climatenewsnetwork.net/wp-content/uploads/2020/03/12153758/Amazon-fires.png
 ---

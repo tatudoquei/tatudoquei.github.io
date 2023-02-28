@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-24 15:59:35
 pub_date: 2019-08-24 15:59:35
 time_added: 2019-08-24 17:59:35
-category: 
+categories: []
 tags: []
 image: https://media.gazetadopovo.com.br/2019/08/08212131/ultra-bolsonaro-militares-660x372.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-27 07:30:00
 pub_date: 2020-12-27 07:30:00
 time_added: 2020-12-27 21:14:00
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24786466-b3d-530/FT1086A/652/vacinacao-covid-reino-unido.jpg
 ---

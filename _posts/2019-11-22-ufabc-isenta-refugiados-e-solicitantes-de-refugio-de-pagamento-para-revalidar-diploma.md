@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-22 19:05:09
 pub_date: 2019-11-22 19:05:09
 time_added: 2019-11-24 09:05:49
-category: 
+categories: []
 tags: []
 image: https://nacoesunidas.org/wp-content/uploads/2019/11/UFABC-e1574449392372.jpg
 ---

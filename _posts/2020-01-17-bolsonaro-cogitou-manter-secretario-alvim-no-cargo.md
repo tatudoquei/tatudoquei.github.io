@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-17 14:42:00
 pub_date: 2020-01-17 14:42:00
 time_added: 2020-01-17 20:37:50
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/4c/2019/06/21/o-diretor-teatral-roberto-alvim-encontra-se-com-o-presidente-jair-bolsonaro-1561130739017_v2_615x300.jpg
 ---

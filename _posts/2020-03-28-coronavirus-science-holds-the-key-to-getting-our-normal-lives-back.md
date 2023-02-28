@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-28 07:30:46
 pub_date: 2020-03-28 07:30:46
 time_added: 2020-03-28 08:30:46
-category: 
+categories: []
 tags: []
 image: https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F178bfdc2-706d-11ea-ac40-2259b5e452c2.jpg?crop=1783%2C1003%2C0%2C93&resize=685
 ---

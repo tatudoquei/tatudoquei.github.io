@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-27 03:00:09
 pub_date: 2022-11-27 03:00:09
 time_added: 2022-12-03 21:27:13
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/BcR6aNCXg42rcSDwGd0hhkbS2Hg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/u/x/ClO0fkT1iLls1IaBLtHA/101189440-15-11-2022-ministerio-publico-federal-pede-afastamento-do-diretor-da-prf-por-90-dias.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-11 14:24:00
 pub_date: 2020-04-11 14:24:00
 time_added: 2020-04-12 19:20:02
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b5/2020/01/24/o-governador-de-minas-gerais-romeu-zema-novo-1579890459771_v2_615x300.jpg
 ---

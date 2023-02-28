@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-20 08:03:00
 pub_date: 2020-05-20 08:03:00
 time_added: 2020-05-20 18:22:25
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/41/2020/05/07/6mai2020---a-secretaria-especial-de-cultura-regina-duarte-em-reuniao-com-o-ministro-do-turismo-marcelo-alvaro-antonio-1588901523651_v2_615x300.jpg
 ---

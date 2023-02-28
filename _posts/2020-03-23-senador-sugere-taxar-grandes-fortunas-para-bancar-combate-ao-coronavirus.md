@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-23 18:10:14
 pub_date: 2020-03-23 18:10:14
 time_added: 2020-03-24 13:04:48
-category: 
+categories: []
 tags: []
 image: https://www12.senado.leg.br/noticias/materias/2020/03/23/senador-sugere-taxar-grandes-fortunas-para-bancar-combate-ao-coronavirus/plinio_valerio_03-2.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-24 13:02:00
 pub_date: 2021-01-24 13:02:00
 time_added: 2021-01-25 21:36:21
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/19/2020/12/08/marcos-rocha-governador-de-rondonia-1607459884190_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-10 16:59:00
 pub_date: 2020-01-10 16:59:00
 time_added: 2020-01-10 20:35:51
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://correio-cdn1.cworks.cloud/fileadmin/_processed_/a/f/csm_turista_04e9c94d28.jpg
 ---

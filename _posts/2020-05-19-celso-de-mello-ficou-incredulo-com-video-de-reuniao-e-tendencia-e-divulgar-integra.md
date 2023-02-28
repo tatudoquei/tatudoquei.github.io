@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-19 08:02:00
 pub_date: 2020-05-19 08:02:00
 time_added: 2020-05-20 20:10:20
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2016/09/celso-de-mello-Carlos-Humberto-SCO-STF-.jpg
 ---

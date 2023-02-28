@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-25 15:36:39
 pub_date: 2019-04-25 15:36:39
 time_added: 2019-04-26 04:01:09
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/04/Frente-parlamentar-pela-valorizacao-das-Universidades-Federais.jpg
 ---

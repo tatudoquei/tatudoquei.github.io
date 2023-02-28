@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-06 16:21:45
 pub_date: 2020-02-06 16:21:45
 time_added: 2020-02-11 07:58:19
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2020/02/bolsonaro-hiv3-e1581006034165.jpg
 ---

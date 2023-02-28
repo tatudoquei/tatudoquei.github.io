@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-13 07:11:00
 pub_date: 2020-06-13 07:11:00
 time_added: 2020-06-13 23:28:18
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ea/2019/01/29/29jan2019---de-acordo-com-a-funai-o-presidente-da-instituicao-franklimberg-de-freitas-tem-articulado-para-que-as-equipes-que-atuam-no-local-do-incidente-em-minas-gerais-apoiem-as-populacoes-indigenas-1548763065881_v2_750x421.jpg
 ---

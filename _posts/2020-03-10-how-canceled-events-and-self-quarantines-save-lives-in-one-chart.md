@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-10 13:50:00
 pub_date: 2020-03-10 13:50:00
 time_added: 2020-03-10 18:17:54
-category: 
+categories: []
 tags: []
 image: https://cdn.vox-cdn.com/thumbor/iz8wCmQ_ay0NUEofOy4-6U34IF0=/0x0:1497x841/fit-in/1200x630/filters:fill(ffffff)/cdn.vox-cdn.com/uploads/chorus_asset/file/19780273/flattening_the_curve_final.jpg
 ---

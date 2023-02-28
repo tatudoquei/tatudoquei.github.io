@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-27 23:00:00
 pub_date: 2019-02-27 23:00:00
 time_added: 2019-02-27 00:43:35
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/C4CB/production/_105797305_400e7250-34d9-4b90-ab56-1c1554edee75.jpg
 ---

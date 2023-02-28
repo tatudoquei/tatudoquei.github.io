@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-12 06:00:00
 pub_date: 2019-12-12 06:00:00
 time_added: 2019-12-12 14:39:22
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/bb/2018/06/01/professor-na-sala-de-aula-1527876667324_v2_615x300.jpg
 ---

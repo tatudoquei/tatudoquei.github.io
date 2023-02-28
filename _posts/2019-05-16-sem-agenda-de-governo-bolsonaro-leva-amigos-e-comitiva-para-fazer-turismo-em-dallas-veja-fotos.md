@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-16 11:28:08
 pub_date: 2019-05-16 11:28:08
 time_added: 2019-05-17 07:50:25
-category: 
+categories: []
 tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2019/05/bolsonaro-dallas-turismo.jpg
 ---

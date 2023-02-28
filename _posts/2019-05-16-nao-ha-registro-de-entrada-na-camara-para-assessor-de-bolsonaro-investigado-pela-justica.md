@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-16 23:18:42
 pub_date: 2019-05-16 23:18:42
 time_added: 2019-05-17 17:53:47
-category: 
+categories: []
 tags: []
 image: https://i2.wp.com/apublica.org/wp-content/uploads/2019/05/jair-bolsonaro.jpg?fit=1600%2C1048&ssl=1
 ---

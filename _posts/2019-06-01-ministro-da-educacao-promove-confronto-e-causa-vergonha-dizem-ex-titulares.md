@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-01 02:00:00
 pub_date: 2019-06-01 02:00:00
 time_added: 2019-06-01 19:15:26
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/05/abraham-615x300.jpg
 ---

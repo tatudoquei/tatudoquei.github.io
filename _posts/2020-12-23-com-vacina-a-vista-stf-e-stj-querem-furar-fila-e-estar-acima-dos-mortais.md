@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-23 07:49:00
 pub_date: 2020-12-23 07:49:00
 time_added: 2020-12-23 14:39:09
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/2d/2020/12/17/uso-emergencial-da-vacina-seraacute-solicitado-no-dia-23-de-dezembro-1608228832590_v2_615x300.jpg
 ---

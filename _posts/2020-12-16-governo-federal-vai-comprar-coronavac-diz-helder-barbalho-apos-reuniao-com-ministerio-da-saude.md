@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-16 21:00:00
 pub_date: 2020-12-16 21:00:00
 time_added: 2020-12-17 12:04:41
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/R_q3AQLCxThHFEg_VIfLLonHHlY=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2020/12/15/xcoronavac.jpg.pagespeed.ic.jjwfrhbwrp.jpg
 ---

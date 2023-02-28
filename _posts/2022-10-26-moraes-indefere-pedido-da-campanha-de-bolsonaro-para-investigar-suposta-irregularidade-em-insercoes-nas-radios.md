@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-26 22:08:40
 pub_date: 2022-10-26 22:08:40
 time_added: 2022-10-28 21:00:33
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/ekzeol0Z9YAAqgWP2zQ8DYv-ayw=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/S/2/Ey61FRSUSUI2atA49APg/decisao-alexandre-de-moraes.jpg
 ---

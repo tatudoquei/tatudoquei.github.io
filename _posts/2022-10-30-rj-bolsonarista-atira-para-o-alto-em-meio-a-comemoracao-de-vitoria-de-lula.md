@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-30 22:31:00
 pub_date: 2022-10-30 22:31:00
 time_added: 2022-10-31 03:04:46
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ca/2022/10/30/bolsonarista-atira-em-meio-a-comemoracoes-a-vitoria-de-lula-em-vila-isabel-na-zona-norte-do-rio-1667183232054_v2_300x200.jpg
 ---

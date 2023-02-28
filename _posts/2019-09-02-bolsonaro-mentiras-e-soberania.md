@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-02 01:47:47
 pub_date: 2019-09-02 01:47:47
 time_added: 2019-09-02 22:21:03
-category: 
+categories: []
 tags: []
 image: http://climainfo.org.br/wp-content/uploads/2019/09/Bolsonaro-mentiras.jpeg
 ---

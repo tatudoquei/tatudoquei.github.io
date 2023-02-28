@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-07 09:59:00
 pub_date: 2022-10-07 09:59:00
 time_added: 2022-10-10 07:03:47
-category: 
+categories: []
 tags: []
 image: https://ufmg.br/thumbor/J5jtxTBsxHj3ZqTHsD5GlWZ8Ox4=/300x200/smart/https://ufmg.br/storage/6/a/7/c/6a7c2977b3137c397260ab856a702a60_16650852527037_1678199531.jpg
 ---

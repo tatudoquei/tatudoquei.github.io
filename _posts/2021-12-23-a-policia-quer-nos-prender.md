@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-23 17:28:00
 pub_date: 2021-12-23 17:28:00
 time_added: 2021-12-24 20:40:02
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2021/12/tib-news-demori-redes.jpg
 ---

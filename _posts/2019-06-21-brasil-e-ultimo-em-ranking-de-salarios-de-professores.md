@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-21 00:00:30
 pub_date: 2019-06-21 00:00:30
 time_added: 2019-06-27 20:59:31
-category: 
+categories: []
 tags: []
 image: https://www.otempo.com.br/image/contentid/policy:1.2199091:1561085466/Capturar.JPG?f=3x2&w=620&$p$f$w=2000ec9
 ---

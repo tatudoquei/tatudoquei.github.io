@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-25 13:37:00
 pub_date: 2021-01-25 13:37:00
 time_added: 2021-01-26 19:34:22
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/28/2020/03/30/27mar2019---o-prefeito-de-belo-horizonte-alexandre-kalil-psd-mg-apresenta-balanco-de-2018-de-sua-gestao-1585594322641_v2_615x300.jpg
 ---

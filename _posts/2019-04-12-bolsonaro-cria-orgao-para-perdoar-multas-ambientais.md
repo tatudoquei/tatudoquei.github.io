@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-12 23:39:33
 pub_date: 2019-04-12 23:39:33
 time_added: 2019-04-13 06:57:59
-category: 
+categories: []
 tags: []
 image: http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2019/04/12/2019-04-12T233727Z_1_LYNXNPEF3B1W3_RTROPTP_4_POLITICA-BOLSONARO-DECRETO-MULTAS.JPG
 ---

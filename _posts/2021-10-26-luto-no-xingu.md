@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-26 00:41:44
 pub_date: 2021-10-26 00:41:44
 time_added: 2021-10-25 21:41:44
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b8/2021/10/20/indigenas-de-diferentes-etnias-entram-em-combate-durante-o-ritual-funebre-do-kuarup-em-honra-da-memoria-do-cacique-aritana-na-reserva-indigena-do-xingu-1634762178613_v2_615x300.jpg
 ---

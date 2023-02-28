@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-11 18:38:00
 pub_date: 2021-06-11 18:38:00
 time_added: 2021-06-13 21:06:23
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/p4JWFsBa6lyluVxueFmZmJrh74w=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2015/05/09/alimentos_orgnicos_2.jpg
 ---

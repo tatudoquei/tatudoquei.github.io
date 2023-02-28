@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-16 10:16:00
 pub_date: 2020-04-16 10:16:00
 time_added: 2020-04-17 11:18:03
-category: 
+categories: []
 tags: []
 image: https://static.aosfatos.org/media/images/entries/tnrgo_rj2403201003.jpg.1860x1080_q85_box-0,130,2048,1319_crop_upscale.jpg
 ---

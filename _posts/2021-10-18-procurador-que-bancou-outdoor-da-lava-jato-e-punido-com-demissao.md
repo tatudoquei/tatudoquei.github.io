@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-18 23:07:30
 pub_date: 2021-10-18 23:07:30
 time_added: 2021-10-24 14:57:42
-category: 
+categories: []
 tags: []
 image: https://www.otempo.com.br/image/contentid/policy:1.2364626:1595853967/outdoor-lava-jato.jpg?f=3x2&w=620&$p$f$w=c0ccd55
 ---

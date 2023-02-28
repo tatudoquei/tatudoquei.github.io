@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-11 14:41:00
 pub_date: 2021-04-11 14:41:00
 time_added: 2021-05-16 18:23:55
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/9d/2021/04/11/banner-de-campanha-do-governo-do-rio-mostra-mascara-de-cabeca-para-baixo-1618169133409_v2_615x300.jpg
 ---

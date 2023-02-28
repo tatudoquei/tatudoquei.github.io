@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-08 21:25:38
 pub_date: 2020-04-08 21:25:38
 time_added: 2020-04-09 06:46:48
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/04/08/science/08VIRUS-SUMMER1/08VIRUS-SUMMER1-facebookJumbo.jpg
 ---

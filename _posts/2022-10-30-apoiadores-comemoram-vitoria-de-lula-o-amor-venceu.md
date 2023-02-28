@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-30 19:00:00
 pub_date: 2022-10-30 19:00:00
 time_added: 2022-10-30 23:04:38
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/eleicoes/2020/share-eleicoes.jpg
 ---

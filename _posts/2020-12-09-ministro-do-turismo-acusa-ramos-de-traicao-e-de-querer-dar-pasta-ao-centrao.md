@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-09 20:10:00
 pub_date: 2020-12-09 20:10:00
 time_added: 2020-12-09 23:09:59
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/1a/2019/10/04/o-ministro-do-turismo-marcelo-alvaro-antonio-com-o-presidente-jair-bolsonaro-a-sua-frente-1570230108411_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-19 02:00:00
 pub_date: 2019-04-19 02:00:00
 time_added: 2019-04-20 07:03:38
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f1/2018/10/12/o-candidato-do-novo-ao-governo-de-minas-gerais-romeu-zema-53-em-frente-a-escola-municipal-delfim-moreira-1539352642245_v2_615x300.jpg
 ---

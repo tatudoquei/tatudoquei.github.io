@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-06 00:01:00
 pub_date: 2020-04-06 00:01:00
 time_added: 2020-04-08 13:21:02
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/3a/2020/04/03/hospital-da-zona-norte-tem-11-mortes-sob-investigacao-por-covid-19-1585962394123_v2_615x300.jpg
 ---

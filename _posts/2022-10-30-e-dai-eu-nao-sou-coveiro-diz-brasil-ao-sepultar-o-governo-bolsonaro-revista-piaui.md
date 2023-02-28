@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-30 21:43:52
 pub_date: 2022-10-30 21:43:52
 time_added: 2022-10-30 22:43:52
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2022/10/redes_heraldddd.png
 ---

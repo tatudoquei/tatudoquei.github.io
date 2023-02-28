@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-21 08:29:00
 pub_date: 2020-05-21 08:29:00
 time_added: 2020-05-22 18:54:41
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/sociedade/coronavirus/24438349-07f-4bc/FT1086A/652/clinicadador.rosapapaleo_71188181_2337754943156674_1330549905109160443_n.jpg
 ---

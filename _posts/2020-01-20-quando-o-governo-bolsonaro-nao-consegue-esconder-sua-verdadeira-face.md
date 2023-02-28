@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-20 19:39:07
 pub_date: 2020-01-20 19:39:07
 time_added: 2020-01-20 23:16:08
-category: 
+categories: []
 tags: []
 image: https://diplomatique.org.br/wp-content/uploads/2020/01/roberto-alvim-e1579549120802.jpg
 ---

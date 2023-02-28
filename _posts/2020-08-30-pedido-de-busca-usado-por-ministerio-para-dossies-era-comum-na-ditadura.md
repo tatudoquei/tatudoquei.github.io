@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-30 10:08:00
 pub_date: 2020-08-30 10:08:00
 time_added: 2020-08-30 15:56:30
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c9/2020/08/29/resposta-a-um-pedido-de-busca-emitido-pela-aeronautica-durante-a-ditadura-militar-em-1977-1598734355329_v2_615x300.jpg
 ---

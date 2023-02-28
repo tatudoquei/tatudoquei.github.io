@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-05 10:00:50
 pub_date: 2019-03-05 10:00:50
 time_added: 2019-03-11 17:44:42
-category: avisamos
+categories: [avisamos]
 tags: []
 image: http://conexaoplaneta.com.br/wp-content/uploads/2019/03/desmatamento-amazonia-aumenta-mais-50-janeiro-conexao-planeta.jpg
 ---

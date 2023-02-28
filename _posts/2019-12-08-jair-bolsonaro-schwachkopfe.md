@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-08 18:44:14
 pub_date: 2019-12-08 18:44:14
 time_added: 2019-12-10 21:04:08
-category: 
+categories: []
 tags: []
 image: https://img.zeit.de/2019/51/schwachkoepfe-bild-1/wide__1300x731
 ---

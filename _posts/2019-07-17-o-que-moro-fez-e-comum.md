@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-17 16:54:00
 pub_date: 2019-07-17 16:54:00
 time_added: 2019-07-31 22:01:55
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/teaser_denis.jpg/ALTERNATES/LANDSCAPE_720/teaser_denis.jpg
 ---

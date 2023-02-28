@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-20 15:26:52
 pub_date: 2019-08-20 15:26:52
 time_added: 2019-08-22 23:44:42
-category: 
+categories: []
 tags: []
 image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/08/20/15/bee-hive.jpg
 ---

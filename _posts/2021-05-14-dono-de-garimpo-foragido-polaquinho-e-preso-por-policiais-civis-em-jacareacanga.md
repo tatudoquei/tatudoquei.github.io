@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-14 10:47:29
 pub_date: 2021-05-14 10:47:29
 time_added: 2021-05-29 21:12:05
-category: 
+categories: []
 tags: []
 image: https://1.bp.blogspot.com/-rtk8RsW2y2o/YJ5UWc3EuyI/AAAAAAAA3KA/eZqgydKgjLYPrPTbsLWsEUk4dJOqkpP8ACLcBGAsYHQ/s720/Polaquinho.jpg
 ---

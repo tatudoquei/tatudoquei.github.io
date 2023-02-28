@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-24 03:00:00
 pub_date: 2021-12-24 03:00:00
 time_added: 2021-12-24 20:31:54
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/39/2021/12/22/ministro-paulo-almeida-machado-inicia-vacinacao-contra-meningite-em-niteroi-em-janeiro-de-1975-1640188267540_v2_615x300.jpg
 ---

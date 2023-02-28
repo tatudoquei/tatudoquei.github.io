@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-07 12:30:40
 pub_date: 2021-04-07 12:30:40
 time_added: 2021-05-16 17:48:36
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2021/03/Bolsonaro-x-Lula-4.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

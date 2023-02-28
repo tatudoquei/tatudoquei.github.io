@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-13 09:53:00
 pub_date: 2021-05-13 09:53:00
 time_added: 2021-05-13 16:56:58
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2c/2021/05/13/jair-bolsonaro-durante-evento-em-maceio-al-1620913092476_v2_615x300.jpg
 ---

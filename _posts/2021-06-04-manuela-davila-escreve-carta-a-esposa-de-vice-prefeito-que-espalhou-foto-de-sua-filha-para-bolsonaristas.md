@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-04 14:17:41
 pub_date: 2021-06-04 14:17:41
 time_added: 2021-06-06 12:50:48
-category: 
+categories: []
 tags: []
 image: https://www.diariodocentrodomundo.com.br/wp-content/uploads/2021/03/manuela-davila-do-pc-do-b.jpg
 ---

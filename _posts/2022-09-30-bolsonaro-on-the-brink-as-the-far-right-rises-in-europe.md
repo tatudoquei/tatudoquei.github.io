@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-30 14:00:00
 pub_date: 2022-09-30 14:00:00
 time_added: 2022-10-03 00:53:55
-category: 
+categories: []
 tags: []
 image: https://theintercept.imgix.net/wp-uploads/sites/1/2022/09/deconstructed-lula-meloni-top-final.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800
 ---

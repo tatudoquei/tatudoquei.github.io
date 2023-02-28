@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-20 06:11:00
 pub_date: 2020-06-20 06:11:00
 time_added: 2020-06-21 22:02:17
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/01/2020/03/07/bolsonaro-e-trump-em-encontro-em-marco-de-2019-os-dois-compartilham-agenda-ideologica-e-metodos-de-fazer-politica-1583582847995_v2_615x300.jpg
 ---

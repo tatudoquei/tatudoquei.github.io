@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-23 21:19:31
 pub_date: 2018-03-16 02:43:37
 time_added: 2019-12-23 21:19:31
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://abrilveja.files.wordpress.com/2018/02/brasil-jair-bolsonaro-20170607-004.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

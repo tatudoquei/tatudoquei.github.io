@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-05 10:53:00
 pub_date: 2020-06-05 10:53:00
 time_added: 2020-06-21 07:47:48
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2020/06/radioescola_redes_05062020.jpg
 ---

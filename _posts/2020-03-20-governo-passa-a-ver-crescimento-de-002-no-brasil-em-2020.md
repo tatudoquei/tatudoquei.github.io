@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-20 18:00:23
 pub_date: 2020-03-20 18:00:23
 time_added: 2020-03-21 15:01:50
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2019/08/bandeiras-br.gif?w=680&h=453&crop=1
 ---

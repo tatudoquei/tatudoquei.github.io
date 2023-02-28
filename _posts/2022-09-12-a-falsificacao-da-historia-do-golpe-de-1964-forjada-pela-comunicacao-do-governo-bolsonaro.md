@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-12 18:26:12
 pub_date: 2022-09-12 18:26:12
 time_added: 2022-09-24 10:10:41
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2022/09/capa-facebook-a-falsificacao-da-historia-do-golpe-de-1964-forjada-pela-comunicacao-do-governo-bolsonaro.png
 ---

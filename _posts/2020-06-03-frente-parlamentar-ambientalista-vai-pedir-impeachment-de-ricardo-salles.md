@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-03 16:45:00
 pub_date: 2020-06-03 16:45:00
 time_added: 2020-06-05 07:26:57
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/3e/2020/06/01/ricardo-salles-ministro-do-meio-ambiente-no-governo-de-jair-bolsonaro-sem-partido-1591033438239_v2_615x300.jpg
 ---

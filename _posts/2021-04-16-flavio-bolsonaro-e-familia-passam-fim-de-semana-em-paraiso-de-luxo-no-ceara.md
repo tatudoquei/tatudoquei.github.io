@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-16 22:00:00
 pub_date: 2021-04-16 22:00:00
 time_added: 2021-04-18 08:05:34
-category: 
+categories: []
 tags: []
 image: https://mais.opovo.com.br/_midias/jpg/2021/04/17/unnamed-15488777.jpg
 ---

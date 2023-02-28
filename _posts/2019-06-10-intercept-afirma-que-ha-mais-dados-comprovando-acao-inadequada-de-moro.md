@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-10 20:33:15
 pub_date: 2019-06-10 20:33:15
 time_added: 2019-06-11 19:16:12
-category: 
+categories: []
 tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2019/06/moro-intercept.jpg
 ---

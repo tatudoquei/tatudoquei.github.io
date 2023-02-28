@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-18 07:07:00
 pub_date: 2022-10-18 07:07:00
 time_added: 2023-01-26 19:00:44
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2022/10/coronel-fernando-fantazzini-redes.jpg
 ---

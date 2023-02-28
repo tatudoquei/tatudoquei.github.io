@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-13 21:25:06
 pub_date: 2020-05-13 21:25:06
 time_added: 2020-05-15 05:54:11
-category: 
+categories: []
 tags: []
 image: https://diariodorio.com/wp-content/uploads/2020/05/bg-loja-parme.jpg
 ---

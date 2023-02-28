@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-17 20:26:50
 pub_date: 2020-11-17 20:26:50
 time_added: 2020-11-17 21:25:07
-category: 
+categories: []
 tags: [meio ambiente]
 image: https://www.oeco.org.br/wp-content/uploads/2020/11/Operacao-Verde-Brasil.jpg
 ---

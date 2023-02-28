@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-12 14:48:22
 pub_date: 2019-09-12 14:48:22
 time_added: 2019-09-17 16:16:36
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/ojgN6FmPmREHDmADsNGoz097shw=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/p/W/WD6R1fQBaZBVZkeS9wGw/protesto-ribeirao.jpg
 ---

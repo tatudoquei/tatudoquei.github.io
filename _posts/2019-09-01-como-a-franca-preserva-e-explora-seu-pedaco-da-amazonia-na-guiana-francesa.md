@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-01 16:09:44
 pub_date: 2019-09-01 16:09:44
 time_added: 2019-09-08 09:49:57
-category: 
+categories: []
 tags: []
 image: http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2019/09/01/108575243106831030vadim-watches-on.jpg
 ---

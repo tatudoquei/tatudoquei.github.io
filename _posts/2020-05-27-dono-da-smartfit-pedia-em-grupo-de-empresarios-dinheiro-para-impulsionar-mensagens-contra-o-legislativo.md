@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-27 18:19:00
 pub_date: 2020-05-27 18:19:00
 time_added: 2020-05-29 11:34:00
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/brasil/24449364-db4-a32/FT1086A/652/88268021_Data-19-09-2016-Editoria-Empresas-Reporter-Beth-Local-Sao-Paulo.jpg
 ---

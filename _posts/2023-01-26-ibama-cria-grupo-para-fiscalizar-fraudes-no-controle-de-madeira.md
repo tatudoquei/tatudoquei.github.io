@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-26 21:21:21
 pub_date: 2023-01-26 21:21:21
 time_added: 2023-01-28 07:39:19
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/oeco.org.br/wp-content/uploads/2022/09/torsa.png?fit=1920%2C1280&ssl=1
 ---

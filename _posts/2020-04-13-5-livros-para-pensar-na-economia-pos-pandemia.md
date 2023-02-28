@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-13 04:25:26
 pub_date: 2020-04-13 04:25:26
 time_added: 2020-04-13 06:25:26
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Laura-Carvalho1/alternates/LANDSCAPE_768/Laura%20Carvalho
 ---

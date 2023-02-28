@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-20 07:28:00
 pub_date: 2020-05-20 07:28:00
 time_added: 2020-05-21 18:44:03
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24436201-1aa-06d/FT1086A/652/brasil.png
 ---

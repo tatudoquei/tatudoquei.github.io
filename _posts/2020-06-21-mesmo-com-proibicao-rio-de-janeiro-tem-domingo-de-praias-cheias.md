@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-21 15:54:00
 pub_date: 2020-06-21 15:54:00
 time_added: 2020-06-22 19:06:11
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/38/2020/06/21/a-praia-de-copacabana-localizada-na-zona-sul-do-rio-de-janeiro-registra-fluxo-intenso-de-banhistas-neste-domingo-21-em-meio-a-pandemia-do-coronavirus-1592772603076_v2_750x421.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-25 03:12:47
 pub_date: 2021-02-25 03:12:47
 time_added: 2021-02-25 00:12:47
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Silva-e-Luna.jpg/alternates/LANDSCAPE_768/Silva%20e%20Luna.jpg
 ---

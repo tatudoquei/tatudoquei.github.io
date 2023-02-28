@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-20 12:30:00
 pub_date: 2020-03-20 12:30:00
 time_added: 2020-03-22 17:59:29
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d4/2020/03/20/presidente-jair-bolsonaro-coloca-mascara-durante-entrevista-coletiva-sobre-coronavirus-no-palacio-do-planalto-1584713026322_v2_615x300.jpg
 ---

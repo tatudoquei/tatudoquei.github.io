@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-27 11:52:02
 pub_date: 2020-03-27 11:52:02
 time_added: 2020-03-30 22:10:58
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/03/20200324_Vacina.jpg
 ---

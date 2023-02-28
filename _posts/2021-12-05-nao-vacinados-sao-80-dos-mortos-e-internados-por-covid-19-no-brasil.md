@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-05 03:00:00
 pub_date: 2021-12-05 03:00:00
 time_added: 2021-12-13 14:48:18
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/3e/2020/05/26/uma-mulher-reage-durante-um-enterro-em-massa-de-pessoas-que-faleceram-devido-a-doenca-de-coronavirus-no-cemiterio-parque-taruma-em-manaus-1590544467586_v2_615x300.jpg
 ---

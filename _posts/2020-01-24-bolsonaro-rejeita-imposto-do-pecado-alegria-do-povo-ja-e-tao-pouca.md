@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-24 19:26:00
 pub_date: 2020-01-24 19:26:00
 time_added: 2020-01-25 10:43:30
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/05/2020/01/24/presidente-jair-bolsonaro-participou-de-solenidades-na-india-nesta-sexta-feira-1579894915864_v2_615x300.png
 ---

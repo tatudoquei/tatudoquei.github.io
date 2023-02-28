@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-06 03:00:00
 pub_date: 2022-11-06 03:00:00
 time_added: 2022-11-06 11:48:03
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/d1/2022/10/26/bolsonaro-e-seus-filhos-cada-um-tem-um-papel-diferente-na-organizacao-criada-para-gerir-o-negocio-do-jair-foto-reproducaoredes-sociais-1666782782464_v2_615x300.jpg
 ---

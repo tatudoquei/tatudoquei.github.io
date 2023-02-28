@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-28 07:03:40
 pub_date: 2021-12-28 07:03:40
 time_added: 2021-12-28 08:03:40
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/bolsonaro58/alternates/LANDSCAPE_768/bolsonaro
 ---

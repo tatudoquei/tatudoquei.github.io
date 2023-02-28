@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-04 22:51:26
 pub_date: 2021-01-04 22:51:26
 time_added: 2021-01-06 15:06:11
-category: 
+categories: []
 tags: []
 image: https://extra.globo.com/incoming/24823247-fa7-6d9/w533h800/fakevideo.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-12 23:47:00
 pub_date: 2020-04-12 23:47:00
 time_added: 2020-04-13 07:22:28
-category: 
+categories: []
 tags: []
 image: https://ambiencia.blogfolha.uol.com.br/files/2019/09/Folhapress.jpg
 ---

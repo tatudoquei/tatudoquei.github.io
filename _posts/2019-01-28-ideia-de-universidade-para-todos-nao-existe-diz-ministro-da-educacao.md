@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-28 07:00:01
 pub_date: 2019-01-28 07:00:01
 time_added: 2019-01-31 22:07:24
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://www.valor.com.br/sites/default/files/imagecache/media_library_big_horizontal/gn/19/01/foto28esp-101-educa-a12.jpg
 ---

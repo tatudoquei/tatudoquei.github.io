@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-15 02:54:00
 pub_date: 2020-04-15 02:54:00
 time_added: 2020-04-17 19:09:54
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ba/2020/04/15/montagem-de-jair-bolsonaro-com-bananas-1586937158802_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-10 04:02:00
 pub_date: 2021-05-10 04:02:00
 time_added: 2021-05-24 08:12:29
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2021/05/red-CFMDiploma.jpg
 ---

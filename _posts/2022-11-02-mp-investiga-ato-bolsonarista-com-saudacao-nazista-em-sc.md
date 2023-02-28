@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-02 17:37:53
 pub_date: 2022-11-02 17:37:53
 time_added: 2022-11-04 20:24:22
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2022/11/WhatsApp-Image-2022-11-02-at-14.33.45.jpeg?quality=70&strip=info&w=646&h=427&crop=1
 ---

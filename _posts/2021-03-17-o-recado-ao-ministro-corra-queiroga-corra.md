@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-17 04:00:31
 pub_date: 2021-03-17 04:00:31
 time_added: 2021-03-21 09:22:51
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/coluna-do-estadao/wp-content/uploads/sites/352/2021/03/queiroga2_160320213140.jpg
 ---

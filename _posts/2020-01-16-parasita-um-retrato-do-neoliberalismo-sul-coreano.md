@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-16 19:04:52
 pub_date: 2020-01-16 19:04:52
 time_added: 2020-01-17 19:51:22
-category: 
+categories: []
 tags: []
 image: https://jacobin.com.br/wp-content/uploads/2020/01/para.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-31 22:00:00
 pub_date: 2020-03-31 22:00:00
 time_added: 2020-04-01 18:45:47
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/FA31/production/_111494046_ikaro-arquivo_pessoal.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-30 22:59:09
 pub_date: 2022-10-30 22:59:09
 time_added: 2022-10-31 13:56:54
-category: 
+categories: []
 tags: []
 image: https://images.jota.info/wp-content/uploads/2027/09/52397677274-e9dc828448-c.jpg
 ---

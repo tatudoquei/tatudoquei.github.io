@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-07 18:24:23
 pub_date: 2021-08-07 18:24:23
 time_added: 2021-08-20 21:05:30
-category: 
+categories: []
 tags: []
 image: https://www.diariodocentrodomundo.com.br/wp-content/uploads/2021/04/tabataamaral_video_escolas_essenciais.jpg
 ---

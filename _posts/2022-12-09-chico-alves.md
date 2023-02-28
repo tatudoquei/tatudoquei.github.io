@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-09 09:44:00
 pub_date: 2022-12-09 09:44:00
 time_added: 2022-12-18 22:34:14
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/41/2022/12/08/ex-prefeito-fernando-haddad-pt-tambem-ja-ministro-da-educacao-no-governo-lula-1670496576460_v2_615x300.jpg
 ---

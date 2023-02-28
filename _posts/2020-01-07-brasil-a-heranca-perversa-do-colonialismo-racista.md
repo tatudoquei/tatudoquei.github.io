@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-07 08:24:00
 pub_date: 2020-01-07 08:24:00
 time_added: 2020-01-07 22:39:15
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://conteudo.imguol.com.br/blogs/296/files/2020/01/Zacharias_Wagner_-_Mercado_de_escravos_no_Recife-550x300.jpg
 ---

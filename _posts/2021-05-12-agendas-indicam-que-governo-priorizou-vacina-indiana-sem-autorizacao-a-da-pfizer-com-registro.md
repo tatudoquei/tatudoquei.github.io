@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-12 03:05:00
 pub_date: 2021-05-12 03:05:00
 time_added: 2021-05-12 17:33:59
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/ncCnukyMcg8wPSeGy9tmPnk-bNs=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2021/05/11/90884168_brasil_-_brasilia_-_16-12-2020_governo_lanca_plano_nacional_de_operacionalizacao_da_vacina.jpg
 ---

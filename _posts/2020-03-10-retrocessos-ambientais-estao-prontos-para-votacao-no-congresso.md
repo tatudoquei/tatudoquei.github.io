@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-10 10:59:41
 pub_date: 2020-03-10 10:59:41
 time_added: 2020-03-10 18:20:14
-category: 
+categories: []
 tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2020/03/meio_ambiente_lixao_zero_1202200249_0.jpg
 ---

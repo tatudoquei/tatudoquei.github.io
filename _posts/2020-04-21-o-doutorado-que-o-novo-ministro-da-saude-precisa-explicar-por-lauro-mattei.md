@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-21 17:28:18
 pub_date: 2020-04-21 17:28:18
 time_added: 2020-04-22 18:08:24
-category: 
+categories: []
 tags: []
 image: https://jornalggn.com.br/sites/default/files/2020/04/nelson-teich.jpg
 ---

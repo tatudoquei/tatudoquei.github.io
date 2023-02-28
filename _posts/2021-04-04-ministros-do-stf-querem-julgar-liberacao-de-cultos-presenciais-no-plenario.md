@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-04 13:58:00
 pub_date: 2021-04-04 13:58:00
 time_added: 2021-05-16 16:59:42
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24920792-a8e-36a/FT1086A/fux.jpg
 ---

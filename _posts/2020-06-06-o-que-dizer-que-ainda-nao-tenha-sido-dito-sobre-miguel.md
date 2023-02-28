@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-06 12:07:00
 pub_date: 2020-06-06 12:07:00
 time_added: 2020-06-07 08:49:25
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/54/2020/06/04/4jun2020---video-mostra-patroa-apertando-botao-e-liberando-elevador-que-menino-caiu-de-predio-em-recife-1591311260809_v2_615x300.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-03 15:29:19
 pub_date: 2019-08-03 15:29:19
 time_added: 2019-08-03 22:39:17
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/neumanne/wp-content/uploads/sites/339/2019/04/diasalex.jpg
 ---

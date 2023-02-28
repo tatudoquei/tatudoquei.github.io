@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-30 13:51:00
 pub_date: 2020-10-30 13:51:00
 time_added: 2020-10-30 21:35:54
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2020/10/marcospontes_301020_interna.jpg
 ---

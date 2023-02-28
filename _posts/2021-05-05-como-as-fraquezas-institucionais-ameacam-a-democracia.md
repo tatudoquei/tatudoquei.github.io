@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-05 22:00:00
 pub_date: 2021-05-05 22:00:00
 time_added: 2021-05-24 08:04:46
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Homem-em-frente-ao-Pal%C3%A1cio-do-Planalto/alternates/LANDSCAPE_768/Homem%20em%20frente%20ao%20Pal%C3%A1cio%20do%20Planalto
 ---

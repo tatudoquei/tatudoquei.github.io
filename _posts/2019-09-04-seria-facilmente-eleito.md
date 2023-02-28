@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-04 00:58:00
 pub_date: 2019-09-04 00:58:00
 time_added: 2021-11-13 12:36:38
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/09/pt-19-deltan-redes-1567532301.jpg
 ---

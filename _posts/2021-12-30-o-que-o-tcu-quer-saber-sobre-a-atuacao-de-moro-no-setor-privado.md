@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-30 01:43:10
 pub_date: 2021-12-30 01:43:10
 time_added: 2021-12-30 10:21:05
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/sergio-moro.JPG11/alternates/LANDSCAPE_768/sergio%20moro.JPG
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-28 20:55:23
 pub_date: 2022-12-28 20:55:23
 time_added: 2023-01-06 23:20:19
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Durma-com-essa-28-de-dezembro-de-20221/alternates/LANDSCAPE_768/Durma%20com%20essa%2028%20de%20dezembro%20de%202022
 ---

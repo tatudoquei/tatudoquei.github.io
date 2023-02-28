@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-23 15:00:31
 pub_date: 2021-02-23 15:00:31
 time_added: 2021-02-25 20:39:39
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/02/damares-alves-img11.jpg
 ---

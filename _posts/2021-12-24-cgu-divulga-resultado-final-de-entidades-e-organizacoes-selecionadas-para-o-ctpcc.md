@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-24 19:06:35
 pub_date: 2021-12-24 19:06:35
 time_added: 2021-12-24 20:06:35
-category: 
+categories: []
 tags: []
 image: https://www.gov.br/cgu/pt-br/assuntos/noticias/2021/12/cgu-divulga-resultado-final-de-entidades-e-organizacoes-selecionadas-para-o-ctpcc/20aceca4-072b-4e7c-8773-929d9df37a59.png/@@images/e61e7ff2-a95b-4539-a291-e89bd794f505.png
 ---

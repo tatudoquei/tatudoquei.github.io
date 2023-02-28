@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-17 23:20:46
 pub_date: 2023-01-17 23:20:46
 time_added: 2023-01-18 06:51:08
-category: 
+categories: []
 tags: []
 image: https://oeco.org.br/wp-content/uploads/2023/01/Reconstrucao-scaled.jpg
 ---

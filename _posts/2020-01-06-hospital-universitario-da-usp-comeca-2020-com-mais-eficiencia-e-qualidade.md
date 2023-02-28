@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-06 16:00:48
 pub_date: 2020-01-06 16:00:48
 time_added: 2020-01-16 07:42:57
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/12/20191218_00_hospital-universitario.jpg
 ---

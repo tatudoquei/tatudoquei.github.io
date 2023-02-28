@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-08 02:30:00
 pub_date: 2020-04-08 02:30:00
 time_added: 2020-04-08 12:23:05
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24358122-d9f-47d/FT1086A/652/coronavirus.jpg
 ---

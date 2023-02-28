@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-14 15:03:00
 pub_date: 2020-12-14 15:03:00
 time_added: 2020-12-14 18:32:40
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/64/2020/11/19/governador-de-sao-paulo-joao-doria-psdb-mostra-caixa-da-coronavac-1605814840055_v2_615x300.jpg
 ---

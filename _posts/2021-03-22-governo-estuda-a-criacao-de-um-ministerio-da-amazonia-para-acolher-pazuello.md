@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-22 20:07:48
 pub_date: 2021-03-22 20:07:48
 time_added: 2021-03-27 09:06:33
-category: 
+categories: []
 tags: [meio ambiente]
 image: https://www.oeco.org.br/wp-content/uploads/2021/03/50922567166_99e6fa9940_k.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-04 03:00:00
 pub_date: 2019-12-04 03:00:00
 time_added: 2019-12-04 15:34:17
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/12/2019/02/16/general-maynard-marques-de-santa-rosa-1550350334876_v2_300x200.jpg
 ---

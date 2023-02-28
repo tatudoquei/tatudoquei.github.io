@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-26 15:08:20
 pub_date: 2019-02-26 15:08:20
 time_added: 2019-12-23 21:21:00
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://apublica.org/wp-content/uploads/2019/02/valter-campanato-agencia-brasil.jpg
 ---

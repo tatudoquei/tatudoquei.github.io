@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-30 15:44:00
 pub_date: 2020-01-30 15:44:00
 time_added: 2020-01-30 21:27:24
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/af/2020/01/30/ex-secretario-executivo-da-casa-civil-vicente-santini-e-presidente-jair-bolsonaro-1580381816895_v2_615x300.jpg
 ---

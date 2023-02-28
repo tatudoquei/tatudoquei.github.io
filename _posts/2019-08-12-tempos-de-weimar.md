@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-12 08:00:01
 pub_date: 2019-08-12 08:00:01
 time_added: 2019-08-14 22:42:24
-category: 
+categories: []
 tags: []
 image: https://www.valor.com.br/sites/default/files/imagecache/media_library_big_horizontal/gn/19/08/foto12opin-201-col_op1-a10.jpg
 ---

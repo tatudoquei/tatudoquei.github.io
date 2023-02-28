@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-09 20:45:28
 pub_date: 2023-01-09 20:45:28
 time_added: 2023-01-10 23:57:15
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/dino1/alternates/LANDSCAPE_768/dino
 ---

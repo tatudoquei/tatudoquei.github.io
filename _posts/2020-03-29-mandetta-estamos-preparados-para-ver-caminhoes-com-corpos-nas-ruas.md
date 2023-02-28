@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-29 00:47:30
 pub_date: 2020-03-29 00:47:30
 time_added: 2020-03-29 19:21:07
-category: 
+categories: []
 tags: []
 image: http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2020/03/22/fnpsaudebolsonaro202003220281.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-07 02:39:03
 pub_date: 2020-04-07 02:39:03
 time_added: 2020-04-08 12:35:46
-category: 
+categories: []
 tags: []
 image: https://i1.wp.com/blogdoberta.com/wp-content/uploads/2020/04/respiradores_capa.png
 ---

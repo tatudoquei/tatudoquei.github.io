@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-16 14:48:08
 pub_date: 2020-06-16 14:48:08
 time_added: 2020-06-16 16:39:16
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/-JHIxAq3pLfRlWGKxJeLPeoJjMs=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2018/05/10/mariaeduarda2.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-31 20:54:00
 pub_date: 2022-10-31 20:54:00
 time_added: 2022-11-04 20:06:28
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/93/2022/10/30/o-presidente-do-tse-ministro-alexandre-de-moraes-em-coletiva-na-tarde-do-segundo-turno-1667155906207_v2_615x300.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-25 18:12:00
 pub_date: 2019-07-25 18:12:00
 time_added: 2019-07-27 07:57:49
-category: 
+categories: []
 tags: []
 image: https://cdn-istoe-ssl.akamaized.net/wp-content/uploads/sites/14/2019/04/pauloguedes1.jpg
 ---

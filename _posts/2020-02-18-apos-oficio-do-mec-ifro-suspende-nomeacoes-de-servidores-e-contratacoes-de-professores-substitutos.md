@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-18 19:25:15
 pub_date: 2020-02-18 19:25:15
 time_added: 2020-02-22 19:07:44
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/9nb-SKL-xcbY2zKTf6ksqNrSSIk=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/d/B/5X2Q7wTEuarwM99YL5DA/ifro-zona-norte.jpg
 ---

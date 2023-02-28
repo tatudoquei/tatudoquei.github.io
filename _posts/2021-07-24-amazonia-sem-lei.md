@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-24 11:13:26
 pub_date: 2021-07-24 11:13:26
 time_added: 2021-07-24 08:13:26
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/06/podcast-amazonia-sem-lei.png
 ---

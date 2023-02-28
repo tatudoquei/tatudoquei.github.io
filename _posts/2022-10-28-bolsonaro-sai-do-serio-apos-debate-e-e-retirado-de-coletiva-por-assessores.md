@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-28 23:41:00
 pub_date: 2022-10-28 23:41:00
 time_added: 2022-10-30 16:13:31
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/92/2022/10/28/o-presidente-jair-bolsonaro-pl-durante-debate-na-tv-globo-1667009537589_v2_615x300.jpg
 ---

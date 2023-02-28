@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-22 02:54:00
 pub_date: 2021-03-22 02:54:00
 time_added: 2021-03-27 18:44:59
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/de/2021/03/22/o-humorista-paulo-gustavo-foi-internado-com-covid-19-ele-esta-no-hospital-no-rio-de-janeiro-1616382728922_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-15 12:30:00
 pub_date: 2021-03-15 12:30:00
 time_added: 2021-03-21 09:22:10
-category: 
+categories: []
 tags: []
 image: https://www.diariodepernambuco.com.br/static/app/noticia_127983242361/2021/03/15/855092/20210315093508970570o.jpg
 ---

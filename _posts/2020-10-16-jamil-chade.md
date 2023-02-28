@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-16 01:09:00
 pub_date: 2020-10-16 01:09:00
 time_added: 2020-10-24 07:44:21
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/interacao/facebook/uol-noticias-600px.jpg
 ---

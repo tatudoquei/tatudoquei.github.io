@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-06 05:00:00
 pub_date: 2021-06-06 05:00:00
 time_added: 2021-06-13 20:57:33
-category: 
+categories: []
 tags: []
 image: https://midias.correiobraziliense.com.br/_midias/jpg/2021/06/05/600x412/1_w_pri_0606_opini-6694465.jpg
 ---

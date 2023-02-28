@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-25 04:06:01
 pub_date: 2020-04-25 04:06:01
 time_added: 2020-04-25 07:58:12
-category: refletimos
+categories: [refletimos]
 tags: [saúde]
 image: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-12 02:00:00
 pub_date: 2020-05-12 02:00:00
 time_added: 2020-05-19 22:17:19
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/65/2020/05/08/enem-exame-enem-impresso-enem-digital-2020-1588966058328_v2_750x421.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-30 20:38:33
 pub_date: 2021-05-30 20:38:33
 time_added: 2021-05-30 22:38:33
-category: 
+categories: []
 tags: []
 image: https://www.reuters.com/resizer/cChcBCd2sgJ6E_iAzqvQXRNvaRs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EFEWW73KBNPMVB3HXCLLDXNTBY.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-26 16:34:50
 pub_date: 2020-02-26 16:34:50
 time_added: 2020-02-26 17:34:50
-category: 
+categories: []
 tags: []
 image: http://avozdocerrado.com/wp-content/uploads/2020/02/Carnaval2020_Aguiade-Ouro_22022020_Foto_JoseCordeiro_0055-768x512.jpg
 ---

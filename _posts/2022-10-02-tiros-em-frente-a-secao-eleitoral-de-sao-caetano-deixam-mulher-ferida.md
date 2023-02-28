@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-02 14:40:18
 pub_date: 2022-10-02 14:40:18
 time_added: 2022-10-03 00:56:12
-category: 
+categories: []
 tags: []
 image: https://www.correio24horas.com.br/fileadmin/_processed_/1/2/csm_WhatsApp_Image_2022-10-02_at_11.02.05_0419b8408c.jpeg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-25 01:36:18
 pub_date: 2021-11-25 01:36:18
 time_added: 2021-11-25 02:36:18
-category: 
+categories: []
 tags: []
 image: https://ambiencia.blogfolha.uol.com.br/files/2019/09/Folhapress.jpg
 ---

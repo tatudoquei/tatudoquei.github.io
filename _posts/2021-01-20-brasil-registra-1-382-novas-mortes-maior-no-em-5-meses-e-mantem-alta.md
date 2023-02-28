@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-20 21:51:00
 pub_date: 2021-01-20 21:51:00
 time_added: 2021-01-21 15:51:02
-category: refletimos
+categories: [refletimos]
 tags: [saúde]
 image: https://conteudo.imguol.com.br/c/noticias/12/2020/08/12/paciente-com-covid-19-e-atendido-na-uti-do-hospital-tide-setubal-na-zona-leste-de-sao-paulo-1597279672186_v2_615x300.jpg
 ---

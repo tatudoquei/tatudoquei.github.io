@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-23 15:34:12
 pub_date: 2019-09-23 15:34:12
 time_added: 2019-09-25 07:00:27
-category: 
+categories: []
 tags: []
 image: https://cdn.cnn.com/cnnnext/dam/assets/190919135717-greta-thunberg-at-white-house-demonstration-super-tease.jpg
 ---

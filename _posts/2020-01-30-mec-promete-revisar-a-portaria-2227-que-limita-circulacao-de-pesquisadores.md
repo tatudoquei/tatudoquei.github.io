@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-30 18:21:43
 pub_date: 2020-01-30 18:21:43
 time_added: 2020-02-05 19:37:56
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2016/09/mec_educacao.jpg
 ---

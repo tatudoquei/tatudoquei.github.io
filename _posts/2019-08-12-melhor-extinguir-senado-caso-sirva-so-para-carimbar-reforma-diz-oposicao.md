@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-12 10:27:00
 pub_date: 2019-08-12 10:27:00
 time_added: 2019-08-14 07:00:57
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/08/maia_alcolumbre-615x300.jpg
 ---

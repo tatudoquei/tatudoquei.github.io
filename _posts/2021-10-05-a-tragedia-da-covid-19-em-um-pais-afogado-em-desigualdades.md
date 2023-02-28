@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-05 03:00:00
 pub_date: 2021-10-05 03:00:00
 time_added: 2021-10-17 14:24:39
-category: 
+categories: []
 tags: []
 image: https://mais.opovo.com.br/_midias/jpg/2021/09/21/capa_pandemia-17090231.jpg
 ---

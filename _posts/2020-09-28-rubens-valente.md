@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-28 02:00:00
 pub_date: 2020-09-28 02:00:00
 time_added: 2020-09-28 11:20:11
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/81/2020/09/25/ricardo-salles-e-jair-bolsonaro-1601036035532_v2_615x300.png
 ---

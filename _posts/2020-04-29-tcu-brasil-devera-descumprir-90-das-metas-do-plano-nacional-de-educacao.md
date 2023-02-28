@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-29 04:05:00
 pub_date: 2020-04-29 04:05:00
 time_added: 2020-04-29 12:18:35
-category: avisamos
+categories: [avisamos]
 tags: [educação]
 image: https://s2.glbimg.com/kUpbK5s4XdbSY6pei9v74EMUQ9g=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/10/31/abraham_weintraub.jpg
 ---

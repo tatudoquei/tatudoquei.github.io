@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-14 12:00:39
 pub_date: 2020-09-14 12:00:39
 time_added: 2020-09-15 19:32:26
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2020/09/3000.jpeg.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

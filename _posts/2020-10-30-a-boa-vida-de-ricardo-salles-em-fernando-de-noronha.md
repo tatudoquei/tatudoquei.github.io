@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-30 10:06:00
 pub_date: 2020-10-30 10:06:00
 time_added: 2020-10-31 20:45:53
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/20/2019/07/17/fernando-de-noronha-1563367966558_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-02 11:07:22
 pub_date: 2020-05-02 11:07:22
 time_added: 2020-05-02 17:33:47
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2020/05/pesquisa-mandetta.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

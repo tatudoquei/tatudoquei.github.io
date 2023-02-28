@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-05 20:42:42
 pub_date: 2020-04-05 20:42:42
 time_added: 2020-04-06 06:09:34
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/20dxWzZgnQLRn4gDIgtZ3N4fJww=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/6/X/MhaeLZSjW87IT5eG9nQQ/weintraub.jpg
 ---

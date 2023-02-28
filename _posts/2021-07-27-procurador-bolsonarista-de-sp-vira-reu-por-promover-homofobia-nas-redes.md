@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-27 11:29:25
 pub_date: 2021-07-27 11:29:25
 time_added: 2021-08-20 20:48:41
-category: 
+categories: []
 tags: []
 image: https://cdn.revistaforum.com.br/wp-content/uploads/2021/07/1-xi-9cofflh9esmv5ta99va.jpeg
 ---

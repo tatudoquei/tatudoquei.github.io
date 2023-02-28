@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-07 19:02:38
 pub_date: 2019-06-07 19:02:38
 time_added: 2019-06-07 21:02:38
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Reforma-da-Previd%C3%AAncia-terceirizando-a-articula%C3%A7%C3%A3o-pol%C3%ADtica1/ALTERNATES/LANDSCAPE_720/Reforma%20da%20Previd%C3%AAncia:%20terceirizando%20a%20articula%C3%A7%C3%A3o%20pol%C3%ADtica
 ---

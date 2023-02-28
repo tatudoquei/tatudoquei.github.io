@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-04 14:24:49
 pub_date: 2020-09-04 14:24:49
 time_added: 2020-09-04 22:57:18
-category: 
+categories: []
 tags: []
 image: https://infoamazonia.org/wp-content/uploads/2020/09/Foto-1-Subtenente-Joel-Silva_Corpo-de-Bombeiros-e1599194189240.jpeg
 ---

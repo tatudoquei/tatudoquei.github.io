@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-07 16:49:26
 pub_date: 2020-02-07 16:49:26
 time_added: 2020-02-10 12:04:43
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2020/02/04022020-Primeiro-Pleno-Des.-Lourival-Almeida-Trindade-15.jpg
 ---

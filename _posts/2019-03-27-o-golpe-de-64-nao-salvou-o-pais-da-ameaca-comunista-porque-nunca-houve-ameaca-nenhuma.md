@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-27 07:04:44
 pub_date: 2018-09-22 01:02:00
 time_added: 2019-03-27 07:04:44
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://theintercept.imgix.net/wp-uploads/sites/1/2018/09/10071944-high-1537215304.jpeg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800
 ---

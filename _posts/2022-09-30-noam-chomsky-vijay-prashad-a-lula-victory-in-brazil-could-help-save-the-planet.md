@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-30 04:00:00
 pub_date: 2022-09-30 04:00:00
 time_added: 2022-10-03 00:32:45
-category: 
+categories: []
 tags: []
 image: https://www.democracynow.org/images/blog_posts/97/64597/full_hd/WEBEX-noam-vijay-reversed.jpg
 ---

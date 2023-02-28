@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-15 14:30:00
 pub_date: 2020-04-15 14:30:00
 time_added: 2020-04-15 22:16:42
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24126366-f28-0e7/FT1086A/652/64599950_Esposa-do-Lula-ex-primeira-dama-Marisa-Leticia-teve-um-AVC.jpg
 ---

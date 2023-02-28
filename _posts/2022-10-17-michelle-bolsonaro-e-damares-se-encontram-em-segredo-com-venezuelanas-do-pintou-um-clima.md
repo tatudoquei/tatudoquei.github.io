@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-17 16:31:00
 pub_date: 2022-10-17 16:31:00
 time_added: 2022-10-22 17:35:56
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/fKNmFEez_NYBMqWDkgp6bpziq6U=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/C/s/FKvoAoSnWRJWxPM08fLw/87378409-pa-brasilia-bsb-06-03-2020-cerimonia-alusiva-ao-dia-internacional-da-mulher-palacio-do-pla.jpg
 ---

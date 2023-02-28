@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-29 16:49:00
 pub_date: 2019-03-29 16:49:00
 time_added: 2019-03-30 09:28:09
-category: resistimos
+categories: [resistimos]
 tags: []
 image: https://f.i.uol.com.br/fotografia/2019/03/29/15538916495c9e81410f6ba_1553891649_3x2_rt.jpg
 ---

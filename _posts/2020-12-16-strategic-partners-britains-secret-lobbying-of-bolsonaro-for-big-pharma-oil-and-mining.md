@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-16 10:55:57
 pub_date: 2020-12-16 10:55:57
 time_added: 2020-12-17 20:49:33
-category: 
+categories: []
 tags: []
 image: https://www.brasilwire.com/wp-content/uploads/2020/12/astrazenencabolsonarocover-400x400.jpg
 ---

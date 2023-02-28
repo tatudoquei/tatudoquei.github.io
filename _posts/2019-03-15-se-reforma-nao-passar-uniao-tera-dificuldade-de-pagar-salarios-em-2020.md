@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-15 19:59:53
 pub_date: 2019-03-15 19:59:53
 time_added: 2019-12-23 21:19:33
-category: refletimos
+categories: [refletimos]
 tags: [economia]
 image: https://odia.ig.com.br/_midias/jpg/2019/01/07/700x470/1_mcmgo_abr_07011910138df-9214281.jpg
 ---

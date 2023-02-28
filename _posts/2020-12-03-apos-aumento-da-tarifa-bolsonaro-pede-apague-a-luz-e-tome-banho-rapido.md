@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-03 23:04:00
 pub_date: 2020-12-03 23:04:00
 time_added: 2020-12-04 20:24:23
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/de/2020/12/03/bolsonaro-participa-de-live-semanal-nas-redes-sociais-1607035420105_v2_615x300.jpg
 ---

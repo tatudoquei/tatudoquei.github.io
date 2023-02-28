@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-05-26 23:00:50
 pub_date: 2022-05-26 23:00:50
 time_added: 2022-10-31 00:25:40
-category: 
+categories: []
 tags: []
 image: http://ponte.org/wp-content/uploads/2022/05/cruzeiro_prf.jpg
 ---

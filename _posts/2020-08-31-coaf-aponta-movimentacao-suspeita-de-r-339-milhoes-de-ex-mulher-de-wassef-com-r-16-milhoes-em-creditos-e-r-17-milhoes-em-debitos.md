@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-31 02:00:00
 pub_date: 2020-08-31 02:00:00
 time_added: 2020-08-31 17:46:51
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/Cd_rAjcX2EermA9QBUHQ5V0SZD8=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2020/08/30/mg_2913.jpg.png.jpeg
 ---

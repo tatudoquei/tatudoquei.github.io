@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-19 18:49:32
 pub_date: 2019-12-19 18:49:32
 time_added: 2019-12-22 00:45:14
-category: 
+categories: []
 tags: []
 image: http://scd.br.rfi.fr/sites/brasil.filesrfi/imagecache/rfi_16x9_1024_578/sites/images.rfi.fr/files/aefimagesnew/aef_image/arassari_8.jpg
 ---

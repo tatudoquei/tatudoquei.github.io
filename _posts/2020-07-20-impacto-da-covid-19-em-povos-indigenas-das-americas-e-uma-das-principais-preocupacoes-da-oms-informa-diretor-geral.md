@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-20 15:04:25
 pub_date: 2020-07-20 15:04:25
 time_added: 2020-09-16 20:24:38
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/E_sKccqqvIlp4UyAQhxCqnJbzp0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/E/A/jISFzeQcWwVAcRaVRRiA/yanomami-survival.jpg
 ---

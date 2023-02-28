@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-11 18:00:00
 pub_date: 2021-11-11 18:00:00
 time_added: 2023-01-21 10:20:07
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/11/facebook-militar-que-tratou-de-vacina-teria-atuado-para-empresa-investigada-por-falsificacao.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-14 13:21:46
 pub_date: 2023-01-14 13:21:46
 time_added: 2023-01-14 14:21:46
-category: 
+categories: []
 tags: []
 image: https://static.aosfatos.org/media/images/entries/08012022_convocacao_ato_golpista-brasilia.jpg.570x384_q85_box-7,0,2033,1366_crop_upscale.jpg
 ---

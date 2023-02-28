@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-27 10:48:00
 pub_date: 2019-12-27 10:48:00
 time_added: 2019-12-27 20:45:02
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/a1/2019/04/11/sus-1554993604911_615x300.png
 ---

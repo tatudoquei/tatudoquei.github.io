@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-20 17:00:06
 pub_date: 2020-08-20 17:00:06
 time_added: 2021-01-07 20:50:50
-category: 
+categories: []
 tags: []
 image: https://cdn-statics.brazilian.report/wp-content/uploads/2020/08/shutterstock_1782789830.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-22 01:37:58
 pub_date: 2019-01-22 01:37:58
 time_added: 2019-12-23 21:41:25
-category: refletimos
+categories: [refletimos]
 tags: [economia]
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2019/01/arnaldo-francisco-476x350.jpg
 ---

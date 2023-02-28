@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-11 08:00:01
 pub_date: 2019-07-11 08:00:01
 time_added: 2019-07-11 18:52:02
-category: 
+categories: []
 tags: []
 image: https://www.valor.com.br/sites/default/files/imagecache/media_library_big_horizontal/gn/19/07/arte11bra-101-previd-a8.jpg
 ---

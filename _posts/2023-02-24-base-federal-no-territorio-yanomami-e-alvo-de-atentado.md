@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-24 13:21:34
 pub_date: 2023-02-24 13:21:34
 time_added: 2023-02-26 09:27:37
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Barco-Yanomami-Ibama/alternates/LANDSCAPE_768/Barco%20Yanomami%20Ibama
 ---

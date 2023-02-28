@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-29 14:33:00
 pub_date: 2020-03-29 14:33:00
 time_added: 2020-03-30 09:21:12
-category: 
+categories: []
 tags: []
 image: https://bucket2.glanacion.com/anexos/fotos/03/3223503.jpg
 ---

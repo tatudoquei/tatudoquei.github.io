@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-06 08:20:56
 pub_date: 2019-11-06 08:20:56
 time_added: 2019-11-08 20:52:37
-category: 
+categories: []
 tags: []
 image: https://educacao.estadao.com.br/blogs/blog-renata-cafardo/wp-content/uploads/sites/704/2019/05/wei.jpg
 ---

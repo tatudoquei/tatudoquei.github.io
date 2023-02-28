@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-11 22:41:33
 pub_date: 2020-02-11 22:41:33
 time_added: 2020-02-11 23:41:33
-category: 
+categories: []
 tags: []
 image: http://www.fnpetroleiros.org.br/arquivo/thumb/noticias/5842c0739baf619ab985_600x460_0_0_1_1.jpeg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-03 23:36:00
 pub_date: 2020-12-03 23:36:00
 time_added: 2020-12-04 01:55:18
-category: 
+categories: []
 tags: [meio ambiente]
 image: https://conteudo.imguol.com.br/c/noticias/de/2020/12/03/bolsonaro-participa-de-live-semanal-nas-redes-sociais-1607035420105_v2_615x300.jpg
 ---

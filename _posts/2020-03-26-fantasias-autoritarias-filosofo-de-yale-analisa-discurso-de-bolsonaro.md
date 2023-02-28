@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-26 09:44:00
 pub_date: 2020-03-26 09:44:00
 time_added: 2020-03-26 20:35:05
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/277/files/2020/03/stanley.jpg
 ---

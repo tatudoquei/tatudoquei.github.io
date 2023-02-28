@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-10 18:49:30
 pub_date: 2020-01-10 18:49:30
 time_added: 2020-01-11 15:01:01
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://jornalggn.com.br/sites/default/files/2020/01/se-voce-afirma-que-nao-utiliza-o-sus-voce-esta-enganado-por-rita-almeida-sus-agencia-brasil.jpg
 ---

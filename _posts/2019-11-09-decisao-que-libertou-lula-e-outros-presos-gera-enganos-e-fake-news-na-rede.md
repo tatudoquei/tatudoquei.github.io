@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-09 03:04:00
 pub_date: 2019-11-09 03:04:00
 time_added: 2019-11-09 10:06:29
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/cb/2019/11/08/confere-stf-2-1573247578609_v2_615x300.jpg
 ---

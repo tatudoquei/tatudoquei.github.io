@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-14 22:48:09
 pub_date: 2023-02-14 22:48:09
 time_added: 2023-02-26 17:53:43
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/durma-1402social2-100.jpg/alternates/LANDSCAPE_768/durma-1402social2-100.jpg
 ---

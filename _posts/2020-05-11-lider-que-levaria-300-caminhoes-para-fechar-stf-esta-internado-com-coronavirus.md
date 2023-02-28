@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-11 17:06:26
 pub_date: 2020-05-11 17:06:26
 time_added: 2020-05-11 17:58:19
-category: 
+categories: []
 tags: []
 image: https://cdn.revistaforum.com.br/wp-content/uploads/2020/05/bolsonaristas.jpg
 ---

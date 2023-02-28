@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-03 15:55:00
 pub_date: 2020-01-03 15:55:00
 time_added: 2020-01-05 09:49:19
-category: avisamos
+categories: [avisamos]
 tags: [educação]
 image: https://conteudo.imguol.com.br/c/noticias/7f/2019/12/27/presidente-jair-bolsonaro-entra-em-carro-na-saida-do-palacio-da-alvorada-1577446397087_v2_615x300.jpg
 ---

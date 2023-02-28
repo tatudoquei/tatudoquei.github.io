@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-02 08:03:00
 pub_date: 2022-12-02 08:03:00
 time_added: 2022-12-18 22:28:51
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2022/12/GettyImages-1190020381-coluna-imprensa-jornalismo-choquei-redes.jpg
 ---

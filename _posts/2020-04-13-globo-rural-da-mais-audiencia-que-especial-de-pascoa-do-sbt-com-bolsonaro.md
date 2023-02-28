@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-13 15:47:18
 pub_date: 2020-04-13 15:47:18
 time_added: 2020-04-13 21:20:25
-category: 
+categories: []
 tags: []
 image: https://teleguiado.com/wp-content/uploads/2020/04/7996692_x720-1000x600.jpg
 ---

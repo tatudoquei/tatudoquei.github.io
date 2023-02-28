@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-26 17:09:00
 pub_date: 2020-02-26 17:09:00
 time_added: 2020-02-27 13:28:40
-category: 
+categories: []
 tags: []
 image: https://img.cadaminuto.com.br/cadaminuto/imagens/3560d9fd-40c5-4b79-a988-6c5e2b702053.png/:/rs=w:600,h:315,i:true,cg:true,ft:cover?cache=true
 ---

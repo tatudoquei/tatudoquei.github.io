@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-08 20:02:00
 pub_date: 2023-02-08 20:02:00
 time_added: 2023-02-26 17:56:50
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/8b/2023/01/23/segundo-o-ministerio-dos-povos-indigenas-ao-menos-99-criancas-morreram-em-2022-vitimas-de-desnutricao-e-outras-doencas-em-terras-yanomami-foto-urihi-yanomami-1674477289423_v2_615x300.jpg
 ---

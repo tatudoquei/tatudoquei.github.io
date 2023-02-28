@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-10 09:00:00
 pub_date: 2020-10-10 09:00:00
 time_added: 2020-10-10 14:29:47
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/10/Olavo-IR-redes.jpg
 ---

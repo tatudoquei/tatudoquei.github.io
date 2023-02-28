@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-11 17:16:00
 pub_date: 2020-02-11 17:16:00
 time_added: 2020-02-12 07:56:37
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/74/2020/02/11/o-presidente-jair-bolsonaro-durante-cerimonia-que-marca-a-criacao-do-conselho-nacional-da-amazonia-legal-1581455966499_v2_615x300.jpg
 ---

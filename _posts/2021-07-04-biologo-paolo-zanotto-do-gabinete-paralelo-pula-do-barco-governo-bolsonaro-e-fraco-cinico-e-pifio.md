@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-04 15:47:43
 pub_date: 2021-07-04 15:47:43
 time_added: 2021-07-04 12:47:43
-category: 
+categories: []
 tags: []
 image: https://www.diariodocentrodomundo.com.br/wp-content/uploads/2021/06/paolo-zanotto-reuniao-planalto.jpg
 ---

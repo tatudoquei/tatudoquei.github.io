@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-21 15:10:00
 pub_date: 2019-11-21 15:10:00
 time_added: 2019-11-26 20:19:53
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/11/2019/11/21/reuniao-entre-o-presidente-bolsonaro-o-chanceler-ernesto-araujo-e-os-representantes-de-guaido-maria-teresa-belandria-e-tomas-silva-a-direita-1574362770955_v2_615x300.jpg
 ---

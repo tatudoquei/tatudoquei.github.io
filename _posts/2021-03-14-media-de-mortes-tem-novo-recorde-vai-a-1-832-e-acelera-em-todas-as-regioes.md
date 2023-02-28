@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-14 17:12:00
 pub_date: 2021-03-14 17:12:00
 time_added: 2021-03-21 09:17:51
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a3/2020/05/28/coveiros-vestindo-roupas-de-protecao-carregam-o-caixao-de-andre-wendel-que-morreu-da-doenca-de-coronavirus-covid-19-no-cemiterio-sao-joao-batista-no-rio-de-janeiro-1590720008309_v2_615x300.jpg
 ---

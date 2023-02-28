@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-03 15:26:11
 pub_date: 2021-02-03 15:26:11
 time_added: 2021-02-07 23:15:55
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/02/jair-bolsonaro-impeachment.jpg
 ---

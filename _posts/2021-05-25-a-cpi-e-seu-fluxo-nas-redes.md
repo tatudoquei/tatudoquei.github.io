@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-25 21:25:18
 pub_date: 2021-05-25 21:25:18
 time_added: 2021-06-13 21:01:57
-category: 
+categories: []
 tags: []
 image: https://essatalredesocial.files.wordpress.com/2021/05/tamanho-geral-1.png
 ---

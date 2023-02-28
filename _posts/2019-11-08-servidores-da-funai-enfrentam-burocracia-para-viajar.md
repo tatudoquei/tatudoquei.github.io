@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-08 15:06:34
 pub_date: 2019-11-08 15:06:34
 time_added: 2019-11-12 07:02:42
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2019/11/novas-regras-de-viagens-dificultam-ainda-mais-trabalho-da-funai-com-povos-indigenas.jpg
 ---

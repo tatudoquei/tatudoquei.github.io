@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-05 18:12:00
 pub_date: 2019-09-05 18:12:00
 time_added: 2019-09-07 08:20:58
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2a/2017/06/27/22jun2017---o-procurador-mario-bonsaglia-durante-debate-entre-os-candidatos-a-lista-triplice-para-o-cargo-de-procurador-geral-da-republica-em-brasilia-1498602829607_615x300.jpg
 ---

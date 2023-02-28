@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-01 21:02:00
 pub_date: 2021-03-01 21:02:00
 time_added: 2021-03-06 22:08:12
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/1f/2021/01/12/coronavirus-rna-genoma-do-virus-1610454347923_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-21 13:57:00
 pub_date: 2021-07-21 13:57:00
 time_added: 2021-07-25 17:00:49
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25108776-ba6-af2/FT1086A/Emanuela-CPI-5.jpeg.jpg
 ---

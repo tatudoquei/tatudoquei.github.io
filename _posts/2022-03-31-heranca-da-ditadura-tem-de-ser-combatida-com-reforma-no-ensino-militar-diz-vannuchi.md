@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-03-31 15:50:00
 pub_date: 2022-03-31 15:50:00
 time_added: 2023-01-14 14:25:42
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2022/03/capa-facebook-heranca-da-ditadura-tem-de-ser-combatida-com-reforma-no-ensino-militar-diz-vannuchi.png
 ---

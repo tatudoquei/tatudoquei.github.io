@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-15 07:30:00
 pub_date: 2021-08-15 07:30:00
 time_added: 2021-08-20 21:55:16
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25154950-0c2-23b/FT1086A/760/93181371_PAPorto-Velho-RO-02-06-2021-Especial-AmazoniaAssentamento-da-Flona-JacundaFlorest.jpg
 ---

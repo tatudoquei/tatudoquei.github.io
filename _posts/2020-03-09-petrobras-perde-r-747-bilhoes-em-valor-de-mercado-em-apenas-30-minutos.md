@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-09 14:06:50
 pub_date: 2020-03-09 14:06:50
 time_added: 2020-03-09 15:23:19
-category: avisamos
+categories: [avisamos]
 tags: [economia]
 image: https://s2.glbimg.com/MmZqXVCRbIkvGXjAfMLBKzwGpiw=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2019/1/7/zD8dzKQa6jdt2m5hgAWg/queda.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-11 23:31:00
 pub_date: 2021-01-11 23:31:00
 time_added: 2021-01-12 13:03:33
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24824907-d1c-1dd/FT1086A/652/90345617_PA-Brasilia-BSB-03-11-2020-Coletiva-de-Imprensa-com-o-Vice-Presidente-da-Republica-e-presid.jpg
 ---

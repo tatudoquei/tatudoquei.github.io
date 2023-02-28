@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-10 23:00:39
 pub_date: 2019-06-10 23:00:39
 time_added: 2019-06-12 21:15:52
-category: 
+categories: []
 tags: []
 image: https://cultura.estadao.com.br/blogs/direto-da-fonte/wp-content/uploads/sites/290/2019/04/44389251-460x306.jpg
 ---

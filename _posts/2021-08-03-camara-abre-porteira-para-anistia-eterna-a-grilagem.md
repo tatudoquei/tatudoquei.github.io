@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-03 03:00:00
 pub_date: 2021-08-03 03:00:00
 time_added: 2021-08-05 06:26:27
-category: 
+categories: []
 tags: []
 image: https://www.oc.eco.br/wp-content/uploads/2021/08/Grileiros.jpg
 ---

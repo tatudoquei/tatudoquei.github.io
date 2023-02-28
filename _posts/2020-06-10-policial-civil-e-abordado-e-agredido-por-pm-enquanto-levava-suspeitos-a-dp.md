@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-10 19:19:00
 pub_date: 2020-06-10 19:19:00
 time_added: 2020-06-11 20:06:24
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/18/2020/06/10/fachada-da-1-deatur-divisao-especializada-de-atendimento-ao-turista-no-centro-de-sao-paulo-1591829071343_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-20 05:53:50
 pub_date: 2019-08-20 05:53:50
 time_added: 2019-08-20 07:53:50
-category: 
+categories: []
 tags: []
 image: http://www.esquerdadiario.com.br/IMG/arton30209.jpg
 ---

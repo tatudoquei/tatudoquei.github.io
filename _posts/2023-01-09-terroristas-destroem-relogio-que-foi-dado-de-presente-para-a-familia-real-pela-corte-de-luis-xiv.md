@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-09 11:56:54
 pub_date: 2023-01-09 11:56:54
 time_added: 2023-01-14 14:25:07
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/YRFBhEoMRaWm__5bys8OOd7J0SM=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/s/ALdxsmTQyLA1ekQEofeQ/relogio.jpg
 ---

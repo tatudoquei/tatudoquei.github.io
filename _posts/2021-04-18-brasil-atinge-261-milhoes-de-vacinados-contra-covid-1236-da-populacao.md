@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-18 18:00:00
 pub_date: 2021-04-18 18:00:00
 time_added: 2021-05-16 20:36:52
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/64/2021/01/19/primeira-vacinada-em-pe-quer-se-formar-em-direito-e-se-diz-cansada-do-negacionismo-1611031000371_v2_615x300.jpg
 ---

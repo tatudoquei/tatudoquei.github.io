@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-02 23:19:04
 pub_date: 2022-10-02 23:19:04
 time_added: 2022-10-03 01:19:04
-category: 
+categories: []
 tags: []
 image: https://static.aosfatos.org/media/images/entries/radar_26.set_-_gettr_rumble.png.570x384_q85_box-213,0,2340,1436_crop_upscale.png
 ---

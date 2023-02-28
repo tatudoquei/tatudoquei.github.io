@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-20 14:00:00
 pub_date: 2020-04-20 14:00:00
 time_added: 2020-04-21 05:29:17
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/brasil/24077017-1b6-2e5/FT1086A/652/Flavio-Bolsonaro.jpg
 ---

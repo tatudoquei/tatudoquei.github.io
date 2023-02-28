@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-24 19:54:06
 pub_date: 2018-09-28 06:00:00
 time_added: 2019-10-24 19:54:06
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23107884-57c-484/FT1086A/652/produtora1.png
 ---

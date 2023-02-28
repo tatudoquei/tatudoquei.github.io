@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-15 16:54:00
 pub_date: 2020-03-15 16:54:00
 time_added: 2020-03-18 17:09:43
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e1/2020/03/15/15mar2020---o-presidente-da-republica-jair-bolsonaro-desce-a-rampa-do-palacio-do-planalto-em-brasilia-para-cumprimentar-manifestantes-que-participavam-de-ato-pro-governo-1584302620272_v2_615x300.jpg
 ---

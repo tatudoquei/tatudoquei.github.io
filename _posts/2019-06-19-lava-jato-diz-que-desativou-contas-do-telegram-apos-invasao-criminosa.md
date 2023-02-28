@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-19 18:09:00
 pub_date: 2019-06-19 18:09:00
 time_added: 2019-06-21 21:02:14
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/interacao/facebook/uol-noticias-600px.jpg
 ---

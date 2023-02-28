@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-10 21:43:53
 pub_date: 2019-09-10 21:43:53
 time_added: 2019-09-11 20:56:29
-category: 
+categories: []
 tags: []
 image: http://www.anpg.org.br/wp-content/uploads/2019/09/greve-geral-2.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-17 03:00:00
 pub_date: 2021-08-17 03:00:00
 time_added: 2021-09-06 08:18:28
-category: 
+categories: []
 tags: []
 image: https://images.newrepublic.com/60821f4af5711d1b2562c15a3bbe2c2b4b2360c0.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg
 ---

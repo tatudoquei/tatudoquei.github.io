@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-03 21:29:00
 pub_date: 2021-01-03 21:29:00
 time_added: 2021-01-05 13:59:20
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/94/2020/12/19/regiao-da-25-de-marco-aglomeracao-durante-as-compras-de-natal-1608403614956_v2_615x300.jpg
 ---

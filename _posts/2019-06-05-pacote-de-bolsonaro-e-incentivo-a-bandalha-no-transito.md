@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-05 05:07:00
 pub_date: 2019-06-05 05:07:00
 time_added: 2019-06-05 18:21:35
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/jQDNHnp4OzRGIvzILOU8SYjxQZo=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/05/20/82770802_brazilian_president_jair_bolsonaro_speaks_during_a_ceremony_at_the_federation_of_indust.jpg
 ---

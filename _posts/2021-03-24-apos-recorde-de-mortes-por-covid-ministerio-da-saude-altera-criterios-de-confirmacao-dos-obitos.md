@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-24 16:39:40
 pub_date: 2021-03-24 16:39:40
 time_added: 2021-03-27 19:05:02
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/4AqhYtmzXAAaiUqhcBmRSyZhX2s=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/c/2/zDNGN9QHacjThpzwvGSw/fichas-covid.png
 ---

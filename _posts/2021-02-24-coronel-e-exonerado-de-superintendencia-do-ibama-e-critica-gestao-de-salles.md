@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-24 01:08:20
 pub_date: 2021-02-24 01:08:20
 time_added: 2021-02-25 20:41:35
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/02/Oeco_ibama-mato-grosso-do-sul.jpg
 ---

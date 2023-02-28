@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-16 22:00:00
 pub_date: 2020-04-16 22:00:00
 time_added: 2020-04-19 06:27:22
-category: 
+categories: []
 tags: []
 image: https://newleftreview.org/media/W1siZiIsIjIwMjAvMDQvMTcvNzA4b2JlYnk5Zl9OTFIxMjJfY292ZXIucG5nIl1d?sha=6a468ab1bb0f7bfd
 ---

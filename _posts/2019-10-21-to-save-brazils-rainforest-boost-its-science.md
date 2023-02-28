@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-21 22:00:00
 pub_date: 2019-10-21 22:00:00
 time_added: 2019-10-22 23:26:15
-category: refletimos
+categories: [refletimos]
 tags: [ciência, meio ambiente]
 image: https://media.nature.com/lw1024/magazine-assets/d41586-019-03169-0/d41586-019-03169-0_17301932.jpg
 ---

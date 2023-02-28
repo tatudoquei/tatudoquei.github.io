@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-08 20:46:24
 pub_date: 2019-04-08 20:46:24
 time_added: 2019-04-09 18:47:12
-category: 
+categories: []
 tags: []
 image: https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/sirius_16x9.jpg?itok=CQRZ7Vo5
 ---

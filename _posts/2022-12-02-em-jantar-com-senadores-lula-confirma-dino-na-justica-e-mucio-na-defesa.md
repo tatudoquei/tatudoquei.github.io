@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-02 17:54:00
 pub_date: 2022-12-02 17:54:00
 time_added: 2022-12-03 22:23:51
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ce/2022/11/16/16nov22---o-presidente-eleito-luiz-inacio-lula-da-silva-pt-participa-da-cupula-do-clima-cop27-em-sharm-el-sheikh-egito-1668594251949_v2_750x421.jpg
 ---

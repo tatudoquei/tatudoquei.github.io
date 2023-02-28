@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-08 10:52:00
 pub_date: 2020-04-08 10:52:00
 time_added: 2020-04-08 18:53:30
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/90/2020/04/06/06042020---paciente-chega-no-hospital-de-campanha-no-estadio-do-pacaembu-em-sao-paulo-sp-nesta-segunda-feira-6-local-passa-a-receber-exclusivamente-pacientes-com-suspeita-ou-confirmados-de-estarem-1586203201048_v2_615x300.jpg
 ---

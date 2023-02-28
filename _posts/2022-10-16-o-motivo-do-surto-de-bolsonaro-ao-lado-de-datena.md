@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-16 13:08:14
 pub_date: 2022-10-16 13:08:14
 time_added: 2022-10-16 15:08:14
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/fUrwE7Z9_Irl2ZV2HB_D0ENcb-M=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/j/O/EpAR82Soy87oQ5r7ek9g/100764433-brasilia-df-07102022-jair-bolsonaro-df-o-presidente-jair-bolsonaro-pl-com-o-apresentador.jpg
 ---

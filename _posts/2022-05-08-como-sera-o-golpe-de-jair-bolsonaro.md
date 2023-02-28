@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-05-08 09:00:00
 pub_date: 2022-05-08 09:00:00
 time_added: 2022-05-08 13:47:55
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/www.jornalismo.art/wp-content/uploads/2020/05/cccb04-scaled.jpg?resize=1000%2C600&ssl=1
 ---

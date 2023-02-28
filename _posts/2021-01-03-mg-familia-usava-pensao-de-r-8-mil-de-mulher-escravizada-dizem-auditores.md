@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-03 03:03:00
 pub_date: 2021-01-03 03:03:00
 time_added: 2021-01-03 13:47:35
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/4c/2020/12/23/23dez2020---madalena-gordiano-46-viveu-sob-regime-analogo-a-escravidao-por-38-anos-1608761382447_v2_615x300.jpg
 ---

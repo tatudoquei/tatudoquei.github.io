@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-03 21:38:02
 pub_date: 2020-08-03 21:38:02
 time_added: 2020-08-04 13:20:52
-category: 
+categories: []
 tags: []
 image: https://amazoniareal.com.br/wp-content/uploads/2020/08/Mulheres-Kanamari-e-equipe-da-Sesai-Foto-cedida-por-Lucinho-Kanamari-2.jpeg
 ---

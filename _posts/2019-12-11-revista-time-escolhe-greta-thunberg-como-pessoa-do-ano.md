@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-11 12:54:13
 pub_date: 2019-12-11 12:54:13
 time_added: 2019-12-11 20:35:35
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/QYoHaN3VZR56qPH_bcmUWmtu2DA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/N/A/cKnfMJQlWdtA1aA76RBA/greta.jpg
 ---

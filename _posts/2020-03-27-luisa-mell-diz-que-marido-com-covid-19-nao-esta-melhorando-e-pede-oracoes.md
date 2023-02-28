@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-27 11:32:00
 pub_date: 2020-03-27 11:32:00
 time_added: 2020-03-28 09:02:15
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/f0/2020/03/16/luisa-mell-revela-que-esta-doente-e-aguarda-resultado-de-teste-de-coronavirus-1584389997206_v2_615x300.jpg
 ---

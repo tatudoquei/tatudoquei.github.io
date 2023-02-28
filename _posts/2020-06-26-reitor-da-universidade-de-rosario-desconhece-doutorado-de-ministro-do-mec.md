@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-26 13:05:00
 pub_date: 2020-06-26 13:05:00
 time_added: 2020-06-28 17:27:40
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/10/2020/06/25/o-presidente-jair-bolsonaro-e-o-ministro-da-educacao-carlos-alberto-decotelli-1593125572895_v2_615x300.png
 ---

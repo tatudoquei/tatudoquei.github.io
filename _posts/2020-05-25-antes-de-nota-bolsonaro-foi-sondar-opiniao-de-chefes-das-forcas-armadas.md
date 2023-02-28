@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-25 16:53:00
 pub_date: 2020-05-25 16:53:00
 time_added: 2020-05-26 08:32:18
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/33/2020/03/16/augusto-aras-e-cumprimentado-por-jair-bolsonaro-no-dia-da-posse-observado-por-sergio-moro-1584346549642_v2_615x300.jpg
 ---

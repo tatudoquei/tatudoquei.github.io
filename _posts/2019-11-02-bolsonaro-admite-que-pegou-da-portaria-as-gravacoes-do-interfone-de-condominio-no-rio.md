@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-02 23:10:25
 pub_date: 2019-11-02 23:10:25
 time_added: 2020-04-28 04:29:00
-category: 
+categories: []
 tags: []
 image: https://jornalggn.com.br/sites/default/files/2019/03/bolsonaro-tem-pior-avaliacao-entre-todos-presidentes-em-comeco-de-governo-mostra-ibope-ece2a6b112540e756a6427100c6345d4.jpg
 ---

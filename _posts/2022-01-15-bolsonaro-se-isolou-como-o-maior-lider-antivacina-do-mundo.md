@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-01-15 09:00:00
 pub_date: 2022-01-15 09:00:00
 time_added: 2022-01-15 21:24:17
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2022/01/wnd-bolso-Selo-The-Intercept-Redes.jpg
 ---

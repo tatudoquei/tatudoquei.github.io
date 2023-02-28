@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-14 17:28:19
 pub_date: 2020-04-14 17:28:19
 time_added: 2020-04-15 14:05:25
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/04/13/science/cough-image-still-promo/cough-image-still-promo-facebookJumbo-v2.jpg
 ---

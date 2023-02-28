@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-23 13:45:55
 pub_date: 2019-04-23 13:45:55
 time_added: 2019-06-03 20:00:15
-category: 
+categories: []
 tags: []
 image: https://www12.senado.leg.br/noticias/materias/2019/04/23/projeto-acaba-com-a-reserva-florestal-obrigatoria-em-propriedades-rurais/amazonia_20190205_00491.jpg
 ---

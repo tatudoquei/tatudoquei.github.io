@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-02 16:41:44
 pub_date: 2019-08-02 16:41:44
 time_added: 2019-08-04 07:58:17
-category: 
+categories: []
 tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2017/05/portaria_principal2.jpg
 ---

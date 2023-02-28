@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-01 23:13:23
 pub_date: 2019-07-01 23:13:23
 time_added: 2019-07-04 22:30:36
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/01/antonio-hamilton-rossell-mourao-1.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

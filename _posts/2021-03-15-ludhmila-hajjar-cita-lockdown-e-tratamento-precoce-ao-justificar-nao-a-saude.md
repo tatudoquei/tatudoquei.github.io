@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-15 16:41:01
 pub_date: 2021-03-15 16:41:01
 time_added: 2021-03-21 09:21:52
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/03/ludhmila-1200x630.jpg
 ---

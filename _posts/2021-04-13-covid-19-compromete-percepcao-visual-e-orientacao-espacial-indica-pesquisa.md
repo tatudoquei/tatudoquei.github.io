@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-13 22:00:00
 pub_date: 2021-04-13 22:00:00
 time_added: 2021-04-16 05:31:17
-category: 
+categories: []
 tags: []
 image: https://ufmg.br/thumbor/G-xOIkHtbkZjH9L5GRa3g3NP1Ow=/300x200/smart/https://ufmg.br/storage/e/9/1/1/e911ea502486afe287704657734b40bf_16184232007582_1169367130.png
 ---

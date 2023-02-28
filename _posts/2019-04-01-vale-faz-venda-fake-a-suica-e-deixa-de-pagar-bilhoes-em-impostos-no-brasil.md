@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-01 02:02:00
 pub_date: 2019-04-01 02:02:00
 time_added: 2019-04-01 19:21:32
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b0/2019/01/29/logo-da-sede-da-mineradora-vale-sa-em-brumadinho-mg-1548765241349_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-04 09:33:16
 pub_date: 2020-02-04 09:33:16
 time_added: 2020-02-04 19:53:15
-category: 
+categories: []
 tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2018/02/Lattes-Plataforma.jpg
 ---

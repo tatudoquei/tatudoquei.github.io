@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-25 19:52:19
 pub_date: 2021-07-25 19:52:19
 time_added: 2021-07-25 16:52:19
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2021/07/elcio-redes.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-13 16:00:00
 pub_date: 2023-01-13 16:00:00
 time_added: 2023-01-14 14:40:19
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/29/2023/01/12/lula-participa-de-cafe-da-manha-com-jornalistas-1673541396879_v2_750x421.jpg
 ---

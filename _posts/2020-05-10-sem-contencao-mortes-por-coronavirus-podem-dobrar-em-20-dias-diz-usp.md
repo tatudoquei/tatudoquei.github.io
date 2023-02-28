@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-10 02:30:00
 pub_date: 2020-05-10 02:30:00
 time_added: 2020-05-11 12:10:18
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24419035-a9a-1b4/FT1086A/652/Cemiterio-Parque-Taruma-em-Manaus-uma-das-cidades-mais-afetadas-pela-pandemia.jpg
 ---

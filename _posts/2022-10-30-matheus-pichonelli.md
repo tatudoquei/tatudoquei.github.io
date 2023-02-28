@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-30 21:05:00
 pub_date: 2022-10-30 21:05:00
 time_added: 2022-10-31 13:14:15
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/35/2020/03/04/bolsonaro-ao-lado-do-humorista-carioca-no-palacio-da-alvorada-1583340979294_v2_615x300.jpg
 ---

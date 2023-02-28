@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-22 02:01:04
 pub_date: 2020-01-22 02:01:04
 time_added: 2020-01-26 17:48:21
-category: 
+categories: []
 tags: []
 image: https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F0%2F3%2F1%2F4%2F24514130-6-eng-GB%2F20200123_Singapore_Main.jpg?source=nar-cms&width=1024&height=512&fit=cover&gravity=faces
 ---

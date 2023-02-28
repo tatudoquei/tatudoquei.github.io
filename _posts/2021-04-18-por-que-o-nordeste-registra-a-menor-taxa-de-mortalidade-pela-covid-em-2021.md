@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-18 02:00:00
 pub_date: 2021-04-18 02:00:00
 time_added: 2021-05-16 20:36:58
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/77/2020/05/12/morador-de-sao-luis-ma-apresenta-permissao-para-circular-de-automovel-durante-lockdown-por-causa-da-covid-19-1589326513297_v2_615x300.jpg
 ---

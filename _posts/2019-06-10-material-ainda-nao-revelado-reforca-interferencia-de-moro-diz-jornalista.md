@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-10 13:02:00
 pub_date: 2019-06-10 13:02:00
 time_added: 2019-06-11 05:48:51
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/34/2019/06/10/o-jornalista-glenn-greenwald-fundador-do-site-the-intercept-brasil-1560182940232_v2_750x421.jpg
 ---

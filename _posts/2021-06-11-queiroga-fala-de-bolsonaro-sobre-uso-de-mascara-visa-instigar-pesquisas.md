@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-11 04:45:00
 pub_date: 2021-06-11 04:45:00
 time_added: 2021-06-13 21:02:12
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/3d/2021/06/08/8jun2021---o-ministro-da-saude-marcelo-queiroga-durante-2-depoimento-a-cpi-da-covid-no-senado-1623174650917_v2_615x300.jpg
 ---

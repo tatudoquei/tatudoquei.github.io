@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-07 19:39:05
 pub_date: 2020-05-07 19:39:05
 time_added: 2020-05-08 11:53:16
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/05/Bolsonaro-Jose-Levi-AGU-1200x630.jpg
 ---

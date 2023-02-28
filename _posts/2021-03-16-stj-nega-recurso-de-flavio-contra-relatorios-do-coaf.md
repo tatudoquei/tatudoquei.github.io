@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-16 20:34:47
 pub_date: 2021-03-16 20:34:47
 time_added: 2021-03-21 09:23:02
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/03/FlavioBolsonaro-Flavio-Voluntariado-204-1200x630.jpg
 ---

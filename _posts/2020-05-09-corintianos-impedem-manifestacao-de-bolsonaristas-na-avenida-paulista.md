@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-09 23:50:21
 pub_date: 2020-05-09 23:50:21
 time_added: 2020-05-12 19:24:36
-category: 
+categories: []
 tags: []
 image: https://cdn.revistaforum.com.br/wp-content/uploads/2020/05/corintianos-paulista.jpg
 ---

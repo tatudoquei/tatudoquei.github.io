@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-02 20:52:12
 pub_date: 2020-09-02 20:52:12
 time_added: 2020-09-01 18:01:38
-category: 
+categories: []
 tags: []
 image: https://jornalggn.com.br/sites/default/files/2020/08/ggn-extrapolou-os-limites-da-liberdade-de-expressao-diz-sentenca-a-favor-do-btg-censura-ggn.jpg
 ---

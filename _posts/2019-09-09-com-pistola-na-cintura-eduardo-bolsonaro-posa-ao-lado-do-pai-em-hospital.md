@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-09 16:04:00
 pub_date: 2019-09-09 16:04:00
 time_added: 2019-09-10 23:36:12
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23937064-e98-87a/FT1086A/652/eduardo.jpg
 ---

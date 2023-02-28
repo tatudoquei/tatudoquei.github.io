@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-16 18:33:00
 pub_date: 2020-03-16 18:33:00
 time_added: 2020-03-21 12:25:51
-category: 
+categories: []
 tags: []
 image: https://nocaute.blog.br/wp-content/uploads/2020/03/kliass160320wp.jpg
 ---

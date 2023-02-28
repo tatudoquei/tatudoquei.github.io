@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-22 08:08:00
 pub_date: 2020-04-22 08:08:00
 time_added: 2020-04-24 06:52:20
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/277/files/2020/04/bolsonaro-solidariedade.jpg
 ---

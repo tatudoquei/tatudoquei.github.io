@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-24 02:00:27
 pub_date: 2021-05-24 02:00:27
 time_added: 2021-05-24 13:38:15
-category: 
+categories: []
 tags: []
 image: https://reporterbrasil.org.br/wp-content/uploads/2021/01/Vargas_Kayapo.jpg
 ---

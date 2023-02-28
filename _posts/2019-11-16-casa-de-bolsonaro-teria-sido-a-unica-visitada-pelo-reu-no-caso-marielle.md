@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-16 12:43:55
 pub_date: 2019-11-16 12:43:55
 time_added: 2019-11-16 22:36:06
-category: 
+categories: []
 tags: []
 image: https://www.redebrasilatual.com.br/wp-content/uploads/2019/11/Bolsonaro-Marielle.jpg
 ---

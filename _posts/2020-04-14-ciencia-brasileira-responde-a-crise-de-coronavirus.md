@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-14 15:36:11
 pub_date: 2020-04-14 15:36:11
 time_added: 2020-04-18 13:44:16
-category: resistimos
+categories: [resistimos]
 tags: [ciência, saúde]
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2016/01/pesquisa_farmacia_farmaceutico_ictq_pos_20121029_142749.png
 ---

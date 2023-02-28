@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-06 15:47:59
 pub_date: 2020-04-06 15:47:59
 time_added: 2020-04-06 17:47:59
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/tab/78/2020/04/02/a-ciencia-pede-passagem-1585869186493_v2_615x300.jpg
 ---

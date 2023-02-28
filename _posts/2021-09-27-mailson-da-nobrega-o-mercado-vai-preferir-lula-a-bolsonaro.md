@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-27 13:00:35
 pub_date: 2021-09-27 13:00:35
 time_added: 2021-10-17 14:43:00
-category: 
+categories: []
 tags: []
 image: https://einvestidor.estadao.com.br/wp-content/uploads/sites/715/2021/09/designsemnome10_240920215605.png
 ---

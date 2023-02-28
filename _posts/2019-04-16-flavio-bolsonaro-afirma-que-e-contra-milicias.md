@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-16 15:29:05
 pub_date: 2019-04-16 15:29:05
 time_added: 2019-04-19 07:41:59
-category: 
+categories: []
 tags: []
 image: https://odia.ig.com.br/_midias/jpg/2019/03/19/700x470/1_flavio_bolsonaro-10267893.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-08-01 16:29:11
 pub_date: 2022-08-01 16:29:11
 time_added: 2022-08-02 11:33:24
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2022/08/WhatsApp-Image-2022-08-01-at-16.25.59.jpeg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-08 10:01:00
 pub_date: 2019-11-08 10:01:00
 time_added: 2019-11-13 05:52:43
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23895444-633-76e/FT1086A/652/phoca_thumb_l_praias-de-japaratinga-costa-dos-corais-convention-e-visitors-bureau.jpg
 ---

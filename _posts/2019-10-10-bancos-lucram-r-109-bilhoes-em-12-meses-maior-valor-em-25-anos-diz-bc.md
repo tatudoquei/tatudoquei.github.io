@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-10 10:41:00
 pub_date: 2019-10-10 10:41:00
 time_added: 2019-11-23 08:16:51
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/2b/2019/08/30/dinheiro-em-setembro-1567178982645_v2_615x300.jpg
 ---

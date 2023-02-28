@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-01 23:23:35
 pub_date: 2023-01-01 23:23:35
 time_added: 2023-01-03 08:30:27
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/448B/production/_128174571_exercito2editada.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-01 18:25:44
 pub_date: 2023-02-01 18:25:44
 time_added: 2023-02-06 23:20:34
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Est%C3%A1tua-Justi%C3%A7a-8-de-janeiro1/alternates/LANDSCAPE_768/Est%C3%A1tua%20Justi%C3%A7a%208%20de%20janeiro
 ---

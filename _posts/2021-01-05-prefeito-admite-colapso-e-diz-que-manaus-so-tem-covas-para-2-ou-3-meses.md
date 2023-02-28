@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-05 21:53:00
 pub_date: 2021-01-05 21:53:00
 time_added: 2021-01-06 15:07:05
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/73/2021/01/05/o-prefeito-de-manaus-david-almeida-avante-a-epoca-ainda-candidato-apos-votar-na-escola-estadual-antonio-lucena-bitencourt-1609881454834_v2_615x300.jpg
 ---

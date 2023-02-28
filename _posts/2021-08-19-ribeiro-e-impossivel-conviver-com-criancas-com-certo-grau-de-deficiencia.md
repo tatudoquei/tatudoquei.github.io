@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-19 19:07:00
 pub_date: 2021-08-19 19:07:00
 time_added: 2021-08-20 21:55:48
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/d2/2021/03/16/o-ministro-da-educacao-milton-ribeiro-no-lancamento-da-revista-capes-em-foco-1615912821303_v2_615x300.jpg
 ---

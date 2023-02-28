@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-24 20:39:00
 pub_date: 2019-06-24 20:39:00
 time_added: 2019-06-25 05:28:35
-category: 
+categories: []
 tags: []
 image: https://noticiasdatv.uol.com.br/media/_versions/paulo-henrique-amorim-domingo-espetacular-23-06-2019-reproducao-record_fixed_big.jpg
 ---

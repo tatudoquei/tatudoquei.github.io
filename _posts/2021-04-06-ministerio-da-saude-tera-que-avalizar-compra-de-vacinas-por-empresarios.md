@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-06 15:25:26
 pub_date: 2021-04-06 15:25:26
 time_added: 2021-05-29 21:24:54
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2017/09/carlos-wizard-martins-presidente-do-grupo-multi-que-inclui-a-wizard-idiomas.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-08 15:39:00
 pub_date: 2020-06-08 15:39:00
 time_added: 2020-06-09 11:28:16
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/9e/2020/06/08/captura-de-tela-do-site-do-desenvolvedor-joselito-junior-com-os-dados-retirados-do-ministerio-da-saude-1591646552667_v2_615x300.jpg
 ---

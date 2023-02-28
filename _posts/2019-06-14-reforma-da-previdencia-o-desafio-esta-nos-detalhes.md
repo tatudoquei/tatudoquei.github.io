@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-14 18:33:20
 pub_date: 2019-06-14 18:33:20
 time_added: 2019-06-16 08:16:20
-category: 
+categories: []
 tags: []
 image: https://www.valor.com.br/sites/default/files/imagecache/media_library_big_horizontal/fotoweb/1560441340screenshot_1.png
 ---

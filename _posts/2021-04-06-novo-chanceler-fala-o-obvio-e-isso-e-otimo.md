@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-06 13:21:00
 pub_date: 2021-04-06 13:21:00
 time_added: 2021-05-16 17:26:49
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/oEpxwXV2XC-raSmknExHBOnv9KI=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2021/04/06/x92244019_carlos-alberto-franca-novo-chanceller-do-itamaraty-em-seminario-em-dezembro-de-2017.-fo.jpg.pagespeed.ic.danoiz6bpg.jpg
 ---

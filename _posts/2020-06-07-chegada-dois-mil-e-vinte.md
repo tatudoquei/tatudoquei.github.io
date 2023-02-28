@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-07 06:50:26
 pub_date: 2020-06-07 06:50:26
 time_added: 2020-06-07 08:50:26
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2020/05/165_chegada_redes.jpg
 ---

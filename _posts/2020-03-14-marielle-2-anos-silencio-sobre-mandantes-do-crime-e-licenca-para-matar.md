@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-14 22:50:00
 pub_date: 2020-03-14 22:50:00
 time_added: 2020-03-15 19:54:09
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/05/2020/02/14/a-vereadora-do-psol-marielle-franco-foto-reproducaoinstagram-1581686859598_v2_615x300.jpg
 ---

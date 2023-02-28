@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-04 22:12:00
 pub_date: 2019-01-04 22:12:00
 time_added: 2019-01-05 09:45:49
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/43/2019/01/03/3jan2019---o-presidente-jair-bolsonaro-psl-concede-entrevista-ao-sbt-1546562364212_v2_615x300.jpg
 ---

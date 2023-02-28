@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-29 22:21:14
 pub_date: 2020-02-29 22:21:14
 time_added: 2020-03-01 11:49:13
-category: 
+categories: []
 tags: []
 image: https://abrilclaudia.files.wordpress.com/2020/02/pesq.jpg?quality=85&strip=info&w=680&h=453&crop=1
 ---

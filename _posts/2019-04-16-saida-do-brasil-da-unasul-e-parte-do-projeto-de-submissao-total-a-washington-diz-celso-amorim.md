@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-16 13:52:43
 pub_date: 2019-04-16 13:52:43
 time_added: 2019-04-19 15:04:43
-category: 
+categories: []
 tags: []
 image: https://jornalistaslivres.org/wp-content/uploads/2019/04/celso-amorim.jpg
 ---

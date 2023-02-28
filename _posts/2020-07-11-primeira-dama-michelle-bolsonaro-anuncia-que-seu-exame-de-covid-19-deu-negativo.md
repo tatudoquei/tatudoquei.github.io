@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-11 12:16:46
 pub_date: 2020-07-11 12:16:46
 time_added: 2020-07-11 17:00:59
-category: 
+categories: []
 tags: []
 image: https://www.otempo.com.br/image/contentid/policy:1.2084316:1586792906/michellebolsonaro.jpg?f=3x2&w=620&$p$f$w=20937b6
 ---

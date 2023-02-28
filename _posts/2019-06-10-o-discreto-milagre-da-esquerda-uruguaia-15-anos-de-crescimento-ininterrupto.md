@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-10 06:19:57
 pub_date: 2017-07-25 20:27:12
 time_added: 2019-06-10 06:19:57
-category: 
+categories: []
 tags: []
 image: https://ep00.epimg.net/economia/imagenes/2017/07/24/actualidad/1500926308_443410_1500926639_rrss_normal.jpg
 ---

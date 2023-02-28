@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-14 15:21:49
 pub_date: 2022-10-14 15:21:49
 time_added: 2022-10-16 14:55:13
-category: 
+categories: []
 tags: []
 image: https://www.cartacapital.com.br/wp-content/uploads/2022/10/Bolsonaro-podcast-direita-2.jpeg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-09 22:00:00
 pub_date: 2021-05-09 22:00:00
 time_added: 2021-05-24 08:12:22
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/jair-bolsonaro-por-reuters.JPG/alternates/LANDSCAPE_768/jair%20bolsonaro%20por%20reuters.JPG
 ---

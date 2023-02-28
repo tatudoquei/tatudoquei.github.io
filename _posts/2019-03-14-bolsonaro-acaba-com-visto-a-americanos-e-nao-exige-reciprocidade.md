@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-14 14:43:50
 pub_date: 2019-03-14 14:43:50
 time_added: 2019-03-18 20:06:44
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2019/03/alx-passaporte-20120507-89-original.jpeg
 ---

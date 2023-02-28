@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-19 14:23:00
 pub_date: 2018-12-19 14:23:00
 time_added: 2018-12-19 23:41:12
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/4f/2018/12/13/27nov2018---flavio-bolsonaro-e-jair-bolsonaro-em-brasilia-1544700567036_v2_615x300.jpg
 ---

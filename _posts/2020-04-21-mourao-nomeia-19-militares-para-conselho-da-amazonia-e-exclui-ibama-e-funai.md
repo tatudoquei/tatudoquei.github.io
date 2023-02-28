@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-21 17:56:32
 pub_date: 2020-04-21 17:56:32
 time_added: 2020-04-21 19:56:32
-category: 
+categories: []
 tags: [meio ambiente]
 ---
 

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-08 20:50:29
 pub_date: 2020-03-08 20:50:29
 time_added: 2020-03-10 00:43:02
-category: 
+categories: []
 tags: []
 image: https://www.sul21.com.br/wp-content/uploads/2020/03/20200308-unisinos-768x490-1.jpg
 ---

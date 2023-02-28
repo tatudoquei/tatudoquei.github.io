@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-11 05:18:00
 pub_date: 2021-03-11 05:18:00
 time_added: 2021-03-12 19:51:06
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/Q8QHFybOtTYom645D5RkkAtHI68=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2020/01/30/fabio_wajngarten_1.jpg
 ---

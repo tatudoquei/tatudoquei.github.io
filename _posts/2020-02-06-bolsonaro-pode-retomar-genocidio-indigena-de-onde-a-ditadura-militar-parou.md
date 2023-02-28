@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-06 15:53:00
 pub_date: 2020-02-06 15:53:00
 time_added: 2020-02-06 23:33:59
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/7d/2020/01/09/lider-indigena-paulino-guajajara-foto-patrick-raynaud-1578614213869_v2_615x300.jpg
 ---

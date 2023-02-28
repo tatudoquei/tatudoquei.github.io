@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-10 13:13:23
 pub_date: 2020-04-10 13:13:23
 time_added: 2020-04-10 15:28:55
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2020/04/2020-04-06t122813z_1219459032_rc20zf9wbgtl_rtrmadp_3_health-coronavirus-brazil-bolsonaro.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-30 18:04:53
 pub_date: 2020-07-30 18:04:53
 time_added: 2020-08-04 12:51:42
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2020/07/Fogo-Pantanal-BR-262-Foto-Chico-Ribeiro-126-Copia.jpg
 ---

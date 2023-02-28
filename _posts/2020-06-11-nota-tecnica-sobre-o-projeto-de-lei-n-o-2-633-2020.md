@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-11 21:14:23
 pub_date: 2020-06-11 21:14:23
 time_added: 2020-06-11 23:14:23
-category: 
+categories: []
 tags: []
 image: https://k6f2r3a6.stackpathcdn.com/wp-content/uploads/2020/04/AdobeStock_Porteira-1.jpg
 ---

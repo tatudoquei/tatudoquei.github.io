@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-28 12:02:07
 pub_date: 2020-03-28 12:02:07
 time_added: 2020-03-29 08:12:26
-category: 
+categories: []
 tags: []
 image: https://nationalpostcom.files.wordpress.com/2020/03/health-coronavirus_usa-new_york.1-e1585427146494.jpg
 ---

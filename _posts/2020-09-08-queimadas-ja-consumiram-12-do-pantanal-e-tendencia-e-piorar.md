@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-08 22:50:40
 pub_date: 2020-09-08 22:50:40
 time_added: 2020-09-08 18:59:42
-category: 
+categories: []
 tags: []
 image: https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/queimadas-pantanal-mt5145.jpg?w=1600&h=1069
 ---

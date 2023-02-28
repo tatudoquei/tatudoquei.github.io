@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-15 11:43:00
 pub_date: 2019-01-15 11:43:00
 time_added: 2019-12-23 21:19:31
-category: resistimos
+categories: [resistimos]
 tags: [segurança]
 image: https://f.i.uol.com.br/fotografia/2018/08/22/15349924845b7e20644f395_1534992484_3x2_rt.jpg
 ---

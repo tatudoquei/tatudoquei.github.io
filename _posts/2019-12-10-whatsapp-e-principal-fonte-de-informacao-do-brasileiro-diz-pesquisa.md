@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-10 06:37:00
 pub_date: 2019-12-10 06:37:00
 time_added: 2019-12-10 22:56:57
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/02/2019/11/27/whatsapp-1574870541882_v2_615x300.jpg
 ---

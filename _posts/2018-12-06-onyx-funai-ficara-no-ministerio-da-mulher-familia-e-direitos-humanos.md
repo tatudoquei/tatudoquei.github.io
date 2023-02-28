@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-06 17:46:38
 pub_date: 2018-12-06 17:46:38
 time_added: 2018-12-07 00:18:49
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://www.otempo.com.br/image/contentid/policy:1.2077302:1544125077/000_1BE47X.jpg?f=3x2&w=620&$p$f$w=6f8fafa
 ---

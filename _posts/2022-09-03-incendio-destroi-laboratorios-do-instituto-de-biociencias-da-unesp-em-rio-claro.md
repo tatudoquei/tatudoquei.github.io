@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-03 14:51:35
 pub_date: 2022-09-03 14:51:35
 time_added: 2022-09-03 16:51:35
-category: 
+categories: []
 tags: []
 image: https://revistapesquisa.fapesp.br/wp-content/thumbs/9ca9ab934e36584887d226c07a1e1a837de07ef5_1200-630.jpg
 ---

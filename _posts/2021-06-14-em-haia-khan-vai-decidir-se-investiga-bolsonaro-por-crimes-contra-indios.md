@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-14 12:00:28
 pub_date: 2021-06-14 12:00:28
 time_added: 2021-07-04 12:16:25
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2019/10/raoni-emmanuel-macron-paris-2019.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

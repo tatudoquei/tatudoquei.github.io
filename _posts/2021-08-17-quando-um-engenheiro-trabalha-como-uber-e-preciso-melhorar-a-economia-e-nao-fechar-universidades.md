@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-17 22:08:30
 pub_date: 2021-08-17 22:08:30
 time_added: 2021-09-06 08:28:38
-category: 
+categories: []
 tags: []
 image: https://i1.wp.com/jornal.usp.br/wp-content/uploads/2017/09/pod_colunistas_renato_janine_ribeiro.jpg?fit=1400%2C1400&ssl=1
 ---

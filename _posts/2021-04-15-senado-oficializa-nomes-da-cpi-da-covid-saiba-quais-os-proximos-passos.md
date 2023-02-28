@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-15 20:27:08
 pub_date: 2021-04-15 20:27:08
 time_added: 2021-05-16 20:26:11
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/03/RodrigoPacheco-Presidente-AuxilioEmergencial-SenadoFederal-113-scaled-1-1200x630.jpeg
 ---

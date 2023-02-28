@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-27 09:04:09
 pub_date: 2020-04-27 09:04:09
 time_added: 2020-04-27 12:39:21
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2020/01/regina-bolsonaro-1-1.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

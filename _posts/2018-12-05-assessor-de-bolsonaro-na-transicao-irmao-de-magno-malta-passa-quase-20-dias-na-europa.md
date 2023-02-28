@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-05 17:03:00
 pub_date: 2018-12-05 17:03:00
 time_added: 2018-12-07 00:17:29
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23283285-240-c2a/FT1086A/652/magno.jpg
 ---

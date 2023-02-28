@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-04 21:33:00
 pub_date: 2020-06-04 21:33:00
 time_added: 2020-06-05 18:52:43
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c6/2020/05/04/29abr2020---hospital-de-campanha-do-anhembi-na-zona-norte-de-sao-paulo-montado-para-tratar-pacientes-de-covid-19-1588635914606_v2_750x421.jpg
 ---

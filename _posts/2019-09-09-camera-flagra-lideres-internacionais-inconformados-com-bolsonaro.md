@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-09 06:46:00
 pub_date: 2019-09-09 06:46:00
 time_added: 2019-09-11 20:58:15
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/66/2019/02/11/jamil-chade-facebook-1549911067141_956x500.png
 ---

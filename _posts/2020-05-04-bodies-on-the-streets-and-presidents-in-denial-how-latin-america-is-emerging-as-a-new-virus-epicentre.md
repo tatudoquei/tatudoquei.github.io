@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-04 11:00:00
 pub_date: 2020-05-04 11:00:00
 time_added: 2020-05-04 19:59:50
-category: 
+categories: []
 tags: []
 image: https://www.telegraph.co.uk/content/dam/news/2020/05/04/230094294_Shutterstock_Brazil-amid-coronavirus-pandemic-Manaus-Brasil-23-Apr-2020_trans_NvBQzQNjv4Bq6BstALpMiKOXM0sIUAWNCJxWLfs5mAvkbXYQqrLnBas.jpg?impolicy=logo-overlay
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-28 19:37:45
 pub_date: 2019-07-28 19:37:45
 time_added: 2019-07-29 23:26:15
-category: 
+categories: []
 tags: []
 image: https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/ca_0802NID_Deforestation_Brazil_online2.jpg?itok=8duhWxVf
 ---

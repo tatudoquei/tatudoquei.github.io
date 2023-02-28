@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-26 00:34:50
 pub_date: 2019-03-26 00:34:50
 time_added: 2019-07-09 18:21:01
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/03/brasil-paulo-guedes-20190320-004.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

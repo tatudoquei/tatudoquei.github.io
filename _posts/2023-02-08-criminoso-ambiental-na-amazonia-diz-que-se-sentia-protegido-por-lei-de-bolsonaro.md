@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-08 20:55:24
 pub_date: 2023-02-08 20:55:24
 time_added: 2023-02-11 23:06:16
-category: 
+categories: []
 tags: []
 image: https://oeco.org.br/wp-content/uploads/2023/02/Sem-titulo-1.jpg
 ---

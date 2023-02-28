@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-29 11:12:49
 pub_date: 2019-03-29 11:12:49
 time_added: 2019-03-30 09:28:17
-category: avisamos
+categories: [avisamos]
 tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2019/03/i1441114341586104.jpg
 ---

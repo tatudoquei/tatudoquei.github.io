@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-03 12:03:21
 pub_date: 2019-12-03 12:03:21
 time_added: 2019-12-03 14:46:59
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2016/06/soja-colheita-agricultura-commodities-estados-unidos-20070928-original3.jpeg?quality=70&strip=info&w=680&h=453&crop=1
 ---

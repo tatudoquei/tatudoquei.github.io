@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-06 21:45:24
 pub_date: 2021-12-06 21:45:24
 time_added: 2021-12-13 14:48:40
-category: 
+categories: []
 tags: []
 image: https://i2.wp.com/oeco.org.br/wp-content/uploads/2021/12/Guajara.jpg?fit=1920%2C1280&ssl=1
 ---

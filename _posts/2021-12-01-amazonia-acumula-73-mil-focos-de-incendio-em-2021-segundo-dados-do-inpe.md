@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-01 22:58:28
 pub_date: 2021-12-01 22:58:28
 time_added: 2021-12-02 10:15:37
-category: 
+categories: []
 tags: []
 image: https://i1.wp.com/oeco.org.br/wp-content/uploads/2021/12/MAURO-PIMENTEL-AFP-Porto-Velho-set-21-scaled.jpg?fit=2560%2C1707&ssl=1
 ---

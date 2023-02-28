@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-23 12:30:53
 pub_date: 2020-03-23 12:30:53
 time_added: 2020-03-23 13:30:53
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/167CB/production/_111370129_bolsa.jpg
 ---

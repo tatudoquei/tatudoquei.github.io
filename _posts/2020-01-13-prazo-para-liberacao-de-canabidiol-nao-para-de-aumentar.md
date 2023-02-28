@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-13 07:20:00
 pub_date: 2020-01-13 07:20:00
 time_added: 2020-01-18 12:13:53
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/A87XCaG0OUfWVmzLIkAGYEKHAcE=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2016/11/22/2014_719508787-2014_719443677-canabidiol.jpg_20140601.jpg_20140602.jpg
 ---

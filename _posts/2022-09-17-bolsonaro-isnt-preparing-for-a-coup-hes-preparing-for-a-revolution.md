@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-17 17:31:04
 pub_date: 2022-09-17 17:31:04
 time_added: 2022-09-17 19:31:04
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2022/09/09/opinion/01lago/01lago-facebookJumbo-v2.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-06 06:44:16
 pub_date: 2019-12-06 06:44:16
 time_added: 2019-12-06 07:44:16
-category: 
+categories: []
 tags: []
 image: https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/1839973/386038_486076.jpeg
 ---

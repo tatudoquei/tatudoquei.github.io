@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-06 11:21:54
 pub_date: 2021-09-06 11:21:54
 time_added: 2021-09-06 08:21:54
-category: 
+categories: []
 tags: []
 image: https://www.socioambiental.org/sites/blog.socioambiental.org/files/styles/twitter-card/public/nsa/cicero_bezerra_-_cicerone.bezerra.jpeg?itok=DdWaI3aO
 ---

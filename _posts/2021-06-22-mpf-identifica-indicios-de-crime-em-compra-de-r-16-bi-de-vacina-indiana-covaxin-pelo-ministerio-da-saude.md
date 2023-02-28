@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-22 10:42:00
 pub_date: 2021-06-22 10:42:00
 time_added: 2021-07-04 12:14:08
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25048830-8d0-04b/FT1086A/covaxin.jpg
 ---

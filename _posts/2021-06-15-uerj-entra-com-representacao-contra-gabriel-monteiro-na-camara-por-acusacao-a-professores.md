@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-15 20:01:00
 pub_date: 2021-06-15 20:01:00
 time_added: 2021-06-19 20:11:39
-category: 
+categories: []
 tags: []
 image: https://odia.ig.com.br/_midias/jpg/2020/03/05/1140x632/1_gabriel91-16076465.jpg
 ---

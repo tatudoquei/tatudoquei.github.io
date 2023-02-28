@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-05 17:02:00
 pub_date: 2020-04-05 17:02:00
 time_added: 2020-04-06 12:13:51
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/81/2020/04/05/profissionais-do-samu-de-sao-paulo-prestam-homenagem-a-socorrista-morto-por-covid-19-1586124120789_v2_615x300.jpg
 ---

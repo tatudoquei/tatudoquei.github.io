@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-21 20:56:30
 pub_date: 2019-09-21 20:56:30
 time_added: 2019-09-23 06:18:21
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/05/brasil-politica-wilson-witzel-20190520-004-copy.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

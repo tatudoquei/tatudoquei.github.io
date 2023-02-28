@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-13 07:45:44
 pub_date: 2019-12-13 07:45:44
 time_added: 2019-12-13 08:45:44
-category: 
+categories: []
 tags: []
 image: https://www.dw.com/image/51361045_304.jpg
 ---

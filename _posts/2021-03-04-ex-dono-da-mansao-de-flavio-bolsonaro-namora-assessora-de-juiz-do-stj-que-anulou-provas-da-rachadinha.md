@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-04 01:56:14
 pub_date: 2021-03-04 01:56:14
 time_added: 2021-03-04 21:44:43
-category: 
+categories: []
 tags: []
 image: https://cdn.revistaforum.com.br/wp-content/uploads/2021/03/juizaempresario.png
 ---

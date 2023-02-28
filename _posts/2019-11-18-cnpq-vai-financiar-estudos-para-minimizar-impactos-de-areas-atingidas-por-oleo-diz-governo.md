@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-18 14:56:19
 pub_date: 2019-11-18 14:56:19
 time_added: 2019-11-18 16:43:16
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/lh6mY1fEfAPFjsOJ6RlKlh_N-jw=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/C/3/bJeUWFTJi76wWKu2MIQA/2019-10-22t195736z-1037614145-rc1a41c36740-rtrmadp-3-brazil-environment-oil-stringer-reuters.jpg
 ---

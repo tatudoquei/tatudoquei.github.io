@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-31 01:01:00
 pub_date: 2020-12-31 01:01:00
 time_added: 2020-12-31 19:35:00
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b8/2020/08/27/imagem-obtida-por-satelite-radar-da-esa-agencia-espacial-europeia-de-area-de-desmatamento-na-amazonia-em-mato-grosso-1598557368639_v2_615x300.jpg
 ---

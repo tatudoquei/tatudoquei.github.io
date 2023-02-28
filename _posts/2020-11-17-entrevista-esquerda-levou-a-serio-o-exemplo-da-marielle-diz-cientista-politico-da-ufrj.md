@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-17 18:05:00
 pub_date: 2020-11-17 18:05:00
 time_added: 2020-11-17 21:30:45
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/11/josue-redes.jpg
 ---

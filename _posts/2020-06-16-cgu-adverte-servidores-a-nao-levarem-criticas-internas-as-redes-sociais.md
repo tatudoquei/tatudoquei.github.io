@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-16 20:12:00
 pub_date: 2020-06-16 20:12:00
 time_added: 2020-06-17 10:47:07
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/cb/2020/06/16/publicacao-da-cgu-distribuida-entre-servidores-da-uniao-sobre-uso-das-redes-sociais-no-governo-bolsonaro-1592347698871_v2_300x200.jpg
 ---

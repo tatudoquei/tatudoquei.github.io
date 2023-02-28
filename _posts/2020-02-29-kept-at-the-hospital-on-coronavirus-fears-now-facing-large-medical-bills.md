@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-29 17:51:53
 pub_date: 2020-02-29 17:51:53
 time_added: 2020-03-02 02:58:13
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/02/29/upshot/29up-virus-bills/29up-virus-bills-facebookJumbo.jpg
 ---

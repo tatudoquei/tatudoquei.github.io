@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-26 16:24:04
 pub_date: 2020-04-26 16:24:04
 time_added: 2020-04-28 18:47:41
-category: 
+categories: []
 tags: []
 image: https://notesoncovid.files.wordpress.com/2020/04/image-28.png
 ---

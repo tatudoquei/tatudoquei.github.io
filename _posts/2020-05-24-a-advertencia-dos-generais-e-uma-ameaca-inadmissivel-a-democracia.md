@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-24 20:59:00
 pub_date: 2020-05-24 20:59:00
 time_added: 2020-05-26 08:28:48
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/267/files/2020/05/generalheleno.jpg
 ---

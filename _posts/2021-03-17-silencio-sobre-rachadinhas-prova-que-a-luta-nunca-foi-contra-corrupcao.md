@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-17 03:00:00
 pub_date: 2021-03-17 03:00:00
 time_added: 2021-03-20 16:35:08
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/43/2021/03/14/apoiadores-do-presidente-jair-bolsonaro-sem-partido-fizeram-ato-na-orla-de-copacabana-na-zona-sul-do-rio-de-janeiro-em-protesto-contra-os-governadores-e-o-lockdown-imposto-em-varias-regioes-do-pais-1615752723385_v2_615x300.jpg
 ---

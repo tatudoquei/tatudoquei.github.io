@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-21 17:35:00
 pub_date: 2019-05-21 17:35:00
 time_added: 2019-05-22 06:28:05
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/af/2018/09/10/eduardo-e-flavio-bolsonaro-1536610243719_v2_615x300.jpg
 ---

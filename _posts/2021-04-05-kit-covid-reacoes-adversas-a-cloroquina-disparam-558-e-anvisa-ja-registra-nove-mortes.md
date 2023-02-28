@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-05 10:11:00
 pub_date: 2021-04-05 10:11:00
 time_added: 2021-05-16 17:28:09
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24904968-989-353/FT1086A/88844379_Em-live-Bolsonaro-defende-uso-da-cloroquina-.-reproducao.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-11 03:00:00
 pub_date: 2021-09-11 03:00:00
 time_added: 2021-09-26 05:16:15
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/fake-news.jpeg/alternates/LANDSCAPE_768/fake-news.jpeg
 ---

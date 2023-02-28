@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-02 15:01:00
 pub_date: 2019-05-02 15:01:00
 time_added: 2019-05-04 06:33:56
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23634268-bf8-9c1/FT1086A/652/76244527_Sao-Paulo-SP08-08-1979Paulo-Freire-educadorFoto-ArquivoAgencia-O-GloboNeg-79.jpg
 ---

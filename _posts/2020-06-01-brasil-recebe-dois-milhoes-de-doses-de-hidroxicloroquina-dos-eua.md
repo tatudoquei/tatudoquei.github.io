@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-01 21:28:00
 pub_date: 2020-06-01 21:28:00
 time_added: 2021-06-13 20:57:00
-category: 
+categories: []
 tags: []
 image: https://imagens.ebc.com.br/m8ytmmQiFxYVMrTYdyp5fc0TB80=/754x0/smart/https:/agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/hidroxicloroquina_-coronavirus-brazil.jpg?itok=60j8bus3
 ---

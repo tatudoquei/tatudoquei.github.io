@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-09 15:40:00
 pub_date: 2020-07-09 15:40:00
 time_added: 2020-07-11 07:36:26
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/DqXrg4Lyb4CfeQ86ipi3eNvz05g=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2020/06/20/fabricio-queiroz-motorista-6.jpg.jpg
 ---

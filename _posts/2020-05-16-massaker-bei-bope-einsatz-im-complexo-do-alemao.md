@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-16 01:48:35
 pub_date: 2020-05-16 01:48:35
 time_added: 2020-05-16 09:01:25
-category: 
+categories: []
 tags: []
 image: https://favelawatchblog.files.wordpress.com/2020/05/97983215_1924747144322578_952668010185752576_o.jpg
 ---

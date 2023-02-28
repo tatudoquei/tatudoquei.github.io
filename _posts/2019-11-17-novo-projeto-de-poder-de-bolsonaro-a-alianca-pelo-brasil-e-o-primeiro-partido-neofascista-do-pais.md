@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-17 10:51:00
 pub_date: 2019-11-17 10:51:00
 time_added: 2019-11-17 21:05:09
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/11/wando-alianca-redes-1574004947.jpg
 ---

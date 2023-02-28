@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-12 15:00:00
 pub_date: 2021-06-12 15:00:00
 time_added: 2021-06-19 20:07:21
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/6l4eo9Nl4p-KWHA4EFy0bZgDJQY=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2021/06/11/osmarterra.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-05 16:24:06
 pub_date: 2020-03-05 16:24:06
 time_added: 2020-03-07 18:29:06
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2020/03/alianca-pelo-brasil.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

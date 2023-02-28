@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-16 13:22:00
 pub_date: 2021-03-16 13:22:00
 time_added: 2021-03-21 09:22:52
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24924705-c0a-08a/FT1086A/pazu.jpg
 ---

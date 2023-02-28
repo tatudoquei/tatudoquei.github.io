@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-04-14 16:16:01
 pub_date: 2022-04-14 16:16:01
 time_added: 2022-05-19 15:03:21
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/jornal.usp.br/wp-content/uploads/2022/04/20220413_especial_museus_Museu_Paulista.jpg?fit=1200%2C630&ssl=1
 ---

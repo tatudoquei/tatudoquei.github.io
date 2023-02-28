@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-28 17:51:00
 pub_date: 2021-08-28 17:51:00
 time_added: 2021-09-06 08:02:07
-category: 
+categories: []
 tags: []
 image: https://i.glbimg.com/og/ig/infoglobo1/f/original/blog/image_share/lauro-jardim.jpg
 ---

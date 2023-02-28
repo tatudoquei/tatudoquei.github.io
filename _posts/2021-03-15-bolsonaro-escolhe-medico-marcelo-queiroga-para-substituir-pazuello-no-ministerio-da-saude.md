@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-15 22:42:16
 pub_date: 2021-03-15 22:42:16
 time_added: 2021-03-21 09:21:45
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/etWS9bmTlDVNMacCM7-v1BdQDTg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/8/G/dQicKoR1CYA2QTuPzA4g/marceloqueiroga.jpg
 ---

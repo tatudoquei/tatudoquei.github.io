@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-08 14:45:38
 pub_date: 2021-11-08 14:45:38
 time_added: 2021-11-12 06:30:22
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/11/capa-facebook-cop26.png
 ---

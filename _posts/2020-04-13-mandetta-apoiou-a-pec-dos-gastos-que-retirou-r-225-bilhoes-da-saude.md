@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-13 14:46:00
 pub_date: 2020-04-13 14:46:00
 time_added: 2020-04-17 19:10:12
-category: avisamos
+categories: [avisamos]
 tags: [saúde]
 image: https://conteudo.imguol.com.br/c/noticias/45/2018/11/12/4out2017---deputado-mandetta-dem-ms-discursa-na-camara-1542050648245_v2_615x300.jpg
 ---

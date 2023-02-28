@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-04 22:13:17
 pub_date: 2021-03-04 22:13:17
 time_added: 2021-03-06 22:11:15
-category: 
+categories: []
 tags: []
 image: https://statics.estadao.com.br/s2016/portal/logos/estadao-logo-200x200.png
 ---

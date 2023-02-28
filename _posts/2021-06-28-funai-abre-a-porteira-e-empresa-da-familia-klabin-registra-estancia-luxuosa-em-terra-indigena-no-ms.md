@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-28 07:10:00
 pub_date: 2021-06-28 07:10:00
 time_added: 2021-07-24 08:14:37
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2021/06/klabin-redes.jpg
 ---

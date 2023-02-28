@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-17 03:30:00
 pub_date: 2019-11-17 03:30:00
 time_added: 2019-11-17 22:46:04
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24084562-7b5-989/FT1086A/652/85684765_TOPSHOTBolivian-ex-President-Evo-Morales-waves-as-he-leaves-the-Historic-City-Hall-where.jpg
 ---

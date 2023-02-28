@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-05 09:00:00
 pub_date: 2021-12-05 09:00:00
 time_added: 2021-12-13 14:48:03
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/JM1Yumz2kB2PCpseAdyK5S8D4aY=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2021/10/15/telegram.jpg
 ---

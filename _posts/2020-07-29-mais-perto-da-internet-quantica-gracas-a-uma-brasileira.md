@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-29 05:30:00
 pub_date: 2020-07-29 05:30:00
 time_added: 2020-07-29 21:48:11
-category: 
+categories: []
 tags: []
 image: https://cienciafundamental.blogfolha.uol.com.br/files/2020/07/Serrapilheira_SJ_samurai_f_web.jpg
 ---

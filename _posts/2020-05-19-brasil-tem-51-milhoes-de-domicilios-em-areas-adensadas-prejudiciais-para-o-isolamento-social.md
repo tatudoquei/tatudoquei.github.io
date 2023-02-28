@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-19 08:01:00
 pub_date: 2020-05-19 08:01:00
 time_added: 2020-05-20 20:13:22
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24434119-b5e-2f0/FT1086A/652/86888629_RIRio-de-JaneiroRJ13-11-2019Favela-da-Rocinha.Foto-Gabriel-MonteiroAgenci.jpg
 ---

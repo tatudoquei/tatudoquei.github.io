@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-16 15:37:00
 pub_date: 2019-08-16 15:37:00
 time_added: 2019-08-18 20:24:03
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/0b/2019/08/15/presidente-jair-bolsonaro-e-a-selecao-brasileira-durante-premiacao-de-campeao-da-copa-america-maracana-rio-de-janeiro-1565903576790_v2_615x300.jpg
 ---

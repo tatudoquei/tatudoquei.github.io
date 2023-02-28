@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-05 15:59:19
 pub_date: 2021-01-05 15:59:19
 time_added: 2021-01-06 15:10:09
-category: 
+categories: []
 tags: []
 image: https://exame.com/wp-content/uploads/2020/12/50721052342_2f7c051955_3k.jpg?quality=70&strip=info
 ---

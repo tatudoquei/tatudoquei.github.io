@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-13 22:00:00
 pub_date: 2021-05-13 22:00:00
 time_added: 2021-05-30 06:47:26
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/desmatamento-queimada/alternates/LANDSCAPE_768/desmatamento%20queimada
 ---

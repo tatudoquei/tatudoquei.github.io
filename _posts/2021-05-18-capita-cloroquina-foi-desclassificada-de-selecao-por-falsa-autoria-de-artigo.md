@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-18 07:45:57
 pub_date: 2021-05-18 07:45:57
 time_added: 2021-05-18 20:41:30
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2021/05/17184539/mayra-pinheiro-capita-cloroquina-2.jpeg
 ---

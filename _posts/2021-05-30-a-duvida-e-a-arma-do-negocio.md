@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-30 23:00:00
 pub_date: 2021-05-30 23:00:00
 time_added: 2021-05-31 20:53:52
-category: 
+categories: []
 tags: []
 image: https://i.glbimg.com/og/ig/infoglobo1/f/original/blog/image_share/opiniao.jpg
 ---

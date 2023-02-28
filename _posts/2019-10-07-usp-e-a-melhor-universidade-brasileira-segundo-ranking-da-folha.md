@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-07 16:24:42
 pub_date: 2019-10-07 16:24:42
 time_added: 2019-10-10 01:48:34
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/20161223_00_ranking.jpg
 ---

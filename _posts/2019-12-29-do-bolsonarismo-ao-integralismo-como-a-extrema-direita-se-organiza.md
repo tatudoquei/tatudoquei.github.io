@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-29 14:00:15
 pub_date: 2019-12-29 14:00:15
 time_added: 2019-12-30 02:31:32
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/12/integralistas-2.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

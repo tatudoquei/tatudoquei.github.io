@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-21 17:01:50
 pub_date: 2021-01-21 17:01:50
 time_added: 2021-01-22 13:31:43
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/01/Eduardo-Bolsonaro-3-868x644-1-868x630.jpg
 ---

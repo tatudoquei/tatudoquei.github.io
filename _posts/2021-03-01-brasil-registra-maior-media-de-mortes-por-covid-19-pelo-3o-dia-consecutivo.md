@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-01 21:24:00
 pub_date: 2021-03-01 21:24:00
 time_added: 2021-03-06 22:07:52
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/8a/2021/03/01/20052020---ala-de-uti-para-pacientes-internados-com-coronavirus-no-hospital-gilberto-novaes-em-manaus-am-1614591678225_v2_615x300.jpg
 ---

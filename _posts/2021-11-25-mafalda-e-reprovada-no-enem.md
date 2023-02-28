@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-25 00:54:31
 pub_date: 2021-11-25 00:54:31
 time_added: 2021-11-25 01:54:31
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2021/11/mafalda_redes_17112021.jpg
 ---

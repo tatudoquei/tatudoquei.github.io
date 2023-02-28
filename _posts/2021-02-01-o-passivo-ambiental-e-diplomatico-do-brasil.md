@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-01 17:16:02
 pub_date: 2021-02-01 17:16:02
 time_added: 2021-02-07 23:13:41
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/02/Itamaraty.jpg
 ---

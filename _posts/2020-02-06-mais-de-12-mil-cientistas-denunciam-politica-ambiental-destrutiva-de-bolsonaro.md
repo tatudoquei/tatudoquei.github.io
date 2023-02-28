@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-06 16:26:55
 pub_date: 2020-02-06 16:26:55
 time_added: 2020-02-11 07:58:23
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2019/08/bolsonaro-floresta-e1577093970189.jpg
 ---

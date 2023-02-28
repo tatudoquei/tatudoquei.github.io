@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-26 13:39:00
 pub_date: 2022-10-26 13:39:00
 time_added: 2022-10-28 20:59:09
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/fc/2022/08/09/predio-tse-tribunal-superior-eleitoral-em-brasilia-1660061147807_v2_615x300.jpg
 ---

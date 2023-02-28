@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-24 20:36:00
 pub_date: 2021-03-24 20:36:00
 time_added: 2021-03-24 21:07:43
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2021/03/clesio-redes.jpg
 ---

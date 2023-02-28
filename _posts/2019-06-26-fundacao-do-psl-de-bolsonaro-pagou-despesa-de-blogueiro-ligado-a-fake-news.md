@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-26 02:00:00
 pub_date: 2019-06-26 02:00:00
 time_added: 2019-06-27 05:58:28
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/fe/2019/06/25/o-blogueiro-allan-dos-santos-1561496382738_v2_615x300.jpg
 ---

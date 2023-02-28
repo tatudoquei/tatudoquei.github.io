@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-14 14:20:46
 pub_date: 2014-04-30 04:00:00
 time_added: 2023-01-14 14:20:46
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/12340096-db7-7a6/FT1086A/760/2012-521320125-2012052579442.jpg_20120526.jpg
 ---

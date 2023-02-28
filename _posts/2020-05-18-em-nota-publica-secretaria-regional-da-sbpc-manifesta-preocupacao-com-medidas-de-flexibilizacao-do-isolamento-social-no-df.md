@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-18 15:40:25
 pub_date: 2020-05-18 15:40:25
 time_added: 2020-05-20 20:41:25
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2020/05/brasilia.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-18 10:33:32
 pub_date: 2019-12-18 10:33:32
 time_added: 2019-12-21 10:18:37
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/s_GES8WmaGFXuiFgPMv_NcVvCXo=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2019/01/19/queiroz.jpg
 ---

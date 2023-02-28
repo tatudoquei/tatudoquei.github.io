@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-06 13:21:00
 pub_date: 2020-04-06 13:21:00
 time_added: 2020-04-06 19:07:11
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/brasil/24321313-e7a-280/FT1086A/652/bolsonaro-mandetta.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-03 05:33:36
 pub_date: 2019-10-03 05:33:36
 time_added: 2019-10-03 07:33:36
-category: 
+categories: []
 tags: []
 image: http://cdn.destakjornal.com.br/images/2019-09/img_770x433$2019_09_27_19_17_44_56206.jpg
 ---

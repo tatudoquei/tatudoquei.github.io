@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-26 02:30:00
 pub_date: 2020-07-26 02:30:00
 time_added: 2020-07-27 19:42:38
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/economia/23939116-b05-374/FT1086A/652/header-entenda-o-esta-em-jogo.jpg
 ---

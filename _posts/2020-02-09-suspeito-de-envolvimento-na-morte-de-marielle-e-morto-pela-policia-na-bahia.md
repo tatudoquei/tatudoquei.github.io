@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-09 13:02:01
 pub_date: 2020-02-09 13:02:01
 time_added: 2020-02-09 19:07:04
-category: 
+categories: []
 tags: []
 image: https://correio-cdn3.cworks.cloud/fileadmin/_processed_/6/8/csm_armas-adriano-montagem_636c3a52cc.jpg
 ---

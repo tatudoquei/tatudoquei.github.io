@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-18 19:00:00
 pub_date: 2020-01-18 19:00:00
 time_added: 2020-01-19 08:06:51
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/3f/2020/01/09/presidente-do-stf-dias-toffoli-durante-seminario-em-brasilia-1578586624501_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-15 21:15:00
 pub_date: 2020-03-15 21:15:00
 time_added: 2020-03-16 20:55:25
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c3/2019/04/15/08jul2017---o-bispo-edir-macedo-lider-da-igreja-universal-do-reino-de-deus-1555350380315_v2_750x421.jpg
 ---

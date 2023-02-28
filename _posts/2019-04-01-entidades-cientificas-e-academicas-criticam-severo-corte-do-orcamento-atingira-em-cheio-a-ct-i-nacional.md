@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-01 17:13:32
 pub_date: 2019-04-01 17:13:32
 time_added: 2019-04-02 21:37:14
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2015/12/palacio_do_planalto.jpg
 ---

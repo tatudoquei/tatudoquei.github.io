@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-03 20:15:41
 pub_date: 2020-08-03 20:15:41
 time_added: 2020-08-03 22:15:41
-category: 
+categories: []
 tags: []
 image: https://www.socioambiental.org/sites/blog.socioambiental.org/files/styles/twitter-card/public/nsa/whatsapp_image_2020-07-31_at_10.05.24.jpeg?itok=GEQw4Vru
 ---

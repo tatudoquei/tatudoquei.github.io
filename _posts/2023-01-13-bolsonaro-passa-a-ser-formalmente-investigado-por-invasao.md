@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-13 22:26:31
 pub_date: 2023-01-13 22:26:31
 time_added: 2023-01-14 09:23:57
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Augusto_Aras.jpg/alternates/LANDSCAPE_768/Augusto_Aras.jpg
 ---

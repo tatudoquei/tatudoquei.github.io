@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-29 21:43:34
 pub_date: 2020-04-29 21:43:34
 time_added: 2020-05-01 18:05:40
-category: 
+categories: []
 tags: []
 image: https://www.diariodocentrodomundo.com.br/wp-content/uploads/2020/04/captura-de-tela-2020-04-29-as-09-30-27.png
 ---

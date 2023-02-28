@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-19 14:31:00
 pub_date: 2021-03-19 14:31:00
 time_added: 2021-03-27 18:50:37
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/27/2020/10/12/o-ministro-marco-aurelio-durante-homenagem-a-luiz-fux-empossado-na-presidencia-do-stf-supremo-tribunal-federal-1602540000065_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-12 19:41:03
 pub_date: 2021-07-12 19:41:03
 time_added: 2021-07-13 06:44:38
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2020/01/michelle-bolsonaro-2019.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

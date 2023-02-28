@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-23 14:54:27
 pub_date: 2020-01-23 14:54:27
 time_added: 2020-01-25 13:00:40
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/08/fachadamctic-1024x683.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-19 14:04:56
 pub_date: 2019-11-19 14:04:56
 time_added: 2019-11-19 21:54:04
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2019/10/ricardo-salles-marcelo-camargo-agencia-brasil-e1571875834295.jpg
 ---

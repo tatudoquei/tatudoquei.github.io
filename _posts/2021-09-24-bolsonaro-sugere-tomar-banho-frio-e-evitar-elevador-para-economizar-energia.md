@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-24 00:17:00
 pub_date: 2021-09-24 00:17:00
 time_added: 2021-09-25 17:18:45
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e0/2021/09/23/23set2021---o-presidente-jair-bolsonaro-sem-partido-durante-sua-live-semanal-1632434818317_v2_615x300.png
 ---

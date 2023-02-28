@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-18 19:27:00
 pub_date: 2019-11-18 19:27:00
 time_added: 2019-11-19 21:54:56
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24087797-900-13a/FT1086A/652/TerezaCristina.jpg
 ---

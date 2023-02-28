@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-28 14:30:00
 pub_date: 2020-12-28 14:30:00
 time_added: 2020-12-28 14:35:47
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/12/berardi-redes.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-08 00:32:35
 pub_date: 2021-10-08 00:32:35
 time_added: 2021-10-17 14:44:16
-category: avisamos
+categories: [avisamos]
 tags: [ciência]
 image: https://uploads.metropoles.com/wp-content/uploads/2020/12/30192340/laboratorio-pesquisa-ciencia.jpg
 ---

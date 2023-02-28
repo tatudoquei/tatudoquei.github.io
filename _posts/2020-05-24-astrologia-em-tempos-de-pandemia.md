@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-24 17:30:22
 pub_date: 2020-05-24 17:30:22
 time_added: 2020-05-24 19:30:22
-category: 
+categories: []
 tags: []
 image: https://www.revistaquestaodeciencia.com.br/sites/default/files/styles/facebook/public/2020-05/COMET_SQUARE.jpg?itok=SXVKRivw
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-12 20:57:00
 pub_date: 2021-11-12 20:57:00
 time_added: 2021-11-13 12:31:38
-category: 
+categories: []
 tags: []
 image: https://almapreta.com/images/2021/11/marcelo_freire_governo_brasil.jpg
 ---

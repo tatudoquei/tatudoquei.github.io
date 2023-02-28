@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-16 23:09:00
 pub_date: 2023-01-16 23:09:00
 time_added: 2023-01-21 10:17:00
-category: 
+categories: []
 tags: []
 image: https://i.em.com.br/8B_HN9BMsW_nxTVqtyAqCwh1g_A=/600x315/smart/imgsapp.em.com.br/app/noticia_127983242361/2023/01/16/1445593/ricardo-lewandowski_1_174744.jpeg
 ---

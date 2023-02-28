@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-27 16:08:00
 pub_date: 2020-04-27 16:08:00
 time_added: 2020-04-28 11:44:35
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24396666-78d-d23/FT1086A/652/87974450_SOC-Brasilia-BSB-27-04-2020-Pandemia-do-Covid-19coletiva-de-balanco-dos-ultimos-numeros-d.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-01 17:08:39
 pub_date: 2022-11-01 17:08:39
 time_added: 2022-11-04 20:09:17
-category: 
+categories: []
 tags: []
 image: https://emoff.ig.com.br/wp-content/uploads/2022/11/andre-valadao-tem-contas-suspensas-redes-sociais-apos-acao-judicial.jpeg
 ---

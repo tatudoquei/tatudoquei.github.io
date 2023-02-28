@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-15 15:48:55
 pub_date: 2021-08-15 15:48:55
 time_added: 2021-08-20 21:34:28
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2018/11/olavo-de-carvalho.png
 ---

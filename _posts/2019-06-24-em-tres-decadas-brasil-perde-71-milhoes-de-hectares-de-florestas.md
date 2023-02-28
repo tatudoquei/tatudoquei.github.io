@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-24 20:47:56
 pub_date: 2018-08-17 11:42:00
 time_added: 2019-06-24 20:47:56
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/22987226-577-a1f/FT1086A/652/mapbiomas.jpg
 ---

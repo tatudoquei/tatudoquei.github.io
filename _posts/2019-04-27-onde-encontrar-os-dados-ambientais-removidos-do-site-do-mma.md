@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-27 03:43:21
 pub_date: 2019-04-27 03:43:21
 time_added: 2019-04-30 19:36:43
-category: 
+categories: []
 tags: []
 image: https://geoind.files.wordpress.com/2019/04/uol.png
 ---

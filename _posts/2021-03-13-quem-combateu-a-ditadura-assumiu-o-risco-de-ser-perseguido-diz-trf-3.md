@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-13 12:50:00
 pub_date: 2021-03-13 12:50:00
 time_added: 2021-03-13 18:13:44
-category: 
+categories: []
 tags: []
 image: https://s.conjur.com.br/img/b/manifestacoes-ditadura-militar.png
 ---

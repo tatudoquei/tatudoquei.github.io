@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-03 13:56:15
 pub_date: 2019-10-03 13:56:15
 time_added: 2019-10-06 08:27:09
-category: 
+categories: []
 tags: []
 image: https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png
 ---

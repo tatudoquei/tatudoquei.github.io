@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-10 21:21:00
 pub_date: 2020-01-10 21:21:00
 time_added: 2020-01-12 09:07:34
-category: 
+categories: []
 tags: []
 image: https://dialogosdosul.operamundi.uol.com.br/thumb/ZGM3ZGMzMGE1NTFkNjcxMmM0MzZkMDZiNGFkZDQwMGZfNjUwMzUxYzE2NWNiN2EwMzMzOTQxMTliYWE4ODkyZjYuanBn
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-29 21:30:10
 pub_date: 2022-10-29 21:30:10
 time_added: 2022-10-30 18:58:10
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2021/07/21081303/bolsonaro-e-carla-zambeli.jpg
 ---

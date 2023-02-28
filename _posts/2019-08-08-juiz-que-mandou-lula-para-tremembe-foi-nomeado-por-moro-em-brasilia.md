@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-08 19:57:34
 pub_date: 2019-08-08 19:57:34
 time_added: 2019-08-08 21:57:34
-category: 
+categories: []
 tags: []
 image: https://www.diariodocentrodomundo.com.br/wp-content/uploads/2019/08/johnny-bravo-482x600-12.jpg
 ---

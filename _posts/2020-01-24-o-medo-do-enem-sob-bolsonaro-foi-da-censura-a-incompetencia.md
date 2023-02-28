@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-24 21:09:00
 pub_date: 2020-01-24 21:09:00
 time_added: 2020-01-25 15:34:19
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/0a/2019/05/14/posse-de-weintraub-em-9-de-abril-ministro-e-bolsonaro-fizeram-criticas-a-cursos-de-humanas-nas-universidades-federais-1557859856991_v2_615x300.jpg
 ---

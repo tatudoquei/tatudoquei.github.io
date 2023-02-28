@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-26 18:55:41
 pub_date: 2021-03-26 18:55:41
 time_added: 2021-03-27 09:30:14
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/03/facebook-problemas-na-vacinacao-falta-de-oxigenio-perda-de-emprego-conte-sua-historia-e-mostre-o-que-precisa-ser-investigado-na-pandemia.png
 ---

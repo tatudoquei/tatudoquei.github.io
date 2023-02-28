@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-28 16:34:00
 pub_date: 2019-11-28 16:34:00
 time_added: 2019-11-29 07:07:17
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/20/2019/11/27/sergio-camargo-e-o-novo-presidente-da-fundacao-palmares-1574887604699_v2_615x300.jpg
 ---

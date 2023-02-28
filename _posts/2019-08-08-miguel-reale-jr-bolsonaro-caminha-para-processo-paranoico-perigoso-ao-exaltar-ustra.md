@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-08 17:33:49
 pub_date: 2019-08-08 17:33:49
 time_added: 2019-08-08 21:55:33
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2019/08/cei2016---comissao-especial-do-impeachment-2016-26700143595-e1565285611778.jpg
 ---

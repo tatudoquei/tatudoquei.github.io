@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-24 02:00:00
 pub_date: 2019-09-24 02:00:00
 time_added: 2019-09-26 06:40:49
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/05/2019/09/23/isabella-delgado-pesquisadora-da-fiocruz-1569266818857_v2_615x300.jpg
 ---

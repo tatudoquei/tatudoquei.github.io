@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-22 12:58:00
 pub_date: 2020-06-22 12:58:00
 time_added: 2020-09-19 23:13:03
-category: 
+categories: []
 tags: []
 image: https://imagens.ebc.com.br/nWq8lgqe22lXQrSrrIC1yZB1eMI=/754x0/smart/https:/agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/escola-coronavirus_1303200843_0.jpg?itok=e-cT-YPw
 ---

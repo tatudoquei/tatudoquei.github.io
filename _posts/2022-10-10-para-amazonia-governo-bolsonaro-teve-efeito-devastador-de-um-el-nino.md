@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-10 04:39:25
 pub_date: 2022-10-10 04:39:25
 time_added: 2022-10-10 06:39:25
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2022/09/queimada_200922_redes.jpg
 ---

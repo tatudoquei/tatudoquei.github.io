@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-26 17:32:00
 pub_date: 2019-03-26 17:32:00
 time_added: 2019-03-27 07:04:13
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23552359-d56-1db/FT1086A/652/18478819_PARio-RJ29-03-2012Ato-de-militares-comemorando-o-golpe-de-64-acaba-em-confronto-com.jpg
 ---

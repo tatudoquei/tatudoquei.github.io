@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-04 16:42:00
 pub_date: 2021-03-04 16:42:00
 time_added: 2021-03-04 21:16:54
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/21/2021/03/03/o-presidente-jair-bolsonaro-discursa-em-evento-com-prefeitos-em-brasilia-1614816581293_v2_615x300.jpg
 ---

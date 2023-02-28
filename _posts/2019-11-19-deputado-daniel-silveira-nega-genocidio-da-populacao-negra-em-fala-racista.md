@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-19 17:01:00
 pub_date: 2019-11-19 17:01:00
 time_added: 2019-11-19 22:07:12
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/be/2019/10/17/deputado-daniel-silveira-psl-rj-1571343886774_v2_615x300.jpg
 ---

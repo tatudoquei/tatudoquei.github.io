@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-25 15:41:38
 pub_date: 2019-11-25 15:41:38
 time_added: 2020-01-16 07:41:21
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2019/11/estou-vivo-por-forca-de-um-milagre-diz-ambientalista-elizeu-bercacola-alves-1.jpg
 ---

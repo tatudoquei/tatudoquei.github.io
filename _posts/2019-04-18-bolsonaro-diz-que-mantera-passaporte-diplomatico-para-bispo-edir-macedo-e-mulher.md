@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-18 19:06:00
 pub_date: 2019-04-18 19:06:00
 time_added: 2019-04-20 19:59:48
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23599962-d70-f5d/FT1086A/652/edirmacedo.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-25 20:56:21
 pub_date: 2020-09-25 20:56:21
 time_added: 2020-09-26 19:17:14
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2020/09/01092020-reunio-com-luiz-eduardo-ramos-ministro-chefe-da-secretaria-de-governo-da-presidencia-da-republica-e-parlamentares_50293589918_o.jpg.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

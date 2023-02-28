@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-10 19:31:43
 pub_date: 2023-01-10 19:31:43
 time_added: 2023-01-14 14:27:10
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2022/06/Anderson-Torres-01.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

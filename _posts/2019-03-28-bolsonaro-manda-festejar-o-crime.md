@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-28 01:52:15
 pub_date: 2019-03-28 01:52:15
 time_added: 2019-03-27 22:08:43
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://ep00.epimg.net/brasil/imagenes/2019/03/27/opinion/1553688411_058227_1553697485_rrss_normal.jpg
 ---

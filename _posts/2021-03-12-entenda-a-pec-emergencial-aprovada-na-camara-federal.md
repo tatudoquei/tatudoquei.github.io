@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-12 19:21:08
 pub_date: 2021-03-12 19:21:08
 time_added: 2021-03-12 20:21:08
-category: 
+categories: []
 tags: []
 image: https://samiabomfim.com.br/static/f6ad2aa305b2cf005a5ff741004385ba/3ff7d/Samia-no-plenario-1080x720.jpg
 ---

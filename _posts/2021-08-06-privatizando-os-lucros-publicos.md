@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-06 16:42:10
 pub_date: 2021-08-06 16:42:10
 time_added: 2021-08-08 06:22:10
-category: 
+categories: []
 tags: []
 image: https://jacobin.com.br/wp-content/uploads/2021/08/xcorreios.jpg.pagespeed.ic_.NEFaxqKY-U.jpg
 ---

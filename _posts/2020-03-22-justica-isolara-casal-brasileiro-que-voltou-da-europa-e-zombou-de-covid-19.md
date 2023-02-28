@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-22 16:32:19
 pub_date: 2020-03-22 16:32:19
 time_added: 2020-03-22 17:32:19
-category: 
+categories: []
 tags: []
 image: https://images.redetv.uol.com.br/thumbnail_videos/480x270/NEWS/2020/03/21/582933.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-14 04:15:00
 pub_date: 2021-04-14 04:15:00
 time_added: 2021-04-15 18:28:58
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/98/2021/01/19/protesto-em-frente-a-embaixada-do-brasil-em-paris-1611048798390_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-26 01:56:44
 pub_date: 2021-06-26 01:56:44
 time_added: 2021-07-04 12:32:21
-category: 
+categories: []
 tags: []
 image: https://www.vozdaresistencia.com.br/wp-content/uploads/2021/06/kerexu.jpg
 ---

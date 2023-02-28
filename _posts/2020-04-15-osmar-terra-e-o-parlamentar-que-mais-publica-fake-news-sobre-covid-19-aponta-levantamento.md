@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-15 16:50:28
 pub_date: 2020-04-15 16:50:28
 time_added: 2020-04-15 22:23:15
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2020/04/img20190520124010599MED-1000x630.jpg
 ---

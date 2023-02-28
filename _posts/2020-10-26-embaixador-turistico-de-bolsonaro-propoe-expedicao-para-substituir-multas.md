@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-26 07:06:00
 pub_date: 2020-10-26 07:06:00
 time_added: 2020-10-26 15:22:11
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f5/2020/10/25/deputado-eduardo-bolsonaro-cumprimenta-o-apresentador-de-tv-richard-rasmussen-em-video-divulgado-nas-redes-sociais-em-10outubro2020-1603642188779_v2_615x300.jpg
 ---

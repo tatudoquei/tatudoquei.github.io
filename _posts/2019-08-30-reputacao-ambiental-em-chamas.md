@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-30 04:00:00
 pub_date: 2019-08-30 04:00:00
 time_added: 2019-09-02 21:49:16
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/epoca/23915446-7a0-afe/FT1086A/652/eco.jpg
 ---

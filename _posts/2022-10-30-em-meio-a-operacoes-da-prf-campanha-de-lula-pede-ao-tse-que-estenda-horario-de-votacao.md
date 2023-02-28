@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-30 23:09:57
 pub_date: 2022-10-30 23:09:57
 time_added: 2022-10-30 20:37:45
-category: 
+categories: []
 tags: []
 image: https://www.cartacapital.com.br/wp-content/uploads/2022/06/randolfe_rodrigues.jpg
 ---

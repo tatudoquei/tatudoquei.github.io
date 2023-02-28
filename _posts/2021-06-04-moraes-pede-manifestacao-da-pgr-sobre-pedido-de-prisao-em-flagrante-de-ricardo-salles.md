@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-04 20:37:08
 pub_date: 2021-06-04 20:37:08
 time_added: 2021-07-03 03:18:50
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/06/Moares.jpg
 ---

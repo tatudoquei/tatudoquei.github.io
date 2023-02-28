@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-16 00:08:04
 pub_date: 2019-01-16 00:08:04
 time_added: 2019-12-23 21:41:25
-category: refletimos
+categories: [refletimos]
 tags: [segurança]
 image: https://s3-us-west-2.amazonaws.com/tribunademinas/wp-content/uploads/2018/03/22193644/destacada-delegada-ione-Leonardo-Costa.jpg
 ---

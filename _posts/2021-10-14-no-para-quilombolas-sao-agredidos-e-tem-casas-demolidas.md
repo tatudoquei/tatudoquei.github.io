@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-14 20:35:18
 pub_date: 2021-10-14 20:35:18
 time_added: 2021-10-17 15:04:11
-category: 
+categories: []
 tags: []
 image: https://almapreta.com/images/oie_gk46KaVugw3j.jpg
 ---

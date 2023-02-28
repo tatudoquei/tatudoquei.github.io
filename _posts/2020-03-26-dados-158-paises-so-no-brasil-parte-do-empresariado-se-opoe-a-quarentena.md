@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-26 06:17:00
 pub_date: 2020-03-26 06:17:00
 time_added: 2020-04-08 13:17:28
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/85/2020/03/26/empresario-rubens-menin-1585217676734_v2_615x300.jpg
 ---

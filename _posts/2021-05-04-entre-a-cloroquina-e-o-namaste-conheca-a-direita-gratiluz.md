@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-04 09:00:00
 pub_date: 2021-05-04 09:00:00
 time_added: 2021-05-24 07:59:12
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2021/05/coluna-fabiana-redes.jpg
 ---

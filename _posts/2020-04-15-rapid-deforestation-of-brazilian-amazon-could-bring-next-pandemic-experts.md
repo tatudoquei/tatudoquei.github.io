@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-15 12:49:10
 pub_date: 2020-04-15 12:49:10
 time_added: 2020-04-17 19:10:18
-category: 
+categories: []
 tags: [meio ambiente]
 image: https://imgs.mongabay.com/wp-content/uploads/sites/20/2020/04/14173221/POSSIBLE-BANNER-10-768x452.jpg
 ---

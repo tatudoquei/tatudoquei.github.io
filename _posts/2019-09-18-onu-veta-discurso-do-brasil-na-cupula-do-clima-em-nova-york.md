@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-18 11:09:00
 pub_date: 2019-09-18 11:09:00
 time_added: 2019-09-18 18:57:08
-category: 
+categories: []
 tags: []
 image: https://ambiencia.blogfolha.uol.com.br/files/2018/12/46171953231_959fcf9368_k-e1544405448605.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-27 13:00:04
 pub_date: 2020-07-27 13:00:04
 time_added: 2020-07-28 22:12:04
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/07/20200727_anabeatriz.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-05-17 01:01:53
 pub_date: 2022-05-17 01:01:53
 time_added: 2022-05-28 07:56:19
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/assentamento/alternates/LANDSCAPE_768/assentamento
 ---

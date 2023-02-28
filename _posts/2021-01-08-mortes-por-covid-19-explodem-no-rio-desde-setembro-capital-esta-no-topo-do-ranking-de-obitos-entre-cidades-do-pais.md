@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-08 07:35:00
 pub_date: 2021-01-08 07:35:00
 time_added: 2021-01-09 19:15:58
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24829018-0c6-409/FT1086A/652/91113345_RI-Rio-de-Janeiro-RJ-07-01-2021200-mil-mortos-por-covid-19-no-Brasil-Cemiterio-Sao-F.jpg
 ---

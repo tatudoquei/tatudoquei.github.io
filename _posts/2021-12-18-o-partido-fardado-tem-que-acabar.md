@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-18 17:28:52
 pub_date: 2021-12-18 17:28:52
 time_added: 2022-12-18 22:20:49
-category: 
+categories: []
 tags: []
 image: http://jacobin.com.br/wp-content/uploads/2021/12/xMinistro-do-Gabinete-de-Seguranca-Institucional-Augusto-Heleno.jpg.pagespeed.ic_._YHj2nd14q-1.jpg
 ---

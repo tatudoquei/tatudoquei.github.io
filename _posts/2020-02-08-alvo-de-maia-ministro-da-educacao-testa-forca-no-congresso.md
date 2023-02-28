@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-08 01:00:00
 pub_date: 2020-02-08 01:00:00
 time_added: 2020-02-08 10:58:10
-category: 
+categories: []
 tags: []
 image: https://painel.blogfolha.uol.com.br/files/2019/08/bolsonaro_abraham.jpg
 ---

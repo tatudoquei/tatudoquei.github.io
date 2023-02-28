@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-31 11:57:00
 pub_date: 2021-03-31 11:57:00
 time_added: 2021-05-16 16:59:32
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24949805-8f2-69a/FT1086A/92149254_Novo-Coronavirus-SARS-CoV-2Micrografia-eletronica-de-varredura-colorida-de-uma-celula-ve.jpg
 ---

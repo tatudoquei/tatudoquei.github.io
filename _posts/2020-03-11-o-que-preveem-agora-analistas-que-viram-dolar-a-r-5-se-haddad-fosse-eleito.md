@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-11 03:00:00
 pub_date: 2020-03-11 03:00:00
 time_added: 2020-03-12 03:21:40
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/blogs/84/2019/03/26/bolsonaro-e-haddad-1553632170193_v2_300x200.jpg
 ---

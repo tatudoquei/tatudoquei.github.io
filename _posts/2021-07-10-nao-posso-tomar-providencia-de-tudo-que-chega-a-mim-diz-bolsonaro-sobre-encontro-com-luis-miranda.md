@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-10 14:16:00
 pub_date: 2021-07-10 14:16:00
 time_added: 2021-07-25 16:54:27
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25100381-36c-fd8/FT1086A/Jair-Bolsonaro-nova-3.jpg
 ---

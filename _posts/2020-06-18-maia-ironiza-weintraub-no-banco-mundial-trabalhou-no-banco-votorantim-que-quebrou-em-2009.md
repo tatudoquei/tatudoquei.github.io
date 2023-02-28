@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-18 21:22:16
 pub_date: 2020-06-18 21:22:16
 time_added: 2020-06-19 20:14:10
-category: 
+categories: []
 tags: []
 image: https://cdn-istoe-ssl.akamaized.net/wp-content/uploads/sites/14/2020/03/rodrigo-maia.jpg
 ---

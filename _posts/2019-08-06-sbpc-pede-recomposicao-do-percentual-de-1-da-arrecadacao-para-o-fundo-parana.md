@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-06 16:02:24
 pub_date: 2019-08-06 16:02:24
 time_added: 2019-08-08 21:57:43
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/08/mocao5.jpg
 ---

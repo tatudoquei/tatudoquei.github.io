@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-07 08:44:20
 pub_date: 2021-06-07 08:44:20
 time_added: 2021-07-04 12:15:26
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/05/CPI-Pandemia-Senado-CarlosMurillo-Depoimento-Vacinas-Covid19-Coronavirus-14-1200x630.jpg
 ---

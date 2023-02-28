@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-14 14:54:00
 pub_date: 2020-07-14 14:54:00
 time_added: 2020-07-15 05:46:29
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/6e/2020/07/14/quem-e-amigo-desse-homem-sabe-quem-e-disse-bacci-ao-apresentar-imagem-borrada-de-suspeito-de-crime-1594756259779_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-20 22:00:00
 pub_date: 2019-04-20 22:00:00
 time_added: 2019-04-23 07:17:11
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Os-problemas-da-p%C3%B3s-gradua%C3%A7%C3%A3o-no-Brasil/ALTERNATES/LANDSCAPE_720/Os%20problemas%20da%20p%C3%B3s-gradua%C3%A7%C3%A3o%20no%20Brasil
 ---

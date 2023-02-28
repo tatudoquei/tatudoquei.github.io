@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-12 17:00:00
 pub_date: 2021-11-12 17:00:00
 time_added: 2021-11-13 12:31:29
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/63/2021/11/01/o-ministro-do-meio-ambiente-joaquim-leite-durante-pronunciamento-da-nova-meta-climatica-do-brasil-para-a-cop26-1635777796024_v2_615x300.png
 ---

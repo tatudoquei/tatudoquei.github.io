@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-04 19:44:00
 pub_date: 2019-09-04 19:44:00
 time_added: 2019-09-05 05:47:31
-category: 
+categories: []
 tags: []
 image: https://img.buzzfeed.com/buzzfeed-static/static/2019-09/4/18/asset/e14dd92e9b62/sub-buzz-289-1567622243-1.jpg?crop=1130:592;78,4
 ---

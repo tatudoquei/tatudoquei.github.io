@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-10 11:07:00
 pub_date: 2019-04-10 11:07:00
 time_added: 2021-07-25 16:48:07
-category: 
+categories: []
 tags: []
 image: https://istoe.com.br/wp-content/uploads/sites/14/2017/06/istoe_facebook.png
 ---

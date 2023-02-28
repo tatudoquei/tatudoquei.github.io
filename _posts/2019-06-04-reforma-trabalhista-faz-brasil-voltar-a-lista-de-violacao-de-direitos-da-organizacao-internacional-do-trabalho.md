@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-04 11:04:18
 pub_date: 2019-06-04 11:04:18
 time_added: 2019-06-04 22:23:23
-category: 
+categories: []
 tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2019/06/temer-ministros-reftrabalhista-pr.jpg
 ---

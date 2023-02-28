@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-03 19:59:17
 pub_date: 2021-06-03 19:59:17
 time_added: 2021-07-03 03:18:18
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/06/Jaci.jpg
 ---

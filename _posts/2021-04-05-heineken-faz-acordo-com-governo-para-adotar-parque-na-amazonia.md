@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-05 02:00:00
 pub_date: 2021-04-05 02:00:00
 time_added: 2021-04-07 06:43:38
-category: 
+categories: []
 tags: [meio ambiente]
 image: https://s2.glbimg.com/4Jzo_xTDDbTC-H3VNxRbtaiPmfE=/620x430/i.glbimg.com/og/ig/infoglobo1/f/original/2021/04/04/gettyimages-146395645.jpg
 ---

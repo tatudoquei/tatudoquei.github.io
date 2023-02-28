@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-31 06:12:00
 pub_date: 2019-07-31 06:12:00
 time_added: 2019-07-31 22:03:18
-category: 
+categories: []
 tags: []
 image: https://saidapeladireita.blogfolha.uol.com.br/files/2019/07/jungmann.jpg
 ---

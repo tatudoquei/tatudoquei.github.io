@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-24 02:03:00
 pub_date: 2020-05-24 02:03:00
 time_added: 2020-05-24 12:10:38
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/05/filipe-g-bannon-redes.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-06 14:00:00
 pub_date: 2021-07-06 14:00:00
 time_added: 2021-07-24 08:24:16
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2021/07/redes-fnews-vozes.jpg
 ---

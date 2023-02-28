@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-30 20:33:14
 pub_date: 2021-10-30 20:33:14
 time_added: 2021-10-30 17:33:14
-category: 
+categories: []
 tags: []
 image: https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/10/ministerio_da_saude_fachada_brasilia_01.jpg?w=942
 ---

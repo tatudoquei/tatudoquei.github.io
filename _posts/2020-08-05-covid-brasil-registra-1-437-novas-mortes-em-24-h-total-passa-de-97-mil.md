@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-05 16:02:00
 pub_date: 2020-08-05 16:02:00
 time_added: 2020-08-05 23:21:43
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/3e/2020/06/15/profissional-de-saude-faz-teste-para-detectar-o-coronavirus-em-motorista-no-hospital-geral-de-fortaleza-1592226131639_v2_615x300.jpg
 ---

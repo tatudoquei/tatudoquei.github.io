@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-26 19:00:00
 pub_date: 2022-09-26 19:00:00
 time_added: 2022-10-02 23:48:55
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/30/2022/09/22/jair-bolsonaro-em-entrevista-a-rede-vida-1663850238300_v2_615x300.png
 ---

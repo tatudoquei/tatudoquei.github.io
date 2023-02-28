@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-01 07:32:00
 pub_date: 2021-07-01 07:32:00
 time_added: 2021-07-01 16:15:22
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25085153-506-fce/FT1086A/93672736_PA-Brasilia-BSB-30-06-2021-Sessao-da-CPI-da-Pandemia-na-foto-Carlos-Wizard-e-o-Presiden.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-08 14:07:00
 pub_date: 2020-05-08 14:07:00
 time_added: 2020-05-08 22:46:06
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/5d/2020/03/28/campanha-o-brasil-nao-pode-parar-publicada-em-perfil-da-secom-secretaria-de-comunicacao-da-presidencia-1585413868857_v2_615x300.png
 ---

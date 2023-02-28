@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-07 21:18:10
 pub_date: 2021-04-07 21:18:10
 time_added: 2021-05-16 17:46:44
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/03/coronavirus-2-1200x630.jpeg
 ---

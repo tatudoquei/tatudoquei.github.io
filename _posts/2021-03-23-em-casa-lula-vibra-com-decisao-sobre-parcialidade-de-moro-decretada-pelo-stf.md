@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-23 21:42:00
 pub_date: 2021-03-23 21:42:00
 time_added: 2021-03-27 18:55:13
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/hdlEp8dVGEB82OaYlxOLMYu9vBU=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2021/03/23/xdiscurso-lula-1.jpg.pagespeed.ic.ag8adpxuba.jpg
 ---

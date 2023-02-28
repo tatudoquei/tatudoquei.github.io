@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-11-14 17:26:48
 pub_date: 2018-11-14 17:26:48
 time_added: 2019-08-02 06:24:54
-category: 
+categories: []
 tags: []
 image: http://scd.br.rfi.fr/sites/brasil.filesrfi/imagecache/rfi_16x9_1024_578/sites/images.rfi.fr/files/aef_image/000_mvd6646052.jpg
 ---

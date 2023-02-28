@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-23 20:37:01
 pub_date: 2021-05-23 20:37:01
 time_added: 2021-06-15 22:43:02
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/05/Congresso_Nacional_-_Brasilia-Fabiana-Domingues-de-Lima-@Wikimedia-Commons.jpg
 ---

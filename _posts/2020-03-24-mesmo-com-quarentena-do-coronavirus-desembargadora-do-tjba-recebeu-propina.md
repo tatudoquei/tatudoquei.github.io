@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-24 13:27:00
 pub_date: 2020-03-24 13:27:00
 time_added: 2020-03-24 20:22:51
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/lwO9Cgkl_iIA2MqTSci3PB2cN94=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2020/03/24/faoreste.jpg
 ---

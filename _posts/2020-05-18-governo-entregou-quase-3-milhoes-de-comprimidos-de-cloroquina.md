@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-18 00:46:00
 pub_date: 2020-05-18 00:46:00
 time_added: 2020-05-18 19:46:54
-category: 
+categories: []
 tags: []
 image: https://img.r7.com/images/cloroquina-03042020173525432?dimensions=600x315&crop_position=c
 ---

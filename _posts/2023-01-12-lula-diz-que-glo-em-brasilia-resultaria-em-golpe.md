@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-12 16:49:38
 pub_date: 2023-01-12 16:49:38
 time_added: 2023-01-21 10:23:49
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2023/01/LulaDaSilva-CafeDaManha-PauloPimenta-Janja-JoseCrispiniano-Jornalistas-Setoristas-50-848x477.jpg
 ---

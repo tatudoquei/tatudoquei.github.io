@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-28 17:29:22
 pub_date: 2021-01-28 17:29:22
 time_added: 2021-03-28 16:40:11
-category: 
+categories: []
 tags: []
 image: https://diplomatique.org.br/wp-content/uploads/2021/01/united-nations-covid-19-response-r31mu4MKeAc-unsplash.jpg
 ---

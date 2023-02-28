@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-28 17:23:10
 pub_date: 2020-01-28 17:23:10
 time_added: 2020-01-30 07:53:24
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/20170929_08_reitoria_fotomarcossantos.jpg
 ---

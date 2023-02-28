@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-20 03:00:00
 pub_date: 2020-03-20 03:00:00
 time_added: 2020-03-20 17:04:23
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/8c/2020/02/20/bolsa-familia-1582202844778_v2_615x300.jpg
 ---

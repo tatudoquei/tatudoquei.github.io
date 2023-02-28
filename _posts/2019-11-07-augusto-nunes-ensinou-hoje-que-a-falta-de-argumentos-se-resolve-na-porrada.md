@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-07 19:32:00
 pub_date: 2019-11-07 19:32:00
 time_added: 2019-11-08 06:54:40
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/11/glenn-615x300.jpg
 ---

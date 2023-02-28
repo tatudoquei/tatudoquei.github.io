@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-23 11:30:26
 pub_date: 2019-08-23 11:30:26
 time_added: 2019-09-04 22:57:24
-category: 
+categories: []
 tags: []
 image: https://www.unilad.co.uk/wp-content/uploads/2019/08/Amazon-rainforest-fire-2.jpg
 ---

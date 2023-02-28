@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-22 23:58:00
 pub_date: 2021-07-22 23:58:00
 time_added: 2021-07-25 17:03:46
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/da/2021/07/22/sofia-aparecida-da-cruz-desmaiou-ao-participar-de-festa-de-aniversario-infantil-1626998041084_v2_615x300.png
 ---

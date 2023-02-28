@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-30 15:19:00
 pub_date: 2020-06-30 15:19:00
 time_added: 2020-06-30 22:35:20
-category: 
+categories: []
 tags: []
 image: https://ciclocosmo.blogfolha.uol.com.br/files/2020/06/CAIO4296.jpg
 ---

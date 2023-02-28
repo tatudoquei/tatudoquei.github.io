@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-26 17:23:00
 pub_date: 2020-04-26 17:23:00
 time_added: 2020-04-27 07:07:01
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24393716-fea-3e4/FT1086A/652/87952097_BrasilBrasiliaPA24-04-2020Pronunciamento-do-Presidente-Jair-Bolsonaropara-fa.jpg
 ---

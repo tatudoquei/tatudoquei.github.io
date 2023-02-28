@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-05 21:51:00
 pub_date: 2020-12-05 21:51:00
 time_added: 2020-12-05 23:57:09
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/4e/2020/08/07/23jul2020---profissional-do-msf-medicos-sem-fronteiras-durante-trabalho-na-uti-do-hospital-tide-setubal-em-sao-miguel-paulista-zona-leste-de-sao-paulo-1596832050644_v2_615x300.jpg
 ---

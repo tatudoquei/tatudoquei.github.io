@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-17 23:58:00
 pub_date: 2021-09-17 23:58:00
 time_added: 2021-09-25 17:41:05
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ef/2021/09/17/apos-quase-um-mes-internado-o-vereador-de-uberlandia-thiarles-santos-faleceu-com-covid-19-deixando-esposa-e-quatro-filhos-1631923004951_v2_615x300.jpg
 ---

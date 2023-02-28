@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-01 11:00:51
 pub_date: 2020-05-01 11:00:51
 time_added: 2020-05-03 06:05:12
-category: 
+categories: []
 tags: []
 image: https://vejario.abril.com.br/wp-content/uploads/2020/04/GettyImages-504221190.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

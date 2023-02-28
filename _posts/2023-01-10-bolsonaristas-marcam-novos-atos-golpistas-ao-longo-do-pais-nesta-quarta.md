@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-10 22:16:00
 pub_date: 2023-01-10 22:16:00
 time_added: 2023-01-11 08:08:57
-category: 
+categories: []
 tags: []
 image: https://midias.correiobraziliense.com.br/_midias/jpg/2022/11/01/675x450/1_01112022ed_10-26771908.jpg?20221121133258?20221121133258
 ---

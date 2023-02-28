@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-24 22:40:26
 pub_date: 2021-08-24 22:40:26
 time_added: 2021-09-06 08:19:15
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/10F57/production/_120236496_1palmares.jpg
 ---

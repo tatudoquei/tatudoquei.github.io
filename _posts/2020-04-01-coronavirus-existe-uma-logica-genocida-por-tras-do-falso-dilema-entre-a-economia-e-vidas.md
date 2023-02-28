@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-01 03:35:52
 pub_date: 2020-04-01 03:35:52
 time_added: 2020-04-01 05:35:52
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/03/wando-redes.jpg
 ---

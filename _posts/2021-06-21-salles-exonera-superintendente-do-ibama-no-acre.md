@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-21 06:26:06
 pub_date: 2021-06-21 06:26:06
 time_added: 2021-07-21 06:02:36
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2020/12/Salles22.jpg
 ---

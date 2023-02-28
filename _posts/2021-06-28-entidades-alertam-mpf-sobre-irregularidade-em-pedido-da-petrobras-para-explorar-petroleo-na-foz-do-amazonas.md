@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-28 22:00:00
 pub_date: 2021-06-28 22:00:00
 time_added: 2021-07-03 13:58:50
-category: 
+categories: []
 tags: []
 image: https://www.oc.eco.br/wp-content/uploads/2021/06/WhatsApp-Image-2021-06-28-at-14.18.24-1.jpeg
 ---

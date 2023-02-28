@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-30 16:12:43
 pub_date: 2020-10-30 16:12:43
 time_added: 2020-10-30 21:20:20
-category: 
+categories: []
 tags: []
 image: https://agencia.fiocruz.br/sites/agencia.fiocruz.br/files/imagemDestaque/infogripe_d_5.jpg
 ---

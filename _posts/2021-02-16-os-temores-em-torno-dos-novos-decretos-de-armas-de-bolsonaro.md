@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-16 16:15:51
 pub_date: 2021-02-16 16:15:51
 time_added: 2021-02-16 13:15:51
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/bolsonaro-arma.jpg1/alternates/LANDSCAPE_768/bolsonaro-arma.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-12 23:12:45
 pub_date: 2023-01-12 23:12:45
 time_added: 2023-01-14 09:21:00
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Durma-com-Essa-12-de-janeiro-de-20231/alternates/LANDSCAPE_768/Durma%20com%20Essa%2012%20de%20janeiro%20de%202023
 ---

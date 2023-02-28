@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-25 08:15:00
 pub_date: 2021-02-25 08:15:00
 time_added: 2021-02-26 21:27:16
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2021/01/redes-congresso.jpg
 ---

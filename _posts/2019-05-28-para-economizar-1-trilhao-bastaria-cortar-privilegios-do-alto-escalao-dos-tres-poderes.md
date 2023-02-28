@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-28 17:49:38
 pub_date: 2019-05-28 17:49:38
 time_added: 2019-06-02 05:02:01
-category: 
+categories: []
 tags: []
 image: https://s.yimg.com/uu/api/res/1.2/UOIWetLwYL8s6PMFHrzKvA--~B/aD02Mjg7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https:/img.huffingtonpost.com/asset/5ced748c2500006000dbc953.png
 ---

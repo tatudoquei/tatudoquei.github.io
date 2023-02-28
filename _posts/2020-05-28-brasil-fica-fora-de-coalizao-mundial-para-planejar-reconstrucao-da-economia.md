@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-28 06:41:00
 pub_date: 2020-05-28 06:41:00
 time_added: 2020-05-28 21:25:35
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/cc/2019/09/05/o-presidente-jair-bolsonaro-acompanhado-do-vice-presidente-hamilton-mourao-e-dos-ministros-fernando-azevedo-e-silva-defesa-e-abraham-weintraub-educacao-e-do-governador-do-df-ibaneis-rocha-dentre-1567720021573_v2_615x300.jpg
 ---

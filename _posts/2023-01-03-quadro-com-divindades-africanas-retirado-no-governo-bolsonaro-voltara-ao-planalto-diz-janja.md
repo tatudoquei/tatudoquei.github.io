@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-03 22:59:58
 pub_date: 2023-01-03 22:59:58
 time_added: 2023-01-06 23:30:41
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/C15A/production/_128189494_orixs.jpg
 ---

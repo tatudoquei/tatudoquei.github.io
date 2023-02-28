@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-14 14:57:50
 pub_date: 2019-06-14 14:57:50
 time_added: 2019-06-15 08:45:34
-category: 
+categories: []
 tags: []
 image: https://www.diariodocentrodomundo.com.br/wp-content/uploads/2019/06/captura-de-tela-2019-06-14-as-11-56-09.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-19 03:59:00
 pub_date: 2020-04-19 03:59:00
 time_added: 2020-04-22 18:08:31
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/89/2020/04/17/sergio-vieira-de-mello-na-onu-em-foto-de-2003-1587164523141_v2_615x300.jpg
 ---

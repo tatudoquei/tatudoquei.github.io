@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-29 17:15:13
 pub_date: 2019-04-29 17:15:13
 time_added: 2019-04-30 19:34:51
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2019/04/bolsonaro-aprovac3a7c3a3c3b5.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

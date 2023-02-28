@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-28 20:59:51
 pub_date: 2019-03-28 20:59:51
 time_added: 2019-03-30 09:38:48
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://s2.glbimg.com/WsrTVy111i84rOBxTry9tVKAw6M=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/L/a/hhtMn5StCUpt74EU4Klw/marcos-pontes.jpg
 ---

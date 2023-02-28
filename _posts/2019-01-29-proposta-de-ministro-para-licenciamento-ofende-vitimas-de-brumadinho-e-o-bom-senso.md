@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-29 08:29:49
 pub_date: 2019-01-29 08:29:49
 time_added: 2019-12-23 21:37:44
-category: refletimos
+categories: [refletimos]
 tags: [meio ambiente]
 image: http://www.diretodaciencia.com/wp-content/uploads/2019/01/26012019-encontro-de-trabalho_46830325422_o.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-03 17:05:00
 pub_date: 2020-05-03 17:05:00
 time_added: 2020-05-04 06:09:29
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/67/2020/05/03/o-presidente-jair-bolsonaro-participa-de-ato-em-brasilia-1588520683254_v2_615x300.jpg
 ---

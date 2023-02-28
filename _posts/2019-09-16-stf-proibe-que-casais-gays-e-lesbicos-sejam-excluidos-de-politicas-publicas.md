@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-16 11:23:00
 pub_date: 2019-09-16 11:23:00
 time_added: 2019-09-17 16:18:16
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/9c/2019/09/16/gay-couple-family-familia-homoafetiva-1568649884678_v2_615x300.jpg
 ---

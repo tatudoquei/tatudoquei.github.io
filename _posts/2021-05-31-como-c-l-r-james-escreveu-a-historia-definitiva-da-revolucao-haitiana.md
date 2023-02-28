@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-31 03:33:00
 pub_date: 2021-05-31 03:33:00
 time_added: 2021-06-02 06:06:24
-category: 
+categories: []
 tags: []
 image: https://jacobin.com.br/wp-content/uploads/2021/05/c-l-r-james-3.jpeg
 ---

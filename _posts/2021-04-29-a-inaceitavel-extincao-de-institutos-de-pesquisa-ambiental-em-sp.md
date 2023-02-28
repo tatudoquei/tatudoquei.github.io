@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-29 15:14:27
 pub_date: 2021-04-29 15:14:27
 time_added: 2021-05-23 07:59:10
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/04/Dporia.jpg
 ---

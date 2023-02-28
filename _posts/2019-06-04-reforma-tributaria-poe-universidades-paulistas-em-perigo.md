@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-04 10:08:18
 pub_date: 2019-06-04 10:08:18
 time_added: 2019-06-04 12:08:18
-category: 
+categories: []
 tags: []
 image: http://revistaquestaodeciencia.com.br/sites/default/files/styles/facebook/public/2019-06/img_QC_cortes-educacao_LP_20190531.jpg?itok=O7p-oMIO
 ---

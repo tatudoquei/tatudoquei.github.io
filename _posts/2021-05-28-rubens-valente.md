@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-28 09:39:00
 pub_date: 2021-05-28 09:39:00
 time_added: 2021-05-29 20:46:18
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ff/2021/05/28/casa-da-lideranca-indigena-maria-leusa-munduruku-incendiada-por-garimpeiros-na-terra-indigena-munduruku-em-26-de-maio-de-2021jacareacanga-pa-em-1622208074655_v2_615x300.jpg
 ---

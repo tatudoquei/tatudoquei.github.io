@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-22 15:43:27
 pub_date: 2019-04-22 15:43:27
 time_added: 2019-04-23 07:17:06
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/04/mcti-esplanada.jpg
 ---

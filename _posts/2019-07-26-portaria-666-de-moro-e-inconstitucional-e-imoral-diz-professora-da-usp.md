@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-26 17:02:43
 pub_date: 2019-07-26 17:02:43
 time_added: 2019-07-27 07:27:40
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2019/06/moro-4.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

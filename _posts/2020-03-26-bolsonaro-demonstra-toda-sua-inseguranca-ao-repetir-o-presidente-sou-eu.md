@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-26 20:30:00
 pub_date: 2020-03-26 20:30:00
 time_added: 2020-03-27 21:31:25
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f9/2020/03/20/o-presidente-jair-bolsonaro-em-coletiva-sobre-o-novo-coronavirus-1584733459331_v2_615x300.jpg
 ---

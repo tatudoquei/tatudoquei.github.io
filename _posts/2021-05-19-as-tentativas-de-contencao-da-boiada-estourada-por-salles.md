@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-19 22:00:00
 pub_date: 2021-05-19 22:00:00
 time_added: 2021-05-30 21:28:30
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Ricardo-Salles-com-madeira-ilegal1/alternates/LANDSCAPE_768/Ricardo%20Salles%20com%20madeira%20ilegal
 ---

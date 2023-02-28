@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-25 14:38:15
 pub_date: 2020-01-25 14:38:15
 time_added: 2020-01-25 15:38:15
-category: 
+categories: []
 tags: []
 image: http://cienciahoje.org.br/wp-content/uploads/2019/09/Design-Inteligente_1.jpg
 ---

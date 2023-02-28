@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-03 02:30:00
 pub_date: 2021-04-03 02:30:00
 time_added: 2021-04-03 15:34:06
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/uiNjXiAZBJbKIKVfc9ssD8flLns=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2021/04/02/ilusao3reinado-b.jpg
 ---

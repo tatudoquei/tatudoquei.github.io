@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-25 08:31:00
 pub_date: 2019-04-25 08:31:00
 time_added: 2019-04-26 03:58:11
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23620810-367-c2e/FT1086A/652/81080474_BSBBrasiliaBrasil12-02-2019PA5-Sessao-Ordinaria-da-4-Sessao-Legislat.jpg
 ---

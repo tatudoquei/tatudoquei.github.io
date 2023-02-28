@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-21 04:00:00
 pub_date: 2019-04-21 04:00:00
 time_added: 2019-04-21 23:18:22
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/KrfiXDXk7iukFaf6_EKUW7rmwZU=/640x424/top/i.glbimg.com/og/ig/infoglobo1/f/original/2019/01/23/bolsomourao.jpg
 ---

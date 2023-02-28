@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-03-16 16:16:27
 pub_date: 2022-03-16 16:16:27
 time_added: 2022-03-22 20:28:02
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/BOLSONARO-TSE.JPG/alternates/LANDSCAPE_768/BOLSONARO-TSE.JPG
 ---

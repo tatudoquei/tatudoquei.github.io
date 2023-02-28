@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-13 00:16:33
 pub_date: 2019-09-13 00:16:33
 time_added: 2020-01-14 01:01:52
-category: 
+categories: []
 tags: []
 image: http://www.fiquemsabendo.com.br/wp-content/uploads/1cf80003-ed46-401f-81d4-85b8a4be50ab-1.jpg
 ---

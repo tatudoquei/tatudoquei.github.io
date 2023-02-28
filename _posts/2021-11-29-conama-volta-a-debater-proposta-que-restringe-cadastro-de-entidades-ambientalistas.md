@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-29 21:06:58
 pub_date: 2021-11-29 21:06:58
 time_added: 2021-11-30 02:39:53
-category: 
+categories: []
 tags: []
 image: http://oeco.org.br/wp-content/uploads/2021/11/Oeco2_Conama-Paulo-de-Araujo-MMA.jpg
 ---

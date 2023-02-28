@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-10 15:44:54
 pub_date: 2019-06-10 15:44:54
 time_added: 2019-06-11 05:48:45
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/05/brasil-politica-sergio-moro-20190528-0006-copy.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

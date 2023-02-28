@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-01-06 20:18:40
 pub_date: 2022-01-06 20:18:40
 time_added: 2022-01-06 23:14:58
-category: 
+categories: []
 tags: []
 image: http://oeco.org.br/wp-content/uploads/2022/01/ministro-pontes.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-23 20:49:00
 pub_date: 2020-03-23 20:49:00
 time_added: 2020-03-25 21:02:43
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/7a/2020/03/23/ministros-do-governo-em-coletiva-sobre-o-coronavirus-1585010937879_v2_615x300.jpg
 ---

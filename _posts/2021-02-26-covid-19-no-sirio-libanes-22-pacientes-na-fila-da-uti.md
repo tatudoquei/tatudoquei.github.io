@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-26 09:10:00
 pub_date: 2021-02-26 09:10:00
 time_added: 2021-02-27 00:10:44
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/zoAaOVuT2lpfk6ajPB0XwFGrbD0=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2017/10/26/19501257_pa_local_sao_paulo_sp_31102011_-_dilma_rousseff_a_presidenta_dilma_rousseff_chega_n.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-27 15:07:53
 pub_date: 2022-12-27 15:07:53
 time_added: 2022-12-27 16:07:53
-category: 
+categories: []
 tags: []
 image: https://jornalggn.com.br/wp-content/uploads/2022/12/Collage-4-scaled.jpg
 ---

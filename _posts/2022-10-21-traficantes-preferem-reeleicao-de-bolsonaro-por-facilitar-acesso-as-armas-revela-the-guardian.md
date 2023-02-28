@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-21 20:21:25
 pub_date: 2022-10-21 20:21:25
 time_added: 2022-10-22 18:01:46
-category: 
+categories: []
 tags: []
 image: https://jornalggn.com.br/wp-content/uploads/2022/10/BOLSONARO-COM-FUZIL-e1666382736104.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-28 02:00:00
 pub_date: 2020-07-28 02:00:00
 time_added: 2020-07-28 22:16:18
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/6c/2020/07/21/palavra-fundeb-escrita-na-bandeira-1595324018064_v2_615x300.jpg
 ---

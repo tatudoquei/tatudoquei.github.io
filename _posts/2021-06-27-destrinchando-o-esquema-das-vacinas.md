@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-27 20:36:29
 pub_date: 2021-06-27 20:36:29
 time_added: 2021-07-04 12:37:19
-category: 
+categories: []
 tags: []
 image: https://nadanovonofrontcom.files.wordpress.com/2021/06/img_2446.jpg
 ---

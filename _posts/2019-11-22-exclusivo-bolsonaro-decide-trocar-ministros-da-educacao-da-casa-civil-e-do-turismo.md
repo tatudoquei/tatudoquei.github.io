@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-22 04:07:28
 pub_date: 2019-11-22 04:07:28
 time_added: 2019-11-22 20:04:13
-category: 
+categories: []
 tags: []
 image: https://vortex.media/wp-content/uploads/2019/10/bolsofb.jpg
 ---

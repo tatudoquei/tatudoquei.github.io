@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-17 08:54:00
 pub_date: 2021-05-17 08:54:00
 time_added: 2021-05-17 19:39:02
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/1d/2021/03/24/acampamento-garimpeiro-no-rio-uraricoera-regiao-waikas-na-terra-indigena-yanomami-em-dezembro-de-2020-1616626708658_v2_615x300.jpg
 ---

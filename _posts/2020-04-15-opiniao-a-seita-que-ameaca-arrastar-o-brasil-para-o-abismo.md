@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-15 14:52:00
 pub_date: 2020-04-15 14:52:00
 time_added: 2020-04-17 05:39:27
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/12/2020/04/08/8abr2020---o-presidente-jair-bolsonaro-sem-partido-durante-pronunciamento-em-rede-nacional-de-radio-e-televisao-1586387571706_v2_615x300.jpg
 ---

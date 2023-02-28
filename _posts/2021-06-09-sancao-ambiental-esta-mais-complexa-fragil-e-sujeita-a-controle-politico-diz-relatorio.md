@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-09 00:24:15
 pub_date: 2021-06-09 00:24:15
 time_added: 2021-07-03 03:22:15
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/06/fiscalizacao.jpg
 ---

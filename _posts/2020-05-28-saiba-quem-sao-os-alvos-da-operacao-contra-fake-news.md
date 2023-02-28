@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-28 02:38:53
 pub_date: 2020-05-28 02:38:53
 time_added: 2021-01-25 21:37:08
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/05/inquerito-fakenews-1200x630.jpg
 ---

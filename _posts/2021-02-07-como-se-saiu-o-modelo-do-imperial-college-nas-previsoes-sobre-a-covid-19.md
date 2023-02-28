@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-07 17:28:07
 pub_date: 2021-02-07 17:28:07
 time_added: 2021-02-07 18:28:07
-category: 
+categories: []
 tags: []
 image: https://1.bp.blogspot.com/-TVrCQ44Ckz0/X_oNA8TlsZI/AAAAAAAAG4M/rObCI7lNdRgv0gkMk160kGY9CgWg4cnSACLcBGAsYHQ/w1200-h630-p-k-no-nu/imperial-college-covid19-mortalidade.png
 ---

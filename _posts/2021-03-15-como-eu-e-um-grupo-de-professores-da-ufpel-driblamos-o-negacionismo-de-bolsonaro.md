@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-15 21:43:00
 pub_date: 2021-03-15 21:43:00
 time_added: 2021-03-27 08:40:42
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2021/03/GettyImages-1229856218-r.jpg
 ---

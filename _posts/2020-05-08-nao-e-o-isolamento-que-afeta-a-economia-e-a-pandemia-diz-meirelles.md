@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-08 11:57:00
 pub_date: 2020-05-08 11:57:00
 time_added: 2020-05-12 19:24:08
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/29/2019/11/29/29nov2019---henrique-meirelles-secretario-da-fazenda-e-planejamento-do-estado-de-sao-paulo-1575066058030_v2_615x300.jpg
 ---

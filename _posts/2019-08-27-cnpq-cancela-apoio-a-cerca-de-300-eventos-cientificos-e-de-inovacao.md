@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-27 08:30:00
 pub_date: 2019-08-27 08:30:00
 time_added: 2019-08-30 23:38:23
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23880058-351-491/FT1086A/652/CNPq.jpg
 ---

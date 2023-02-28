@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-30 22:00:55
 pub_date: 2021-09-30 22:00:55
 time_added: 2021-10-17 14:32:33
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/09/JairBolsonaro-CaixaTem-1000Dias-CiroNogueira-JoaoRoma-PauloGuedes-27Set2021-62-1200x630.jpg
 ---

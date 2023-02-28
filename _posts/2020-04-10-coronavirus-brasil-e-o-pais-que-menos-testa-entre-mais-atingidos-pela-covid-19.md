@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-10 02:30:00
 pub_date: 2020-04-10 02:30:00
 time_added: 2020-04-10 17:43:03
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24363509-448-200/FT1086A/652/87776734_RI-Rio-de-Janeiro-RJ-07-04-2020Coronavirus-Campanha-financiada-pelo-setor-privado-inicia.jpg
 ---

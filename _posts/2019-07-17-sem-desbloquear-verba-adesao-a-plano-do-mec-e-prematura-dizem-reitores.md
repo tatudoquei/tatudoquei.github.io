@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-17 14:30:00
 pub_date: 2019-07-17 14:30:00
 time_added: 2019-07-18 17:38:22
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e0/2019/04/22/8abr2019---predio-do-ministerio-da-educacao-mec-1555968090595_v2_615x300.jpg
 ---

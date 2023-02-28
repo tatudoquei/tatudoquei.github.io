@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-25 20:30:00
 pub_date: 2021-03-25 20:30:00
 time_added: 2021-03-26 20:44:28
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24919352-382-306/FT1086A/xErnesto.jpg.pagespeed.ic.BciHKgSv7q.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-31 23:53:00
 pub_date: 2020-05-31 23:53:00
 time_added: 2020-06-01 07:18:58
-category: 
+categories: []
 tags: []
 image: https://noticiasdatv.uol.com.br/media/_versions/artigos/cacau-protassio-reproducao-fantastico-globo_fixed_big.jpg
 ---

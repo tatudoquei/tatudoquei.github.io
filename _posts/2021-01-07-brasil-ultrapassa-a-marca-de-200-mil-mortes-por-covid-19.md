@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-07 20:29:00
 pub_date: 2021-01-07 20:29:00
 time_added: 2021-01-08 07:46:09
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24827603-c84-cee/FT1086A/652/aropoadoraglomeracao.jpg
 ---

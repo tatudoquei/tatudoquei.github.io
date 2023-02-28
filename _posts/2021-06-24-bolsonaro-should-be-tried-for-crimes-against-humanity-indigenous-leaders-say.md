@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-24 09:00:00
 pub_date: 2021-06-24 09:00:00
 time_added: 2021-07-04 12:44:14
-category: 
+categories: []
 tags: []
 image: https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_25/3485523/210622-icn-brazil-ecocide-2x1-cs.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-16 17:11:00
 pub_date: 2021-03-16 17:11:00
 time_added: 2021-03-21 09:23:06
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/4ymXIEGyzv_dOYVf4SHBorTywdE=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/05/20/82533572_pa_rio_de_janeiro_rj_06-05-2019_-_o_presidente_jair_bolsonaro_participa_da_comemoracao.jpg
 ---

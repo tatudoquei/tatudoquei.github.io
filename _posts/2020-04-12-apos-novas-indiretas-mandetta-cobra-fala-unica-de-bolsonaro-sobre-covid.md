@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-12 20:27:00
 pub_date: 2020-04-12 20:27:00
 time_added: 2020-04-13 07:25:43
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/blogs/ee/2020/04/07/mandetta-1586314467078_v2_615x300.jpg
 ---

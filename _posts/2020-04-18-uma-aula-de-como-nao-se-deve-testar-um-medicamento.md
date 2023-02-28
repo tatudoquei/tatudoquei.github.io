@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-18 20:29:19
 pub_date: 2020-04-18 20:29:19
 time_added: 2020-04-18 22:29:19
-category: 
+categories: []
 tags: []
 image: https://www.revistaquestaodeciencia.com.br/sites/default/files/styles/facebook/public/2020-04/AMPUTATION_SQUARE.jpg?itok=DkgZx-uA
 ---

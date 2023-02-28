@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-13 19:00:00
 pub_date: 2019-01-13 19:00:00
 time_added: 2019-12-23 21:41:24
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://f.i.uol.com.br/fotografia/2019/01/12/15473425305c3a92c233f0e_1547342530_3x2_xl.jpg
 ---

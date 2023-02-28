@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-11 13:12:19
 pub_date: 2021-11-11 13:12:19
 time_added: 2021-11-13 12:32:13
-category: 
+categories: []
 tags: []
 image: https://www.redebrasilatual.com.br/wp-content/uploads/2021/11/protesto-antirracismo.jpg
 ---

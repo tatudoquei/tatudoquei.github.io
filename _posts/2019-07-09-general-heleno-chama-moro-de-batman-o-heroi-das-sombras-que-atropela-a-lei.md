@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-09 00:07:00
 pub_date: 2019-07-09 00:07:00
 time_added: 2019-07-10 19:25:24
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/07/bati-1-615x300.jpg
 ---

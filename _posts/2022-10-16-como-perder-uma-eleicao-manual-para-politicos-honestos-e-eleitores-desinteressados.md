@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-16 15:29:11
 pub_date: 2022-10-16 15:29:11
 time_added: 2022-10-22 18:13:25
-category: 
+categories: []
 tags: []
 image: https://braziljournal.com/wp-content/uploads/2022/10/politico.png
 ---

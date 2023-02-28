@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-30 14:47:44
 pub_date: 2020-03-30 14:47:44
 time_added: 2020-03-30 21:59:00
-category: 
+categories: []
 tags: []
 image: https://extra.globo.com/noticias/brasil/24321327-7e7-5e5/w976h550-PROP/bolosnaro-mandetta.jpg
 ---

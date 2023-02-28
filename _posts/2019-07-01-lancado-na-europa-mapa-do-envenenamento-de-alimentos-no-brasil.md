@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-01 21:00:47
 pub_date: 2019-07-01 21:00:47
 time_added: 2019-07-04 19:03:08
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/06/20190614_00_aviao-vermicida-brasil.jpg
 ---

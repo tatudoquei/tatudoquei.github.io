@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-15 19:19:00
 pub_date: 2019-08-15 19:19:00
 time_added: 2019-08-18 23:22:00
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23879874-ecd-732/FT1086A/652/Gilson-Machado-Neto-presidente-da-Embratur-Foto-Divulgacao-696x464.jpg
 ---

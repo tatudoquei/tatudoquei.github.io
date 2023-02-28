@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-07 20:59:48
 pub_date: 2020-02-07 20:59:48
 time_added: 2020-02-09 00:54:26
-category: 
+categories: []
 tags: []
 image: https://www.otempo.com.br/image/contentid/policy:1.2293144:1580920437/fadsfADFFA.JPG?f=3x2&w=620&$p$f$w=51bbfa8
 ---

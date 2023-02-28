@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-10 13:51:48
 pub_date: 2023-01-10 13:51:48
 time_added: 2023-01-14 14:21:37
-category: 
+categories: []
 tags: []
 image: https://congressoemfoco.uol.com.br/wp-content/uploads/2023/01/img20180409154215505MED.jpg
 ---

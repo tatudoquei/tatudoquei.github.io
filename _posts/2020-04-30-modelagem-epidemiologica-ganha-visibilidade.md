@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-30 18:13:13
 pub_date: 2020-04-30 18:13:13
 time_added: 2020-04-30 20:13:13
-category: 
+categories: []
 tags: []
 image: https://revistapesquisa.fapesp.br/wp-content/thumbs/86d5f2c33ed9e2d43a9a4e81388d448e3c9a9750_1200-630.jpg
 ---

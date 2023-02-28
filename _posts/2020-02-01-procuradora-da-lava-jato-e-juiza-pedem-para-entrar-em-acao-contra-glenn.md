@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-01 00:59:00
 pub_date: 2020-02-01 00:59:00
 time_added: 2020-02-03 09:00:37
-category: 
+categories: []
 tags: []
 image: https://painel.blogfolha.uol.com.br/files/2020/01/glenn.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-16 00:02:27
 pub_date: 2021-10-16 00:02:27
 time_added: 2021-10-15 21:02:27
-category: refletimos
+categories: [refletimos]
 tags: [ciência]
 image: https://revistapesquisa.fapesp.br/wp-content/thumbs/0697866b1db5f94e0bcd3c6bf604921a46603034_1200-630.jpg
 ---

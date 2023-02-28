@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-17 20:07:40
 pub_date: 2019-04-17 20:07:40
 time_added: 2019-04-19 07:41:55
-category: 
+categories: []
 tags: []
 image: https://i1.wp.com/apublica.org/wp-content/uploads/2019/04/antonio-cruz-agencia-brasil.jpg?fit=1140%2C760&ssl=1
 ---

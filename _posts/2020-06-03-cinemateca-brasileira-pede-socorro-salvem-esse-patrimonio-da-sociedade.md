@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-03 19:47:05
 pub_date: 2020-06-03 19:47:05
 time_added: 2020-06-07 08:49:27
-category: 
+categories: []
 tags: []
 image: https://jornalistaslivres.org/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-02-at-23.21.58.jpeg
 ---

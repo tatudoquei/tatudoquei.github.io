@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-11 14:41:06
 pub_date: 2021-08-11 14:41:06
 time_added: 2021-08-20 21:30:18
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2019/07/31105547/160719-VSR-Correios-010.jpg
 ---

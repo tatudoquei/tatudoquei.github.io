@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-11 16:23:00
 pub_date: 2019-11-11 16:23:00
 time_added: 2019-11-12 06:51:05
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/51/2019/11/11/6nov19---o-procurador-deltan-dallagnol-em-solenidade-de-outorga-de-comendas-da-ordem-do-merito-do-ministerio-publico-militar-1573501120300_v2_615x300.jpg
 ---

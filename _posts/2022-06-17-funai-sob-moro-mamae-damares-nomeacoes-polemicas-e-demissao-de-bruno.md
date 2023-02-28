@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-06-17 16:04:20
 pub_date: 2022-06-17 16:04:20
 time_added: 2023-01-26 18:51:20
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2019/08/sergio-moro-2019.png?w=680&h=453&crop=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-14 06:59:00
 pub_date: 2020-05-14 06:59:00
 time_added: 2020-05-14 13:17:54
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/7d/2020/05/08/presidente-jair-bolsonaro-em-brasilia-1588947979446_v2_615x300.jpg
 ---

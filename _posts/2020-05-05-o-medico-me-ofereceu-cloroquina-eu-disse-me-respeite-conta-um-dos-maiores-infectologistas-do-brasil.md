@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-05 02:30:00
 pub_date: 2020-05-05 02:30:00
 time_added: 2020-05-05 13:12:30
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24411211-56e-802/FT1086A/652/Mauro-Schechter.jpg
 ---

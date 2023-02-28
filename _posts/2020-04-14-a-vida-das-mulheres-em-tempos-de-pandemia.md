@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-14 09:21:51
 pub_date: 2020-04-14 09:21:51
 time_added: 2020-04-14 11:21:51
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Idosas-fazem-compras-na-feira-usando-m%C3%A1scaras/alternates/LANDSCAPE_768/Idosas%20fazem%20compras%20na%20feira%20usando%20m%C3%A1scaras
 ---

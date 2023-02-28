@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-09 21:18:37
 pub_date: 2023-01-09 21:18:37
 time_added: 2023-01-10 23:57:35
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/teaser-hora-hora.png/alternates/LANDSCAPE_768/teaser-hora-hora.png
 ---

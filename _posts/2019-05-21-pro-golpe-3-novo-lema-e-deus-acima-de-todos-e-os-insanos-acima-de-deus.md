@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-21 06:08:00
 pub_date: 2019-05-21 06:08:00
 time_added: 2019-05-22 06:31:15
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2019/05/politicosobedecerpresidente-601x300.jpg
 ---

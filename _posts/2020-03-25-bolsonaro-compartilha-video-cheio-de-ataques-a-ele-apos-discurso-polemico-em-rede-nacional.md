@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-25 05:40:18
 pub_date: 2020-03-25 05:40:18
 time_added: 2020-03-25 06:40:18
-category: 
+categories: []
 tags: []
 image: https://hashtag.blogfolha.uol.com.br/files/2020/03/bolsonaro-presidente-pronuncimaneto.jpg
 ---

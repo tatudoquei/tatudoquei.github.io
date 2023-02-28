@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-07 02:30:00
 pub_date: 2020-05-07 02:30:00
 time_added: 2020-05-07 12:32:00
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24414259-d78-fa0/FT1086A/652/88059285_RI-Rio-de-Janeiro-RJ-06-05-2020-Fachada-da-Policia-Federal-do-Rio-de-Janeiro-no-centro.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-16 11:05:23
 pub_date: 2019-11-16 11:05:23
 time_added: 2019-11-16 17:20:12
-category: 
+categories: []
 tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2017/03/19-01-10-Predio-Capes-New-015.jpg
 ---

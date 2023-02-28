@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-26 11:13:08
 pub_date: 2021-04-26 11:13:08
 time_added: 2021-05-23 07:54:41
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/04/Oeco_Assembleia-rondonia_votacao-PL080_foto-Diego-Queiroz-ALE-RO.jpg
 ---

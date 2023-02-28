@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-31 16:45:51
 pub_date: 2021-05-31 16:45:51
 time_added: 2021-06-20 09:52:27
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/05/Oeco2_ao-centro-Marcia-Telles-Inema-e-rui-costa-a-direita-governador_Foto-SEMA.jpg
 ---

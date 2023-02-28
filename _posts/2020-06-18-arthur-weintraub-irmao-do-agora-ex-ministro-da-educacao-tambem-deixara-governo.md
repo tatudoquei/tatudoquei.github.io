@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-18 17:01:31
 pub_date: 2020-06-18 17:01:31
 time_added: 2020-06-18 21:34:08
-category: 
+categories: []
 tags: []
 image: http://blogs.correiobraziliense.com.br/vicente/wp-content/uploads/sites/16/2020/06/ArthurWeintraub.jpg
 ---

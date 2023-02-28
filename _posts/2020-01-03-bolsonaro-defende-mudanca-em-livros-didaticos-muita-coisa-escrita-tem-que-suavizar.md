@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-03 11:20:00
 pub_date: 2020-01-03 11:20:00
 time_added: 2020-01-03 20:35:50
-category: avisamos
+categories: [avisamos]
 tags: [educação]
 image: https://ogimg.infoglobo.com.br/in/24170007-bb7-d0e/FT1086A/652/86295546_BRASILBrasilia-DF27-12-2019O-presidente-Jair-Bolsonaro-fala-com-apoiadores-ao-deix.jpg
 ---

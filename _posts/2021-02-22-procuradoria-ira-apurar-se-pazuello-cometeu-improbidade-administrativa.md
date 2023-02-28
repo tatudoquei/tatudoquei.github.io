@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-22 21:13:33
 pub_date: 2021-02-22 21:13:33
 time_added: 2021-02-27 16:59:29
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/02/SeandoFederal-EduardoPazuello-RodrigoPacheco-Saude-Vacina-Plenario-56-1200x630.jpg
 ---

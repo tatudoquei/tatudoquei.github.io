@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-03 23:00:00
 pub_date: 2019-11-03 23:00:00
 time_added: 2019-11-13 22:36:44
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Sergio-Moro21/ALTERNATES/LANDSCAPE_720/Sergio%20Moro
 ---

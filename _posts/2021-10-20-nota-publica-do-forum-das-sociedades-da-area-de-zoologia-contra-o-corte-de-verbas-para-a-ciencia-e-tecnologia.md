@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-20 01:56:53
 pub_date: 2021-10-20 01:56:53
 time_added: 2021-10-19 22:56:53
-category: refletimos
+categories: [refletimos, resistimos]
 tags: [ciência]
 image: http://sbzoologia.org.br/uploads/1634660321-cropit-.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-23 06:29:00
 pub_date: 2019-12-23 06:29:00
 time_added: 2019-12-23 15:24:42
-category: 
+categories: []
 tags: []
 image: https://ambiencia.blogfolha.uol.com.br/files/2019/11/brigadaalter.png
 ---

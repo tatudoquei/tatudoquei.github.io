@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-12 02:00:00
 pub_date: 2020-07-12 02:00:00
 time_added: 2020-07-15 05:59:24
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a6/2020/07/06/bares-vazios-marcam-primeiro-dia-de-reabertura-em-sp-1594070617385_v2_750x421.jpg
 ---

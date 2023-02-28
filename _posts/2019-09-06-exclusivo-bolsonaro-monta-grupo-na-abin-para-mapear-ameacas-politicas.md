@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-06 09:00:21
 pub_date: 2019-09-06 09:00:21
 time_added: 2019-09-07 08:27:58
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/07/jair-bolsonaro-exercito-congresso-nacional-homenagem.png?w=680&h=453&crop=1
 ---

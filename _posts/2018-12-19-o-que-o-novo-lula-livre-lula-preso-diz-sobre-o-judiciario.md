@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-19 14:11:00
 pub_date: 2018-12-19 14:11:00
 time_added: 2019-12-23 21:41:23
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Toffoli_STF.jpg/ALTERNATES/LANDSCAPE_720/Toffoli_STF.jpg
 ---

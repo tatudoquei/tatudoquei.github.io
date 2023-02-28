@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-14 12:19:00
 pub_date: 2019-05-14 12:19:00
 time_added: 2019-05-16 19:12:36
-category: 
+categories: []
 tags: []
 image: https://ve.i.uol.com.br/vestibular/2011/01/12/vista-da-praca-do-relogio-na-cidade-universitaria-da-usp-em-sao-paulo-1294839255729_615x300.jpg
 ---

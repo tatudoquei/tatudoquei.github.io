@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-26 06:00:00
 pub_date: 2020-07-26 06:00:00
 time_added: 2020-07-26 20:23:29
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/1sBz7rmD4-1f4_ipgJKoVBi3RWo=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2016/09/06/oab.jpg
 ---

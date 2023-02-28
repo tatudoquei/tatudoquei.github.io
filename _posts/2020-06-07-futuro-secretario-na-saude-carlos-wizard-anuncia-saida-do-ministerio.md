@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-07 22:38:35
 pub_date: 2020-06-07 22:38:35
 time_added: 2020-06-08 02:45:20
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2017/09/carlos-wizard-martins-presidente-do-grupo-multi-_1.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

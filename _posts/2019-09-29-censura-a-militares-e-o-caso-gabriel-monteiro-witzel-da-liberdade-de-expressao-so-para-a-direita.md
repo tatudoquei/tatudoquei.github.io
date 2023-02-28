@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-29 11:20:00
 pub_date: 2019-09-29 11:20:00
 time_added: 2019-10-03 07:18:57
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/09/gabriel-redes-1569705338.jpg
 ---

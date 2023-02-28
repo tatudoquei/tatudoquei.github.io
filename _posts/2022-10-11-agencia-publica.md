@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-11 17:40:00
 pub_date: 2022-10-11 17:40:00
 time_added: 2022-10-16 20:01:04
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2022/10/Capa_Facebook_A-conja-eleita.png
 ---

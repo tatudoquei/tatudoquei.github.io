@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-06 19:58:00
 pub_date: 2021-04-06 19:58:00
 time_added: 2021-05-16 17:33:53
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/12/2021/03/14/2mar2021---o-ministro-gilmar-mendes-durante-sessao-da-2-turma-do-stf-supremo-tribunal-federal-1615775602109_v2_615x300.jpg
 ---

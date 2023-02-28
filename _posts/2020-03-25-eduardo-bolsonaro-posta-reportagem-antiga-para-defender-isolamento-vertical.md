@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-25 19:05:00
 pub_date: 2020-03-25 19:05:00
 time_added: 2020-03-27 22:15:42
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/JrcBENtJWQNeB6KFG3Blel4mUwE=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/10/31/85442111_bsb_-_brasilia_-_brasil_-_30-10-2019_-_deputado_eduardo_bolsonaro_psl-sp_preside_sessa.jpg
 ---

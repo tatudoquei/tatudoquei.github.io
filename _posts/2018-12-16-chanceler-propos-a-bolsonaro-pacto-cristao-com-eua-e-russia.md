@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-16 13:08:50
 pub_date: 2018-12-16 13:08:50
 time_added: 2018-12-17 23:35:45
-category: avisamos
+categories: [avisamos]
 tags: []
 image: http://midias.gazetaonline.com.br/_midias/jpg/2018/12/13/edit_tnrgo_abr_0812188232-5916834.jpg
 ---

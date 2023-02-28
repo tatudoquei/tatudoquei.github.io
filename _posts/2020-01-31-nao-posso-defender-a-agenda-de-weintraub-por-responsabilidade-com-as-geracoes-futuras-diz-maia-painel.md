@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-31 00:59:00
 pub_date: 2020-01-31 00:59:00
 time_added: 2020-01-31 15:54:10
-category: 
+categories: []
 tags: []
 image: https://painel.blogfolha.uol.com.br/files/2018/11/maia_reeleicao.jpg
 ---

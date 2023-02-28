@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-02 11:53:42
 pub_date: 2019-09-02 11:53:42
 time_added: 2019-09-04 22:57:46
-category: 
+categories: []
 tags: []
 image: https://odia.ig.com.br/_midias/jpg/2019/05/15/700x470/1_fpzzb_abr_15052019_0556-11108134.jpg
 ---

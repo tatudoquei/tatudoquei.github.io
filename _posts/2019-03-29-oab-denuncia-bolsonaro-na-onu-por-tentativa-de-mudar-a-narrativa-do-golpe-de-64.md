@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-29 14:29:00
 pub_date: 2019-03-29 14:29:00
 time_added: 2019-03-30 09:55:08
-category: 
+categories: []
 tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2019/03/bolsonarocelular-e1553622443563.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-23 13:22:00
 pub_date: 2022-09-23 13:22:00
 time_added: 2022-09-24 10:03:34
-category: 
+categories: []
 tags: []
 image: https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook.jpg
 ---

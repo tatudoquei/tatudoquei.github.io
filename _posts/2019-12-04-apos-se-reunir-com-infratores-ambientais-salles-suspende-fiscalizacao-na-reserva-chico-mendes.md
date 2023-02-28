@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-04 12:35:00
 pub_date: 2019-12-04 12:35:00
 time_added: 2019-12-04 18:36:05
-category: avisamos
+categories: [avisamos, bandido bom]
 tags: [meio ambiente]
 image: https://f.i.uol.com.br/fotografia/2019/12/04/15754768545de7de7688e0c_1575476854_3x2_md.jpg
 ---

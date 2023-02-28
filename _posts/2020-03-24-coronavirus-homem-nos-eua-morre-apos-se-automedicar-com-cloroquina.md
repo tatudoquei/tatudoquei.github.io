@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-24 07:17:00
 pub_date: 2020-03-24 07:17:00
 time_added: 2020-03-24 12:48:53
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d6/2017/02/08/pilula-remedio-medicamento-1486587057082_615x300.jpg
 ---

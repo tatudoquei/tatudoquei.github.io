@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-05 16:10:00
 pub_date: 2019-06-05 16:10:00
 time_added: 2019-06-06 07:01:09
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/8b/2019/05/31/29mai2019---o-presidente-jair-bolsonaro-fala-com-a-imprensa-em-brasilia-1559331515037_v2_615x300.jpg
 ---

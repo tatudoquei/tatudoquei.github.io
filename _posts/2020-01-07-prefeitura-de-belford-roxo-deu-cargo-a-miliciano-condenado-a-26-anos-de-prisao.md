@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-07 17:29:15
 pub_date: 2020-01-07 17:29:15
 time_added: 2020-01-08 21:04:21
-category: 
+categories: []
 tags: []
 image: https://extra.globo.com/incoming/13406186-0cc-4e5/w976h550-PROP/2009-293238052-2009082745381_20090827.jpg
 ---

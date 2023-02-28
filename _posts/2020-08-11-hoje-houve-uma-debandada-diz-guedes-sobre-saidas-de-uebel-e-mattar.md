@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-11 23:14:55
 pub_date: 2020-08-11 23:14:55
 time_added: 2020-08-12 13:51:21
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/05/guedes-auxilio-emergencial-1-1200x630.png
 ---

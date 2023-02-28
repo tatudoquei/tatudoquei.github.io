@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-06 22:42:18
 pub_date: 2014-02-23 03:00:00
 time_added: 2020-12-06 22:42:18
-category: 
+categories: []
 tags: []
 image: http://f.i.uol.com.br/folha/mercado/images/14053268.jpeg
 ---

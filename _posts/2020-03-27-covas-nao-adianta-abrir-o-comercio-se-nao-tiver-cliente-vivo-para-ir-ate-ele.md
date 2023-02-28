@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-27 20:25:15
 pub_date: 2020-03-27 20:25:15
 time_added: 2020-03-29 21:25:14
-category: 
+categories: []
 tags: []
 image: https://jpimg.com.br/uploads/2020/03/bruno-covas-psdb-e-o-atual-prefeito-de-sao-paulo-1024x682.jpg
 ---

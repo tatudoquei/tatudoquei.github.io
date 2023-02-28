@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-23 16:01:00
 pub_date: 2020-03-23 16:01:00
 time_added: 2020-03-23 21:05:18
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24308921-f35-643/FT1086A/652/87351282_Brazils-Economy-Minister-Paulo-Guedes-looks-on-as-he-speaks-with-journalists-after-a-c.jpg
 ---

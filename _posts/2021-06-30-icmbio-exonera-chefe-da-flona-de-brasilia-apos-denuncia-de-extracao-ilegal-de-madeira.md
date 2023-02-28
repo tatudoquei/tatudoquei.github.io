@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-30 19:51:12
 pub_date: 2021-06-30 19:51:12
 time_added: 2021-07-24 08:16:52
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/06/Oeco2_Flona-Bsb_TV-Globo-reproducao-2.jpeg
 ---

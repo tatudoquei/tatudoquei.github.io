@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-23 08:17:35
 pub_date: 2018-09-18 12:00:00
 time_added: 2019-11-23 08:17:35
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23076497-af7-54c/FT1086A/652/David-Harvey-geografo-ingle.jpg
 ---

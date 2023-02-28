@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-10 16:44:00
 pub_date: 2022-11-10 16:44:00
 time_added: 2022-11-12 14:19:53
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/9c/2022/11/10/presidente-eleito-lula-discursa-em-gabinete-de-transicao-em-brasilia-1668094584599_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-25 16:47:55
 pub_date: 2021-06-25 16:47:55
 time_added: 2021-06-25 20:37:58
-category: 
+categories: []
 tags: []
 image: https://almapreta.com/images/2021/06/mortescovid.jpg
 ---

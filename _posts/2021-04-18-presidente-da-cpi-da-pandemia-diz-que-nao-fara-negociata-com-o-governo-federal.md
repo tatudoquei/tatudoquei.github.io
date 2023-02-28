@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-18 20:53:00
 pub_date: 2021-04-18 20:53:00
 time_added: 2021-05-16 20:36:06
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24972218-2c3-ad8/FT1086A/83363545_PA-Brasilia-BSB-25-06-2019-Comissao-de-Assuntos-Economicos-CAE-realiza-reuniao-delibera.jpg
 ---

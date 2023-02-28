@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-15 19:08:31
 pub_date: 2020-05-15 19:08:31
 time_added: 2020-05-15 21:08:31
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/04/20200427_00_hospital_covid.jpg
 ---

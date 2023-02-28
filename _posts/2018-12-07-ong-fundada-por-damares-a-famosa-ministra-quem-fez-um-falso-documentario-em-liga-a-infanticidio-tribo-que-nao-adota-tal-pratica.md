@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-07 15:02:00
 pub_date: 2018-12-07 15:02:00
 time_added: 2018-12-08 15:53:53
-category: avisamos
+categories: [avisamos]
 tags: []
 image: http://www3.redetv.uol.com.br/blog/reinaldo/wp-content/themes/layout/assets/images/reinaldo-thumb.jpg
 ---

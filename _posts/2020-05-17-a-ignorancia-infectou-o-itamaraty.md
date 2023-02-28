@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-17 15:08:00
 pub_date: 2020-05-17 15:08:00
 time_added: 2020-05-27 21:27:03
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/05/ernesto-redes.jpg
 ---

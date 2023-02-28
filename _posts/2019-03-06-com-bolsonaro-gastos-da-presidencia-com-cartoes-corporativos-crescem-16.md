@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-06 14:29:02
 pub_date: 2019-03-06 14:29:02
 time_added: 2019-07-09 06:39:02
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2019/03/jair-bolsonaro.gif?w=680&h=453&crop=1
 ---

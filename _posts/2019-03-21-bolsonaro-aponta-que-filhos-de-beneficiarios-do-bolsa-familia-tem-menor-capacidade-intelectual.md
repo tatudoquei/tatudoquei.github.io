@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-21 13:03:18
 pub_date: 2019-03-21 13:03:18
 time_added: 2019-03-22 08:01:43
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://www.opovo.com.br/_midias/jpg/2019/03/21/bolsonaro-2149823.jpg
 ---

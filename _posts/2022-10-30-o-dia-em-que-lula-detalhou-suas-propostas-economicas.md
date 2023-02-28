@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-30 18:13:28
 pub_date: 2022-10-30 18:13:28
 time_added: 2022-10-30 19:13:28
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2022/10/lula_091022_redes.jpg
 ---

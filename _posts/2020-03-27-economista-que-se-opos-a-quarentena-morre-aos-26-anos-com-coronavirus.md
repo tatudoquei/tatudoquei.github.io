@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-27 13:34:47
 pub_date: 2020-03-27 13:34:47
 time_added: 2020-03-27 22:26:35
-category: 
+categories: []
 tags: []
 image: https://abrilvejasp.files.wordpress.com/2020/03/rehman-shukr.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

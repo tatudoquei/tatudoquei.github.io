@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-17 09:01:20
 pub_date: 2020-01-17 09:01:20
 time_added: 2020-01-18 04:28:14
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2020/01/doc-exclusivo.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

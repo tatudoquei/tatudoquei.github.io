@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-06 22:46:00
 pub_date: 2021-01-06 22:46:00
 time_added: 2021-01-06 23:08:21
-category: 
+categories: []
 tags: []
 image: https://hashtag.blogfolha.uol.com.br/files/2021/01/protesto-saul-loeb-afp2.jpg
 ---

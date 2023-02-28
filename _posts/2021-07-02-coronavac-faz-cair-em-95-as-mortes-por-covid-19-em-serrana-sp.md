@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-02 19:12:00
 pub_date: 2021-07-02 19:12:00
 time_added: 2021-07-04 12:48:42
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a3/2021/07/01/imagem-ilustrativa-mostra-ampolas-da-vacina-coronavac-1625157604295_v2_615x300.jpg
 ---

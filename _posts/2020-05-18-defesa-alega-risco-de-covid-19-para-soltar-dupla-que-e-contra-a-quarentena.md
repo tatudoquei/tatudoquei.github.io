@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-18 15:51:16
 pub_date: 2020-05-18 15:51:16
 time_added: 2020-05-18 22:46:12
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2020/05/whatsapp-image-2020-05-16-at-18.52.59-e1589674480648.jpeg?quality=70&strip=info&w=676&h=453&crop=1
 ---

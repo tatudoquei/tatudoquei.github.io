@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-03 17:04:12
 pub_date: 2021-06-03 17:04:12
 time_added: 2021-07-03 03:18:01
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/06/Jovens-pelo-clima-1.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-17 10:55:00
 pub_date: 2020-04-17 10:55:00
 time_added: 2020-04-17 20:05:23
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24258251-208-efb/FT1086A/652/sergio-camargo-palmares.jpg
 ---

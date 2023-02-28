@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-28 02:00:00
 pub_date: 2020-04-28 02:00:00
 time_added: 2020-05-19 22:09:59
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b7/2020/04/24/morador-do-complexo-da-mare-o-vestibulando-luiz-menezes-19-se-arrisca-em-busca-do-sinal-de-internet-para-conseguir-estudar-1587763381915_v2_615x300.jpg
 ---

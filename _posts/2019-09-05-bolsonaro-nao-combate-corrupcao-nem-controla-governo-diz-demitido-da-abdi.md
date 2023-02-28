@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-05 18:11:00
 pub_date: 2019-09-05 18:11:00
 time_added: 2019-09-07 08:20:50
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c4/2019/09/05/guto-ferreira-presidente-demitido-nesta-semana-da-abdi-agencia-brasileira-de-desenvolvimento-industrial-1567725323283_v2_750x421.jpg
 ---

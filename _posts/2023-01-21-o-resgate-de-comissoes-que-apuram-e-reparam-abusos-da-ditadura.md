@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-21 00:08:53
 pub_date: 2023-01-21 00:08:53
 time_added: 2023-01-21 07:51:41
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Crian%C3%A7as_ditadura/alternates/LANDSCAPE_768/Crian%C3%A7as_ditadura
 ---

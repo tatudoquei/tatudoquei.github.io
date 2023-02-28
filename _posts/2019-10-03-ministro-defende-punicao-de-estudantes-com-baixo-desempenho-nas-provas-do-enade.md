@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-03 22:00:00
 pub_date: 2019-10-03 22:00:00
 time_added: 2019-10-06 08:29:03
-category: 
+categories: []
 tags: []
 image: https://www.opovo.com.br/_midias/jpg/2019/10/04/abraham_weintraub_ministro_mec-10120762.jpg
 ---

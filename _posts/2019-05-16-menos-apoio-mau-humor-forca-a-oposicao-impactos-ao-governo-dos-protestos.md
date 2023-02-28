@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-16 07:00:00
 pub_date: 2019-05-16 07:00:00
 time_added: 2019-05-16 18:56:20
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/7b/2019/05/15/15maio2019---vista-aerea-de-protesto-no-rio-de-janeiro-1557955820163_v2_615x300.jpg
 ---

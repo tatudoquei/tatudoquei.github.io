@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-27 15:23:00
 pub_date: 2019-12-27 15:23:00
 time_added: 2019-12-28 00:26:26
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24158076-c6e-be3/FT1086A/652/82450453_BSBBrasiliaBrasil30-04-2019Presidente-Jair-Bolsonaro-durante-solenidade-de.jpg
 ---

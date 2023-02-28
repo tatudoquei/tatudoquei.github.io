@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-02 15:52:46
 pub_date: 2022-11-02 15:52:46
 time_added: 2022-11-02 21:32:03
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/O2jwZdWA73Bvz2t8hQUcl1Z_tEo=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/G/T/vjwjCnR3CnLfPa392Hig/101045411-ri-rio-de-janeiro-rj-02-11-2022-manifestacao-em-frente-ao-comando-militar-do-leste-por-ap.jpg
 ---

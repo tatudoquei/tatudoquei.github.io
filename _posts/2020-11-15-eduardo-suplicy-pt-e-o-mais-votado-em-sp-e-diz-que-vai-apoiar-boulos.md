@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-15 23:10:00
 pub_date: 2020-11-15 23:10:00
 time_added: 2020-11-16 07:55:59
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/44/2020/02/22/eduardo-suplicy-pt-desfila-no-bloco-bollywood-em-sao-paulo-1582387829111_v2_615x300.jpg
 ---

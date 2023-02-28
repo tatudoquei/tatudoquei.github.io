@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-07 20:39:34
 pub_date: 2020-08-07 20:39:34
 time_added: 2020-08-07 22:39:34
-category: 
+categories: []
 tags: []
 image: https://pp.nexojornal.com.br/conteudo/imagens/harvard_teaser_opini%C3%A3o/alternates/LANDSCAPE_768/harvard_teaser_opini%C3%A3o
 ---

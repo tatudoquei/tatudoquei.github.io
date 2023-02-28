@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-18 16:42:18
 pub_date: 2020-05-18 16:42:18
 time_added: 2020-05-18 19:56:30
-category: 
+categories: []
 tags: []
 image: https://jornalggn.com.br/sites/default/files/2019/03/flavio-bolsonaro-e-psl-processam-promotor-que-investiga-caso-queiroz-flavio.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-13 20:40:11
 pub_date: 2021-05-13 20:40:11
 time_added: 2021-05-13 22:40:11
-category: 
+categories: []
 tags: []
 image: https://www.socioambiental.org/sites/blog.socioambiental.org/files/styles/twitter-card/public/nsa/rs70154_morte-rieli-seringueiras_50354737201_o_1.jpg?itok=BicHnw1i
 ---

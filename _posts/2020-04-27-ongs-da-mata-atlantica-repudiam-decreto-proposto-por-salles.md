@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-27 21:02:42
 pub_date: 2020-04-27 21:02:42
 time_added: 2020-05-01 18:05:04
-category: resistimos
+categories: [resistimos]
 tags: [meio ambiente]
 image: http://www.diretodaciencia.com/wp-content/uploads/2020/04/jfcrz_edit_abr_2711198582.jpg
 ---

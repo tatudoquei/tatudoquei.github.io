@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-29 06:57:19
 pub_date: 2019-06-29 06:57:19
 time_added: 2019-07-01 19:30:41
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/06/brasil-bolsonaro-fiesp-20190611-014.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

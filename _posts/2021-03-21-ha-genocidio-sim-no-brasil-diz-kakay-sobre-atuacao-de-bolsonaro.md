@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-21 08:27:54
 pub_date: 2021-03-21 08:27:54
 time_added: 2021-03-21 09:27:54
-category: 
+categories: []
 tags: []
 image: https://img2.migalhas.uol.com.br/_MEDPROC_/https__img1.migalhas.uol.com.br__SL__gf_base__SL__empresas__SL__MIGA__SL__imagens__SL__2021__SL__03__SL__17__SL__cropped_ofmi2jbp.kut.jpg._PROC_CP65CCH31622400.jpg
 ---

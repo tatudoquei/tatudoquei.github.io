@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-04 10:29:50
 pub_date: 2020-03-04 10:29:50
 time_added: 2020-03-04 12:11:47
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2020/03/regina-duarte.jpg
 ---

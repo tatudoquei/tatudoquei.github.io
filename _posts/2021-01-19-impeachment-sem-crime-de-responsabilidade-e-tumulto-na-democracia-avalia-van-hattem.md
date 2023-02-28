@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-19 12:18:36
 pub_date: 2021-01-19 12:18:36
 time_added: 2021-01-21 18:52:52
-category: 
+categories: []
 tags: []
 image: https://jpimg.com.br/uploads/2019/09/img20190828170410129med.jpg
 ---

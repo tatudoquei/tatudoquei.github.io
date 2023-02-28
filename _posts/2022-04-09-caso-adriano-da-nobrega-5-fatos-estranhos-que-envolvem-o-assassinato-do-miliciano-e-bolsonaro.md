@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-04-09 08:00:00
 pub_date: 2022-04-09 08:00:00
 time_added: 2022-04-09 10:09:40
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2022/04/WANDO-Bolsonaro.jpg
 ---

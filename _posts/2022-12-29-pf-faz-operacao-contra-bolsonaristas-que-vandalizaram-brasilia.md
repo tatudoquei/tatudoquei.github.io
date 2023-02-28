@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-29 13:25:37
 pub_date: 2022-12-29 13:25:37
 time_added: 2022-12-31 00:45:49
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Bolsonaristas_vandalismo_Brasilia/alternates/LANDSCAPE_768/Bolsonaristas_vandalismo_Brasilia
 ---

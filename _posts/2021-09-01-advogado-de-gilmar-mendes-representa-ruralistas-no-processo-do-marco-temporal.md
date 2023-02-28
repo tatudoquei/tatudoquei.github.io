@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-01 13:00:19
 pub_date: 2021-09-01 13:00:19
 time_added: 2021-09-06 08:12:54
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/09/facebook-advogado-de-gilmar-mendes.png
 ---

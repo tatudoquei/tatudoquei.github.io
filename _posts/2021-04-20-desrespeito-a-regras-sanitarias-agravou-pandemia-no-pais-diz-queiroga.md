@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-20 19:16:13
 pub_date: 2021-04-20 19:16:13
 time_added: 2021-05-29 21:17:13
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2021/03/saude_marcelo_queiroga_fcpzzb_abr_24032101239.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

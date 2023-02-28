@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-01 17:22:02
 pub_date: 2022-11-01 17:22:02
 time_added: 2023-01-14 14:26:34
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2022/11/Capa_Facebook_Bloqueio-de-estradas-foi-articulado-nas-redes-semanas-antes-da-votacao.png
 ---

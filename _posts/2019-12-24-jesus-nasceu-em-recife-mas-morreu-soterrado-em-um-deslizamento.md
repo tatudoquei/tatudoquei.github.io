@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-24 17:32:00
 pub_date: 2019-12-24 17:32:00
 time_added: 2019-12-25 09:13:21
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/89/2019/12/24/24dez2019---bebe-de-2-meses-e-crianca-de-8-anos-estao-entre-os-mortos-em-deslizamento-no-recife-1577207041345_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-18 15:02:45
 pub_date: 2023-01-18 15:02:45
 time_added: 2023-01-21 04:05:20
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Terreno-desmatado-na-Amaz%C3%B4nia2/alternates/LANDSCAPE_768/Terreno%20desmatado%20na%20Amaz%C3%B4nia%20
 ---

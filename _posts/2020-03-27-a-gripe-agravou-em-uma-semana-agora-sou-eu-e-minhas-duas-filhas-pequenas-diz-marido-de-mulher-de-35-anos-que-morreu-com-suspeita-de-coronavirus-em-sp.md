@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-27 21:16:40
 pub_date: 2020-03-27 21:16:40
 time_added: 2020-03-27 22:16:40
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/STdQn7UiJxjdhb06otwunc37awY=/512x320/smart/e.glbimg.com/og/ed/f/original/2020/03/26/samantaquefaleceususpeitadecovid19.jpg
 ---

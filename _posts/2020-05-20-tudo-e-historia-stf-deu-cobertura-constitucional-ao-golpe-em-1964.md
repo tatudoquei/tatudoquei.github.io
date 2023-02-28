@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-20 06:41:30
 pub_date: 2016-03-27 22:00:00
 time_added: 2020-05-20 06:41:30
-category: 
+categories: []
 tags: []
 image: https://f.i.uol.com.br/folha/poder/images/1014996.jpeg
 ---

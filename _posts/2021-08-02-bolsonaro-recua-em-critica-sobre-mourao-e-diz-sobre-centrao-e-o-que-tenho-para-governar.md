@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-02 14:18:00
 pub_date: 2021-08-02 14:18:00
 time_added: 2021-08-20 21:01:33
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25137035-c80-97a/FT1086A/94425125_Brazils-President-Jair-Bolsonaro-looks-on-before-welcoming-his-counterpart-Cabo-Verde.jpg
 ---

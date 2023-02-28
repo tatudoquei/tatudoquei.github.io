@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-22 09:53:16
 pub_date: 2021-06-22 09:53:16
 time_added: 2021-07-04 12:14:20
-category: 
+categories: []
 tags: []
 image: https://www.otempo.com.br/image/contentid/policy:1.2502477:1624374055/WhatsApp%20Image%202021-06-22%20at%2012.00.05.jpeg?f=3x2&w=620&$p$f$w=b198de4
 ---

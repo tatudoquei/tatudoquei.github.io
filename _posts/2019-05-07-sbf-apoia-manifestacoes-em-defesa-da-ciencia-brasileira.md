@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-07 19:24:19
 pub_date: 2019-05-07 19:24:19
 time_added: 2019-05-09 22:51:35
-category: 
+categories: []
 tags: []
 image: http://www.sbfisica.org.br/v1/home/images/acontece-na-sbf/2019/maio/acontece-2019-05-07.jpg
 ---

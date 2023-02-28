@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-09 01:03:15
 pub_date: 2020-04-09 01:03:15
 time_added: 2020-04-11 05:31:50
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/04/08/science/08VIRUS-CDC-STATS/08VIRUS-CDC-STATS-facebookJumbo.jpg
 ---

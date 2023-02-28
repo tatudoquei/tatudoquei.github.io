@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-20 18:57:19
 pub_date: 2021-03-20 18:57:19
 time_added: 2021-03-20 23:13:59
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2021/03/WhatsApp-Image-2021-03-20-at-13.13.05.jpeg?quality=70&strip=info&w=162&h=173&crop=1
 ---

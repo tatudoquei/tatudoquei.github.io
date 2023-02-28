@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-18 12:04:00
 pub_date: 2019-10-18 12:04:00
 time_added: 2019-10-20 21:57:01
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/8b/2019/10/04/uma-mancha-densa-e-extensa-de-oleo-surgiu-hoje-no-mar-da-praia-dos-artistas-no-bairro-de-coroa-do-meio-em-aracaju-nesta-sexta-feira-4-1570230228383_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-04-27 03:27:00
 pub_date: 2022-04-27 03:27:00
 time_added: 2022-04-27 14:22:25
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2022/04/Giniton-Selo-The-Intercept-Redes.jpg
 ---

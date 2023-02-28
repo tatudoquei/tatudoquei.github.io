@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-19 20:26:00
 pub_date: 2020-03-19 20:26:00
 time_added: 2020-03-20 20:23:20
-category: 
+categories: []
 tags: []
 image: https://www.diariodepernambuco.com.br/static/app/noticia_127983242361/2020/03/19/822137/20200319172806413010e.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-25 20:34:00
 pub_date: 2020-05-25 20:34:00
 time_added: 2020-05-26 08:28:35
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/7a/2020/05/11/11mai2020---o-presidente-jair-bolsonaro-usa-mascara-em-conversa-com-apoiadores-na-portaria-do-palacio-da-alvorada-1589198119183_v2_615x300.png
 ---

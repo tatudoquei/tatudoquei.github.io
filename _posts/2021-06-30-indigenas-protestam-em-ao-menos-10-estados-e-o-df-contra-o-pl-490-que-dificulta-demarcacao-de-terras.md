@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-30 17:26:06
 pub_date: 2021-06-30 17:26:06
 time_added: 2021-07-01 20:21:02
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/0yT2zmqL64Fx8r1rKekrX9QU4Xg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/z/O/3bSAaNSPK7c0Fs7OI98A/protesto-indios-br-277.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-14 13:40:00
 pub_date: 2023-02-14 13:40:00
 time_added: 2023-02-26 17:57:15
-category: 
+categories: []
 tags: []
 image: https://jornalggn.com.br/wp-content/uploads/2020/04/coletiva-de-hoje-roberto-campos-neto-eficiencia-10-eficacia-zero-roberto-campos-neto.jpg
 ---

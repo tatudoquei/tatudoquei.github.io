@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-18 07:35:00
 pub_date: 2019-04-18 07:35:00
 time_added: 2019-04-19 07:42:22
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23608467-006-938/FT1086A/652/flavio.jpg
 ---

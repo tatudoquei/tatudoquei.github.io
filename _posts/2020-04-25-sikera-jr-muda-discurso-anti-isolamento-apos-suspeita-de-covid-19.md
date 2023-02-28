@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-25 17:19:19
 pub_date: 2020-04-25 17:19:19
 time_added: 2020-04-27 11:14:26
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2020/04/Capturar-12.jpg
 ---

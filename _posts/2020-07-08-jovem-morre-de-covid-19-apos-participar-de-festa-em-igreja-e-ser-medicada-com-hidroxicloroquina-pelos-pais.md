@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-08 20:21:21
 pub_date: 2020-07-08 20:21:21
 time_added: 2020-07-08 22:21:21
-category: 
+categories: []
 tags: []
 image: https://extra.globo.com/incoming/24521614-c42-8c6/w533h800/carsyn-leigh-davis2.jpg
 ---

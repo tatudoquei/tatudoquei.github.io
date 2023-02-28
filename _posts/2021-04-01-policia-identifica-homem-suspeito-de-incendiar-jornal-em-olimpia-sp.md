@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-01 21:39:25
 pub_date: 2021-04-01 21:39:25
 time_added: 2021-04-01 23:39:25
-category: 
+categories: []
 tags: []
 image: https://abraji-bucket-001.s3.sa-east-1.amazonaws.com/uploads/news/image/21f88098-da9d-4568-ba55-74a26c2c5baf/polcia-identifica-homem-suspeito-de-incendiar-jornal-em-olmpia-sp273832562.png
 ---

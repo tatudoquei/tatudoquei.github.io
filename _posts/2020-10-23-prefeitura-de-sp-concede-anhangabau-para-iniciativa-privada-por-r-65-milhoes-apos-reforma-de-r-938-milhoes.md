@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-23 17:05:40
 pub_date: 2020-10-23 17:05:40
 time_added: 2020-10-25 06:55:46
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/lHOB_kKNEJiJ0mY1LKtcQwo2vOk=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/5/u/X4BEFNSYi2QwBOCllbCA/chuva-sp-091020-celso-tavares-g1-9.jpg
 ---

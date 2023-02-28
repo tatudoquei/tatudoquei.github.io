@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-17 13:36:37
 pub_date: 2020-07-17 13:36:37
 time_added: 2020-07-17 20:05:07
-category: 
+categories: []
 tags: []
 image: https://exame.com/wp-content/uploads/2020/06/Najara-Araujo-Camara-dos-Deputados-pazuello.jpg?quality=70&strip=info
 ---

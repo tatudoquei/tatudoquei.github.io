@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-26 21:31:13
 pub_date: 2023-02-26 21:31:13
 time_added: 2023-02-26 18:31:13
-category: 
+categories: []
 tags: []
 image: https://www.gov.br/agu/pt-br/comunicacao/noticias/agu-pede-bloqueio-de-r-6-milhoes-em-bens-de-52-pessoas-e-7-empresas-que-financiaram-atos-golpistas/agu-obtem-cautelar-para-bloquear-cerca-de-r-6-milhoes-em-bens-de-52-pessoas-e-7-empresas-que-financiaram-atos-golpistas/@@images/33af047b-32b6-4951-a293-cfe2303b0232.jpeg
 ---

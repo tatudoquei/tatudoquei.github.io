@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-17 18:05:45
 pub_date: 2022-09-17 18:05:45
 time_added: 2022-09-17 20:05:45
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2022/08/29/world/29BRAZIL-DEATH/29BRAZIL-DEATH-facebookJumbo.jpg
 ---

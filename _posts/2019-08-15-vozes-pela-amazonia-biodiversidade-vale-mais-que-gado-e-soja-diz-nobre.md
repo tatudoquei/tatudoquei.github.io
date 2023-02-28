@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-15 09:15:19
 pub_date: 2019-08-15 09:15:19
 time_added: 2019-08-24 08:07:11
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2019/08/carlosnobre-foto.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

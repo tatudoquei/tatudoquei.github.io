@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-26 23:00:00
 pub_date: 2021-01-26 23:00:00
 time_added: 2021-02-07 23:08:03
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/pazuello.jpg1/alternates/LANDSCAPE_768/pazuello.jpg
 ---

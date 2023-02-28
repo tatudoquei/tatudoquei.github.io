@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-19 15:41:29
 pub_date: 2022-10-19 15:41:29
 time_added: 2022-10-20 16:22:03
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2022/10/Bolsonaro-Marcola.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

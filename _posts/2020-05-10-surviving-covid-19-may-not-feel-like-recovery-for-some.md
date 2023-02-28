@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-10 17:19:53
 pub_date: 2020-05-10 17:19:53
 time_added: 2020-05-16 08:47:09
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/05/09/world/Virus-ItalyRecovery01sub/Virus-ItalyRecovery01sub-facebookJumbo.jpg
 ---

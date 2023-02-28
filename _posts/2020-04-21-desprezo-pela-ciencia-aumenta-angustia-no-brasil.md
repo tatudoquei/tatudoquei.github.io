@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-21 10:33:44
 pub_date: 2020-04-21 10:33:44
 time_added: 2020-04-21 12:33:44
-category: 
+categories: []
 tags: []
 image: https://www.revistaquestaodeciencia.com.br/sites/default/files/styles/facebook/public/2020-04/ANGUSTIA_SQUARE_OK.jpg?itok=x6NjOoSN
 ---

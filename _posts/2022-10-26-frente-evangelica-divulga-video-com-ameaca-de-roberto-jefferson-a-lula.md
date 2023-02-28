@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-26 15:25:00
 pub_date: 2022-10-26 15:25:00
 time_added: 2023-01-14 14:21:51
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2022/10/Capa_Facebook_Frente-Evangelica-divulgou-video-com-ameaca-de-Roberto-Jefferson-a-Lula.png
 ---

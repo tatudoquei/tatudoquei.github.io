@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-22 22:09:01
 pub_date: 2019-02-22 22:09:01
 time_added: 2020-03-15 12:02:32
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2018/10/19223509/bebianno.jpg
 ---

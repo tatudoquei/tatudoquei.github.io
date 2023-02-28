@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-30 14:56:00
 pub_date: 2019-08-30 14:56:00
 time_added: 2019-09-02 22:08:15
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/285/files/2019/08/Spiegel-615x300.png
 ---

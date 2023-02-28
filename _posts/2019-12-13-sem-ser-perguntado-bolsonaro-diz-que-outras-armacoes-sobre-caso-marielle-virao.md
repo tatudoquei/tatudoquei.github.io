@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-13 10:01:00
 pub_date: 2019-12-13 10:01:00
 time_added: 2019-12-14 11:08:07
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/55/2019/12/13/presidente-jair-bolsonaro-deixa-o-palacio-da-alvorada-1576245156217_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-18 04:50:00
 pub_date: 2020-06-18 04:50:00
 time_added: 2020-06-20 09:17:49
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/podcast/24440119-e5a-51c/FT1086A/652/download.jpg
 ---

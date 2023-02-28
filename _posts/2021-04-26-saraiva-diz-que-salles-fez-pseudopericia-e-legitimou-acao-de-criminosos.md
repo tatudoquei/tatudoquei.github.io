@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-26 15:25:00
 pub_date: 2021-04-26 15:25:00
 time_added: 2021-04-26 22:46:26
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ed/2021/04/26/saraiva-diz-que-salles-fez-pseudopericia-e-tornou-tornou-legitima-acao-de-criminosos-1619468381830_v2_615x300.png
 ---

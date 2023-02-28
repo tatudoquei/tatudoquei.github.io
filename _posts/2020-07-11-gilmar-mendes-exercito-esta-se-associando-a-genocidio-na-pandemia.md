@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-11 16:28:00
 pub_date: 2020-07-11 16:28:00
 time_added: 2020-07-12 11:27:41
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/0c/2020/06/16/12fev2020---o-ministro-gilmar-mendes-relator-do-julgamento-da-lei-da-terceirizacao-durante-sessao-plenaria-do-stf-supremo-tribunal-federal-1592336272166_v2_615x300.jpg
 ---

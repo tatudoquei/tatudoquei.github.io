@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-08 18:30:00
 pub_date: 2023-02-08 18:30:00
 time_added: 2023-02-26 18:32:16
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2023/02/Capa_Facebook_Atas-relevam-como-o-Ministerio-da-Defesa-se-empenhou-na-producao-de-cloroquina-na-pandemia.png
 ---

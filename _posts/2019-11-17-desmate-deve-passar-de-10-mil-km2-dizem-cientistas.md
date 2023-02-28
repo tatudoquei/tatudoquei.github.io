@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-17 23:03:49
 pub_date: 2019-11-17 23:03:49
 time_added: 2019-11-18 13:17:43
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2019/11/editop_verde_brasil_20190901_abr_1697.jpg
 ---

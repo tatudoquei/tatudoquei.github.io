@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-30 20:21:10
 pub_date: 2015-09-30 04:00:00
 time_added: 2019-09-30 20:21:10
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/2014/08/27/26ago2014---o-escritor-pedro-bandeira-lanca-o-livro-droga-da-amizade-na-23-bienal-internacional-do-livro-de-sao-paulo-no-anhembi-1409178565458_615x300.jpg
 ---

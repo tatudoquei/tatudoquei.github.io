@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-06 08:04:00
 pub_date: 2020-06-06 08:04:00
 time_added: 2020-06-06 22:34:01
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/62/2020/05/19/general-eduardo-pazuello-1589888474779_v2_615x300.jpg
 ---

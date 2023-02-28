@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-31 18:09:25
 pub_date: 2019-07-31 18:09:25
 time_added: 2019-07-31 22:02:10
-category: 
+categories: []
 tags: []
 image: https://jornalggn.com.br/sites/default/files/2019/07/samurai-negro.jpg
 ---

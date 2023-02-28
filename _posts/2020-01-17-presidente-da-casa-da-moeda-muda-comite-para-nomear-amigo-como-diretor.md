@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-17 19:50:48
 pub_date: 2020-01-17 19:50:48
 time_added: 2020-01-18 04:07:28
-category: 
+categories: []
 tags: []
 image: https://jornalggn.com.br/sites/default/files/2020/01/presidente-da-casa-da-moeda-muda-comite-para-nomear-amigo-como-diretor-casadamoeda.jpg
 ---

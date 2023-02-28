@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-31 18:25:00
 pub_date: 2021-01-31 18:25:00
 time_added: 2021-02-02 08:05:42
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/27/2020/08/24/10ago2020---trabalho-medico-na-uti-covid-do-hospital-de-urgencias-de-guarulhos-sp-1598280521073_v2_615x300.jpg
 ---

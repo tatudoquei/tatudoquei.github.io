@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-23 17:15:49
 pub_date: 2021-02-23 17:15:49
 time_added: 2021-02-25 20:40:11
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/02/Oeco_Faloni-Associacao-dos-Oficiais-Pracas-e-Pensionistas-da-Policia-Militar-do-Estado-de-Sao-Paulo.jpg
 ---

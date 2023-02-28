@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-21 20:25:39
 pub_date: 2020-07-21 20:25:39
 time_added: 2020-07-26 04:11:06
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/07/IAG.png
 ---

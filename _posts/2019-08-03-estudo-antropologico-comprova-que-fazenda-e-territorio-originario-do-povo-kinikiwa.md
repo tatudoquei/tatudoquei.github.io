@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-03 22:07:51
 pub_date: 2019-08-03 22:07:51
 time_added: 2019-08-03 19:07:51
-category: 
+categories: []
 tags: []
 image: http://apib.info/files/2017/01/IMG_2017-03-27-020409.jpg
 ---

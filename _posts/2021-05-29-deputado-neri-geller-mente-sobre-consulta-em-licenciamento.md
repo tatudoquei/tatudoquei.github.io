@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-29 19:02:21
 pub_date: 2021-05-29 19:02:21
 time_added: 2021-05-29 21:02:21
-category: 
+categories: []
 tags: []
 image: https://www.oc.eco.br/wp-content/uploads/2021/05/geller-luis-macedo-cd-e1621344922737.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-15 20:33:00
 pub_date: 2020-03-15 20:33:00
 time_added: 2020-03-16 01:35:19
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/ivKrOxauun46081G-7UtdhKymtw=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2020/03/15/bolso_manifestantes.jpg
 ---

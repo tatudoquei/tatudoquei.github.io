@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-11 18:01:54
 pub_date: 2019-09-11 18:01:54
 time_added: 2019-09-15 09:54:32
-category: 
+categories: []
 tags: []
 image: https://imgs.mongabay.com/wp-content/uploads/sites/20/2019/08/22164114/para_20190820_0f4c_rgb_labeled_wm2-768x512.jpg
 ---

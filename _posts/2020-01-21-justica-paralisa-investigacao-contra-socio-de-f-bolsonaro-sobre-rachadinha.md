@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-21 17:51:00
 pub_date: 2020-01-21 17:51:00
 time_added: 2020-01-23 07:08:31
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/20/2019/12/18/flavio-e-jair-bolsonaro-na-inauguracao-da-franquia-da-kopenhagen-1576690241227_v2_300x200.jpg
 ---

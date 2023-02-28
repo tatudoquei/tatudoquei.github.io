@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-09 21:29:38
 pub_date: 2020-12-09 21:29:38
 time_added: 2020-12-10 14:41:15
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/11/GilsonMachado-EMBRATUR-54Anos-Gilson-FloriamnoPeixoto-MichelleBolsonaro-17Nov2020-111-1200x630.jpg
 ---

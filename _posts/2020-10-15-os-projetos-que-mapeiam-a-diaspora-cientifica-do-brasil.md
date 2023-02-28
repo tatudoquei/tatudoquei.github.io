@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-15 05:04:11
 pub_date: 2020-10-15 05:04:11
 time_added: 2020-10-15 07:04:11
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/diaspora-cientifica/alternates/LANDSCAPE_768/diaspora%20cientifica
 ---

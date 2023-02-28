@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-11 16:36:00
 pub_date: 2020-02-11 16:36:00
 time_added: 2020-02-12 07:53:59
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d2/2019/08/16/senador-randolfe-rodrigues-rede-ap-1565965202852_v2_615x300.jpg
 ---

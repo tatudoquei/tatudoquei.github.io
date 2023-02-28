@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-07 15:09:48
 pub_date: 2019-06-07 15:09:48
 time_added: 2019-06-09 09:44:51
-category: 
+categories: []
 tags: []
 image: http://scd.br.rfi.fr/sites/brasil.filesrfi/imagecache/rfi_16x9_1024_578/sites/images.rfi.fr/files/aefimagesnew/aef_image/2019-06-06t171109z_783023809_rc1452456960_rtrmadp_3_argentina-brazil.jpg
 ---

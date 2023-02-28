@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-21 19:50:46
 pub_date: 2019-09-21 19:50:46
 time_added: 2019-09-21 21:50:46
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Durma-com-essa-ministro-Ricardo-Salles/ALTERNATES/LANDSCAPE_720/Durma%20com%20essa:%20ministro%20%20Ricardo%20Salles
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-27 17:24:07
 pub_date: 2021-09-27 17:24:07
 time_added: 2021-10-05 02:53:05
-category: 
+categories: []
 tags: []
 image: https://mundonegro.inf.br/wp-content/uploads/2021/09/Mulheres-Negras-Surf-14.jpg
 ---

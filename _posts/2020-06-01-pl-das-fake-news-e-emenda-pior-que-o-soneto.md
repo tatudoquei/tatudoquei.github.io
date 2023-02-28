@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-01 18:26:49
 pub_date: 2020-06-01 18:26:49
 time_added: 2020-06-02 14:17:52
-category: 
+categories: []
 tags: []
 image: https://nocaute.blog.br/wp-content/uploads/2020/06/RE010620.jpg
 ---

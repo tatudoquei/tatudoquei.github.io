@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-29 04:00:29
 pub_date: 2021-01-29 04:00:29
 time_added: 2021-01-30 19:43:09
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/coluna-do-estadao/wp-content/uploads/sites/352/2019/12/Jair-Bolsonaro.jpg
 ---

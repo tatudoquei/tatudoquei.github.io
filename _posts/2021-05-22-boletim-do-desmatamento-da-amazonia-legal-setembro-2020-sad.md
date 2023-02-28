@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-22 17:51:53
 pub_date: 2021-05-22 17:51:53
 time_added: 2021-05-22 19:51:53
-category: 
+categories: []
 tags: [meio ambiente]
 image: https://imazon.org.br/wp-content/uploads/2020/10/SAD-Setembro-scaled.jpg
 ---

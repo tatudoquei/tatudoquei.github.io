@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-08 20:17:27
 pub_date: 2021-02-08 20:17:27
 time_added: 2021-02-11 07:58:48
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2021/02/20210205_00_darwin_day_2021.jpg
 ---

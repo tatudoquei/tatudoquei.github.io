@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-23 03:00:00
 pub_date: 2020-03-23 03:00:00
 time_added: 2020-03-23 12:55:35
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/bb/2018/12/17/mais-da-metade-das-maes-solo-vive-abaixo-da-linha-da-pobreza-1545064477630_v2_615x300.png
 ---

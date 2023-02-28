@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-02 01:50:04
 pub_date: 2021-02-02 01:50:04
 time_added: 2021-02-07 23:14:23
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/02/Foto-Marcelo-Camargo-Agencia-Brasil-scaled.jpg
 ---

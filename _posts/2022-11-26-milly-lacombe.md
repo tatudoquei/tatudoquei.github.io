@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-26 11:54:00
 pub_date: 2022-11-26 11:54:00
 time_added: 2022-12-03 12:25:55
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/esporte/38/2022/11/24/neymar-e-consolado-por-thiago-silva-apos-sentir-dor-no-tornozelo-em-brasil-x-servia-na-copa-do-mundo-1669322685370_v2_615x300.jpg
 ---

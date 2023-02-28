@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-14 20:10:20
 pub_date: 2020-05-14 20:10:20
 time_added: 2020-05-17 22:56:42
-category: 
+categories: []
 tags: []
 image: https://matinal.news/wp-content/uploads/2019/04/WhatsApp-Image-2019-04-15-at-00.57.02-1.jpeg
 ---

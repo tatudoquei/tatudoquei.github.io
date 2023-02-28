@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-18 13:22:00
 pub_date: 2021-09-18 13:22:00
 time_added: 2021-09-25 17:37:22
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25042861-09f-56d/FT1086A/760/Nise_CPI.jpeg.jpg
 ---

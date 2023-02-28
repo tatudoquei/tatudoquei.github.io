@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-03 22:28:30
 pub_date: 2021-07-03 22:28:30
 time_added: 2021-07-03 23:27:43
-category: 
+categories: []
 tags: []
 image: https://almapreta.com/images/2021/07/ato_em_sp.png
 ---

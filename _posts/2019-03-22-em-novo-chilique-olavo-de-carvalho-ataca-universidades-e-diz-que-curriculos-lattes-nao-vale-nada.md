@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-22 18:23:04
 pub_date: 2019-03-22 18:23:04
 time_added: 2019-03-24 14:41:50
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2019/03/eduardo-bolsonaro-olavo-carvalho.jpg
 ---

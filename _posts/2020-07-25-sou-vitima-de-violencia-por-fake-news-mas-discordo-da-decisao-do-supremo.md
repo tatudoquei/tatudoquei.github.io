@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-25 09:47:00
 pub_date: 2020-07-25 09:47:00
 time_added: 2020-07-25 16:50:25
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2e/2019/11/05/ministro-alexandre-de-moraes-1572987319334_v2_615x300.jpg
 ---

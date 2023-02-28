@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-02 09:19:00
 pub_date: 2021-01-02 09:19:00
 time_added: 2021-01-03 09:37:42
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2020/12/reconhecimentofacial_221220_redes.jpg
 ---

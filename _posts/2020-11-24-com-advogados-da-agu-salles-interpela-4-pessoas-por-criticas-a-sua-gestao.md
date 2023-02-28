@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-24 14:27:00
 pub_date: 2020-11-24 14:27:00
 time_added: 2020-11-24 21:49:43
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/bd/2020/10/30/ministro-do-meio-ambiente-ricardo-salles-1604049340674_v2_615x300.jpg
 ---

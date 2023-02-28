@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-11 11:32:00
 pub_date: 2019-07-11 11:32:00
 time_added: 2019-07-15 19:39:36
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23786513-a0b-de3/FT1086A/652/82669534_RI-Angra-dos-Reis-RJ-15-05-2019-Estacao-Ecologica-de-Tamoios-unidade-de-conservacao-fed.jpg
 ---

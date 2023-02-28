@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-09 02:00:00
 pub_date: 2020-05-09 02:00:00
 time_added: 2020-09-06 00:55:43
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/0a/2020/02/14/salesio-nuhs-presidente-da-taurus-1581704519583_v2_615x300.jpg
 ---

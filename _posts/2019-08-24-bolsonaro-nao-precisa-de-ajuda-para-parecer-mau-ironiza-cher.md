@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-24 09:37:00
 pub_date: 2019-08-24 09:37:00
 time_added: 2019-08-25 07:54:52
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/7a/2018/09/25/a-cantora-cher-1537890935742_v2_615x300.jpg
 ---

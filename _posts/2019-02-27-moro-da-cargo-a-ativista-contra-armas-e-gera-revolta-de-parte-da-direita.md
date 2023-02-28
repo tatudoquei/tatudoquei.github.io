@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-27 21:56:41
 pub_date: 2019-02-27 21:56:41
 time_added: 2019-02-27 22:56:41
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://www.gazetadopovo.com.br/ra/media/Pub/GP/p5/2019/02/27/Republica/Imagens/Cortadas/Ilona-ID000002-1200x800@GP-Web.png
 ---

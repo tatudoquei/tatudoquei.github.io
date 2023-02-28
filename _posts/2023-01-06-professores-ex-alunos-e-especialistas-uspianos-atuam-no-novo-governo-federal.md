@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-06 17:47:06
 pub_date: 2023-01-06 17:47:06
 time_added: 2023-01-14 14:16:53
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/jornal.usp.br/wp-content/uploads/2023/01/20230106_00_esplanada_dos_ministerios.png?fit=1200%2C630&ssl=1
 ---

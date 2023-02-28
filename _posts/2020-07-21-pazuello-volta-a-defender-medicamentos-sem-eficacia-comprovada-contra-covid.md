@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-21 14:14:00
 pub_date: 2020-07-21 14:14:00
 time_added: 2020-07-22 05:09:06
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/7e/2020/06/23/9jun2020---o-ministro-interino-da-saude-general-eduardo-pazuello-participa-de-reuniao-com-o-congresso-para-discutir-assuntos-relacionados-ao-coronavirus-1592937065554_v2_615x300.jpg
 ---

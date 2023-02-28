@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-05 08:02:00
 pub_date: 2023-01-05 08:02:00
 time_added: 2023-01-08 23:03:05
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2023/01/GettyImages-1232040326-orlando-calheiros-bolsonaro-extrema-direita-redes.jpg
 ---

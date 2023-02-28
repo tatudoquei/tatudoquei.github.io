@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-05 16:28:34
 pub_date: 2021-06-05 16:28:34
 time_added: 2021-06-05 18:28:34
-category: 
+categories: []
 tags: []
 image: https://cdn.nybooks.com/wp-content/uploads/2020/06/GettyImages-1217786432.jpeg
 ---

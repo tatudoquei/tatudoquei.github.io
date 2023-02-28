@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-04 16:30:00
 pub_date: 2020-07-04 16:30:00
 time_added: 2020-07-05 06:55:30
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/6e/2020/06/14/14jun2020---pessoas-acompanham-sepultamento-no-cemiterio-de-vila-formosa-na-zona-leste-de-sao-paulo-1592162852119_v2_615x300.jpg
 ---

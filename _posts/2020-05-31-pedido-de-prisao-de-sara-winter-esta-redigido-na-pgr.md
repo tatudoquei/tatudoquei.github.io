@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-31 23:12:53
 pub_date: 2020-05-31 23:12:53
 time_added: 2020-06-01 06:54:55
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2020/05/sara-winter-1.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

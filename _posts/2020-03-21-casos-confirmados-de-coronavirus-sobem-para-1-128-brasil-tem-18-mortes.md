@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-21 16:43:00
 pub_date: 2020-03-21 16:43:00
 time_added: 2020-03-22 08:23:30
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/22/2020/03/20/predio-do-inss-no-centro-de-sao-paulo-fechado-devido-a-pandemia-do-novo-coronavirus-1584740406092_v2_615x300.jpg
 ---

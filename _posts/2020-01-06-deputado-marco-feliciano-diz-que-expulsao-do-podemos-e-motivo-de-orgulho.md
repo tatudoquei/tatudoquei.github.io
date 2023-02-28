@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-06 18:12:00
 pub_date: 2020-01-06 18:12:00
 time_added: 2020-01-07 08:58:51
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/1f/2017/10/04/marco-feliciano-1507125539288_v2_615x300.jpg
 ---

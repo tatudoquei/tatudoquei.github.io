@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-24 15:31:00
 pub_date: 2021-01-24 15:31:00
 time_added: 2021-01-25 21:34:48
-category: 
+categories: []
 tags: []
 image: https://static.timesofisrael.com/www/uploads/2021/01/WhatsApp-Image-2021-01-22-at-12.05.09-1-1024x640.jpeg
 ---

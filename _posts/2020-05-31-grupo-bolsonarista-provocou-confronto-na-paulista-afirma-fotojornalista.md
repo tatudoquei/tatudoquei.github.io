@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-31 20:35:00
 pub_date: 2020-05-31 20:35:00
 time_added: 2020-06-01 06:38:21
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ee/2020/05/31/confusao-entre-manifestantes-em-ato-na-avenida-paulista-no-dia-31-de-maio-1590970244621_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-31 14:32:24
 pub_date: 2021-08-31 14:32:24
 time_added: 2021-09-26 05:03:30
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/08/facebook-coronel-da-reserva-envolvido-em-negociacao-de-vacina-recebe-cargo-no-exercito.png
 ---

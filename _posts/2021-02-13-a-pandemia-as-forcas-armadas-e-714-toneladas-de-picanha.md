@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-13 02:15:00
 pub_date: 2021-02-13 02:15:00
 time_added: 2021-02-13 17:16:48
-category: 
+categories: []
 tags: []
 image: https://cozinhabruta.blogfolha.uol.com.br/files/2021/02/picanea-1.jpg
 ---

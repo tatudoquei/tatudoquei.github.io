@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-01 08:00:01
 pub_date: 2019-08-01 08:00:01
 time_added: 2019-08-01 21:07:00
-category: 
+categories: []
 tags: []
 image: https://www.valor.com.br/sites/default/files/imagecache/media_library_big_horizontal/gn/19/08/foto01esp-101-amoedo-a18.jpg
 ---

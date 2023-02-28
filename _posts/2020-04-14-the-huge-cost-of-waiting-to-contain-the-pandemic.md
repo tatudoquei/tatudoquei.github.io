@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-14 09:00:56
 pub_date: 2020-04-14 09:00:56
 time_added: 2020-04-25 22:10:27
-category: refletimos
+categories: [refletimos]
 tags: [saúde]
 image: https://static01.nyt.com/images/2020/04/13/us/14jewell-promo-container-promo-1586803396755/14jewell-promo-container-promo-1586803396755-facebookJumbo-v3.png
 ---

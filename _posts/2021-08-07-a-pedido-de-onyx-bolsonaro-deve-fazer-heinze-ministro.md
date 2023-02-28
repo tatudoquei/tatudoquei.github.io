@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-07 17:22:16
 pub_date: 2021-08-07 17:22:16
 time_added: 2021-08-20 21:05:23
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2019/07/bolsonaro-onyx.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

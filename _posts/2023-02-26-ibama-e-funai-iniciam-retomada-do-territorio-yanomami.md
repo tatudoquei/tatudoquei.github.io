@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-26 21:39:27
 pub_date: 2023-02-26 21:39:27
 time_added: 2023-02-26 18:39:27
-category: 
+categories: []
 tags: []
 image: https://www.gov.br/ibama/pt-br/assuntos/noticias/2023/ibama-e-funai-iniciam-retomada-do-territorio-yanomami/2023-02-08_ti_yanomami_ibama.jpg/@@images/e1d9dadf-4a66-4f18-b4b6-63a6beb37e52.jpeg
 ---

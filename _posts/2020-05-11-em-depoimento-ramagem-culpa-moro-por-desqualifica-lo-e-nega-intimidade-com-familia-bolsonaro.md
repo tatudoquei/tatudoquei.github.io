@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-11 23:26:00
 pub_date: 2020-05-11 23:26:00
 time_added: 2020-05-12 12:48:31
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/WN-CjyhRGuVUAAs0BwEix73VYrc=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2020/05/12/ramagem-e-bolsonaro.jpg
 ---

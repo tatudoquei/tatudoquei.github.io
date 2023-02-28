@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-08 15:25:17
 pub_date: 2022-11-08 15:25:17
 time_added: 2022-12-31 12:16:20
-category: 
+categories: []
 tags: []
 image: https://www.brasilwire.com/wp-content/uploads/2022/11/WhatsApp-Image-2022-11-08-at-12.16.14.jpeg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-19 14:23:19
 pub_date: 2019-12-19 14:23:19
 time_added: 2019-12-19 18:23:52
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/12/moro-balas.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

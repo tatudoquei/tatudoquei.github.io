@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-14 19:13:55
 pub_date: 2020-03-14 19:13:55
 time_added: 2020-04-11 16:05:21
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/w5gn75Q33As-hQUK8UDKEZ3Z1bk=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/w/7/kAO2ZURECSBC6l4EMoQQ/pastoral-da-rua.jpg
 ---

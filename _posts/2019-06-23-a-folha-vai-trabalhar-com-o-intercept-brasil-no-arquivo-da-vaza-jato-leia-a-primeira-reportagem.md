@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-23 03:21:00
 pub_date: 2019-06-23 03:21:00
 time_added: 2019-06-25 05:16:57
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/06/parceriafolharedes-1561240431.jpg
 ---

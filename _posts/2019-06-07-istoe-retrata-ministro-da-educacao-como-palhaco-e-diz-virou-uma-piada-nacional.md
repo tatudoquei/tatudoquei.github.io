@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-07 21:53:41
 pub_date: 2019-06-07 21:53:41
 time_added: 2019-06-10 13:42:47
-category: 
+categories: []
 tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2019/06/isto-e.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-18 18:00:00
 pub_date: 2019-06-18 18:00:00
 time_added: 2019-06-25 05:02:29
-category: 
+categories: []
 tags: []
 image: https://f.i.uol.com.br/fotografia/2019/06/18/15608873515d0940377fe05_1560887351_3x2_rt.jpg
 ---

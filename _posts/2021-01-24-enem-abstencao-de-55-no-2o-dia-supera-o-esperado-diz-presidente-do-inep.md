@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-24 20:05:00
 pub_date: 2021-01-24 20:05:00
 time_added: 2021-01-25 21:34:08
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/5e/2021/01/24/o-presidente-do-inep-alexandre-lopes-1611532815283_v2_615x300.png
 ---

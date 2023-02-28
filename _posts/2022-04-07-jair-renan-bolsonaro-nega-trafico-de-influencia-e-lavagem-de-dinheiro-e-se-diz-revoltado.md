@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-04-07 18:56:00
 pub_date: 2022-04-07 18:56:00
 time_added: 2022-06-09 21:48:38
-category: avisamos
+categories: [avisamos, bandido bom]
 tags: []
 image: https://f.i.uol.com.br/fotografia/2022/01/06/164149736861d743184e1cd_1641497368_3x2_rt.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-25 13:21:28
 pub_date: 2019-06-25 13:21:28
 time_added: 2019-06-27 05:56:43
-category: 
+categories: []
 tags: []
 image: https://www.valor.com.br/sites/default/files/imagecache/media_library_big_horizontal/gn/18/10/foto24int-401-tlsds-a9.jpg
 ---

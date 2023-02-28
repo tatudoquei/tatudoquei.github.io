@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-26 13:28:00
 pub_date: 2020-10-26 13:28:00
 time_added: 2020-10-26 15:17:17
-category: 
+categories: []
 tags: []
 image: https://guaiba.com.br/wp-content/uploads/2020/10/jair-bolsonaro-29092020110852630.jpeg
 ---

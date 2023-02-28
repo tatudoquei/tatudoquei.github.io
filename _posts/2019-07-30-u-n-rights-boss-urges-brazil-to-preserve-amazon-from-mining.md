@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-30 00:28:09
 pub_date: 2019-07-30 00:28:09
 time_added: 2019-07-29 23:25:21
-category: 
+categories: []
 tags: []
 image: https://s3.reutersmedia.net/resources/r/?m=02&d=20190729&t=2&i=1413306002&w=1200&r=LYNXNPEF6S1B7
 ---

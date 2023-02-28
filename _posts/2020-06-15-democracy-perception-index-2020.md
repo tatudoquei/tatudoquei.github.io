@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-15 04:50:50
 pub_date: 2020-06-15 04:50:50
 time_added: 2020-06-18 11:04:49
-category: 
+categories: []
 tags: []
 image: https://daliaresearch.com/wp-content/uploads/2020/06/hands-with-latex-gloves-holding-a-globe-with-a-face-mask-4167544-scaled-e1591957232427.jpg
 ---

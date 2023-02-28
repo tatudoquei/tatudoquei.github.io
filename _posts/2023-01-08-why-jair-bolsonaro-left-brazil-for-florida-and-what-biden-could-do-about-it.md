@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-08 23:00:00
 pub_date: 2023-01-08 23:00:00
 time_added: 2023-01-14 13:59:16
-category: 
+categories: []
 tags: []
 image: https://media.npr.org/assets/img/2023/01/09/gettyimages-1244301563_wide-f9f4ff49c016daafda9f7ce209b762bde6cffd0a-s1400-c100.jpg
 ---

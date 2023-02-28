@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-06 17:59:00
 pub_date: 2020-10-06 17:59:00
 time_added: 2020-10-07 20:33:27
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d7/2020/10/05/o-desembargador-federal-kassio-nunes-marques-do-trf-1-1601920060729_v2_615x300.jpg
 ---

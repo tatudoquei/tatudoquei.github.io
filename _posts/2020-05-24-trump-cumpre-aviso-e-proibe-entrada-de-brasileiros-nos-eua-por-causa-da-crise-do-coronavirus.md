@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-24 16:13:00
 pub_date: 2020-05-24 16:13:00
 time_added: 2020-05-24 22:06:47
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/mundo/24441830-77a-69a/FT1086A/652/88219644_US-President-Donald-Trump-makes-a-statement-to-reporters-about-reopening-US-places-of-w.jpg
 ---

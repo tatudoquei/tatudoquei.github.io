@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-05 14:07:04
 pub_date: 2020-03-05 14:07:04
 time_added: 2020-03-07 12:39:38
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2016/09/congresso.jpg
 ---

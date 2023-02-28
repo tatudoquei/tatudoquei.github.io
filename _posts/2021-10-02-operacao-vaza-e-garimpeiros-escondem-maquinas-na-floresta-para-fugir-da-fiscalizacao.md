@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-02 14:26:57
 pub_date: 2021-10-02 14:26:57
 time_added: 2021-10-17 14:29:43
-category: 
+categories: []
 tags: []
 image: https://reporterbrasil.org.br/wp-content/uploads/2021/10/jacareacanga3-800x562.jpg
 ---

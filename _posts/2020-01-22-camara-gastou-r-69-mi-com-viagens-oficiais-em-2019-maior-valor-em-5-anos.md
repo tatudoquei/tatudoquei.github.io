@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-22 09:00:07
 pub_date: 2020-01-22 09:00:07
 time_added: 2020-01-25 11:27:34
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/01/Plenario-Camara-Recesso-PlenarioVazio-Deputados-15Jul2019-218-1200x630.jpg
 ---

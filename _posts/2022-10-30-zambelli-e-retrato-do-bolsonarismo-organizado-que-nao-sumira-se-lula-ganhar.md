@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-30 03:00:00
 pub_date: 2022-10-30 03:00:00
 time_added: 2022-10-30 18:46:36
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c2/2022/09/06/bolsonaro-publicou-uma-serie-de-decretos-e-portarias-que-ampliaram-o-acesso-a-posse-e-porte-de-arma-de-fogo-1662459382947_v2_615x300.jpg
 ---

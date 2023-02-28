@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-23 19:33:00
 pub_date: 2022-10-23 19:33:00
 time_added: 2022-10-28 20:48:59
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/cc/2021/06/09/general-pazuello-com-a-mascara-no-nariz-mas-nao-na-boca-1623235840790_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-29 23:00:48
 pub_date: 2021-03-29 23:00:48
 time_added: 2021-04-10 21:27:07
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/03/Oeco_AreaAmbientalCaminhosBoaEsperanca_Mpaulasene_2-wikimedia.jpg
 ---

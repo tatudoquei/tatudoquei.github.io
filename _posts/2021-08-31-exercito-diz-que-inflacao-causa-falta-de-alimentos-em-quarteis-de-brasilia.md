@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-31 12:00:19
 pub_date: 2021-08-31 12:00:19
 time_added: 2021-09-06 08:16:38
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2021/08/16130502/Demonstrac%CC%A7a%CC%83o-operativa-dos-fuzileiros-navais-da-operac%CC%A7a%CC%83o-Formosa-durante-agenda-do-presidente-bolsonaro-4.jpeg
 ---

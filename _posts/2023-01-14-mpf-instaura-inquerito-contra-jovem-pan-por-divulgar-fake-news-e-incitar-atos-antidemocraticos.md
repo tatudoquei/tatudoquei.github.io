@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-14 13:21:12
 pub_date: 2023-01-14 13:21:12
 time_added: 2023-01-14 14:21:12
-category: 
+categories: []
 tags: []
 image: https://www.mpf.mp.br/sp/sala-de-imprensa/noticias-sp/mpf-instaura-inquerito-contra-a-jovem-pan-por-divulgar-fake-news-e-incitar-atos-antidemocraticos/@@images/c8b83ddc-052c-4386-976e-6bc17cf07ebf.jpeg
 ---

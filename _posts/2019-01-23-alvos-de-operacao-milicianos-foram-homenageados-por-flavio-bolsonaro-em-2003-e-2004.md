@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-23 04:57:16
 pub_date: 2019-01-23 04:57:16
 time_added: 2019-01-23 15:54:06
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://extra.globo.com/incoming/23391321-b18-119/w976h550-PROP/80753182_ri-rio-de-janeiro-rj-22-01-2019-operacao-os-intocaveis-prende-integrantes-da-milicia-suspei.jpg
 ---

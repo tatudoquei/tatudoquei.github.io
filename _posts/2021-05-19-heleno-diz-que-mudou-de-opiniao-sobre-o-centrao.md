@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-19 18:03:37
 pub_date: 2021-05-19 18:03:37
 time_added: 2021-07-25 17:02:54
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/05/heleno-mudou-de-opinia-sobre-centrao-1080x630.jpg
 ---

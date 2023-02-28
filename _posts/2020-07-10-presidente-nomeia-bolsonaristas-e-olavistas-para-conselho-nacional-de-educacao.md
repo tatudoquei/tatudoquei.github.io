@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-10 07:32:00
 pub_date: 2020-07-10 07:32:00
 time_added: 2020-07-11 08:21:04
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24482801-0d5-5f6/FT1086A/652/88437227_Fachada-do-Ministerio-da-Educacao-MEC-na-Esplanada-dos-Ministerios-Brasilia-DF.Foto-Marco.jpg
 ---

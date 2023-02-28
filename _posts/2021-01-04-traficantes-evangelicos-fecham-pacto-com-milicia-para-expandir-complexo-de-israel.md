@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-04 16:10:31
 pub_date: 2021-01-04 16:10:31
 time_added: 2021-01-03 19:02:26
-category: 
+categories: []
 tags: []
 image: https://extra.globo.com/incoming/24820935-e61-183/w533h800/quitungo.JPG
 ---

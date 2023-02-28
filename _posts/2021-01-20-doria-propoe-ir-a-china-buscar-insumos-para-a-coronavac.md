@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-20 16:27:00
 pub_date: 2021-01-20 16:27:00
 time_added: 2021-01-21 15:52:08
-category: refletimos
+categories: [refletimos]
 tags: [saúde]
 image: https://f.i.uol.com.br/fotografia/2021/01/20/161115644560084bdd7ce52_1611156445_3x2_md.jpg
 ---

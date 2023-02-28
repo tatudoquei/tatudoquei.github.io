@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-09 22:00:00
 pub_date: 2020-04-09 22:00:00
 time_added: 2020-04-09 13:01:18
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/07CxNLDmjaSszYBC1_KC5AzLTqo=/512x320/smart/e.glbimg.com/og/ed/f/original/2016/05/06/vacinacao_febre_aftosa_rondonia.jpg
 ---

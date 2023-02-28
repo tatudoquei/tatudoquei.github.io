@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-20 23:18:13
 pub_date: 2015-04-08 19:02:00
 time_added: 2020-01-20 23:18:13
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/interacao/facebook/uol-educacao.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-17 12:22:48
 pub_date: 2019-07-17 12:22:48
 time_added: 2019-07-25 07:10:32
-category: 
+categories: []
 tags: []
 image: https://ep00.epimg.net/internacional/imagenes/2019/07/16/america/1563291795_328105_1563292772_rrss_normal.jpg
 ---

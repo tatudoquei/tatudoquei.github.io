@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-25 22:00:00
 pub_date: 2020-04-25 22:00:00
 time_added: 2020-04-27 07:04:20
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/eQ0t5FUDINfMIxzX0C9Ahxzy0JA=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2020/04/25/musso.jpg
 ---

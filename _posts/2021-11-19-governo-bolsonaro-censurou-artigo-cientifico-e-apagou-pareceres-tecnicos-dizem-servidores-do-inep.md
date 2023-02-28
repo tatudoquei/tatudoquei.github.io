@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-19 18:15:00
 pub_date: 2021-11-19 18:15:00
 time_added: 2021-11-25 01:54:00
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25284410-2d9-1af/FT1086A/760/Comissao-Senado-do-Futuro-fazaudiencia-publica-semipresencial-para-esclarecerexoneracoes-pedidasnoInep-com-o-presidente-do-instituto-Danilo-Dupas..jpg
 ---

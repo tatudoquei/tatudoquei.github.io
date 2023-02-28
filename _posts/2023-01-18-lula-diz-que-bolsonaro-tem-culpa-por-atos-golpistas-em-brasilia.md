@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-18 19:09:59
 pub_date: 2023-01-18 19:09:59
 time_added: 2023-01-21 04:06:42
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Lula41/alternates/LANDSCAPE_768/Lula
 ---

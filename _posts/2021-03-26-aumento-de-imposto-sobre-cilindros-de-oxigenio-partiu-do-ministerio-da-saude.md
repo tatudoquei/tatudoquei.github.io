@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-26 16:54:00
 pub_date: 2021-03-26 16:54:00
 time_added: 2021-03-26 20:44:31
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24934621-6b2-b50/FT1086A/ato-oxigenio.jpg
 ---

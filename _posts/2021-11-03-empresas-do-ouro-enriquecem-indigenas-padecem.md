@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-03 17:40:45
 pub_date: 2021-11-03 17:40:45
 time_added: 2021-11-25 02:40:53
-category: 
+categories: []
 tags: []
 image: https://diplomatique.org.br/wp-content/uploads/2021/11/pag-7-1.jpg
 ---

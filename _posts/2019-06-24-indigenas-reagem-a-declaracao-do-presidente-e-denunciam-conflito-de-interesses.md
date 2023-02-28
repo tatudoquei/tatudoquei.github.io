@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-24 16:06:52
 pub_date: 2019-06-24 16:06:52
 time_added: 2019-06-25 05:26:03
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/cygo9JcAAqU4M-QjOUcHk5ArOqM=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/G/0/r6ChbXToAfnhW6T9OQAw/2019-04-26t130130z-804777950-rc198755f4d0-rtrmadp-3-brazil-indigenous-nacho-doce-reuters.jpg
 ---

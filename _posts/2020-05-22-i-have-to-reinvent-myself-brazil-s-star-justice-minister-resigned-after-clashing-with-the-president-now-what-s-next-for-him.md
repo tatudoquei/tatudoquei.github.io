@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-22 16:53:42
 pub_date: 2020-05-22 16:53:42
 time_added: 2020-05-22 18:53:42
-category: 
+categories: []
 tags: []
 image: https://api.time.com/wp-content/themes/time2014/img/time-logo-og.png
 ---

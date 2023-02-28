@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-02 03:30:00
 pub_date: 2020-02-02 03:30:00
 time_added: 2020-02-04 19:36:53
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23969284-f70-5e2/FT1086A/652/decreto-armas-bolsonaro.jpg
 ---

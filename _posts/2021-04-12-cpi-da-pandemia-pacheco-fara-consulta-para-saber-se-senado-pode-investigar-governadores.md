@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-12 12:35:00
 pub_date: 2021-04-12 12:35:00
 time_added: 2021-05-16 18:24:19
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24967326-ca7-5a8/FT1086A/pacheco3.jpg
 ---

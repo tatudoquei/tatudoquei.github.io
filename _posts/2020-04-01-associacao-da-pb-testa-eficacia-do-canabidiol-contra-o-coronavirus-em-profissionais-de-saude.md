@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-01 17:31:10
 pub_date: 2020-04-01 17:31:10
 time_added: 2020-04-02 21:37:33
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/_bbl_lCLaaoMDPO30zvc0n1CwOM=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/z/n/vMezMcS9eEju40849KaQ/maconha-flor-abrace-joao-pessoa-pb.jpg
 ---

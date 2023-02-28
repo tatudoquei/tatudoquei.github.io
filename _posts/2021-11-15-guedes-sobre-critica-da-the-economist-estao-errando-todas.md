@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-15 21:00:28
 pub_date: 2021-11-15 21:00:28
 time_added: 2021-11-25 02:01:48
-category: 
+categories: []
 tags: []
 image: https://www.opovo.com.br/reboot/includes/assets/img/logo_og.png
 ---

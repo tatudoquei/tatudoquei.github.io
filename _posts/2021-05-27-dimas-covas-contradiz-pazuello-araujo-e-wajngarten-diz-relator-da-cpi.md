@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-27 13:24:00
 pub_date: 2021-05-27 13:24:00
 time_added: 2021-05-27 18:54:25
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/75/2021/05/27/27mai2021---o-senador-renan-calheiros-mdb-al-relator-da-cpi-da-covid-durante-depoimento-de-dimas-covas-1622138021061_v2_615x300.jpg
 ---

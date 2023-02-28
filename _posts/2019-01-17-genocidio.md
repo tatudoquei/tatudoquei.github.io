@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-17 22:48:45
 pub_date: 2019-01-17 22:48:45
 time_added: 2019-12-23 21:41:23
-category: refletimos
+categories: [refletimos]
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2018/12/148_questoes-brasileiras-II_redes.jpg
 ---

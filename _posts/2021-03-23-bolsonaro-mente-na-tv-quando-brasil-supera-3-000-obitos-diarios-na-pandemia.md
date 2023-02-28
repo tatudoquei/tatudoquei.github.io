@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-23 22:44:55
 pub_date: 2021-03-23 22:44:55
 time_added: 2021-03-27 09:15:44
-category: 
+categories: []
 tags: []
 image: https://imagens.brasil.elpais.com/resizer/H4mRwq_CV-euq9UOY3o_QUwVgik=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/A2II4OASUDRYDILDV5FWVPUM6M.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-13 18:47:00
 pub_date: 2020-02-13 18:47:00
 time_added: 2020-02-16 16:05:11
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/02/materia-funai-redes-1581622903.jpg
 ---

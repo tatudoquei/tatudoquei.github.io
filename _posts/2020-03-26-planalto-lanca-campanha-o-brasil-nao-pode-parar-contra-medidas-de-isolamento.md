@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-26 20:01:00
 pub_date: 2020-03-26 20:01:00
 time_added: 2020-03-27 07:57:16
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e3/2020/03/25/25mar2020---coronavirus-praias-shoppings-estabelecimentos-comerciais-que-nao-sao-essenciais-devem-manter-se-fechados-durante-quarentena-em-santa-catarina-1585180221732_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-10 02:19:10
 pub_date: 2020-07-10 02:19:10
 time_added: 2020-07-10 04:21:02
-category: 
+categories: []
 tags: [meio ambiente]
 image: https://www.oeco.org.br/wp-content/uploads/2020/07/fabio-faria.jpg
 ---

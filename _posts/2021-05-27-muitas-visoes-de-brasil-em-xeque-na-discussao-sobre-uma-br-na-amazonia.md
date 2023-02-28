@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-27 17:43:44
 pub_date: 2021-05-27 17:43:44
 time_added: 2021-06-19 06:04:33
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/05/DJI_0657.jpg
 ---

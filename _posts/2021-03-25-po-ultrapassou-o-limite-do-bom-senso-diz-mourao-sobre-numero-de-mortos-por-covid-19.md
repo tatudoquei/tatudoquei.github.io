@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-25 17:02:00
 pub_date: 2021-03-25 17:02:00
 time_added: 2021-03-27 19:03:27
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24853696-99c-5a5/FT1086A/Mourao_Planalto.jpeg.jpg
 ---

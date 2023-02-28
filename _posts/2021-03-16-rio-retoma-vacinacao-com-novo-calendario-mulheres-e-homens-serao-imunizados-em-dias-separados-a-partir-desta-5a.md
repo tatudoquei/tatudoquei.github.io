@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-16 19:03:00
 pub_date: 2021-03-16 19:03:00
 time_added: 2021-03-21 09:23:00
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/rio/24922143-6b9-668/FT1086A/91968033_RI-Rio-de-Janeiro-RJ-11-03-2021-PANDEMIA-CORONAVIRUSCAMPANHA-DE-VACINACAO-Idosos-recebem.jpg
 ---

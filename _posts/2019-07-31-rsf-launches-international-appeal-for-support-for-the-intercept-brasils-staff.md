@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-31 14:24:42
 pub_date: 2019-07-31 14:24:42
 time_added: 2019-08-04 08:00:53
-category: 
+categories: []
 tags: []
 image: https://rsf.org/sites/default/files/visual_intercept_3.png
 ---

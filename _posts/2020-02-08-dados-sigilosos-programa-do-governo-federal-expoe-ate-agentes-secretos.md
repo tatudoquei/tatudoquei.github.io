@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-08 08:30:31
 pub_date: 2020-02-08 08:30:31
 time_added: 2020-02-09 00:53:29
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2020/01/28171324/Golpe-pela-internet1.jpeg
 ---

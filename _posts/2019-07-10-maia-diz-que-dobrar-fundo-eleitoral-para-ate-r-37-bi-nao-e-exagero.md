@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-10 12:58:00
 pub_date: 2019-07-10 12:58:00
 time_added: 2019-09-15 10:02:23
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a7/2019/07/03/o-presidente-da-camara-rodrigo-maia-na-comissao-especial-da-reforma-da-previdencia-1562196752210_v2_615x300.jpg
 ---

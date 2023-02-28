@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-21 17:46:11
 pub_date: 2020-05-21 17:46:11
 time_added: 2020-05-22 18:52:20
-category: 
+categories: []
 tags: []
 image: https://extra.globo.com/noticias/extra-extra/24399515-76a-a28/w976h550-PROP/a-prefeitura-do-rio-nao-tem,-hoje,-dinheiro-para-pagar-os-salarios-de-maio.jpg
 ---

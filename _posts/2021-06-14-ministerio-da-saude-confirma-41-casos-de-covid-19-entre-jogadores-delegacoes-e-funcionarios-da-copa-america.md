@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-14 22:10:00
 pub_date: 2021-06-14 22:10:00
 time_added: 2021-06-19 20:10:00
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25058928-477-07e/FT1086A/bolivia.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-21 08:46:00
 pub_date: 2020-10-21 08:46:00
 time_added: 2020-10-21 20:20:56
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/03/2020/08/10/coveiro-trabalha-no-cemiterio-da-vila-formosa-em-sao-paulo-1597067318192_v2_615x300.jpg
 ---

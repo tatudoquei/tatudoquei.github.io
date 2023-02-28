@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-02 04:00:19
 pub_date: 2021-02-02 04:00:19
 time_added: 2021-02-02 20:29:44
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/coluna-do-estadao/wp-content/uploads/sites/352/2020/04/acm-neto_170420202249.jpg
 ---

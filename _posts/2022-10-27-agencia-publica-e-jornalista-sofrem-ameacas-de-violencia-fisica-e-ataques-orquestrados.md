@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-27 20:55:28
 pub_date: 2022-10-27 20:55:28
 time_added: 2022-10-28 21:09:01
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2022/10/Capa_Agencia-Publica-e-jornalista-sofrem-ameacas-de-violencia-fisica-e-ataques-orquestrados.png
 ---

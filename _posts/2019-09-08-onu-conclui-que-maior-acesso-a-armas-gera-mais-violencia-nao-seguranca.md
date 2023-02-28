@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-08 15:29:00
 pub_date: 2019-09-08 15:29:00
 time_added: 2019-09-15 10:05:43
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/275/files/2019/03/linha-de-producao-da-fabricante-de-armas-taurus-em-sao-leopoldo-rs-1547650924489_v2_1920x1080-615x300.jpg
 ---

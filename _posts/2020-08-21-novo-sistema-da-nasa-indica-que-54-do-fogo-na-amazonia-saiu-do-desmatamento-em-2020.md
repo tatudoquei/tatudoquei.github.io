@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-21 15:58:00
 pub_date: 2020-08-21 15:58:00
 time_added: 2020-08-23 19:11:23
-category: 
+categories: []
 tags: [meio ambiente]
 image: https://ogimg.infoglobo.com.br/in/24591337-f2c-0d0/FT1086A/652/89213605_Cattle-next-to-heat-spots-in-Labrea-Amazonas-state-One-month-after-a-presidential-decree-fo.jpg
 ---

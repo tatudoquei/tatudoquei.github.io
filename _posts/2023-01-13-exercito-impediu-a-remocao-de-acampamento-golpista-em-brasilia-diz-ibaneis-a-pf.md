@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-13 23:19:01
 pub_date: 2023-01-13 23:19:01
 time_added: 2023-01-14 14:42:11
-category: 
+categories: []
 tags: []
 image: https://www.cartacapital.com.br/wp-content/uploads/2023/01/edit_mcmgo_abr_1411187156.jpg
 ---

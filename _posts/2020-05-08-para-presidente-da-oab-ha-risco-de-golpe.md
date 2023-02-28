@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-08 20:08:20
 pub_date: 2020-05-08 20:08:20
 time_added: 2020-05-08 22:46:16
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2020/05/felipe-santa-cruz.jpg
 ---

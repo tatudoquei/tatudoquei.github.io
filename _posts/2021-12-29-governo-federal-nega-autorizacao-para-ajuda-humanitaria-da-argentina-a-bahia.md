@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-29 19:32:00
 pub_date: 2021-12-29 19:32:00
 time_added: 2022-01-08 12:23:34
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/1f5DehedysVmYfe0N-M4ndIy210=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/I/h/8uGGrxRhWBW5AXi8vAWg/governo-ajuda.jpg
 ---

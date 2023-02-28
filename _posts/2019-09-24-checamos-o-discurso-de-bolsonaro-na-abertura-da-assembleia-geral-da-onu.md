@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-24 08:10:00
 pub_date: 2019-09-24 08:10:00
 time_added: 2019-09-24 20:00:35
-category: 
+categories: []
 tags: []
 image: https://aosfatos.org/media/images/entries/823059.jpg.1860x1080_q85_box-0%2C178%2C5940%2C3627_crop_upscale.jpg
 ---

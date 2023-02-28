@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-15 12:43:17
 pub_date: 2019-09-15 12:43:17
 time_added: 2019-09-17 16:13:22
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2019/09/IMG_2024.jpg
 ---

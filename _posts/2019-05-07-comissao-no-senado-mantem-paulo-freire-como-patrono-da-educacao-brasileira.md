@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-07 06:36:00
 pub_date: 2017-12-14 15:53:14
 time_added: 2019-05-07 06:36:00
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/nfT5nS-J78--PqwBh-H0Cr5saV0=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2016/02/17/paulo.jpg
 ---

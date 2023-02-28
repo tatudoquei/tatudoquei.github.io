@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-29 16:49:16
 pub_date: 2021-01-29 16:49:16
 time_added: 2021-01-30 19:46:03
-category: 
+categories: []
 tags: []
 image: https://img.ibxk.com.br/2021/01/29/29174910379265.jpg
 ---

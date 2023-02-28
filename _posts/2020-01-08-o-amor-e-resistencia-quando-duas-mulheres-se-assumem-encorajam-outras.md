@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-08 03:00:00
 pub_date: 2020-01-08 03:00:00
 time_added: 2020-01-08 20:03:34
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/59/files/2020/01/Alice-599x300.png
 ---

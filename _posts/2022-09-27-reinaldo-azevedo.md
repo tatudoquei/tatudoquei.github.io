@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-27 02:39:00
 pub_date: 2022-09-27 02:39:00
 time_added: 2022-10-02 23:51:06
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/1b/2022/09/27/joaquim-barbosa-e-pesquisa-ipec-1664264101758_v2_615x300.jpg
 ---

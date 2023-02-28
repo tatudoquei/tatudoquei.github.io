@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-07 13:51:02
 pub_date: 2021-03-07 13:51:02
 time_added: 2021-03-07 10:51:02
-category: refletimos
+categories: [refletimos]
 tags: [economia]
 image: https://theintercept.com/wp-uploads/sites/1/2021/03/redes-xpinvest.jpg
 ---

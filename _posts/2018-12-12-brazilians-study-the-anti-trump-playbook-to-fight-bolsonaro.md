@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-12 23:00:00
 pub_date: 2018-12-12 23:00:00
 time_added: 2019-12-23 21:19:31
-category: resistimos
+categories: [resistimos]
 tags: []
 image: https://www.americasquarterly.org/sites/default/files/braziltop_2.jpg
 ---

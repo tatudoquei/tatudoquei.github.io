@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-05 21:39:26
 pub_date: 2019-11-05 21:39:26
 time_added: 2019-11-05 22:25:25
-category: 
+categories: []
 tags: []
 image: https://video-images.vice.com/articles/5dc1c29a4f465800910de745/lede/1572989817403-Screen-Shot-2019-11-05-at-181820.png?crop=0.9006653712536066xw:1xh;center,center&resize=1200:*
 ---

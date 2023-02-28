@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-12 11:32:00
 pub_date: 2020-03-12 11:32:00
 time_added: 2020-03-12 17:59:38
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/198/files/2020/03/bolsonarocorona-615x300.jpg
 ---

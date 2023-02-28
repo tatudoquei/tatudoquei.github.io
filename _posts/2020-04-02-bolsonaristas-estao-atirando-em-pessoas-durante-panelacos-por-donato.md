@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-02 13:14:27
 pub_date: 2020-04-02 13:14:27
 time_added: 2020-04-02 13:58:38
-category: 
+categories: []
 tags: []
 image: https://www.diariodocentrodomundo.com.br/wp-content/uploads/2020/04/janela3.jpeg
 ---

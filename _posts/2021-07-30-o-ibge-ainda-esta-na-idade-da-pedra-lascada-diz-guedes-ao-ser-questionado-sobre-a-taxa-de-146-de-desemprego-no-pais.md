@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-30 15:48:00
 pub_date: 2021-07-30 15:48:00
 time_added: 2021-08-20 20:54:00
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25133661-07d-ec2/FT1086A/94423455_ECO-Rio-de-Janeiro-RJ30-07-2021-Ministro-da-Economia-Paulo-Guedes-durante-evento-de-lanc.jpg
 ---

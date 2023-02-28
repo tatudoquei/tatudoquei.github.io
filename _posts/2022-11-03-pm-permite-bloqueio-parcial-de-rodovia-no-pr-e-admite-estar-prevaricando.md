@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-03 07:29:00
 pub_date: 2022-11-03 07:29:00
 time_added: 2022-11-04 20:34:55
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/3d/2022/11/03/coronel-e-comandante-da-policia-militar-pm-pr-hudson-leoncio-teixeira-1667472270394_v2_615x300.png
 ---

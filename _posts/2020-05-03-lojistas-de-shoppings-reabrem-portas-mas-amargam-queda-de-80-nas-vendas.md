@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-03 21:08:00
 pub_date: 2020-05-03 21:08:00
 time_added: 2020-05-04 19:43:16
-category: 
+categories: []
 tags: []
 image: https://www.infomoney.com.br/wp-content/uploads/2020/05/FUP20200430474.jpg?resize=1024,683
 ---

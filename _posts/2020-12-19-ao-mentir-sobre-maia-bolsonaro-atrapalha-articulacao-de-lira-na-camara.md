@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-19 14:58:00
 pub_date: 2020-12-19 14:58:00
 time_added: 2020-12-19 22:18:05
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/dc/2020/12/16/o-deputado-federal-arthur-lira-progressistas-al-durante-sessao-na-camara-em-12-de-julho-de-2019-1608166620927_v2_615x300.jpg
 ---

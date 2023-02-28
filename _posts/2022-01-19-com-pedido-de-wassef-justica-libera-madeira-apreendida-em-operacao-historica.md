@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-01-19 21:30:46
 pub_date: 2022-01-19 21:30:46
 time_added: 2022-01-19 22:48:41
-category: 
+categories: []
 tags: []
 image: http://oeco.org.br/wp-content/uploads/2022/01/operacao-Handroanthus-Foto-Policia-Federal.jpg
 ---

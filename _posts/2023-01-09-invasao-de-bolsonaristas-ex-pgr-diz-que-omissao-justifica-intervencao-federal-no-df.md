@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-09 05:02:02
 pub_date: 2023-01-09 05:02:02
 time_added: 2023-01-10 23:53:41
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/6EB7/production/_128234382_manifestantes.png
 ---

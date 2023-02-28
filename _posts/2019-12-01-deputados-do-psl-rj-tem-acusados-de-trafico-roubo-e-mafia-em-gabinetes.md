@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-01 03:01:00
 pub_date: 2019-12-01 03:01:00
 time_added: 2019-12-02 20:20:56
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/5d/2019/11/29/os-deputados-estaduais-anderson-moraes-e-dr-serginho-do-psl-rj-1575057455569_v2_615x300.jpg
 ---

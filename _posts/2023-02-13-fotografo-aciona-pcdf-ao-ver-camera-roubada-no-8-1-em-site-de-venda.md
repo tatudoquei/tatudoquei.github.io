@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-13 16:58:39
 pub_date: 2023-02-13 16:58:39
 time_added: 2023-02-26 18:51:01
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2023/01/12102324/Invasao-8-1.jpeg
 ---

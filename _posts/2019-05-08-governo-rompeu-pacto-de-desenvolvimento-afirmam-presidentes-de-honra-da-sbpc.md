@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-08 22:51:48
 pub_date: 2019-05-08 22:51:48
 time_added: 2019-05-09 22:43:26
-category: 
+categories: []
 tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2016/05/Fachada-MCTI-2.jpg
 ---

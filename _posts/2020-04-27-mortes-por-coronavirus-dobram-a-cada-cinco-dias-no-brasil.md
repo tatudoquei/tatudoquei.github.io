@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-27 09:14:42
 pub_date: 2020-04-27 09:14:42
 time_added: 2020-04-27 11:14:42
-category: 
+categories: []
 tags: []
 image: http://portal.fiocruz.br/sites/portal.fiocruz.br/themes/portalnovo/images/indice.jpg
 ---

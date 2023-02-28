@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-29 19:41:33
 pub_date: 2019-05-29 19:41:33
 time_added: 2019-05-29 21:10:28
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/tyV4hJMSEmZBCN2o3yJS0om9GNY=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/6/N/NhABmYTwKOByU94lBsxQ/plenario-camara.jpg
 ---

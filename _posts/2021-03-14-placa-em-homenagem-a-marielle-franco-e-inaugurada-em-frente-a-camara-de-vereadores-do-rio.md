@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-14 15:49:21
 pub_date: 2021-03-14 15:49:21
 time_added: 2021-03-21 09:18:01
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/jTYfOqqtNwFusn92TqKn_bbouzs=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/T/w/p1bHf5RByq1I4wH46BWw/placa-marielle-4.jpg
 ---

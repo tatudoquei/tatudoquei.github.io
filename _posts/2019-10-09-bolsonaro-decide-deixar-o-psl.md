@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-09 15:56:05
 pub_date: 2019-10-09 15:56:05
 time_added: 2019-10-10 01:42:08
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/08/jair-bolsonaro-1.png?w=680&h=453&crop=1
 ---

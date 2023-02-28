@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-06 20:29:37
 pub_date: 2020-12-06 20:29:37
 time_added: 2020-12-07 00:01:14
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2020/12/Foto-Marcos-CorreaPR-nova.jpg
 ---

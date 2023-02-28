@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-07 14:06:19
 pub_date: 2020-03-07 14:06:19
 time_added: 2020-03-10 03:16:38
-category: 
+categories: []
 tags: []
 image: https://jornalggn.com.br/sites/default/files/2020/03/presidente-da-embratur-tem-multa-ambiental-cancelada-pela-icmbio-gilson-machado-neto-e-jair-bolsonaro.jpg
 ---

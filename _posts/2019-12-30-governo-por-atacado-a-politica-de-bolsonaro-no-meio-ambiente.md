@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-30 23:00:00
 pub_date: 2019-12-30 23:00:00
 time_added: 2020-05-24 17:43:06
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/desmatamento.jpg5/alternates/LANDSCAPE_768/desmatamento.jpg
 ---

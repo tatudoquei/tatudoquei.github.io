@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-28 10:06:00
 pub_date: 2019-04-28 10:06:00
 time_added: 2019-04-29 20:29:33
-category: 
+categories: []
 tags: []
 image: https://facesdaviolencia.blogfolha.uol.com.br/files/2019/04/Twitter-Moro.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-23 18:36:00
 pub_date: 2023-02-23 18:36:00
 time_added: 2023-02-24 00:44:58
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2023/02/REDES-joios-ministros-colheita-ilegal.jpg
 ---

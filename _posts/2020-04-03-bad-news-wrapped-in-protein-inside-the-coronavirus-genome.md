@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-03 09:01:01
 pub_date: 2020-04-03 09:01:01
 time_added: 2020-04-06 07:19:09
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/04/02/us/coronavirus-genome-bad-news-wrapped-in-protein-promo-1585854591732/coronavirus-genome-bad-news-wrapped-in-protein-promo-1585854591732-facebookJumbo.jpg
 ---

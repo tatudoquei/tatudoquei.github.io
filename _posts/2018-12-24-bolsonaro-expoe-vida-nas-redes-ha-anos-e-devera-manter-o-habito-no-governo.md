@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-24 03:01:00
 pub_date: 2018-12-24 03:01:00
 time_added: 2018-12-27 00:52:57
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f9/2018/12/23/23dez2018---bolsonaro-lava-roupa-de-mergulho-na-restinga-da-marambaia-no-rio-de-janeiro-1545600810854_v2_615x300.jpg
 ---

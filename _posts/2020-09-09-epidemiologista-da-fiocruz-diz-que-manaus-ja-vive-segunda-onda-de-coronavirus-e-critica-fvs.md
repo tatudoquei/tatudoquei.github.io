@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-09 17:46:32
 pub_date: 2020-09-09 17:46:32
 time_added: 2020-09-12 09:30:48
-category: 
+categories: []
 tags: []
 image: https://www.bandnewsdifusora.com.br/wp-content/uploads/2020/09/PESQUISADOR-COVIDF.jpg
 ---

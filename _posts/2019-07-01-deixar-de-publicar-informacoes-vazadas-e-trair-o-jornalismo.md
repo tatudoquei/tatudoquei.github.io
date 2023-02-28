@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-01 15:56:41
 pub_date: 2019-07-01 15:56:41
 time_added: 2019-09-04 23:01:02
-category: 
+categories: []
 tags: []
 image: https://i2.wp.com/apublica.org/wp-content/uploads/2019/06/home-dallagnol-e-moro.png?fit=1600%2C800&ssl=1
 ---

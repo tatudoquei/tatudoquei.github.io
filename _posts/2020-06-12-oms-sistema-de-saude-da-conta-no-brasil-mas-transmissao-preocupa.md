@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-12 11:29:00
 pub_date: 2020-06-12 11:29:00
 time_added: 2020-06-12 18:19:02
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/4e/2020/05/15/29abr2020---o-diretor-geral-da-oms-organizacao-mundial-da-saude-tedros-adhanom-ghebreyesus-durante-coletiva-de-imprensa-1589578980500_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-03 00:08:22
 pub_date: 2020-06-03 00:08:22
 time_added: 2020-06-04 23:41:27
-category: 
+categories: []
 tags: []
 image: https://evsarteblog.files.wordpress.com/2020/06/recordesc.png
 ---

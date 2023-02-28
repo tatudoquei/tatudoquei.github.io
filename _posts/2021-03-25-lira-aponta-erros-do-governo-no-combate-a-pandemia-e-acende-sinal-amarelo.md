@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-25 02:36:44
 pub_date: 2021-03-25 02:36:44
 time_added: 2021-03-27 19:03:34
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/03/img20210324182853485-768x512-1.jpeg
 ---

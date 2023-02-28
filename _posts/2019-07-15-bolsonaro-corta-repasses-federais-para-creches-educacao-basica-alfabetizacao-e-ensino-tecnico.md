@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-15 09:30:04
 pub_date: 2019-07-15 09:30:04
 time_added: 2019-07-15 22:20:09
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2019/07/32756681377-762556a70f-k-e1563182959805.jpg
 ---

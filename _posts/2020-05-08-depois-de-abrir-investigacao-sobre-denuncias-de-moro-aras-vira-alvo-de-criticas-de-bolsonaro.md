@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-08 02:00:00
 pub_date: 2020-05-08 02:00:00
 time_added: 2020-05-08 11:54:02
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/y_tvK2OqAY6C5pMeRVPx0V745dY=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/09/25/84784886_prosecutor-general_nominee_augusto_aras_attends_a_session_of_the_committee_on_constitut.jpg
 ---

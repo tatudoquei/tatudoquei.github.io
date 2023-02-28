@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-03 02:53:50
 pub_date: 2021-02-03 02:53:50
 time_added: 2021-02-04 20:18:58
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/gestao-politica-e-sociedade/wp-content/uploads/sites/216/2021/02/wgrafico1_030220214935-300x180.jpg
 ---

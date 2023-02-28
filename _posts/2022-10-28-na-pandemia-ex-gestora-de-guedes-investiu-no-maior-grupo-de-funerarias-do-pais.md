@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-28 19:02:37
 pub_date: 2022-10-28 19:02:37
 time_added: 2022-10-28 21:02:37
-category: 
+categories: []
 tags: []
 image: https://midianinja.org/files/2020/05/photo_2020-05-01-00.59.43.jpeg
 ---

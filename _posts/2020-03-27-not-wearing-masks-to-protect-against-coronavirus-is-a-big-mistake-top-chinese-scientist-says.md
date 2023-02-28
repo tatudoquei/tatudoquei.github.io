@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-27 22:15:00
 pub_date: 2020-03-27 22:15:00
 time_added: 2020-03-29 13:21:18
-category: 
+categories: []
 tags: []
 image: https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/temphospital_main_1280p.jpg?itok=mAfHpJbM
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-27 06:00:00
 pub_date: 2020-03-27 06:00:00
 time_added: 2020-03-28 09:02:09
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/cc/2020/03/27/julie-vitima-da-covid-19-1585325021026_v2_615x300.jpg
 ---

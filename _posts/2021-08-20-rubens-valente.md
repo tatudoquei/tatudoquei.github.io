@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-20 19:39:00
 pub_date: 2021-08-20 19:39:00
 time_added: 2021-08-20 20:39:13
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b8/2020/08/04/jair-candor-indigenista-da-funai-com-pakyi-esq-e-tamandua-em-cena-do-documentario-piripkura-2018-de-mariana-oliva-renata-terra-bruno-jorge-1596572387818_v2_615x300.jpg
 ---

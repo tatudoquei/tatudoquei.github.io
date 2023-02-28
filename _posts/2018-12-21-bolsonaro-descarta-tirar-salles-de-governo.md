@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-21 08:00:00
 pub_date: 2018-12-21 08:00:00
 time_added: 2018-12-22 15:09:33
-category: avisamos
+categories: [avisamos]
 tags: [meio ambiente]
 image: https://img.estadao.com.br/resources/jpg/9/4/1544403397849.jpg
 ---

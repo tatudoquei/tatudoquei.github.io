@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-21 16:59:00
 pub_date: 2021-01-21 16:59:00
 time_added: 2021-01-22 13:33:17
-category: recuadas
+categories: [recuadas]
 tags: [saúde]
 image: https://conteudo.imguol.com.br/c/noticias/4c/2020/07/08/pacotes-de-cloroquina-distribuidos-pelo-ministerio-da-saude-em-hospital-de-porto-alegre-1594251049019_v2_615x300.jpg
 ---

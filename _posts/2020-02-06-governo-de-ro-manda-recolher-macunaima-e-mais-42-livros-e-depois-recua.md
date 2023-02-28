@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-06 18:10:00
 pub_date: 2020-02-06 18:10:00
 time_added: 2020-02-06 23:33:45
-category: recuadas
+categories: [recuadas]
 tags: []
 image: https://f.i.uol.com.br/fotografia/2020/02/06/15810264985e3c8cc26fb1d_1581026498_3x2_xl.jpg
 ---

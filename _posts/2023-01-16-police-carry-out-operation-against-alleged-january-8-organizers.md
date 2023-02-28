@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-16 22:47:45
 pub_date: 2023-01-16 22:47:45
 time_added: 2023-01-21 10:12:22
-category: 
+categories: []
 tags: []
 image: https://brazilian.report/wp-content/uploads/2023/01/TBR-PHOTOS-86.png
 ---

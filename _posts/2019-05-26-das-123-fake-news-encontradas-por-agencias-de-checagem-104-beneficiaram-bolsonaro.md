@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-26 23:09:01
 pub_date: 2018-10-26 08:31:03
 time_added: 2019-05-26 23:09:01
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2018/10/bolsonaro-marcelo-camargo-haddad-ricardo-stuckert-e1540508346517.jpg
 ---

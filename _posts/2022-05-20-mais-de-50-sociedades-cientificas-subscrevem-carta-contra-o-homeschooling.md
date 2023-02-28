@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-05-20 13:15:40
 pub_date: 2022-05-20 13:15:40
 time_added: 2022-05-21 11:55:06
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2016/09/congresso.jpg
 ---

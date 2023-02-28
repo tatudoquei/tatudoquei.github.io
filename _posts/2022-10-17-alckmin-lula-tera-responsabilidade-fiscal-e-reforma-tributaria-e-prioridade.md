@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-17 15:05:29
 pub_date: 2022-10-17 15:05:29
 time_added: 2022-10-30 19:13:32
-category: 
+categories: []
 tags: []
 image: https://images.jota.info/wp-content/uploads/2022/10/geraldo-alcmin-lula.jpeg
 ---

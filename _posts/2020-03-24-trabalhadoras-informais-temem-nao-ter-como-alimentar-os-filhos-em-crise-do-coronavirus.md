@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-24 21:48:57
 pub_date: 2020-03-24 21:48:57
 time_added: 2020-03-24 22:48:57
-category: 
+categories: []
 tags: []
 image: https://azmina.com.br/wp-content/uploads/2020/03/AzM-img-capa-ambulantes_600X337-1.jpg
 ---

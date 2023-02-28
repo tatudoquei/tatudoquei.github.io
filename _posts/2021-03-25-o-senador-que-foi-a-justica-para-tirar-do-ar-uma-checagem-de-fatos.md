@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-25 03:00:00
 pub_date: 2021-03-25 03:00:00
 time_added: 2021-03-27 09:21:34
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/marcosdoval/alternates/LANDSCAPE_768/marcosdoval
 ---

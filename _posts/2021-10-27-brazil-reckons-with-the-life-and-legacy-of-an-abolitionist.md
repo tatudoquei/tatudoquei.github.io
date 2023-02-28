@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-27 13:30:23
 pub_date: 2021-10-27 13:30:23
 time_added: 2021-10-31 21:51:37
-category: 
+categories: []
 tags: []
 image: https://www.economist.com/img/b/1690/957/90/media-assets/image/20211030_BKP504.jpg
 ---

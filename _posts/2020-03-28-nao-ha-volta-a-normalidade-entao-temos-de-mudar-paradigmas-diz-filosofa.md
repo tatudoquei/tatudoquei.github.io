@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-28 20:22:00
 pub_date: 2020-03-28 20:22:00
 time_added: 2020-03-29 13:16:10
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/81/2020/03/28/a-matematica-e-filosofa-tatiana-roque-professora-da-ufrj-1585442174017_v2_615x300.jpg
 ---

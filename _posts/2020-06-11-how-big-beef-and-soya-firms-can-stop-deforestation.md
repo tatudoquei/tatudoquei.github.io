@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-11 00:00:00
 pub_date: 2020-06-11 00:00:00
 time_added: 2020-07-15 05:17:20
-category: 
+categories: []
 tags: [meio ambiente]
 image: https://www.economist.com/sites/default/files/images/print-edition/20200613_AMP004_0.jpg
 ---

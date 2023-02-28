@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-08 20:49:51
 pub_date: 2022-09-08 20:49:51
 time_added: 2022-09-24 10:10:53
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2022/09/capa-facebook-conheca-quem-bancou-a-ida-de-tratores-no-7-de-setembro-em-brasilia.png
 ---

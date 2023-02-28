@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-03 00:22:38
 pub_date: 2017-05-18 14:28:00
 time_added: 2022-10-03 00:22:38
-category: 
+categories: []
 tags: []
 image: http://imgsapp.em.com.br/app/noticia_127983242361/2017/05/18/869889/20170518113513361390e.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-18 16:45:00
 pub_date: 2020-06-18 16:45:00
 time_added: 2020-06-19 20:16:49
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/38/2020/05/26/26mai2020---sepultamento-de-vitima-de-coronavirus-no-cemiterio-sao-francisco-xavierem-caju-zona-norte-do-rio-de-janeiro-1590538285028_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-09 15:03:02
 pub_date: 2020-04-09 15:03:02
 time_added: 2020-04-10 16:00:46
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/04/09/science/09VIRUS-KALIL1-copy/09VIRUS-KALIL1-copy-facebookJumbo-v2.jpg
 ---

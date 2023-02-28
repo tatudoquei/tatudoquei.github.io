@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-08 09:39:00
 pub_date: 2020-10-08 09:39:00
 time_added: 2020-10-08 21:47:21
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/dd/2020/10/08/lockdowns-e-distanciamento-social-voluntario---por-parte-de-quem-teme-contrair-o-virus---tiveram-efeito-quase-comparavel-segundo-fmi-1602167868942_v2_615x300.jpg
 ---

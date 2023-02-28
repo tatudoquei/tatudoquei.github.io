@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-25 08:40:00
 pub_date: 2019-10-25 08:40:00
 time_added: 2019-10-26 10:52:16
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/10/maragogi-615x300.jpg
 ---

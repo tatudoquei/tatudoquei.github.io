@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-18 22:58:12
 pub_date: 2020-02-18 22:58:12
 time_added: 2020-02-21 20:30:44
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2020/01/soldado-que-deixou-jovem-paraplegico-no-rio-agiu-em-legitima-defesa-imaginaria-diz-promotor-militar-img5.gif
 ---

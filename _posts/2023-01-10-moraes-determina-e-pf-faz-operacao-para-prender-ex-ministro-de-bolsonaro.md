@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-10 19:13:40
 pub_date: 2023-01-10 19:13:40
 time_added: 2023-01-14 14:29:24
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2023/01/10175615/Sem-titulo-126.jpg
 ---

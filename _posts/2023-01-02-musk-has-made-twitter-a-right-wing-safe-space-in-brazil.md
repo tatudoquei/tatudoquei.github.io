@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-02 11:00:00
 pub_date: 2023-01-02 11:00:00
 time_added: 2023-01-14 13:45:06
-category: 
+categories: []
 tags: []
 image: https://149346090.v2.pressablecdn.com/wp-content/uploads/2022/12/GettyImages-1426952251-1600x900.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-06 21:14:22
 pub_date: 2020-11-06 21:14:22
 time_added: 2020-11-11 22:02:31
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/11/20201106_AciespVideos.png
 ---

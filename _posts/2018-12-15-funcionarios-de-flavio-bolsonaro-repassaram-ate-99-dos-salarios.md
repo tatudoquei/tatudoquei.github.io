@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-15 04:00:42
 pub_date: 2018-12-15 04:00:42
 time_added: 2018-12-15 21:53:19
-category: avisamos
+categories: [avisamos, bandido bom]
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2018/12/Flavio-1.jpg
 ---

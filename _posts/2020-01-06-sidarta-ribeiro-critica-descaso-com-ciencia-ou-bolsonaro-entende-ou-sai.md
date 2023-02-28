@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-06 23:08:00
 pub_date: 2020-01-06 23:08:00
 time_added: 2020-01-11 15:01:13
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b4/2020/01/07/sidarta-ribeiro---roda-viva-1578366344346_v2_615x300.png
 ---

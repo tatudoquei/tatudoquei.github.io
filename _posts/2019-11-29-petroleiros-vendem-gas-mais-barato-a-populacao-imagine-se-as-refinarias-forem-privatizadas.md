@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-29 18:11:11
 pub_date: 2019-11-29 18:11:11
 time_added: 2019-11-29 20:09:07
-category: 
+categories: []
 tags: []
 image: https://www.redebrasilatual.com.br/wp-content/uploads/2019/11/glp.jpg
 ---

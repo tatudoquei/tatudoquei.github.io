@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-28 02:03:00
 pub_date: 2020-06-28 02:03:00
 time_added: 2020-06-30 20:59:43
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/06/flavio-redes.jpg
 ---

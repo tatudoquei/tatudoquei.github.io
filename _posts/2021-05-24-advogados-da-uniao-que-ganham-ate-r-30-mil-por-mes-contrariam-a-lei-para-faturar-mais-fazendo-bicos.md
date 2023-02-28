@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-24 05:56:58
 pub_date: 2021-05-24 05:56:58
 time_added: 2021-05-24 07:56:58
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2021/05/redes-AGU3.jpg
 ---

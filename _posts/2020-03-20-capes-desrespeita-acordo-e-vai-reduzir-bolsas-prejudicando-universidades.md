@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-20 11:39:30
 pub_date: 2020-03-20 11:39:30
 time_added: 2020-03-20 12:39:30
-category: 
+categories: []
 tags: []
 image: http://jlpolitica.com.br/uploads/posts/cover_image/a1484ce9234f9ac6.jpg
 ---

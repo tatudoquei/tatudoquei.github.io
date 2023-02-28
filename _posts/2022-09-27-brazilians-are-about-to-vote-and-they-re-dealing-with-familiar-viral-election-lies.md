@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-27 04:00:00
 pub_date: 2022-09-27 04:00:00
 time_added: 2022-10-03 00:08:26
-category: 
+categories: []
 tags: []
 image: https://media.npr.org/assets/img/2022/09/26/gettyimages-1426671115_wide-1128bdcf257db7e3ae174f6cd97de9e6d4094dde-s1400-c100.jpg
 ---

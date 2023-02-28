@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-11 11:47:00
 pub_date: 2018-12-11 11:47:00
 time_added: 2018-12-11 22:02:28
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c6/2018/12/11/11dez2018---o-presidente-eleito-jair-bolsonaro-ao-lado-do-cantor-amado-batista-e-do-locutor-cuiabano-lima-em-almoco-em-brasilia-1544538549817_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-06 19:08:00
 pub_date: 2021-07-06 19:08:00
 time_added: 2021-07-25 16:46:01
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25094223-a40-71f/FT1086A/STF.jpeg.jpg
 ---

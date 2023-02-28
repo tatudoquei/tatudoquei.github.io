@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-15 15:37:00
 pub_date: 2020-09-15 15:37:00
 time_added: 2020-09-15 22:09:44
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/84/2020/09/11/o-presidente-jair-bolsonaro-sem-partido-durante-apresentacao-do-plano-de-contingencia-para-a-pessoa-idosa-em-brasilia-df-1599857013084_v2_615x300.jpg
 ---

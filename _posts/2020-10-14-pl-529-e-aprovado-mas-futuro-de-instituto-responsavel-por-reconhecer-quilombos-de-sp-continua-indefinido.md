@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-14 19:15:12
 pub_date: 2020-10-14 19:15:12
 time_added: 2020-10-14 21:15:12
-category: 
+categories: []
 tags: []
 image: https://www.socioambiental.org/sites/blog.socioambiental.org/files/styles/twitter-card/public/nsa/pl_529_aprovado._foto_sergio_galdino_alesp.jpg?itok=Xemr1vFa
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-30 10:31:00
 pub_date: 2020-08-30 10:31:00
 time_added: 2020-08-30 20:16:06
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/5b/2020/04/01/presidente-dos-eua-donald-trump-e-presidente-jair-bolsonaro-em-encontro-na-florida-1585778050643_v2_750x421.jpg
 ---

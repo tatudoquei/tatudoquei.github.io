@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-02 14:12:00
 pub_date: 2019-05-02 14:12:00
 time_added: 2019-05-03 06:03:55
-category: 
+categories: []
 tags: []
 image: http://cdn.douradosnews.com.br/upload/dn_noticia/2019/05/756837314-ufgdface20181026.jpg
 ---

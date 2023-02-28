@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-02 19:52:00
 pub_date: 2019-06-02 19:52:00
 time_added: 2019-06-03 11:01:01
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/tab/8e/2019/06/02/novas-formas-de-pensar-e-divulgar-as-ciencias---festival-path-2019-1559491534611_v2_615x300.jpg
 ---

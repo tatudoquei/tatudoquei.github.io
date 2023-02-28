@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-11 14:00:00
 pub_date: 2020-02-11 14:00:00
 time_added: 2020-02-12 07:54:06
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a6/2020/02/11/10-fev-2020---o-chanceler-argentino-felipe-sola-gravata-amarela-1581443688438_v2_750x421.jpg
 ---

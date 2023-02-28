@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-07 22:16:54
 pub_date: 2021-02-07 22:16:54
 time_added: 2021-02-07 23:16:54
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/bia-kicis.jpg/alternates/LANDSCAPE_768/bia%20kicis.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-17 02:00:00
 pub_date: 2020-04-17 02:00:00
 time_added: 2020-04-18 13:44:10
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2015/03/16/16mar2015---crianca-e-imunizada-contra-a-polio-em-jalalabad-no-afeganistao-nesta-segunda-16-o-pais-realiza-uma-campanha-de-vacinacao-anti-poliomelite-1426509328507_615x300.jpg
 ---

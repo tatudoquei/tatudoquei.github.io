@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-09 20:16:12
 pub_date: 2022-09-09 20:16:12
 time_added: 2022-09-11 10:55:12
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2022/09/joao-canizares-bsb-3-1-1.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-13 18:53:20
 pub_date: 2021-05-13 18:53:20
 time_added: 2021-05-29 21:12:11
-category: 
+categories: []
 tags: []
 image: https://blogs.correiobraziliense.com.br/vicente/wp-content/uploads/sites/16/2020/11/Carlos-Bolsonaro.jpg
 ---

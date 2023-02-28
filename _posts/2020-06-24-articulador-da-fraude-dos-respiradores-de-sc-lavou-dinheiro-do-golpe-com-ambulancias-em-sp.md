@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-24 02:05:00
 pub_date: 2020-06-24 02:05:00
 time_added: 2020-06-24 05:10:22
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/06/Respiradores-redes1.jpg
 ---

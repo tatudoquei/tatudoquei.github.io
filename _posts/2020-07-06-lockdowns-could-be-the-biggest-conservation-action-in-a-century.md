@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-06 17:46:17
 pub_date: 2020-07-06 17:46:17
 time_added: 2020-07-21 03:33:28
-category: 
+categories: []
 tags: []
 image: https://cdn.theatlantic.com/thumbor/T5OAByTPcGM5sDyhWXc3l3rzWqk=/0x43:2000x1085/960x500/filters:format(png)/media/img/mt/2020/07/Atlantic_Roadkill_v2/original.png
 ---

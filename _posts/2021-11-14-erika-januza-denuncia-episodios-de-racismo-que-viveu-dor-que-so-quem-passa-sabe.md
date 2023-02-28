@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-14 13:16:00
 pub_date: 2021-11-14 13:16:00
 time_added: 2021-11-25 01:53:12
-category: 
+categories: []
 tags: []
 image: https://noticiasdatv.uol.com.br/media/uploads/artigos_2021/erika-januza-reproducao-14111.jpg
 ---

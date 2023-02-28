@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-06 05:21:17
 pub_date: 2019-08-06 05:21:17
 time_added: 2019-08-06 07:21:17
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Jair_Bolsonaro.jpg10/ALTERNATES/LANDSCAPE_720/Jair_Bolsonaro.jpg
 ---

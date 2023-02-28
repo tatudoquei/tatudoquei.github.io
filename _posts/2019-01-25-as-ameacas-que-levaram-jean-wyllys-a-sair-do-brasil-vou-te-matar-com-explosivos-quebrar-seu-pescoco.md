@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-25 14:28:00
 pub_date: 2019-01-25 14:28:00
 time_added: 2019-12-23 21:37:44
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23398896-947-228/FT1086A/652/jeanwyllys.jpg
 ---

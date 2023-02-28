@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-28 12:03:46
 pub_date: 2018-12-28 12:03:46
 time_added: 2019-12-23 21:19:31
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2018/12/araujo.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-07 03:10:32
 pub_date: 2021-03-07 03:10:32
 time_added: 2021-03-07 00:10:32
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2021/03/redes-platomanaus.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-19 23:00:00
 pub_date: 2020-03-19 23:00:00
 time_added: 2020-03-25 07:31:47
-category: 
+categories: []
 tags: []
 image: http://www.adufpel.org.br/manager/uploads/noticia/gr_168649145_668139952.JPG
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-12 14:33:37
 pub_date: 2022-12-12 14:33:37
 time_added: 2022-12-18 22:47:53
-category: 
+categories: []
 tags: []
 image: https://i.guim.co.uk/img/media/e0c452b6eca31a3440fe3ced6df28e5b4cfbee75/0_345_5168_3103/master/5168.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d4287b15b636d439a2497c5e68114ebc
 ---

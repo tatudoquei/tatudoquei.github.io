@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-24 08:34:00
 pub_date: 2020-03-24 08:34:00
 time_added: 2020-03-24 17:11:21
-category: 
+categories: []
 tags: []
 image: https://noticiasdatv.uol.com.br/media/_versions/artigos/roberto-justus-miami-instagram-23031_fixed_big.jpg
 ---

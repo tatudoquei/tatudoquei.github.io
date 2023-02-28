@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-16 03:30:00
 pub_date: 2020-02-16 03:30:00
 time_added: 2020-02-16 16:04:47
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24251577-674-86d/FT1086A/652/87013952_PA-EXCLUSIVO-Rio-de-Janeiro-RJ-14-02-2020-Entrevista-com-Eduardo-Viveiros-de-CastroAntro-1.jpg
 ---

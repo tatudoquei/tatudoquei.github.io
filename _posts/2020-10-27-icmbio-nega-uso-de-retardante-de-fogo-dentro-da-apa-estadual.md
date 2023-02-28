@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-27 21:30:37
 pub_date: 2020-10-27 21:30:37
 time_added: 2020-10-27 23:58:15
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2020/10/Oeco_salles-retardante-reproducao-Twitter2.jpg
 ---

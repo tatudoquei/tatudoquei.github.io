@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-24 21:15:57
 pub_date: 2020-03-24 21:15:57
 time_added: 2020-03-25 12:15:52
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/03/20200324_00_capes.jpg
 ---

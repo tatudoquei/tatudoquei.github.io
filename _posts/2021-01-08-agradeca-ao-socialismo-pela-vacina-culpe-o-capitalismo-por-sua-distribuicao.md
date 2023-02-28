@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-08 16:38:34
 pub_date: 2021-01-08 16:38:34
 time_added: 2021-02-07 08:52:30
-category: 
+categories: []
 tags: []
 image: https://jacobin.com.br/wp-content/uploads/2021/01/vaccine-1.jpg
 ---

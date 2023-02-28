@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-16 18:33:00
 pub_date: 2020-05-16 18:33:00
 time_added: 2020-05-03 09:22:08
-category: 
+categories: []
 tags: []
 image: https://1.bp.blogspot.com/-QqivkOpKBLo/Xq2HtlP6eNI/AAAAAAABaA8/xOEUa-9pa-8c4dArpizYH0ePB7TPSlRLwCLcBGAsYHQ/w1200-h630-p-k-no-nu/Rayleigh.png
 ---

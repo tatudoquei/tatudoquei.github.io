@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-27 13:57:29
 pub_date: 2021-10-27 13:57:29
 time_added: 2021-10-27 20:59:39
-category: refletimos
+categories: [refletimos]
 tags: [ciência]
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2021/10/Paulo-Artaxo.png
 ---

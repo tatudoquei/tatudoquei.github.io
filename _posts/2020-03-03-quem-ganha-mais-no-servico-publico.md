@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-03 02:23:32
 pub_date: 2020-03-03 02:23:32
 time_added: 2020-03-03 03:23:32
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2020/02/igualdades-redes.jpg
 ---

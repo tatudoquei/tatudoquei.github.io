@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-30 18:41:40
 pub_date: 2021-01-30 18:41:40
 time_added: 2021-01-30 19:41:40
-category: 
+categories: []
 tags: []
 image: https://odia.ig.com.br/_midias/jpg/2021/01/25/1200x750/1_vacina_oxford_1024x682-21034263.jpg
 ---

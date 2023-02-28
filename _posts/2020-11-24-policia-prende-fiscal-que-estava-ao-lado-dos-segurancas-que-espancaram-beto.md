@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-24 16:50:00
 pub_date: 2020-11-24 16:50:00
 time_added: 2020-11-24 22:29:47
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/12/2020/11/22/gravacao-flagra-14-pessoas-assistindo-imobilizacao-de-cliente-do-carrefour-1606057151178_v2_615x300.jpg
 ---

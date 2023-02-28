@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-19 16:31:16
 pub_date: 2020-07-19 16:31:16
 time_added: 2020-07-19 22:23:45
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/6PAR8ytFENHhSLmAmhOI9-biLZE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/X/2/R6NXCKSrq90AC93nIjfg/cubano19.jpg
 ---

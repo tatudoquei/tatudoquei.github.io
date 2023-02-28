@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-10 00:10:21
 pub_date: 2020-07-10 00:10:21
 time_added: 2020-07-10 04:24:30
-category: avisamos
+categories: [avisamos, bandido bom]
 tags: [meio ambiente]
 image: https://www.oeco.org.br/wp-content/uploads/2020/07/Oeco_Ricardo-Salles_Jefferson-Rudy-Agencia-Senado.jpg
 ---

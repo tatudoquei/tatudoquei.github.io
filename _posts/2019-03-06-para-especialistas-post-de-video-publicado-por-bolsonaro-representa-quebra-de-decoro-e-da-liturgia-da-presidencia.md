@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-06 11:36:00
 pub_date: 2019-03-06 11:36:00
 time_added: 2019-12-23 21:21:00
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23502667-893-4d3/FT1086A/652/81334842_Brazils-President-Jair-Bolsonaro-reacts-during-a-press-statement-near-Venezuelan-oppos-1.jpg
 ---

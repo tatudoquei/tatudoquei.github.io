@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-21 14:22:22
 pub_date: 2022-09-21 14:22:22
 time_added: 2022-10-02 22:43:33
-category: 
+categories: []
 tags: []
 image: https://marcozero.org/wp-content/uploads/2022/09/IMG-20220921-WA0029.jpg
 ---

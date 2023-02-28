@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-12 01:15:38
 pub_date: 2018-12-12 01:15:38
 time_added: 2018-12-11 23:15:38
-category: refletimos
+categories: [refletimos]
 tags: [meio ambiente]
 image: https://www.nexojornal.com.br/incoming/imagens/salles.jpg/ALTERNATES/LANDSCAPE_720/salles.jpg
 ---

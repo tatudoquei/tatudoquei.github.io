@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-22 10:00:00
 pub_date: 2021-04-22 10:00:00
 time_added: 2021-04-22 17:40:45
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2b/2021/04/22/22abr2021---o-presidente-jair-bolsonaro-sem-partido-fala-na-cupula-de-lideres-sobre-o-clima-e-afirma-que-o-brasil-esta-na-vanguarda-em-medidas-de-protecao-ao-meio-ambiente-1619099620751_v2_615x300.png
 ---

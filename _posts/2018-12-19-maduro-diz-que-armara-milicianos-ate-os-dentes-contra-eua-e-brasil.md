@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-19 14:53:50
 pub_date: 2018-12-19 14:53:50
 time_added: 2018-12-31 09:30:34
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://abrilexame.files.wordpress.com/2018/12/2018-11-22t194046z_771801309_rc1d70e3c0a0_rtrmadp_3_italy-budget.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

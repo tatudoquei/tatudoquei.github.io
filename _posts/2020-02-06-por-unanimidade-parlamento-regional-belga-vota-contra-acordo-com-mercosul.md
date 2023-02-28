@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-06 09:47:00
 pub_date: 2020-02-06 09:47:00
 time_added: 2020-02-06 23:13:34
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/10/2019/07/12/imagem-publicada-por-ernesto-araujo-mostra-a-comemoracao-apos-a-conclusao-das-negociacoes-com-a-ue-1562965854884_v2_615x300.jpg
 ---

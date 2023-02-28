@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-26 14:07:41
 pub_date: 2020-02-26 14:07:41
 time_added: 2020-02-28 13:11:22
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2017/09/pod_colunistas_paulo_nussenzveig.jpg
 ---

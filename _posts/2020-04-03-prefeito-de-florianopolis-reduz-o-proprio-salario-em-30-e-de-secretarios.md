@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-03 09:05:00
 pub_date: 2020-04-03 09:05:00
 time_added: 2020-04-08 13:16:57
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/0a/2020/04/03/o-prefeito-de-florianopolis-gean-loureiro-dem-sc-anuncia-reducao-de-salarios-1585922651764_v2_615x300.png
 ---

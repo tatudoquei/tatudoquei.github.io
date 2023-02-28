@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-08 19:28:09
 pub_date: 2018-10-15 01:11:00
 time_added: 2020-09-08 19:28:09
-category: 
+categories: []
 tags: []
 image: https://ehvarzea.files.wordpress.com/2018/09/maxresdefault.jpg
 ---

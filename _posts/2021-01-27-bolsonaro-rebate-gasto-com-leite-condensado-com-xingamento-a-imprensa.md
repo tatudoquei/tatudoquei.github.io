@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-27 16:44:00
 pub_date: 2021-01-27 16:44:00
 time_added: 2021-01-28 13:26:50
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/home/f8/2021/01/26/candidato-a-presidencia-jair-bolsonaro-divulga-imagem-em-sua-rede-social-durante-o-cafe-da-manha-comendo-pao-com-leite-condensado-1611686537117_615x300.jpg
 ---

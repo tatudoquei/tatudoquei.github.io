@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-10 16:12:00
 pub_date: 2019-09-10 16:12:00
 time_added: 2019-09-11 20:56:32
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/09/docri-615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-25 07:30:00
 pub_date: 2021-03-25 07:30:00
 time_added: 2021-03-27 19:03:48
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24940129-c01-4d0/FT1086A/posse-nunes-marques.jpg
 ---

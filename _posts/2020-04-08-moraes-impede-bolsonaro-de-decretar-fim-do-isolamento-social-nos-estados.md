@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-08 21:03:19
 pub_date: 2020-04-08 21:03:19
 time_added: 2020-04-09 06:36:21
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2019/05/antcrz_abr_0908182913-1140x630.jpg
 ---

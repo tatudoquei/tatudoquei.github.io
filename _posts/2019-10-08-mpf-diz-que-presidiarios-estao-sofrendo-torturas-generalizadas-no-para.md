@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-08 14:26:42
 pub_date: 2019-10-08 14:26:42
 time_added: 2019-10-10 01:41:45
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2019/10/mulheres-torturadas.png
 ---

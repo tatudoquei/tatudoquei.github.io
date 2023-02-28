@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-02-16 11:00:00
 pub_date: 2022-02-16 11:00:00
 time_added: 2023-01-21 10:19:24
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25211987-c5e-6a9/FT1086A/760/83381142_PA-26-06-2019-O-segundo-sargento-da-Aeronautica-Manoel-Silva-Rodrigues-foi-preso-pela-polic-2.jpg
 ---

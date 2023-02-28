@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-23 03:00:00
 pub_date: 2021-12-23 03:00:00
 time_added: 2021-12-24 20:39:20
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f9/2021/05/06/06052021---policiais-carregam-baleado-durante-operacao-contra-o-trafico-na-comunidade-do-jacarezinho-no-rio-deixa-dezenas-de-mortos-1620324152506_v2_615x300.jpg
 ---

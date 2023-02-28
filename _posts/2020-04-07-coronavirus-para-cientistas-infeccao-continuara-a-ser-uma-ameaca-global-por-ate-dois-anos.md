@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-07 02:30:00
 pub_date: 2020-04-07 02:30:00
 time_added: 2020-04-07 11:34:00
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24355413-4d2-a8b/FT1086A/652/wuhan.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-10 05:35:00
 pub_date: 2020-04-10 05:35:00
 time_added: 2020-04-10 18:57:46
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/dc/2020/03/26/mascara-n95-usada-por-bolsonaro-e-uma-das-mais-avancadas-mas-nao-protege-os-olhos-1585224806801_v2_615x300.jpg
 ---

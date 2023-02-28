@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-08 17:47:00
 pub_date: 2019-06-08 17:47:00
 time_added: 2019-06-28 07:08:11
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c2/2019/03/12/12032019---policia-civil-do-rj-encontrou-117-fuzis-do-tipo-m-16-na-casa-de-amigo-de-suspeito-de-matar-marielle-1552434214946_v2_615x300.jpg
 ---

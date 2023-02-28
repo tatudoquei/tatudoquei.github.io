@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-30 22:49:29
 pub_date: 2019-05-30 22:49:29
 time_added: 2019-06-01 11:05:28
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/05/ministro-das-relaccca7occ83es-exteriores-ernesto-rodriguesfoto-jose-cruzagencia-brasil2.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

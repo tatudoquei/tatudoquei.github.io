@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-05 15:00:00
 pub_date: 2021-11-05 15:00:00
 time_added: 2021-11-12 06:35:06
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/11/facebook-irma-do-ministro-do-meio-ambiente-e-socia-da-glock-que-vende-armas-para-o-governo-federal.png
 ---

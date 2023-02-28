@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-14 12:27:26
 pub_date: 2023-01-14 12:27:26
 time_added: 2023-01-14 13:27:26
-category: 
+categories: []
 tags: []
 image: https://cdn2.opendemocracy.net/media/images/2M7C6BX.2e16d0ba.fill-1200x630.jpg
 ---

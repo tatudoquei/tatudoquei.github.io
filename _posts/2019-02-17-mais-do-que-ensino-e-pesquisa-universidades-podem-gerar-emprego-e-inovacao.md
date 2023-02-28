@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-17 23:00:00
 pub_date: 2019-02-17 23:00:00
 time_added: 2019-02-20 08:45:07
-category: 
+categories: []
 tags: []
 image: http://agencia.fapesp.br/agencia-novo/imagens/noticia/29827.jpg
 ---

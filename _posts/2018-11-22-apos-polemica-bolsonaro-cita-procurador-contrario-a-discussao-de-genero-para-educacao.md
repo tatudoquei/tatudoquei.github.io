@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-11-22 07:57:00
 pub_date: 2018-11-22 07:57:00
 time_added: 2019-12-23 21:15:15
-category: recuadas
+categories: [recuadas]
 tags: [educação]
 image: http://conteudo.imguol.com.br/c/noticias/7c/2018/11/19/16nov2018---o-presidente-eleito-jair-bolsonaro-psl-em-entrevista-coletiva-no-primeiro-distrito-naval-do-rio-de-janeiro-1542659747509_956x500.jpg
 ---

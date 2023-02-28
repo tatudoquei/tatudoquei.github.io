@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-15 15:59:37
 pub_date: 2022-10-15 15:59:37
 time_added: 2023-01-14 13:53:03
-category: 
+categories: []
 tags: []
 image: https://jacobin.com.br/wp-content/uploads/2022/10/jesus_carlos-2.jpeg
 ---

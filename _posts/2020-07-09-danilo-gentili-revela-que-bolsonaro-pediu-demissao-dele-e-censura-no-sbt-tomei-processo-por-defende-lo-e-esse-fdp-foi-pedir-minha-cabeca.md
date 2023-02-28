@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-09 12:53:00
 pub_date: 2020-07-09 12:53:00
 time_added: 2020-07-09 18:01:22
-category: 
+categories: []
 tags: []
 image: https://rollingstone.uol.com.br/media/_versions/legacy/2014/img-1026037-horario-eleitoral-comico_widelg.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-08 21:06:56
 pub_date: 2023-01-08 21:06:56
 time_added: 2023-01-14 14:24:19
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2023/01/08175802/valmir-fortuna.jpg
 ---

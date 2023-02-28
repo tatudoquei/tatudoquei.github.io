@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-01 22:41:33
 pub_date: 2021-01-01 22:41:33
 time_added: 2021-01-01 23:41:33
-category: 
+categories: []
 tags: [saúde]
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2020/12/172_chegada_redes.jpg
 ---

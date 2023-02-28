@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-12 02:12:00
 pub_date: 2020-04-12 02:12:00
 time_added: 2020-04-12 11:39:32
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a0/2020/04/05/o-prefeito-de-manausarthur-virgilio-neto-1586137431506_v2_615x300.png
 ---

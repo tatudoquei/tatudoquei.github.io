@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-17 14:18:20
 pub_date: 2019-09-17 14:18:20
 time_added: 2019-09-23 06:30:52
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2019/09/garimpeirosibama.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-11 10:53:00
 pub_date: 2023-01-11 10:53:00
 time_added: 2023-01-14 09:03:46
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/oeco.org.br/wp-content/uploads/2022/09/galvan.png?fit=2667%2C1778&ssl=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-29 15:05:53
 pub_date: 2021-05-29 15:05:53
 time_added: 2021-05-30 09:47:27
-category: 
+categories: []
 tags: []
 image: https://jacobin.com.br/wp-content/uploads/2021/05/manif_floud_lisboa_lusa.jpeg
 ---

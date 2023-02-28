@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-08 12:29:19
 pub_date: 2021-11-08 12:29:19
 time_added: 2021-11-13 12:35:40
-category: avisamos
+categories: [avisamos]
 tags: [ciência]
 image: https://imagens.brasil.elpais.com/resizer/xloUv5egbnOURw_eD2IiBzE4RRo=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/I34GKKY3VZFVPDSO3DJKMJ32T4.jpg
 ---

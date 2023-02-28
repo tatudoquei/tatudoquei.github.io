@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-08 11:17:25
 pub_date: 2020-04-08 11:17:25
 time_added: 2020-04-08 13:17:25
-category: 
+categories: []
 tags: []
 image: http://revistaquestaodeciencia.com.br/sites/default/files/styles/facebook/public/2020-04/CLOROQ_CAOS_SQUARE.jpg?itok=aBtHosMM
 ---

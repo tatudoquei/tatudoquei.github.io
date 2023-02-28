@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-17 14:12:00
 pub_date: 2020-04-17 14:12:00
 time_added: 2020-04-18 04:31:58
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/brasil/24378939-76d-e5e/FT1086A/652/87663443_Rio-de-Janeiro-State-Senator-Flavio-Bolsonaro-listens-as-his-father-Brazils-President-Jair.jpg
 ---

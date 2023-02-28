@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-28 15:48:00
 pub_date: 2022-12-28 15:48:00
 time_added: 2022-12-31 12:21:56
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/7d/2022/03/30/pf-pede-mais-prazo-para-apurar-fala-de-bolsonaro-sobre-vacina-da-covid-e-aids-1648674670954_v2_615x300.jpg
 ---

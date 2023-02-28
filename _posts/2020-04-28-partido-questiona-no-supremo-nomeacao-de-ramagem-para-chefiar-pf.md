@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-28 22:53:00
 pub_date: 2020-04-28 22:53:00
 time_added: 2020-04-29 12:14:42
-category: 
+categories: []
 tags: []
 image: https://s.conjur.com.br/img/a/og.png
 ---

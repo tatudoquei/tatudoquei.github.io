@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-15 07:34:00
 pub_date: 2021-09-15 07:34:00
 time_added: 2021-09-26 05:23:39
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2021/09/ricardo-barros-redes.jpg
 ---

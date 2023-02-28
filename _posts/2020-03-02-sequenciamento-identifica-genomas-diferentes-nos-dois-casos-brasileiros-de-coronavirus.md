@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-02 21:00:16
 pub_date: 2020-03-02 21:00:16
 time_added: 2020-03-03 01:04:15
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/03/20200302_00_genoma_genetica_dna_coronavirus.jpg
 ---

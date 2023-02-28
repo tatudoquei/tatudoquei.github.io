@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-31 17:20:00
 pub_date: 2019-05-31 17:20:00
 time_added: 2019-06-01 23:24:12
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/o6tkvbctWlJyhmQAPS-R4iSMOfo=/506x320/i.glbimg.com/og/ig/infoglobo1/f/original/2019/05/31/edilasio-barra.jpg
 ---

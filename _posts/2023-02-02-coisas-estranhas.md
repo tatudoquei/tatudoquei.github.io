@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-02 13:48:39
 pub_date: 2023-02-02 13:48:39
 time_added: 2023-02-03 21:12:52
-category: 
+categories: []
 tags: []
 image: https://www.ocafezinho.com/wp-content/uploads/2023/02/imagem-8.jpg
 ---

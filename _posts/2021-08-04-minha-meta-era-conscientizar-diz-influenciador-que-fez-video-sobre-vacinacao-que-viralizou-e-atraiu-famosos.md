@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-04 15:06:00
 pub_date: 2021-08-04 15:06:00
 time_added: 2021-08-20 21:13:26
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25140236-0a4-8d7/FT1086A/glo_mare.jpg
 ---

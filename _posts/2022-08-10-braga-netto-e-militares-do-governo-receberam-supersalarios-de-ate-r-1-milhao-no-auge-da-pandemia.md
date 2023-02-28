@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-08-10 22:00:00
 pub_date: 2022-08-10 22:00:00
 time_added: 2022-09-11 10:46:08
-category: 
+categories: []
 tags: []
 image: https://www.estadao.com.br/resizer/F7M-N4P2zsRnAf_-pK8jUqyH0WI=/1200x630/filters:format(jpg):quality(80):focal(-5x-5:5x5)/cloudfront-us-east-1.images.arcpublishing.com/estadao/7K7LRDZJWNPOHPII3CZ5Q7XNRM.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-06 16:14:40
 pub_date: 2021-04-06 16:14:40
 time_added: 2021-05-16 17:33:47
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/04/ibgpe.jpeg
 ---

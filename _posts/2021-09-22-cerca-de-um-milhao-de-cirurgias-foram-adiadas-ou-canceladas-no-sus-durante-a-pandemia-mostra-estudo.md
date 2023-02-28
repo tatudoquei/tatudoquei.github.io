@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-22 19:00:31
 pub_date: 2021-09-22 19:00:31
 time_added: 2021-10-17 14:33:08
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://i0.wp.com/jornal.usp.br/wp-content/uploads/2021/05/20210503_00_hrac_cirurgia_medicina_fob_usp2.jpg?fit=1200%2C630&ssl=1
 ---

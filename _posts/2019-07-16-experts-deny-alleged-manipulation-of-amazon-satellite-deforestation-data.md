@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-16 15:22:36
 pub_date: 2019-07-16 15:22:36
 time_added: 2019-07-21 08:39:30
-category: 
+categories: []
 tags: []
 image: https://imgs.mongabay.com/wp-content/uploads/sites/20/2019/07/12181644/BANNER-image-2sa-768x454.jpg
 ---

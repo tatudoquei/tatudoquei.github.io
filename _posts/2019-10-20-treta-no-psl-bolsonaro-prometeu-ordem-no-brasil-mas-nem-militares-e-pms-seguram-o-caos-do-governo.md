@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-20 08:57:00
 pub_date: 2019-10-20 08:57:00
 time_added: 2019-10-20 12:17:19
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/10/waldir-redes-1571758324.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-10 18:11:59
 pub_date: 2021-01-10 18:11:59
 time_added: 2021-02-07 06:42:53
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/01/Oeco_Pico_do_Papagaio-um-dos-principais-pontos-do-parque-estadual-mineiro_Foto-IEF-Divulgacao.jpg
 ---

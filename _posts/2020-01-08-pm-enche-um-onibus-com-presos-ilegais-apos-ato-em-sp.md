@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-08 02:24:02
 pub_date: 2020-01-08 02:24:02
 time_added: 2020-01-08 21:07:15
-category: 
+categories: []
 tags: []
 image: https://ponte.org/wp-content/uploads/2020/01/MPL_2020_arroyo-6.jpg
 ---

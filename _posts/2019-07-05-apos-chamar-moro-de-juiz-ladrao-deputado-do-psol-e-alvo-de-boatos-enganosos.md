@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-05 03:36:27
 pub_date: 2019-07-05 03:36:27
 time_added: 2019-07-07 08:14:30
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/estadao-verifica/wp-content/uploads/sites/690/2019/07/1490825647298.jpg
 ---

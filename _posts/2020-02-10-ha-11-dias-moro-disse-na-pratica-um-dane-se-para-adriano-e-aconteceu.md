@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-10 07:58:00
 pub_date: 2020-02-10 07:58:00
 time_added: 2020-02-10 22:05:57
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/28/2020/02/10/sergio-moro-em-close-1581335853264_v2_615x300.jpg
 ---

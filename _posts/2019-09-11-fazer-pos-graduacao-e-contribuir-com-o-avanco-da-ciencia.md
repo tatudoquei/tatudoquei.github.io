@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-11 12:59:55
 pub_date: 2019-09-11 12:59:55
 time_added: 2019-09-17 16:16:23
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/colunista_paulo_nussenzveig_800px.jpg
 ---

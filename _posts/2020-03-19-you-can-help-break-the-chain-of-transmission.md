@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-19 09:00:16
 pub_date: 2020-03-19 09:00:16
 time_added: 2020-03-21 17:46:40
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/03/19/science/virus-tree-1584568099045/virus-tree-1584568099045-facebookJumbo.png
 ---

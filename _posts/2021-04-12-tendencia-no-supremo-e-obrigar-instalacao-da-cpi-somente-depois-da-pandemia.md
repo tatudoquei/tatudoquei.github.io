@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-12 00:22:32
 pub_date: 2021-04-12 00:22:32
 time_added: 2021-04-12 18:41:39
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2021/02/bancoimagemfotoaudiencia-ap-460618_230220213639.jpg
 ---

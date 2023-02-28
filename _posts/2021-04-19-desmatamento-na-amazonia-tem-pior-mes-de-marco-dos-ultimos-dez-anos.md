@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-19 15:25:00
 pub_date: 2021-04-19 15:25:00
 time_added: 2021-05-16 20:43:36
-category: 
+categories: []
 tags: [meio ambiente]
 image: https://ogimg.infoglobo.com.br/economia/24978113-3e9-601/FT1086A/desmatamento.jpg
 ---

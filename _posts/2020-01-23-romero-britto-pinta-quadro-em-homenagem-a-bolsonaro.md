@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-23 03:23:27
 pub_date: 2020-01-23 03:23:27
 time_added: 2020-01-25 11:30:50
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/01/romero-britto-1-1200x630.jpg
 ---

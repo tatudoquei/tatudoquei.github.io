@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-03 21:15:32
 pub_date: 2021-07-03 21:15:32
 time_added: 2021-07-03 23:15:32
-category: 
+categories: []
 tags: []
 image: https://www.socioambiental.org/sites/blog.socioambiental.org/files/styles/twitter-card/public/nsa/richard_wera_mirim.jpeg?itok=TFftECgc
 ---

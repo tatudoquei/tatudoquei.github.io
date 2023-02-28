@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-17 09:26:00
 pub_date: 2019-09-17 09:26:00
 time_added: 2019-09-18 18:56:23
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23925946-34e-6e5/FT1086A/652/84311359_FILE-PHOTO-Brazilian-Federal-Deputy-Eduardo-Bolsonaro-is-seen-after-a-meeting-between-B-1.jpg
 ---

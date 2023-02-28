@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-01 12:00:00
 pub_date: 2019-06-01 12:00:00
 time_added: 2019-06-04 06:16:07
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/06/extremismo-redes-1559500005.jpg
 ---

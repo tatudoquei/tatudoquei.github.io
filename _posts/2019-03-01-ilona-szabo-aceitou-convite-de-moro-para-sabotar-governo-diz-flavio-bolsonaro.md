@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-01 07:54:27
 pub_date: 2019-03-01 07:54:27
 time_added: 2019-03-04 12:42:03
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://static.poder360.com.br/2019/03/flavio-bolsonaro-888x630.png
 ---

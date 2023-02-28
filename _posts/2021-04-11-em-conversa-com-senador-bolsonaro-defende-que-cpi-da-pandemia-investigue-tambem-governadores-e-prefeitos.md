@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-11 18:43:00
 pub_date: 2021-04-11 18:43:00
 time_added: 2021-05-16 18:23:08
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24963845-e58-ef7/FT1086A/x88734614_FILES-In-this-file-photo-taken-on-March-18-2020-Brazilian-President-Jair-Bolsonaro-gestures.jpg.pagespeed.ic.ALdlnpUXbP.jpg
 ---

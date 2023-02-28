@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-21 11:13:00
 pub_date: 2020-10-21 11:13:00
 time_added: 2020-11-27 12:36:43
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24704359-009-275/FT1086A/652/90046791_PA-Brasilia-BSB-14-10-2020-Presidente-Jair-Bolsonaro-participa-da-solenidade-de-Lancamento.jpg
 ---

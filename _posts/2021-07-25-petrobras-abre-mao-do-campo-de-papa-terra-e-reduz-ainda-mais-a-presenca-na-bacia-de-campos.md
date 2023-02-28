@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-25 20:01:11
 pub_date: 2021-07-25 20:01:11
 time_added: 2021-07-25 17:01:11
-category: 
+categories: []
 tags: []
 image: https://fup.org.br/media/k2/items/cache/f3148489585bb79a733ccf32b2b548b3_S.jpg?t=20210719_203530
 ---

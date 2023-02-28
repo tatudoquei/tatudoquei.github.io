@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-31 17:26:01
 pub_date: 2021-05-31 17:26:01
 time_added: 2021-06-01 06:47:54
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2021/05/Bolsonaro-motoqueiros.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

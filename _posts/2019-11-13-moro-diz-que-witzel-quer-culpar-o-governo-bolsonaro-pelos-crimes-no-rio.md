@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-13 17:00:00
 pub_date: 2019-11-13 17:00:00
 time_added: 2019-11-14 06:43:31
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/3a/2019/10/24/o-ministro-da-justica-sergio-moro-participa-do-evento-realizado-pela-revista-the-economist-no-rooftop-033-no-bairro-no-itaim-em-sao-paulo-na-manha-desta-quinta--feira-24-1571944482552_v2_615x300.jpg
 ---

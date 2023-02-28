@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-16 12:31:03
 pub_date: 2021-05-16 12:31:03
 time_added: 2021-05-16 14:31:03
-category: 
+categories: []
 tags: []
 image: https://terradedireitos.org.br/uploads/posts/f8dc7493f9c2d98d52135e254df72e3c.jpg
 ---

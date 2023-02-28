@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-06 03:29:10
 pub_date: 2019-01-06 03:29:10
 time_added: 2019-01-08 21:19:04
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://statics.estadao.com.br/s2016/br18/br18.png
 ---

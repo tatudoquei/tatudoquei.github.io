@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-06 09:25:00
 pub_date: 2020-01-06 09:25:00
 time_added: 2020-01-07 08:57:14
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/138/files/2017/11/cool-brazil.jpg
 ---

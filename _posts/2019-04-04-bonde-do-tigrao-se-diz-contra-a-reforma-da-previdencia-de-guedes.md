@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-04 19:05:51
 pub_date: 2019-04-04 19:05:51
 time_added: 2019-04-06 00:18:16
-category: 
+categories: []
 tags: []
 image: https://odia.ig.com.br/_midias/jpg/2019/04/04/700x470/1_whatsapp_image_2019_04_04_at_19_21_39__1_-10529069.jpeg
 ---

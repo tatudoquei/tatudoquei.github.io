@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-28 18:33:37
 pub_date: 2021-09-28 18:33:37
 time_added: 2021-10-17 14:37:19
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/17E96/production/_120724979__120714508_nuvem_de_poeira_reproducao_twitter.jpg
 ---

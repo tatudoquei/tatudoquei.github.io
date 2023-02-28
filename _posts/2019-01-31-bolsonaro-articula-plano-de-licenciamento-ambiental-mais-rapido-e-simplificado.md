@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-31 23:00:00
 pub_date: 2019-01-31 23:00:00
 time_added: 2019-02-01 22:48:48
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://media.metrolatam.com/2019/01/31/bolsonaro-72c58ec8804d90fb8a80f3b3c257f7aa-1200x800.jpg
 ---

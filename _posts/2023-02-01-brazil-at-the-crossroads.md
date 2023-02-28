@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-01 21:57:30
 pub_date: 2023-02-01 21:57:30
 time_added: 2023-02-27 22:32:06
-category: 
+categories: []
 tags: []
 image: https://www.nybooks.com/wp-content/uploads/2023/01/barbara_1-022323-900.jpg
 ---

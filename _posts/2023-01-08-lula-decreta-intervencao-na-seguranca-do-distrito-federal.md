@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-08 21:43:48
 pub_date: 2023-01-08 21:43:48
 time_added: 2023-01-10 23:51:27
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/palacio-do-planalto-policia/alternates/LANDSCAPE_768/palacio%20do%20planalto%20policia%20
 ---

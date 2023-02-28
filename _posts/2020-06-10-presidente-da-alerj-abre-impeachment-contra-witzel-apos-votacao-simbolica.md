@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-10 14:28:00
 pub_date: 2020-06-10 14:28:00
 time_added: 2020-06-11 11:08:15
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/58/2020/05/21/19mai2020---o-governador-do-rio-de-janeiro-wilson-witzel-psc-rj-na-apresentacao-do-novo-secretario-de-saude-fernando-ferri-1590091161627_v2_615x300.jpg
 ---

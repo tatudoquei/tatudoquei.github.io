@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-18 23:18:26
 pub_date: 2021-01-18 23:18:26
 time_added: 2021-01-19 16:45:50
-category: 
+categories: []
 tags: []
 image: https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2021/01/BolsonaroPazuello180121-1.png
 ---

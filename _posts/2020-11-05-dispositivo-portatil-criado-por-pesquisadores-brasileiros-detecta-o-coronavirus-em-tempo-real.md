@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-05 19:00:18
 pub_date: 2020-11-05 19:00:18
 time_added: 2020-11-14 23:38:21
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/11/20201104_aparelhocapa.jpg
 ---

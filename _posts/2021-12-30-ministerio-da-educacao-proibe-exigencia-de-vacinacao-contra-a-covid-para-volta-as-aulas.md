@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-30 18:01:20
 pub_date: 2021-12-30 18:01:20
 time_added: 2022-01-08 12:22:26
-category: 
+categories: []
 tags: []
 image: https://www.cartacapital.com.br/wp-content/uploads/2020/12/MR.jpg
 ---

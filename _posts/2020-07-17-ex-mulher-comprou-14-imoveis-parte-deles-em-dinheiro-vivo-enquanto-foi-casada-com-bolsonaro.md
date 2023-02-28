@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-17 05:45:00
 pub_date: 2020-07-17 05:45:00
 time_added: 2020-07-17 20:45:32
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/epoca/24536401-ecf-851/FT1086A/652/73368613_PA-Rio-de-Janeiro-RJ-28-11-2017-Ex-mulher-de-Jair-Bolsonaro-Ana-Cri.jpg
 ---

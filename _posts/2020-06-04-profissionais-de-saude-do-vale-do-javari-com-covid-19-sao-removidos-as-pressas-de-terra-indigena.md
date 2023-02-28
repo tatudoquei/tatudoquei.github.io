@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-04 22:41:58
 pub_date: 2020-06-04 22:41:58
 time_added: 2020-06-06 22:46:31
-category: 
+categories: []
 tags: []
 image: https://amazoniareal.com.br/wp-content/uploads/2020/03/pIMG_7944.jpg
 ---

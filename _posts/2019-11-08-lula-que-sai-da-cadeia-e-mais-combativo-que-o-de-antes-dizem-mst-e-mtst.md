@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-08 18:35:00
 pub_date: 2019-11-08 18:35:00
 time_added: 2019-11-09 09:53:23
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/11/lula-1-615x300.jpg
 ---

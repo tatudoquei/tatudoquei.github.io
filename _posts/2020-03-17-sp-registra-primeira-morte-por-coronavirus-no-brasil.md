@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-17 09:40:00
 pub_date: 2020-03-17 09:40:00
 time_added: 2020-03-17 14:17:27
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/7f/2020/03/13/pessoa-usando-mascara-de-protecao-devido-o-coronavirus-em-sao-paulo-sp-1584150982936_v2_615x300.jpg
 ---

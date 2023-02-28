@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-31 09:46:00
 pub_date: 2020-05-31 09:46:00
 time_added: 2020-05-31 15:56:39
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2a/2020/05/31/manifestantes-anti-bolsonaro-abordados-pela-pm-em-copacabana-1590935570056_v2_615x300.png
 ---

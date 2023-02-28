@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-01 16:21:53
 pub_date: 2021-10-01 16:21:53
 time_added: 2021-10-17 14:31:32
-category: 
+categories: []
 tags: []
 image: https://cdn.revistaforum.com.br/wp-content/uploads/2021/09/contaratro.jpg
 ---

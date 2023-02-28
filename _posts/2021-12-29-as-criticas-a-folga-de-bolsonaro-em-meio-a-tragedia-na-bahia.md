@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-29 22:26:49
 pub_date: 2021-12-29 22:26:49
 time_added: 2021-12-30 10:22:46
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/durma_211229-social.jpg/alternates/LANDSCAPE_768/durma_211229-social.jpg
 ---

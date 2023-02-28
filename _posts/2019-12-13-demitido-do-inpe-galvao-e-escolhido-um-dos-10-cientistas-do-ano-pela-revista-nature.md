@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-13 15:09:57
 pub_date: 2019-12-13 15:09:57
 time_added: 2019-12-14 11:23:24
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2019/08/4GALVAO300.jpg
 ---

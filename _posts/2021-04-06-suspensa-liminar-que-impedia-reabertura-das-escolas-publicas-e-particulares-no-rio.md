@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-06 09:39:00
 pub_date: 2021-04-06 09:39:00
 time_added: 2021-05-16 17:33:21
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24957428-607-985/FT1086A/volta-as-aulas-rio-escola.jpeg.jpg
 ---

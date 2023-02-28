@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-09 08:28:50
 pub_date: 2020-06-09 08:28:50
 time_added: 2020-06-09 10:28:50
-category: 
+categories: []
 tags: []
 image: https://almapreta.com/images/2020/06/deputadas_negras2.jpg
 ---

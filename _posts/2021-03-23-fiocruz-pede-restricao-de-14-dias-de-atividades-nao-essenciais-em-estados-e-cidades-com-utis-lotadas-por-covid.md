@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-23 22:59:29
 pub_date: 2021-03-23 22:59:29
 time_added: 2021-03-27 18:55:58
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/Rr4MZ1i0qfD-U3I83ToiPmKu9XQ=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/t/g/5RYF1zTEy9h59gqC33mw/capa-boletim-fiocruz.jpg
 ---

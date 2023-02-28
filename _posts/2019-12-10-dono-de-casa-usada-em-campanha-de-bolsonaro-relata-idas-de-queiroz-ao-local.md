@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-10 15:49:00
 pub_date: 2019-12-10 15:49:00
 time_added: 2019-12-10 22:52:55
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c9/2019/08/29/retrato-de-paulo-marinho-que-esteve-diretamente-envolvido-na-campanha-presidencial-que-elegeu-jair-bolsonaro-1567104158988_v2_750x421.jpg
 ---

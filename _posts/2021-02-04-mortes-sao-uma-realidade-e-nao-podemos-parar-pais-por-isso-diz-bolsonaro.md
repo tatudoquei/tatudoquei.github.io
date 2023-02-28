@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-04 12:53:00
 pub_date: 2021-02-04 12:53:00
 time_added: 2021-02-06 12:14:23
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/65/2021/02/04/bolsonaro-prometeu-3-decretos-sobre-armas-para-semana-que-vem-1612452066160_v2_615x300.jpg
 ---

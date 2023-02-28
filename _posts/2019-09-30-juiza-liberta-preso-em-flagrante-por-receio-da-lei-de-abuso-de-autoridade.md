@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-30 12:19:00
 pub_date: 2019-09-30 12:19:00
 time_added: 2019-10-03 07:39:12
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e3/2019/09/30/maos-algemadas-1569863735228_v2_615x300.jpg
 ---

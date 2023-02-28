@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-07 04:24:13
 pub_date: 2019-06-07 04:24:13
 time_added: 2019-06-07 20:34:44
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/02/brasil-rio-tiroteio-20190208-001.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

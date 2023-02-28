@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-15 02:11:25
 pub_date: 2021-03-15 02:11:25
 time_added: 2021-03-21 09:21:50
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/04/poder-em-foco-ludhmilla-1024x630.jpg
 ---

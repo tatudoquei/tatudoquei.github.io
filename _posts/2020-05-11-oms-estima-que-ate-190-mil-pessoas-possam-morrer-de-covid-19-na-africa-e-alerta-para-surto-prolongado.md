@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-11 17:50:19
 pub_date: 2020-05-11 17:50:19
 time_added: 2020-05-11 19:50:19
-category: 
+categories: []
 tags: []
 image: https://almapreta.com/images/2020/05/coronavirus-africa-unicef-frank_dejongh.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-03 04:49:19
 pub_date: 2022-10-03 04:49:19
 time_added: 2022-10-03 00:49:19
-category: 
+categories: []
 tags: []
 image: https://s03.video.glbimg.com/x720/10982466.jpg
 ---

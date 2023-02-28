@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-26 18:06:38
 pub_date: 2020-05-26 18:06:38
 time_added: 2020-05-28 18:31:34
-category: 
+categories: []
 tags: []
 image: https://odia.ig.com.br/_midias/jpg/2020/05/26/operacaonaresidenciaoficialdewitzel025-17362528.jpg
 ---

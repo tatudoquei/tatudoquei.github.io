@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-19 22:12:00
 pub_date: 2019-11-19 22:12:00
 time_added: 2019-11-20 21:57:34
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2019/11/bolsonaro.jpg
 ---

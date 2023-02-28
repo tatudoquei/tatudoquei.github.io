@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-04 19:13:16
 pub_date: 2021-06-04 19:13:16
 time_added: 2021-06-05 15:09:13
-category: 
+categories: []
 tags: []
 image: https://coalizaonegrapordireitos.org.br/wp-content/uploads/2021/06/WhatsApp-Image-2021-06-04-at-15.51.30-1024x1024.jpeg
 ---

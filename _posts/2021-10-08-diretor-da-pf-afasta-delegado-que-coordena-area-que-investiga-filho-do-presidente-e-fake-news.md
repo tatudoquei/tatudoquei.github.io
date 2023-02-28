@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-08 15:07:25
 pub_date: 2021-10-08 15:07:25
 time_added: 2021-10-17 14:56:01
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2021/04/whatsappimage20210406at192347_060420213636.jpeg
 ---

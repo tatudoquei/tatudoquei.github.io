@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-13 16:11:00
 pub_date: 2023-01-13 16:11:00
 time_added: 2023-01-14 14:42:19
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a7/2023/01/13/replica-da-constituicao-federal-volta-ao-stf-1673640492283_v2_615x300.jpg
 ---

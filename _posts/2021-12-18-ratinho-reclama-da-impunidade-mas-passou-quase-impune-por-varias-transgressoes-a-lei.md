@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-18 09:00:00
 pub_date: 2021-12-18 09:00:00
 time_added: 2021-12-19 17:57:32
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2021/12/ratinho-bolsonaro-redes.jpg
 ---

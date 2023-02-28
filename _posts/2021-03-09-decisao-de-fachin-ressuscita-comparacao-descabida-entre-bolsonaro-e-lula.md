@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-09 10:15:00
 pub_date: 2021-03-09 10:15:00
 time_added: 2021-03-10 08:04:20
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/de/2019/11/19/lula-e-bolsonaro-reproducao-1574188339655_v2_615x300.jpg
 ---

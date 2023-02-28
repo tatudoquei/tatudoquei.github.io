@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-08 02:00:00
 pub_date: 2022-10-08 02:00:00
 time_added: 2022-10-16 11:52:14
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c0/2022/10/07/26abr2019---o-agente-jorge-chastalo-filho-conduz-o-ex-presidente-lula-a-entrevista-na-sede-da-policia-federal-em-curitiba-pr-onde-o-petista-estava-preso-1665176803952_v2_615x300.jpg
 ---

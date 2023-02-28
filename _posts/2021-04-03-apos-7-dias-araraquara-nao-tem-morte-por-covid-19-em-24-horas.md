@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-03 16:09:40
 pub_date: 2021-04-03 16:09:40
 time_added: 2021-04-04 21:03:52
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/Pda3UwYoQke53y8RVsoPve1Op_k=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/E/F/X9T6yeTiqLArDgTVOJRQ/drone3.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-19 23:51:50
 pub_date: 2021-06-19 23:51:50
 time_added: 2021-06-19 21:39:42
-category: 
+categories: []
 tags: []
 image: https://i.cbc.ca/1.6072614.1624124445!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/brazil-protests.JPG
 ---

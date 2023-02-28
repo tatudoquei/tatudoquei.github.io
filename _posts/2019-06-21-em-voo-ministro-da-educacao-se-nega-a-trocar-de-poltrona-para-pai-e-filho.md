@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-21 14:00:00
 pub_date: 2019-06-21 14:00:00
 time_added: 2019-06-25 05:15:39
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/AQCkp4MbNgQmTos8vDmbFDXlShQ=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/06/21/weitraub.jpg
 ---

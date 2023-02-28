@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-22 15:47:22
 pub_date: 2021-04-22 15:47:22
 time_added: 2021-04-22 17:47:22
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Alicia-Kowaltowski2/alternates/LANDSCAPE_768/Alicia%20Kowaltowski
 ---

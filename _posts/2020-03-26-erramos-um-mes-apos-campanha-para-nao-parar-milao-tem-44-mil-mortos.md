@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-26 22:52:00
 pub_date: 2020-03-26 22:52:00
 time_added: 2020-03-27 12:39:25
-category: 
+categories: []
 tags: []
 image: https://imgsapp2.correiobraziliense.com.br/app/noticia_127983242361/2020/03/26/840540/20200326201415743579a.jpg
 ---

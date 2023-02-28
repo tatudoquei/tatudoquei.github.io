@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-27 08:03:00
 pub_date: 2020-11-27 08:03:00
 time_added: 2020-11-27 13:31:24
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c2/2020/06/26/clt-carteira-de-trabalho-coronavirus-emprego-1593194855519_v2_615x300.jpg
 ---

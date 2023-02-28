@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-20 18:38:06
 pub_date: 2019-11-20 18:38:06
 time_added: 2019-11-20 21:49:15
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2018/10/o-ditador-chileno-augusto-pinochet.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

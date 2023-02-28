@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-04 05:23:16
 pub_date: 2020-06-04 05:23:16
 time_added: 2020-06-18 04:10:30
-category: 
+categories: []
 tags: []
 image: https://fotos.perfil.com/2020/06/04/trim/1140/641/china-argentina-966509.jpg
 ---

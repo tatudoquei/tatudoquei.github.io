@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-18 19:43:29
 pub_date: 2023-01-18 19:43:29
 time_added: 2023-01-21 04:06:57
-category: 
+categories: []
 tags: []
 image: https://oeco.org.br/wp-content/uploads/2023/01/Galvao.jpg
 ---

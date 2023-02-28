@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-18 23:37:44
 pub_date: 2021-03-18 23:37:44
 time_added: 2021-03-19 00:37:44
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2021/03/20210316_Marcelo_Queiroga.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-30 20:31:53
 pub_date: 2020-09-30 20:31:53
 time_added: 2020-09-30 22:29:44
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2020/09/mma_mcmgoabr_091019152-Marcelo-CamargoAgencia-Brasi.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-18 20:47:01
 pub_date: 2021-05-18 20:47:01
 time_added: 2021-05-30 21:22:57
-category: 
+categories: []
 tags: [meio ambiente]
 image: https://www.oeco.org.br/wp-content/uploads/2021/05/verde-brasil.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-28 06:01:19
 pub_date: 2022-12-28 06:01:19
 time_added: 2023-01-06 23:19:45
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/oeco.org.br/wp-content/uploads/2022/12/MArina.jpg?fit=1920%2C1452&ssl=1
 ---

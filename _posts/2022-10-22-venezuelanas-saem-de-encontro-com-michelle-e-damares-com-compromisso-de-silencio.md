@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-22 16:14:51
 pub_date: 2022-10-22 16:14:51
 time_added: 2022-10-22 18:14:51
-category: 
+categories: []
 tags: []
 image: https://www.canalmeio.com.br/wp-content/themes/meio/img_cover.php?id=Venezuelanas+saem+de+encontro+com+Michelle+e+Damares+com+%E2%80%9Ccompromisso+de+sil%C3%AAncio%E2%80%9D
 ---

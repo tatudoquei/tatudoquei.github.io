@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-26 20:23:04
 pub_date: 2019-08-26 20:23:04
 time_added: 2019-08-27 06:29:02
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2019/08/montagem-maia-kin-kataguiri.png
 ---

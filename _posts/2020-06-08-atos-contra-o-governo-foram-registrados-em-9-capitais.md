@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-08 01:29:32
 pub_date: 2020-06-08 01:29:32
 time_added: 2020-06-08 12:40:01
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/06/manifestacao-principal-1200x630.jpg
 ---

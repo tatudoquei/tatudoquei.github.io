@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-25 10:45:00
 pub_date: 2020-03-25 10:45:00
 time_added: 2020-03-25 19:22:11
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24306699-82d-6e8/FT1086A/652/78161701_Senador-Ronaldo-Caiado-DEM-GO-concede-entrevista.Foto-Jefferson-Rudy-Agencia-Senado.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-15 23:22:00
 pub_date: 2023-01-15 23:22:00
 time_added: 2023-01-21 10:20:30
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/dd/2023/01/10/ex-comandante-da-pm-do-df-fabio-augusto-vieira-1673388456647_v2_615x300.jpg
 ---

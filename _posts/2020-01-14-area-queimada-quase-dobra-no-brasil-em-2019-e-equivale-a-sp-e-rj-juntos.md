@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-14 03:00:00
 pub_date: 2020-01-14 03:00:00
 time_added: 2020-01-18 12:15:08
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b8/2019/09/12/queimadas-assolam-regiao-do-pantanal-no-mato-grosso-do-sul-1568303804028_v2_750x421.jpg
 ---

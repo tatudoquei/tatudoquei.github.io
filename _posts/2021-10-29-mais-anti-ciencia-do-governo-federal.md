@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-29 18:32:48
 pub_date: 2021-10-29 18:32:48
 time_added: 2021-11-02 21:27:05
-category: avisamos
+categories: [avisamos]
 tags: [ciência]
 ---
 

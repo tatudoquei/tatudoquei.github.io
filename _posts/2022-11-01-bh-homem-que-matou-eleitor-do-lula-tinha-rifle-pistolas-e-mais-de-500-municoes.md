@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-01 13:22:18
 pub_date: 2022-11-01 13:22:18
 time_added: 2022-11-04 07:43:25
-category: 
+categories: []
 tags: []
 image: https://www.otempo.com.br/image/contentid/policy:1.2758942:1667177588/Nova-Cintra-jpeg.jpeg?f=3x2&q=0.6&w=1200&$p$f$q$w=9c89b53
 ---

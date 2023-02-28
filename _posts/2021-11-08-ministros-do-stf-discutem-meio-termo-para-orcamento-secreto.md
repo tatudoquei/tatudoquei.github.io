@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-08 15:31:24
 pub_date: 2021-11-08 15:31:24
 time_added: 2021-11-13 12:35:27
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2021/10/12142959/Sede-do-STF.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-05 18:07:02
 pub_date: 2020-11-05 18:07:02
 time_added: 2020-11-05 19:07:02
-category: 
+categories: []
 tags: []
 image: https://cdn.obastidor.com.br/storage/17/conversions/XsDo6kADdNlEJ8UBjGrEGGC5Zwnw6EqEGltnmAwF-admin.jpg
 ---

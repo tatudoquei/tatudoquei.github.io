@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-24 21:31:42
 pub_date: 2021-01-24 21:31:42
 time_added: 2021-02-07 06:58:01
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/01/Salles-e-Bolsonaro-Agencia-Brasil.jpeg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-17 02:00:00
 pub_date: 2021-10-17 02:00:00
 time_added: 2021-11-25 02:29:36
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ae/2019/04/10/10abr2019---presidente-jair-bolsonaro-durante-reuniao-com-onyx-lorenzoni-ministro-da-casa-civil-joao-amoedo-presidente-do-novo-e-o-deputado-marcel-van-hattem-lider-do-novo-na-camara-1554928387204_v2_615x300.jpg
 ---

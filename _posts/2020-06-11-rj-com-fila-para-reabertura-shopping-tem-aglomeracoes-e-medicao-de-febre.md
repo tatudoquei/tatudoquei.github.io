@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-11 12:29:00
 pub_date: 2020-06-11 12:29:00
 time_added: 2020-06-12 19:16:33
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e8/2020/06/11/11jun2020---aglomeracao-no-norteshopping-1591895793686_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-27 12:33:59
 pub_date: 2019-03-27 12:33:59
 time_added: 2021-06-13 20:55:11
-category: avisamos
+categories: [avisamos]
 tags: [meio ambiente]
 image: http://www.diretodaciencia.com/wp-content/uploads/2019/03/mcmgo_abr_170120192717df.jpg
 ---

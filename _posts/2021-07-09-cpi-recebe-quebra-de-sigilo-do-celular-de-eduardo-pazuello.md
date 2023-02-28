@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-09 16:47:04
 pub_date: 2021-07-09 16:47:04
 time_added: 2021-07-25 16:52:57
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2021/07/EDUARDO-PAZUELLO-CPI-2021_01.jpg.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

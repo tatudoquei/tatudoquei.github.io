@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-26 14:44:00
 pub_date: 2019-09-26 14:44:00
 time_added: 2019-10-03 07:27:03
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c6/2019/09/26/weintraub-ao-lado-do-presidente-do-semesp-1569517636984_v2_615x300.jpg
 ---

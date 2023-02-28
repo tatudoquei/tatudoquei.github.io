@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-09 05:01:50
 pub_date: 2019-12-09 05:01:50
 time_added: 2019-12-09 23:34:28
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/TNWPOSeZA1mFXzNhm4gWLVWAf5A=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2019/01/21/oxfam.jpg
 ---

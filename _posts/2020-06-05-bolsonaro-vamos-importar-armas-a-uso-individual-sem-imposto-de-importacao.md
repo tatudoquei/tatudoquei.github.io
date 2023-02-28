@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-05 15:42:29
 pub_date: 2020-06-05 15:42:29
 time_added: 2020-06-06 16:38:45
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/06/Bolsonaro-AguasLindas-Hospital-Queda-Tropeco-Coronavirus-18-1200x630.jpg
 ---

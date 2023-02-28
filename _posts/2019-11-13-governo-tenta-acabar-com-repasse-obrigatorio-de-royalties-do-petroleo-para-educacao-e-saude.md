@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-13 11:00:00
 pub_date: 2019-11-13 11:00:00
 time_added: 2019-11-17 22:31:39
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24069226-9b5-613/FT1086A/652/x83903343_Brazils-President-Jair-Bolsonaro-reacts-during-a-review-and-modernization-ceremony-of-occu.jpg.pagespeed.ic.P-nuo18gIR.jpg
 ---

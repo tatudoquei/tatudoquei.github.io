@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-07 12:33:00
 pub_date: 2022-09-07 12:33:00
 time_added: 2022-09-11 10:47:13
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/33/2022/09/07/7set2022---apoiador-com-cartaz-golpista-acompanha-chegada-do-presidente-jair-bolsonaro-pl-ao-aterro-do-flamengo-rj-1662571314048_v2_615x300.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-17 15:00:34
 pub_date: 2020-05-17 15:00:34
 time_added: 2020-05-29 12:13:36
-category: 
+categories: []
 tags: []
 image: https://abrilsaude.files.wordpress.com/2020/05/saude-mental-pandemia-thumb.png
 ---

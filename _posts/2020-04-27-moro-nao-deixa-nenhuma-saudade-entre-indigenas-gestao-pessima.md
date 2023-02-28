@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-27 15:05:00
 pub_date: 2020-04-27 15:05:00
 time_added: 2020-04-27 22:18:02
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/54/2019/12/11/moro-e-presenteado-com-obra-feita-com-cartuchos-de-balas-1576081709559_v2_615x300.jpg
 ---

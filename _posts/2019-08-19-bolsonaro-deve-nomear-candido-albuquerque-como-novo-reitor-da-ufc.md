@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-19 20:44:49
 pub_date: 2019-08-19 20:44:49
 time_added: 2019-08-19 22:20:55
-category: 
+categories: []
 tags: []
 image: http://blogs.opovo.com.br/politica/wp-content/uploads/sites/62/2019/05/Candido.jpg
 ---

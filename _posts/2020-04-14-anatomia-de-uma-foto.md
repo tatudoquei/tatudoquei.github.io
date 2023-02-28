@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-14 10:32:27
 pub_date: 2020-04-14 10:32:27
 time_added: 2020-04-14 12:32:27
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2020/03/163_questoesdegenero_redes.jpg
 ---

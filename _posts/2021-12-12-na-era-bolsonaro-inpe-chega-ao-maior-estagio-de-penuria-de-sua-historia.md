@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-12 11:00:14
 pub_date: 2021-12-12 11:00:14
 time_added: 2021-12-13 14:51:25
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2021/12/ABRE-INPE-2019-02.jpeg.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

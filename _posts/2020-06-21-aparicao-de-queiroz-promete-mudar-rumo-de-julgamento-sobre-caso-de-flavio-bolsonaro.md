@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-21 14:02:00
 pub_date: 2020-06-21 14:02:00
 time_added: 2020-06-22 19:12:18
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/2Vb9XwyuqhiUXjKfrFDJwAG_xqU=/640x424/top/i.glbimg.com/og/ig/infoglobo1/f/original/2019/01/23/76771968_ri_rio_de_janeiro_rj_15-05-2018_-_entrevista_com_o_deputado_estadual_flavio_bolsonaro..jpg
 ---

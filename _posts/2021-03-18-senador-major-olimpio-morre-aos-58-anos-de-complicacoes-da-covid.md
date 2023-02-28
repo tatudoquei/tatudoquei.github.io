@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-18 19:22:42
 pub_date: 2021-03-18 19:22:42
 time_added: 2021-03-21 09:27:25
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/03/Major-Olimpio-1080x630.jpg
 ---

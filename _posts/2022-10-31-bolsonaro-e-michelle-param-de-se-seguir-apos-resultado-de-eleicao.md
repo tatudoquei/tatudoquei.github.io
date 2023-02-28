@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-31 12:18:23
 pub_date: 2022-10-31 12:18:23
 time_added: 2022-10-31 15:19:14
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2022/03/000_324P84Z.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

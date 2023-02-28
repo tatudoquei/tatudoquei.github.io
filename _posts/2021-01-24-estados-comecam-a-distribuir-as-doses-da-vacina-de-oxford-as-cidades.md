@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-24 18:08:00
 pub_date: 2021-01-24 18:08:00
 time_added: 2021-01-25 21:35:40
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/0d/2021/01/24/24jan2021---frascos-da-da-vacina-da-oxfordastrazeneca-recebidas-pelo-governo-do-rio-grande-do-sul-1611499341040_v2_750x421.jpg
 ---

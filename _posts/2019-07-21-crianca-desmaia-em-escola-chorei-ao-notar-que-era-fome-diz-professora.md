@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-21 07:49:23
 pub_date: 2017-11-16 23:00:00
 time_added: 2019-07-21 07:49:23
-category: 
+categories: []
 tags: []
 image: http://f.i.uol.com.br/folha/cotidiano/images/1732193.jpeg
 ---

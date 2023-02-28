@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-07 14:49:00
 pub_date: 2020-04-07 14:49:00
 time_added: 2020-04-08 05:09:53
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/f5/2020/03/27/redacao-da-cnn-brasil-1585331224283_v2_615x300.jpg
 ---

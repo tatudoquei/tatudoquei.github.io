@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-30 20:14:00
 pub_date: 2022-10-30 20:14:00
 time_added: 2022-10-31 00:24:07
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/0c/2021/12/21/16dez21---os-ministros-do-stf-kassio-nunes-marques-e-andre-mendonca-indicados-pelo-presidente-jair-bolsonaro-1640105808365_v2_615x300.jpg
 ---

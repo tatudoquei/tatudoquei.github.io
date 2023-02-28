@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-16 20:41:40
 pub_date: 2021-03-16 20:41:40
 time_added: 2021-03-16 21:41:40
-category: 
+categories: []
 tags: []
 image: https://www.socioambiental.org/sites/blog.socioambiental.org/files/styles/twitter-card/public/nsa/ti_massaco_sobrep_rebio_guapore_1.png?itok=SWk_or7h
 ---

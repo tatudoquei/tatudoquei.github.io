@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-28 19:43:00
 pub_date: 2021-05-28 19:43:00
 time_added: 2021-05-29 20:41:56
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/3f/2021/05/28/jair-bolsonaro-1622212708793_v2_615x300.jpg
 ---

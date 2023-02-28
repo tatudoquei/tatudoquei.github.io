@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-05 21:07:34
 pub_date: 2019-12-05 21:07:34
 time_added: 2019-12-08 20:57:10
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2018/01/guzzo-1-e1516205775437.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-25 19:50:40
 pub_date: 2019-07-25 19:50:40
 time_added: 2020-02-09 12:18:46
-category: 
+categories: []
 tags: []
 image: https://abrilvejasp.files.wordpress.com/2019/07/thiago-nigro.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

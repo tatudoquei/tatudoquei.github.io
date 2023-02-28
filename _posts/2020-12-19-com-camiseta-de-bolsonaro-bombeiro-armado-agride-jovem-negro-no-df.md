@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-19 19:41:00
 pub_date: 2020-12-19 19:41:00
 time_added: 2020-12-19 22:11:10
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d0/2020/12/19/19dez2020---armado-o-sargento-dos-bombeiros-guilherme-marques-agride-o-programador-jair-aksin-reis-1608404430003_v2_615x300.png
 ---

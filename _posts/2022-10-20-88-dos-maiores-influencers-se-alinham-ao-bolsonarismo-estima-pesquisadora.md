@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-20 02:00:00
 pub_date: 2022-10-20 02:00:00
 time_added: 2022-10-22 17:55:22
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/b9/2022/10/02/bolsonarista-nikolas-ferreira-e-o-deputado-federal-mais-votado-em-mg-1664757009354_v2_615x300.jpg
 ---

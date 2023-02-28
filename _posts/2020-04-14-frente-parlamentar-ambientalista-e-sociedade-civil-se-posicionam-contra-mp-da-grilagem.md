@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-14 02:49:26
 pub_date: 2020-04-14 02:49:26
 time_added: 2020-04-15 06:44:15
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2020/04/imagem_materia.jpg
 ---

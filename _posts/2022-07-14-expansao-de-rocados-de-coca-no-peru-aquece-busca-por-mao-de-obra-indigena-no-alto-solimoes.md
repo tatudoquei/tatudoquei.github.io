@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-07-14 15:00:00
 pub_date: 2022-07-14 15:00:00
 time_added: 2023-01-14 14:40:33
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2022/07/capa-facebook-expansao-de-rocados-peruanos-de-coca-aquece-busca-por-mao-de-obra-indigena-no-solimoes.png
 ---

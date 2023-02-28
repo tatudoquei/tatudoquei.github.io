@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-12 05:20:00
 pub_date: 2021-12-12 05:20:00
 time_added: 2021-12-13 14:51:35
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/-9w8x5Bue_Q1HzvAnHbh7fSNZKg=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2021/12/03/bolsonaro-mendonca.jpg
 ---

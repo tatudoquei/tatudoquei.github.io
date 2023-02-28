@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-22 12:30:36
 pub_date: 2017-10-04 16:44:58
 time_added: 2020-04-22 12:30:36
-category: 
+categories: []
 tags: []
 image: https://s3-sa-east-1.amazonaws.com/apublica-files-main/wp-content/uploads/2017/10/04142515/Ruas-com-nomes-de-torturadores-no-Brasil.png
 ---

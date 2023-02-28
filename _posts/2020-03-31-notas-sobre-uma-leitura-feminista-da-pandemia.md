@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-31 15:50:01
 pub_date: 2020-03-31 15:50:01
 time_added: 2020-03-31 18:57:46
-category: 
+categories: []
 tags: []
 image: https://diplomatique.org.br/wp-content/uploads/2020/03/img_5729.jpg
 ---

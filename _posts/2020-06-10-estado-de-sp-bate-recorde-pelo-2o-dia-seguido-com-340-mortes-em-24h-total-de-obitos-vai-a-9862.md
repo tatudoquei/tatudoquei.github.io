@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-10 16:25:02
 pub_date: 2020-06-10 16:25:02
 time_added: 2020-06-11 11:12:58
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/1QQZQL3YomeP1wkCmAnRDLhOWzw=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/M/D/Sva6S9RAa6cGzEfr2Reg/coletiva-10-de-junho.png
 ---

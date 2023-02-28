@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-16 13:47:16
 pub_date: 2019-05-16 13:47:16
 time_added: 2019-05-17 23:15:04
-category: 
+categories: []
 tags: []
 image: http://www.brasilwire.com/wp-content/uploads/2019/05/paulistaeducationarma-400x400.jpg
 ---

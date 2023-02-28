@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-29 17:37:54
 pub_date: 2019-05-29 17:37:54
 time_added: 2019-05-29 19:37:54
-category: 
+categories: []
 tags: []
 image: http://conteudo.imguol.com.br/c/noticias/af/2017/02/01/27jan2017---deputado-arthur-maia-pps-ba-em-entrevista-ao-uol-1485976764329_615x300.jpg
 ---

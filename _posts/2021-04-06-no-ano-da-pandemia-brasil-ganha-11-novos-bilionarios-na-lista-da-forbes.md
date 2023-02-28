@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-06 17:12:30
 pub_date: 2021-04-06 17:12:30
 time_added: 2021-04-06 22:59:54
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/0Q_WatkRiEc3IjEgm5hZUnyzVNc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2020/l/u/Ko59SGS4Wh4D6xv9FUSQ/guilherme-benchimol.jpg
 ---

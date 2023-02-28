@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-13 18:32:24
 pub_date: 2023-02-13 18:32:24
 time_added: 2023-02-14 06:43:58
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2023/02/Capa_Facebook_O-presentinho-do-general-Villas-Boas-para-Bolsonaro-o-diploma-do-Exercito.png
 ---

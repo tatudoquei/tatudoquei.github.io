@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-29 18:50:59
 pub_date: 2019-01-29 18:50:59
 time_added: 2019-01-31 23:34:23
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2019/01/tv-ines.png
 ---

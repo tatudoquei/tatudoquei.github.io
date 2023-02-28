@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-27 19:26:44
 pub_date: 2019-05-27 19:26:44
 time_added: 2019-05-29 19:39:02
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/05/20190527_00_diario_moacir_ponti_icmc_destaque.jpg
 ---

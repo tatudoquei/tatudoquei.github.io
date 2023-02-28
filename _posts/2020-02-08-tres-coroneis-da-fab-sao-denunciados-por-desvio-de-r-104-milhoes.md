@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-08 17:17:17
 pub_date: 2020-02-08 17:17:17
 time_added: 2020-03-02 20:49:41
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2019/01/27754362372_cce8cac4c5_k-e1548171373717.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

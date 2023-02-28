@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-27 01:48:41
 pub_date: 2020-04-27 01:48:41
 time_added: 2020-04-27 12:40:29
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/04/Bolsonaro-rebate-globo-1200x630.jpg
 ---

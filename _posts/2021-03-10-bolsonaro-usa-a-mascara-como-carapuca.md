@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-10 18:13:00
 pub_date: 2021-03-10 18:13:00
 time_added: 2021-03-21 09:12:38
-category: 
+categories: []
 tags: []
 image: https://i.glbimg.com/og/ig/infoglobo1/f/original/blog/image_share/vera-magalhaes.png
 ---

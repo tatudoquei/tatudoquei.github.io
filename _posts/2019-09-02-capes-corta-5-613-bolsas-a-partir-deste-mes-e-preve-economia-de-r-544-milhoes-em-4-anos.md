@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-02 18:38:08
 pub_date: 2019-09-02 18:38:08
 time_added: 2019-09-02 22:21:09
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/Zq6ShhsWiW9dCMzERKnNuFBHeiQ=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2019/05/09/capes.jpg
 ---

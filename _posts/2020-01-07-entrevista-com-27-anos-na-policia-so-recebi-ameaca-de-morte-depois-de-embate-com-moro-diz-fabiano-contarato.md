@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-07 04:11:00
 pub_date: 2020-01-07 04:11:00
 time_added: 2020-01-07 13:38:26
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/01/06-01-2020-CONTARATO-redes-1578359340.jpg
 ---

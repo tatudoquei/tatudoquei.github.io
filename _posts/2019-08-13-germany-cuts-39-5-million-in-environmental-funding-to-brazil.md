@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-13 19:12:47
 pub_date: 2019-08-13 19:12:47
 time_added: 2019-08-14 22:41:52
-category: 
+categories: []
 tags: []
 image: https://imgs.mongabay.com/wp-content/uploads/sites/20/2019/08/13142142/brazil_amazonas_-3.673969-64.068050-768x512.jpg
 ---

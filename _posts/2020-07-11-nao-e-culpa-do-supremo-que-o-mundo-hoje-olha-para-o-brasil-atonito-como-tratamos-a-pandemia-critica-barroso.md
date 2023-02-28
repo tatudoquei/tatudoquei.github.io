@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-11 04:45:00
 pub_date: 2020-07-11 04:45:00
 time_added: 2020-07-12 12:37:48
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24527201-160-80f/FT1086A/652/xbarroso.jpg.pagespeed.ic.Y-tUwZ3luZ.jpg
 ---

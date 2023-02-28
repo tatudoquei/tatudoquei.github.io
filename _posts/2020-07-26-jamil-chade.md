@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-26 14:38:00
 pub_date: 2020-07-26 14:38:00
 time_added: 2020-07-26 20:23:06
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/12/2020/07/19/jair-bolsonaro-presidente-da-republica-segura-uma-caixa-de-cloroquina-nesta-domingo-19-no-palacio-da-alvorada-1595198891451_v2_615x300.jpg
 ---

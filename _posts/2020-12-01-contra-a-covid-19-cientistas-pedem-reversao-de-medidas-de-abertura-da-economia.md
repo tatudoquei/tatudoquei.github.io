@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-01 02:30:00
 pub_date: 2020-12-01 02:30:00
 time_added: 2020-12-02 08:19:31
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24774678-005-803/FT1086A/652/90524599_RI-Rio-de-Janeiro-RJ-16-11-2020Aumento-de-casos-e-mortes-de-Covid-19-no-Rio-Praia-de-Ipa.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-25 22:58:39
 pub_date: 2021-06-25 22:58:39
 time_added: 2021-07-04 12:32:13
-category: 
+categories: []
 tags: []
 image: https://cdn.revistaforum.com.br/wp-content/uploads/2021/06/zambellijovempan.jpg
 ---

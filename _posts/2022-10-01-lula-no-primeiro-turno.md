@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-01 21:26:23
 pub_date: 2022-10-01 21:26:23
 time_added: 2022-10-03 00:55:18
-category: 
+categories: []
 tags: []
 image: https://jacobin.com.br/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-01-at-15.46.13.jpeg
 ---

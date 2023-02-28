@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-05 01:01:11
 pub_date: 2021-04-05 01:01:11
 time_added: 2021-05-16 17:00:04
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/04/roberto-jefferson-kit-anti-satanas-1080x630.jpg
 ---

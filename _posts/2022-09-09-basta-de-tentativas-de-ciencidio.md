@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-09 17:30:42
 pub_date: 2022-09-09 17:30:42
 time_added: 2022-09-11 11:25:45
-category: resistimos
+categories: [resistimos]
 tags: [ciência]
 image: https://i0.wp.com/jornal.usp.br/wp-content/uploads/2022/09/20220909_pro-reitores.jpg?fit=1200%2C630&ssl=1
 ---

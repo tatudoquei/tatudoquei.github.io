@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-04 21:00:27
 pub_date: 2020-04-04 21:00:27
 time_added: 2020-04-05 18:40:28
-category: 
+categories: []
 tags: []
 image: https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2020/04/osmarterraCLEIAVIANACAMARA.jpg
 ---

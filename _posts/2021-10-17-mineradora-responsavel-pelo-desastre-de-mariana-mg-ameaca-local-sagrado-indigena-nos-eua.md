@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-17 17:33:32
 pub_date: 2021-10-17 17:33:32
 time_added: 2021-10-17 14:33:32
-category: 
+categories: []
 tags: []
 image: https://www.socioambiental.org/sites/blog.socioambiental.org/files/styles/twitter-card/public/nsa/russ_mcspadden_-_center_for_biological_diversity.jpg?itok=zNshKv7n
 ---

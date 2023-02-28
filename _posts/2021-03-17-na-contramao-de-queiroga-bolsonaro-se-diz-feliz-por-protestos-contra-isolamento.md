@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-17 19:46:00
 pub_date: 2021-03-17 19:46:00
 time_added: 2021-03-21 09:27:00
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d9/2021/03/17/jair-bolsonaro-na-vi-reuniao-extraordinaria-de-presidentes-do-prosul-1615979523217_v2_615x300.jpg
 ---

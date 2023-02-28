@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-28 03:31:00
 pub_date: 2021-04-28 03:31:00
 time_added: 2021-05-23 07:57:36
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2021/04/redes-lobbypatentes.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-30 16:55:27
 pub_date: 2020-03-30 16:55:27
 time_added: 2020-03-30 18:55:27
-category: 
+categories: []
 tags: []
 image: https://www.socioambiental.org/sites/blog.socioambiental.org/files/styles/twitter-card/public/nsa/foto_guilherme.jpeg?itok=3oaefWcu
 ---

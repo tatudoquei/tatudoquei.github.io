@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-08 22:42:57
 pub_date: 2021-03-08 22:42:57
 time_added: 2021-03-08 23:42:57
-category: 
+categories: []
 tags: []
 image: https://braziljournal.s3.amazonaws.com/covers/a99c06f6-a176-3a2a-f347-0fbd618efa96.jpg?v=1615152544
 ---

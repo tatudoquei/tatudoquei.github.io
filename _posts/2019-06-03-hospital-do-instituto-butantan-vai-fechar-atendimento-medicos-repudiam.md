@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-03 12:20:00
 pub_date: 2019-06-03 12:20:00
 time_added: 2019-06-04 20:28:06
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/25/2019/05/29/hospital-vital-brazil-e-referencia-em-sao-paulo-1559160167606_v2_615x300.jpg
 ---

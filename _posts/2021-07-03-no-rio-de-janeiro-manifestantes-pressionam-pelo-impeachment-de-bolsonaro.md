@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-03 20:10:41
 pub_date: 2021-07-03 20:10:41
 time_added: 2021-07-03 23:15:28
-category: 
+categories: []
 tags: []
 image: https://almapreta.com/images/2021/07/atoriodejaneiro2.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-23 21:54:49
 pub_date: 2020-04-23 21:54:49
 time_added: 2020-04-24 03:33:47
-category: recuadas
+categories: [recuadas]
 tags: []
 image: https://s2.glbimg.com/tw-hF7_Je8k7kMZ1e1ZNwBFSERk=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/4/a/WBGiZqQyS81UqJF8bsVQ/foto25pol-121-politico-a8.jpg
 ---

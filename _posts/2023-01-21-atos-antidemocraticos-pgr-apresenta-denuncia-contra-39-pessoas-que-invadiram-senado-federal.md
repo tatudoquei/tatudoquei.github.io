@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-21 13:12:30
 pub_date: 2023-01-21 13:12:30
 time_added: 2023-01-21 10:12:30
-category: 
+categories: []
 tags: []
 image: https://www.mpf.mp.br/pgr/noticias-pgr/atos-antidemocraticos-pgr-apresenta-denuncia-contra-39-pessoas-que-invadiram-senado-federal/@@images/184c71c3-8086-4f0f-9782-20cc7fd39c3c.png
 ---

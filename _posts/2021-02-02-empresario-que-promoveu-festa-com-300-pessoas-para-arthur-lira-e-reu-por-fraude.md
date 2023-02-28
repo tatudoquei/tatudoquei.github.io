@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-02 08:15:30
 pub_date: 2021-02-02 08:15:30
 time_added: 2021-02-04 07:12:38
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2021/02/arthurlira_020220210914.jpg
 ---

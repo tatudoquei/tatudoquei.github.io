@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-06 02:00:00
 pub_date: 2019-08-06 02:00:00
 time_added: 2019-08-07 05:56:06
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/84/2018/09/26/alvaro-dias-podemos-diz-que-em-seu-governo-as-maes-brasileiras-serao-tratadas-com-carinho-e-investimento-1537998915272_615x300.jpg
 ---

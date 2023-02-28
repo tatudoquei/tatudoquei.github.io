@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-29 22:27:50
 pub_date: 2020-04-29 22:27:50
 time_added: 2020-05-01 18:00:12
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2018/01/roberto-jefferson-580x387.jpg
 ---

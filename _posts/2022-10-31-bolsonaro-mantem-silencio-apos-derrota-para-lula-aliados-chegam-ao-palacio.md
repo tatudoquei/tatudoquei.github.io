@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-31 07:04:00
 pub_date: 2022-10-31 07:04:00
 time_added: 2022-10-31 13:23:20
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/41/2022/10/05/jair-bolsonaro-acompanha-fala-do-governador-reeleito-do-df-ibaneis-rocha-mdb-no-palacio-da-alvorada-1664999227355_v2_615x300.jpg
 ---

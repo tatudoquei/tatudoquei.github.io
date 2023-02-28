@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-25 05:38:31
 pub_date: 2020-03-25 05:38:31
 time_added: 2020-03-25 06:38:31
-category: 
+categories: []
 tags: []
 image: https://saidapeladireita.blogfolha.uol.com.br/files/2020/03/bolsonaro-1.jpg
 ---

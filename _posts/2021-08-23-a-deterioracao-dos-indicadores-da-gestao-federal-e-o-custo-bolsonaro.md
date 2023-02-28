@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-23 04:13:16
 pub_date: 2021-08-23 04:13:16
 time_added: 2021-09-06 08:27:58
-category: 
+categories: []
 tags: []
 image: https://climainfo.org.br/wp-content/uploads/2021/08/Custo-Bolsonaro.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-26 07:00:00
 pub_date: 2020-12-26 07:00:00
 time_added: 2020-12-26 15:35:53
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/78/2020/10/21/carcaca-de-jacare-em-meio-a-um-rio-seco-no-pantanal-de-mato-grosso-bioma-ja-teve-mais-de-4-milhoes-de-hectares-devastados-pelo-fogo-so-neste-ano-1603317809416_v2_615x300.jpg
 ---

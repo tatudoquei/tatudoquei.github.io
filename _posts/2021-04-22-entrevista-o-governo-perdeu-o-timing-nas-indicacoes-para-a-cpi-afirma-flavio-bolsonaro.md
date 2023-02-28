@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-22 02:30:00
 pub_date: 2021-04-22 02:30:00
 time_added: 2021-05-16 20:47:04
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24967670-511-b11/FT1086A/fflavio.jpg
 ---

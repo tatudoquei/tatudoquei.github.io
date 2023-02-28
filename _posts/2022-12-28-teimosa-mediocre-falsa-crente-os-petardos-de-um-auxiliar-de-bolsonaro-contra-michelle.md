@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-28 05:00:25
 pub_date: 2022-12-28 05:00:25
 time_added: 2022-12-28 11:46:17
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2022/08/02132258/Foto-bolsonaro-e-michelle-bolsonaro-3.jpg
 ---

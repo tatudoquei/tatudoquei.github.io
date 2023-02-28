@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-03 18:44:00
 pub_date: 2020-06-03 18:44:00
 time_added: 2020-06-04 05:09:14
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ca/2020/05/31/20052020---ala-voltada-para-pacientes-com-coronavirus-em-unidade-de-terapia-intensiva-uti-no-hospital-gilberto-novaes-em-manaus-am-1590951663488_v2_615x300.jpg
 ---

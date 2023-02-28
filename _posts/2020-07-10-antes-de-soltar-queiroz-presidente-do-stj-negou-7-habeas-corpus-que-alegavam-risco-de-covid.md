@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-10 13:29:00
 pub_date: 2020-07-10 13:29:00
 time_added: 2020-07-11 05:50:54
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24526094-121-e80/FT1086A/652/joao_otavio_noronha.jpg
 ---

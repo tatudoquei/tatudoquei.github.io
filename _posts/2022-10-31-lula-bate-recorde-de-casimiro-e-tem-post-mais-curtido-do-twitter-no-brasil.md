@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-31 10:45:00
 pub_date: 2022-10-31 10:45:00
 time_added: 2022-10-31 15:17:18
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d7/2022/10/31/foto-compartilhada-por-lula-vira-post-mais-curtido-da-historia-do-twitter-no-brasil-1667227462046_v2_615x300.jpg
 ---

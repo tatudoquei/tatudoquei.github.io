@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-19 08:13:00
 pub_date: 2021-05-19 08:13:00
 time_added: 2021-05-19 15:40:35
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/16/2021/04/23/instrucao-normativa-assinada-no-inicio-do-mes-por-salles-e-tenebrosa-diz-ex-presidente-do-ibama-1619174931530_v2_615x300.jpg
 ---

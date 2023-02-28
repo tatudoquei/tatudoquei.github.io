@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-17 20:38:10
 pub_date: 2020-04-17 20:38:10
 time_added: 2020-04-18 13:44:44
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2020/04/214.jpg
 ---

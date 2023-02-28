@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-11 22:22:50
 pub_date: 2021-06-11 22:22:50
 time_added: 2021-06-13 21:15:51
-category: 
+categories: []
 tags: []
 image: https://cdn.revistaforum.com.br/wp-content/uploads/2021/06/jair-bolsonaro-foto-alan-santos-pr.jpg
 ---

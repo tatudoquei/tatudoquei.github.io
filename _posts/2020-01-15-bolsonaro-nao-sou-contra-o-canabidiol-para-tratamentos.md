@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-15 23:00:00
 pub_date: 2020-01-15 23:00:00
 time_added: 2020-01-18 22:38:22
-category: 
+categories: []
 tags: []
 image: https://pleno.news/wp-content/uploads/2020/01/bacbf72dd6661096e8952ac7028ccc9a_457715.png
 ---

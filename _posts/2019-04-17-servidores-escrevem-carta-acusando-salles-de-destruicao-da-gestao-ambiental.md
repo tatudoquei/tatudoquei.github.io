@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-17 03:43:48
 pub_date: 2019-04-17 03:43:48
 time_added: 2019-04-20 07:00:10
-category: 
+categories: []
 tags: []
 image: https://sustentabilidade.estadao.com.br/blogs/ambiente-se/wp-content/uploads/sites/92/2019/04/Ricardo-Salles.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-31 12:25:08
 pub_date: 2018-12-31 12:25:08
 time_added: 2019-01-01 10:40:25
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2018/12/bolsonaro-onyx-2-1-868x644-868x630.jpeg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-14 16:47:12
 pub_date: 2020-04-14 16:47:12
 time_added: 2020-04-17 19:10:04
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2020/03/WhatsApp-Image-2020-03-27-at-18.26.16-1143x630.jpeg
 ---

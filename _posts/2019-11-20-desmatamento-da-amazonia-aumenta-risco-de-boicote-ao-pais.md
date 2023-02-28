@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-20 03:30:00
 pub_date: 2019-11-20 03:30:00
 time_added: 2019-11-20 22:38:27
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24089638-d18-c51/FT1086A/652/teresa.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-19 18:28:00
 pub_date: 2019-03-19 18:28:00
 time_added: 2019-03-20 13:19:31
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2015/02/23/23fev2015---enfermeira-aplica-vacina-contra-o-sarampo-em-um-adulto-em-berlim-alemanha-segundo-informacoes-das-autoridades-locais-uma-crianca-morreu-de-sarampo-na-capital-alema-o-pais-enfrenta-o-maior-1424725306621_750x421.jpg
 ---

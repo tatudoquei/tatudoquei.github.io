@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-21 17:43:40
 pub_date: 2021-12-21 17:43:40
 time_added: 2021-12-24 20:34:15
-category: 
+categories: []
 tags: []
 image: https://almapreta.com/images/2021/12/Conflitos_no_Campo.jpg
 ---

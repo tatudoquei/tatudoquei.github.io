@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-06 19:36:57
 pub_date: 2019-11-06 19:36:57
 time_added: 2019-11-11 22:24:22
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2019/11/manguezal.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-02 01:02:00
 pub_date: 2019-04-02 01:02:00
 time_added: 2019-04-02 20:51:37
-category: 
+categories: []
 tags: []
 image: https://theintercept.imgix.net/wp-uploads/sites/1/2019/04/13375643-high-1554147962.jpeg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800
 ---

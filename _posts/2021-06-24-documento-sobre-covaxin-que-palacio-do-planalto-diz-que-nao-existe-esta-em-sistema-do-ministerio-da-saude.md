@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-24 20:14:00
 pub_date: 2021-06-24 20:14:00
 time_added: 2021-07-25 16:46:07
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24857634-bf9-bb5/FT1086A/91165194_BRASILIA-DF-12-01-2021CEFPLANALTOMinistro-da-Cidadania-Onyx-Lorenzoni-em-cerimoni.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-03 15:13:00
 pub_date: 2021-02-03 15:13:00
 time_added: 2021-02-06 12:03:54
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/93/2021/01/27/16jan2021---profissional-de-saude-prepara-dose-da-covaxin-vacina-contra-a-covid-19-para-aplicar-no-centro-de-vacinacao-em-nova-delhi-na-india-1611746554065_v2_615x300.jpg
 ---

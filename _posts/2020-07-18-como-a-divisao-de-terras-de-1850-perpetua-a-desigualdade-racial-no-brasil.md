@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-18 02:00:00
 pub_date: 2020-07-18 02:00:00
 time_added: 2020-07-19 22:24:53
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/8e/2017/07/11/gravura-do-pintor-frances-jean-baptiste-debret-1768-1848-que-retrata-um-mercado-de-escravos-localizado-na-rua-valongo-no-rio-de-janeiro-1499817645608_615x300.jpg
 ---

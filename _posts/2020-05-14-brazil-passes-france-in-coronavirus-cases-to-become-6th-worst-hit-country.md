@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-14 01:17:50
 pub_date: 2020-05-14 01:17:50
 time_added: 2020-05-14 20:43:46
-category: avisamos
+categories: [avisamos]
 tags: [saúde]
 image: https://s2.reutersmedia.net/resources/r/?m=02&d=20200513&t=2&i=1518548180&w=1200&r=LYNXMPEG4C22B
 ---

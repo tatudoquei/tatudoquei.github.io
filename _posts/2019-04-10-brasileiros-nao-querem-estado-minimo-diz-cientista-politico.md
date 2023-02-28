@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-10 19:02:59
 pub_date: 2019-04-10 19:02:59
 time_added: 2019-09-02 21:59:04
-category: 
+categories: []
 tags: []
 image: https://i1.wp.com/apublica.org/wp-content/uploads/2019/04/rafael-georges-oxfam.jpeg?fit=1280%2C853&ssl=1
 ---

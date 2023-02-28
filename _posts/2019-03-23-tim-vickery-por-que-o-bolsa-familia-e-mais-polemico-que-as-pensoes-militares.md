@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-23 23:00:00
 pub_date: 2019-03-23 23:00:00
 time_added: 2019-03-26 19:30:19
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/C8AA/production/_89907315_151030171035_sp_tim_vickery_1_950x633_eduardomartino_nocredit.jpg
 ---

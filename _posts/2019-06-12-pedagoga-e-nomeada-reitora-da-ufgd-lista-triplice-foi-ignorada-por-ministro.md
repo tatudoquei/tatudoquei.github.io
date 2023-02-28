@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-12 05:36:32
 pub_date: 2019-06-12 05:36:32
 time_added: 2019-06-12 07:36:32
-category: 
+categories: []
 tags: []
 image: https://www.douradosagora.com.br/media/images/5573/87493/5cffeb5e2684596b2c61ac755271e577392a90ac2b39e.jpg
 ---

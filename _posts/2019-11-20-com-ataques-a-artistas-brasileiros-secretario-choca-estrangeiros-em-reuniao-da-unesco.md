@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-20 12:40:00
 pub_date: 2019-11-20 12:40:00
 time_added: 2019-11-23 08:17:49
-category: 
+categories: []
 tags: []
 image: https://www.bahianoticias.com.br/fotos/entretenimento_noticias/36431/IMAGEM_NOTICIA_9.jpg
 ---

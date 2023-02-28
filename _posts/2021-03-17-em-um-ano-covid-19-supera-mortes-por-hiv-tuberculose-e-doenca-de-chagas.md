@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-17 16:18:00
 pub_date: 2021-03-17 16:18:00
 time_added: 2021-03-21 09:26:49
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/80/2020/05/19/19mai2020---coronavirus-registro-de-um-velorio-no-cemiterio-da-vila-formosa-na-zona-leste-de-sao-paulo-sp-1589934147070_v2_615x300.jpg
 ---

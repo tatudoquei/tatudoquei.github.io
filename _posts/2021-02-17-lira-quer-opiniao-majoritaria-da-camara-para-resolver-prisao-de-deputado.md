@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-17 04:08:32
 pub_date: 2021-02-17 04:08:32
 time_added: 2021-02-18 13:00:08
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/02/Camara-Votacao-Presidente-ArthurLira-BaleiaRossi-5-1200x630.jpg
 ---

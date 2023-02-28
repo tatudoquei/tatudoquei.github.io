@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-02 06:16:00
 pub_date: 2020-07-02 06:16:00
 time_added: 2020-07-02 13:56:15
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/22/2020/07/02/deltan-dallagnol-1593688285894_v2_615x300.jpg
 ---

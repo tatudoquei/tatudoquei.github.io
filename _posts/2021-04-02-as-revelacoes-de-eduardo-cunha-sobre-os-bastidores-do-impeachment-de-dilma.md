@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-02 09:00:11
 pub_date: 2021-04-02 09:00:11
 time_added: 2021-04-02 18:20:45
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2021/04/EDUARDO-CUNHA-DILMA-ROUSSEFF-2015-1.jpeg.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

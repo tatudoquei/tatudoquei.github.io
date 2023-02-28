@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-17 23:26:51
 pub_date: 2018-12-17 23:26:51
 time_added: 2018-12-19 23:40:00
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://abrilexame.files.wordpress.com/2018/11/2018-11-29t152032z_1_lynxnpeeas18t_rtroptp_4_brazil-politics-bolsonaro.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

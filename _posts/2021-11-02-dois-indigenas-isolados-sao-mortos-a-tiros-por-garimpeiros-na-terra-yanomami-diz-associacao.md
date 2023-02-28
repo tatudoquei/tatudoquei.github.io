@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-02 21:28:13
 pub_date: 2021-11-02 21:28:13
 time_added: 2021-11-13 12:37:10
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/J0Vn1fJuQsyQvdi9sZvnQXojtEg=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2016/11/22/guilherme.gnipper-1320.jpg
 ---

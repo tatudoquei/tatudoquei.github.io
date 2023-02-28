@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-09 11:15:00
 pub_date: 2020-06-09 11:15:00
 time_added: 2020-06-09 20:02:23
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/77/2020/05/26/26mai2020---o-governador-do-rio-de-janeiro-wilson-witzel-psc-rj-se-pronuncia-apos-buscas-e-apreensoes-da-pf-no-palacio-das-laranjeiras-1590521100934_v2_615x300.jpg
 ---

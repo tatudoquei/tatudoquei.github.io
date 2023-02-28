@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-22 21:00:14
 pub_date: 2020-11-22 21:00:14
 time_added: 2020-11-22 22:59:33
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2020/11/BR-319.jpeg
 ---

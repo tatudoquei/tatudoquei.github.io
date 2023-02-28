@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-21 22:00:00
 pub_date: 2019-04-21 22:00:00
 time_added: 2019-04-23 19:10:18
-category: 
+categories: []
 tags: []
 image: http://www.ihu.unisinos.br/images/ihu/2019/04/17_04_2019_ufpr_wikimedia_commons.jpg
 ---

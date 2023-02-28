@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-20 11:11:13
 pub_date: 2019-01-20 11:11:13
 time_added: 2019-02-04 23:42:16
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2019/01/queiroz-2.jpg
 ---

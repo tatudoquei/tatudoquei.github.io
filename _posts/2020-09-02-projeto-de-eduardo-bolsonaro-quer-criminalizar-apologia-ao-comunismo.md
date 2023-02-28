@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-02 07:34:00
 pub_date: 2020-09-02 07:34:00
 time_added: 2020-09-04 19:03:19
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c8/2020/09/02/o-deputado-federal-eduardo-bolsonaro-psl-sp-durante-sessao-deliberativa-na-camara-em-abril-de-2020-1599050019849_v2_615x300.jpg
 ---

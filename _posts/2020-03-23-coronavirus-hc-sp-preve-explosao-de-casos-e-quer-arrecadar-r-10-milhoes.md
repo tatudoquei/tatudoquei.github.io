@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-23 16:01:00
 pub_date: 2020-03-23 16:01:00
 time_added: 2020-03-24 18:51:54
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/c7/2020/03/23/hospital-das-clinicas-1584986972995_v2_615x300.jpg
 ---

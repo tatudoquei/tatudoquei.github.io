@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-29 00:33:08
 pub_date: 2020-04-29 00:33:08
 time_added: 2020-04-29 12:13:00
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/04/bolsonaro-alvorada-28abr-1200x630.png
 ---

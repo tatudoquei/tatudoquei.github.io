@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-09 02:30:00
 pub_date: 2021-06-09 02:30:00
 time_added: 2021-06-13 20:56:36
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/epoca/25026865-f9b-fc2/FT1086A/90915146_O-Globo-Personagem-Natalia-Pasternak-cientista.-Foto-Anna-Carolina-.jpg
 ---

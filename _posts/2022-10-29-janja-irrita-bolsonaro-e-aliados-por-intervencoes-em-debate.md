@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-29 04:32:27
 pub_date: 2022-10-29 04:32:27
 time_added: 2022-10-29 08:19:26
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2022/10/janja-lula-globo-29out2022-848x477.jpeg
 ---

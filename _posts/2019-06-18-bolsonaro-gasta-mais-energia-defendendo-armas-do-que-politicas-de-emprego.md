@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-18 21:13:00
 pub_date: 2019-06-18 21:13:00
 time_added: 2019-06-19 19:08:50
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/05/porte_bolsonaro-615x300.jpg
 ---

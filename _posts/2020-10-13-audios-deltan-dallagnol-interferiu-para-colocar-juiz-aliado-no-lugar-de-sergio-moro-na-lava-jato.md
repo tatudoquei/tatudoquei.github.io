@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-13 08:30:00
 pub_date: 2020-10-13 08:30:00
 time_added: 2020-10-13 21:39:31
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/10/vj-29-redes.jpg
 ---

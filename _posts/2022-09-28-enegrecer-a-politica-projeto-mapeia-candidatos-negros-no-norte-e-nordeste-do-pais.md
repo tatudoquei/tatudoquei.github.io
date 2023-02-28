@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-28 16:05:42
 pub_date: 2022-09-28 16:05:42
 time_added: 2022-10-03 00:22:46
-category: 
+categories: []
 tags: []
 image: https://mundonegro.inf.br/wp-content/uploads/2022/09/hali-fotos-de-capa-69.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-26 02:47:26
 pub_date: 2020-05-26 02:47:26
 time_added: 2020-05-26 20:51:53
-category: 
+categories: []
 tags: []
 image: https://www.blogs.unicamp.br/covid-19/wp-content/uploads/sites/251/2020/05/play-figures-4541727_1920.jpg
 ---

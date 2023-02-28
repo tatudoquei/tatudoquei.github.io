@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-03 03:00:00
 pub_date: 2021-03-03 03:00:00
 time_added: 2021-03-06 17:18:51
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/portoalegre/alternates/LANDSCAPE_768/portoalegre
 ---

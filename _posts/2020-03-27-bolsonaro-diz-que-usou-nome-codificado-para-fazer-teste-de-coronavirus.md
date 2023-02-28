@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-27 16:19:00
 pub_date: 2020-03-27 16:19:00
 time_added: 2020-03-28 09:01:12
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/09/2020/03/24/24mar2020---o-presidente-jair-bolsonaro-em-pronunciamento-exibido-em-rede-nacional-1585095622184_v2_615x300.jpg
 ---

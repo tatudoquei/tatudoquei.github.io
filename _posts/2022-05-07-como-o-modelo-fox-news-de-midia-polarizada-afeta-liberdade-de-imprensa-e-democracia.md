@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-05-07 17:44:22
 pub_date: 2022-05-07 17:44:22
 time_added: 2022-05-08 13:07:13
-category: 
+categories: []
 tags: []
 image: https://mediatalks.uol.com.br/wp-content/uploads/2023/05/Tucker-Carlson-Fox-News-polarizacao-midia-liberdade-de-imprensa-jornalista-americano.jpg
 ---

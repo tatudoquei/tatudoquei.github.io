@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-08 22:00:00
 pub_date: 2019-10-08 22:00:00
 time_added: 2019-11-03 09:35:14
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/WhatsApp1/ALTERNATES/LANDSCAPE_720/WhatsApp
 ---

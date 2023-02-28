@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-24 18:36:34
 pub_date: 2020-10-24 18:36:34
 time_added: 2020-10-25 22:03:34
-category: 
+categories: []
 tags: []
 image: https://www.sul21.com.br/wp-content/uploads/2020/10/20201024-liberacao-de-agrotoxicos-ebc.jpg
 ---

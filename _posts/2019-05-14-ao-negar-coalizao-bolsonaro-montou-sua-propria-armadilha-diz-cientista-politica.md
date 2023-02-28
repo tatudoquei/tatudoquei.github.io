@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-14 12:37:00
 pub_date: 2019-05-14 12:37:00
 time_added: 2019-05-15 20:04:16
-category: 
+categories: []
 tags: []
 image: https://images.immedia.com.br/33/33890_2_L.JPG
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-05 08:09:00
 pub_date: 2019-06-05 08:09:00
 time_added: 2019-06-06 17:25:00
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/e3/2018/11/28/homem-com-arma-na-mao-assalto-1543425141576_v2_615x300.jpg
 ---

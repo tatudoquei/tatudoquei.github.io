@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-10 01:00:00
 pub_date: 2020-01-10 01:00:00
 time_added: 2020-01-10 20:39:04
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://f.i.uol.com.br/fotografia/2020/01/10/15786259375e17eb9150b96_1578625937_3x2_rt.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-13 19:38:56
 pub_date: 2023-01-13 19:38:56
 time_added: 2023-01-14 14:26:32
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2023/01/Copia-de-Capa_Facebook-1.png
 ---

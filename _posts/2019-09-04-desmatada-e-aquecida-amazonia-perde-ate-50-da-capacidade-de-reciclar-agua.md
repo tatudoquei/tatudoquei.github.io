@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-04 22:00:00
 pub_date: 2019-09-04 22:00:00
 time_added: 2019-09-08 09:50:11
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/4a/2019/09/04/25ago2019---queimadas-em-rondonia-dentro-da-floresta-amazonica-registrada-pelo-greenpeace-1567632780967_v2_615x300.jpg
 ---

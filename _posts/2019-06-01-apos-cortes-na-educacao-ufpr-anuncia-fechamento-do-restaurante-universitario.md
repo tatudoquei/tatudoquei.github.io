@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-01 14:35:17
 pub_date: 2019-06-01 14:35:17
 time_added: 2019-06-06 17:25:17
-category: 
+categories: []
 tags: []
 image: https://static.cbncuritiba.com/cbn/wp-content/uploads/2019/05/UFPR-foto-Prefeitura-de-Curitiba.jpg
 ---

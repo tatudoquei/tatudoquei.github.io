@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-28 16:49:00
 pub_date: 2022-10-28 16:49:00
 time_added: 2022-10-29 07:38:40
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/a9/2022/06/17/cartaz-sobre-o-desaparecimento-do-jornalista-dom-phillips-a-esq-e-do-indigenista-bruno-pereira-a-dir-1655458558353_v2_615x300.jpg
 ---

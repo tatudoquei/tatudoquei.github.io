@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-12 12:54:39
 pub_date: 2022-11-12 12:54:39
 time_added: 2022-11-12 13:54:39
-category: 
+categories: []
 tags: []
 image: https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/11/BR_CNN_011122_LINK_DF_PRONUNCIAMENTO_BOLSONARO_2_frame_152625.jpeg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-19 02:00:00
 pub_date: 2021-05-19 02:00:00
 time_added: 2021-05-20 21:55:18
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2f/2021/03/24/pronunciamento-do-presidente-da-republica-jair-bolsonaro-1616590205114_v2_615x300.jpg
 ---

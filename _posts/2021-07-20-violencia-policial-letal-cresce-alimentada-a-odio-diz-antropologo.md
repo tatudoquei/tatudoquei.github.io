@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-20 14:11:06
 pub_date: 2021-07-20 14:11:06
 time_added: 2021-07-22 22:16:55
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2021/07/19.07-bate-papo.png
 ---

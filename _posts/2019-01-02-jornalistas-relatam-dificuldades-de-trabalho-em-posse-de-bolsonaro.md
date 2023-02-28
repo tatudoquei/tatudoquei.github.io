@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-02 00:15:41
 pub_date: 2019-01-02 00:15:41
 time_added: 2019-01-02 01:15:41
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://estaticos.globoradio.globo.com/fotos/2019/01/6a65ac45-7b2e-4752-925b-ba5e30a1fcd8.jpg
 ---

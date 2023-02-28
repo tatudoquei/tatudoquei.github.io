@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-22 19:19:00
 pub_date: 2020-05-22 19:19:00
 time_added: 2020-05-23 08:20:12
-category: 
+categories: []
 tags: []
 image: https://renatoterra.blogfolha.uol.com.br/files/2020/05/weintraub.jpg
 ---

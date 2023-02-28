@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-02 10:21:00
 pub_date: 2018-12-02 10:21:00
 time_added: 2019-12-23 21:15:16
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Macron_Trump.jpg2/ALTERNATES/LANDSCAPE_720/Macron_Trump.jpg
 ---

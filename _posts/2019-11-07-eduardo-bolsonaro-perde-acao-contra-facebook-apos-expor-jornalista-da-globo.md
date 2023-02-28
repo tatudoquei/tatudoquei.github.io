@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-07 13:02:00
 pub_date: 2019-11-07 13:02:00
 time_added: 2019-11-08 19:35:37
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/26/2019/10/22/eduardo-bolsonaro-1571733550928_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-15 15:57:00
 pub_date: 2020-05-15 15:57:00
 time_added: 2020-05-16 09:26:35
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2a/2020/05/10/paulo-guedes-retira-os-oculos-para-fixar-o-olhar-num-ponto-distante-1589113899204_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-18 16:20:40
 pub_date: 2021-04-18 16:20:40
 time_added: 2021-05-16 20:36:44
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2021/04/AMAZONIA-DESMATAMENTO-MADEIRA-CACHOEIRA-SECA-PARA-2020-12-4.jpg.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

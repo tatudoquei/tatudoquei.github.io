@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-20 13:47:17
 pub_date: 2023-01-20 13:47:17
 time_added: 2023-01-21 04:12:58
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/pf/alternates/LANDSCAPE_768/pf
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-15 09:21:00
 pub_date: 2023-01-15 09:21:00
 time_added: 2023-01-21 10:23:48
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/32/2021/07/28/olavo-de-carvalho-1627517118601_v2_615x300.jpg
 ---

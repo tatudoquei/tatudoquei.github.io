@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-31 13:15:00
 pub_date: 2022-10-31 13:15:00
 time_added: 2022-10-31 13:55:35
-category: 
+categories: []
 tags: []
 image: https://img.r7.com/images/bolsonaro-dia-votacaojpg-30102022132326883?dimensions=771x420&
 ---

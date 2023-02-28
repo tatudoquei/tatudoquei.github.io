@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-21 03:41:00
 pub_date: 2020-04-21 03:41:00
 time_added: 2020-04-22 18:08:38
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b2/2020/04/20/nao-queremos-negociar-nada-disse-o-presidente-jair-bolsonaro-em-ato-1587392423615_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-11 02:30:00
 pub_date: 2020-09-11 02:30:00
 time_added: 2020-09-11 18:50:52
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24634142-d6d-4f6/FT1086A/652/ricardosalles.jpg
 ---

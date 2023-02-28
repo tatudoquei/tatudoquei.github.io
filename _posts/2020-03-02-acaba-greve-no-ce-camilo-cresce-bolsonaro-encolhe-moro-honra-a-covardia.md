@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-02 07:09:00
 pub_date: 2020-03-02 07:09:00
 time_added: 2020-03-02 20:49:43
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/1f/2020/03/02/forca-nacional-de-seguranca-no-ceara-e-no-destaque-governador-camilo-santana-1583146824701_v2_615x300.jpg
 ---

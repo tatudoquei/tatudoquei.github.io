@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-30 23:14:06
 pub_date: 2021-03-30 23:14:06
 time_added: 2021-05-29 21:25:02
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2021/03/20210330_MiguelBueltaDestaque.jpeg
 ---

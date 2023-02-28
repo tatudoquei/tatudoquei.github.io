@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-10 22:26:00
 pub_date: 2021-01-10 22:26:00
 time_added: 2021-01-11 15:59:33
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/5b/2021/01/08/5jan2021---enterro-em-manaus-de-vitima-de-covid-19-a-professora-jonilza-cardoso-reis-1610161157158_v2_615x300.jpg
 ---

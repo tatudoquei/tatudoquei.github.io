@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-04 08:00:33
 pub_date: 2023-02-04 08:00:33
 time_added: 2023-02-27 22:26:12
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/1xhtmFtaDEsF3ev49khzU9ZKSQc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/p/P/TDO2EYTp2K5LACH8lOgw/turma-2.jpg
 ---

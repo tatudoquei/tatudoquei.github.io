@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-04 18:07:08
 pub_date: 2020-06-04 18:07:08
 time_added: 2020-06-04 20:07:08
-category: 
+categories: []
 tags: []
 image: https://almapreta.com/images/2020/06/miguelotavioreproducaocapaap.jpg
 ---

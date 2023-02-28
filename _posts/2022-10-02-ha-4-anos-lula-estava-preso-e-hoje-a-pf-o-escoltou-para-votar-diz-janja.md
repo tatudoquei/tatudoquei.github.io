@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-02 17:33:00
 pub_date: 2022-10-02 17:33:00
 time_added: 2022-10-03 00:14:44
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/68/2022/10/02/janja-silva-posa-com-amigas-lula-no-primeiro-turno-1664727662812_v2_615x300.jpg
 ---

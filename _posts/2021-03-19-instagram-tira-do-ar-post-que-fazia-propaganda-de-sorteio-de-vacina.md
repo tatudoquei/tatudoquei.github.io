@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-19 21:04:00
 pub_date: 2021-03-19 21:04:00
 time_added: 2021-03-22 12:46:35
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2021/03/influencer_redes_19032021.jpg
 ---

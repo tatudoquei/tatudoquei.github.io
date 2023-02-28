@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-20 10:28:00
 pub_date: 2019-08-20 10:28:00
 time_added: 2019-08-22 09:25:27
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/08/fumaca_redes_19082019.jpg
 ---

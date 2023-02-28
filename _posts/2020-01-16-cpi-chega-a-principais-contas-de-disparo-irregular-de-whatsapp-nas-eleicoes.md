@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-16 03:01:00
 pub_date: 2020-01-16 03:01:00
 time_added: 2020-01-18 15:02:41
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a4/2019/10/28/23out2019---bancada-do-psl-vota-durante-reuniao-da-cpmi-das-fake-news-1572300390802_v2_615x300.jpg
 ---

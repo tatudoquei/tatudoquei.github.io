@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-09 10:50:00
 pub_date: 2020-11-09 10:50:00
 time_added: 2020-11-09 20:43:06
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/4c/2019/06/28/28jun2019---presidente-jair-bolsonaro-do-brasil-e-presidente-donald-trump-dos-eua-durante-encontro-bilateral-no-encontro-do-g20-em-osaka-1561705216359_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-10 09:00:00
 pub_date: 2023-02-10 09:00:00
 time_added: 2023-02-11 23:15:02
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2023/02/Capa_Facebook_O-que-registram-as-atas-enquanto-Covid-19-se-espalhava-entre-indigenas-e-quilombolas.png
 ---

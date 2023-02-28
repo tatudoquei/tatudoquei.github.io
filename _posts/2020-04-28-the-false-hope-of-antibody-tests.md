@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-28 17:20:26
 pub_date: 2020-04-28 17:20:26
 time_added: 2020-04-28 19:16:37
-category: 
+categories: []
 tags: []
 image: https://cdn.theatlantic.com/thumbor/CKio0Guk4rWt-DogsMN1pxYuzGA=/0x43:2000x1085/960x500/media/img/mt/2020/04/Image_from_iOS-4/original.jpg
 ---

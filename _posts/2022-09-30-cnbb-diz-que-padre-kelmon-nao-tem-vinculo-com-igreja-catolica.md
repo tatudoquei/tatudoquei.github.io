@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-30 04:00:00
 pub_date: 2022-09-30 04:00:00
 time_added: 2022-10-03 00:49:53
-category: 
+categories: []
 tags: []
 image: https://statics.estadao.com.br/s2016/portal/logos/metadados/estadao_1x1.png
 ---

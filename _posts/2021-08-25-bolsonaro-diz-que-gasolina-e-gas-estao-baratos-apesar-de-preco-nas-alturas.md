@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-25 15:41:00
 pub_date: 2021-08-25 15:41:00
 time_added: 2021-09-06 08:22:24
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/72/2021/08/04/o-presidente-jair-bolsonaro-1628099540164_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-13 17:13:00
 pub_date: 2021-07-13 17:13:00
 time_added: 2021-07-25 16:58:47
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25105436-df8-9ea/FT1086A/93871294_Brazils-President-Jair-Bolsonaro-speaks-during-a-news-conference-after-a-meeting-at-the-Su.jpg
 ---

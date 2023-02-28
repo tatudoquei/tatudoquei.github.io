@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-08 12:47:25
 pub_date: 2020-04-08 12:47:25
 time_added: 2020-04-09 20:41:47
-category: 
+categories: []
 tags: []
 image: https://ca-times.brightspotcdn.com/dims4/default/0fcdf05/2147483647/strip/true/crop/1640x861+0+700/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe3%2Fa8%2F569d45c7417181e37de0bf248834%2Fgettyimages-1207638379.jpg
 ---

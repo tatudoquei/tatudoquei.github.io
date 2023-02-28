@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-26 11:01:23
 pub_date: 2020-06-26 11:01:23
 time_added: 2020-06-26 13:01:23
-category: 
+categories: []
 tags: []
 image: https://www.socioambiental.org/sites/blog.socioambiental.org/files/styles/twitter-card/public/nsa/rs59989_img_5795-lpr.jpg?itok=E_VfLJSL
 ---

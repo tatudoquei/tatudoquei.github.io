@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-13 22:43:59
 pub_date: 2023-01-13 22:43:59
 time_added: 2023-01-14 09:24:21
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/542D/production/_128294512_3c31094e-60a8-43f6-9377-9d182d7bedb4.jpg
 ---

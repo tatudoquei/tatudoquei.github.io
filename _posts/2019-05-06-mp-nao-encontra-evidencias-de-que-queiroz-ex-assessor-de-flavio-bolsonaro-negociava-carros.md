@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-06 10:53:33
 pub_date: 2019-05-06 10:53:33
 time_added: 2019-05-07 06:12:31
-category: 
+categories: []
 tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2018/12/queiroz-e-bolsonro.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-03-14 00:21:38
 pub_date: 2022-03-14 00:21:38
 time_added: 2022-03-22 20:28:29
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/protesto-armas.jpg/alternates/LANDSCAPE_768/protesto-armas.jpg
 ---

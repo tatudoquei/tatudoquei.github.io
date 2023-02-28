@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-17 20:50:26
 pub_date: 2020-01-17 20:50:26
 time_added: 2020-01-19 07:11:36
-category: 
+categories: []
 tags: []
 image: http://psol50.org.br/wp-content/uploads/2020/01/xalvim-goebbels.jpg.pagespeed.ic_.SjDdJ3p5HB.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-17 07:24:00
 pub_date: 2020-06-17 07:24:00
 time_added: 2020-06-17 22:07:51
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24483738-539-dda/FT1086A/652/88418078_Brazils-President-Jair-Bolsonaro-looks-on-before-a-national-flag-hoisting-ceremony-in.jpg
 ---

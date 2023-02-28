@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-24 17:30:00
 pub_date: 2020-01-24 17:30:00
 time_added: 2020-01-28 07:03:13
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/brasil/23871398-828-aa8/FT1086A/652/83993893_Antonio-Augusto-Brandao-de-Aras-Subprocurador-Geral-da-Republica-durante-debate-Democr.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-04 02:56:38
 pub_date: 2021-06-04 02:56:38
 time_added: 2021-06-05 15:09:53
-category: bandido bom
+categories: [bandido bom]
 tags: [meio ambiente]
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2021/05/1617465331401_210520211834.jpg
 ---

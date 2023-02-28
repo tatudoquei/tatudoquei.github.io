@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-09 23:43:48
 pub_date: 2020-03-09 23:43:48
 time_added: 2020-03-10 00:43:48
-category: 
+categories: []
 tags: []
 image: https://almapreta.com/images/2019/02/marielle_franco_.jpg
 ---

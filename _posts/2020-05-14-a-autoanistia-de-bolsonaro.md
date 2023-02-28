@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-14 12:51:04
 pub_date: 2020-05-14 12:51:04
 time_added: 2020-05-14 20:34:54
-category: 
+categories: []
 tags: []
 image: http://www.tijolaco.net/blog/wp-content/uploads/2020/05/mp966.png
 ---

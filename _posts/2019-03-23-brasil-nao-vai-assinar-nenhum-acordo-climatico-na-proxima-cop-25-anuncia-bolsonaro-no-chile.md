@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-23 18:44:33
 pub_date: 2019-03-23 18:44:33
 time_added: 2019-03-24 19:49:18
-category: avisamos
+categories: [avisamos]
 tags: []
 image: http://scd.br.rfi.fr/sites/brasil.filesrfi/imagecache/rfi_16x9_1024_578/sites/images.rfi.fr/files/aefimagesnew/aef_image/000_1ez7od.jpg
 ---

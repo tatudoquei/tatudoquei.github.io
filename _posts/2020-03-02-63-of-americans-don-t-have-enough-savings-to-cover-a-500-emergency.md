@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-02 02:59:07
 pub_date: 2016-01-05 23:00:00
 time_added: 2020-03-02 02:59:07
-category: 
+categories: []
 tags: []
 image: https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fblogs-images.forbes.com%2Fmaggiemcgrath%2Ffiles%2F2016%2F01%2Fpew-charitable-trust-income-hit-e1452115550987.jpg
 ---

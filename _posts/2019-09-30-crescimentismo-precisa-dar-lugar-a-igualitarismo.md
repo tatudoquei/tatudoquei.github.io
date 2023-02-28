@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-30 08:00:23
 pub_date: 2019-09-30 08:00:23
 time_added: 2019-10-03 07:37:01
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/TQys3C7Exf10pEvTwLmc5K9vAI0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/w/q/pIMGsGRMANdKeyPEGY0g/foto30bra-101-marcelo-a6.jpg
 ---

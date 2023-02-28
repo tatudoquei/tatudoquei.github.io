@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-11 21:57:34
 pub_date: 2019-02-11 21:57:34
 time_added: 2019-02-13 00:12:15
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2018/12/joice-e1549920985649.jpg
 ---

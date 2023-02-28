@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-18 15:51:00
 pub_date: 2020-06-18 15:51:00
 time_added: 2020-06-19 12:20:11
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/8c/2020/05/21/mario-frias-em-senhora-do-destino-1590078250171_v2_615x300.jpg
 ---

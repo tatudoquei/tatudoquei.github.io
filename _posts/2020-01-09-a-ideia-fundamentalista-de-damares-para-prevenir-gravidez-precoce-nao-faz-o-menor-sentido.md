@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-09 15:09:00
 pub_date: 2020-01-09 15:09:00
 time_added: 2020-01-11 17:10:50
-category: 
+categories: []
 tags: []
 image: https://theintercept.imgix.net/wp-uploads/sites/1/2020/01/09-01-2020-damares-1578579507.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800
 ---

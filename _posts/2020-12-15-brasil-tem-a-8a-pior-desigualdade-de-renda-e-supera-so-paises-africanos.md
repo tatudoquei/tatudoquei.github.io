@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-15 05:05:00
 pub_date: 2020-12-15 05:05:00
 time_added: 2020-12-17 20:44:53
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/71/2020/12/14/jaqueline-araujo-que-mora-na-favela-sururu-de-capote-em-maceio-e-vive-com-r-180-por-mes-que-recebe-do-bolsa-familia-1607991396092_v2_615x300.jpg
 ---

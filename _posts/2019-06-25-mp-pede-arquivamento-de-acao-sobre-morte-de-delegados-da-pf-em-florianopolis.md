@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-25 03:25:10
 pub_date: 2019-06-25 03:25:10
 time_added: 2019-06-25 05:25:10
-category: 
+categories: []
 tags: []
 image: http://dc.rbsdirect.com.br/imagesrc/23349247.jpg?w=800
 ---

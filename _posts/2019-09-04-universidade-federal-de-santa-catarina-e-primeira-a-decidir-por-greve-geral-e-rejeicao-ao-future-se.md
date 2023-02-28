@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-04 01:59:22
 pub_date: 2019-09-04 01:59:22
 time_added: 2019-09-07 08:23:17
-category: 
+categories: []
 tags: []
 image: https://i2.wp.com/cartacampinas.com.br/wordpress/wp-content/uploads/foto-ufsca-.jpg?fit=1200%2C800&ssl=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-12 06:25:09
 pub_date: 2020-04-12 06:25:09
 time_added: 2020-04-12 08:25:09
-category: 
+categories: []
 tags: []
 image: http://iii.org.br/imunodiaadia/userfiles/media/iii.org.br/volunteer.jpg
 ---

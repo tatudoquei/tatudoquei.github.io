@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-06 17:23:04
 pub_date: 2021-01-06 17:23:04
 time_added: 2021-01-06 23:12:34
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/01/Paraty-destaque2.jpg
 ---

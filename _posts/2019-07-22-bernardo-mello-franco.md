@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-22 16:32:00
 pub_date: 2019-07-22 16:32:00
 time_added: 2019-07-23 15:23:12
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/9M1GutD2CRRgcm6ZAoFGdy5VqSA=/640x424/top/i.glbimg.com/og/ig/infoglobo1/f/original/2016/08/05/flavio_dino_1.jpg
 ---

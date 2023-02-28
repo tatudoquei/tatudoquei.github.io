@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-27 21:25:17
 pub_date: 2019-11-27 21:25:17
 time_added: 2019-11-27 22:25:17
-category: 
+categories: []
 tags: []
 image: https://cdn-engage.s3.amazonaws.com/2019/11/26/19/55/01/1def2c22-de8c-470e-a877-e8b914614aa0/manifestante-e-arrastado-por-militares-durante-protesto-durante-a-ditadura-militar-argentina-em-30-de-marco-de-1982-1541101202562_1920x1315-1024x585-jpg
 ---

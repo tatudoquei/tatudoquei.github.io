@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-02 17:54:14
 pub_date: 2021-03-02 17:54:14
 time_added: 2021-03-06 22:09:06
-category: 
+categories: []
 tags: []
 image: https://www.rbsdirect.com.br/imagesrc/28127644.jpg?w=1200&h=630&a=c&version=1575255600
 ---

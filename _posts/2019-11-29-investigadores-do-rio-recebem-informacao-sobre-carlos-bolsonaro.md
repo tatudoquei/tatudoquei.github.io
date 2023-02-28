@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-29 10:01:59
 pub_date: 2019-11-29 10:01:59
 time_added: 2019-11-30 23:04:21
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/02/filho-de-bolsonaro-e-denunciado-por-apologia-a-tortura.jpg?quality=70&strip=info&w=650&h=350&crop=1
 ---

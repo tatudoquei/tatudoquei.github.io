@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-10 20:26:36
 pub_date: 2020-06-10 20:26:36
 time_added: 2020-06-12 19:25:42
-category: 
+categories: []
 tags: []
 image: https://extra.globo.com/noticias/extra-extra/24472755-50c-e3d/w976h550-PROP/assembleia-vai-criar-comissao-de-impeachment-de-witzel.jpg
 ---

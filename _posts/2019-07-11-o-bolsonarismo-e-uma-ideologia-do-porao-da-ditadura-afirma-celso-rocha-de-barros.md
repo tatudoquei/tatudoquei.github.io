@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-11 05:00:00
 pub_date: 2019-07-11 05:00:00
 time_added: 2019-07-13 22:32:26
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/epoca/23799158-04c-089/FT1086A/652/7679048_Data18-08-2015-EditoriaCultura-ReporterReporter-LocalRio.jpg
 ---

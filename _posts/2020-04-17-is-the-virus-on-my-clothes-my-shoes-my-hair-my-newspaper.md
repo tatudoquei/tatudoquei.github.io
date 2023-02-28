@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-17 15:25:57
 pub_date: 2020-04-17 15:25:57
 time_added: 2020-04-18 15:35:08
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/04/19/well/19askwell-coronavirus-clothing/well-shoes-facebookJumbo.jpg
 ---

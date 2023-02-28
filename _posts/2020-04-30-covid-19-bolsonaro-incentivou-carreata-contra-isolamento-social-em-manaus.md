@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-30 13:48:00
 pub_date: 2020-04-30 13:48:00
 time_added: 2020-05-01 04:44:13
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/25/2020/04/30/bolsonaro-participa-de-carreata-em-manaus-1588254187373_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-17 00:21:17
 pub_date: 2020-07-17 00:21:17
 time_added: 2020-07-18 08:03:41
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/07/Bolsonaro-live-16-jul-1200x630.png
 ---

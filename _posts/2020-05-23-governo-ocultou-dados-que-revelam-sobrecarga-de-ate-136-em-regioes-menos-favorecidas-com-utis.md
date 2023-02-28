@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-23 19:40:50
 pub_date: 2020-05-23 19:40:50
 time_added: 2020-05-24 21:56:02
-category: 
+categories: []
 tags: []
 image: https://bhaz.com.br/wp-content/uploads/2020/05/governo-dados-utis.jpg
 ---

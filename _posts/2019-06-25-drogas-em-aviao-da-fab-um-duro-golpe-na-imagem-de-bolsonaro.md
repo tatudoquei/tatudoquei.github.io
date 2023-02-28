@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-25 18:34:41
 pub_date: 2019-06-25 18:34:41
 time_added: 2019-06-27 05:57:49
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/06/brasil-jair-bolsonaro-20190618-003-copy.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

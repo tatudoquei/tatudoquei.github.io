@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-21 16:21:29
 pub_date: 2021-06-21 16:21:29
 time_added: 2021-07-04 12:09:09
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2020/04/jair-bolsonaro-arthur-lira-video.jpg.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

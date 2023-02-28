@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-04 20:34:17
 pub_date: 2021-10-04 20:34:17
 time_added: 2021-10-17 14:26:52
-category: 
+categories: []
 tags: []
 image: https://www.abrasco.org.br/site/wp-content/uploads/2018/02/Rosa-Weber-Foto-Carlos-Moura-STF.jpg
 ---

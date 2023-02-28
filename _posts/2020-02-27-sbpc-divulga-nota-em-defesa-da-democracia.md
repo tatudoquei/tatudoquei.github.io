@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-27 01:13:50
 pub_date: 2020-02-27 01:13:50
 time_added: 2020-02-27 02:13:50
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2020/02/carta-democracia1.jpg
 ---

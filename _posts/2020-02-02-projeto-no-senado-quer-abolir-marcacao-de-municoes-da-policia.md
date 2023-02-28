@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-02 14:18:47
 pub_date: 2020-02-02 14:18:47
 time_added: 2020-02-05 19:36:57
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2018/10/policia_militar_de_sao_paulo.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

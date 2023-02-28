@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-19 05:24:24
 pub_date: 2019-06-19 05:24:24
 time_added: 2019-06-21 20:54:09
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/estadao-verifica/wp-content/uploads/sites/690/2019/06/bitcoin.jpg
 ---

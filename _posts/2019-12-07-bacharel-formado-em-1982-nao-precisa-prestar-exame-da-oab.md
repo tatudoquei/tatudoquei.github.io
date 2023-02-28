@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-07 06:38:11
 pub_date: 2019-12-07 06:38:11
 time_added: 2019-12-07 07:38:11
-category: 
+categories: []
 tags: []
 image: https://www.trf4.jus.br/trf4/upload/editor/bfc_advogado-k8230640.jpg
 ---

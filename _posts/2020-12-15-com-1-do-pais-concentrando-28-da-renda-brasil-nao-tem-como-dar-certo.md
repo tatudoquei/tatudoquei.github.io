@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-15 13:27:00
 pub_date: 2020-12-15 13:27:00
 time_added: 2020-12-17 20:53:29
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b3/2019/12/05/foto-de-tuca-vieira-que-mostra-paraisopolis-e-predio-de-luxo-do-morumbi-rodou-o-mundo-e-virou-simbolo-da-desigualdade-social-1575546083486_v2_615x300.jpg
 ---

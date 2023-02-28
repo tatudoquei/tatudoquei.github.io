@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-07 03:29:54
 pub_date: 2020-07-07 03:29:54
 time_added: 2020-07-07 05:29:54
-category: 
+categories: []
 tags: []
 image: https://files.nsctotal.com.br/s3fs-public/graphql-upload-files/bolsonaro%20em%20floripa_1.jpg?.XaLGiAMylyw8CA5UNds4Y_Hh_eBH8IG
 ---

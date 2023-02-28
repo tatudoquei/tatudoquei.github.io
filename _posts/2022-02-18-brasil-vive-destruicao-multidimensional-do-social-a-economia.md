@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-02-18 23:01:44
 pub_date: 2022-02-18 23:01:44
 time_added: 2022-02-19 12:10:32
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/pobreza1/alternates/LANDSCAPE_768/pobreza
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-28 21:13:47
 pub_date: 2022-10-28 21:13:47
 time_added: 2022-10-29 06:51:23
-category: 
+categories: []
 tags: []
 image: https://www.revistaogrito.com/wp-content/uploads/2022/10/alan-moore.webp
 ---

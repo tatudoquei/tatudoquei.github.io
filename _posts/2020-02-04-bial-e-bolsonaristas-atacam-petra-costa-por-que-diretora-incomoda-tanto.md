@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-04 09:03:00
 pub_date: 2020-02-04 09:03:00
 time_added: 2020-02-05 05:14:51
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/190/files/2020/02/petra-costa-615x300.jpg
 ---

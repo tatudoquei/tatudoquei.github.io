@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-04 12:36:00
 pub_date: 2021-10-04 12:36:00
 time_added: 2021-10-17 14:28:01
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/a18EuCqMGLLTRltnq-EDD5rfH1o=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2021/10/04/x92672028_pa-brasilia-bsb-29-04-2021-entrevista-com-o-ministro-da-economia-paulo-guedesfoto-pablo-j.jpg.pagespeed.ic.zdzw1qv-7k.jpg
 ---

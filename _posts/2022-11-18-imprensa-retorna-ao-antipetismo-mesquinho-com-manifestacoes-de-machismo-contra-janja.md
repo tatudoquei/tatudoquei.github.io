@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-18 08:03:00
 pub_date: 2022-11-18 08:03:00
 time_added: 2022-11-23 22:22:48
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2022/11/REDES-cecilia-janja.jpg
 ---

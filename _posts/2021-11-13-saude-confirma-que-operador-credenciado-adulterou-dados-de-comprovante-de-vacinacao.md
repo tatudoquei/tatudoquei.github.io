@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-13 15:32:57
 pub_date: 2021-11-13 15:32:57
 time_added: 2021-11-13 12:32:57
-category: 
+categories: []
 tags: []
 image: https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/11/Tweet-Atila.jpeg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-11 17:15:18
 pub_date: 2023-01-11 17:15:18
 time_added: 2023-01-14 09:06:07
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2023/01/Capa_Facebook_Coluna-Rubens_O-buraco-nas-investigacoes-sobre-o-ataque-golpista-e-o-papel-do-GSI-e-do-Exercito-1.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-17 21:46:45
 pub_date: 2021-03-17 21:46:45
 time_added: 2021-03-21 09:26:31
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/rgBqUZrC1gH8mN5BFBMr-oUyZcA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2020/5/l/lu4M1uQJazkTmPNgwVdw/juros.jpg
 ---

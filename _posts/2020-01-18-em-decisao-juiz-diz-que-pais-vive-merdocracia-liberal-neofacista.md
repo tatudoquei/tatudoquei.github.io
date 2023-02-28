@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-18 19:59:00
 pub_date: 2020-01-18 19:59:00
 time_added: 2020-01-19 10:30:37
-category: 
+categories: []
 tags: []
 image: https://s.conjur.com.br/img/b/estatua-justica-themis-tribunal-liberdade.png
 ---

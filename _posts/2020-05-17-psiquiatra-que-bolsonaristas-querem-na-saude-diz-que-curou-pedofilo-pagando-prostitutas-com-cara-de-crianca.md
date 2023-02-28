@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-17 00:54:59
 pub_date: 2020-05-17 00:54:59
 time_added: 2020-05-22 21:11:23
-category: 
+categories: []
 tags: []
 image: https://www.diariodocentrodomundo.com.br/wp-content/uploads/2020/05/bolsonaro-e-italo-marsili.jpeg
 ---

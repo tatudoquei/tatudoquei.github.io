@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-09 12:00:23
 pub_date: 2021-01-09 12:00:23
 time_added: 2021-01-09 09:00:23
-category: 
+categories: []
 tags: []
 image: https://cultura.uol.com.br/upload/tvcultura/noticias/happens_big/20210108211441_astrazeneca-gi.png
 ---

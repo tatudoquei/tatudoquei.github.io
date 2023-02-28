@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-25 01:00:04
 pub_date: 2021-11-25 01:00:04
 time_added: 2021-11-25 02:00:04
-category: 
+categories: []
 tags: []
 image: http://s2.glbimg.com/6pCx7biTr8zmDeBUzMxIBYSoyvo=/1200x630/s.glbimg.com/jo/g1/f/original/2014/02/10/montagem.jpg
 ---

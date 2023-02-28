@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-10 10:17:50
 pub_date: 2019-06-10 10:17:50
 time_added: 2019-06-12 07:36:06
-category: 
+categories: []
 tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2019/06/download-5.jpg
 ---

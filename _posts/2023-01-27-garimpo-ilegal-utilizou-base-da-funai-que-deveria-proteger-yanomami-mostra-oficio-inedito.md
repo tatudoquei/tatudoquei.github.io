@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-27 12:30:34
 pub_date: 2023-01-27 12:30:34
 time_added: 2023-01-28 07:43:27
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2023/01/Capa_Facebook_Garimpo-ilegal-utilizou-base-da-Funai-que-deveria-proteger-Yanomami-mostra-oficio-inedito.png
 ---

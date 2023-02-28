@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-13 16:41:24
 pub_date: 2021-07-13 16:41:24
 time_added: 2021-07-25 16:58:24
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/07/lancamento.jpg
 ---

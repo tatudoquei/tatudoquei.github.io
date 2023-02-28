@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-06 13:09:00
 pub_date: 2020-06-06 13:09:00
 time_added: 2021-03-24 19:55:45
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d9/2016/03/09/o-empresario-carlos-wizard-martins-que-adquiriu-as-marcas-de-materiais-esportivos-topper-e-rainha-1457536310775_v2_615x300.jpg
 ---

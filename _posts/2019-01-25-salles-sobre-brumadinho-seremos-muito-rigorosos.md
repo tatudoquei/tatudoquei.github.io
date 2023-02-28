@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-25 02:44:06
 pub_date: 2019-01-25 02:44:06
 time_added: 2019-01-27 21:54:04
-category: refletimos
+categories: [refletimos]
 tags: [meio ambiente]
 image: https://statics.estadao.com.br/s2016/br18/br18.png
 ---

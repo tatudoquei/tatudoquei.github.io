@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-21 08:33:50
 pub_date: 2021-06-21 08:33:50
 time_added: 2021-07-04 12:08:57
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/A073/production/_118957014_desmatamento_cerrado_semad.jpg
 ---

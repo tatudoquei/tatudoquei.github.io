@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-30 09:28:05
 pub_date: 2015-04-01 04:00:00
 time_added: 2019-03-30 09:28:05
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2014/02/28/militares-se-movimento-em-frente-ao-ministerio-do-exercito-no-dia-2-de-abril-de-1964-rio-de-janeiro-1393596048881_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-13 17:40:00
 pub_date: 2021-12-13 17:40:00
 time_added: 2021-12-24 20:09:30
-category: 
+categories: []
 tags: []
 image: https://static.itatiaia.com.br/admin/Conteudo/noticias/186278/744x500/fabrica-heineken13-1.jpg
 ---

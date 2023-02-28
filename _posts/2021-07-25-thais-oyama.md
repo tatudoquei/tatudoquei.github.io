@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-25 19:55:48
 pub_date: 2021-07-25 19:55:48
 time_added: 2021-07-25 16:55:48
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/4d/2020/07/07/olavo-de-carvalho-concedeu-uma-entrevista-a-jovem-pan-nesta-terca-feira-07-1594168231022_v2_615x300.jpg
 ---

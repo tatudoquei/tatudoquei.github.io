@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-12 18:12:00
 pub_date: 2020-06-12 18:12:00
 time_added: 2020-06-13 06:58:00
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c5/2020/05/26/18mar2020---o-ministro-do-stf-supremo-tribunal-federal-luis-roberto-barroso-em-sessao-administrativa-da-corte-1590524712598_v2_615x300.jpg
 ---

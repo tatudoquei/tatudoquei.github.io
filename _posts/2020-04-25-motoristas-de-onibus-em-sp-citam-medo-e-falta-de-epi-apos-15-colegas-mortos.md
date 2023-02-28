@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-25 02:01:00
 pub_date: 2020-04-25 02:01:00
 time_added: 2020-04-30 20:32:45
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/da/2020/04/24/motoristas-em-sao-paulo-trabalham-sem-epis-em-onibus-lotados-1587745740089_v2_615x300.jpg
 ---

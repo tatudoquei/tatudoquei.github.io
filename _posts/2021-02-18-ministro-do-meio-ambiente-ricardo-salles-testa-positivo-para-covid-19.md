@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-18 16:06:47
 pub_date: 2021-02-18 16:06:47
 time_added: 2021-02-18 13:06:47
-category: 
+categories: []
 tags: []
 image: http://imagem.band.com.br/f_477199.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-21 07:56:24
 pub_date: 2021-03-21 07:56:24
 time_added: 2021-03-27 18:46:58
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2021/03/dida_200320213508.jpg
 ---

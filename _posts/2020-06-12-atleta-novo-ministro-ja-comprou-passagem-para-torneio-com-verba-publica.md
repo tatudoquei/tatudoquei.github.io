@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-12 02:01:00
 pub_date: 2020-06-12 02:01:00
 time_added: 2020-06-12 17:57:37
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/esporte/75/2020/06/11/fabio-faria-psd-rn-1591923480637_v2_615x300.jpg
 ---

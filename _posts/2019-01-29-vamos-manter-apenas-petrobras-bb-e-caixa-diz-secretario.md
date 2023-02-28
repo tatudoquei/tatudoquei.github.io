@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-29 11:54:50
 pub_date: 2019-01-29 11:54:50
 time_added: 2019-01-31 22:36:06
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://www.valor.com.br/sites/default/files/imagecache/media_library_big_horizontal/fotoweb/bbagbr.jpg
 ---

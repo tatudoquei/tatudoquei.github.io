@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-09 07:55:00
 pub_date: 2020-05-09 07:55:00
 time_added: 2020-05-09 17:55:43
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/d4/2020/05/09/manoel-soares-reporter-da-globo-sofre-racismo-1589027784265_v2_615x300.png
 ---

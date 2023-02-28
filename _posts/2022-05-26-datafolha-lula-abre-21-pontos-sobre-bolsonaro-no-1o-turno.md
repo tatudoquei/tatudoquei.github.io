@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-05-26 16:07:00
 pub_date: 2022-05-26 16:07:00
 time_added: 2022-06-08 14:06:15
-category: 
+categories: []
 tags: []
 image: https://f.i.uol.com.br/fotografia/2022/05/26/1653577084628f957c9926d_1653577084_3x2_xl.jpg
 ---

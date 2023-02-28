@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-07 04:31:00
 pub_date: 2019-08-07 04:31:00
 time_added: 2019-08-11 07:23:14
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/PisqyzzoXGRSVmMEdsC2teVdo78=/620x430/e.glbimg.com/og/ed/f/original/2019/08/06/carlos.jpg
 ---

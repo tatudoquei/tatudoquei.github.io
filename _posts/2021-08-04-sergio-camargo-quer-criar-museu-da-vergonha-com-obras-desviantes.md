@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-04 19:05:00
 pub_date: 2021-08-04 19:05:00
 time_added: 2021-08-20 21:18:11
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/38/2021/08/04/presidente-da-fundacao-palmares-ja-tentou-banir-mais-de-300-obras-do-acervo-1628103823776_v2_615x300.jpg
 ---

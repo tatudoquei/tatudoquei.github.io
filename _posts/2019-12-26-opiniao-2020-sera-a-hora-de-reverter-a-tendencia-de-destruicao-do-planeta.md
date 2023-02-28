@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-26 03:00:00
 pub_date: 2019-12-26 03:00:00
 time_added: 2019-12-26 10:15:29
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/1c/2019/12/17/ciclistas-passam-por-escultura-de-baleia-feita-de-lixo-plastico-em-exibicao-na-belgica-para-a-trienal-de-bruges-em-2018-1576604295808_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-08 22:00:00
 pub_date: 2020-06-08 22:00:00
 time_added: 2021-05-16 14:31:50
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/15C71/production/_112810298_juliano.baiocchi.jpg
 ---

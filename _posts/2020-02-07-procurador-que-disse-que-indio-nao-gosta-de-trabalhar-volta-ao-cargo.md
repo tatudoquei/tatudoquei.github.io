@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-07 11:39:00
 pub_date: 2020-02-07 11:39:00
 time_added: 2020-02-08 10:58:17
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/56/2020/02/07/ricardo-albuquerque-da-silva-procurador-de-justica-do-mp-pa-1581088228947_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-09 16:13:00
 pub_date: 2019-03-09 16:13:00
 time_added: 2019-03-10 12:25:33
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://static.globalnoticias.pt/dn/image.aspx?brand=DN&type=generate&guid=768911d5-1aec-48ac-a555-2fcde5e06e9c&w=800&h=420&watermark=true&t=20190309161300
 ---

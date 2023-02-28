@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-03 16:46:00
 pub_date: 2019-10-03 16:46:00
 time_added: 2019-10-06 08:27:17
-category: recuadas
+categories: [recuadas, resistimos]
 tags: [ciência]
 image: https://f.i.uol.com.br/fotografia/2019/10/03/15701386735d966a31967a8_1570138673_3x2_rt.jpg
 ---

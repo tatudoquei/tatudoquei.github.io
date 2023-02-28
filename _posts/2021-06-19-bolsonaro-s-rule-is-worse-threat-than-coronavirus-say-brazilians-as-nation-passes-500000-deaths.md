@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-19 22:15:55
 pub_date: 2021-06-19 22:15:55
 time_added: 2021-06-20 12:40:59
-category: 
+categories: []
 tags: []
 image: https://cdn.cnn.com/cnnnext/dam/assets/210527145754-02-brazil-economy-coronavirus-super-tease.jpg
 ---

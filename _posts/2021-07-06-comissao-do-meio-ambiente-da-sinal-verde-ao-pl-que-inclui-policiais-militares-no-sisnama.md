@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-06 18:13:23
 pub_date: 2021-07-06 18:13:23
 time_added: 2021-07-25 16:49:41
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/07/Oeco2_Dep.-Coronel-Chrisostomo_Cleia-Viana-Camara-dos-Deputados.jpg
 ---

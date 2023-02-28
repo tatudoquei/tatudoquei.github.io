@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-07 23:48:48
 pub_date: 2018-12-07 23:48:48
 time_added: 2018-12-08 16:00:47
-category: avisamos
+categories: [avisamos, bandido bom]
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2018/12/brasil-flavio-pm-queiroz-1.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-22 20:52:45
 pub_date: 2020-03-22 20:52:45
 time_added: 2020-04-04 07:46:10
-category: 
+categories: []
 tags: []
 image: https://diariodopoder.com.br/wp-content/uploads/2020/03/osmar-terra-WILSON-DIAS.jpg
 ---

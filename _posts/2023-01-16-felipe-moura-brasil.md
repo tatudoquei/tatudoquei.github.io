@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-16 21:44:00
 pub_date: 2023-01-16 21:44:00
 time_added: 2023-01-21 10:12:18
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/17/2021/08/12/o-ministro-da-justica-e-seguranca-publica-anderson-torres-1628816142672_v2_615x300.jpg
 ---

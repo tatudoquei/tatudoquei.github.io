@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-06 14:42:00
 pub_date: 2021-01-06 14:42:00
 time_added: 2021-01-06 18:52:41
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/0d/2020/04/28/o-infectologista-gonzalo-vecina-neto-1588091183618_v2_615x300.jpg
 ---

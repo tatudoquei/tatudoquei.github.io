@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-08 13:26:49
 pub_date: 2021-11-08 13:26:49
 time_added: 2021-11-13 12:31:51
-category: 
+categories: []
 tags: []
 image: https://www.inesc.org.br/wp-content/uploads/2021/11/gasolina.jpg
 ---

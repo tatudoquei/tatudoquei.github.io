@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-01-26 16:59:27
 pub_date: 2022-01-26 16:59:27
 time_added: 2022-01-26 23:30:56
-category: 
+categories: []
 tags: []
 image: http://oeco.org.br/wp-content/uploads/2022/01/Evaristo-Bolsonaro-e-Santa-Cruz.jpg
 ---

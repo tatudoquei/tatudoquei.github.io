@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-17 16:51:00
 pub_date: 2019-11-17 16:51:00
 time_added: 2019-11-17 22:14:26
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/95/2019/09/13/entrevista-gilmar-mendes-1568424885373_v2_615x300.jpg
 ---

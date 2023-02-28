@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-30 12:49:00
 pub_date: 2021-03-30 12:49:00
 time_added: 2021-03-30 19:48:42
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/54/2020/06/11/31-05-2020-12h00-o-presidente-jair-bolsonaro-cumprimenta-apoiadores-na-frente-do-palacio-do-planalto-e-depois-da-uma-volta-em-um-cavalo-da-pm-durante-uma-manifestacao-em-apoio-ao-governo-1591918492389_v2_615x300.jpg
 ---

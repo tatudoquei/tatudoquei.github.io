@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-15 19:40:00
 pub_date: 2020-05-15 19:40:00
 time_added: 2020-05-17 10:05:52
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/61/2020/05/12/presidente-jair-bolsonaro-1589283786879_v2_615x300.jpg
 ---

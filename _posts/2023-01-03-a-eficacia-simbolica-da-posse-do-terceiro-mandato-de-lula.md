@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-03 00:54:41
 pub_date: 2023-01-03 00:54:41
 time_added: 2023-01-03 08:18:35
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Liliacrop.png1/alternates/LANDSCAPE_768/Liliacrop.png
 ---

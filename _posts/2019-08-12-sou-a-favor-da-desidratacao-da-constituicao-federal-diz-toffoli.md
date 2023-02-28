@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-12 11:50:00
 pub_date: 2019-08-12 11:50:00
 time_added: 2019-08-14 07:01:29
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ed/2019/07/16/dias-toffoli-presidente-do-stf-supremo-tribunal-federal-1563309043182_v2_750x421.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-18 11:23:16
 pub_date: 2020-05-18 11:23:16
 time_added: 2020-05-18 13:23:16
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/especialSUS_teaser.png/alternates/LANDSCAPE_768/especialSUS_teaser.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-27 10:21:00
 pub_date: 2020-03-27 10:21:00
 time_added: 2020-04-10 11:09:03
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24332955-af7-3ea/FT1086A/652/devastacao.jpg
 ---

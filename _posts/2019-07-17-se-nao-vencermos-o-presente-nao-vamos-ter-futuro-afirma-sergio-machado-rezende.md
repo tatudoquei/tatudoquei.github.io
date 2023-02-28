@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-17 16:25:50
 pub_date: 2019-07-17 16:25:50
 time_added: 2019-07-19 06:13:07
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/07/Sergio-Rezende-Foto-corte.jpg
 ---

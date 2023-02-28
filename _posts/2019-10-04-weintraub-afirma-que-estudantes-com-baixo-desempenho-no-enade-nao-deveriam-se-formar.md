@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-04 16:53:16
 pub_date: 2019-10-04 16:53:16
 time_added: 2019-10-05 17:37:02
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/pj5IKByhQRKEsumNS6qdrKYTo9c=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/k/W/xnlrKWRz2gJQJBwrsLpA/weintraubmec.jpg
 ---

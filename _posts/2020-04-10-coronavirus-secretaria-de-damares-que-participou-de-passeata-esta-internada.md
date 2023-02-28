@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-10 00:12:52
 pub_date: 2020-04-10 00:12:52
 time_added: 2020-04-10 18:57:42
-category: 
+categories: []
 tags: []
 image: https://www.pragmatismopolitico.com.br/wp-content/uploads/2020/04/angela-gandra-coronavirus.jpg
 ---

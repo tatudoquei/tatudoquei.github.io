@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-04 14:03:00
 pub_date: 2019-06-04 14:03:00
 time_added: 2019-06-05 20:56:00
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/fc/2019/05/14/paulo-guedes-participa-de-audiencia-na-comissao-mista-do-orcamento-1557863823247_v2_615x300.jpg
 ---

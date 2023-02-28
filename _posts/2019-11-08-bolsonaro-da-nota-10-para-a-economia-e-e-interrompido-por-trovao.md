@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-08 19:49:46
 pub_date: 2019-11-08 19:49:46
 time_added: 2019-11-08 20:49:46
-category: 
+categories: []
 tags: []
 image: https://i.ytimg.com/vi/CJPT6YqNKDk/maxresdefault.jpg
 ---

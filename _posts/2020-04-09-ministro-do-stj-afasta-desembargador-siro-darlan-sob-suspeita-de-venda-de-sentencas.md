@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-09 09:36:51
 pub_date: 2020-04-09 09:36:51
 time_added: 2020-04-10 05:15:47
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2019/09/Desembargador-Siro-Darlan-Foto-TJ-RJ.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-30 15:57:39
 pub_date: 2019-07-30 15:57:39
 time_added: 2019-07-31 06:16:34
-category: 
+categories: []
 tags: []
 image: https://jornalggn.com.br/sites/default/files/2019/07/operacao-lava-jato-e-os-objetivos-dos-eua-para-america-latina-e-brasil-sergio-moro-3-0.jpg
 ---

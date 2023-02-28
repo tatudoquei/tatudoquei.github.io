@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-27 23:03:17
 pub_date: 2019-02-27 23:03:17
 time_added: 2020-03-30 18:42:00
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2019/02/araujo-e1551308435257.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-08 07:00:02
 pub_date: 2020-04-08 07:00:02
 time_added: 2020-04-08 12:13:04
-category: 
+categories: []
 tags: []
 image: https://media.salon.com/2020/04/jim-jones-jair-bolsonaro-0407201.jpg
 ---

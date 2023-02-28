@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-09 07:41:23
 pub_date: 2019-06-09 07:41:23
 time_added: 2019-06-10 13:42:31
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2017/10/FORUM-ESTADAO-MAOS.jpg
 ---

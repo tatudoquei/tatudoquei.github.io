@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-16 03:00:00
 pub_date: 2020-01-16 03:00:00
 time_added: 2020-01-16 18:12:25
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/9a/2019/11/13/5nov19---voluntario-retira-residuos-de-oleo-em-praia-em-lauro-de-freitas-na-bahia-1573666436044_v2_750x421.jpg
 ---

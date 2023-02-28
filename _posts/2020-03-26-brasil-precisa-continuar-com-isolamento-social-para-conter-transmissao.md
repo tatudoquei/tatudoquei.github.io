@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-26 14:35:25
 pub_date: 2020-03-26 14:35:25
 time_added: 2020-03-30 14:41:36
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/03/20200325_coronavirus-isolamento-social.jpg
 ---

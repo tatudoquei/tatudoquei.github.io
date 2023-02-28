@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-04 09:48:09
 pub_date: 2019-09-04 09:48:09
 time_added: 2019-09-07 08:26:43
-category: 
+categories: []
 tags: []
 image: https://sustentabilidade.estadao.com.br/blogs/ambiente-se/wp-content/uploads/sites/92/2019/09/WhatsApp-Image-2019-09-04-at-11.06.39-e1567607806286.jpeg
 ---

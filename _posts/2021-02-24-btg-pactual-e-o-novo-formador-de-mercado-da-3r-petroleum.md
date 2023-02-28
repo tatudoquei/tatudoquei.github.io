@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-24 12:43:02
 pub_date: 2021-02-24 12:43:02
 time_added: 2021-07-25 17:01:14
-category: 
+categories: []
 tags: []
 image: https://media.moneytimes.com.br/uploads/2021/01/1-106.jpg
 ---

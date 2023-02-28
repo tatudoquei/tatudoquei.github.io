@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-18 07:30:00
 pub_date: 2021-02-18 07:30:00
 time_added: 2021-02-18 18:57:18
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/ShTFWrlZUKuF-7xJRaHeu4mxPnY=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2021/02/17/cbpf.jpg
 ---

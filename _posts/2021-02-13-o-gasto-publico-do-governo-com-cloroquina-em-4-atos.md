@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-13 21:26:01
 pub_date: 2021-02-13 21:26:01
 time_added: 2021-02-13 18:26:01
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/cloro.JPG/alternates/LANDSCAPE_768/cloro.JPG
 ---

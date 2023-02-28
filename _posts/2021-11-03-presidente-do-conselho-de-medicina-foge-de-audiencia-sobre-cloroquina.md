@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-03 15:36:02
 pub_date: 2021-11-03 15:36:02
 time_added: 2021-11-13 12:37:06
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2021/11/03123440/x95939375_27-08-2019-Comissao-Mistada-Medida-Provisoria-CMMPV-n-890-de-2019-que-institui-o-Programa.jpg.pagespeed.ic_.x09Kzgb5jx.jpg
 ---

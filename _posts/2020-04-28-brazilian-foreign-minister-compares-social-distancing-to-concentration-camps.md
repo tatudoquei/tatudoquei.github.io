@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-28 16:36:00
 pub_date: 2020-04-28 16:36:00
 time_added: 2020-04-29 04:32:53
-category: 
+categories: []
 tags: []
 image: https://static.timesofisrael.com/www/uploads/2020/04/1588018609147_araujo_pompeo-1024x640.jpg
 ---

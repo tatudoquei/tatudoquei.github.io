@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-09 20:20:00
 pub_date: 2021-04-09 20:20:00
 time_added: 2021-04-10 18:57:13
-category: 
+categories: []
 tags: []
 image: https://thumb.mais.uol.com.br/16914780.jpg?ver=1
 ---

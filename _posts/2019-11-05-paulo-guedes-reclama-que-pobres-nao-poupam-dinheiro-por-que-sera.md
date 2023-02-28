@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-05 21:35:47
 pub_date: 2019-11-05 21:35:47
 time_added: 2019-11-05 22:35:47
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/04/pauloguedes-1-615x300.jpg
 ---

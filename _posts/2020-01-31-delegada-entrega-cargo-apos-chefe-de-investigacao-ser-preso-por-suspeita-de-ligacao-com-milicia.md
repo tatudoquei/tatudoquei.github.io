@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-31 08:51:00
 pub_date: 2020-01-31 08:51:00
 time_added: 2020-02-02 08:38:16
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24221913-295-739/FT1086A/652/delegados.jpg
 ---

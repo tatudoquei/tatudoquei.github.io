@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-01 18:41:17
 pub_date: 2021-02-01 18:41:17
 time_added: 2021-02-01 19:41:17
-category: 
+categories: []
 tags: []
 image: https://agazetabahia.com/painel/modulos/artigos/images/161217510612.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-23 05:24:08
 pub_date: 2019-08-23 05:24:08
 time_added: 2019-08-23 07:24:08
-category: 
+categories: []
 tags: []
 image: http://www.nasa.gov/sites/default/files/thumbnails/image/brazil-nolabels.jpg
 ---

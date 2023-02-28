@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-17 06:20:00
 pub_date: 2019-02-17 06:20:00
 time_added: 2019-02-17 23:47:30
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://s2.glbimg.com/3K1FhA4utNZLfaysaSFLDug1DVY=/666x375/i.glbimg.com/og/ig/infoglobo1/f/original/2018/12/10/xfabricio-e-flavio.jpg.pagespeed.ic.f_73jw_lqm.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-08 11:00:34
 pub_date: 2020-08-08 11:00:34
 time_added: 2020-08-09 17:34:32
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/cb/2020/08/08/fabio-porchat-participa-de-campanha-sou-um-racista-em-desconstrucao-1596886419163_v2_615x300.jpg
 ---

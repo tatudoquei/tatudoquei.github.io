@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-24 23:56:08
 pub_date: 2020-06-24 23:56:08
 time_added: 2020-06-25 12:36:36
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/Y1De1b-8CkuZxh6nOkhMPLeQJhE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/G/D/vErhAAQ7G1lf4lBHmNkg/sessao-senado.jpg
 ---

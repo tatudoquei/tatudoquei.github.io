@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-26 15:04:00
 pub_date: 2020-06-26 15:04:00
 time_added: 2020-06-30 20:53:39
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/3d/2020/06/26/mec-diz-que-decotelli-concluiu-creditos-necessarios-para-doutorado-na-universidade-de-rosario-e-apresenta-certificado-emitido-pela-instituicao-1593202199634_v2_615x300.jpg
 ---

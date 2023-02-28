@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-30 02:59:59
 pub_date: 2019-09-30 02:59:59
 time_added: 2019-10-03 07:35:39
-category: 
+categories: []
 tags: []
 image: http://climainfo.org.br/wp-content/uploads/2019/09/Marcelo-Leite.png
 ---

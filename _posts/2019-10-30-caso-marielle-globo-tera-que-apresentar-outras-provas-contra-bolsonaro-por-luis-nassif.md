@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-30 22:40:01
 pub_date: 2019-10-30 22:40:01
 time_added: 2020-04-28 04:27:31
-category: 
+categories: []
 tags: []
 image: https://jornalggn.com.br/sites/default/files/2019/10/caso-marielle-globo-tera-que-apresentar-outras-provas-contra-bolsonaro-por-luis-nassif-fotobozoglobo2.jpg
 ---

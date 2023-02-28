@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-01 04:55:00
 pub_date: 2020-07-01 04:55:00
 time_added: 2020-07-02 12:09:20
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24508898-93d-a20/FT1086A/652/italo.jpg
 ---

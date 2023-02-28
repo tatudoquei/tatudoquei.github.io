@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-21 21:06:24
 pub_date: 2020-05-21 21:06:24
 time_added: 2020-05-27 21:07:05
-category: 
+categories: []
 tags: []
 image: https://deolhonosruralistas.com.br/wp-content/uploads/2020/05/matogrosso-menoki-1024x576.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-15 09:50:00
 pub_date: 2021-03-15 09:50:00
 time_added: 2021-03-21 09:22:14
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/4b/2021/03/11/jair-carlos-e-flavio-bolsonaro-1615478080495_v2_615x300.jpg
 ---

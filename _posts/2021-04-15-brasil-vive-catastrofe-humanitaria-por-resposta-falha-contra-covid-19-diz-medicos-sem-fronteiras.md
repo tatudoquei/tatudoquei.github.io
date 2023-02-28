@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-15 11:59:00
 pub_date: 2021-04-15 11:59:00
 time_added: 2021-05-16 20:35:43
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24972453-e73-687/FT1086A/cemiterio.jpg
 ---

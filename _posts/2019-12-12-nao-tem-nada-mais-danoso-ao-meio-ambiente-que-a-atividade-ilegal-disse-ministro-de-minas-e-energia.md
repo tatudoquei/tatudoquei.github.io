@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-12 18:47:28
 pub_date: 2019-12-12 18:47:28
 time_added: 2019-12-23 11:15:58
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2019/12/ministro.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-24 15:27:12
 pub_date: 2020-01-24 15:27:12
 time_added: 2020-01-24 22:46:09
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2020/01/dr.-benedito-guimaraes-aguiar-neto-6-1000x630.jpg
 ---

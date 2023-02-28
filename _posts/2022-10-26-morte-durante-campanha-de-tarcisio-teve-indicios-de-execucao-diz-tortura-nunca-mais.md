@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-26 18:14:28
 pub_date: 2022-10-26 18:14:28
 time_added: 2022-10-28 21:04:34
-category: 
+categories: []
 tags: []
 image: https://ponte.org/wp-content/uploads/2022/10/tarcisio_coletiva.jpg
 ---

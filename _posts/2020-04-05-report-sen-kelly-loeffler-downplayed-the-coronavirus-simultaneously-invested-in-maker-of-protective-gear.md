@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-05 20:02:48
 pub_date: 2020-04-05 20:02:48
 time_added: 2020-04-05 22:02:48
-category: 
+categories: []
 tags: []
 image: https://media.vanityfair.com/photos/5e74cffc79d3fb0008ca2d90/16:9/w_1280,c_limit/kellyloeffler.jpg
 ---

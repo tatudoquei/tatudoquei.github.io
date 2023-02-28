@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-24 07:46:00
 pub_date: 2022-10-24 07:46:00
 time_added: 2022-10-28 20:48:34
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ec/2022/10/11/lula-e-bolsonaro-candidatos-a-presidencia-em-2022-1665511758830_v2_615x300.jpg
 ---

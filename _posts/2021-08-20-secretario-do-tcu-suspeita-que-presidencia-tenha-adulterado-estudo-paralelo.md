@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-20 08:00:03
 pub_date: 2021-08-20 08:00:03
 time_added: 2021-08-20 20:39:06
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2021/08/17105950/Alexandre-Marques_Rafaela-Felicciano-3.jpeg
 ---

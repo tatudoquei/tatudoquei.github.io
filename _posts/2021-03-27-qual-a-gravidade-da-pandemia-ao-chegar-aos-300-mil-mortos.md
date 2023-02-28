@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-27 22:04:57
 pub_date: 2021-03-27 22:04:57
 time_added: 2021-03-27 19:04:57
-category: 
+categories: []
 tags: []
 image: https://deoliyp60f2gq.cloudfront.net/300-mil-vitimas-covid/media/images/share.jpg
 ---

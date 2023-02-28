@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-18 14:10:39
 pub_date: 2019-11-18 14:10:39
 time_added: 2019-11-20 21:50:23
-category: 
+categories: []
 tags: []
 image: https://jornalggn.com.br/sites/default/files/2019/11/manchas-de-petroleo-encobrindo-o-crime-ambiental-por-gustavo-gollo-pollutionoilcopy.jpg
 ---

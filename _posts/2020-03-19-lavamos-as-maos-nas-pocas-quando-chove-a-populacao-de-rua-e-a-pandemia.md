@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-19 20:40:12
 pub_date: 2020-03-19 20:40:12
 time_added: 2020-03-21 12:25:56
-category: 
+categories: []
 tags: []
 image: https://ponte.org/wp-content/uploads/2020/03/WhatsApp-Image-2020-03-19-at-17.03.31-1.jpeg
 ---

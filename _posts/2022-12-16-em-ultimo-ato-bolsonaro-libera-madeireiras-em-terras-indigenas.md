@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-16 22:07:00
 pub_date: 2022-12-16 22:07:00
 time_added: 2023-01-06 23:12:03
-category: 
+categories: []
 tags: []
 image: https://oeco.org.br/wp-content/uploads/2022/12/madeiraemTI.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-09 16:45:00
 pub_date: 2021-12-09 16:45:00
 time_added: 2021-12-13 14:52:40
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/politica/25252457-5ec-523/FT1086A/760/Luis-Macedo-Camara-dos-DeputadosFoto-Luis-Macedo-Camara-dos-Deputados-Media-Grande-Or.jpg
 ---

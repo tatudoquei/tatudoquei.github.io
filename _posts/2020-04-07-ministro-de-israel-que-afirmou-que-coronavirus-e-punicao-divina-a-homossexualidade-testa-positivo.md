@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-07 13:33:21
 pub_date: 2020-04-07 13:33:21
 time_added: 2020-04-08 13:21:05
-category: 
+categories: []
 tags: []
 image: https://i2.wp.com/portaldaresistencia.org/wp-content/uploads/2020/04/ministro-saude-israel.jpg?fit=650%2C433&ssl=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-09 10:32:34
 pub_date: 2021-02-09 10:32:34
 time_added: 2021-07-04 12:36:45
-category: 
+categories: []
 tags: []
 image: https://blogs.correiobraziliense.com.br/cbpoder/wp-content/uploads/sites/5/2021/02/Sputnik-V.jpg
 ---

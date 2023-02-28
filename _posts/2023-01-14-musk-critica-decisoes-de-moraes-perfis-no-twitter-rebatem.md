@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-14 23:36:24
 pub_date: 2023-01-14 23:36:24
 time_added: 2023-01-15 09:59:19
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Elon-Musk5/alternates/LANDSCAPE_768/Elon%20Musk
 ---

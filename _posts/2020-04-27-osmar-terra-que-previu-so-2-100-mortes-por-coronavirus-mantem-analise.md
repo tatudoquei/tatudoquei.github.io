@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-27 09:52:00
 pub_date: 2020-04-27 09:52:00
 time_added: 2020-04-28 04:48:41
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/blogs/1c/2020/04/10/osmar-terra-bolsonaro-1586532621049_v2_615x300.jpg
 ---

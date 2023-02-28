@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-15 22:19:16
 pub_date: 2020-03-15 22:19:16
 time_added: 2020-03-18 22:02:09
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2020/03/JurgenFinal.jpg
 ---

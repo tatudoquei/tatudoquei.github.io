@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-01 16:17:37
 pub_date: 2020-06-01 16:17:37
 time_added: 2020-06-01 18:17:37
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/29AB/production/_112476601_manaus4.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-27 12:19:11
 pub_date: 2022-10-27 12:19:11
 time_added: 2022-10-28 21:04:28
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2022/10/24175420/Presidente-Jairai-Bolsonaro-e%CC%81-entrevistado-pela-jornalista-Lilian-Tahan-do-portal-Metro%CC%81poles-2.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-22 11:36:00
 pub_date: 2020-03-22 11:36:00
 time_added: 2020-03-22 17:25:40
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/57/2020/03/10/presidente-dos-estados-unidos-donald-trump-e-presidente-jair-bolsonaro-no-resort-de-mar-a-lago-em-palm-beach-na-florida-1583853135937_v2_615x300.jpg
 ---

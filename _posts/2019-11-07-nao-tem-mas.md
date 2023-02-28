@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-07 22:52:00
 pub_date: 2019-11-07 22:52:00
 time_added: 2019-11-12 23:03:20
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/11/7novredes-1573169436.jpg
 ---

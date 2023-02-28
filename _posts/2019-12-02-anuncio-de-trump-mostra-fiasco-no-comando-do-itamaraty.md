@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-02 20:25:00
 pub_date: 2019-12-02 20:25:00
 time_added: 2019-12-03 07:33:34
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/bkoziypDyrIJm1kY0L3AXNvhXQc=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/12/02/85969885_brazils_president_jair_bolsonaro_attends_the_event_caixa_persons_with_disabilities_of.jpg
 ---

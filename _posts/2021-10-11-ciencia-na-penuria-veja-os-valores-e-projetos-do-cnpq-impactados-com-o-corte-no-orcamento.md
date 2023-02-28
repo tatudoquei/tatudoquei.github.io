@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-11 16:14:11
 pub_date: 2021-10-11 16:14:11
 time_added: 2021-10-17 15:05:16
-category: avisamos
+categories: [avisamos]
 tags: [ciência]
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/08/cnpq-sede-nova.jpg
 ---

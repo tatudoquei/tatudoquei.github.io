@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-27 08:37:33
 pub_date: 2020-10-27 08:37:33
 time_added: 2021-07-04 12:44:49
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2020/10/anvisa-camara.jpg
 ---

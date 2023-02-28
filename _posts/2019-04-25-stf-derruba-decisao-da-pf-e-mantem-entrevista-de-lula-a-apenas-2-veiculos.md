@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-25 14:03:00
 pub_date: 2019-04-25 14:03:00
 time_added: 2019-04-26 04:00:52
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c9/2019/04/05/01mar2018---o-ex-presidente-lula-durante-entrevista-a-afp-em-sao-paulo-1554468211267_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-04 22:35:10
 pub_date: 2021-03-04 22:35:10
 time_added: 2021-03-06 18:44:29
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/08/20200806_reinfeccao_covid.jpg
 ---

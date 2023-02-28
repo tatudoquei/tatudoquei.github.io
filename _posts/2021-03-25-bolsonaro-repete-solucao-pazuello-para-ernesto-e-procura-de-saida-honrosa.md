@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-25 18:11:00
 pub_date: 2021-03-25 18:11:00
 time_added: 2021-03-27 19:03:40
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/df/2020/12/02/4mai2020---o-cancheler-basileiro-ernesto-araujo-e-o-presidente-jair-bolsonaro-1606950589256_v2_615x300.jpg
 ---

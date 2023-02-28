@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-26 10:30:00
 pub_date: 2021-05-26 10:30:00
 time_added: 2021-05-26 18:15:29
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/16/2021/03/25/os-presidente-da-republica-jair-bolsonaro-e-da-camara-arthur-lira-na-saida-do-palacio-do-planalto-nesta-quinta-feira-1616691129671_v2_615x300.jpg
 ---

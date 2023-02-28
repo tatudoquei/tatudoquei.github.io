@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-31 15:26:01
 pub_date: 2020-03-31 15:26:01
 time_added: 2020-03-31 15:53:24
-category: 
+categories: []
 tags: []
 image: https://s3.reutersmedia.net/resources/r/?m=02&d=20200331&t=2&i=1510589488&w=1200&r=LYNXMPEG2U1DH-OBRTP
 ---

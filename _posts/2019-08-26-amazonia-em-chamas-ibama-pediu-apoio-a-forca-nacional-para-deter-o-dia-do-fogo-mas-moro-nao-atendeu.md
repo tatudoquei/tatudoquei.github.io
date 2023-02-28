@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-26 20:17:32
 pub_date: 2019-08-26 20:17:32
 time_added: 2019-08-29 05:22:23
-category: 
+categories: []
 tags: []
 image: https://amazoniareal.com.br/wp-content/uploads/2019/08/QUEIMADAS-AMAZONIA-SOBREVOO-23-08-2019_FOTO-VICYTO-MORIYAMA_GREENPEACE-8.jpg
 ---

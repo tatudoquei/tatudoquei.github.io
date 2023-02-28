@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-18 13:45:00
 pub_date: 2021-08-18 13:45:00
 time_added: 2021-08-20 21:57:27
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25160140-58c-3cd/FT1086A/760/91737331_EC-Sao-PauloSP22-02-2021Fotos-do-painel-do-pregao-da-B3-em-Sao-Paulo-que-mostrou.jpg
 ---

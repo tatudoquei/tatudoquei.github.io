@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-06 02:22:00
 pub_date: 2019-03-06 02:22:00
 time_added: 2019-03-06 15:42:00
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://hashtag.blogfolha.uol.com.br/files/2019/03/video-bolsonaro1.jpg
 ---

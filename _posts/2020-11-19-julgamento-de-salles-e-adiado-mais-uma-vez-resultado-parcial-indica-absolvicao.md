@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-19 18:06:10
 pub_date: 2020-11-19 18:06:10
 time_added: 2020-11-19 19:56:28
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2020/11/Foto-Lula-Marques-Fotos-publicas-2.jpg
 ---

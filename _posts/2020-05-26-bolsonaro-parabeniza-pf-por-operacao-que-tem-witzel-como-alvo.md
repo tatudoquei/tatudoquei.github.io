@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-26 07:03:00
 pub_date: 2020-05-26 07:03:00
 time_added: 2020-05-26 12:25:31
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24446071-59e-78e/FT1086A/652/88242799_BrasilBrasiliaPA25-05-2020COVID-19Presidente-Jair-Bolsonaro-cumprimenta.jpg
 ---

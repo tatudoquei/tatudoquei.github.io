@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-16 02:21:00
 pub_date: 2021-03-16 02:21:00
 time_added: 2021-05-16 18:23:59
-category: 
+categories: []
 tags: []
 image: https://i1.wp.com/blogdoberta.com/wp-content/uploads/2021/03/propeg_capa.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-08 04:12:38
 pub_date: 2020-10-08 04:12:38
 time_added: 2020-10-08 06:12:38
-category: 
+categories: []
 tags: []
 image: https://farmlandgrab.org/uploads/images/photos/14805/large_Warnschilder-der-Fazenda-Caracol-Betreten-verboten-1-e1522181933966-1200x800.jpg?1602105456
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-11 12:01:00
 pub_date: 2023-02-11 12:01:00
 time_added: 2023-02-11 23:21:14
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2023/02/carla-zambelli-bolsonaro-hacker-redes.jpg
 ---

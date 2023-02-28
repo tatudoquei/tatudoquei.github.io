@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-22 19:48:03
 pub_date: 2019-11-22 19:48:03
 time_added: 2019-11-25 21:12:47
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2019/11/o-maior-desmatador-do-brasil-possui-120-madeireiras-na-regiao-norte.jpg
 ---

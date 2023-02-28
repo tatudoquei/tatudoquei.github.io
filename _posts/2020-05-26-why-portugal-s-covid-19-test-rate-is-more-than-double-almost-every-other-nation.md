@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-26 11:39:00
 pub_date: 2020-05-26 11:39:00
 time_added: 2020-05-27 22:24:27
-category: 
+categories: []
 tags: []
 image: https://www.telegraph.co.uk/content/dam/global-health/2020/05/26/TELEMMGLPICT000231796626_trans_NvBQzQNjv4BqCxolCfFRktxha0WgUhXMoDK4rDUGldMlHWitWCNKKG0.jpeg?impolicy=logo-overlay
 ---

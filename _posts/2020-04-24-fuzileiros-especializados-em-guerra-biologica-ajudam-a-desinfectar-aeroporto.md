@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-24 23:12:20
 pub_date: 2020-04-24 23:12:20
 time_added: 2020-04-25 12:11:18
-category: 
+categories: []
 tags: [saúde]
 image: https://img.estadao.com.br/resources/jpg/0/7/1587769613970.jpg
 ---

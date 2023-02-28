@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-03 09:38:15
 pub_date: 2020-12-03 09:38:15
 time_added: 2020-12-04 15:24:14
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/12/bolsonaro-1200x630.jpg
 ---

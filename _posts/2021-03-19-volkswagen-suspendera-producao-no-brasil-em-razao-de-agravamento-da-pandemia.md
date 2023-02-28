@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-19 20:20:18
 pub_date: 2021-03-19 20:20:18
 time_added: 2021-03-20 15:00:23
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/1JPccwUumWDm9uh2NEf4AUArUyg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/3/t/aX5e8HTmWPr7Yf7p340w/volkswagen-nivus-celso-tavares-g1-55.jpg
 ---

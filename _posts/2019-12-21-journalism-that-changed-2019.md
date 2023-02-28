@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-21 10:00:00
 pub_date: 2019-12-21 10:00:00
 time_added: 2019-12-24 20:44:58
-category: 
+categories: []
 tags: []
 image: https://www.aljazeera.com/mritems/Images/2019/7/10/53b0d202572d49d2a2f0e0728eef5b8a_18.jpg
 ---

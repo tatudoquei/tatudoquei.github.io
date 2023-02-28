@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-19 09:14:00
 pub_date: 2021-04-19 09:14:00
 time_added: 2021-05-16 20:44:04
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/45/2021/04/09/presidente-jair-bolsonaro-em-declaracao-a-imprensa-sobre-o-novo-auxilio-emergencial-1617964598709_v2_615x300.jpg
 ---

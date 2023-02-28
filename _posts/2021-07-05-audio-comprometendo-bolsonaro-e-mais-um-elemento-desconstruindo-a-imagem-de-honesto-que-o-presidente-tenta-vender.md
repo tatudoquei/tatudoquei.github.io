@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-05 12:22:59
 pub_date: 2021-07-05 12:22:59
 time_added: 2021-07-25 16:44:18
-category: 
+categories: []
 tags: []
 image: https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/06/25/615x300/1_51271155039_876187826b_k__1_-18083169.jpg
 ---

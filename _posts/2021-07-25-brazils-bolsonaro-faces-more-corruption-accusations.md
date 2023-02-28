@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-25 19:42:10
 pub_date: 2021-07-25 19:42:10
 time_added: 2021-07-25 16:42:10
-category: 
+categories: []
 tags: []
 image: https://www.aljazeera.com/wp-content/uploads/2021/07/2021-06-29T210612Z_2079508705_RC2HAO9LMBJM_RTRMADP_3_HEALTH-CORONAVIRUS-BRAZIL.jpg?resize=1200%2C630
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-04 14:10:36
 pub_date: 2019-07-04 14:10:36
 time_added: 2019-07-04 16:10:36
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_news/1002D/production/_107718556_p07ft8g6.jpg
 ---

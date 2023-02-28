@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-02 21:23:27
 pub_date: 2019-10-02 21:23:27
 time_added: 2019-10-06 08:27:54
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/07/ricardo-salles-2019-7741.jpg.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

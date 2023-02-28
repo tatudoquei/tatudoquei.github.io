@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-22 22:18:28
 pub_date: 2021-04-22 22:18:28
 time_added: 2021-05-29 21:17:08
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2021/04/FABIO-WAJNGARTEN-2021-01.jpg.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

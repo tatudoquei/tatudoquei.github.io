@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-22 18:11:00
 pub_date: 2019-08-22 18:11:00
 time_added: 2020-04-24 18:22:32
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/3e/2019/08/22/o-presidente-jair-bolsonaro-e-o-ministro-sergio-moro-justica-em-evento-em-brasilia-1566514848499_v2_615x300.jpg
 ---

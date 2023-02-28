@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-09 21:32:06
 pub_date: 2023-02-09 21:32:06
 time_added: 2023-02-11 23:13:35
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Ronnie-Lessa/alternates/LANDSCAPE_768/Ronnie%20Lessa
 ---

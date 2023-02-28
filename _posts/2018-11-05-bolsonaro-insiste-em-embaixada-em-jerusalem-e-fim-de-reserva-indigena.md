@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-11-05 22:06:40
 pub_date: 2018-11-05 22:06:40
 time_added: 2018-11-08 08:09:23
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://www.valor.com.br/sites/all/themes/basic/images/facebook/valor-big.jpg
 ---

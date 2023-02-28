@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-03 23:00:00
 pub_date: 2020-02-03 23:00:00
 time_added: 2020-02-05 05:21:47
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/18221/production/_110694889_foto3-pyelito-kue-prms-tarja.jpg
 ---

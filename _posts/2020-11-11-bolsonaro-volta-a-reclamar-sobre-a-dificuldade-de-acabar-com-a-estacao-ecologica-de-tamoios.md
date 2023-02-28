@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-11 02:35:33
 pub_date: 2020-11-11 02:35:33
 time_added: 2020-11-14 08:34:50
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2020/11/Jair-Bolsonaro-Tamoios.jpg
 ---

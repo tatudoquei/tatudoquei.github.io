@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-07 20:33:57
 pub_date: 2019-02-07 20:33:57
 time_added: 2019-02-10 00:06:32
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/01/brasil-brumadinho-bolsonaro-20190125-0001.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-24 05:44:38
 pub_date: 2020-04-24 05:44:38
 time_added: 2020-04-25 05:36:25
-category: fake news
+categories: [fake news, resistimos]
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2020/03/alexandre_260320202114.jpg
 ---

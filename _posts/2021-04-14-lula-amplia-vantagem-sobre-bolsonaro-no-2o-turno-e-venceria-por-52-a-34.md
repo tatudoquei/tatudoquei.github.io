@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-14 22:20:33
 pub_date: 2021-04-14 22:20:33
 time_added: 2021-04-15 06:04:05
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/04/lula-bolsonaro-1-1200x630.png
 ---

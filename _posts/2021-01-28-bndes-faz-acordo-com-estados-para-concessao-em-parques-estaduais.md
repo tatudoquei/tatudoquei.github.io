@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-28 19:07:21
 pub_date: 2021-01-28 19:07:21
 time_added: 2021-02-07 23:09:31
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/01/Oeco_PE-Jalapao-Mauricio-Gomes-de-Oliveira-Wkps.jpg
 ---

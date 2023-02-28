@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-15 20:55:58
 pub_date: 2023-01-15 20:55:58
 time_added: 2023-01-16 23:19:24
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/entrevista-politiques-isabela-kalil-social.png/alternates/LANDSCAPE_768/entrevista-politiques-isabela-kalil-social.png
 ---

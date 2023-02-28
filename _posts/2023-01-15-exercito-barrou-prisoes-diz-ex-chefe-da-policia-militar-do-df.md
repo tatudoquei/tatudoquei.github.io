@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-15 22:42:11
 pub_date: 2023-01-15 22:42:11
 time_added: 2023-01-16 23:19:31
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Fabio-Augusto-Vieira/alternates/LANDSCAPE_768/Fabio%20Augusto%20Vieira
 ---

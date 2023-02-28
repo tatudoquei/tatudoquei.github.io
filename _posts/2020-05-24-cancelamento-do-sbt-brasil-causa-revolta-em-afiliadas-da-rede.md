@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-24 07:54:00
 pub_date: 2020-05-24 07:54:00
 time_added: 2020-05-25 19:00:55
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/b2/2020/04/16/presidente-jair-bolsonaro-e-o-apresentador-silvio-santos-foto-lourival-ribeiro-sbt-1587075203866_v2_615x300.jpg
 ---

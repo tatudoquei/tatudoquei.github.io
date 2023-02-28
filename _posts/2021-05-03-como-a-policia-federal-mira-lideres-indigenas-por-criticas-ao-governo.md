@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-03 22:00:00
 pub_date: 2021-05-03 22:00:00
 time_added: 2021-05-24 07:58:36
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/S%C3%B4nia-Guajajara/alternates/LANDSCAPE_768/S%C3%B4nia%20Guajajara
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-29 13:42:00
 pub_date: 2020-07-29 13:42:00
 time_added: 2020-07-29 19:42:16
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/bc/2016/04/01/1abr2016---um-lobo-guara-no-piaui-a-coloracao-vermelha-e-marrom-e-orelhas-pontudas-o-fazem-parecer-uma-raposa-mas-a-diferenca-esta-nas-pernas-longas-1459514653857_615x300.jpg
 ---

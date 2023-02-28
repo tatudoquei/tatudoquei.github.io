@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-28 04:30:00
 pub_date: 2020-03-28 04:30:00
 time_added: 2020-03-29 21:25:13
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24334934-4d6-c96/FT1086A/652/medicamento.jpg
 ---

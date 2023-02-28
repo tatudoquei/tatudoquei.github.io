@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-28 13:14:00
 pub_date: 2019-08-28 13:14:00
 time_added: 2019-08-30 23:36:34
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/08/27-08-19-botinha-final-redes-1566940629.jpg
 ---

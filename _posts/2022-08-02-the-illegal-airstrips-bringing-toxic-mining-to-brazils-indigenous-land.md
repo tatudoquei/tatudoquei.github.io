@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-08-02 09:00:25
 pub_date: 2022-08-02 09:00:25
 time_added: 2022-08-08 21:19:44
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2022/08/01/world/brazil-airstrips-illegal-mining-promo/brazil-airstrips-illegal-mining-promo-facebookJumbo.jpg
 ---

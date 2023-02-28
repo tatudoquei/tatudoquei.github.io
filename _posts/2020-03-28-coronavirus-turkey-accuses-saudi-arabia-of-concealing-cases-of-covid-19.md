@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-28 06:55:59
 pub_date: 2020-03-28 06:55:59
 time_added: 2020-03-28 07:55:59
-category: 
+categories: []
 tags: []
 image: http://www.middleeasteye.net/sites/default/files/images-story/kaabah_mecca_reuters.jpg
 ---

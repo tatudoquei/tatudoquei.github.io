@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-03 07:30:43
 pub_date: 2022-11-03 07:30:43
 time_added: 2022-11-04 20:39:28
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/Uyvl_GsDShnkINbm2CsZLlcI-d4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/J/B/PEYMxURjqJPFkaWF04ZA/lulab.jpg
 ---

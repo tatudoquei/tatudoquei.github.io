@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-27 16:53:37
 pub_date: 2022-12-27 16:53:37
 time_added: 2022-12-31 12:20:03
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/vj5iKl67uIaOvAg5v4ThAGL5lUs=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/H/f/y9N9BQT8qEuBLbCKjC4w/foto-armamento.jpg
 ---

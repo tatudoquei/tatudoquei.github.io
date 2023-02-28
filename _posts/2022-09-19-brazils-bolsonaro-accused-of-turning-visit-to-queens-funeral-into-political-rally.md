@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-19 09:16:35
 pub_date: 2022-09-19 09:16:35
 time_added: 2022-10-02 22:11:54
-category: 
+categories: []
 tags: []
 image: https://static.independent.co.uk/2022/09/19/10/bolsonaro.jpg?quality=75&width=1200&auto=webp
 ---

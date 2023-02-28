@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-23 04:30:29
 pub_date: 2020-04-23 04:30:29
 time_added: 2020-04-24 07:43:47
-category: 
+categories: []
 tags: []
 image: https://cdn.cnn.com/cnnnext/dam/assets/200422171814-robert-redfield-cdc-super-tease.jpg
 ---

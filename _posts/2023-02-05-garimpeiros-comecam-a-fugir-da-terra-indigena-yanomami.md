@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-05 10:56:47
 pub_date: 2023-02-05 10:56:47
 time_added: 2023-02-27 22:30:27
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2023/01/vac_abr2701231768.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

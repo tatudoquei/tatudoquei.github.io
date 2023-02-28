@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-16 23:00:00
 pub_date: 2019-12-16 23:00:00
 time_added: 2019-12-18 20:17:34
-category: 
+categories: []
 tags: []
 image: https://www.americasquarterly.org/sites/default/files/bolsonaro_military.jpg
 ---

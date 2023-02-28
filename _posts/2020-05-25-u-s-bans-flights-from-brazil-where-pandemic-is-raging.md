@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-25 01:54:36
 pub_date: 2020-05-25 01:54:36
 time_added: 2020-05-25 19:34:46
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/05/24/world/24brazil-coronavirus1/24brazil-coronavirus1-facebookJumbo.jpg
 ---

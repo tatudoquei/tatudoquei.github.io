@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-04 20:37:08
 pub_date: 2019-05-04 20:37:08
 time_added: 2019-05-04 17:37:08
-category: 
+categories: []
 tags: []
 image: https://i1.wp.com/ocolunista.com.br/wp-content/uploads/2019/04/bolsonaro-militares.jpg
 ---

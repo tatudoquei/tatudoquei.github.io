@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-07 05:29:00
 pub_date: 2020-08-07 05:29:00
 time_added: 2020-10-21 05:34:11
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/epoca/24572620-868-1aa/FT1086A/652/89053773_EPOCAAracatubaSP04-08-2020Kate-Ane-Belintani-perdeu-a-gu.jpg
 ---

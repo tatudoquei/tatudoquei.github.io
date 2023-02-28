@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-02 01:02:38
 pub_date: 2019-11-02 01:02:38
 time_added: 2020-04-28 04:28:36
-category: 
+categories: []
 tags: []
 image: https://jornalggn.com.br/sites/default/files/2019/11/mutirao-e-reportagem-a-tela-exibida-por-carluxo-e-de-que-sistema-de-telefonia-whatsapp-image-2019-11-01-at-18.27.45.jpeg
 ---

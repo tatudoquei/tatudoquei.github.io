@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-07 16:41:40
 pub_date: 2019-03-07 16:41:40
 time_added: 2019-03-08 17:12:34
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://static01.nyt.com/images/2019/03/07/opinion/07oliveira/07oliveira-facebookJumbo.jpg
 ---

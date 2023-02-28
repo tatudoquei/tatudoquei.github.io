@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-14 03:00:00
 pub_date: 2021-11-14 03:00:00
 time_added: 2021-07-07 22:16:00
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/VCMZxY25wWQuV0MJZmQqLn0Gmxo=/512x320/smart/e.glbimg.com/og/ed/f/original/2021/07/07/dddodo.jpg
 ---

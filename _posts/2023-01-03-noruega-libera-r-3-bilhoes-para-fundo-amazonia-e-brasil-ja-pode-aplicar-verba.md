@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-03 19:00:00
 pub_date: 2023-01-03 19:00:00
 time_added: 2023-01-14 13:52:33
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/noticiapreta.com.br/wp-content/uploads/2023/01/aves.jpeg?fit=2121%2C1414&ssl=1
 ---

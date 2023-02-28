@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-22 13:54:06
 pub_date: 2019-06-22 13:54:06
 time_added: 2019-06-22 15:54:06
-category: 
+categories: []
 tags: []
 image: https://img.lemde.fr/2019/06/21/464/0/5568/2784/1440/720/60/0/45d886e_SvKYv66HMTA4CShuDMrW_fJj.jpg
 ---

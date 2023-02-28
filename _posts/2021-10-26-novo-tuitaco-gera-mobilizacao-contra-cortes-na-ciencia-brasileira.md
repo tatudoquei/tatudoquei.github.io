@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-26 13:42:00
 pub_date: 2021-10-26 13:42:00
 time_added: 2021-10-31 22:26:53
-category: resistimos
+categories: [resistimos]
 tags: [ciência]
 image: https://f.i.uol.com.br/fotografia/2021/09/27/163277591361522ee9ea0c7_1632775913_3x2_rt.jpg
 ---

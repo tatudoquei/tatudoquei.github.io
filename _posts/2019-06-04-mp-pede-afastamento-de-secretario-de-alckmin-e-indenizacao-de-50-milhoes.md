@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-04 20:27:43
 pub_date: 2017-06-01 16:02:18
 time_added: 2019-06-04 20:27:43
-category: 
+categories: []
 tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2017/06/Ricardo.jpg
 ---

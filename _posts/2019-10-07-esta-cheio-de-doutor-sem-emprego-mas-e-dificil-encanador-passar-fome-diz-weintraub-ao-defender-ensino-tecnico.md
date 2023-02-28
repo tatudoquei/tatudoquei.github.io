@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-07 17:56:04
 pub_date: 2019-10-07 17:56:04
 time_added: 2019-10-10 01:45:55
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/EuTLYEN4miJOG94U26wr8hjGiF8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/y/P/FL5gWSTmWAl0BKGr75Dg/ministro-da-educacao.jpeg
 ---

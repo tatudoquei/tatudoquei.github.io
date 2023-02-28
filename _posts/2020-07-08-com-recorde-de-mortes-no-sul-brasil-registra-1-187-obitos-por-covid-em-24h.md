@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-08 16:26:00
 pub_date: 2020-07-08 16:26:00
 time_added: 2020-07-10 04:01:50
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/77/2020/05/29/cruzes-colocadas-sobre-tumulos-no-cemiterio-sao-francisco-xavier-durante-o-surto-de-doenca-de-coronavirus-no-rio-de-janeiro-1590803664902_v2_615x300.jpg
 ---

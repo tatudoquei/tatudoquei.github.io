@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-09 01:15:00
 pub_date: 2021-02-09 01:15:00
 time_added: 2021-02-12 23:13:36
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24874880-f17-097/FT1086A/652/maranhao.jpg
 ---

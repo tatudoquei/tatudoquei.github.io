@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-10 08:54:00
 pub_date: 2020-02-10 08:54:00
 time_added: 2020-02-10 21:28:02
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/6b/2020/02/10/montagem-com-adriano-magalhaes-da-nobrega-e-flavio-bolsonaro-1581338950307_v2_615x300.jpg
 ---

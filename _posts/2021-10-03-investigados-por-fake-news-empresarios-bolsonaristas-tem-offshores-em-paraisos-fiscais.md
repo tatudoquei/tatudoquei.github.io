@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-03 16:30:00
 pub_date: 2021-10-03 16:30:00
 time_added: 2021-10-17 14:29:30
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/10/capa-facebook-empresarios-bolsonaristas.png
 ---

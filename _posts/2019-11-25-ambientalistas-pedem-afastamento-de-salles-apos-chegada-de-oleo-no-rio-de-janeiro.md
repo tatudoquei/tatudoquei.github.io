@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-25 21:36:23
 pub_date: 2019-11-25 21:36:23
 time_added: 2019-11-26 06:58:32
-category: avisamos
+categories: [avisamos]
 tags: [meio ambiente]
 image: https://www.oeco.org.br/wp-content/uploads/2019/11/inea.png
 ---

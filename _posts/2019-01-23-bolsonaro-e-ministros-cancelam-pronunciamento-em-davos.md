@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-23 15:35:26
 pub_date: 2019-01-23 15:35:26
 time_added: 2019-01-24 21:21:00
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://s2.glbimg.com/szUtV-lUodbAW15z17MFxp9XVBQ=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/t/7/NdtSJUTTaAyatzaw4GYQ/entrevista-ministros-bolsonaro-davos-2.jpg
 ---

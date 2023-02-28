@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-11 22:38:10
 pub_date: 2020-05-11 22:38:10
 time_added: 2020-05-12 12:45:43
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/05/Bolsonaro-Alvorada-1-1200x630.jpg
 ---

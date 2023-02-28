@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-22 18:49:31
 pub_date: 2020-01-22 18:49:31
 time_added: 2020-01-25 12:49:09
-category: 
+categories: []
 tags: []
 image: https://www.viomundo.com.br/wp-content/uploads/2020/01/morojuristanazista-1399x600.jpg
 ---

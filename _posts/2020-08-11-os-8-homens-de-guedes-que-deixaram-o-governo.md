@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-11 18:40:00
 pub_date: 2020-08-11 18:40:00
 time_added: 2020-08-12 13:52:03
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24580701-98e-9b6/FT1086A/652/88140636_Paulo-Guedes-Brazils-economy-minister-wears-a-protective-mask-during-the-National-Flag-Rai.jpg
 ---

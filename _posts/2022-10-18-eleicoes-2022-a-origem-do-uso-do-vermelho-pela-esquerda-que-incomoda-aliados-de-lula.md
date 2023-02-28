@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-18 12:34:09
 pub_date: 2022-10-18 12:34:09
 time_added: 2022-10-28 20:40:14
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/4367/production/_127155271_lula-belford.jpg
 ---

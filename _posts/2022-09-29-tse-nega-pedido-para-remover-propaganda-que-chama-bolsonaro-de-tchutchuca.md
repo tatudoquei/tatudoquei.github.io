@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-29 01:06:45
 pub_date: 2022-09-29 01:06:45
 time_added: 2022-10-03 00:22:40
-category: 
+categories: []
 tags: []
 image: https://www.cartacapital.com.br/wp-content/uploads/2022/09/50063384197_e40dae303d_k.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-10 14:51:27
 pub_date: 2020-01-10 14:51:27
 time_added: 2020-01-11 15:01:24
-category: avisamos
+categories: [avisamos]
 tags: [meio ambiente]
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2020/01/ilustra.jpg
 ---

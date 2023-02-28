@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-16 01:54:59
 pub_date: 2020-06-16 01:54:59
 time_added: 2020-06-16 04:13:55
-category: 
+categories: []
 tags: []
 image: https://ponte.org/wp-content/uploads/2020/06/guilherme-vila-clara.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-20 17:16:00
 pub_date: 2019-06-20 17:16:00
 time_added: 2019-06-25 05:03:08
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2019/06/moronaaudiencia-561x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-28 17:06:09
 pub_date: 2021-03-28 17:06:09
 time_added: 2021-03-28 14:06:09
-category: 
+categories: []
 tags: []
 image: https://costanorte.com.br/image/policy:1.289331.1616792150/image.jpg?f=2x1&w=1000
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-04 18:47:18
 pub_date: 2020-08-04 18:47:18
 time_added: 2020-08-05 03:35:41
-category: 
+categories: []
 tags: []
 image: http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2020/08/04/2020-08-04T144558Z_1_LYNXNPEG73145_RTROPTP_4_TRADE-WTO.JPG
 ---

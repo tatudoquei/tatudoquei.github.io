@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-24 16:12:00
 pub_date: 2019-10-24 16:12:00
 time_added: 2019-11-20 21:59:31
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2015/03/01/1mar2015---botos-sao-alimentados-em-flutuante-de-ecoturismo-no-parque-nacional-de-anavilhanas-no-amazonas-desde-o-inicio-do-ano-a-pesca-da-piracatinga-esta-proibida-no-pais-em-decorrencia-da-1425215294103_615x300.jpg
 ---

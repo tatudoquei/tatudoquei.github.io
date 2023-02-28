@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-13 19:14:08
 pub_date: 2020-04-13 19:14:08
 time_added: 2020-04-13 21:32:45
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2020/04/a-cloroquina-nao-e-a-bala-de-prata-que-o-bolsonaro-diz-img1.jpg
 ---

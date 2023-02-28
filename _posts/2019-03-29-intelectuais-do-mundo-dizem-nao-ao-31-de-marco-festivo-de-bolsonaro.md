@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-29 10:48:00
 pub_date: 2019-03-29 10:48:00
 time_added: 2019-03-29 23:51:19
-category: resistimos
+categories: [resistimos]
 tags: []
 image: https://conteudo.imguol.com.br/2013/03/21/21mar2013---argentino-adolfo-perez-esquivel-conversa-com-jornalista-apos-encontro-com-o-papa-francisco-no-vaticano-o-premio-nobel-da-paz-voltou-a-afirmar-que-o-pontifice-nao-foi-cumplice-com-brutal-1363872881044_750x421.jpg
 ---

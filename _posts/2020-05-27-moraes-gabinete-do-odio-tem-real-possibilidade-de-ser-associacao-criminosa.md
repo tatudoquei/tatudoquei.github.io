@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-27 12:45:00
 pub_date: 2020-05-27 12:45:00
 time_added: 2020-05-27 22:07:12
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/59/2020/04/08/ministro-alexandre-de-moraes-do-supremo-1586401112330_v2_615x300.jpg
 ---

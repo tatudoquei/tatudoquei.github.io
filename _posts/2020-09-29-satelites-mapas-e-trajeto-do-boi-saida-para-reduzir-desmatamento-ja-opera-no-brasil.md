@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-29 17:16:26
 pub_date: 2020-09-29 17:16:26
 time_added: 2020-09-29 22:09:00
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2020/09/3x2.jpg
 ---

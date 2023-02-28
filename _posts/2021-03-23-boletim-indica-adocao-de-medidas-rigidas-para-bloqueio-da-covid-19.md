@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-23 22:24:33
 pub_date: 2021-03-23 22:24:33
 time_added: 2021-05-30 10:19:08
-category: 
+categories: []
 tags: []
 image: https://agencia.fiocruz.br/sites/agencia.fiocruz.br/files/imagemDestaque/boletim_observatorio_d.jpg
 ---

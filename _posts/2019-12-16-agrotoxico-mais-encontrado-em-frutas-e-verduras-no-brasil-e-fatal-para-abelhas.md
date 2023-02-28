@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-16 19:35:46
 pub_date: 2019-12-16 19:35:46
 time_added: 2019-12-23 11:17:23
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2019/12/agrotoxico-mais-encontrado-em-frutas-e-verduras-no-brasil-e-fatal-para-abelhas-img1.jpg
 ---

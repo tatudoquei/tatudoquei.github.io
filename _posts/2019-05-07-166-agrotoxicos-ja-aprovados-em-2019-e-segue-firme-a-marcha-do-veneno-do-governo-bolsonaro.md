@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-07 15:22:13
 pub_date: 2019-05-07 15:22:13
 time_added: 2019-05-08 15:21:35
-category: 
+categories: []
 tags: []
 image: https://pedlowski.files.wordpress.com/2019/05/toxicidade.jpg
 ---

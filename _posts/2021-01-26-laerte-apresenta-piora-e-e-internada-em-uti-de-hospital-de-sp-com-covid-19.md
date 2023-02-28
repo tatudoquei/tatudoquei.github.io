@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-26 15:08:00
 pub_date: 2021-01-26 15:08:00
 time_added: 2021-01-26 19:53:26
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/41/2019/10/31/a-cartunista-laerte-1572558733355_v2_615x300.jpg
 ---

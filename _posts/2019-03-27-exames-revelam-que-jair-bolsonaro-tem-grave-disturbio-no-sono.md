@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-27 09:49:10
 pub_date: 2019-03-27 09:49:10
 time_added: 2019-12-21 09:01:00
-category: 
+categories: []
 tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2019/03/bolsonaro-dormindo-1.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-24 15:46:04
 pub_date: 2022-10-24 15:46:04
 time_added: 2022-10-28 20:48:31
-category: 
+categories: []
 tags: []
 image: https://www.cartacapital.com.br/wp-content/uploads/2022/10/1_roberto_jefferson_prisao-26707412.jpeg
 ---

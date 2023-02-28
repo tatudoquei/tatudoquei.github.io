@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-23 04:00:00
 pub_date: 2020-10-23 04:00:00
 time_added: 2020-10-24 07:33:58
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/epoca/24706901-8b5-57b/FT1086A/652/055_AGIF298334.jpg
 ---

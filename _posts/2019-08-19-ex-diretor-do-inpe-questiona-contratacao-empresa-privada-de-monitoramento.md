@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-19 16:15:46
 pub_date: 2019-08-19 16:15:46
 time_added: 2019-08-19 22:19:28
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/08/20190816_04_Ricardo-Galvao_Usp.jpg
 ---

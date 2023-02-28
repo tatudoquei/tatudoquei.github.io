@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-11 16:12:00
 pub_date: 2020-02-11 16:12:00
 time_added: 2020-02-12 07:58:52
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/7e/2019/11/14/nota-dinheiro-dolares-us-100-cem-1573750312189_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-02 20:00:49
 pub_date: 2020-05-02 20:00:49
 time_added: 2020-05-02 22:00:49
-category: 
+categories: []
 tags: []
 image: https://smastr12.blob.core.windows.net/fundacaoflorestal/sites/243/2020/05/damiao-nota-de-falecimento.jpeg
 ---

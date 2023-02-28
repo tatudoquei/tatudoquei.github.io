@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-25 11:18:06
 pub_date: 2019-07-25 11:18:06
 time_added: 2019-07-26 06:47:00
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2016/10/size_960_16_9_quimica.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

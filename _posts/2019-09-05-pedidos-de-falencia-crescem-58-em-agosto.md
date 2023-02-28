@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-05 00:36:24
 pub_date: 2019-09-05 00:36:24
 time_added: 2019-09-07 08:24:25
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2017/03/economia_ilustracao-51-1200x630.jpg
 ---

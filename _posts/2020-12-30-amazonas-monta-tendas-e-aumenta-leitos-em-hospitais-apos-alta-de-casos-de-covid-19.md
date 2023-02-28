@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-30 13:00:00
 pub_date: 2020-12-30 13:00:00
 time_added: 2020-12-31 00:50:23
-category: 
+categories: []
 tags: [saúde]
 image: https://f.i.uol.com.br/fotografia/2020/12/30/16093322005fec75e8c1232_1609332200_3x2_lg.jpg
 ---

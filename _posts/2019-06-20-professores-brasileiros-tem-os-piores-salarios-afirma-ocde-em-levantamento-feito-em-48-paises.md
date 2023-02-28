@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-20 05:00:00
 pub_date: 2019-06-20 05:00:00
 time_added: 2019-06-22 15:53:51
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/sociedade/23752869-38e-4e6/FT1086A/652/shutterstock_454727263.jpg
 ---

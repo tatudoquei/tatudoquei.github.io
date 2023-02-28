@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-21 19:30:06
 pub_date: 2021-02-21 19:30:06
 time_added: 2021-02-27 17:12:39
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/9q2wbsAe1qnJ15zTRUQ9alMM3Hs=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/a/B/q21dcURBiXG13bBn0htw/post-rui-costa.jpg
 ---

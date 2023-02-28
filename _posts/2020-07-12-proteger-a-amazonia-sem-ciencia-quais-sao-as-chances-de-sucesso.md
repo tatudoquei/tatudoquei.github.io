@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-12 10:28:56
 pub_date: 2020-07-12 10:28:56
 time_added: 2020-07-12 12:28:56
-category: 
+categories: []
 tags: []
 image: https://www.diretodaciencia.com/wp-content/uploads/2020/07/09_07_2020_coletiva_planalto-4.jpg
 ---

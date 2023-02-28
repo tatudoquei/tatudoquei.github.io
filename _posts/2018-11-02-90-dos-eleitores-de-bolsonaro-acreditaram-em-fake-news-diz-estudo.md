@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-11-02 10:50:00
 pub_date: 2018-11-02 10:50:00
 time_added: 2018-11-03 13:55:48
-category: avisamos
+categories: [avisamos, fake news]
 tags: []
 image: https://f.i.uol.com.br/fotografia/2018/07/15/15316865515b4bae979675c_1531686551_3x2_md.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-04 14:51:00
 pub_date: 2021-11-04 14:51:00
 time_added: 2021-11-13 12:38:39
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/0f/2021/10/07/jair-bolsonaro-e-sergio-moro-1633598089360_v2_615x300.jpg
 ---

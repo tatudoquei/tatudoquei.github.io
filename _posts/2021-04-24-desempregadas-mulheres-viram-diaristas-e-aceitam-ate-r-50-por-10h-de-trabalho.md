@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-24 14:00:00
 pub_date: 2021-04-24 14:00:00
 time_added: 2021-04-28 18:58:34
-category: 
+categories: []
 tags: []
 image: https://www.correio24horas.com.br//fileadmin/_processed_/d/e/csm_pauta_diaristas_foto_de_nara_gentil_2382b88490.jpg
 ---

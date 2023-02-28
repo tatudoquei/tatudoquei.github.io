@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-18 11:05:00
 pub_date: 2020-01-18 11:05:00
 time_added: 2020-03-07 18:29:36
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/olevante.com.br/wp-content/uploads/2020/01/bolsonaro-hitler-olevante.jpeg?fit=1200%2C675&ssl=1
 ---

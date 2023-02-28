@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-09 09:00:32
 pub_date: 2021-07-09 09:00:32
 time_added: 2021-07-25 16:53:20
-category: 
+categories: []
 tags: []
 image: https://static.ndmais.com.br/2021/07/duna-3.jpg
 ---

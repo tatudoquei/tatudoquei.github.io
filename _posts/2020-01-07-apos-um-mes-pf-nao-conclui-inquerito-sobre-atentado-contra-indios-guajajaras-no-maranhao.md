@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-07 09:00:59
 pub_date: 2020-01-07 09:00:59
 time_added: 2020-01-08 21:04:11
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/M3hoXrYhtmliHHdKCzE_ve76I4c=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/R/R/dRpjFbR2yAT1GW96XxlQ/raimundo-guajajara.jpg
 ---

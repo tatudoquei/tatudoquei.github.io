@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-30 03:30:00
 pub_date: 2019-12-30 03:30:00
 time_added: 2019-12-31 09:29:57
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24158426-f62-37c/FT1086A/652/porchat.png
 ---

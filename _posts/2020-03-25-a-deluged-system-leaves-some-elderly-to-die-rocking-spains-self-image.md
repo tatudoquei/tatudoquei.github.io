@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-25 21:36:46
 pub_date: 2020-03-25 21:36:46
 time_added: 2020-03-26 08:07:45
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/03/25/world/25virus-spain1/25virus-spain1-facebookJumbo.jpg
 ---

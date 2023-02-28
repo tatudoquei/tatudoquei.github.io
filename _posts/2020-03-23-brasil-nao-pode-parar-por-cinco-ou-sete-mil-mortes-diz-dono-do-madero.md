@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-23 21:36:48
 pub_date: 2020-03-23 21:36:48
 time_added: 2020-03-24 12:51:12
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2020/03/durski.jpg
 ---

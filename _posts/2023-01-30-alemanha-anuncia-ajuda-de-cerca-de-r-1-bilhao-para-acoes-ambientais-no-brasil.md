@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-30 20:40:25
 pub_date: 2023-01-30 20:40:25
 time_added: 2023-01-30 23:20:14
-category: 
+categories: []
 tags: []
 image: https://oeco.org.br/wp-content/uploads/2023/01/marina-1.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-12 17:05:44
 pub_date: 2023-01-12 17:05:44
 time_added: 2023-01-15 09:50:28
-category: 
+categories: []
 tags: []
 image: https://www.revistaogrito.com/wp-content/uploads/2023/01/vac_abr1101231645.jpg
 ---

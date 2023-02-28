@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-30 23:00:00
 pub_date: 2020-12-30 23:00:00
 time_added: 2020-10-08 22:03:28
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/JVcGBpTS-EbStXHiugeaCJpcqiw=/512x320/smart/e.glbimg.com/og/ed/f/original/2020/10/08/foto-planta1.jpg
 ---

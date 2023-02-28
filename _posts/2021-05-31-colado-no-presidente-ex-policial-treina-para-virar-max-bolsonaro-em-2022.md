@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-31 07:00:00
 pub_date: 2021-05-31 07:00:00
 time_added: 2021-06-19 20:14:48
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c7/2021/05/28/max-guilherme-machado-de-moura-1622234043786_v2_750x421.jpg
 ---

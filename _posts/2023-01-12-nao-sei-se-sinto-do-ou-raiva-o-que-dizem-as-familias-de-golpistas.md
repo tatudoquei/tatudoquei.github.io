@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-12 03:01:00
 pub_date: 2023-01-12 03:01:00
 time_added: 2023-01-14 14:31:17
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/tab/d5/2023/01/11/9jan2023--desmonte-do-acampamento-bolsonarista-em-santana-zona-norte-de-sao-paulo-1673448234021_v2_615x300.jpg
 ---

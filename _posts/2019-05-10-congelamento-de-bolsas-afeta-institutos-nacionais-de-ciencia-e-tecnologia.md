@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-10 22:43:41
 pub_date: 2019-05-10 22:43:41
 time_added: 2019-05-16 19:03:24
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/05/200510_pesquisas.jpg
 ---

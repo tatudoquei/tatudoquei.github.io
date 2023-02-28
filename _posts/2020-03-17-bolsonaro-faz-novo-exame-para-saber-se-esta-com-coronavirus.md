@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-17 14:24:00
 pub_date: 2020-03-17 14:24:00
 time_added: 2020-03-18 07:19:19
-category: 
+categories: []
 tags: []
 image: https://img.r7.com/images/flickr-bolsonaro-17032020112730524?dimensions=600x315&crop_position=c
 ---

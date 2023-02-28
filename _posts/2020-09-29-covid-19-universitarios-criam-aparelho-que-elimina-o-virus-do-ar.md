@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-29 01:16:00
 pub_date: 2020-09-29 01:16:00
 time_added: 2020-10-01 03:25:24
-category: 
+categories: []
 tags: []
 image: https://midias.correiobraziliense.com.br/_midias/jpg/2020/09/29/675x450/1_22092020_prottipo_arquivpessoal1-6313480.jpg
 ---

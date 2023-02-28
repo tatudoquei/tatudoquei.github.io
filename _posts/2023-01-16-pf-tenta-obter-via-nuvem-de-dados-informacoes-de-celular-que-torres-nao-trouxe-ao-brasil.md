@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-16 22:24:42
 pub_date: 2023-01-16 22:24:42
 time_added: 2023-01-21 10:12:09
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/G1pjP3z3z52PcTs1_HIrhsle1JM=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/u/6/JunEZhQAAnYy45stOHLw/anderson-torres-ex-ministro-da-justica-de-bolsonaro-e-preso-pela-pf.jpeg
 ---

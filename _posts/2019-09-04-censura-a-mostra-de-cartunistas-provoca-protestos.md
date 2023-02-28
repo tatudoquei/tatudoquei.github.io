@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-04 19:06:34
 pub_date: 2019-09-04 19:06:34
 time_added: 2019-09-04 22:58:07
-category: 
+categories: []
 tags: []
 image: https://www.extraclasse.org.br/wp-content/themes/extra/assets/imagens/seta-esquerda.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-06 18:55:36
 pub_date: 2021-09-06 18:55:36
 time_added: 2021-09-26 05:06:45
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/09/Exploracao-de-madeira-em-Rondonia-Credito_-Vicente-Sampaio_Imaflora.jpg
 ---

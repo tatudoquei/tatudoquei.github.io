@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-26 00:56:11
 pub_date: 2022-12-26 00:56:11
 time_added: 2023-01-06 23:17:17
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Bolsonarista-Terrorista/alternates/LANDSCAPE_768/Bolsonarista%20Terrorista
 ---

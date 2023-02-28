@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-15 18:17:00
 pub_date: 2019-05-15 18:17:00
 time_added: 2019-08-18 21:02:15
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23668824-aae-99f/FT1086A/652/Flavio-Bolsonaro.jpg
 ---

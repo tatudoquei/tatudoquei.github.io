@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-31 06:45:54
 pub_date: 2022-10-31 06:45:54
 time_added: 2022-10-31 14:03:40
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2022/10/nordeste-bolsonaro-848x477.png
 ---

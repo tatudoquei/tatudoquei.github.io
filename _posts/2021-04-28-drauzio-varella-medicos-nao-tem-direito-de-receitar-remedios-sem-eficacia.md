@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-28 19:28:16
 pub_date: 2021-04-28 19:28:16
 time_added: 2021-05-23 07:58:16
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/04/entrevista-drauziovarella-facebook.png
 ---

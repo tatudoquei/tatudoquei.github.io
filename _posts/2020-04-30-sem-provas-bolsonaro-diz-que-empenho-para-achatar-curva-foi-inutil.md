@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-30 17:37:00
 pub_date: 2020-04-30 17:37:00
 time_added: 2020-05-01 07:34:35
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/af/2020/04/30/30abr2020---o-presidente-jair-bolsonaro-durante-transmissao-no-facebook-1588286182934_v2_615x300.jpg
 ---

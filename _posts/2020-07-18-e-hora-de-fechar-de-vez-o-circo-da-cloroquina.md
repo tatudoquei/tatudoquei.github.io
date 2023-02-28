@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-18 11:59:07
 pub_date: 2020-07-18 11:59:07
 time_added: 2020-07-18 13:59:07
-category: 
+categories: []
 tags: []
 image: https://www.revistaquestaodeciencia.com.br/sites/default/files/styles/facebook/public/2020-07/CORONA_END_SQUARE.jpg?itok=cthdWgiP
 ---

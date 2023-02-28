@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-03 04:55:21
 pub_date: 2022-10-03 04:55:21
 time_added: 2022-10-03 00:55:21
-category: 
+categories: []
 tags: []
 image: https://api.time.com/wp-content/uploads/2022/09/Bolsonaro-Brazil-election.jpg?quality=85&w=1024&h=628&crop=1
 ---

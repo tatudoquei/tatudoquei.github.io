@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-22 15:42:52
 pub_date: 2022-10-22 15:42:52
 time_added: 2022-10-22 17:42:52
-category: 
+categories: []
 tags: []
 image: https://www.cjr.org/wp-content/uploads/2022/10/Bolsonaro--800x419.jpg?122376
 ---

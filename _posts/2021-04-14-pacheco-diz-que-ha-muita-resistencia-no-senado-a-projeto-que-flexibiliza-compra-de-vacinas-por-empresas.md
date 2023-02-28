@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-14 09:56:00
 pub_date: 2021-04-14 09:56:00
 time_added: 2021-05-16 20:20:57
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24970511-aa2-ff9/FT1086A/92267685_PA-Brasilia-BSB-31-03-2021-Reuniao-do-Comite-de-Coordenacao-Nacional-para-Enfrentamento.jpg
 ---

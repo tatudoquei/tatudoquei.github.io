@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-09 18:08:00
 pub_date: 2019-10-09 18:08:00
 time_added: 2019-10-10 21:10:41
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/10/bivar-615x300.jpg
 ---

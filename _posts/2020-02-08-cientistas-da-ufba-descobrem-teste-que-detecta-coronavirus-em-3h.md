@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-08 19:59:51
 pub_date: 2020-02-08 19:59:51
 time_added: 2020-02-09 17:23:40
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2020/01/2020-01-16t123459z_1_lynxmpeg0f124_rtroptp_3_germany.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-09 15:27:32
 pub_date: 2021-02-09 15:27:32
 time_added: 2021-02-09 22:14:32
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/02/jair-bolsonaro-e-marcos-pereira-scaled.jpg
 ---

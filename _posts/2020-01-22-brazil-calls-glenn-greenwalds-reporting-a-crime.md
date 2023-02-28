@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-22 01:21:08
 pub_date: 2020-01-22 01:21:08
 time_added: 2020-01-22 16:05:13
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/01/21/opinion/21greenwald/21greenwald-facebookJumbo.jpg
 ---

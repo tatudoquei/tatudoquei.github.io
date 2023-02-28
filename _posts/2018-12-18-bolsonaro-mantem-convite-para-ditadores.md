@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-18 21:25:39
 pub_date: 2018-12-18 21:25:39
 time_added: 2018-12-18 22:37:50
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://abrilveja.files.wordpress.com/2018/12/bolsonaro-maduro-diaz-canel.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

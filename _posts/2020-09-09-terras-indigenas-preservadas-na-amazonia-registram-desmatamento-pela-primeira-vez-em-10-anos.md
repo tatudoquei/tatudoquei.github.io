@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-09 22:01:00
 pub_date: 2020-09-09 22:01:00
 time_added: 2020-09-12 08:37:42
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24630669-c07-f82/FT1086A/652/AmazonasBR-319-que-liga-Porto-Velho-a-Manaus-grande-ponto-de-queimada.jpg
 ---

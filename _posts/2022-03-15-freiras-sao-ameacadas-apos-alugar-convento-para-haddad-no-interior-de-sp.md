@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-03-15 14:27:09
 pub_date: 2022-03-15 14:27:09
 time_added: 2022-10-22 18:12:17
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2022/03/Fernando-Haddad.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

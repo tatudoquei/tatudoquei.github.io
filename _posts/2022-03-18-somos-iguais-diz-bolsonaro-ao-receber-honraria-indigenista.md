@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-03-18 18:33:56
 pub_date: 2022-03-18 18:33:56
 time_added: 2022-03-22 20:27:37
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/bolsonaro-medalha.jpg/alternates/LANDSCAPE_768/bolsonaro-medalha.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-18 21:21:42
 pub_date: 2019-08-18 21:21:42
 time_added: 2019-08-18 23:21:42
-category: 
+categories: []
 tags: []
 image: https://marsemfim.com.br/wp-content/uploads/2019/05/os-tres.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-05 21:14:27
 pub_date: 2021-04-05 21:14:27
 time_added: 2021-05-29 21:33:44
-category: 
+categories: []
 tags: []
 image: https://blogs.bmj.com/bmj/files/2021/02/coronavirus_brazil_mass_graves_PA-53580967.jpg
 ---

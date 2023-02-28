@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-21 14:00:26
 pub_date: 2021-01-21 14:00:26
 time_added: 2021-01-28 13:26:59
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2020/10/Hamilton-Mourao-02.jpg.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-21 19:21:00
 pub_date: 2023-01-21 19:21:00
 time_added: 2023-01-26 19:07:18
-category: 
+categories: []
 tags: []
 image: https://www.diariodepernambuco.com.br/static/app/noticia_127983242361/2023/01/21/918874/20230121162143715074u.jpg
 ---

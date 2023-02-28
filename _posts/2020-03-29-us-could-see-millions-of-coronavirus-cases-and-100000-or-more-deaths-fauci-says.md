@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-29 15:55:59
 pub_date: 2020-03-29 15:55:59
 time_added: 2020-03-29 20:49:49
-category: 
+categories: []
 tags: []
 image: https://cdn.cnn.com/cnnnext/dam/assets/200315102410-01-fauci-presser-0314-super-tease.jpg
 ---

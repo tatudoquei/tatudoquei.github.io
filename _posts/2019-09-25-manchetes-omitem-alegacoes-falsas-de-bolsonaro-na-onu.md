@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-25 12:52:02
 pub_date: 2019-09-25 12:52:02
 time_added: 2019-09-28 06:32:17
-category: 
+categories: []
 tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2019/09/2d0d5394-da50-4fc0-a519-cdfe595c9914.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-19 03:59:35
 pub_date: 2019-09-19 03:59:35
 time_added: 2019-09-19 05:59:35
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/CPI-das-universidades-perguntas-certas-geram-respostas-%C3%BAteis/ALTERNATES/LANDSCAPE_720/CPI%20das%20universidades:%20perguntas%20certas%20geram%20respostas%20%C3%BAteis
 ---

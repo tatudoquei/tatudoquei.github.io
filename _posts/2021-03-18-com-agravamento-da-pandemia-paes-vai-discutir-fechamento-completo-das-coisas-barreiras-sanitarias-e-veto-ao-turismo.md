@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-18 08:07:00
 pub_date: 2021-03-18 08:07:00
 time_added: 2021-03-21 09:27:18
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24930902-439-ba2/FT1086A/eduardo-paes.jpg
 ---

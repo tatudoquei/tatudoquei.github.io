@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-13 13:05:00
 pub_date: 2020-07-13 13:05:00
 time_added: 2020-07-13 22:01:19
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/sociedade/23662142-439-5ed/FT1086A/652/79472770_FILES-In-this-file-photo-taken-on-September-22-2017-Aerial-view-of-deforestation-in-the-1.jpg
 ---

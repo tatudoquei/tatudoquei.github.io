@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-10-31 22:54:00
 pub_date: 2018-10-31 22:54:00
 time_added: 2021-03-06 22:10:32
-category: dita cuja
+categories: [dita cuja, resistimos]
 tags: []
 image: https://f.i.uol.com.br/fotografia/2017/10/11/150776911759debb1dd488f_1507769117_3x2_rt.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-27 09:41:00
 pub_date: 2019-03-27 09:41:00
 time_added: 2019-03-27 22:08:20
-category: refletimos
+categories: [refletimos]
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/03/mourao_redes_27032019.jpg
 ---

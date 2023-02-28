@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-15 20:08:22
 pub_date: 2019-11-15 20:08:22
 time_added: 2020-04-28 04:31:09
-category: 
+categories: []
 tags: []
 image: https://jornalggn.com.br/sites/default/files/2019/11/fotorbozofilhosestourado-1.jpg
 ---

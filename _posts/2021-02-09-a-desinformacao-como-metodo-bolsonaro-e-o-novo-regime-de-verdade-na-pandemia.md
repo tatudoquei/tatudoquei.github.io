@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-09 22:43:14
 pub_date: 2021-02-09 22:43:14
 time_added: 2021-02-10 16:17:47
-category: 
+categories: []
 tags: []
 image: https://jacobin.com.br/wp-content/uploads/2021/02/bolsonaro-pazuello-e-cloroquina-1.jpg
 ---

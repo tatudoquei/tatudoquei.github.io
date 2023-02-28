@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-04 19:09:19
 pub_date: 2022-11-04 19:09:19
 time_added: 2022-11-04 20:09:19
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2022/10/31/world/31brazil/31brazil-facebookJumbo.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-06 09:00:13
 pub_date: 2019-12-06 09:00:13
 time_added: 2019-12-06 19:10:57
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/12/bolsonaro-exercito.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

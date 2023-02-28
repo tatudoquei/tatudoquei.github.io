@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-06 12:46:00
 pub_date: 2020-11-06 12:46:00
 time_added: 2020-11-07 00:07:09
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c8/2020/11/06/incendio-em-transformador-de-subestacao-de-macapa-interrompeu-fornecimento-de-energia-a-13-municipios-1604680946204_v2_615x300.jpg
 ---

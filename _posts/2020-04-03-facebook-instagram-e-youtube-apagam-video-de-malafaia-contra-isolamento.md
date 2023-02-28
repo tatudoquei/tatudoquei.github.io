@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-03 07:22:00
 pub_date: 2020-04-03 07:22:00
 time_added: 2020-04-03 18:50:45
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f5/2020/03/19/pastor-silas-malafaia-promove-culto-em-igreja-de-campo-grande-na-zona-oeste-do-rio-1584629834846_v2_615x300.jpg
 ---

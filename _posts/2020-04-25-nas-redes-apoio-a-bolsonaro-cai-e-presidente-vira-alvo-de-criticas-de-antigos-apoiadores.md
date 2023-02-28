@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-25 03:30:00
 pub_date: 2020-04-25 03:30:00
 time_added: 2020-04-25 13:38:42
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24389743-63b-8e7/FT1086A/652/84308071_BRASILBrasilia-DF29-08-2019O-presidente-da-Republica-Jair-Bolsonaro-e-o-Ministro-d.jpg
 ---

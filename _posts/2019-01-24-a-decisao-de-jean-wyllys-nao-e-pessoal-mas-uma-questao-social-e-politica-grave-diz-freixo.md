@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-24 17:47:00
 pub_date: 2019-01-24 17:47:00
 time_added: 2019-12-23 21:37:44
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://estaticos.globoradio.globo.com/fotos/2019/01/ade75353-e585-4493-8926-55db243f5ac6.png.640x360_q75_box-0%2C51%2C635%2C408_crop_detail.jpg
 ---

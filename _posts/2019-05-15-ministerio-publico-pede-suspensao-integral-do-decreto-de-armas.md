@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-15 09:07:00
 pub_date: 2019-05-15 09:07:00
 time_added: 2019-06-07 21:03:01
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23666831-8eb-d34/FT1086A/652/70734248_BRASILBrasiliaBSBPA25-07-2017PATiro-desportivoMateria-especial-s.jpg
 ---

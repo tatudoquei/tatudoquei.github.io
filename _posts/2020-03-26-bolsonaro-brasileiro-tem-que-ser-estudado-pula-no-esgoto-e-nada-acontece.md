@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-26 17:18:00
 pub_date: 2020-03-26 17:18:00
 time_added: 2020-03-27 22:16:47
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/ae/2020/03/25/jair-bolsonaro-1585172637927_v2_615x300.jpg
 ---

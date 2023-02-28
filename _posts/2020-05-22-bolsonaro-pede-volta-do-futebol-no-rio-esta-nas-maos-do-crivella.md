@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-22 08:44:00
 pub_date: 2020-05-22 08:44:00
 time_added: 2020-05-22 22:04:05
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/48/2020/04/26/jair-bolsonaro-tentou-fazer-live-contra-a-globo-no-domingo-1587951732153_v2_615x300.png
 ---

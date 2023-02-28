@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-01 20:22:05
 pub_date: 2020-05-01 20:22:05
 time_added: 2020-05-02 05:50:51
-category: 
+categories: []
 tags: []
 image: https://img.r7.com/images/r7-052020-praia-lotada-01052020162840154?dimensions=600x315&crop_position=c
 ---

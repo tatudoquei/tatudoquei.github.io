@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-10 18:40:17
 pub_date: 2021-11-10 18:40:17
 time_added: 2021-11-13 12:31:54
-category: resistimos
+categories: [resistimos]
 tags: [ciência]
 image: https://i0.wp.com/jornal.usp.br/wp-content/uploads/2021/11/20210811_Sylvio-Canuto_edson-botelho_joao-romano.jpg?fit=1200%2C630&ssl=1
 ---

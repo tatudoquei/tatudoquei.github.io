@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-15 18:29:22
 pub_date: 2021-01-15 18:29:22
 time_added: 2021-01-15 15:29:22
-category: 
+categories: []
 tags: []
 image: https://www.acritica.com/uploads/news/image/782384/share_medium_show_52884751_401_F5291159-CA0C-4CE7-8992-20C0F65213A1.jpg
 ---

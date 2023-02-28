@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-03 17:38:48
 pub_date: 2021-07-03 17:38:48
 time_added: 2021-07-03 23:01:59
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2021/07/03/multimedia/03Brazil-protests-02/03Brazil-protests-02-facebookJumbo.jpg
 ---

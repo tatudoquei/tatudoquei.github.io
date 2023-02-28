@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-14 08:38:00
 pub_date: 2020-05-14 08:38:00
 time_added: 2020-05-15 12:45:12
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24398478-f37-22a/FT1086A/652/87974150_RI-RIO-DE-JANEIRO-27-04-2020Agentes-funerarios-chegam-para-pegar-corpo-no-conteiner-no-Ho.jpg
 ---

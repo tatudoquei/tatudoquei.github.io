@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-03 09:48:00
 pub_date: 2020-05-03 09:48:00
 time_added: 2020-05-07 18:12:39
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/32/2020/05/01/bolsonaro-tosse-durante-ato-em-favor-do-golpe-militar-no-dia-19-de-abril-1588334196974_v2_615x300.jpg
 ---

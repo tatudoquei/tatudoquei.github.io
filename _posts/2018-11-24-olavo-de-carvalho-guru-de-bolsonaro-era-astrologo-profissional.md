@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-11-24 11:34:04
 pub_date: 2018-11-24 11:34:04
 time_added: 2018-11-25 00:41:12
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2018/11/olavo-de-carvalho-astrologo.jpg
 ---

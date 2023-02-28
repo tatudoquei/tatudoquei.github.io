@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-02 03:00:00
 pub_date: 2021-07-02 03:00:00
 time_added: 2021-07-04 12:47:39
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Urnas-eletr%C3%B4nicas3/alternates/LANDSCAPE_768/Urnas%20eletr%C3%B4nicas
 ---

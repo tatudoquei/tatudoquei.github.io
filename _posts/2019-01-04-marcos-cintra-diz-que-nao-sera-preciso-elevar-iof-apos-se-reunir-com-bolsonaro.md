@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-04 14:51:00
 pub_date: 2019-01-04 14:51:00
 time_added: 2019-12-23 21:15:16
-category: recuadas
+categories: [recuadas]
 tags: [economia]
 image: https://f.i.uol.com.br/fotografia/2018/11/30/15436258835c01dc9b6c22b_1543625883_3x2_rt.jpg
 ---

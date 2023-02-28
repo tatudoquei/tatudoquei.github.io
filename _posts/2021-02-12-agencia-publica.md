@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-12 13:10:22
 pub_date: 2021-02-12 13:10:22
 time_added: 2021-02-13 05:52:33
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/02/o-recordista-de-impeachment.png
 ---

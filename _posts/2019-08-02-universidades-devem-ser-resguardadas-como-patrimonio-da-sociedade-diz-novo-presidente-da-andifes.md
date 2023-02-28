@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-02 15:11:13
 pub_date: 2019-08-02 15:11:13
 time_added: 2019-08-04 08:00:05
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/08/joao-salles-653x350.jpg
 ---

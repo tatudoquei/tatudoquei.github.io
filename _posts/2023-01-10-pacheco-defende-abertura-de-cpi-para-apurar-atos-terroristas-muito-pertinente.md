@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-10 18:05:56
 pub_date: 2023-01-10 18:05:56
 time_added: 2023-01-14 14:21:33
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/ENxvb6odOFmL5SbBtmIS8Ped7Ts=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/c/Y/kJKVL4Tkuexb4qtSLENQ/rodrigo-pacheco-beatriz-borges.jpeg
 ---

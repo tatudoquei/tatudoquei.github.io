@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-26 11:00:00
 pub_date: 2021-04-26 11:00:00
 time_added: 2021-04-26 22:45:32
-category: 
+categories: []
 tags: []
 image: https://www.skeptic.org.uk/wp-content/uploads/2021/04/doctor-563428_1920.jpg
 ---

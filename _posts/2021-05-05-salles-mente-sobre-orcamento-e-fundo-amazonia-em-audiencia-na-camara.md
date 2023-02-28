@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-05 23:09:22
 pub_date: 2021-05-05 23:09:22
 time_added: 2021-05-24 08:03:02
-category: 
+categories: []
 tags: [meio ambiente]
 image: https://www.oeco.org.br/wp-content/uploads/2021/05/Salles-na-Camara.jpg
 ---

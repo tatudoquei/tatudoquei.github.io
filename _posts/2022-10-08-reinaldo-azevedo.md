@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-08 17:14:00
 pub_date: 2022-10-08 17:14:00
 time_added: 2022-10-16 11:49:01
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e9/2022/10/08/ai-2-no-brasil-chavez-aumeta-corte-na-venezuela-e-bolsonaro-elogiando-venenzuelano-1665266903773_v2_615x300.jpg
 ---

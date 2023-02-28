@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-24 14:22:00
 pub_date: 2019-12-24 14:22:00
 time_added: 2019-12-25 09:25:34
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/138/files/2019/12/indulto-615x300.png
 ---

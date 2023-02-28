@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-30 17:27:28
 pub_date: 2019-07-30 17:27:28
 time_added: 2019-07-31 07:23:46
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2019/07/portifolio2.jpg
 ---

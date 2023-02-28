@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-26 17:00:27
 pub_date: 2022-12-26 17:00:27
 time_added: 2023-01-06 23:17:51
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Bolsonaristas/alternates/LANDSCAPE_768/Bolsonaristas
 ---

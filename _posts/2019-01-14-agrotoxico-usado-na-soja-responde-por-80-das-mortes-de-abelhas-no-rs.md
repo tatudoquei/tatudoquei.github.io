@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-14 19:39:46
 pub_date: 2019-01-14 19:39:46
 time_added: 2019-05-29 21:10:13
-category: 
+categories: []
 tags: []
 image: https://canalrural.uol.com.br/wp-content/uploads/2019/01/abelhas-e1547478165133.png
 ---

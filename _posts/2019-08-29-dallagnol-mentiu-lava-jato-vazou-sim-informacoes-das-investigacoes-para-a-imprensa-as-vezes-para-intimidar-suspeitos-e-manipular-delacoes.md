@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-29 02:33:00
 pub_date: 2019-08-29 02:33:00
 time_added: 2019-08-30 23:36:15
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/08/pt-x-deltan-redes-1566759475.jpg
 ---

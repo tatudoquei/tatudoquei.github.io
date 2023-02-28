@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-03 19:25:57
 pub_date: 2021-03-03 19:25:57
 time_added: 2021-03-06 17:19:08
-category: dita cuja
+categories: [dita cuja, refletimos]
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/03/pedro-hallal-2.jpeg
 ---

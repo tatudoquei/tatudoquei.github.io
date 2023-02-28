@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-18 21:25:00
 pub_date: 2020-03-18 21:25:00
 time_added: 2020-03-20 12:39:28
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/26/2019/11/27/27nov2019---o-deputado-eduardo-bolsonaro-psl-sp-durante-discussao-com-representantes-do-setor-de-telecomunicacoes-1574905402622_v2_615x300.jpg
 ---

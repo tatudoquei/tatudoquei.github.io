@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-12 09:00:00
 pub_date: 2021-07-12 09:00:00
 time_added: 2021-07-25 16:57:10
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/5U5uRxkocn47OUCW2nitxlCjVZI=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2021/07/11/orcamento.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-08 20:30:00
 pub_date: 2021-02-08 20:30:00
 time_added: 2021-02-12 23:13:10
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/f3/2021/01/26/uniao-europeia-ameaca-barrar-exportacao-da-vacina-de-oxfordastrazeneca-1611677608243_v2_615x300.jpg
 ---

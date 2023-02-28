@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-12 17:01:00
 pub_date: 2021-12-12 17:01:00
 time_added: 2021-12-13 19:40:48
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/splash/ba/2021/12/12/equipe-da-tv-bahia-e-agredida-por-segurancas-e-apoiadores-de-bolsonaro-1639341683190_v2_615x300.jpg
 ---

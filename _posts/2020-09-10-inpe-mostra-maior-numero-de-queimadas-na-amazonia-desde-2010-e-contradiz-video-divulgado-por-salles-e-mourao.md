@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-10 17:23:00
 pub_date: 2020-09-10 17:23:00
 time_added: 2020-09-12 08:38:03
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24614037-bb1-190/FT1086A/652/floresta-amazonica.jpg
 ---

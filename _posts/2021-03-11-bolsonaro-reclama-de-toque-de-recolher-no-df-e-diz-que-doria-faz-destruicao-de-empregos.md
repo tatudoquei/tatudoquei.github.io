@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-11 14:27:00
 pub_date: 2021-03-11 14:27:00
 time_added: 2021-03-21 09:17:21
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24920066-347-df9/FT1086A/bolsonaro-mpe.jpg
 ---

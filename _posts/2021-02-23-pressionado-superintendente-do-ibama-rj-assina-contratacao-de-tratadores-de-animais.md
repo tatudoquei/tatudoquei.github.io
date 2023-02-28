@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-23 23:05:37
 pub_date: 2021-02-23 23:05:37
 time_added: 2021-02-25 20:41:03
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/02/Oeco_Tucano-no-Cetas-RJ-Acervo-pessoal.jpeg
 ---

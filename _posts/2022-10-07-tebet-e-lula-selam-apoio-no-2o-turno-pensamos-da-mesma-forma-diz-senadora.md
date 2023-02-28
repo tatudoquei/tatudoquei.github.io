@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-07 14:27:00
 pub_date: 2022-10-07 14:27:00
 time_added: 2022-10-10 07:04:38
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/32/2022/10/07/07out2022---o-candidato-a-presidente-luiz-inacio-lula-da-silva-pt-e-o-vice-geraldo-alckmin-psdb-se-encontram-com-simone-tebet-mdb-ms-que-declara-apoio-a-o-lula-no-segundo-turno-em-hotel-na-1665172016189_v2_615x300.jpg
 ---

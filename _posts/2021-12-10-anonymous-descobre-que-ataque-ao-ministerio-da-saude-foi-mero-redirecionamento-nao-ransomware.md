@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-10 19:36:53
 pub_date: 2021-12-10 19:36:53
 time_added: 2021-12-13 14:53:04
-category: 
+categories: []
 tags: []
 image: https://img.olhardigital.com.br/wp-content/uploads/2021/09/anonymous-bolsonaro.jpg
 ---

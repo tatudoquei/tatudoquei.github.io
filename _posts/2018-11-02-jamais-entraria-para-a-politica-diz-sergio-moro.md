@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-11-02 20:55:14
 pub_date: 2016-11-05 04:00:22
 time_added: 2018-11-02 20:55:14
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2016/11/20161103_112216.jpg
 ---

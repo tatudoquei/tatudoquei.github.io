@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-21 10:29:02
 pub_date: 2020-03-21 10:29:02
 time_added: 2020-03-21 11:21:59
-category: 
+categories: []
 tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2020/03/Trump-Bolsonaro_Alan-Santos_PR.jpg
 ---

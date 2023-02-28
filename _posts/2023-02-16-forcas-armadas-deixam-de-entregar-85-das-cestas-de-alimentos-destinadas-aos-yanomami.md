@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-16 21:03:00
 pub_date: 2023-02-16 21:03:00
 time_added: 2023-02-18 08:40:53
-category: 
+categories: [avisamos, malditos milicos]
 tags: []
 ---
 

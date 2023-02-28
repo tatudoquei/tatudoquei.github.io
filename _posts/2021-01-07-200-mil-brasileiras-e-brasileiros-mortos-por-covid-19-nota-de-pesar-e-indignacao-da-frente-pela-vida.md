@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-07 20:39:13
 pub_date: 2021-01-07 20:39:13
 time_added: 2021-01-08 07:47:41
-category: 
+categories: []
 tags: []
 image: https://www.abrasco.org.br/site/wp-content/uploads/2021/01/Sem-Titulo-2.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-22 15:38:45
 pub_date: 2019-01-22 15:38:45
 time_added: 2019-01-23 12:30:07
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://www.valor.com.br/sites/default/files/imagecache/media_library_big_horizontal/fotoweb/ap_19022541625624.jpg
 ---

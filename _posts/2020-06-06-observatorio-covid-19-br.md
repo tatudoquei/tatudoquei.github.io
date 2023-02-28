@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-06 06:20:53
 pub_date: 2020-06-06 06:20:53
 time_added: 2020-06-06 08:20:53
-category: 
+categories: []
 tags: []
 image: http://covid19br.github.io/img/favicons/observatorio-social-analises.png
 ---

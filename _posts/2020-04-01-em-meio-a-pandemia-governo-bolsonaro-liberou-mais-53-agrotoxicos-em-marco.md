@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-01 15:17:24
 pub_date: 2020-04-01 15:17:24
 time_added: 2020-04-02 12:58:38
-category: 
+categories: []
 tags: []
 image: https://pedlowski.files.wordpress.com/2020/04/agrotc3b3xicos-perigosos.jpg
 ---

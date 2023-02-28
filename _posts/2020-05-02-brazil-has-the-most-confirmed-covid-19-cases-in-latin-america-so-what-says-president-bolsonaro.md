@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-02 08:00:00
 pub_date: 2020-05-02 08:00:00
 time_added: 2020-05-04 22:27:51
-category: 
+categories: []
 tags: []
 image: https://i.cbc.ca/1.5551883.1588325183!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/virus-outbreak-brazil.jpg
 ---

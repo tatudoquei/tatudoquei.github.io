@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-05 15:33:00
 pub_date: 2020-01-05 15:33:00
 time_added: 2020-01-07 22:50:38
-category: resistimos
+categories: [resistimos]
 tags: [ciência]
 image: https://conteudo.imguol.com.br/c/noticias/db/2019/11/14/prova-da-fuvest-1573763984705_v2_750x421.jpg
 ---

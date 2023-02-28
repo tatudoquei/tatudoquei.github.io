@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-24 08:54:43
 pub_date: 2021-12-24 08:54:43
 time_added: 2021-12-24 09:54:43
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/bolsonaro-por-reuters-2018.JPG/alternates/LANDSCAPE_768/bolsonaro%20por%20reuters%202018.JPG
 ---

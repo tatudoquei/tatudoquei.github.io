@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-10 04:29:03
 pub_date: 2020-04-10 04:29:03
 time_added: 2020-04-11 05:25:44
-category: refletimos
+categories: [refletimos]
 tags: [meio ambiente]
 image: https://sustentabilidade.estadao.com.br/blogs/ambiente-se/wp-content/uploads/sites/92/2019/10/04.jpg
 ---

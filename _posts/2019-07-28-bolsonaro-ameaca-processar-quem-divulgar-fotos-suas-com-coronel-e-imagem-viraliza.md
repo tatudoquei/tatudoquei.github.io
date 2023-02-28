@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-28 22:38:46
 pub_date: 2016-09-15 10:52:00
 time_added: 2019-07-28 22:38:46
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/20116432-0fd-ef8/FT1086A/652/bolsonaro-chavarry1.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-23 14:17:49
 pub_date: 2022-12-23 14:17:49
 time_added: 2022-12-31 12:19:56
-category: 
+categories: []
 tags: []
 image: https://fup.org.br/wp-content/uploads/2022/12/papa-terra_bacia-de-campos.jpg
 ---

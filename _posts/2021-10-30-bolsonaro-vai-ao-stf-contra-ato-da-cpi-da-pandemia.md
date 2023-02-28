@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-30 20:33:10
 pub_date: 2021-10-30 20:33:10
 time_added: 2021-10-30 17:33:10
-category: 
+categories: []
 tags: []
 image: https://www.cnnbrasil.com.br/wp-content/themes/cnnbrasil/assets/img/fallbackImage.jpg
 ---

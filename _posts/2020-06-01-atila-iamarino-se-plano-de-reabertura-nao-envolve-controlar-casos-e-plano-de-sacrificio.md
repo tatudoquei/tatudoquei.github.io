@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-01 16:57:49
 pub_date: 2020-06-01 16:57:49
 time_added: 2020-06-01 18:17:10
-category: 
+categories: []
 tags: []
 image: https://cdn.revistaforum.com.br/wp-content/uploads/2020/03/atila.jpg
 ---

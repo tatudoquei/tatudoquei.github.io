@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-09 17:20:11
 pub_date: 2020-01-09 17:20:11
 time_added: 2020-01-25 13:00:03
-category: 
+categories: []
 tags: []
 image: https://tedideas.files.wordpress.com/2020/01/final_incompentent_leadership_blur.jpg?w=1200
 ---

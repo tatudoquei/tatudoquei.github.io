@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-30 22:13:00
 pub_date: 2022-10-30 22:13:00
 time_added: 2022-10-30 23:13:00
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2022/10/30/multimedia/30brazil-lula-win-2-1-867a/30brazil-lula-win-2-1-867a-facebookJumbo.jpg
 ---

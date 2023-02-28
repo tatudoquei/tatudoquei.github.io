@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-12 09:03:00
 pub_date: 2020-06-12 09:03:00
 time_added: 2020-06-12 18:27:36
-category: 
+categories: []
 tags: [meio ambiente]
 image: https://conteudo.imguol.com.br/c/entretenimento/b4/2020/06/05/terreno-desmatado-e-queimado-e-visto-na-floresta-amazonia-nos-arredores-de-porto-velho-em-rondonia-setembro2019-1591377274284_v2_615x300.jpg
 ---

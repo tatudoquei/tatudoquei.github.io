@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-04 18:47:00
 pub_date: 2020-05-04 18:47:00
 time_added: 2020-05-07 18:12:30
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/86/2020/03/12/abraham-weintraub-e-jair-bolsonaro-sentados-lado-a-lado-1584056058181_v2_615x300.png
 ---

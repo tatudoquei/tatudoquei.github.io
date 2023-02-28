@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-26 11:49:20
 pub_date: 2020-06-26 11:49:20
 time_added: 2020-06-26 21:21:39
-category: 
+categories: []
 tags: []
 image: https://extra.globo.com/incoming/24500377-741-f32/w976h550-PROP/88244593_files-in-this-file-photo-taken-on-may-20-2020-pills-of-hydroxychlor.jpg
 ---

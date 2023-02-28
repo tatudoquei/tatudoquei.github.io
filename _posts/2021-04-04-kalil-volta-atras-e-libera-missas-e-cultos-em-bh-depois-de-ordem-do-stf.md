@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-04 19:03:38
 pub_date: 2021-04-04 19:03:38
 time_added: 2021-05-16 16:59:46
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/04/kalil-cultos-missas-bh-1080x630.jpg
 ---

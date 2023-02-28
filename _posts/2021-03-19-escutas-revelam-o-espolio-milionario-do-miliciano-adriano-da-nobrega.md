@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-19 07:31:00
 pub_date: 2021-03-19 07:31:00
 time_added: 2021-04-24 22:39:41
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2021/03/redes-ANobrega.jpg
 ---

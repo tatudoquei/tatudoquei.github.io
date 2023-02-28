@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-25 03:14:32
 pub_date: 2021-02-25 03:14:32
 time_added: 2021-02-25 00:14:32
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/praia/alternates/LANDSCAPE_768/praia
 ---

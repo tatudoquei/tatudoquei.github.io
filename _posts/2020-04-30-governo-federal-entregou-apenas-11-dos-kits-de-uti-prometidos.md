@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-30 16:11:12
 pub_date: 2020-04-30 16:11:12
 time_added: 2020-04-30 22:52:20
-category: 
+categories: []
 tags: []
 image: https://observatorio3setor.org.br/wp-content/uploads/2020/04/0930mc0434.jpg
 ---

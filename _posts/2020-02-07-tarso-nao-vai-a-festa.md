@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-07 19:16:56
 pub_date: 2020-02-07 19:16:56
 time_added: 2020-02-07 20:16:56
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2013/09/10/tarso-genro-no-poder-e-politica-1378858525931_615x300.jpg
 ---

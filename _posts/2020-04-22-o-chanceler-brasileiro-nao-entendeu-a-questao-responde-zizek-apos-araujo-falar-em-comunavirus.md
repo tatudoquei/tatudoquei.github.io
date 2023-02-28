@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-22 19:09:00
 pub_date: 2020-04-22 19:09:00
 time_added: 2020-04-23 19:01:39
-category: refletimos
+categories: [refletimos]
 tags: [diplomacia]
 image: https://ogimg.infoglobo.com.br/in/24388349-166-8c1/FT1086A/652/Slavoj-Zizek.jpg
 ---

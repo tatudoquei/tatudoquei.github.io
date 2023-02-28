@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-13 17:28:35
 pub_date: 2022-12-13 17:28:35
 time_added: 2023-01-14 14:21:49
-category: 
+categories: []
 tags: []
 image: https://ponte.org/wp-content/uploads/2022/12/churrasco_de_busao.jpg
 ---

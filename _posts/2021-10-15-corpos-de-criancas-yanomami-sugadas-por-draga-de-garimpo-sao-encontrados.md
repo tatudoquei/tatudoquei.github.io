@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-15 18:04:35
 pub_date: 2021-10-15 18:04:35
 time_added: 2021-10-17 15:02:45
-category: 
+categories: []
 tags: []
 image: https://amazoniareal.com.br/wp-content/uploads/2021/06/0V1A6347.jpg
 ---

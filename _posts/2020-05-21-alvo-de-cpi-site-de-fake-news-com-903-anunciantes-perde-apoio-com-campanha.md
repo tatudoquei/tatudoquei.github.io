@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-21 17:37:00
 pub_date: 2020-05-21 17:37:00
 time_added: 2020-05-22 06:44:16
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a1/2020/05/21/21ma2020---site-de-fake-news-que-apoia-governo-bolsonaro-perdeu-anunciantes-apos-campanha-online-1590094503563_v2_615x300.png
 ---

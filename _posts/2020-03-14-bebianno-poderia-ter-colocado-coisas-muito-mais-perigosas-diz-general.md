@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-14 13:33:00
 pub_date: 2020-03-14 13:33:00
 time_added: 2020-03-15 00:51:23
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f1/2018/09/11/8set2018---gustavo-bebianno-presidente-em-exercicio-do-psl-concedeu-entrevista-na-entrada-do-hospital-israelita-albert-einstein-em-sao-paulo-onde-o-presidenciavel-jair-bolsonaro-esta-internado-1536692910657_v2_615x300.jpg
 ---

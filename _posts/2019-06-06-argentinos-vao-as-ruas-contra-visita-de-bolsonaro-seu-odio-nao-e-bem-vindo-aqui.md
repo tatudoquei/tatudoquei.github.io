@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-06 23:20:29
 pub_date: 2019-06-06 23:20:29
 time_added: 2019-06-07 21:01:53
-category: 
+categories: []
 tags: []
 image: https://farm66.staticflickr.com/65535/48015885957_74b8ee8caa_b.jpg
 ---

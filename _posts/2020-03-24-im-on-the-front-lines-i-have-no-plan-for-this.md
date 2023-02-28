@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-24 09:00:12
 pub_date: 2020-03-24 09:00:12
 time_added: 2020-03-27 21:29:10
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/03/25/opinion/24Lamas/24Lamas-facebookJumbo.jpg
 ---

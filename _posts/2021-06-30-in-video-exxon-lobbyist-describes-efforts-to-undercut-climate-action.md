@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-30 21:16:45
 pub_date: 2021-06-30 21:16:45
 time_added: 2021-07-04 13:06:31
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2021/06/30/climate/30CLI-EXXON1/30CLI-EXXON1-facebookJumbo.jpg
 ---

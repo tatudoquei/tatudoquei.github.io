@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-11 15:20:29
 pub_date: 2021-03-11 15:20:29
 time_added: 2021-03-14 12:09:44
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2021/03/20210311_instituto_butantan2-2.jpg
 ---

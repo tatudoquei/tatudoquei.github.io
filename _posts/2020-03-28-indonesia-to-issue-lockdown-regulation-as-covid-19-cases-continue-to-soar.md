@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-28 06:56:21
 pub_date: 2020-03-28 06:56:21
 time_added: 2020-03-28 07:56:21
-category: 
+categories: []
 tags: []
 image: https://img.jakpost.net/c/2020/02/04/2020_02_04_85875_1580802032._large.jpg
 ---

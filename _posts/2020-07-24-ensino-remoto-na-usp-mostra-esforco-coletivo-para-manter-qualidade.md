@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-24 20:31:52
 pub_date: 2020-07-24 20:31:52
 time_added: 2020-07-27 20:00:25
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/07/20190124_campus_usp_ead1.jpg
 ---

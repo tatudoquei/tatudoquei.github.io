@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-29 20:27:15
 pub_date: 2021-12-29 20:27:15
 time_added: 2022-01-08 12:22:30
-category: 
+categories: []
 tags: []
 image: https://images.jota.info/wp-content/uploads/2021/12/51751651518-b8601b54e3-c.jpg
 ---

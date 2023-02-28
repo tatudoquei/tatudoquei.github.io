@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-27 21:14:39
 pub_date: 2020-03-27 21:14:39
 time_added: 2020-03-27 22:14:39
-category: 
+categories: []
 tags: []
 image: https://www.revistaquestaodeciencia.com.br/sites/default/files/styles/facebook/public/2020-03/BOLSONARO_HOME.jpg?itok=k_0k5f2q
 ---

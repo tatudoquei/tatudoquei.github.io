@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-01 21:13:47
 pub_date: 2020-05-01 21:13:47
 time_added: 2020-05-02 05:31:03
-category: 
+categories: []
 tags: []
 image: https://abrilsaude.files.wordpress.com/2020/05/paulo-lotufo.jpg?quality=85&strip=info&w=680&h=453&crop=1
 ---

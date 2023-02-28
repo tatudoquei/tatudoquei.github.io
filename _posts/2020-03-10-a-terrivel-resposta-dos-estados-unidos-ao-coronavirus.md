@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-10 23:32:57
 pub_date: 2020-03-10 23:32:57
 time_added: 2020-03-15 02:02:42
-category: 
+categories: []
 tags: []
 image: https://www.infomoney.com.br/wp-content/uploads/2019/06/hospital.jpg?fit=900%2C600&quality=75&strip=all
 ---

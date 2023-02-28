@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-10-30 20:10:19
 pub_date: 2018-10-30 20:10:19
 time_added: 2018-10-31 00:55:56
-category: recuadas
+categories: [recuadas]
 tags: [meio ambiente]
 image: https://s2.glbimg.com/vmB0aNsAuSUBxamou_P7nug1xOw=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2018/10/28/1064001-1-02.02.2017-mcamg-9890.jpg
 ---

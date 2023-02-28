@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-24 11:06:00
 pub_date: 2020-02-24 11:06:00
 time_added: 2020-02-24 21:05:50
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/49/2020/02/05/ministra-damares-alves-foto-reproducao-1580932636295_v2_615x300.jpg
 ---

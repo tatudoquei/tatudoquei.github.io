@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-21 09:00:40
 pub_date: 2021-01-21 09:00:40
 time_added: 2021-01-22 13:32:53
-category: avisamos
+categories: [avisamos]
 tags: [saúde]
 image: https://static.poder360.com.br/2021/01/cemiterio-manaus-coronavirus-covid19-1200x630.jpg
 ---

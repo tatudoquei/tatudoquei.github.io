@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-19 21:58:00
 pub_date: 2020-05-19 21:58:00
 time_added: 2020-05-22 21:02:17
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/economia/24284371-c13-492/FT1086A/652/87102949_Brazils-Economy-Minister-Paulo-Guedes-speaks-during-a-launch-ceremony-of-real-estate-credi.jpg
 ---

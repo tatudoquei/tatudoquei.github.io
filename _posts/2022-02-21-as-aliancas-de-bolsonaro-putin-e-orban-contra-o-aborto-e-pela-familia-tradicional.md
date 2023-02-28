@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-02-21 17:00:00
 pub_date: 2022-02-21 17:00:00
 time_added: 2022-03-22 20:29:29
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2022/02/capa-facebook-as-aliancas-de-bolsonaro-putin-e-orban-contra-o-aborto-e-pela-familia-tradicional.png
 ---

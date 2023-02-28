@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-31 09:00:04
 pub_date: 2020-07-31 09:00:04
 time_added: 2020-08-01 23:21:12
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2020/07/DJI_0010-1.jpg?quality=70&strip=info
 ---

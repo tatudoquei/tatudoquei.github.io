@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-03 23:00:00
 pub_date: 2019-02-03 23:00:00
 time_added: 2019-12-23 21:37:45
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/14C52/production/_105347058_pobreza.jpg
 ---

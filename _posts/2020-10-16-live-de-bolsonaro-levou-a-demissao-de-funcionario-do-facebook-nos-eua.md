@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-16 12:05:00
 pub_date: 2020-10-16 12:05:00
 time_added: 2020-10-16 22:12:12
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/3c/2020/09/24/o-presidente-jair-bolsonaro-sem-partido-durante-entrega-de-equipamentos-a-superintendencia-da-prf-no-rio-de-janeiro-1600987358719_v2_615x300.jpg
 ---

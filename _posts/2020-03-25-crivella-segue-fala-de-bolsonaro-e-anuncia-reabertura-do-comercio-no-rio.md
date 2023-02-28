@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-25 13:39:00
 pub_date: 2020-03-25 13:39:00
 time_added: 2020-03-25 19:56:37
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/4c/2020/03/20/20032020---vendedor-ambulante-usa-mascara-de-protecao-durante-tarde-na-praia-de-copacabana-no-rio-de-janeiro-esvaziada-em-funcao-do-temor-de-coronavirus-1584747979107_v2_615x300.jpg
 ---

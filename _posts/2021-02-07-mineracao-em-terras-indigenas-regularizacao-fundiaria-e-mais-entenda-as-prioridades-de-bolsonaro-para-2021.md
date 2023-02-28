@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-07 22:24:54
 pub_date: 2021-02-07 22:24:54
 time_added: 2021-02-07 23:26:43
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/02/Oeco_Bolsonaro-Pachecho-e-Lira_Foto-Luis-Macedo-camara-dos-deputados.jpg
 ---

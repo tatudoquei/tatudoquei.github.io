@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-06 21:01:38
 pub_date: 2020-03-06 21:01:38
 time_added: 2020-03-07 13:55:05
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2020/03/templario.jpg
 ---

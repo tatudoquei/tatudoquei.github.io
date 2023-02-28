@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-06 12:15:00
 pub_date: 2020-03-06 12:15:00
 time_added: 2020-03-07 00:34:13
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/0c/2020/03/04/luiz-inacio-lula-da-silva-e-dilma-rousseff-durante-evento-em-paris-1583318658671_v2_615x300.jpg
 ---

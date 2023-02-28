@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-28 18:51:00
 pub_date: 2021-02-28 18:51:00
 time_added: 2021-03-06 22:51:42
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/economia/24902663-892-8a5/FT1086A/652/Vigilancia-Sanitaria-de-SP-fiscaliza-bar-que-descumpre-toque-de-restricao.jpg
 ---

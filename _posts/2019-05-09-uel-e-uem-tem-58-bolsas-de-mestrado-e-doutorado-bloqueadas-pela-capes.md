@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-09 20:49:15
 pub_date: 2019-05-09 20:49:15
 time_added: 2019-05-12 11:03:14
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/AczgxanET9SDZyOl_zGV6dcixaA=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2016/09/11/entrada_da_uel.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-27 02:30:00
 pub_date: 2020-09-27 02:30:00
 time_added: 2020-09-27 14:49:27
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24663152-afc-3c7/FT1086A/652/allan-tu.jpg
 ---

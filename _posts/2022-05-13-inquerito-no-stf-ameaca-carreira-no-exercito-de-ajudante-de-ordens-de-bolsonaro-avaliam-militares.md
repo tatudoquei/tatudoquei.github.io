@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-05-13 20:00:00
 pub_date: 2022-05-13 20:00:00
 time_added: 2022-10-02 23:41:00
-category: 
+categories: []
 tags: []
 image: https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png?g1
 ---

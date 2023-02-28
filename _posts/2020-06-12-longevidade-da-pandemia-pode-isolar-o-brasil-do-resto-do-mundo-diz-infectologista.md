@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-12 19:14:00
 pub_date: 2020-06-12 19:14:00
 time_added: 2020-06-13 23:16:29
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24477849-00a-4f9/FT1086A/652/FOTO-Roberto-Focaccia.jpg
 ---

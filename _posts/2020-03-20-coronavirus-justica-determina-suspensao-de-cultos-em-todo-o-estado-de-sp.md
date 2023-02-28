@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-20 21:59:00
 pub_date: 2020-03-20 21:59:00
 time_added: 2020-03-22 17:46:39
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e2/2020/03/17/culto-no-templo-de-salomao-1584462564482_v2_615x300.jpg
 ---

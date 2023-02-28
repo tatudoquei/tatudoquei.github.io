@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-02 12:58:00
 pub_date: 2020-07-02 12:58:00
 time_added: 2020-07-12 10:01:15
-category: 
+categories: []
 tags: []
 image: https://img.r7.com/images/carro-dentro-de-shopping-em-botucatu-02072020094436653?dimensions=600x315&crop_position=c
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-02 15:16:00
 pub_date: 2021-06-02 15:16:00
 time_added: 2021-06-05 11:06:31
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2021/06/bolsafarda_020621_redes.jpg
 ---

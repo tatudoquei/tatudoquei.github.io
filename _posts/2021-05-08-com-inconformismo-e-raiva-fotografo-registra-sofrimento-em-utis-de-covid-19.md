@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-08 12:58:00
 pub_date: 2021-05-08 12:58:00
 time_added: 2021-05-24 08:09:29
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2021/05/redes-marenco.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-04 22:00:00
 pub_date: 2022-09-04 22:00:00
 time_added: 2022-10-03 00:18:39
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2022/09/capa-facebook-congresso-catolico-em-minas-vira-palco-de-ataques-ao-pt-e-a-lula.png
 ---

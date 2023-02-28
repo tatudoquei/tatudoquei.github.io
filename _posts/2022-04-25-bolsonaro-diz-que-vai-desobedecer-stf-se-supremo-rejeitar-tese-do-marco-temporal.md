@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-04-25 20:26:17
 pub_date: 2022-04-25 20:26:17
 time_added: 2022-04-25 22:24:10
-category: 
+categories: []
 tags: []
 image: http://oeco.org.br/wp-content/uploads/2022/04/Agrishow.jpg
 ---

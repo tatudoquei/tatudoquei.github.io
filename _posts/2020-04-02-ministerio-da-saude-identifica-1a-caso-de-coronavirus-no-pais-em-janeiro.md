@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-02 16:31:00
 pub_date: 2020-04-02 16:31:00
 time_added: 2020-04-03 10:29:55
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/22/2020/04/01/cientista-linqi-zhang-mostra-tubo-contendo-anticorpos-para-covid-19-para-possivel-uso-em-tratamento-contra-o-novo-coronavirus-na-universidade-tsinghua-em-pequim-1585747463868_v2_615x300.jpg
 ---

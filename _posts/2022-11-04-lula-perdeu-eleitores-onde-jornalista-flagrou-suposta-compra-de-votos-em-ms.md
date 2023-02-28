@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-04 11:01:00
 pub_date: 2022-11-04 11:01:00
 time_added: 2022-11-06 14:17:20
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b3/2022/11/04/reuniao-de-moradores-beneficiarios-do-auxilio-brasil-em-coronel-sapucaia-ms-1667571695219_v2_615x300.png
 ---

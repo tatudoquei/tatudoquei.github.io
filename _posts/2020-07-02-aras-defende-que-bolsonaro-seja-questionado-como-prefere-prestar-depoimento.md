@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-02 16:54:00
 pub_date: 2020-07-02 16:54:00
 time_added: 2020-07-02 23:19:06
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/ea/2020/06/23/brasilia---df-02102019-presidente-da-republica-jair-bolsonaro-recebe-os-cumprimentos-do-procurador-geral-da-republica-augusto-aras-1592937774651_v2_615x300.jpg
 ---

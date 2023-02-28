@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-20 05:54:00
 pub_date: 2020-01-20 05:54:00
 time_added: 2020-01-20 14:55:38
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/67/2019/11/10/capa-da-prova-azul-do-segundo-dia-do-enem-1573421625896_v2_750x421.jpg
 ---

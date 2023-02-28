@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-14 17:12:00
 pub_date: 2021-04-14 17:12:00
 time_added: 2021-05-16 20:21:00
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/tab/3e/2021/04/02/vila-nova-cachoeirinha-o-cemiterio-fechado-para-balanco-por-falta-de-covas-1617342703843_v2_615x300.jpg
 ---

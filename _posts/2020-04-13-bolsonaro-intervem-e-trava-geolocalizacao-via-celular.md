@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-13 14:05:00
 pub_date: 2020-04-13 14:05:00
 time_added: 2020-04-14 11:10:29
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/odVzYnw1KB2h6yLN2Dvt21LcaLE=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2020/01/29/marcos_pontes.jpg
 ---

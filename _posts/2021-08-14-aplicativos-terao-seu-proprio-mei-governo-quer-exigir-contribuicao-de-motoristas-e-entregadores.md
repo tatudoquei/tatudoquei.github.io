@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-14 07:30:00
 pub_date: 2021-08-14 07:30:00
 time_added: 2021-08-20 21:35:44
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/economia/25155250-860-0b1/FT1086A/760/94799698_Workers-ride-bicycles-while-making-Rappi-app-deliveries-in-Sao-Paulo-Brazil-on-Wednesday-Ap.jpg
 ---

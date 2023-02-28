@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-01 21:05:17
 pub_date: 2019-08-01 21:05:17
 time_added: 2019-08-03 18:51:58
-category: 
+categories: []
 tags: []
 image: https://jornalggn.com.br/sites/default/files/2019/08/nao-ele-nao-e-um-louco-respeitem-a-loucura-afirma-doutora-em-psicologia-cynthia-ciarallo-em-artigo-noticias-55.jpg
 ---

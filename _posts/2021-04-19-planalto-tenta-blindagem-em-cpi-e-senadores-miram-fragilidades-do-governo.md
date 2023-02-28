@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-19 02:00:00
 pub_date: 2021-04-19 02:00:00
 time_added: 2021-05-16 20:44:02
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b5/2021/03/31/o-documento-cita-os-ataques-a-liberdade-de-imprensa-realizados-pelo-proprio-presidente-jair-bolsonaro-1617237702854_v2_615x300.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-28 21:40:12
 pub_date: 2020-08-28 21:40:12
 time_added: 2020-08-28 22:32:00
-category: 
+categories: []
 tags: []
 image: https://pedlowski.files.wordpress.com/2020/08/nota-mma.jpg
 ---

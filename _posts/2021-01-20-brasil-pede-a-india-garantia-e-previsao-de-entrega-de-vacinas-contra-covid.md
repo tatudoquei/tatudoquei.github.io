@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-20 19:35:00
 pub_date: 2021-01-20 19:35:00
 time_added: 2021-01-21 15:51:43
-category: refletimos
+categories: [refletimos]
 tags: [diplomacia, saúde]
 image: https://f.i.uol.com.br/fotografia/2020/10/26/16037523215f97518198cef_1603752321_3x2_rt.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-04 03:00:00
 pub_date: 2021-03-04 03:00:00
 time_added: 2021-03-07 00:08:44
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/social_A-emiss%C3%A3o-de-carbono-no-Brasil.-E-o-rastro-da-%E2%80%98boiada%E2%80%99-de-Salles/alternates/LANDSCAPE_768/social_A%20emiss%C3%A3o%20de%20carbono%20no%20Brasil.%20E%20o%20rastro%20da%20%E2%80%98boiada%E2%80%99%20de%20Salles
 ---

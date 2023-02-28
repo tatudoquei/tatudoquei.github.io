@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-21 21:45:00
 pub_date: 2020-12-21 21:45:00
 time_added: 2020-12-22 22:02:52
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/04/2020/12/19/movimentacao-na-regiao-do-comercio-da-rua-25-de-marco-em-sao-paulo-sp-neste-sabado-19-1608407837680_v2_615x300.jpg
 ---

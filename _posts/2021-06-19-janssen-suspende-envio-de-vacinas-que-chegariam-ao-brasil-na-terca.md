@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-19 23:08:41
 pub_date: 2021-06-19 23:08:41
 time_added: 2021-06-19 20:08:41
-category: 
+categories: []
 tags: []
 image: https://pubimg.band.uol.com.br/files/60cdac6776ea8c081f42.png
 ---

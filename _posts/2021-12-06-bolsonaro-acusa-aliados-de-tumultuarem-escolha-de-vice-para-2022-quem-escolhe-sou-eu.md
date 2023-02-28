@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-06 19:57:00
 pub_date: 2021-12-06 19:57:00
 time_added: 2021-12-13 14:50:09
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25302347-ba3-704/FT1086A/760/96353011_MARIZPA-24-11-21-JAIR-BOLSONAROMARIO-ABDO-BENITEZ-Presidente-da-Republica-Jair-Bo.jpg
 ---

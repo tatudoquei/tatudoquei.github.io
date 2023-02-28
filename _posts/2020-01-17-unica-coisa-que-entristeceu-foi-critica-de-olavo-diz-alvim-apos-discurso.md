@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-17 10:23:00
 pub_date: 2020-01-17 10:23:00
 time_added: 2020-01-17 21:00:06
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/13/2020/01/17/roberto-alvim-secretario-especial-da-cultura-do-governo-bolsonaro-1579270510783_v2_615x300.jpg
 ---

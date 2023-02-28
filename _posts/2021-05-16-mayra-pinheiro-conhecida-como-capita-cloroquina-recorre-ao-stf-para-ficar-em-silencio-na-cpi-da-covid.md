@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-16 16:33:00
 pub_date: 2021-05-16 16:33:00
 time_added: 2021-05-17 19:41:19
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/rF2PqlbPvaIDPk1NXGsdOcW8q8o=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2021/05/16/92880527_brasilia_-_df_12-05-2020_palavras_da_secretaria_de_gestao_do_trabalho_e_da_educacao_na_saud.jpg
 ---

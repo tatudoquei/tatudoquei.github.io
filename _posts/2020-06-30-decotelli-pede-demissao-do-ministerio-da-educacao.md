@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-30 20:29:48
 pub_date: 2020-06-30 20:29:48
 time_added: 2020-07-01 12:12:24
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/06/o_presidente_jair_bolsonaro_nomeia_o_professor_carlos_alberto_decotelli_da_silva_para_o_cargo_de_ministro_da_educacao.0163250620-1-1200x630.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-28 06:55:06
 pub_date: 2019-07-28 06:55:06
 time_added: 2019-07-28 21:38:12
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2019/07/14/world/xxbrazil-environment1/xxbrazil-environment1-facebookJumbo.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-12 07:40:45
 pub_date: 2019-12-12 07:40:45
 time_added: 2019-12-12 22:35:25
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/12/sergio-camargo-e-o-novo-presidente-da-fundacao-palmares-1574887604699_v2_900x506.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

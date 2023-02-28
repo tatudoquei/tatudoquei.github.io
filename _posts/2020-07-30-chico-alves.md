@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-30 02:00:00
 pub_date: 2020-07-30 02:00:00
 time_added: 2020-07-31 06:10:52
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/47/2020/07/30/jose-eduardo-cardozo-1596150787566_v2_615x300.jpg
 ---

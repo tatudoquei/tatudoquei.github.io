@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-03-22 02:33:15
 pub_date: 2022-03-22 02:33:15
 time_added: 2022-03-22 20:26:32
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/bolsonaro-e-milton-ribeiro.JPG/alternates/LANDSCAPE_768/bolsonaro%20e%20milton%20ribeiro.JPG
 ---

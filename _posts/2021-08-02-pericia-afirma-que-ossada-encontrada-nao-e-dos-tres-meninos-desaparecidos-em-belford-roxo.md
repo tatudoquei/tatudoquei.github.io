@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-02 18:09:49
 pub_date: 2021-08-02 18:09:49
 time_added: 2021-08-20 21:00:52
-category: 
+categories: []
 tags: []
 image: https://mundonegro.inf.br/wp-content/uploads/2021/08/1618614060607a172c40ef0_1618614060_3x2_md.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-12 19:38:03
 pub_date: 2019-04-12 19:38:03
 time_added: 2019-04-13 06:57:54
-category: 
+categories: []
 tags: []
 image: https://www.haaretz.com/polopoly_fs/1.7111615.1555098025!/image/2752471375.jpg_gen/derivatives/headline_1200x630/2752471375.jpg
 ---

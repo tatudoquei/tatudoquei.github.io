@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-15 22:00:00
 pub_date: 2020-04-15 22:00:00
 time_added: 2020-04-17 19:10:30
-category: 
+categories: []
 tags: []
 image: https://www.sosma.org.br/wp-content/uploads/2019/08/IMG_0775.jpg
 ---

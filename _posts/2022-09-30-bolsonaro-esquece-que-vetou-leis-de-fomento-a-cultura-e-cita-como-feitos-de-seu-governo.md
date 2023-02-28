@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-30 22:16:04
 pub_date: 2022-09-30 22:16:04
 time_added: 2022-10-03 00:40:12
-category: 
+categories: []
 tags: []
 image: https://www.redebrasilatual.com.br/wp-content/uploads/2022/09/Bolsonaro-.jpg
 ---

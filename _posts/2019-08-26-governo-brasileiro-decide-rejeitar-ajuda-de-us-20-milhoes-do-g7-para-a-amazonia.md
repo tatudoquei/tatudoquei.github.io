@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-26 19:54:00
 pub_date: 2019-08-26 19:54:00
 time_added: 2019-08-29 05:26:42
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23906799-fc7-cf7/FT1086A/652/84259124_TOPSHOTHandout-aerial-picture-released-by-Greenpeace-showing-smoke-billowing-from-fires.jpg
 ---

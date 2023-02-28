@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-10 02:43:13
 pub_date: 2020-05-10 02:43:13
 time_added: 2020-05-11 11:20:53
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/05/CelsodeMelloSTFSergioLima02fev2017-1200x630.jpg
 ---

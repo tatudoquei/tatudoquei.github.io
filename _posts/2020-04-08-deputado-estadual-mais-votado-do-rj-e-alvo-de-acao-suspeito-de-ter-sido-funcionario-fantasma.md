@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-08 07:29:53
 pub_date: 2020-04-08 07:29:53
 time_added: 2020-04-08 20:00:16
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/JFb82fQI-pm2X9S2hSV9hPe7FaA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/B/e/HB5F0XRHyCtdNBtqFnAQ/placa-witzel.jpeg
 ---

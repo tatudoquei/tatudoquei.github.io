@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-04 22:00:00
 pub_date: 2020-08-04 22:00:00
 time_added: 2020-08-06 11:36:05
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/392D/production/_113773641_reuters-sergiomoraes.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-11 16:07:57
 pub_date: 2020-10-11 16:07:57
 time_added: 2020-10-11 23:17:00
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2019/04/ricardo-salles-2-e1562589851346.jpg
 ---

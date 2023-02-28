@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-24 22:25:00
 pub_date: 2021-03-24 22:25:00
 time_added: 2021-03-27 19:04:42
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24940137-8ba-ff7/FT1086A/lira-camara.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-04 11:14:37
 pub_date: 2020-06-04 11:14:37
 time_added: 2020-06-13 06:50:01
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2020/06/PGR.jpg
 ---

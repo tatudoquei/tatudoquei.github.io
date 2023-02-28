@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-19 16:25:00
 pub_date: 2021-01-19 16:25:00
 time_added: 2021-01-22 22:15:05
-category: avisamos
+categories: [avisamos]
 tags: [diplomacia]
 image: https://conteudo.imguol.com.br/c/noticias/8b/2020/01/25/25jan2020---o-presidente-jair-bolsonaro-e-o-primeiro-ministro-da-india-narendra-modi-em-encontro-em-nova-deli-1579953024504_v2_615x300.jpg
 ---

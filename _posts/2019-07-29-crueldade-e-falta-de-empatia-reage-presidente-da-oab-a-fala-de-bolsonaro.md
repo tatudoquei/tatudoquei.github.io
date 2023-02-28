@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-29 01:50:55
 pub_date: 2019-07-29 01:50:55
 time_added: 2019-07-29 23:25:47
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2019/03/felipe.jpg
 ---

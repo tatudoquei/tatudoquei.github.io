@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-12 22:41:00
 pub_date: 2020-05-12 22:41:00
 time_added: 2020-05-13 21:39:00
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2018/11/brasil-politica-governo-transicao-20181121-001.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

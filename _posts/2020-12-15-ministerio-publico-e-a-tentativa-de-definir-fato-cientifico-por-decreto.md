@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-15 19:57:35
 pub_date: 2020-12-15 19:57:35
 time_added: 2020-12-15 16:57:35
-category: 
+categories: []
 tags: []
 image: https://www.revistaquestaodeciencia.com.br/sites/default/files/styles/facebook/public/2020-12/BURDEN_SQUARE.jpg?itok=OpXbVYnv
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-22 07:16:25
 pub_date: 2020-03-22 07:16:25
 time_added: 2020-03-22 08:16:25
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/03/doria-wando-redes.jpg
 ---

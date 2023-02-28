@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-20 20:38:54
 pub_date: 2020-03-20 20:38:54
 time_added: 2020-03-20 21:38:54
-category: 
+categories: []
 tags: []
 image: https://www.blogdokennedy.com.br/wp-content/themes/kennedy_2/images/kennedy.jpg
 ---

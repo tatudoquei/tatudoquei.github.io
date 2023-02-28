@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-07 02:53:00
 pub_date: 2020-05-07 02:53:00
 time_added: 2020-05-07 12:26:43
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24407102-88a-1f1/FT1086A/652/hospital-campanha-riocentro-coronavirus.jpg
 ---

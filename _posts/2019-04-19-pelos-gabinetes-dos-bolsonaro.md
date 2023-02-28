@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-19 10:00:52
 pub_date: 2019-04-19 10:00:52
 time_added: 2019-05-17 21:03:45
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/04/adriano-magalhaes-milicia-rio-2019-1.jpg.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

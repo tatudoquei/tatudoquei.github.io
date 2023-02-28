@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-03 06:11:21
 pub_date: 2019-05-03 06:11:21
 time_added: 2019-05-05 20:43:15
-category: 
+categories: []
 tags: []
 image: http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2019/04/09/fta20190409162.jpg
 ---

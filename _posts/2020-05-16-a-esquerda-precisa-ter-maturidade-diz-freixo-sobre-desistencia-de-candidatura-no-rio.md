@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-16 02:30:00
 pub_date: 2020-05-16 02:30:00
 time_added: 2020-05-16 16:45:05
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24430349-057-c4f/FT1086A/652/marcelo-freixo.jpg
 ---

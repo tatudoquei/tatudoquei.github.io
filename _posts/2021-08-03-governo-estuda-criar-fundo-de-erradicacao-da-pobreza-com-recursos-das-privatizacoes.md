@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-03 08:01:30
 pub_date: 2021-08-03 08:01:30
 time_added: 2021-08-20 21:07:44
-category: 
+categories: []
 tags: []
 image: https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png
 ---

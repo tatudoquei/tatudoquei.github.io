@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-10 17:27:08
 pub_date: 2020-06-10 17:27:08
 time_added: 2020-06-10 19:27:08
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2020/05/164_questoesmidiaticas_redes.png
 ---

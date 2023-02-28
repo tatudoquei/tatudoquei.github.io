@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-11 15:35:47
 pub_date: 2021-06-11 15:35:47
 time_added: 2021-06-13 21:15:58
-category: 
+categories: []
 tags: []
 image: https://ponte.org/wp-content/uploads/2021/06/ilustracion_de_junio.jpg
 ---

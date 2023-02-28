@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-29 18:53:43
 pub_date: 2019-04-29 18:53:43
 time_added: 2019-04-30 19:35:45
-category: 
+categories: []
 tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2019/04/bolsonaro-olavo-3.jpg
 ---

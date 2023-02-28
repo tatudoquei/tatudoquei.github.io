@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-21 21:21:33
 pub_date: 2021-08-21 21:21:33
 time_added: 2021-09-06 08:18:32
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2021/08/21184946/wassef1.jpeg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-27 16:07:00
 pub_date: 2022-09-27 16:07:00
 time_added: 2022-10-03 00:19:02
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/0c/2022/09/27/michelle-bolsonaro-critica-look-de-bruna-marquezine-no-burberry-1664248834977_v2_615x300.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-03 21:46:55
 pub_date: 2021-05-03 21:46:55
 time_added: 2021-05-24 07:57:56
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/05/Katia.jpg
 ---

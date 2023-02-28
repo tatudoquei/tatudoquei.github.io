@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-25 22:34:00
 pub_date: 2020-07-25 22:34:00
 time_added: 2021-01-05 13:57:55
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/e4/2020/06/11/cuba-esta-perto-de-vencer-coronavirus-1591889148102_v2_615x300.jpg
 ---

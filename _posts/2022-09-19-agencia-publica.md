@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-19 13:00:00
 pub_date: 2022-09-19 13:00:00
 time_added: 2022-09-24 10:10:13
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2022/09/capa-facebook-banidos-na-europa-made-in-china-e-usados-na-soja-os-agrotoxicos-aprovados-por-bolsonaro.png
 ---

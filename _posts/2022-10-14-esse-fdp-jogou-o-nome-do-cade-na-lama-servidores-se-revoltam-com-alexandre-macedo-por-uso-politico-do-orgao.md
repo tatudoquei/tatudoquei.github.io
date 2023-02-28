@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-14 20:09:09
 pub_date: 2022-10-14 20:09:09
 time_added: 2022-10-14 22:09:09
-category: 
+categories: []
 tags: []
 image: https://theintercept.imgix.net/wp-uploads/sites/1/2022/10/Nota-Cade-Nayara-.jpeg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800
 ---

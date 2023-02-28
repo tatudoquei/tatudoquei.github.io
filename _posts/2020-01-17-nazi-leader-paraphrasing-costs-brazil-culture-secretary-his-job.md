@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-17 18:20:34
 pub_date: 2020-01-17 18:20:34
 time_added: 2020-01-17 19:20:34
-category: 
+categories: []
 tags: []
 image: https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i30a2RnJuzKk/v0/1200x800.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-12 08:20:00
 pub_date: 2019-01-12 08:20:00
 time_added: 2019-01-13 10:08:09
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://www.bahianoticias.com.br/fotos/principal_noticias/231223/IMAGEM_NOTICIA_9.jpg
 ---

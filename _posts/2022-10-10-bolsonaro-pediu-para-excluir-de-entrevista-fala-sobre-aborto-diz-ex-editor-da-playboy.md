@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-10 13:09:45
 pub_date: 2022-10-10 13:09:45
 time_added: 2022-10-10 21:33:09
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2022/10/Capa_Facebook_Coluna-Rubens__Bolsonaro-pediu-para-excluir-de-entrevista-fala-sobre-aborto-diz-ex-editor-da-Playboy.png
 ---

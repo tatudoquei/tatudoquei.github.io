@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-07 21:21:19
 pub_date: 2020-02-07 21:21:19
 time_added: 2020-02-08 21:47:04
-category: 
+categories: []
 tags: []
 image: http://static1.squarespace.com/static/52a23eaae4b0a695ee3d229c/52a26dade4b0d01d33d741d0/5e3dc27b67c8ab49b6086cab/1581120596846/Prancheta+1+c%C3%B3pia+4.png?format=1500w
 ---

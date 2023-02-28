@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-07 06:00:00
 pub_date: 2020-03-07 06:00:00
 time_added: 2020-03-07 21:34:19
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24289141-80b-815/FT1086A/652/87236476_RI-Rio-de-Janeiro-RJ-27-02-2020Turistas-e-Brasileiros-quem-vem-de-Paises-com-casos-d.jpg
 ---

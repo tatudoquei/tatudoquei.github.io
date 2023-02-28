@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-05 11:59:35
 pub_date: 2019-01-05 11:59:35
 time_added: 2019-01-07 21:00:08
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2019/01/velez.jpg
 ---

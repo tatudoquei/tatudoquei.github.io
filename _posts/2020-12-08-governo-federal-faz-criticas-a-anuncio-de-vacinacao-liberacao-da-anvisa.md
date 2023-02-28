@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-08 21:00:00
 pub_date: 2020-12-08 21:00:00
 time_added: 2020-12-09 22:48:47
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/10/JairBolsonaro-EduardoPazuello-Saude-Pandemia-PauloGuedes-LuizEduardoRamos-Hidroxicloroquina-122-scaled-1-1-1200x630.jpg
 ---

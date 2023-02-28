@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-08-05 13:43:24
 pub_date: 2022-08-05 13:43:24
 time_added: 2022-10-31 00:25:22
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2022/08/191_questoespoliticopoliciais_redes.jpg
 ---

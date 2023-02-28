@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-18 16:04:00
 pub_date: 2020-06-18 16:04:00
 time_added: 2020-06-19 20:12:54
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23690304-62b-bb0/FT1086A/652/queiroz.jpg
 ---

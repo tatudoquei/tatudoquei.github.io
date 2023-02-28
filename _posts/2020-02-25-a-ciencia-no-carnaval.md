@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-25 14:30:44
 pub_date: 2018-02-14 17:30:45
 time_added: 2020-02-25 14:30:44
-category: 
+categories: []
 tags: []
 image: http://www.cienciaexplica.com.br/wp-content/uploads/2018/02/carnaval-e-ciencia2-1024x579.jpg
 ---

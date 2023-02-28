@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-27 21:38:42
 pub_date: 2021-04-27 21:38:42
 time_added: 2021-05-23 07:56:53
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/04/INPE.jpg
 ---

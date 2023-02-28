@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-19 12:58:00
 pub_date: 2021-04-19 12:58:00
 time_added: 2021-05-16 20:44:36
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24915710-1c7-d74/FT1086A/91021942_A-nurse-prepares-a-dose-of-the-Pfizer-BioNTech-COVID-19-vaccine-at-the-Hector-Berlioz-E.jpg
 ---

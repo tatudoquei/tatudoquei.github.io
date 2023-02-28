@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-22 13:28:00
 pub_date: 2020-02-22 13:28:00
 time_added: 2020-02-23 11:34:04
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24255472-40f-f76/FT1086A/652/bolsonaro1802.jpg
 ---

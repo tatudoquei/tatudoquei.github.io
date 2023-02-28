@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-27 17:05:00
 pub_date: 2020-04-27 17:05:00
 time_added: 2020-04-28 19:18:53
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/81/2019/12/17/tais-araujo-foto-reproducao-instagram-1576554144274_v2_615x300.jpg
 ---

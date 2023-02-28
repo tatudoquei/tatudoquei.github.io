@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-29 18:22:58
 pub_date: 2019-08-29 18:22:58
 time_added: 2019-08-30 23:32:19
-category: 
+categories: []
 tags: []
 image: https://jornalggn.com.br/sites/default/files/2019/08/a-catastrofe-da-lava-jato-na-economia-recupera-r-25-bi-mas-faz-brasil-perder-r-142-bi-hildegard-angel.jpg
 ---

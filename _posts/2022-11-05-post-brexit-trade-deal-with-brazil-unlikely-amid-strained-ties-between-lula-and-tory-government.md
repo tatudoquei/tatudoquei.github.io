@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-05 16:42:01
 pub_date: 2022-11-05 16:42:01
 time_added: 2022-11-06 14:29:09
-category: 
+categories: []
 tags: []
 image: https://static.independent.co.uk/2022/11/04/11/SEI131675596.jpg?quality=75&width=1200&auto=webp
 ---

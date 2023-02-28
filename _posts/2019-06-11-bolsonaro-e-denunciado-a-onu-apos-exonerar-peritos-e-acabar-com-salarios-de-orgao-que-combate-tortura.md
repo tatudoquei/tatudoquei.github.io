@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-11 17:04:00
 pub_date: 2019-06-11 17:04:00
 time_added: 2019-06-12 21:03:59
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23732516-4c5-64b/FT1086A/652/82916276_BSBBrasiliaBrasil29-05-2019O-presidente-Jair-Bolsonaro-fala-com-a-imprensa.jpg
 ---

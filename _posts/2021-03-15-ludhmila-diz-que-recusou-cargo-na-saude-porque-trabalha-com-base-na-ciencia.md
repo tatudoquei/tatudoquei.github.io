@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-15 20:39:50
 pub_date: 2021-03-15 20:39:50
 time_added: 2021-03-15 21:39:50
-category: 
+categories: []
 tags: []
 image: https://midias.correiobraziliense.com.br/_midias/jpg/2021/03/14/675x450/1_xdra_ludhmila_jpg_pagespeed_ic_bfijxb2ze1-6567622.jpg
 ---

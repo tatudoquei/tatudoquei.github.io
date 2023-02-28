@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-27 11:30:25
 pub_date: 2021-07-27 11:30:25
 time_added: 2021-08-08 17:06:26
-category: 
+categories: []
 tags: []
 image: https://i1.wp.com/jornal.usp.br/wp-content/uploads/2021/07/DestaqueCUSP13-Capa-e-Headliner.jpg?fit=1401%2C1401&ssl=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-17 07:49:56
 pub_date: 2021-02-17 07:49:56
 time_added: 2021-02-18 07:16:36
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/02/rui-costa-1200x630.jpeg
 ---

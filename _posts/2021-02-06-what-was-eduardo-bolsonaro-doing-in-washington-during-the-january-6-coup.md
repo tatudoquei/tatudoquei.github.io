@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-06 00:27:44
 pub_date: 2021-02-06 00:27:44
 time_added: 2021-10-17 14:56:56
-category: 
+categories: []
 tags: []
 image: https://www.wsws.org/asset/0cb522d0-1a69-4464-ad15-6e1749980dff?rendition=image1280
 ---

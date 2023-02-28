@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-31 22:00:00
 pub_date: 2020-03-31 22:00:00
 time_added: 2020-04-02 21:36:40
-category: bandido bom
+categories: [bandido bom, refletimos]
 tags: [meio ambiente]
 ---
 

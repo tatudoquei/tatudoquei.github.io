@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-13 02:10:57
 pub_date: 2020-02-13 02:10:57
 time_added: 2020-02-14 21:03:46
-category: 
+categories: []
 tags: []
 image: https://jornalggn.com.br/sites/default/files/2020/02/estreia-ultimo-episodio-da-serie-lava-jato-lado-b-expoe-a-industria-da-compliance-ep5.jpg
 ---

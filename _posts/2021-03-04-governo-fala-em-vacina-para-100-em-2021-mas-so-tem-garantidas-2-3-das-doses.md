@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-04 16:54:41
 pub_date: 2021-03-04 16:54:41
 time_added: 2021-03-06 22:11:18
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/03/Vacina-Indios-Tabatinga-Umariacu1-Covid19-Coranavirus-220-868x644-1-868x630.jpg
 ---

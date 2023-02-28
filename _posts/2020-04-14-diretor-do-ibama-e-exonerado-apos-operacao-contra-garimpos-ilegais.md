@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-14 07:47:00
 pub_date: 2020-04-14 07:47:00
 time_added: 2020-04-14 19:08:53
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/16/2019/01/07/grupo-especializado-de-fiscalizacao-gef-do-ibama-combate-desmatamento-e-garimpo-de-cassiterita-na-terra-indigena-tenharim-do-igarape-preto-no-amazonas-1546897327888_v2_615x300.jpg
 ---

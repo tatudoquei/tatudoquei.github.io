@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-26 10:41:19
 pub_date: 2020-02-26 10:41:19
 time_added: 2020-03-02 20:49:38
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2020/01/bolsonaro-64.jpg
 ---

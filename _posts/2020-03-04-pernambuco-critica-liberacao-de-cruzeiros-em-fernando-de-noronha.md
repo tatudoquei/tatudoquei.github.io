@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-04 17:05:40
 pub_date: 2020-03-04 17:05:40
 time_added: 2020-03-04 19:42:59
-category: 
+categories: []
 tags: []
 image: https://projetocolabora.com.br/wp-content/uploads/2019/08/058_2165802-e1583330173609.jpg
 ---

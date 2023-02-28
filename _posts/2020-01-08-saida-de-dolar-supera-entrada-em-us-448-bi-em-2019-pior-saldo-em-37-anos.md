@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-08 14:19:00
 pub_date: 2020-01-08 14:19:00
 time_added: 2020-01-08 20:16:51
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/6c/2018/11/13/dolar-dolar-cambio-real-estados-unidos-bolsa-de-valores-mercado-bovespa-ibovespa-b3-1542152549651_v2_615x300.jpg
 ---

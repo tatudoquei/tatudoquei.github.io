@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-10 23:25:17
 pub_date: 2021-02-10 23:25:17
 time_added: 2021-02-11 09:08:26
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/02/Oeco_adote-um-parque_marcelo-camargo-Agencia-Brasil-3.jpg
 ---

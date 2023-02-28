@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-03 00:34:13
 pub_date: 2023-01-03 00:34:13
 time_added: 2023-01-03 08:18:42
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/ibama_amazonia/alternates/LANDSCAPE_768/ibama_amazonia
 ---

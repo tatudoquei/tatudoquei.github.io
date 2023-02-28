@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-31 18:25:00
 pub_date: 2019-01-31 18:25:00
 time_added: 2019-04-18 21:21:24
-category: 
+categories: []
 tags: []
 image: https://aosfatos.org/media/images/entries/brumado01.JPG.1860x1080_q85_box-67%2C0%2C3917%2C2242_crop_upscale.jpg
 ---

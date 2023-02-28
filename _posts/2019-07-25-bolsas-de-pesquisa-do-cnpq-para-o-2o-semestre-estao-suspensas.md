@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-25 11:33:00
 pub_date: 2019-07-25 11:33:00
 time_added: 2019-07-27 18:10:11
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/5mjWjmPfyHucDpa6Ei6RHdgCWPA=/e.glbimg.com/og/ed/f/original/2019/07/24/pexels-photo-2280571.jpeg
 ---

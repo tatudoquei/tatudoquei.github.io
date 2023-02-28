@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-26 16:24:00
 pub_date: 2019-03-26 16:24:00
 time_added: 2019-03-27 07:04:07
-category: resistimos
+categories: [resistimos]
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/93/2016/08/30/30ago2016---o-senador-randolfe-rodrigues-rede-ap-disse-em-discurso-no-plenario-que-os-erros-cometidos-pelo-pt-nao-podem-levar-a-condenacao-de-uma-pessoa-inocente----no-caso-a-presidente-afastada-1472610441244_615x300.jpg
 ---

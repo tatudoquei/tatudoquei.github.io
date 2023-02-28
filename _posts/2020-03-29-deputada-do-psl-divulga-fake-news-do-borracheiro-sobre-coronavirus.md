@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-29 12:11:00
 pub_date: 2020-03-29 12:11:00
 time_added: 2020-03-29 21:25:19
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/3d/2019/08/13/deputada-bia-kicis-em-audiencia-publica-sobre-o-caso-rhuan-1565697968841_v2_615x300.jpg
 ---

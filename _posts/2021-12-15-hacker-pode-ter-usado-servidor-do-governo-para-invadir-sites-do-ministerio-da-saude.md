@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-15 04:47:00
 pub_date: 2021-12-15 04:47:00
 time_added: 2021-12-24 20:07:27
-category: 
+categories: []
 tags: []
 image: https://midias.correiobraziliense.com.br/_midias/jpg/2021/12/10/675x450/1_gov_1-7188698.jpg?20211211010259?20211211010259
 ---

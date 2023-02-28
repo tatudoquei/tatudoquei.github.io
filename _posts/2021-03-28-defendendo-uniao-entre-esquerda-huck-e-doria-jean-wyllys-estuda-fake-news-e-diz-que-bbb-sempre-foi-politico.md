@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-28 21:18:38
 pub_date: 2021-03-28 21:18:38
 time_added: 2021-03-28 23:18:38
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/d9/2021/03/23/o-ex-deputado-ativista-e-escritor-jean-wyllys-1616550049413_v2_615x300.jpg
 ---

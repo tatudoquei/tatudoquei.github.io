@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-02 13:13:00
 pub_date: 2020-05-02 13:13:00
 time_added: 2020-05-03 06:07:43
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/57/2016/12/01/1dez2016---presidente-do-tse-tribunal-superior-eleitoral-gilmar-mendes-esq-conversa-com-o-juiz-sergio-moro-da-justica-federal-da-4-regiao-em-audiencia-no-senado-1480609558667_750x421.jpg
 ---

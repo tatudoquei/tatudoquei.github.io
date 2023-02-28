@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-15 20:01:48
 pub_date: 2021-03-15 20:01:48
 time_added: 2021-03-19 00:38:53
-category: 
+categories: []
 tags: []
 image: https://i1.wp.com/cidadetotal.com/wp-content/uploads/2021/03/Coronavac-Capa-1.jpeg?fit=576%2C323&ssl=1
 ---

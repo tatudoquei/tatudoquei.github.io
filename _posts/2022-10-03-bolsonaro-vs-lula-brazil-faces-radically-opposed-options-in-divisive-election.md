@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-03 04:52:55
 pub_date: 2022-10-03 04:52:55
 time_added: 2022-10-03 00:52:55
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2022/10/02/world/01brazil-vote-top/02BRAZIL-ELECTION-facebookJumbo.jpg
 ---

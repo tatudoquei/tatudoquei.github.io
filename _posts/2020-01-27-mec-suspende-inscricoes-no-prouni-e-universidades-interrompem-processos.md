@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-27 20:38:00
 pub_date: 2020-01-27 20:38:00
 time_added: 2020-01-30 07:54:50
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/0e/2019/12/04/inscricoes-para-o-sisu-2020-1575485356941_v2_615x300.png
 ---

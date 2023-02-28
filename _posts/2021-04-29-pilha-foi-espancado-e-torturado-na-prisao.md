@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-29 21:09:14
 pub_date: 2021-04-29 21:09:14
 time_added: 2021-04-30 06:14:24
-category: 
+categories: []
 tags: []
 image: https://cdn.revistaforum.com.br/wp-content/uploads/2021/03/rodrigo-pilha.jpg
 ---

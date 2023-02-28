@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-26 23:00:00
 pub_date: 2019-03-26 23:00:00
 time_added: 2019-05-30 17:54:04
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/11DE7/production/_95319137_chapada_veadeiros.jpg
 ---

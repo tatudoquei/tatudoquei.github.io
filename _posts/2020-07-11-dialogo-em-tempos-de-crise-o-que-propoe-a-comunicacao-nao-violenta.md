@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-11 02:00:00
 pub_date: 2020-07-11 02:00:00
 time_added: 2020-07-12 11:27:19
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/tab/02/2020/06/30/um-homem-e-uma-mulher-apontam-armas-para-manifestantes-em-st-louis-no-missouri-1593557233365_v2_615x300.jpg
 ---

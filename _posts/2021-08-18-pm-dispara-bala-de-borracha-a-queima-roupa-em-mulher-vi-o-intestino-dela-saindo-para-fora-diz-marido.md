@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-18 20:33:23
 pub_date: 2021-08-18 20:33:23
 time_added: 2021-09-06 08:18:10
-category: 
+categories: []
 tags: []
 image: http://ponte.org/wp-content/uploads/2021/08/celia-1.jpg
 ---

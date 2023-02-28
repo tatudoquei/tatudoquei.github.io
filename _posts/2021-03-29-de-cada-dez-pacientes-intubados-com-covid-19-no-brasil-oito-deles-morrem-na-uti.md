@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-29 02:30:00
 pub_date: 2021-03-29 02:30:00
 time_added: 2021-05-16 16:45:02
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24945463-cb5-f0a/FT1086A/91887555_Salvador-entra-em-pre-colapso-Diante-das-medidas-restritivas-do-governador-da-Bahia-Rui-Cos.jpg
 ---

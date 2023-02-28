@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-18 07:00:00
 pub_date: 2021-01-18 07:00:00
 time_added: 2021-01-19 13:52:16
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/bb/2021/01/08/18dez2020---o-presidente-jair-bolsonaro-sem-partido-durante-cerimonia-de-formatura-de-soldados-da-pm-no-rio-de-janeiro-1610134900379_v2_750x421.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-03 04:12:35
 pub_date: 2022-10-03 04:12:35
 time_added: 2022-10-03 00:12:35
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2022/10/02/world/02BRAZIL-ELECTION-COMBO/02BRAZIL-ELECTION-COMBO-facebookJumbo.jpg
 ---

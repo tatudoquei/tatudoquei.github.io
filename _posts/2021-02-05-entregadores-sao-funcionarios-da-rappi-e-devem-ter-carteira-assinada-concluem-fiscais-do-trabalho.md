@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-05 11:45:06
 pub_date: 2021-02-05 11:45:06
 time_added: 2021-02-10 19:28:57
-category: 
+categories: []
 tags: []
 image: https://reporterbrasil.org.br/wp-content/uploads/2021/02/haitivinpo.jpg
 ---

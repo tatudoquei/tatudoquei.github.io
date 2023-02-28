@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-04 09:05:07
 pub_date: 2020-04-04 09:05:07
 time_added: 2020-04-04 18:17:58
-category: 
+categories: []
 tags: []
 image: https://i.guim.co.uk/img/media/866bbbb38275bcd7aefe597b8a9007b4476d3ef7/0_224_3363_2018/master/3363..jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a31afe212028a49f6f39f4972b4ef4bf
 ---

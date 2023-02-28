@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-05 23:19:50
 pub_date: 2021-08-05 23:19:50
 time_added: 2021-08-08 17:06:22
-category: 
+categories: []
 tags: []
 image: https://cdn.revistaforum.com.br/wp-content/uploads/2021/08/whatsapp-image-2021-08-05-at-19.50.56-.jpeg
 ---

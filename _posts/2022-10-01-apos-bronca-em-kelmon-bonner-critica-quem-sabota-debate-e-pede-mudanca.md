@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-01 12:27:00
 pub_date: 2022-10-01 12:27:00
 time_added: 2022-10-03 00:52:37
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/9e/2022/10/01/william-bonner-precisou-dar-bronca-no-candidato-padre-kelmon-ptb-por-diversas-interrupcoes-durante-debate-eleitoral-para-a-presidencia-1664623492809_v2_615x300.jpg
 ---

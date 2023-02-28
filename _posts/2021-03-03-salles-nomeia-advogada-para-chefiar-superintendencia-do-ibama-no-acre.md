@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-03 16:43:08
 pub_date: 2021-03-03 16:43:08
 time_added: 2021-03-06 17:18:42
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/03/Oeco_Salles_Roque-de-Sa-Ag-Senado.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-01 11:49:00
 pub_date: 2020-07-01 11:49:00
 time_added: 2020-07-07 06:53:24
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/71/2019/06/17/24out2017---o-entao-juiz-sergio-moro-e-o-procurador-deltan-dallagnol-durante-evento-em-sao-paulo-1560808936837_v2_615x300.jpg
 ---

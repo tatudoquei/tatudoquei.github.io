@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-17 17:21:17
 pub_date: 2020-12-17 17:21:17
 time_added: 2020-12-17 20:49:43
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/08/JairBolsonaro-RodrigoMaia-DavidAlcolumbre-PauloGuedes-TetoDeGastos-RicardoGomes-EduardoGomes-VitorHugo-213-1200x630.jpg
 ---

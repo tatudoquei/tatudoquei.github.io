@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-21 18:52:54
 pub_date: 2020-07-21 18:52:54
 time_added: 2020-07-21 20:52:54
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/40/2020/07/06/policiais-do-batalhao-de-choque-formam-barreira-com-escudos-1594076104090_v2_615x300.jpg
 ---

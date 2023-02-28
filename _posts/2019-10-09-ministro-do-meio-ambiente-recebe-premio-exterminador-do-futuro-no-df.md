@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-09 11:24:00
 pub_date: 2019-10-09 11:24:00
 time_added: 2019-10-10 01:43:55
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/18/2019/10/09/ministro-do-meio-ambiente-ricardo-salles-recebe-premio-exterminador-do-futuro-de-manifestante-na-camara-dos-deputados-1570637941523_v2_615x300.jpg
 ---

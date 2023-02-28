@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-25 02:29:25
 pub_date: 2020-05-25 02:29:25
 time_added: 2020-06-03 20:49:23
-category: 
+categories: []
 tags: []
 image: http://mondolivro.com.br/wp-content/uploads/2020/05/Ze.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-13 22:51:38
 pub_date: 2020-02-13 22:51:38
 time_added: 2020-02-14 17:13:49
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2020/02/capitao-adriano-nobrega-morte-bahia-esplanada-2020-1-5-1.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

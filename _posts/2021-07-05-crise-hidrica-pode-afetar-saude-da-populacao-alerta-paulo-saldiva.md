@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-05 14:45:38
 pub_date: 2021-07-05 14:45:38
 time_added: 2021-07-25 16:45:32
-category: 
+categories: []
 tags: []
 image: https://i2.wp.com/jornal.usp.br/wp-content/uploads/2017/09/pod_colunistas_paulo_saldiva.jpg?fit=1400%2C1400&ssl=1
 ---

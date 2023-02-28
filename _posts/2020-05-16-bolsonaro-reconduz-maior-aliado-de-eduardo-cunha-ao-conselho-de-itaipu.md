@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-16 07:56:00
 pub_date: 2020-05-16 07:56:00
 time_added: 2020-05-16 22:57:34
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/bf/2018/02/22/22fev2018---o-ministro-da-secretaria-de-governo-carlos-marun-mdb-concede-entrevista-a-jornalistas-no-palacio-do-planalto-1519339189125_v2_615x300.jpg
 ---

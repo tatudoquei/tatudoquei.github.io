@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-21 14:02:18
 pub_date: 2019-05-21 14:02:18
 time_added: 2019-05-29 19:37:47
-category: 
+categories: []
 tags: []
 image: https://pedlowski.files.wordpress.com/2019/05/ato-34.jpg
 ---

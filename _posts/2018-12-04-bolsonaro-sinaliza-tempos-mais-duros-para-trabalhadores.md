@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-04 18:34:00
 pub_date: 2018-12-04 18:34:00
 time_added: 2018-12-05 07:55:11
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://www.blogdokennedy.com.br/wp-content/themes/kennedy_2/images/kennedy.jpg
 ---

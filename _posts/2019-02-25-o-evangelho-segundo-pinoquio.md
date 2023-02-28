@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-25 15:15:04
 pub_date: 2019-02-25 15:15:04
 time_added: 2019-12-23 21:21:00
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://ehvarzea.files.wordpress.com/2019/01/damares0.jpeg
 ---

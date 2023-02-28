@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-06 16:40:25
 pub_date: 2023-02-06 16:40:25
 time_added: 2023-02-09 06:52:27
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/garimpo_yanomami/alternates/LANDSCAPE_768/garimpo_yanomami
 ---

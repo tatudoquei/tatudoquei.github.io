@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-29 15:59:42
 pub_date: 2019-04-29 15:59:42
 time_added: 2019-04-29 20:30:03
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2017/01/fapesppp.jpg
 ---

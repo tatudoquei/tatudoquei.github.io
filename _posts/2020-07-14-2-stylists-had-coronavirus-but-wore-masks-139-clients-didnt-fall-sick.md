@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-14 23:56:42
 pub_date: 2020-07-14 23:56:42
 time_added: 2020-07-15 05:23:04
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/07/14/science/14VIRUS-HAIRSALON/14VIRUS-HAIRSALON-facebookJumbo.jpg
 ---

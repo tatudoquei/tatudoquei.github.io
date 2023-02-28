@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-05 23:01:00
 pub_date: 2019-12-05 23:01:00
 time_added: 2019-12-08 20:57:25
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24119612-d77-0c9/FT1086A/652/85759941_Overflown-by-the-state-of-Para-in-2019-it-records-illegal-mining-illegal-logging-disastrous.jpg
 ---

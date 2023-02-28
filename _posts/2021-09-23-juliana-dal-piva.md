@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-23 14:50:00
 pub_date: 2021-09-23 14:50:00
 time_added: 2021-09-25 17:18:37
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a3/2020/09/25/o-vereador-carlos-bolsonaro-republicanos-rj-durante-evento-na-vila-militar-de-deodoro-no-rio-de-janeiro-1601044066578_v2_615x300.jpg
 ---

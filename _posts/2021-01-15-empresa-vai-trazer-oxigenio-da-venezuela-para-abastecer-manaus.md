@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-15 18:30:50
 pub_date: 2021-01-15 18:30:50
 time_added: 2021-01-15 15:30:50
-category: 
+categories: []
 tags: []
 image: https://www.acritica.com/uploads/news/image/782381/share_medium_oxigenio_97063D76-2788-470F-B624-8867BDB301F0.JPG
 ---

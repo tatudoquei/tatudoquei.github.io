@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-11-09 16:52:57
 pub_date: 2018-11-09 16:52:57
 time_added: 2018-11-09 21:38:51
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://ep00.epimg.net/brasil/imagenes/2018/11/08/economia/1541709165_912802_1541709431_rrss_normal.jpg
 ---

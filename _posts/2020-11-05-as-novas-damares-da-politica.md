@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-05 15:38:05
 pub_date: 2020-11-05 15:38:05
 time_added: 2020-11-07 07:30:47
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2020/11/copia-de-thumb-facebook-28.png
 ---

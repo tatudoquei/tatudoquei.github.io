@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-06 03:00:00
 pub_date: 2020-03-06 03:00:00
 time_added: 2020-03-07 22:32:30
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a1/2020/03/04/31jan2020---o-faxineiro-edmilson-costa-de-oliveira-que-diz-ter-sido-vitima-de-racismo-em-protesto-na-porta-da-biblioteca-nacional-1583360932952_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-23 03:00:00
 pub_date: 2021-03-23 03:00:00
 time_added: 2021-03-27 09:07:30
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/bolsonarista.JPG1/alternates/LANDSCAPE_768/bolsonarista.JPG
 ---

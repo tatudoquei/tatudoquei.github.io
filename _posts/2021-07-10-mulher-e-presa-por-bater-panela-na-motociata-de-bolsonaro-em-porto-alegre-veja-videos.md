@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-10 16:06:14
 pub_date: 2021-07-10 16:06:14
 time_added: 2021-07-25 16:55:43
-category: 
+categories: []
 tags: []
 image: https://cdn.revistaforum.com.br/wp-content/uploads/2021/07/prisao-motociata-e1625933097418.jpg
 ---

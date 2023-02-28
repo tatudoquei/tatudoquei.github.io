@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-08 20:10:00
 pub_date: 2020-06-08 20:10:00
 time_added: 2020-06-09 06:45:46
-category: 
+categories: []
 tags: []
 image: https://ambiencia.blogfolha.uol.com.br/files/2020/06/Juliano-Baiocchi.jpg
 ---

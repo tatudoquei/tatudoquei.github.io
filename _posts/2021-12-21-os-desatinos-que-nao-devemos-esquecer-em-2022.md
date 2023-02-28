@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-21 11:11:48
 pub_date: 2021-12-21 11:11:48
 time_added: 2021-12-24 09:20:52
-category: 
+categories: []
 tags: []
 image: https://cienciasociedade.org/wp-content/uploads/2020/05/desmatamento.jpg
 ---

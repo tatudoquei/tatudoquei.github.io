@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-23 21:29:58
 pub_date: 2020-04-23 21:29:58
 time_added: 2020-04-27 22:03:14
-category: 
+categories: []
 tags: []
 image: https://cdn-istoe-ssl.akamaized.net/wp-content/uploads/sites/14/2019/03/carlos-bolsonaro-entrevista.jpg
 ---

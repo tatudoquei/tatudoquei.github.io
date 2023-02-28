@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-22 15:33:44
 pub_date: 2020-08-22 15:33:44
 time_added: 2020-09-09 20:15:04
-category: 
+categories: []
 tags: []
 image: https://ladobdorio.com.br/wp-content/uploads/2020/08/Lacombe_gancia.jpg
 ---

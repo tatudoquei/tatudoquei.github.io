@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-05 04:23:02
 pub_date: 2019-07-05 04:23:02
 time_added: 2019-07-05 21:49:12
-category: 
+categories: []
 tags: []
 image: http://climainfo.org.br/wp-content/uploads/2019/07/Salles-desmatamento-zero.jpg
 ---

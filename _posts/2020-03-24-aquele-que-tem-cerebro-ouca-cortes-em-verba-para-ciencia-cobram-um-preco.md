@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-24 03:00:00
 pub_date: 2020-03-24 03:00:00
 time_added: 2020-03-24 20:14:50
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/fb/2019/02/19/yasadora-cordova-facebook-1550587006890_956x500.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-13 13:24:00
 pub_date: 2020-07-13 13:24:00
 time_added: 2020-07-15 06:37:57
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/3VpmbIHTK8C-3KNSHdPrCMNnfi0=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2020/06/08/gilmar.png
 ---

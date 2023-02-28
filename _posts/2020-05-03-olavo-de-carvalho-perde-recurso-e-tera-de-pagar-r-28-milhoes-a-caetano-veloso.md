@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-03 12:52:01
 pub_date: 2020-05-03 12:52:01
 time_added: 2020-05-04 20:12:25
-category: 
+categories: []
 tags: []
 image: https://cdn.revistaforum.com.br/wp-content/uploads/2020/05/caetano-olavo.jpg
 ---

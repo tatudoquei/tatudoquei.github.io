@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-26 18:46:00
 pub_date: 2022-12-26 18:46:00
 time_added: 2022-12-27 15:59:49
-category: 
+categories: []
 tags: []
 image: https://img.r7.com/images/suspeita-de-bomba-aeroporto-brasilia-24122022115535560?crop_position=c&dimensions=340x191
 ---

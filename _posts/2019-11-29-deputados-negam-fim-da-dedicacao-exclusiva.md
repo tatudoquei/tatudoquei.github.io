@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-29 16:27:46
 pub_date: 2019-11-29 16:27:46
 time_added: 2019-11-29 20:02:58
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2019/11/Comex.jpg
 ---

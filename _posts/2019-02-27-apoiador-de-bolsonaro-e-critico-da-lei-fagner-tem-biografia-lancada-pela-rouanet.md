@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-27 12:12:16
 pub_date: 2019-02-27 12:12:16
 time_added: 2019-03-04 12:43:10
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2018/07/raimundo-fagner-e1532525933871.jpg
 ---

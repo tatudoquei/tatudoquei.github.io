@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-25 10:36:00
 pub_date: 2020-07-25 10:36:00
 time_added: 2020-07-26 04:11:56
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/92/2020/07/25/coletiva-do-cacique-raoni-apos-alta-medica-1595690360374_v2_750x421.jpg
 ---

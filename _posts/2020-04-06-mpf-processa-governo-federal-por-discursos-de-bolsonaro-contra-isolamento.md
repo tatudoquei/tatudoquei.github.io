@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-06 15:25:00
 pub_date: 2020-04-06 15:25:00
 time_added: 2020-04-06 22:30:16
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/48/2020/03/31/pronunciamento-do-presidente-da-republica-jair-bolsonaro-em-rede-nacional-de-radio-e-televisao-1585694213175_v2_615x300.jpg
 ---

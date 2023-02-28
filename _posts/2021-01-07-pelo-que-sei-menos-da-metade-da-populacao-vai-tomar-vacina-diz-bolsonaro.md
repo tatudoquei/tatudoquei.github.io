@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-07 15:09:09
 pub_date: 2021-01-07 15:09:09
 time_added: 2021-01-09 19:16:44
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/12/JairBolsonaro-MichelleBolsonaro-AcoesDeGracas-HamiltonMourao-BragaNetto-14-1200x630.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-13 23:00:00
 pub_date: 2019-02-13 23:00:00
 time_added: 2019-12-23 21:37:46
-category: refletimos
+categories: [refletimos]
 tags: [meio ambiente]
 ---
 

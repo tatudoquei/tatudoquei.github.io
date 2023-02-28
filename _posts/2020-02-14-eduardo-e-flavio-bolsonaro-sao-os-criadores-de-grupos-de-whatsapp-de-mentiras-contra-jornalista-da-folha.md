@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-14 12:43:00
 pub_date: 2020-02-14 12:43:00
 time_added: 2021-07-04 12:46:50
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/02/Bolsonaros-Whatsapp-redes-1581640616.jpg
 ---

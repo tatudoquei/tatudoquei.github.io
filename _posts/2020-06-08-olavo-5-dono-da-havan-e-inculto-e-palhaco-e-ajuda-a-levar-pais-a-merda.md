@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-08 06:42:00
 pub_date: 2020-06-08 06:42:00
 time_added: 2020-06-10 07:29:14
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/1e/2020/06/08/luciano-hang-de-verde-e-amarelo-1591613315684_v2_615x300.jpg
 ---

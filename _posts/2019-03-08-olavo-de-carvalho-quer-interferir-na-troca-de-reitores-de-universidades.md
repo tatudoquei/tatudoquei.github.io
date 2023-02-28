@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-08 11:00:51
 pub_date: 2019-03-08 11:00:51
 time_added: 2019-03-08 17:20:18
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://abrilveja.files.wordpress.com/2017/10/olavo-de-carvalho-png.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

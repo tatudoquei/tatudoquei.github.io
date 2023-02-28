@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-02 14:42:00
 pub_date: 2020-04-02 14:42:00
 time_added: 2020-04-14 04:52:40
-category: 
+categories: []
 tags: []
 image: http://www.ufpb.br/inova/contents/noticias/respirador-da-ufpb-37-vezes-mais-barato-ficara-com-licenca-aberta-para-empresas-produzirem/figura-1.jpg/@@images/a7c3a085-16e6-4b75-9449-c6cf4f1c22f0.jpeg
 ---

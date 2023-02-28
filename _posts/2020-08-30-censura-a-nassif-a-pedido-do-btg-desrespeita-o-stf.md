@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-30 13:59:23
 pub_date: 2020-08-30 13:59:23
 time_added: 2020-08-30 16:03:31
-category: 
+categories: []
 tags: []
 image: https://marceloauler.com.br/wp-content/uploads/2020/08/CENSURA-IMPOSTA-reduzida.jpg
 ---

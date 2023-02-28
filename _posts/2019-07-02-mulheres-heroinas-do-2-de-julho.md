@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-02 08:05:00
 pub_date: 2019-07-02 08:05:00
 time_added: 2020-07-02 16:20:00
-category: 
+categories: []
 tags: []
 image: https://www.bahianoticias.com.br/fotos/mulheres_noticias/1158/IMAGEM_NOTICIA_9.jpg
 ---

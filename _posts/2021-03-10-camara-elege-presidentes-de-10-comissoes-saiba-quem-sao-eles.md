@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-10 16:27:10
 pub_date: 2021-03-10 16:27:10
 time_added: 2021-03-21 09:11:24
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/03/CongressoNacional-Fachada-Externo-Frente-118-scaled-1-1200x630.jpg
 ---

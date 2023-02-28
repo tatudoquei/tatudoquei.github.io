@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-17 17:44:22
 pub_date: 2021-10-17 17:44:22
 time_added: 2021-10-17 14:44:22
-category: 
+categories: []
 tags: []
 image: https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/10/pexels-cliff-booth-6590805.jpg?w=939
 ---

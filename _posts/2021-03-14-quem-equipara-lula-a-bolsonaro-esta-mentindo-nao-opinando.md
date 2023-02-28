@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-14 08:15:00
 pub_date: 2021-03-14 08:15:00
 time_added: 2021-03-27 08:37:22
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2021/03/lula-redes.jpg
 ---

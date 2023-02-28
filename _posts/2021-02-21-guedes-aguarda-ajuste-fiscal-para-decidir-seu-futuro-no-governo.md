@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-21 07:30:00
 pub_date: 2021-02-21 07:30:00
 time_added: 2021-02-27 17:11:24
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/economia/24891815-e0e-c8d/FT1086A/652/91542417_PA-Brasilia-BSB-09-02-2021-Presidente-Jair-Bolsonaro-participa-do-Lancamento-do-Programa-Ad.jpg
 ---

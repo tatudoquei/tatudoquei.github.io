@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-18 17:27:33
 pub_date: 2021-01-18 17:27:33
 time_added: 2021-02-07 06:51:30
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/01/governo-bolsonaro-sabia-de-colapso-em-manaus-e-necessidade-de-transferir-pacientes-10-dias-antes.jpeg
 ---

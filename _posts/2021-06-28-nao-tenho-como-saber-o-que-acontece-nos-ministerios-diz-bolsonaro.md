@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-28 09:38:00
 pub_date: 2021-06-28 09:38:00
 time_added: 2021-07-04 12:38:16
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/77/2021/06/25/jair-bolsonaro-participa-de-evento-no-rio-grande-do-norte-1624638194803_v2_615x300.jpg
 ---

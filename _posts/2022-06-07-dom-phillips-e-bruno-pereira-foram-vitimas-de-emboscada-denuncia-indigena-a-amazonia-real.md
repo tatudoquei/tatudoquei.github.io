@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-06-07 16:16:07
 pub_date: 2022-06-07 16:16:07
 time_added: 2022-06-12 11:00:07
-category: 
+categories: []
 tags: []
 image: https://amazoniareal.com.br/wp-content/uploads/2022/06/bruno-e-dom.jpg
 ---

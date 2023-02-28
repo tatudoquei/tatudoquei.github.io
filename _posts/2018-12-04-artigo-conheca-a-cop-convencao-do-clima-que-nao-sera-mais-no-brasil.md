@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-04 10:02:00
 pub_date: 2018-12-04 10:02:00
 time_added: 2019-12-23 21:15:16
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23278110-7f8-200/FT1086A/652/62603214_American-students-protest-outside-the-UN-climate-talks-during-the-COP22-international-clima.jpg
 ---

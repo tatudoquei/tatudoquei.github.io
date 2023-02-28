@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-28 06:35:00
 pub_date: 2020-10-28 06:35:00
 time_added: 2020-10-30 08:13:16
-category: 
+categories: []
 tags: []
 image: https://cienciafundamental.blogfolha.uol.com.br/files/2020/10/catarina_carlos_hotta.web_.jpg
 ---

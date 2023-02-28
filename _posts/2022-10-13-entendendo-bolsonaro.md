@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-13 08:27:00
 pub_date: 2022-10-13 08:27:00
 time_added: 2022-10-16 15:29:41
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/01/2022/10/12/presidente-jair-bolsonaro-e-ex-ministro-tarcisio-de-freitas-1665611589891_v2_615x300.jpg
 ---

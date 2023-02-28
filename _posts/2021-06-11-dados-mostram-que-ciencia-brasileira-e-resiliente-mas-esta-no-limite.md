@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-11 20:24:40
 pub_date: 2021-06-11 20:24:40
 time_added: 2022-04-02 18:01:19
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/jornal.usp.br/wp-content/uploads/2021/06/20210611_ciencia2.jpg?fit=1200%2C630&ssl=1
 ---

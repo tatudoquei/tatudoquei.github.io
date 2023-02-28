@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-10 02:30:30
 pub_date: 2023-01-10 02:30:30
 time_added: 2023-01-10 23:59:34
-category: 
+categories: []
 tags: []
 image: https://oeco.org.br/wp-content/uploads/2023/01/democracia-scaled.jpg
 ---

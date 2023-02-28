@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-12 10:18:52
 pub_date: 2020-02-12 10:18:52
 time_added: 2020-08-22 11:12:05
-category: 
+categories: []
 tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2020/01/damares-alves-jair-bolsonaro-foto-valter-campanato-agencia-brasil.jpg
 ---

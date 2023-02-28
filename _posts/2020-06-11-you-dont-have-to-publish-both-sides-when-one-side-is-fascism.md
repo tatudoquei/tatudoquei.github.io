@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-11 09:00:35
 pub_date: 2020-06-11 09:00:35
 time_added: 2020-06-13 10:39:30
-category: 
+categories: []
 tags: []
 image: https://www.thenation.com/wp-content/uploads/2016/04/New_York_Times_CC_img.jpg
 ---

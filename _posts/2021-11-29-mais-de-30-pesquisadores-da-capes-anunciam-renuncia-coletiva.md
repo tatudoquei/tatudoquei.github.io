@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-29 19:10:51
 pub_date: 2021-11-29 19:10:51
 time_added: 2021-12-13 14:26:51
-category: 
+categories: []
 tags: []
 image: https://www.cartacapital.com.br/wp-content/uploads/2020/04/New-Project-25.jpg
 ---

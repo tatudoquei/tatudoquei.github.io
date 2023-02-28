@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-12 01:46:18
 pub_date: 2020-05-12 01:46:18
 time_added: 2020-05-12 21:00:59
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2020/05/bolsonaro_120520204039.jpg
 ---

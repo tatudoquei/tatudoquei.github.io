@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-14 14:11:42
 pub_date: 2018-12-14 14:11:42
 time_added: 2018-12-15 08:05:20
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://paranaportal.uol.com.br/wp-content/uploads/2018/12/bolso2-e1544796837673.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-08 19:52:02
 pub_date: 2020-03-08 19:52:02
 time_added: 2020-03-08 20:52:02
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/03/bretas-redes-1583527973.jpg
 ---

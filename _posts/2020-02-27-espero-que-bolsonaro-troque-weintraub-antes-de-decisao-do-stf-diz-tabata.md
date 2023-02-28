@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-27 01:00:00
 pub_date: 2020-02-27 01:00:00
 time_added: 2020-02-27 10:50:32
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c8/2020/02/20/a-deputada-tabata-amaral-pdt-sp-durante-entrevista-no-estudio-folhauol-1582225886214_v2_615x300.jpg
 ---

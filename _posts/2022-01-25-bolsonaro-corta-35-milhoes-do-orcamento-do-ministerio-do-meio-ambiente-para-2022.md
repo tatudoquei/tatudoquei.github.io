@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-01-25 22:09:49
 pub_date: 2022-01-25 22:09:49
 time_added: 2022-01-25 23:37:19
-category: 
+categories: []
 tags: []
 image: http://oeco.org.br/wp-content/uploads/2022/01/Bolso-leite-1.jpg
 ---

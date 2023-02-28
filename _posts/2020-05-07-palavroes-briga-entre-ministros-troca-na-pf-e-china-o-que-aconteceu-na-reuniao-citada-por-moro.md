@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-07 18:27:00
 pub_date: 2020-05-07 18:27:00
 time_added: 2020-05-08 11:53:57
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/loqDukvNQFOJcYlDYPPFkMD0WAQ=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2020/05/07/reuniao.jpg
 ---

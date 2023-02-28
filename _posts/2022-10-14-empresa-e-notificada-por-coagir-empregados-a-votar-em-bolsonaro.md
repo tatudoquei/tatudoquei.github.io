@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-14 17:00:30
 pub_date: 2022-10-14 17:00:30
 time_added: 2022-10-14 22:08:54
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Urnascarregando26SET.JPG/alternates/LANDSCAPE_768/Urnascarregando26SET.JPG
 ---

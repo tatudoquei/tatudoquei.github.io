@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-02 18:32:00
 pub_date: 2020-05-02 18:32:00
 time_added: 2020-05-03 06:21:56
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/61/2020/04/29/presidente-jair-bolsonaro-na-rampa-do-palacio-do-planalto-1588157764544_v2_615x300.jpg
 ---

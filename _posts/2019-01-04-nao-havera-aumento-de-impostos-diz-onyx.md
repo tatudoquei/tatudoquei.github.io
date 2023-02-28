@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-04 17:11:00
 pub_date: 2019-01-04 17:11:00
 time_added: 2019-01-05 09:46:29
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://f.i.uol.com.br/fotografia/2018/12/28/15460054935c262bf521745_1546005493_3x2_rt.jpg
 ---

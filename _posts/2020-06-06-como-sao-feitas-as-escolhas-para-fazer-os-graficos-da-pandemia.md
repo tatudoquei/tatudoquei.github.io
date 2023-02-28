@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-06 22:00:00
 pub_date: 2020-06-06 22:00:00
 time_added: 2020-06-08 12:33:03
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/graficos-pandemia/alternates/LANDSCAPE_768/graficos-pandemia
 ---

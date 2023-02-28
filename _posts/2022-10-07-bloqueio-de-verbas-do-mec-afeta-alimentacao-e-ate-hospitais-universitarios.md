@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-07 02:00:00
 pub_date: 2022-10-07 02:00:00
 time_added: 2022-10-10 07:00:32
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/38/2022/10/06/hospital-universitario-clementino-fraga-filho-da-ufrj-universidade-federal-do-rio-de-janeiro-1665099926610_v2_750x421.jpg
 ---

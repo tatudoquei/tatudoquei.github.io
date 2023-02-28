@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-12 19:04:00
 pub_date: 2021-01-12 19:04:00
 time_added: 2021-01-15 15:27:49
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24834851-43d-d70/FT1086A/652/91163676_Brazils-President-Jair-Bolsonaro-speaks-during-a-ceremony-at-the-Planalto-Palace-in-Br.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-11 22:00:00
 pub_date: 2019-09-11 22:00:00
 time_added: 2019-09-17 16:00:16
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Passaporte-brasileiro/ALTERNATES/LANDSCAPE_720/Passaporte%20brasileiro
 ---

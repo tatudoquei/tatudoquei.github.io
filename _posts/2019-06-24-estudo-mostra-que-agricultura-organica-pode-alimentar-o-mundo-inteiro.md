@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-24 20:47:58
 pub_date: 2017-01-03 14:00:37
 time_added: 2019-06-24 20:47:58
-category: 
+categories: []
 tags: []
 image: http://cdn-cv.r4you.co/wp-content/uploads/2016/03/iStock_000024915181_Small.jpg
 ---

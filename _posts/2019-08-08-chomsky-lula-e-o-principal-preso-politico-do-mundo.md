@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-08 19:26:52
 pub_date: 2019-08-08 19:26:52
 time_added: 2019-08-10 21:08:43
-category: 
+categories: []
 tags: []
 image: https://jacobin.com.br/wp-content/uploads/2019/08/noam102414.jpg
 ---

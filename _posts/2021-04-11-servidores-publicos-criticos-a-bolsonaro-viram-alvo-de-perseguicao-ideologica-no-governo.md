@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-11 02:30:00
 pub_date: 2021-04-11 02:30:00
 time_added: 2021-05-16 18:23:37
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24965621-bd8-66f/FT1086A/92398674_Curitiba-Parana-Brasil-09-de-abril-de-2021-Legenda-Martel-Alexandre-Del-Colle-policial.jpg
 ---

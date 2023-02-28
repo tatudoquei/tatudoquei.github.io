@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-09 17:51:00
 pub_date: 2020-10-09 17:51:00
 time_added: 2020-10-10 14:28:34
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/296/files/2020/10/desenho-torturador-ulstra-615x300.jpg
 ---

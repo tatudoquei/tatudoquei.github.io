@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-21 19:00:00
 pub_date: 2021-09-21 19:00:00
 time_added: 2021-09-25 17:26:41
-category: 
+categories: []
 tags: []
 image: https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.3138703:1632249024/image.jpg?h=630&q=0.6&w=1200&$p$h$q$w=f76cc5e
 ---

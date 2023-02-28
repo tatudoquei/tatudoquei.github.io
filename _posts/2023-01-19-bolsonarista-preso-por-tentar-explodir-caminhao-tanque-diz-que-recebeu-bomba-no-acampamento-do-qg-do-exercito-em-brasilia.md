@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-19 23:26:16
 pub_date: 2023-01-19 23:26:16
 time_added: 2023-01-21 10:05:32
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/T19OaXgim87maCLJKL7UU2tse5s=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/t/C/nmBvCyS0ACdAVfLkIBOQ/av-chegada-alan-bddf.transfer-frame-2140.jpeg
 ---

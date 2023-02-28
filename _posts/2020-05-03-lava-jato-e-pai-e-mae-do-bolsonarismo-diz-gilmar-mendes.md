@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-03 15:15:04
 pub_date: 2020-05-03 15:15:04
 time_added: 2020-05-07 18:12:56
-category: 
+categories: []
 tags: []
 image: https://jornalggn.com.br/sites/default/files/2019/12/gilmar-diz-que-delacoes-aceitas-pela-pf-serao-revisadas-gilmar-mendes.jpg
 ---

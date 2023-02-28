@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-12 22:50:27
 pub_date: 2019-02-12 22:50:27
 time_added: 2019-02-16 09:11:59
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://i2.wp.com/www.midia1508.org/wp-content/uploads/2019/02/524482_103136809820653_125213637_n.jpg?fit=394%2C543
 ---

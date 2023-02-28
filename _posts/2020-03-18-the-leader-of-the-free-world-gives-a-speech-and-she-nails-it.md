@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-18 23:26:08
 pub_date: 2020-03-18 23:26:08
 time_added: 2020-03-19 14:26:46
-category: 
+categories: []
 tags: []
 image: https://pixel.nymag.com/imgs/daily/intelligencer/2020/01/09/merkel_covid.w1200.h630.jpg
 ---

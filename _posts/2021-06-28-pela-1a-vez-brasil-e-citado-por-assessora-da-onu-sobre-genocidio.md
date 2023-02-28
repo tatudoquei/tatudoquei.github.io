@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-28 09:47:00
 pub_date: 2021-06-28 09:47:00
 time_added: 2021-07-04 12:54:58
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/f4/2021/06/23/indigenas-yanomami-protestam-contra-o-garimpo-1624491481880_v2_615x300.jpg
 ---

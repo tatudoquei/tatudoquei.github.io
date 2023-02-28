@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-17 14:09:43
 pub_date: 2020-01-17 14:09:43
 time_added: 2020-01-17 16:52:03
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://abrilveja.files.wordpress.com/2020/01/alvimdiscurso.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

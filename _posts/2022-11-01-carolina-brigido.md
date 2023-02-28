@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-01 11:42:00
 pub_date: 2022-11-01 11:42:00
 time_added: 2022-11-04 20:06:42
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/51/2022/10/19/quotcumpro-mais-a-constituicao-que-muitos-ministros-do-stfquot-diz-bolsonaro-1666219807472_v2_615x300.jpg
 ---

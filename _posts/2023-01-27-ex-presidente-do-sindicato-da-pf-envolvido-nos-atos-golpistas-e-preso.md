@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-27 17:50:34
 pub_date: 2023-01-27 17:50:34
 time_added: 2023-01-28 15:11:42
-category: 
+categories: []
 tags: []
 image: https://congressoemfoco.uol.com.br/wp-content/uploads/2023/01/honorato-fernando.jpeg
 ---

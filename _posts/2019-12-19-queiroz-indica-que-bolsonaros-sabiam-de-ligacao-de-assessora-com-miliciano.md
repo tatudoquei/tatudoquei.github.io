@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-19 12:52:00
 pub_date: 2019-12-19 12:52:00
 time_added: 2019-12-21 10:25:26
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/39/2018/12/27/fabricio-queiroz-ex-assessor-de-flavio-bolsonaro-1545897910119_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-28 03:00:00
 pub_date: 2020-03-28 03:00:00
 time_added: 2020-03-29 09:35:42
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/285/files/2020/03/Screen-Shot-2020-03-27-at-14.12.44.png
 ---

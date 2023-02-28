@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-17 16:45:00
 pub_date: 2021-12-17 16:45:00
 time_added: 2021-12-24 20:21:52
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/db/2021/08/25/4ago2021---o-ministro-da-economia-paulo-guedes-durante-cerimonia-de-posse-de-ciro-nogueira-pp-na-casa-civil-1629939418806_v2_615x300.jpg
 ---

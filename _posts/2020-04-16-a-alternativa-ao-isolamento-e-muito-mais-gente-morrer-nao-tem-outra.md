@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-16 19:32:29
 pub_date: 2020-04-16 19:32:29
 time_added: 2020-04-17 19:10:10
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2020/04/natalia-pasternak.jpg
 ---

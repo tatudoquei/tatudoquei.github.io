@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-04 19:25:24
 pub_date: 2020-11-04 19:25:24
 time_added: 2020-11-05 19:06:40
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/11/20201104-hernanchaimovich.png
 ---

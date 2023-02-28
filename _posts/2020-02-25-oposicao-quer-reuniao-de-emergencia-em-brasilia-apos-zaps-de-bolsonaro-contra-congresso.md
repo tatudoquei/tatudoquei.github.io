@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-25 21:01:00
 pub_date: 2020-02-25 21:01:00
 time_added: 2020-02-26 17:25:50
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23671022-0ba-2d1/FT1086A/652/80981044_BSBBrasiliaBrasil06-02-2019PAReuniao-das-liderancas-na-Camara-dos-Deputados.jpg
 ---

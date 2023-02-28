@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-28 00:59:00
 pub_date: 2020-01-28 00:59:00
 time_added: 2020-01-29 08:20:57
-category: 
+categories: []
 tags: []
 image: https://painel.blogfolha.uol.com.br/files/2020/01/santos-cruz.jpg
 ---

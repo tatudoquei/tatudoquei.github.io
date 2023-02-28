@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-24 21:20:20
 pub_date: 2021-11-24 21:20:20
 time_added: 2021-11-27 09:49:56
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/ywO2ofXmVX-cVtRGmTN0O2hmqrs=/1200x/smart/filters:cover():strip_icc()/s01.video.glbimg.com/x720/10070904.jpg
 ---

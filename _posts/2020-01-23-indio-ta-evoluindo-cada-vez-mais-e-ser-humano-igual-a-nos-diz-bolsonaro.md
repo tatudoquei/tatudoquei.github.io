@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-23 18:50:00
 pub_date: 2020-01-23 18:50:00
 time_added: 2020-01-24 07:59:54
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/3a/2020/01/23/bolsonaro-caminha-na-saida-do-palacio-da-alvorada-em-brasilia-1579785455928_v2_615x300.jpg
 ---

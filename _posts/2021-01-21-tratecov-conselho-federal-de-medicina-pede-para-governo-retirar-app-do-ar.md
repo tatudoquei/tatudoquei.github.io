@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-21 15:53:35
 pub_date: 2021-01-21 15:53:35
 time_added: 2021-05-21 06:05:44
-category: 
+categories: []
 tags: []
 image: https://www.otempo.com.br/image/contentid/policy:1.2438028:1611255175/Captura%20de%20Tela%202021-01-21%20%C3%A0s%2015.52.48.png?f=3x2&w=620&$p$f$w=a270131
 ---

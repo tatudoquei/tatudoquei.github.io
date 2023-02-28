@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-08 13:02:43
 pub_date: 2019-05-08 13:02:43
 time_added: 2019-05-13 11:12:57
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2019/05/1111169-tnrgo_abr_030720188601_1.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

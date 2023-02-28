@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-23 20:38:05
 pub_date: 2020-10-23 20:38:05
 time_added: 2020-10-23 22:38:05
-category: 
+categories: []
 tags: []
 image: https://www.socioambiental.org/sites/blog.socioambiental.org/files/styles/twitter-card/public/blogs/rs64396_desmatamento-e-queimdas-2020_50223685843_o.jpg?itok=lYQJEGky
 ---

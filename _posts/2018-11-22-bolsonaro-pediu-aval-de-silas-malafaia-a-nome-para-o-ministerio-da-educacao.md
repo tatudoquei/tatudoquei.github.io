@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-11-22 15:48:00
 pub_date: 2018-11-22 15:48:00
 time_added: 2018-11-22 23:36:22
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23251464-143-6bb/FT1086A/652/O-procurador-da-Republica-Guilherme-Schelb-cotado-para-o-Ministerio-da-Educacao-de-Bolsonaro.jpg
 ---

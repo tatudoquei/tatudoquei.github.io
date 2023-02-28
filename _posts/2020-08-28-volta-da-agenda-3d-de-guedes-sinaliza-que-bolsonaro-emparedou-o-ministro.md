@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-28 15:14:00
 pub_date: 2020-08-28 15:14:00
 time_added: 2020-08-28 21:59:19
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e3/2020/08/26/o-presidente-jair-bolsonaro-sem-partido-e-o-ministro-da-economia-paulo-guedes-1598469645086_v2_615x300.jpg
 ---

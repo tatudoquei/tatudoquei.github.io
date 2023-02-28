@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-06 22:28:56
 pub_date: 2021-07-06 22:28:56
 time_added: 2021-07-24 08:25:19
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/07/Poluicao.jpg
 ---

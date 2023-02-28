@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-27 06:55:00
 pub_date: 2023-01-27 06:55:00
 time_added: 2023-02-04 11:09:59
-category: 
+categories: []
 tags: []
 image: https://midias.correiobraziliense.com.br/_midias/jpg/2023/01/18/675x450/1_haddad_em_davos-27286581.jpg?20230118124948?20230118124948
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-09 17:07:00
 pub_date: 2021-03-09 17:07:00
 time_added: 2021-03-21 09:09:38
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24866892-2a0-771/FT1086A/71747517_brasil_-_brasilia_-_bsb_-_pa_-_19-09-2017_-_pa_-_sessao_plenaria_do_senado_federal._na.jpg
 ---

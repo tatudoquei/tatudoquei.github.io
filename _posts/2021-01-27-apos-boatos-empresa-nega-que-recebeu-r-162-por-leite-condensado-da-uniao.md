@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-27 13:26:00
 pub_date: 2021-01-27 13:26:00
 time_added: 2021-02-02 22:35:34
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/62/2020/12/16/16dez2020---o-presidente-jair-bolsonaro-durante-cerimonia-de-lancamento-do-plano-nacional-de-vacinacao-contra-a-covid-19-no-palacio-do-planalto-em-brasilia-1608132575075_v2_615x300.jpg
 ---

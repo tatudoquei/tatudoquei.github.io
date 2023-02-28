@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-01 17:56:00
 pub_date: 2021-04-01 17:56:00
 time_added: 2021-04-02 07:58:02
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24952248-ce9-9b9/FT1086A/photofunny.net__final_3034074194748736950_.jpgqact65.pagespeed.ce.RVleSgdI9K.jpg
 ---

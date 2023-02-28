@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-08 13:15:00
 pub_date: 2020-09-08 13:15:00
 time_added: 2020-09-20 14:02:24
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/09/20190917_00_vahan_agopyan.jpg
 ---

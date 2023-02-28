@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-26 19:18:48
 pub_date: 2022-12-26 19:18:48
 time_added: 2022-12-27 15:59:52
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2021/02/23171819/bolsonaro_michelle_bolsonaro.jpeg
 ---

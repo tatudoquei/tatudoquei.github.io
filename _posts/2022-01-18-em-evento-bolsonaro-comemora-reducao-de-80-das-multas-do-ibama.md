@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-01-18 19:43:21
 pub_date: 2022-01-18 19:43:21
 time_added: 2022-01-18 23:51:17
-category: 
+categories: []
 tags: []
 image: http://oeco.org.br/wp-content/uploads/2022/01/Circuito-Agro.jpg
 ---

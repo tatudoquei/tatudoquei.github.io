@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-12 22:00:39
 pub_date: 2019-01-12 22:00:39
 time_added: 2019-12-23 21:41:24
-category: refletimos
+categories: [refletimos]
 tags: [educação]
 image: https://ep00.epimg.net/brasil/imagenes/2019/01/10/politica/1547145578_294383_1547154960_rrss_normal.jpg
 ---

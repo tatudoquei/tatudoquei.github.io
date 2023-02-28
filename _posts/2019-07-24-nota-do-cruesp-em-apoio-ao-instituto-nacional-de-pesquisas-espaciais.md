@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-24 21:50:23
 pub_date: 2019-07-24 21:50:23
 time_added: 2019-07-26 06:46:48
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/07/Inpe-Sao-Jose.jpg
 ---

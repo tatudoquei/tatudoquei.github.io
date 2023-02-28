@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-21 09:49:26
 pub_date: 2019-05-21 09:49:26
 time_added: 2019-05-22 06:31:57
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2018/09/rural.jpg
 ---

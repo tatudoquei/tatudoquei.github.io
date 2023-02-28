@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-30 00:00:47
 pub_date: 2020-01-30 00:00:47
 time_added: 2020-01-30 21:38:30
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2020/01/racismo-iverso-620x316.png
 ---

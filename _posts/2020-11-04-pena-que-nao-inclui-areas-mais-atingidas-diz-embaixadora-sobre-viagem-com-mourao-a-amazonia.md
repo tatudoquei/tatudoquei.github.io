@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-04 15:28:00
 pub_date: 2020-11-04 15:28:00
 time_added: 2020-11-04 20:31:47
-category: 
+categories: []
 tags: []
 image: https://ambiencia.blogfolha.uol.com.br/files/2020/09/mourao.jpg
 ---

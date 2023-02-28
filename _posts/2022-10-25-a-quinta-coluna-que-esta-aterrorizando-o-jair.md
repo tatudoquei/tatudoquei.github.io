@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-25 16:09:50
 pub_date: 2022-10-25 16:09:50
 time_added: 2022-10-28 20:56:57
-category: 
+categories: []
 tags: []
 image: https://www.ocafezinho.com/wp-content/uploads/2021/11/bolsonaro-cercadinho-2-420x280-1.jpeg
 ---

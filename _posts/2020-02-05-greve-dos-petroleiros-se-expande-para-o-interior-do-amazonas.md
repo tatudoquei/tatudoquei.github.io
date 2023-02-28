@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-05 23:00:00
 pub_date: 2020-02-05 23:00:00
 time_added: 2020-02-09 12:23:43
-category: 
+categories: []
 tags: []
 image: https://www.portaldoholanda.com.br/sites/default/files/imagecache/2016_noticia_topo/portaldoholanda-966490-imagem.jpg
 ---

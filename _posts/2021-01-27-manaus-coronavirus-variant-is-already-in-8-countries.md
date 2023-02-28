@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-27 23:12:31
 pub_date: 2021-01-27 23:12:31
 time_added: 2021-01-31 20:03:30
-category: 
+categories: []
 tags: []
 image: https://olhardigital.com.br/wp-content/uploads/2021/01/shutterstock_1881883633.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-06 02:02:00
 pub_date: 2020-08-06 02:02:00
 time_added: 2020-08-06 18:01:58
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/51/2020/05/15/15mai2020---damares-alves-ministra-da-mulher-familia-e-direitos-humanos-durante-cerimonia-no-palacio-do-planalto-em-brasilia-1589576773452_v2_615x300.jpg
 ---

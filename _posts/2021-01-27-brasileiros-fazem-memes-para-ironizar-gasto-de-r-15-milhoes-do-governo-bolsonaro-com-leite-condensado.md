@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-27 06:21:10
 pub_date: 2021-01-27 06:21:10
 time_added: 2021-01-27 13:58:48
-category: 
+categories: []
 tags: []
 image: https://extra.globo.com/incoming/24855712-a61-bd9/w976h550-PROP/meme1.jpg
 ---

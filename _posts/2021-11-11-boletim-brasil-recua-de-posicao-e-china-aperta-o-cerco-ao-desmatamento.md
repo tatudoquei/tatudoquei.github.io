@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-11 22:12:43
 pub_date: 2021-11-11 22:12:43
 time_added: 2021-11-11 23:10:13
-category: 
+categories: []
 tags: []
 image: http://oeco.org.br/wp-content/uploads/2021/11/Oeco2_COP26-Boletim.jpg
 ---

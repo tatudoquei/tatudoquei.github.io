@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-09 19:24:46
 pub_date: 2023-01-09 19:24:46
 time_added: 2023-01-14 14:21:00
-category: 
+categories: []
 tags: []
 image: https://jacobin.com.br/wp-content/uploads/2023/01/a2301081745030.jpg
 ---

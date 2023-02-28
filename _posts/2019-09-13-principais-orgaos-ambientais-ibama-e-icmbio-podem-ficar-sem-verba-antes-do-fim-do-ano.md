@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-13 07:00:34
 pub_date: 2019-09-13 07:00:34
 time_added: 2019-09-15 09:59:25
-category: 
+categories: []
 tags: []
 image: https://sustentabilidade.estadao.com.br/blogs/ambiente-se/wp-content/uploads/sites/92/2019/09/desmate.jpg
 ---

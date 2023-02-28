@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-26 18:39:27
 pub_date: 2020-12-26 18:39:27
 time_added: 2020-12-26 15:39:27
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/especiais/esporte/_2020/bolsonaro/capa-desk.jpg
 ---

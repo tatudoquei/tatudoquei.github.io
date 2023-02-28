@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-24 05:38:00
 pub_date: 2019-04-24 05:38:00
 time_added: 2019-06-30 07:54:02
-category: 
+categories: []
 tags: []
 image: https://emc.acidadeon.com/dbimagens/comissao_vai_790x505_24042019074905.jpg
 ---

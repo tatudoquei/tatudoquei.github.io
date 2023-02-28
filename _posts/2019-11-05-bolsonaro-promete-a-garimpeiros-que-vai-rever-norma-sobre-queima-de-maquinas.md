@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-05 19:21:34
 pub_date: 2019-11-05 19:21:34
 time_added: 2019-11-12 23:11:25
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2019/11/Itaituba.jpg
 ---

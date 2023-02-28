@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-30 16:57:53
 pub_date: 2021-03-30 16:57:53
 time_added: 2021-03-30 19:49:37
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2021/03/Comandantes.jpeg?quality=70&strip=info&w=680&h=443&crop=1
 ---

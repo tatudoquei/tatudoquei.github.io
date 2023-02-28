@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-18 14:30:51
 pub_date: 2020-07-18 14:30:51
 time_added: 2020-07-18 21:17:54
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/ecguiwlme4cg17FcaELmp-JzlPY=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/O/E/dS0IuFQ3uCBkwfWXI0JA/2020-01-18t021755z-428672992-rc22ie9vq3fo-rtrmadp-3-brazil-indigenous-ricardo-moraes-reuters.jpg
 ---

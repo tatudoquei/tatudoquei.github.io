@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-03 20:37:27
 pub_date: 2020-10-03 20:37:27
 time_added: 2020-10-03 22:37:27
-category: 
+categories: []
 tags: []
 image: https://api.time.com/wp-content/uploads/2020/10/brazil-pantanal-fires-2020-1.jpg?quality=85&w=1200&h=628&crop=1
 ---

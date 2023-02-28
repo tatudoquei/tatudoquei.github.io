@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-09 12:41:41
 pub_date: 2023-01-09 12:41:41
 time_added: 2023-01-10 23:54:46
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/acampamento1/alternates/LANDSCAPE_768/acampamento
 ---

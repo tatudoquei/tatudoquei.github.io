@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-13 15:14:32
 pub_date: 2023-01-13 15:14:32
 time_added: 2023-01-14 14:42:37
-category: 
+categories: []
 tags: []
 image: https://news.files.bbci.co.uk/include/articles/public/portuguese/images/metadata/poster-1024x576.png
 ---

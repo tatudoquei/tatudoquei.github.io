@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-28 03:47:03
 pub_date: 2019-05-28 03:47:03
 time_added: 2019-05-29 21:10:25
-category: 
+categories: []
 tags: []
 image: https://brasil.estadao.com.br/blogs/inconsciente-coletivo/wp-content/uploads/sites/646/2019/05/WhatsApp-Image-2019-05-15-at-10.55.09.jpeg
 ---

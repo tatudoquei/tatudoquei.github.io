@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-07 05:22:33
 pub_date: 2021-04-07 05:22:33
 time_added: 2021-05-16 17:33:34
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/04/vacina_de_oxford_astrazeneca-1080x630.jpeg
 ---

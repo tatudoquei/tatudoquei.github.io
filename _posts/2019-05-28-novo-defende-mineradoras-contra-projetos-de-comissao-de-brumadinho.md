@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-28 06:00:00
 pub_date: 2019-05-28 06:00:00
 time_added: 2019-05-29 19:42:58
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23493219-ef2-d17/FT1086A/652/80830403_BRASILBrumadinho-MG26-01-2019Bombeiros-fazem-busca-por-sobreviventes-Rompiment.jpg
 ---

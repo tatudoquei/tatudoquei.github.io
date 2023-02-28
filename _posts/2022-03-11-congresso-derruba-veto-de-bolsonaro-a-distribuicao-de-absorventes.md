@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-03-11 01:27:17
 pub_date: 2022-03-11 01:27:17
 time_added: 2022-03-22 20:28:48
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/absorvente/alternates/LANDSCAPE_768/absorvente
 ---

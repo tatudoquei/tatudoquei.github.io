@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-25 20:23:00
 pub_date: 2020-02-25 20:23:00
 time_added: 2020-02-26 17:25:52
-category: 
+categories: []
 tags: []
 image: https://rollingstone.uol.com.br/media/_versions/arnaldo_antunes-video-olavo-de-carvalho_widelg.jpg
 ---

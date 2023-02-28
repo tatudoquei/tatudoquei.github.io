@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-06 20:01:19
 pub_date: 2021-08-06 20:01:19
 time_added: 2021-08-20 21:19:36
-category: 
+categories: []
 tags: []
 image: http://ponte.org/wp-content/uploads/2021/08/WhatsApp-Image-2021-08-06-at-17.09.01.jpeg
 ---

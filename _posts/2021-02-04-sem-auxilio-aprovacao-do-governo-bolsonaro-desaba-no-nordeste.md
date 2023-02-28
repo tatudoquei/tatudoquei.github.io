@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-04 09:00:47
 pub_date: 2021-02-04 09:00:47
 time_added: 2021-02-06 12:06:49
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/02/bolsonaro-sinuca-ceara-setembro-1200x630.jpg
 ---

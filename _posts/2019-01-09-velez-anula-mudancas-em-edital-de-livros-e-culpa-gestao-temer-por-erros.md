@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-09 17:51:00
 pub_date: 2019-01-09 17:51:00
 time_added: 2019-12-23 21:15:16
-category: recuadas
+categories: [recuadas]
 tags: [educação]
 image: https://conteudo.imguol.com.br/c/noticias/13/2019/01/02/o-presidente-jair-bolsonaro-psl-empossa-o-colombiano-naturalizado-brasileiro-ricardo-velez-rodriguez-como-ministro-da-educacao-no-palacio-do-planalto-em-brasilia-1546461609175_v2_615x300.jpg
 ---

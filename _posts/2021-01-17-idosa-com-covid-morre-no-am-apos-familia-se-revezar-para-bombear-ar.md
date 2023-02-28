@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-17 19:27:00
 pub_date: 2021-01-17 19:27:00
 time_added: 2021-01-19 13:47:51
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/02/2021/01/14/antonio-pereira-da-silva-e-joecy-coelho-da-silva-ambos-sentados-estao-internados-por-covid-na-foto-casal-esta-com-a-filha-ivone-coelho-1610671663083_v2_615x300.jpg
 ---

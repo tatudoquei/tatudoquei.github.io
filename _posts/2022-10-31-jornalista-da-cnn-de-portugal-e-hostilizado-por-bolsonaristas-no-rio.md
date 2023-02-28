@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-31 10:05:00
 pub_date: 2022-10-31 10:05:00
 time_added: 2022-10-31 15:18:59
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/19/2022/10/31/jornalista-da-cnn-portugal-foi-xingado-por-apoiadores-do-presidente-jair-bolsonaro-enquanto-fazia-entrada-ao-vivo-1667225031644_v2_615x300.png
 ---

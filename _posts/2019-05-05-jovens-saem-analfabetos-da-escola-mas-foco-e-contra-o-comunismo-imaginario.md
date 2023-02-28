@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-05 21:16:00
 pub_date: 2019-05-05 21:16:00
 time_added: 2019-05-07 06:12:06
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/05/comunismo-615x300.jpg
 ---

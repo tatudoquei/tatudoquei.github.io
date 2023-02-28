@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-17 15:57:17
 pub_date: 2021-08-17 15:57:17
 time_added: 2021-09-06 08:17:24
-category: 
+categories: []
 tags: []
 image: https://amazoniareal.com.br/wp-content/uploads/2021/08/garimpeiros.jpg
 ---

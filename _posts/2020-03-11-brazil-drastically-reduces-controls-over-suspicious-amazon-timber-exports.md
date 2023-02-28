@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-11 20:01:40
 pub_date: 2020-03-11 20:01:40
 time_added: 2020-03-15 21:46:44
-category: 
+categories: []
 tags: []
 image: https://imgs.mongabay.com/wp-content/uploads/sites/20/2020/03/11150619/BANNR-IMAGE-AID-768x444.jpg
 ---

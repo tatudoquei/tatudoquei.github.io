@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-13 16:02:00
 pub_date: 2023-01-13 16:02:00
 time_added: 2023-01-14 14:42:23
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2b/2022/12/25/presidente-jair-bolsonaro-pl-1671975187805_v2_750x421.jpg
 ---

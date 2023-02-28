@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-05 07:56:00
 pub_date: 2019-04-05 07:56:00
 time_added: 2019-04-06 00:18:05
-category: avisamos
+categories: [avisamos]
 tags: [educação]
 ---
 

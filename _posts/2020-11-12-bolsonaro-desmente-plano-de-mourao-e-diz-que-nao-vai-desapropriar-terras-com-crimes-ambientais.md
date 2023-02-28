@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-12 16:34:34
 pub_date: 2020-11-12 16:34:34
 time_added: 2020-11-14 08:34:35
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2020/11/Mourao-1.jpg
 ---

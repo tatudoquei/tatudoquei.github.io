@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-29 00:45:09
 pub_date: 2020-08-29 00:45:09
 time_added: 2020-09-06 00:53:47
-category: 
+categories: []
 tags: []
 image: https://jacobin.com.br/wp-content/uploads/2020/08/ep_thompson.jpg
 ---

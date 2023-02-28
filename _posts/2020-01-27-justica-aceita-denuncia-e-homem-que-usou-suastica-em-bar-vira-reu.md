@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-27 20:15:11
 pub_date: 2020-01-27 20:15:11
 time_added: 2020-01-30 06:50:22
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2020/01/27171344/Nazista.jpeg
 ---

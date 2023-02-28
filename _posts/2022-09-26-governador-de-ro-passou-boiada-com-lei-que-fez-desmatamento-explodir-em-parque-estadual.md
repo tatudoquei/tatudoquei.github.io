@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-26 15:00:00
 pub_date: 2022-09-26 15:00:00
 time_added: 2022-09-26 20:36:51
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2022/09/Capa_Facebook_Governador-de-RO-passou-boiada-com-lei-que-fez-desmatamento-explodir-em-parque-estadual.png
 ---

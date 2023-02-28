@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-07 11:30:00
 pub_date: 2020-02-07 11:30:00
 time_added: 2020-02-08 00:04:04
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/52/2020/02/07/tabata-amaral-e-carla-zambelli-1581089244483_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-02 19:49:35
 pub_date: 2023-01-02 19:49:35
 time_added: 2023-01-03 08:24:30
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/joenia_2.JPG/alternates/LANDSCAPE_768/joenia_2.JPG
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-30 08:06:00
 pub_date: 2020-04-30 08:06:00
 time_added: 2020-04-30 22:46:54
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24402852-2cb-346/FT1086A/652/jairrenan.jpg
 ---

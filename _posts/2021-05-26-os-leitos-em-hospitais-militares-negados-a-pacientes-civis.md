@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-26 17:51:56
 pub_date: 2021-05-26 17:51:56
 time_added: 2022-09-11 10:47:03
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Hospital_militar.jpeg1/alternates/LANDSCAPE_768/Hospital_militar.jpeg
 ---

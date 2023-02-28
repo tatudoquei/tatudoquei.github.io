@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-02 00:29:22
 pub_date: 2020-07-02 00:29:22
 time_added: 2020-07-02 04:07:43
-category: 
+categories: []
 tags: []
 image: https://cdn.revistaforum.com.br/wp-content/uploads/2020/07/videobolso.png
 ---

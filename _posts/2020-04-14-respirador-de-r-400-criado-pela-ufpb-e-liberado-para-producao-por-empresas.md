@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-14 12:48:34
 pub_date: 2020-04-14 12:48:34
 time_added: 2020-04-15 06:22:57
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/sCuggmQ6nCJX38_hB4zPFeLgW8c=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/w/8/sY4NWSS0ad7QPsVGq59w/respirador-pulmonar.jpeg
 ---

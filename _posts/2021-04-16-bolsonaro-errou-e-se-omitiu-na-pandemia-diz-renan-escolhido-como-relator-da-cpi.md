@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-16 11:24:00
 pub_date: 2021-04-16 11:24:00
 time_added: 2021-04-16 18:36:49
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24974523-d38-23c/FT1086A/givaldo-barboza.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-26 22:01:00
 pub_date: 2019-10-26 22:01:00
 time_added: 2019-10-27 11:50:17
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/25/2019/08/06/vereadora-assassinada-marielle-franco-foto-reproducao-internet-1565122289289_v2_615x300.jpg
 ---

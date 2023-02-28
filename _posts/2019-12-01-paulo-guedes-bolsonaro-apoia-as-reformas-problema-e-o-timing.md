@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-01 03:30:00
 pub_date: 2019-12-01 03:30:00
 time_added: 2019-12-01 22:06:38
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/economia/23957708-487-44f/FT1086A/652/84441493_EN-Rio-de-Janeiro-RJ-06-09-2019Brasil-e-Argentina-anunciam-acordo-comercial-automotivo-O.jpg
 ---

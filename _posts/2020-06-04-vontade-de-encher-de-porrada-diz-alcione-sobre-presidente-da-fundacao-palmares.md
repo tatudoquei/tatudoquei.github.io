@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-04 16:15:45
 pub_date: 2020-06-04 16:15:45
 time_added: 2020-06-04 20:09:56
-category: 
+categories: []
 tags: []
 image: https://correio-cdn3.cworks.cloud/fileadmin/_processed_/1/e/csm_zsergiozu_52618e4694.jpg
 ---

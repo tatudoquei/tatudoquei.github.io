@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-21 11:14:00
 pub_date: 2019-05-21 11:14:00
 time_added: 2019-05-22 06:29:02
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23681178-1b1-522/FT1086A/652/82773537_Brazils-President-Jair-Bolsonaro-gestures-during-a-ceremony-for-the-presentation-of-the-2n.jpg
 ---

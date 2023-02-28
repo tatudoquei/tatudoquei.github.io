@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-12 19:39:46
 pub_date: 2021-11-12 19:39:46
 time_added: 2021-11-12 22:15:51
-category: 
+categories: []
 tags: []
 image: http://oeco.org.br/wp-content/uploads/2021/11/Oeco2_Incendio-Amazonia_Foto-Vinicius-Mendonca-Ibama-Flickr.jpg
 ---

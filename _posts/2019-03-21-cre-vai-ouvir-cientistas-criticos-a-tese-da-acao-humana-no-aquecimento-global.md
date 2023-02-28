@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-21 18:28:54
 pub_date: 2019-03-21 18:28:54
 time_added: 2019-03-24 07:32:11
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://www12.senado.leg.br/noticias/materias/2019/03/21/cre-ira-ouvir-cientistas-contrarios-a-tese-do-aquecimento-global/20190321_01153w.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-28 07:03:12
 pub_date: 2021-12-28 07:03:12
 time_added: 2021-12-28 08:03:12
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Durma-27-12-21-_social.jpg/alternates/LANDSCAPE_768/Durma-27-12-21-_social.jpg
 ---

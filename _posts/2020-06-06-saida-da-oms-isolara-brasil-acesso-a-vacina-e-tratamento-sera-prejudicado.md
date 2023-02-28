@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-06 08:46:00
 pub_date: 2020-06-06 08:46:00
 time_added: 2020-06-06 16:07:13
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/92/2020/06/02/bolsonaro-teve-dados-pessoais-vazados-1591115141494_v2_615x300.jpg
 ---

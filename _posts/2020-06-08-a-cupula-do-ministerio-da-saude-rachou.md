@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-08 12:15:00
 pub_date: 2020-06-08 12:15:00
 time_added: 2020-06-09 11:28:32
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/btfji6pEIttX3yXJuvKOrOTdt1w=/640x360/i.glbimg.com/og/ig/infoglobo1/f/original/2020/06/05/pazuello_2.jpg
 ---

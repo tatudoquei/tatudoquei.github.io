@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-08 15:12:00
 pub_date: 2019-05-08 15:12:00
 time_added: 2019-05-09 22:39:35
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/db/2019/05/08/leticia-takahashi-pesquisadora-que-teve-que-interromper-o-doutorado-por-falta-de-bolsa-1557327991917_v2_750x421.jpg
 ---

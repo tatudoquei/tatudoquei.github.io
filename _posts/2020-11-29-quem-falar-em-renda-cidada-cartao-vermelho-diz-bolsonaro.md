@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-29 12:06:00
 pub_date: 2020-11-29 12:06:00
 time_added: 2020-11-29 21:08:26
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e9/2020/11/29/29112020---jair-bolsonaro-fala-com-a-imprensa-apos-votar-1606660180433_v2_615x300.jpg
 ---

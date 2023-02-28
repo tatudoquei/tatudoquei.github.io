@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-18 02:00:00
 pub_date: 2020-06-18 02:00:00
 time_added: 2020-06-19 20:37:34
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f4/2020/06/10/10jun2020---movimentacao-intensa-em-lojas-da-rua-25-de-marco-1591803980921_v2_615x300.jpg
 ---

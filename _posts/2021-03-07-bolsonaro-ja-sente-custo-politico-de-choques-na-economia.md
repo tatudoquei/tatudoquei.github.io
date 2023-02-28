@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-07 02:15:00
 pub_date: 2021-03-07 02:15:00
 time_added: 2021-03-07 10:50:29
-category: refletimos
+categories: [refletimos]
 tags: [economia]
 image: https://f.i.uol.com.br/fotografia/2021/02/10/1612976585602411c96c853_1612976585_3x2_rt.jpg
 ---

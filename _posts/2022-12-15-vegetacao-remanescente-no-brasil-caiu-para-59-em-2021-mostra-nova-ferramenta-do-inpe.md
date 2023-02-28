@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-15 13:10:00
 pub_date: 2022-12-15 13:10:00
 time_added: 2023-01-06 23:10:56
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/oeco.org.br/wp-content/uploads/2022/09/CAPA-chapada-cerrado-e-desmatamento-gambarini-wwf-1.jpg?fit=800%2C1076&ssl=1
 ---

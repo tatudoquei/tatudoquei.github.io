@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-02 18:26:45
 pub_date: 2019-09-02 18:26:45
 time_added: 2019-09-02 21:58:52
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2019/09/retangular-artes-lava-jato-nova-vj.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-07 12:53:00
 pub_date: 2019-11-07 12:53:00
 time_added: 2019-11-08 19:35:14
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/67/2019/10/05/presidente-da-camara-dos-deputados-rodrigo-maia-dem-participa-do-festival-piaui-de-jornalismo-em-sao-paulo-1570299046390_v2_615x300.jpg
 ---

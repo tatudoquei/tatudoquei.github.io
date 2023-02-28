@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-22 12:07:00
 pub_date: 2019-05-22 12:07:00
 time_added: 2019-05-23 05:47:13
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2f/2019/05/13/a-ministra-damares-alves-mulher-familia-e-direitos-humanos-da-entrevista-a-rede-tv-1557760425263_v2_615x300.jpg
 ---

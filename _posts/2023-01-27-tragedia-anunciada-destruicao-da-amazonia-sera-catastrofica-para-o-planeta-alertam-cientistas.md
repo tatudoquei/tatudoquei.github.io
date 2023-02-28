@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-27 17:55:49
 pub_date: 2023-01-27 17:55:49
 time_added: 2023-02-03 21:25:57
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/jornal.usp.br/wp-content/uploads/2023/01/20230126_floresta_chamas.jpg?fit=1200%2C630&ssl=1
 ---

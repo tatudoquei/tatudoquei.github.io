@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-29 13:00:00
 pub_date: 2021-08-29 13:00:00
 time_added: 2021-09-26 05:01:54
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2021/08/GettyImages-1233893133-redes.jpg
 ---

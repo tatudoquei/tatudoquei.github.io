@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-07 12:56:22
 pub_date: 2020-03-07 12:56:22
 time_added: 2020-03-07 13:56:22
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/03/rosana-india-bolsonaro-redes-1583177203.jpg
 ---

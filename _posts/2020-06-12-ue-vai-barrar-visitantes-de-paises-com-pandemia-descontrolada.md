@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-12 17:18:41
 pub_date: 2020-06-12 17:18:41
 time_added: 2020-06-12 19:18:41
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/3fOoSCFm53JR39y3pTcVyn8qWk8=/512x320/smart/e.glbimg.com/og/ed/f/original/2019/09/06/barcelona-buildings-city-1388030.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-13 13:48:33
 pub_date: 2021-12-13 13:48:33
 time_added: 2021-12-13 14:48:33
-category: 
+categories: []
 tags: []
 image: https://pp.nexojornal.com.br/conteudo/imagens/biodiversidade_amazonica_compressor/alternates/LANDSCAPE_768/biodiversidade_amazonica_compressor
 ---

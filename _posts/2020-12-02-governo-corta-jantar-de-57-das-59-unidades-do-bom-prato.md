@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-02 20:04:00
 pub_date: 2020-12-02 20:04:00
 time_added: 2020-12-02 21:33:34
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/12/2017/10/19/18out2017---cozinha-do-restaurante-de-seguranca-alimentar-bom-prato-campos-eliseos-no-centro-de-sao-paulo-1508455923460_615x300.jpg
 ---

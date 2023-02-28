@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-05 02:30:00
 pub_date: 2021-04-05 02:30:00
 time_added: 2021-05-16 17:00:33
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24955518-0ae-7b6/FT1086A/88693034_PA-Brasilia-BSB-03-07-2020-Escolas-que-nao-tem-agua-encanada-com-Goiais-na-foto-o-Colegio-E.jpg
 ---

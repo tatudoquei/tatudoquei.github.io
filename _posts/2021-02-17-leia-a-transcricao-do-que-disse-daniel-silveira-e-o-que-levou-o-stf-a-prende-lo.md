@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-17 05:41:59
 pub_date: 2021-02-17 05:41:59
 time_added: 2021-02-18 12:59:36
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/02/Daniel-Silveira-4-1-1000x630.jpg
 ---

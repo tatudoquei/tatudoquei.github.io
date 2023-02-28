@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-31 18:53:00
 pub_date: 2019-10-31 18:53:00
 time_added: 2019-10-31 22:12:50
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/10/promotora-redes-1572541085.jpg
 ---

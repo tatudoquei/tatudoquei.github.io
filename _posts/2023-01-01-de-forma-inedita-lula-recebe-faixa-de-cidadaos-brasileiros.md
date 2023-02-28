@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-01 20:20:41
 pub_date: 2023-01-01 20:20:41
 time_added: 2023-01-06 23:24:16
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Veja-em-gr%C3%A1ficos-o-hist%C3%B3rico-da-faixa-de-presidentes/alternates/LANDSCAPE_768/Veja%20em%20gr%C3%A1ficos%2C%20o%20hist%C3%B3rico%20da%20faixa%20de%20presidentes
 ---

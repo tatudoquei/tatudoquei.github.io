@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-14 20:44:13
 pub_date: 2019-08-14 20:44:13
 time_added: 2019-08-14 22:44:13
-category: 
+categories: []
 tags: []
 image: https://d3nehc6yl9qzo4.cloudfront.net/img/mineracao_amapa_51549.jpg
 ---

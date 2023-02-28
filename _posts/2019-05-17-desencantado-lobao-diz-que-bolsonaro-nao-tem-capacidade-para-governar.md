@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-17 03:46:47
 pub_date: 2019-05-17 03:46:47
 time_added: 2019-05-17 21:07:53
-category: 
+categories: []
 tags: []
 image: https://www.valor.com.br/sites/default/files/imagecache/media_library_big_horizontal/fotoweb/close_lobao_.jpg
 ---

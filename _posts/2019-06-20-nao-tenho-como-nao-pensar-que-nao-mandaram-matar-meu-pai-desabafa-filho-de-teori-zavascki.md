@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-20 07:08:34
 pub_date: 2017-05-18 08:43:00
 time_added: 2019-06-20 07:08:34
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/21356812-064-bb9/FT1086A/64948238_Brasil-Brasilia-BsB-DF-17-02-2017STFO-Supremo-Tribunal-Federal-realiza-a-missa-de-30.jpg
 ---

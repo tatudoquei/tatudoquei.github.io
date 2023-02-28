@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-30 18:52:38
 pub_date: 2021-06-30 18:52:38
 time_added: 2021-07-01 20:21:12
-category: 
+categories: []
 tags: []
 image: https://cimi.org.br/wp-content/uploads/2021/06/stf-mobiliza_andressa-zumpano-pastorais-do-campo01-scaled.jpeg
 ---

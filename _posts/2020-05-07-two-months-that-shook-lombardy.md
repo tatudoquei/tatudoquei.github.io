@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-07 10:07:01
 pub_date: 2020-05-07 10:07:01
 time_added: 2020-05-07 18:12:43
-category: 
+categories: []
 tags: []
 image: https://www.ilpost.it/wp-content/uploads/2020/05/virus.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-20 16:12:00
 pub_date: 2021-10-20 16:12:00
 time_added: 2021-10-24 14:52:14
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/economia/25243930-ce7-828/FT1086A/760/Carne-bovinareuters.jpg
 ---

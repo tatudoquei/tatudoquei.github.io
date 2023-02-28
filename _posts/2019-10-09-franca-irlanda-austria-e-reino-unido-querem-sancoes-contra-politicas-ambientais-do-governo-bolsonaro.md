@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-09 03:20:50
 pub_date: 2019-10-09 03:20:50
 time_added: 2019-10-10 01:40:18
-category: 
+categories: []
 tags: []
 image: http://climainfo.org.br/wp-content/uploads/2019/10/tratado-comercial.jpeg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-20 23:52:18
 pub_date: 2021-08-20 23:52:18
 time_added: 2021-08-20 20:52:18
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2021/07/redes-2.jpg
 ---

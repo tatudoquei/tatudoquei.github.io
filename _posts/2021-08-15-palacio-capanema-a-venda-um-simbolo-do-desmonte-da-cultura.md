@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-15 02:36:00
 pub_date: 2021-08-15 02:36:00
 time_added: 2021-08-20 21:34:43
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/DJYwffMMb2A5Wbq66sDbXmVfd1w=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2021/08/14/21971477_sc_rio_de_janeiro-brasil_15-09-2010_palacio_gustavo_capanema_-_foto_leonardo_aversa_-_a_C6G6qSz.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-26 21:16:40
 pub_date: 2020-05-26 21:16:40
 time_added: 2020-05-27 12:30:13
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/05/SP-Quarentena.png
 ---

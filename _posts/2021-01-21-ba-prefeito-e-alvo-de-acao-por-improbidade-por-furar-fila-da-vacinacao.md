@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-21 00:50:00
 pub_date: 2021-01-21 00:50:00
 time_added: 2021-01-22 21:48:31
-category: 
+categories: []
 tags: [saúde]
 image: https://conteudo.imguol.com.br/c/noticias/1c/2021/01/20/reginaldo-martins-prado-psd-prefeito-de-candiba-ba-1611188410104_v2_615x300.jpg
 ---

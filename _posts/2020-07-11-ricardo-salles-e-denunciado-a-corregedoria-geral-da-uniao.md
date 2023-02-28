@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-11 05:25:00
 pub_date: 2020-07-11 05:25:00
 time_added: 2020-07-11 16:54:30
-category: bandido bom
+categories: [bandido bom]
 tags: [meio ambiente]
 image: https://s2.glbimg.com/Q3rOSBwJjIOiIWVkITUx0Z8EejQ=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2020/07/03/salles.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-31 11:00:00
 pub_date: 2021-08-31 11:00:00
 time_added: 2021-09-26 05:03:15
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/08/senadorestaurando.jpg
 ---

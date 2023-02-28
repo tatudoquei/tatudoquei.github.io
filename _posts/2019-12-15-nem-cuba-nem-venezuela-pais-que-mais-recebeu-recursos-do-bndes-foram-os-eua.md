@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-15 19:49:20
 pub_date: 2019-12-15 19:49:20
 time_added: 2019-12-15 20:49:20
-category: 
+categories: []
 tags: []
 image: https://media.gazetadopovo.com.br/2019/06/16191826/BNDES1-660x372.jpg
 ---

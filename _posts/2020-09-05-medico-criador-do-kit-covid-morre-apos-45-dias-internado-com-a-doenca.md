@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-05 07:49:32
 pub_date: 2020-09-05 07:49:32
 time_added: 2020-09-05 09:49:32
-category: 
+categories: []
 tags: []
 image: https://midias.correiobraziliense.com.br/_midias/jpg/2020/09/04/675x450/1_medicomt-6267810.jpeg
 ---

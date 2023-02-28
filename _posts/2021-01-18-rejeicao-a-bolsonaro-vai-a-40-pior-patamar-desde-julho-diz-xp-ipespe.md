@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-18 20:22:02
 pub_date: 2021-01-18 20:22:02
 time_added: 2021-01-19 13:51:51
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/01/bolsonaro-cerimonia-militar-1200x630.jpg
 ---

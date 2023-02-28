@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-28 12:31:00
 pub_date: 2020-03-28 12:31:00
 time_added: 2020-03-28 23:20:14
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24332319-58b-5fd/FT1086A/652/CAMPANHA.jpg
 ---

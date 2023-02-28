@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-18 14:12:00
 pub_date: 2021-04-18 14:12:00
 time_added: 2021-05-16 20:37:08
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/95/2021/04/18/18abr2021---o-ministro-da-saude-marcelo-queiroga-vacina-um-tecnico-em-enfermagem-contra-o-coronavirus-em-sao-mamede-pb-1618772562593_v2_615x300.png
 ---

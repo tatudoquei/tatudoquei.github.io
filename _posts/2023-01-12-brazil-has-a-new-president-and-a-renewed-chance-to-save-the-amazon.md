@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-12 23:00:00
 pub_date: 2023-01-12 23:00:00
 time_added: 2023-01-14 13:30:54
-category: 
+categories: []
 tags: []
 image: https://www.democracynow.org/images/blog_posts/93/65793/full_hd/column_default.jpg
 ---

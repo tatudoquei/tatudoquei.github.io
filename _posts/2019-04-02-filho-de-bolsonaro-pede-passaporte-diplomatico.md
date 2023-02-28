@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-02 12:15:09
 pub_date: 2019-04-02 12:15:09
 time_added: 2019-04-02 22:49:43
-category: 
+categories: []
 tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2019/03/bolsonaro-carlos.jpg
 ---

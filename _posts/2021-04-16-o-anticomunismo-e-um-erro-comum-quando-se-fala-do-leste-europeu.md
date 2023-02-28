@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-16 18:38:07
 pub_date: 2021-04-16 18:38:07
 time_added: 2021-04-16 20:38:07
-category: 
+categories: []
 tags: []
 image: https://media.gazetadopovo.com.br/2021/04/16113755/000_97N6GC-660x372.jpg
 ---

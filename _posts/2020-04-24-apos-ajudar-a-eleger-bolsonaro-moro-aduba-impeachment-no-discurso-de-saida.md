@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-24 09:55:00
 pub_date: 2020-04-24 09:55:00
 time_added: 2020-04-24 18:22:40
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/4d/2020/04/24/presidente-jair-bolsonaro-e-ministro-da-justica-sergio-moro-em-cerimonia-no-palacio-do-planalto-1587724582632_v2_615x300.jpg
 ---

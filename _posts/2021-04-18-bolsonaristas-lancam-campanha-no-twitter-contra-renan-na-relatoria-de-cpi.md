@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-18 14:41:52
 pub_date: 2021-04-18 14:41:52
 time_added: 2021-05-16 20:36:11
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/09/Renan-Calheiros-1-1200x630.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-17 23:24:26
 pub_date: 2023-01-17 23:24:26
 time_added: 2023-01-21 10:09:04
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/jornal.usp.br/wp-content/uploads/2023/01/20230117_ricardo-galvao.jpg?fit=1200%2C630&ssl=1
 ---

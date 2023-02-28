@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-10-31 19:10:32
 pub_date: 2018-10-31 19:10:32
 time_added: 2021-06-05 15:08:57
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2018/10/IMG_20180929_124121-Copy-1.jpg
 ---

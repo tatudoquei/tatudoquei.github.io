@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-13 16:38:02
 pub_date: 2019-09-13 16:38:02
 time_added: 2021-09-06 08:02:04
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/jornal.usp.br/wp-content/uploads/2019/09/20190913_00_Reginaldo-Prandi.jpg?fit=800%2C420&ssl=1
 ---

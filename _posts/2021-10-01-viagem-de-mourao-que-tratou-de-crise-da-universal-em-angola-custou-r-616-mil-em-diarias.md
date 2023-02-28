@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-01 09:00:43
 pub_date: 2021-10-01 09:00:43
 time_added: 2021-10-17 14:31:35
-category: 
+categories: []
 tags: []
 image: http://uploads.metropoles.com/wp-content/uploads/2021/01/18100919/01082019-RF-General-Mourao-_-017-1.jpg
 ---

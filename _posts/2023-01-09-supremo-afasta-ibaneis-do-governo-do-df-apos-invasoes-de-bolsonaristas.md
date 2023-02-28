@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-09 04:31:15
 pub_date: 2023-01-09 04:31:15
 time_added: 2023-01-10 23:53:34
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/FD4B/production/_128234846_ibaneis.jpg
 ---

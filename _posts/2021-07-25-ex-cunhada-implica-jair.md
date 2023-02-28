@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-25 19:40:32
 pub_date: 2021-07-25 19:40:32
 time_added: 2021-07-25 16:40:32
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/especiais/podcast-uol-investiga/UOL-Investiga_Especial-Capa.png
 ---

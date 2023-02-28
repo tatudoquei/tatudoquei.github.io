@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-20 16:25:00
 pub_date: 2020-11-20 16:25:00
 time_added: 2020-11-21 16:51:07
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/8a/2020/10/29/jeferson-tenorio-escritor-carioca-radicado-em-porto-alegre-1604007944201_v2_615x300.jpg
 ---

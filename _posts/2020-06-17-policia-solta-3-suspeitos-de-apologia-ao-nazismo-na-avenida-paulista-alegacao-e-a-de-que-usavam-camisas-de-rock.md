@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-17 00:29:23
 pub_date: 2020-06-17 00:29:23
 time_added: 2020-06-17 06:45:08
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/q0362vb3w88-UhbF2p75wWCD2rE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/Z/l/8kg2YWQOOlNCApipPlYQ/trio-detido-na-paulista.jpg
 ---

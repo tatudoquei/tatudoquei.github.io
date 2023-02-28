@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-15 20:19:16
 pub_date: 2023-01-15 20:19:16
 time_added: 2023-01-21 10:20:26
-category: 
+categories: []
 tags: []
 image: https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/01/12/2023-01-09t003700z_1_lynxmpej0800e_rtroptp_4_brazil-politics-violence-1k250w6amjbxw.jpg
 ---

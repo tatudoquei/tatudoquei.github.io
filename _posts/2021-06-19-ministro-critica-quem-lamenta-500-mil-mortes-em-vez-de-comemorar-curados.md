@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-19 18:42:00
 pub_date: 2021-06-19 18:42:00
 time_added: 2021-06-20 12:41:07
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/29/2021/06/01/fabio-faria-1622585724929_v2_615x300.jpg
 ---

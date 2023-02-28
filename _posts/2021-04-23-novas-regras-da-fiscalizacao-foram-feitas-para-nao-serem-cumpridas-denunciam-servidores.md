@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-23 00:27:19
 pub_date: 2021-04-23 00:27:19
 time_added: 2021-05-22 23:11:26
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/04/fechado.jpg
 ---

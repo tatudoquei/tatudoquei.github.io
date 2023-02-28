@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-03 16:48:38
 pub_date: 2019-09-03 16:48:38
 time_added: 2019-11-25 21:02:52
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2019/09/0r6a7117-copia-2.jpg
 ---

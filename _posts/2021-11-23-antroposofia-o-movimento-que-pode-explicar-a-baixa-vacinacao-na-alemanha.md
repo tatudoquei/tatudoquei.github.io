@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-23 13:24:00
 pub_date: 2021-11-23 13:24:00
 time_added: 2021-11-25 02:42:05
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/78/2021/10/06/29-set-2021---vacina-contra-a-covid-19-da-moderna-em-centro-de-vacinacao-no-hospital-robert-bosch-em-stuttgart-na-alemanha-1633534212589_v2_615x300.jpg
 ---

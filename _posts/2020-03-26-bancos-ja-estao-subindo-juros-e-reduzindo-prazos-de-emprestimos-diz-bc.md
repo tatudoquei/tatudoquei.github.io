@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-26 11:43:00
 pub_date: 2020-03-26 11:43:00
 time_added: 2020-03-27 12:39:30
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/cc/2019/02/26/o-economista-roberto-campos-neto-indicado-para-assumir-a-presidencia-do-banco-central-em-substituicao-a-ilan-goldfajn-e-sabatinado-na-comissao-de-assuntos-economicos-cae-do-senado-1551191931774_v2_615x300.jpg
 ---

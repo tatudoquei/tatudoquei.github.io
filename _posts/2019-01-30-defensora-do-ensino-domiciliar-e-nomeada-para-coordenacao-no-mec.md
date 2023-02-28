@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-30 21:05:00
 pub_date: 2019-01-30 21:05:00
 time_added: 2019-01-31 22:07:33
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/bb/2019/01/30/maria-eduarda-manso-mostaco-1548892962543_v2_615x300.jpg
 ---

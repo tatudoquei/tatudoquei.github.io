@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-22 20:18:05
 pub_date: 2020-04-22 20:18:05
 time_added: 2020-04-23 06:45:42
-category: resistimos
+categories: [resistimos]
 tags: [saúde]
 image: https://s2.glbimg.com/NzhFuJGAPNIMq2HbzzKE9VsADvI=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2016/08/21/paco.jpg
 ---

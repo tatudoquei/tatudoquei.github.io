@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-03 13:23:27
 pub_date: 2019-06-03 13:23:27
 time_added: 2019-06-04 06:15:37
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/apublica.org/wp-content/uploads/2019/06/eduardo-bim.jpg?fit=1200%2C800&ssl=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-19 02:00:00
 pub_date: 2019-09-19 02:00:00
 time_added: 2019-09-19 22:23:21
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/97/2019/09/19/bolsonaro-rede-fake-news-1568897884674_v2_615x300.jpg
 ---

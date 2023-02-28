@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-01-06 07:53:00
 pub_date: 2022-01-06 07:53:00
 time_added: 2022-01-08 12:48:38
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/splash/31/2021/12/13/mano-brown-1639437874322_v2_615x300.jpg
 ---

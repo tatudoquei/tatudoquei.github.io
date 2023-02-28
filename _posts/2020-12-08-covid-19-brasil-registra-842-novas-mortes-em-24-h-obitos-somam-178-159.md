@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-08 22:03:00
 pub_date: 2020-12-08 22:03:00
 time_added: 2020-12-09 22:47:39
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/68/2020/05/25/medicos-sem-fronteira-atendem-moradores-em-situacao-de-rua-co-suspeita-de-covid-19-em-sao-paulo-1590407873838_615x300.jpg
 ---

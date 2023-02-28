@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-05 13:04:00
 pub_date: 2021-01-05 13:04:00
 time_added: 2021-01-06 19:12:31
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/bc/2020/12/31/anvisa-retirou-a-obrigatoriedade-de-a-empresa-fornecer-um-cronograma-de-disponibilizaccedilatildeo-da-vacina-ao-paiacutes-1609436618590_v2_615x300.jpg
 ---

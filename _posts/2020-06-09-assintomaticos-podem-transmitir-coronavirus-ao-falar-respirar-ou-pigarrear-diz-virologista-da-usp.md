@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-09 13:03:00
 pub_date: 2020-06-09 13:03:00
 time_added: 2020-06-09 23:01:59
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24470435-f19-985/FT1086A/652/copacabanacoronavirus.jpg
 ---

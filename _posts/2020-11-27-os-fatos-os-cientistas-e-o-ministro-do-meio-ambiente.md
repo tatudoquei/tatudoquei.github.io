@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-27 10:30:12
 pub_date: 2020-11-27 10:30:12
 time_added: 2020-11-27 20:46:11
-category: 
+categories: []
 tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2019/09/fcpzzb_abr_07081920138.jpg
 ---

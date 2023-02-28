@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-29 02:30:00
 pub_date: 2021-01-29 02:30:00
 time_added: 2021-01-30 19:40:05
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24860134-e6c-4f1/FT1086A/652/covid19manaus.jpg
 ---

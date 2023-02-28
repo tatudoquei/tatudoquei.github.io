@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-20 23:00:00
 pub_date: 2020-03-20 23:00:00
 time_added: 2020-03-09 01:56:58
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/try3GDFe2jfiDxxNKqe2GxomMfE=/e.glbimg.com/og/ed/f/original/2018/03/01/foto_materia_800px2.png
 ---

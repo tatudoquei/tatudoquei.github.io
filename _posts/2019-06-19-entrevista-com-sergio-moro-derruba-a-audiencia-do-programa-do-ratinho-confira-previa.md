@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-19 04:03:01
 pub_date: 2019-06-19 04:03:01
 time_added: 2019-06-19 19:08:39
-category: 
+categories: []
 tags: []
 image: https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2019/06/sergio-moro-no-programa-do-ratinho-foto-gabriel-cardoso-sbt.jpg
 ---

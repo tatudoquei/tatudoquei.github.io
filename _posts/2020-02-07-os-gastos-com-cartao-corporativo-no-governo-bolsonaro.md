@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-07 21:06:46
 pub_date: 2020-02-07 21:06:46
 time_added: 2020-02-07 22:06:46
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Veja-em-gr%C3%A1ficos-qual-o-gasto-com-o-cart%C3%A3o-corporativo-do-governo/alternates/LANDSCAPE_768/Veja%20em%20gr%C3%A1ficos%20qual%20o%20gasto%20com%20o%20cart%C3%A3o%20corporativo%20do%20governo
 ---

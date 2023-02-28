@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-24 20:32:00
 pub_date: 2020-03-24 20:32:00
 time_added: 2020-03-25 06:00:47
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24311224-e9d-a1f/FT1086A/652/87546882_FILES-In-this-file-photo-taken-on-January-18-2020-Kevin-Durant-7-of-the-Brooklyn-Nets.jpg
 ---

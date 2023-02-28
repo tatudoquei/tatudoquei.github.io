@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-21 13:27:00
 pub_date: 2021-03-21 13:27:00
 time_added: 2021-03-22 12:45:18
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/12/2021/03/10/paciente-de-90-anos-recebe-vacina-da-oxford-astrazeneca-no-brasil-1615384889879_v2_615x300.png
 ---

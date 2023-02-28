@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-14 17:26:42
 pub_date: 2020-07-14 17:26:42
 time_added: 2020-07-14 21:47:14
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2020/07/Alfred-Hitchcock.jpg
 ---

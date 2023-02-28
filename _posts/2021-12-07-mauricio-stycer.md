@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-07 19:52:00
 pub_date: 2021-12-07 19:52:00
 time_added: 2021-12-13 14:48:30
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/1e/2021/10/26/queiroga-e-alvo-de-criticas-ao-palestrar-sobre-combate-a-pandemia-em-universidade-de-portugal-1635260643676_v2_615x300.jpg
 ---

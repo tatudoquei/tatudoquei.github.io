@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-30 17:16:00
 pub_date: 2021-07-30 17:16:00
 time_added: 2021-08-20 20:52:41
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/af/2021/04/19/17abr2021---enfermeira-aplica-dose-da-vacina-contra-a-covid-19-da-moderna-em-gardena-california-eua-1618825203729_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-20 02:30:00
 pub_date: 2020-04-20 02:30:00
 time_added: 2020-04-21 19:56:19
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/Z3_jRJ2FtpWTVDA1XdQCxICCyfM=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2020/04/19/87828957_sorocaba_sp_11-04-2020_-_hidroxicloroquina_e_covid_19_-_foto_conceitual_do_medicamento_hidr_1.jpg
 ---

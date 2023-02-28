@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-25 19:00:26
 pub_date: 2020-11-25 19:00:26
 time_added: 2020-11-25 19:17:30
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2020/11/como-bolsonaro-saira-das-eleicoes-segundo-governistas-e-oposicao-destaque.jpg
 ---

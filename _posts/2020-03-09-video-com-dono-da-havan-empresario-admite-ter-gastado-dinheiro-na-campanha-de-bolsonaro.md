@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-09 23:40:59
 pub_date: 2020-03-09 23:40:59
 time_added: 2020-03-10 00:40:59
-category: 
+categories: []
 tags: []
 image: http://www.esquerdadiario.com.br/IMG/arton25905.jpg
 ---

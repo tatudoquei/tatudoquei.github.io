@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-06 14:18:00
 pub_date: 2020-06-06 14:18:00
 time_added: 2020-06-06 23:09:21
-category: 
+categories: []
 tags: [meio ambiente]
 image: https://f.i.uol.com.br/fotografia/2020/05/14/15894990655ebdd4b90e17e_1589499065_3x2_rt.jpg
 ---

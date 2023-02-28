@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-17 18:08:26
 pub_date: 2020-06-17 18:08:26
 time_added: 2020-06-19 03:56:04
-category: 
+categories: []
 tags: []
 image: https://amazonasatual.com.br/wp-content/uploads/2020/06/UTI-hps-28-de-agosto.jpg
 ---

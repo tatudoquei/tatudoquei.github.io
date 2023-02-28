@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-26 14:00:00
 pub_date: 2020-02-26 14:00:00
 time_added: 2020-02-27 13:28:40
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/107/files/2020/02/ZEFIRINA-615x300.jpg
 ---

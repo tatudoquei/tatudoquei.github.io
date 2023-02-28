@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-30 14:22:19
 pub_date: 2022-10-30 14:22:19
 time_added: 2022-10-30 18:58:19
-category: 
+categories: []
 tags: []
 image: https://www.otempo.com.br/image/contentid/policy:1.2758580:1667139622/image-png.png?f=3x2&q=0.6&w=1200&$p$f$q$w=90f6e81
 ---

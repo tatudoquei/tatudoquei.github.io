@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-26 21:55:17
 pub_date: 2023-01-26 21:55:17
 time_added: 2023-01-26 18:55:17
-category: 
+categories: []
 tags: []
 image: https://almapreta.com/images/2023/Janeiro/marina_silva.jpg
 ---

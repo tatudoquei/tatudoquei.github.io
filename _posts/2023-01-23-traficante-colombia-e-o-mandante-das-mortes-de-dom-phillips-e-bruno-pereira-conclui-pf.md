@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-23 18:57:00
 pub_date: 2023-01-23 18:57:00
 time_added: 2023-01-26 18:59:05
-category: 
+categories: []
 tags: []
 image: https://img.r7.com/images/dom-phillips-e-bruno-pereira-13072022192819946?crop_position=c&dimensions=340x191
 ---

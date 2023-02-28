@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-09 20:56:00
 pub_date: 2022-11-09 20:56:00
 time_added: 2022-11-12 14:17:33
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/31/2022/11/03/02nov22---apoiadores-do-presidente-jair-bolsonaro-participam-de-protesto-pela-derrota-de-bolsonaro-no-segundo-turno-da-eleicao-presidencial-na-rodovia-castelo-branco-em-barueri-1667478816557_v2_615x300.jpg
 ---

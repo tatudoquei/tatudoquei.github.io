@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-10 23:00:00
 pub_date: 2020-02-10 23:00:00
 time_added: 2020-02-11 13:10:37
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/N72LQKromdvOXhq9Y8raRq6fomc=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2020/02/10/adriano.jpg
 ---

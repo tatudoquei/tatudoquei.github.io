@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-12 09:00:58
 pub_date: 2020-06-12 09:00:58
 time_added: 2020-06-12 19:24:55
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/06/JairBolsonaro-EduardoPazuello-HasteamentoBandeira-PalacioDaAlvorada-Ministros-Carlos-Bolsonaro-HamiltonMourao-9-1-1200x630.jpg
 ---

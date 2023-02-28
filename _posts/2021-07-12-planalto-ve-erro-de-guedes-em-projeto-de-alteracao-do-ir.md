@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-12 09:10:00
 pub_date: 2021-07-12 09:10:00
 time_added: 2021-07-25 16:57:13
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/K0i1sSkDON8PmpvnGoXuOCvLHhs=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2021/04/30/pauloguedes1.jpeg
 ---

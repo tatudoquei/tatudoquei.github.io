@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-06 14:07:00
 pub_date: 2020-01-06 14:07:00
 time_added: 2020-01-07 09:02:43
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/95/2019/10/30/presidente-da-cpmi-fake-news-senador-angelo-coronel-psd-ba-depoente-deputado-alexandre-frota-psdb-sp-advogado-do-depoente-rogerio-lopes-1572461841530_v2_615x300.jpg
 ---

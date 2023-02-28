@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-27 15:05:00
 pub_date: 2022-11-27 15:05:00
 time_added: 2022-12-03 12:23:16
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/af/2022/11/27/bandeiras-nazistas-e-outros-objetos-com-suastica-foram-apreendidos-no-interior-de-sp-1669575724553_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-31 17:32:33
 pub_date: 2020-03-31 17:32:33
 time_added: 2020-03-31 19:32:33
-category: 
+categories: []
 tags: []
 image: https://tvcultura.com.br/upload/tvcultura/noticias/20200331012319_rodaviva-atila.png
 ---

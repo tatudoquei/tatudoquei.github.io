@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-26 19:45:16
 pub_date: 2020-03-26 19:45:16
 time_added: 2020-03-30 14:41:43
-category: 
+categories: []
 tags: []
 image: https://odia.ig.com.br/_midias/jpg/2020/03/26/10838186_10153132903333688_7232451794825823329_o-16416951.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-08 11:34:06
 pub_date: 2019-04-08 11:34:06
 time_added: 2019-04-09 19:18:01
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/590Iv9aqjHnC-eGWXIPOipsKtkA=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2013/11/27/rio_1.jpg
 ---

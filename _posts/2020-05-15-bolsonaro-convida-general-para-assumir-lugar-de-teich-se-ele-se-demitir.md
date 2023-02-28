@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-15 09:03:18
 pub_date: 2020-05-15 09:03:18
 time_added: 2020-05-15 12:42:37
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2020/04/eduardo-pazuello.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

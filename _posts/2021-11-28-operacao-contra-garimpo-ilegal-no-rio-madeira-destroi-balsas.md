@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-28 12:02:43
 pub_date: 2021-11-28 12:02:43
 time_added: 2021-11-28 13:02:43
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/madeira-certo/alternates/LANDSCAPE_768/madeira%20certo
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-17 19:38:00
 pub_date: 2021-02-17 19:38:00
 time_added: 2021-02-18 19:30:21
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/0d/2021/02/17/daniel-silveira-psl-rj-foi-detido-em-petroacutepolis-no-rio-de-janeiro-1613582025084_v2_615x300.jpg
 ---

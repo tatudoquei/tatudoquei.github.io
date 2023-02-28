@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-26 20:12:40
 pub_date: 2020-03-26 20:12:40
 time_added: 2020-03-27 07:57:36
-category: 
+categories: []
 tags: []
 image: https://static.ndonline.com.br/2020/03/obra-infraestrutura.jpg
 ---

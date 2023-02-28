@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-26 20:33:01
 pub_date: 2021-01-26 20:33:01
 time_added: 2021-01-27 13:58:58
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/01/JairBolsonaro-FernandoCollorDeMello-Turismo-GilsonMachado-Posse-37-1200x630.jpg
 ---

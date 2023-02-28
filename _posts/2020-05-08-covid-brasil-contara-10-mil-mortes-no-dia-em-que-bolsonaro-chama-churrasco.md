@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-08 23:30:00
 pub_date: 2020-05-08 23:30:00
 time_added: 2020-05-09 20:11:37
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/32/2020/05/08/presidente-jair-bolsonaro-sem-partido-durante-solenidade-de-posse-de-andre-luiz-de-almeida-mendonca-como-ministro-da-justica-em-29-de-abril-de-2020-1588977445116_v2_615x300.jpg
 ---

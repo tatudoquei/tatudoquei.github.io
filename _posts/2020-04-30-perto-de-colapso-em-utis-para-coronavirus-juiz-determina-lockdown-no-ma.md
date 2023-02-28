@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-30 16:44:00
 pub_date: 2020-04-30 16:44:00
 time_added: 2020-04-30 22:51:22
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/59/2020/04/30/ponte-de-sao-luis--saint-louis-bridge--in-sao-luis--saint-1588283355599_v2_615x300.jpg
 ---

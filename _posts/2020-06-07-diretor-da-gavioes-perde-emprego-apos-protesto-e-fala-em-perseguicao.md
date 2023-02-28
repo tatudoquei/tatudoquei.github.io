@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-07 02:00:00
 pub_date: 2020-06-07 02:00:00
 time_added: 2020-06-07 15:58:29
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f2/2020/06/02/emerson-marcio-manifestante-da-gavioes-da-fiel-1591118350850_v2_615x300.jpg
 ---

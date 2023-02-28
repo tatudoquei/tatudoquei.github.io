@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-22 15:21:00
 pub_date: 2019-04-22 15:21:00
 time_added: 2019-04-23 19:02:08
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a3/2019/02/21/idoso-aposentadoria-previdencia-reforma-da-previdencia-aposentado-1550776084858_v2_615x300.jpg
 ---

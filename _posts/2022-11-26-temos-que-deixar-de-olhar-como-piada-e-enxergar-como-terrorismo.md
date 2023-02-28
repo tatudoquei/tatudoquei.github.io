@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-26 08:03:00
 pub_date: 2022-11-26 08:03:00
 time_added: 2023-01-14 13:47:14
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2022/11/GettyImages-1244385455-terrorismo-golpismo-exercito-bolsonaro-redes.jpg
 ---

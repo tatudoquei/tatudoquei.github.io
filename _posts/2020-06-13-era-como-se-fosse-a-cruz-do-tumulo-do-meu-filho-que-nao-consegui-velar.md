@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-13 02:00:00
 pub_date: 2020-06-13 02:00:00
 time_added: 2020-06-13 23:16:05
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/bf/2020/06/13/homem-recoloca-cruzes-em-copacabana-1592020087637_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-02 16:18:49
 pub_date: 2014-03-30 19:58:00
 time_added: 2019-04-02 16:18:49
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/92/files/2014/03/blog-evandro-teixeira-1964.png
 ---

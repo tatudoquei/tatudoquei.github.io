@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-03 13:00:00
 pub_date: 2022-12-03 13:00:00
 time_added: 2022-12-18 22:26:09
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/72/2022/12/03/foto-divulgada-pela-pf-mostra-arma-e-dinheiro-apreendidos-em-operacao-contra-cacs-que-desviavam-armas-para-organizacoes-criminosas-1670091104102_v2_615x300.jpg
 ---

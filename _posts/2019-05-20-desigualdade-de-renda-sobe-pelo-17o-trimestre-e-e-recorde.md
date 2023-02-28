@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-20 08:00:01
 pub_date: 2019-05-20 08:00:01
 time_added: 2019-05-20 22:20:06
-category: 
+categories: []
 tags: []
 image: https://www.valor.com.br/sites/default/files/imagecache/media_library_big_horizontal/gn/19/05/arte20bra-101-desigual-a4.jpg
 ---

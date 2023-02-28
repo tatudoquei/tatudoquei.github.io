@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-10 16:54:00
 pub_date: 2019-04-10 16:54:00
 time_added: 2019-04-12 03:58:18
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/yGGfNQ81AodezTKubZpLctvhMQg=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/04/10/81305887.zip.jpg
 ---

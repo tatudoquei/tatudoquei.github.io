@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-09 20:04:28
 pub_date: 2020-04-09 20:04:28
 time_added: 2020-04-12 12:44:08
-category: 
+categories: []
 tags: []
 image: https://gettheessential.com/wp-content/uploads/2020/04/brazil.jpg
 ---

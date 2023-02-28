@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-05 09:00:57
 pub_date: 2020-06-05 09:00:57
 time_added: 2021-06-06 06:51:39
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2020/06/abraham-weintraub-arthur-weintraub-10.jpg.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

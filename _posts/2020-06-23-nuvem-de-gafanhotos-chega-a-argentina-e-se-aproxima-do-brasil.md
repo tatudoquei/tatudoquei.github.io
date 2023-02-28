@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-23 15:57:01
 pub_date: 2020-06-23 15:57:01
 time_added: 2020-06-23 23:00:57
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/uxRzHOmk6XUJ0AkPzLuxhB9arTw=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/X/r/53ZcT9RVOdWVrCVPAcbA/langosta-web.jpg
 ---

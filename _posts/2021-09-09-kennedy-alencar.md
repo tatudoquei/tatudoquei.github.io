@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-09 14:47:00
 pub_date: 2021-09-09 14:47:00
 time_added: 2021-09-25 17:52:06
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/58/2019/06/30/30jun2019---faixa-do-mbl-faz-critica-ao-stf-supremo-tribunal-federal-1561913091001_v2_615x300.jpg
 ---

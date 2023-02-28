@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-22 09:00:08
 pub_date: 2021-07-22 09:00:08
 time_added: 2021-07-25 17:03:02
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2021/07/22/multimedia/22Estrada-ES/22Estrada-ES-facebookJumbo.jpg
 ---

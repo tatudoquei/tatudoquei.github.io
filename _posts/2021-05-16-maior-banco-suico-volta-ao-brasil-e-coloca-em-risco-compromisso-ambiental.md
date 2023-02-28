@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-16 11:10:00
 pub_date: 2021-05-16 11:10:00
 time_added: 2021-05-30 06:52:25
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/05/Jamanxim-2.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-30 23:00:00
 pub_date: 2020-01-30 23:00:00
 time_added: 2020-02-05 14:35:44
-category: 
+categories: []
 tags: []
 image: https://ichef.bbci.co.uk/news/1024/branded_portuguese/689C/production/_110708762_isolados.jpg
 ---

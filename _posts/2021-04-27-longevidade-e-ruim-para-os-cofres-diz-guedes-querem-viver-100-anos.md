@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-27 21:58:41
 pub_date: 2021-04-27 21:58:41
 time_added: 2021-05-29 21:12:27
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2020/10/02225835/Guedes-coletiva-economia-8.jpeg
 ---

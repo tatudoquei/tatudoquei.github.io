@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-04 14:15:41
 pub_date: 2023-02-04 14:15:41
 time_added: 2023-02-04 11:15:41
-category: 
+categories: []
 tags: []
 image: https://www.gov.br/ibama/pt-br/assuntos/noticias/2023/ibama-embarga-area-equivalente-a-700-campos-de-futebol-desmatada-ilegalmente-em-alagoas/2023-01-27_op_mandacaru.jpeg/@@images/263792e9-c531-4109-9007-482ad40bbe24.jpeg
 ---

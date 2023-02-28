@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-24 15:33:00
 pub_date: 2020-04-24 15:33:00
 time_added: 2020-04-24 22:42:06
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/21/2020/04/24/jair-bolsonaro-antes-do-pronunciamento-apos-a-saida-de-sergio-moro-1587759106869_v2_615x300.jpg
 ---

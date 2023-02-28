@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-15 10:57:00
 pub_date: 2019-11-15 10:57:00
 time_added: 2019-11-16 09:09:29
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/3f/2019/10/30/presidente-jair-bolsonaro-se-defende-de-acusacoes-sobre-o-caso-marielle-atraves-de-suas-redes-sociais-1572453342382_v2_615x300.png
 ---

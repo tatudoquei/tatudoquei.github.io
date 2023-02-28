@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-31 13:56:00
 pub_date: 2020-03-31 13:56:00
 time_added: 2020-04-01 05:25:05
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/96/2019/12/26/vera-magalhaes-1577385378269_v2_615x300.jpg
 ---

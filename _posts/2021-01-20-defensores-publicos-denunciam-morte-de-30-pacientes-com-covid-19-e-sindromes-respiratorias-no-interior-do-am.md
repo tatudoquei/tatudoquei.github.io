@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-20 18:02:25
 pub_date: 2021-01-20 18:02:25
 time_added: 2021-01-21 15:51:09
-category: avisamos
+categories: [avisamos]
 tags: [saúde]
 image: https://s2.glbimg.com/KLuVzonUieZvCNHl8Ta6hrhqsAU=/1200x/smart/filters:cover():strip_icc()/s01.video.glbimg.com/x720/9194296.jpg
 ---

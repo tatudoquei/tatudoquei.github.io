@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-06 19:23:00
 pub_date: 2022-10-06 19:23:00
 time_added: 2022-10-10 06:48:47
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/95/2022/10/06/apos-a-confusao-gerada-pela-picanha-do-mito-fiscais-do-procon-de-goias-visitaram-o-frigorifico-em-busca-de-irregularidades-1665099191924_v2_615x300.jpg
 ---

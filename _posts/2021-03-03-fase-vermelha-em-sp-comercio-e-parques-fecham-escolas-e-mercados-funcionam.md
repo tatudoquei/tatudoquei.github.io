@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-03 18:27:16
 pub_date: 2021-03-03 18:27:16
 time_added: 2021-03-06 22:10:41
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/ayqUNaf_oBC_F1BjSCNc43tWuzk=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/w/i/kPi6mpSYivoeikJmdG9A/vermelho.jpg
 ---

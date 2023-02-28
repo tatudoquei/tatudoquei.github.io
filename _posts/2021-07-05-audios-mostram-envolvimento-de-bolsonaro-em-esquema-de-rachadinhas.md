@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-05 11:16:23
 pub_date: 2021-07-05 11:16:23
 time_added: 2021-07-25 16:40:40
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2019/01/flavio-e-jair-psl.jpg
 ---

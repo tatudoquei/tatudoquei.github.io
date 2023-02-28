@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-24 22:52:57
 pub_date: 2019-12-24 22:52:57
 time_added: 2019-12-25 16:27:32
-category: 
+categories: []
 tags: []
 image: https://arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/Y6G53LIWMBD6LKG5F5R6F37WN4.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-25 06:26:38
 pub_date: 2020-02-25 06:26:38
 time_added: 2020-02-25 23:33:46
-category: 
+categories: []
 tags: []
 image: https://brpolitico.com.br/wp-content/uploads/sites/683/2020/02/photo-2020-02-25-19-20-00-1_250220202614.jpg
 ---

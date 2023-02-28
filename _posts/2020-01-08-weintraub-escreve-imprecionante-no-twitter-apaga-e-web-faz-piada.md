@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-08 19:57:00
 pub_date: 2020-01-08 19:57:00
 time_added: 2020-01-18 12:07:39
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d8/2019/09/02/o-ministro-da-educacao-abraham-weintraub-durante-apresentacao-do-compromisso-nacional-pela-educacao-basica-1567463435537_v2_615x300.jpg
 ---

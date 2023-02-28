@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-06 09:41:48
 pub_date: 2020-05-06 09:41:48
 time_added: 2020-05-06 11:41:48
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2020/05/malu_redes_05052020.jpg
 ---

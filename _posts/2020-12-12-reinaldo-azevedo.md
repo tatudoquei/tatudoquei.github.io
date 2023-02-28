@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-12 12:05:00
 pub_date: 2020-12-12 12:05:00
 time_added: 2020-12-13 17:31:35
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/22/2020/12/12/augusto-heleno-marcelo-bormevet-jair-e-flavio-bolsonaro-alexandre-ramagem-1607774352168_v2_615x300.jpg
 ---

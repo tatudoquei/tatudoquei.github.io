@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-18 16:13:09
 pub_date: 2021-08-18 16:13:09
 time_added: 2021-08-18 21:00:32
-category: 
+categories: []
 tags: []
 image: https://jacobin.com.br/wp-content/uploads/2021/08/eduardo-villas-bocc82as-20180419-0098.jpeg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-14 13:51:15
 pub_date: 2021-10-14 13:51:15
 time_added: 2021-10-17 15:03:45
-category: 
+categories: []
 tags: []
 image: https://blogs.correiobraziliense.com.br/vicente/wp-content/uploads/sites/16/2021/02/Petrobras.jpg
 ---

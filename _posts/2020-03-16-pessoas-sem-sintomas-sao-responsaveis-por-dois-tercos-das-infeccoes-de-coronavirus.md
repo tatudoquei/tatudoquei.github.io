@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-16 11:54:00
 pub_date: 2020-03-16 11:54:00
 time_added: 2020-03-17 14:16:26
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24307694-5a0-798/FT1086A/652/SARS-CoV-2.jpg
 ---

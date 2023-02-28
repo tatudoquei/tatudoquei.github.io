@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-09 18:00:33
 pub_date: 2019-04-09 18:00:33
 time_added: 2019-04-12 03:47:46
-category: 
+categories: []
 tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2019/04/abraham-weintraub.jpg
 ---

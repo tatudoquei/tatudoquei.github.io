@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-03 08:49:44
 pub_date: 2021-02-03 08:49:44
 time_added: 2021-02-06 12:05:52
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2016/11/rmoro.jpg
 ---

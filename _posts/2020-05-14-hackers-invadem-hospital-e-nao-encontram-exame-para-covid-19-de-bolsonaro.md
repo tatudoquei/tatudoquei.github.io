@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-14 20:27:43
 pub_date: 2020-05-14 20:27:43
 time_added: 2020-05-14 22:27:43
-category: 
+categories: []
 tags: []
 image: https://img.ibxk.com.br/2020/05/14/14154011052648.jpg
 ---

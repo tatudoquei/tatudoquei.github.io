@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-16 03:00:00
 pub_date: 2021-03-16 03:00:00
 time_added: 2021-03-27 08:48:27
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/social_A-fidelidade-do-novo-ministro-da-Sa%C3%BAde-ao-governo-Bolsonaro/alternates/LANDSCAPE_768/social_A%20fidelidade%20do%20novo%20ministro%20da%20Sa%C3%BAde%20ao%20governo%20Bolsonaro
 ---

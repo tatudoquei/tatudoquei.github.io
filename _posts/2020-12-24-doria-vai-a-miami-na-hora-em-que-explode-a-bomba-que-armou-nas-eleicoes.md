@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-24 12:48:00
 pub_date: 2020-12-24 12:48:00
 time_added: 2020-12-24 18:55:09
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/81/2020/11/27/governador-joao-doria-1606483640089_v2_615x300.jpg
 ---

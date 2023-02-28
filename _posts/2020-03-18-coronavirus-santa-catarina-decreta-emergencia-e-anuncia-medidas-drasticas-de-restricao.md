@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-18 05:22:14
 pub_date: 2020-03-18 05:22:14
 time_added: 2020-03-18 06:22:14
-category: 
+categories: []
 tags: []
 image: https://files.nsctotal.com.br/s3fs-public/graphql-upload-files/coletiva-governo-sc-coronavirus-nsctotal.jpeg?ZMunficYVkbh3Bpx33RvfESXFeReU1PI
 ---

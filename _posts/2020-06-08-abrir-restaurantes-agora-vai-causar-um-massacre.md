@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-08 20:14:00
 pub_date: 2020-06-08 20:14:00
 time_added: 2020-06-09 06:46:00
-category: 
+categories: []
 tags: []
 image: https://cozinhabruta.blogfolha.uol.com.br/files/2020/06/belmonte.jpeg
 ---

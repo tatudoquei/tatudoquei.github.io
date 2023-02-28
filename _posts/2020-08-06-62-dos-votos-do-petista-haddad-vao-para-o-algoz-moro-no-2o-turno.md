@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-06 22:55:37
 pub_date: 2020-08-06 22:55:37
 time_added: 2020-08-07 11:50:30
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/08/haddad-moro-1200x630.jpg
 ---

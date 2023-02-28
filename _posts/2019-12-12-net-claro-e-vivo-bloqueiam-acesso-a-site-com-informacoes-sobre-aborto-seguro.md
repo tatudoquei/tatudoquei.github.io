@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-12 13:41:00
 pub_date: 2019-12-12 13:41:00
 time_added: 2019-12-23 11:20:20
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/12/locks-redes-1576115933.jpg
 ---

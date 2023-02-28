@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-26 22:00:00
 pub_date: 2021-04-26 22:00:00
 time_added: 2021-05-23 07:55:36
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Veja-em-gr%C3%A1ficos-o-aumento-no-n%C3%BAmero-de-bilion%C3%A1rios-e-suas-fortunas-durante-a-pandemia/alternates/LANDSCAPE_768/Veja%20em%20gr%C3%A1ficos%20o%20aumento%20no%20n%C3%BAmero%20de%20bilion%C3%A1rios%20e%20suas%20fortunas%20durante%20a%20pandemia
 ---

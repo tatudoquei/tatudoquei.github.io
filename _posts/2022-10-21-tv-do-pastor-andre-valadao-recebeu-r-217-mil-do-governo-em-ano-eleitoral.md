@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-21 21:30:29
 pub_date: 2022-10-21 21:30:29
 time_added: 2022-10-22 18:04:12
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2022/10/Capa_Facebook_Em-ano-eleitoral-TV-do-pastor-Andre-Valadao-recebeu-R-217-mil-do-governo.png
 ---

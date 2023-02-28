@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-03 17:09:07
 pub_date: 2023-02-03 17:09:07
 time_added: 2023-02-06 23:24:56
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2023/02/Capa_Facebook__Coluna-Rubens_Despacho-do-Ibama-ataca-boiada-que-ameacava-prescrever-milhares-de-multas-ambientais-1.png
 ---

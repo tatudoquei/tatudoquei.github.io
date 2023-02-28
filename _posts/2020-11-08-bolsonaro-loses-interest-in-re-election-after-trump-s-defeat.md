@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-08 14:50:11
 pub_date: 2020-11-08 14:50:11
 time_added: 2020-11-08 15:50:11
-category: 
+categories: []
 tags: []
 image: https://www.telesurtv.net/__export/1604798645770/sites/telesur/img/2020/11/07/bolsonaro_photo.jpg_1810791533.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-21 16:05:00
 pub_date: 2021-04-21 16:05:00
 time_added: 2021-05-16 20:47:17
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24968073-378-ced/FT1086A/queiroga.png
 ---

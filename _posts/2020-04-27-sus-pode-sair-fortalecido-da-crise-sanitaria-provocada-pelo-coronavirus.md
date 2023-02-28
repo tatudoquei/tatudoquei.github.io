@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-27 17:19:22
 pub_date: 2020-04-27 17:19:22
 time_added: 2020-04-28 19:19:06
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/02/20200220_00_pediatria_bebe_uti_pediatrica_hc_fmusp.jpg
 ---

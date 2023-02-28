@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-05 09:00:57
 pub_date: 2022-11-05 09:00:57
 time_added: 2022-11-06 14:12:29
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2021/10/18183335/15042020-RF-_-Presidente-Bolsonaro-e-Eduardo-Bolsonaro-no-Palacio-da-Alvorada_-018.jpg
 ---

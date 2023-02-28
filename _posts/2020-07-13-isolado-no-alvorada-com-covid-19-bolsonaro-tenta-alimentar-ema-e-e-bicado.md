@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-13 21:43:19
 pub_date: 2020-07-13 21:43:19
 time_added: 2020-07-14 06:39:12
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2020/07/13183032/Bolsonaro-bicada.jpeg
 ---

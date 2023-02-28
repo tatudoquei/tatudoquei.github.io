@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-06 04:10:00
 pub_date: 2020-11-06 04:10:00
 time_added: 2020-11-07 07:30:38
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/11/redes-guedes.jpg
 ---

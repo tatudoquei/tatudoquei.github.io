@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-07 01:29:40
 pub_date: 2020-07-07 01:29:40
 time_added: 2020-07-07 05:47:45
-category: 
+categories: []
 tags: []
 image: https://cdn.cnn.com/cnnnext/dam/assets/200706175302-sao-paulo-busy-street-super-tease.jpeg
 ---

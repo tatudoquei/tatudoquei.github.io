@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-21 11:00:00
 pub_date: 2021-02-21 11:00:00
 time_added: 2021-02-27 17:09:40
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/economia/23874934-32b-1f0/FT1086A/652/cvm.jpg
 ---

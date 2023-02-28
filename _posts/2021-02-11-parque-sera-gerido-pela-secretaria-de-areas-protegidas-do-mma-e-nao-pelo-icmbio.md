@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-11 17:17:41
 pub_date: 2021-02-11 17:17:41
 time_added: 2021-02-13 05:46:19
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/02/Ricardo-Salles-Foto-Roque-de-Sa-Agencia-Senado.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-23 10:45:00
 pub_date: 2021-08-23 10:45:00
 time_added: 2021-09-06 08:28:34
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25166240-7b3-8e8/FT1086A/760/76403781_RIRio-de-Janeiro-RJ26-04-2018Varios-membros-da-Igreja-Geracao-Jesus-Cristo-fic.jpg
 ---

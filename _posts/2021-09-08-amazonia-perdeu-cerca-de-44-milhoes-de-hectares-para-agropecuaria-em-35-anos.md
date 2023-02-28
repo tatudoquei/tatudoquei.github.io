@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-08 22:04:03
 pub_date: 2021-09-08 22:04:03
 time_added: 2021-09-26 05:09:44
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/09/SPB-_MG_2913_Marcio-Isensee-e-Sa-scaled.jpg
 ---

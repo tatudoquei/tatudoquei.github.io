@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-04 16:53:43
 pub_date: 2020-09-04 16:53:43
 time_added: 2020-09-04 22:58:29
-category: 
+categories: []
 tags: []
 image: https://deolhonosruralistas.com.br/wp-content/uploads/2020/09/1_bolsonehbangarcia-8410216.png
 ---

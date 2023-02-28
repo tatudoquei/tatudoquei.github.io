@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-17 08:11:41
 pub_date: 2020-03-17 08:11:41
 time_added: 2020-03-17 14:56:29
-category: 
+categories: []
 tags: []
 image: http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2020/03/17/1584050779939.jpg
 ---

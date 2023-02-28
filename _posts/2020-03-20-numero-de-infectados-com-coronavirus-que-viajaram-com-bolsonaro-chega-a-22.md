@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-20 06:15:00
 pub_date: 2020-03-20 06:15:00
 time_added: 2020-03-20 13:27:10
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d9/2020/03/20/o-assessor-internacional-da-presidencia-filipe-martins-1584696450707_v2_750x421.jpg
 ---

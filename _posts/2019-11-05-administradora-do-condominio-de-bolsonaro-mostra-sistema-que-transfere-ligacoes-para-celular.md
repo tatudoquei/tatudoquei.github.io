@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-05 16:18:46
 pub_date: 2019-11-05 16:18:46
 time_added: 2020-04-28 04:29:20
-category: 
+categories: []
 tags: []
 image: https://jornalggn.com.br/sites/default/files/2019/11/administradora-do-condominio-de-bolsonaro-mostra-sistema-que-transfere-ligacoes-para-celular-vivendas2.jpg
 ---

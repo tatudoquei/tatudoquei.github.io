@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-24 16:05:00
 pub_date: 2020-04-24 16:05:00
 time_added: 2020-04-24 22:41:13
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/7e/2020/04/24/presidente-jair-bolsonaro-e-ministro-sergio-moro-lado-a-lado-em-solenidade-no-palacio-do-planalto-em-outubro-de-2019-1587756507302_v2_615x300.jpg
 ---

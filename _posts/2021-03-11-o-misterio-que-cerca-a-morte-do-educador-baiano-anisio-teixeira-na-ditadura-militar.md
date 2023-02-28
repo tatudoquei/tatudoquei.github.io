@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-11 13:59:00
 pub_date: 2021-03-11 13:59:00
 time_added: 2021-03-13 11:35:15
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/8Hn4CGVSwY3K23j5MUMBJfFzopI=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2021/03/11/40171313_25072000_-_arquivo_-_escola_parque_-_pv_-_anisio_teixeira_na_escola_parque..jpg
 ---

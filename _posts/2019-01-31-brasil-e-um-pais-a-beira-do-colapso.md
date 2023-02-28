@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-31 08:56:40
 pub_date: 2019-01-31 08:56:40
 time_added: 2019-12-23 21:37:44
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://abrilexame.files.wordpress.com/2019/01/infra-1-e1548866464561.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

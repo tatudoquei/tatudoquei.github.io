@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-13 19:43:49
 pub_date: 2021-04-13 19:43:49
 time_added: 2021-04-13 23:03:03
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/JJqFWTDkh4g02S6bnGhEiyovjAY=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/S/D/qiqP1bQqmk5aB1id2O8A/107250028-garimpo-isa.jpg
 ---

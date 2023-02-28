@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-01 04:59:12
 pub_date: 2020-08-01 04:59:12
 time_added: 2020-08-01 06:59:12
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Moro.JPG9/alternates/LANDSCAPE_768/Moro.JPG
 ---

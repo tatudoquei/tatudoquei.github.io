@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-19 16:39:00
 pub_date: 2019-11-19 16:39:00
 time_added: 2019-11-23 08:15:47
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/284/files/2019/11/thumb-615x300.jpg
 ---

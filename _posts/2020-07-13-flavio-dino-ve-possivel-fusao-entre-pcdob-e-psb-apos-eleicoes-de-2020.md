@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-13 16:11:00
 pub_date: 2020-07-13 16:11:00
 time_added: 2020-07-15 05:46:47
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/7e/2020/01/23/o-governador-do-maranhao--flavio-dino-pcdob-durante-entrevista-exclusiva-ao-uol-e-a-folha-de-spaulo-1579785477895_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-09 23:00:00
 pub_date: 2021-03-09 23:00:00
 time_added: 2021-03-14 01:20:33
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/foto-hospital-reuters.JPG/alternates/LANDSCAPE_768/foto%20hospital%20reuters.JPG
 ---

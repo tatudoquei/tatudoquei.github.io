@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-16 04:00:28
 pub_date: 2020-04-16 04:00:28
 time_added: 2020-04-17 11:39:31
-category: 
+categories: []
 tags: []
 image: https://www.politico.eu/wp-content/uploads/2020/04/iStock-1217610980-1200x628.jpg
 ---

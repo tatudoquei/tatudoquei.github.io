@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-23 09:00:00
 pub_date: 2023-01-23 09:00:00
 time_added: 2023-01-23 23:27:28
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/apublica.org/wp-content/uploads/2023/01/Capa_Facebook_Justica-nega-indenizacao-a-familia-de-jovem-morto-pelo-Exercito.png?fit=1200%2C630&ssl=1
 ---

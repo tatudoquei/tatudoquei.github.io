@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-12 14:51:00
 pub_date: 2020-03-12 14:51:00
 time_added: 2020-03-15 02:02:45
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/bc/2020/03/10/manifestacao-a-favor-do-governo-bolsonaro-na-esplanada-dos-ministerios-em-maio-de-2019-1583843524203_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-18 03:30:00
 pub_date: 2021-04-18 03:30:00
 time_added: 2021-05-16 20:36:14
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/brasil/24252621-498-b2a/FT1086A/bolsonaro.jpg
 ---

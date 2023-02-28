@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-06 21:14:35
 pub_date: 2020-01-06 21:14:35
 time_added: 2020-01-08 21:04:51
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2016/11/fatimabernardes-encontro.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-14 22:04:00
 pub_date: 2021-11-14 22:04:00
 time_added: 2021-11-25 01:52:38
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/76/2021/08/09/enem-2021-1628557873888_v2_615x300.jpg
 ---

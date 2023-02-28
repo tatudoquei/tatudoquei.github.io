@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-26 22:00:07
 pub_date: 2020-04-26 22:00:07
 time_added: 2020-04-26 22:20:45
-category: 
+categories: []
 tags: []
 image: https://gauchazh.clicrbs.com.br/static/images/share.jpg?w=1200&h=630&a=c&version=1575255600
 ---

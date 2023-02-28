@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-14 21:00:00
 pub_date: 2020-03-14 21:00:00
 time_added: 2020-03-15 11:58:39
-category: 
+categories: []
 tags: []
 image: https://www.washingtonpost.com/rf/image_982w/2010-2019/WashingtonPost/2020/03/14/Health-Environment-Science/Graphics/promo2-coronavirus-simulator-0313.jpg
 ---

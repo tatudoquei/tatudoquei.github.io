@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-07 03:53:31
 pub_date: 2020-04-07 03:53:31
 time_added: 2020-04-07 21:35:44
-category: 
+categories: []
 tags: []
 image: https://d.newsweek.com/en/full/1579588/anthony-fauci-donald-trump-coronavirus-hydroxychloroquine-covid-19.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-06 11:53:00
 pub_date: 2020-08-06 11:53:00
 time_added: 2020-08-07 11:48:46
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24537813-2e3-d6c/FT1086A/652/dimas.jpg
 ---

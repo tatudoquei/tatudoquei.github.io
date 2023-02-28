@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-22 07:20:37
 pub_date: 2020-03-22 07:20:37
 time_added: 2020-03-22 08:20:37
-category: 
+categories: []
 tags: []
 image: https://musicaemletras.blogfolha.uol.com.br/files/2020/03/DSC03790-2.jpg
 ---

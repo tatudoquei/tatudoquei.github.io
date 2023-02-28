@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-23 21:21:01
 pub_date: 2018-03-20 20:23:00
 time_added: 2019-12-23 21:21:01
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://ogcss.infoglobo.com.br/9876543210/img/oglobo.jpg
 ---

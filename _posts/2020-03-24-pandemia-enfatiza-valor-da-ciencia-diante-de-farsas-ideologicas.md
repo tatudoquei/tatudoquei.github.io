@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-24 12:03:55
 pub_date: 2020-03-24 12:03:55
 time_added: 2020-03-24 13:03:55
-category: fake news
+categories: [fake news, refletimos]
 tags: [ciência]
 image: https://mensageirosideral.blogfolha.uol.com.br/files/2020/03/covid-19.jpg
 ---

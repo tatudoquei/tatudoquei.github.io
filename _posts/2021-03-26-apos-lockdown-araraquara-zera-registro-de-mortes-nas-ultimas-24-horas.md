@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-26 17:15:35
 pub_date: 2021-03-26 17:15:35
 time_added: 2021-03-26 21:05:36
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2021/02/15090307/araraquara-1.jpeg
 ---

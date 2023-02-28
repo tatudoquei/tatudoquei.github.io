@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-07 19:19:00
 pub_date: 2021-04-07 19:19:00
 time_added: 2021-05-16 17:46:36
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24942553-b94-5e3/FT1086A/92177883_FILE-PHOTO-Syringes-containing-Pfizer-BioNTech-COVID-19-vaccine-are-seen-at-the-Impfzentrum.jpg
 ---

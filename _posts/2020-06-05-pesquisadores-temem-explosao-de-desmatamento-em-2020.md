@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-05 22:39:49
 pub_date: 2020-06-05 22:39:49
 time_added: 2020-06-10 07:28:56
-category: avisamos
+categories: [avisamos]
 tags: [meio ambiente]
 image: https://jornal.usp.br/wp-content/uploads/2020/06/20200604_00_Desmatamento_Victor-Moriyama-Greenpeace.jpg
 ---

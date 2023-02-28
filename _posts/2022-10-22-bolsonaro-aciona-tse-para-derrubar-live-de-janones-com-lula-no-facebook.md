@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-22 16:01:52
 pub_date: 2022-10-22 16:01:52
 time_added: 2022-10-22 18:01:52
-category: 
+categories: []
 tags: []
 image: https://www.opovo.com.br/_midias/png/2022/10/21/818x460/1_capturar-20028105.png
 ---

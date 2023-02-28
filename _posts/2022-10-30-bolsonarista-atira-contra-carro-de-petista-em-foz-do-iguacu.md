@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-30 22:08:00
 pub_date: 2022-10-30 22:08:00
 time_added: 2022-10-31 02:29:56
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/0c/2022/10/30/30out2022---carro-de-guarda-municipal-foi-atingido-por-disparo-em-foz-do-iguacu-pr-1667181196395_v2_750x421.jpg
 ---

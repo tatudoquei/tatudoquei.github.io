@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-07 06:37:06
 pub_date: 2018-08-24 16:31:44
 time_added: 2019-04-07 06:37:06
-category: 
+categories: []
 tags: []
 image: https://abrilsuperinteressante.files.wordpress.com/2018/08/feverpitched_fb.png
 ---

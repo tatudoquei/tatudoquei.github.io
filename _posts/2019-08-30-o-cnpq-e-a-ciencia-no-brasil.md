@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-30 17:38:11
 pub_date: 2019-08-30 17:38:11
 time_added: 2019-09-02 21:55:55
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/20170609_00_mauro-bertotti.jpg
 ---

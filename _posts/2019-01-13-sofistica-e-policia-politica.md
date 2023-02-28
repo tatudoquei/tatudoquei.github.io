@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-13 17:42:35
 pub_date: 2019-01-13 17:42:35
 time_added: 2019-12-23 21:41:23
-category: refletimos
+categories: [refletimos]
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2018/12/148_tribuna_redes.jpg
 ---

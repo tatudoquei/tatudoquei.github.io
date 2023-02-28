@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-26 19:05:45
 pub_date: 2023-01-26 19:05:45
 time_added: 2023-01-28 07:38:27
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/idoso-sendo-vacinado/alternates/LANDSCAPE_768/idoso%20sendo%20vacinado%20
 ---

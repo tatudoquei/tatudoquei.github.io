@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-13 11:20:00
 pub_date: 2020-05-13 11:20:00
 time_added: 2020-05-13 20:57:52
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/a5/2020/05/13/geraldo-alckmin-e-osmar-terra-debatem-sobre-a-pandemia-de-coronavirus-na-cnn-brasil-1589386177895_v2_615x300.jpg
 ---

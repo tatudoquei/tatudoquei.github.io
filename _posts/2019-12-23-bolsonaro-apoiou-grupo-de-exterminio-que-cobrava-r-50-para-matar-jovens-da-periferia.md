@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-23 21:19:29
 pub_date: 2018-10-13 09:42:45
 time_added: 2019-12-23 21:19:29
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2017/12/Bolsonaro_capa_MarceloCamargo_Abr.jpg
 ---

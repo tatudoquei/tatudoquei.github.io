@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-19 22:14:46
 pub_date: 2019-12-19 22:14:46
 time_added: 2019-12-23 11:14:45
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2019/12/Foto-capa.jpg
 ---

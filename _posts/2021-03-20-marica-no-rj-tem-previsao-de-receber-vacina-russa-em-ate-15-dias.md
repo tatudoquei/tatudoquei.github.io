@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-20 14:32:26
 pub_date: 2021-03-20 14:32:26
 time_added: 2021-03-21 17:50:49
-category: 
+categories: []
 tags: []
 image: https://bandnewsfm.band.uol.com.br/wp-content/uploads/2021/03/image_processing20201209-13867-cq2xm9.jpeg
 ---

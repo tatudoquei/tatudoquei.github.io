@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-31 20:37:16
 pub_date: 2020-03-31 20:37:16
 time_added: 2020-03-31 22:01:31
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/11/sergio-moro-2018.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-11 09:57:00
 pub_date: 2020-07-11 09:57:00
 time_added: 2020-07-12 11:27:37
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e6/2020/07/11/milton-ribeiro-1594479007461_v2_615x300.png
 ---

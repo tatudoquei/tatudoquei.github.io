@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-10 09:00:22
 pub_date: 2020-08-10 09:00:22
 time_added: 2020-08-10 19:49:13
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/08/cemiterio-868x644-1-868x630.jpg
 ---

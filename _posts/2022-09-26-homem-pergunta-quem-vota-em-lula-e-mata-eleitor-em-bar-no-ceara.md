@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-26 13:45:00
 pub_date: 2022-09-26 13:45:00
 time_added: 2022-10-02 23:22:47
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/3a/2022/09/26/delegacia-de-policia-civil-em-cascavel-ce-1664217894815_v2_615x300.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-23 18:05:00
 pub_date: 2021-03-23 18:05:00
 time_added: 2021-03-27 18:54:52
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24937748-c01-c6e/FT1086A/89761840_SO-Rio-de-Janeiro-RJ-24-09-2020Rede-municipal-de-Educacao-de-Natividade-cidade-no-interi.jpg
 ---

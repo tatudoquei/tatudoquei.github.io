@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-04 07:30:21
 pub_date: 2020-02-04 07:30:21
 time_added: 2020-02-05 05:18:57
-category: 
+categories: []
 tags: []
 image: https://brpolitico.com.br/wp-content/uploads/sites/683/2020/02/per.png
 ---

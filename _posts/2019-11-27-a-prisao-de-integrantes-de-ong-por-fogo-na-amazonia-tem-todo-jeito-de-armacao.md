@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-27 18:11:00
 pub_date: 2019-11-27 18:11:00
 time_added: 2019-11-27 21:02:19
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2019/11/alter-redes-1574880164.jpg
 ---

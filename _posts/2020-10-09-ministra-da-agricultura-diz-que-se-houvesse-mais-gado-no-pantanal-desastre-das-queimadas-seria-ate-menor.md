@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-09 11:27:00
 pub_date: 2020-10-09 11:27:00
 time_added: 2020-10-09 22:33:37
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24685243-97f-273/FT1086A/652/imagem_materia-1.jpg
 ---

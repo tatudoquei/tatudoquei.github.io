@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-04 11:08:00
 pub_date: 2021-04-04 11:08:00
 time_added: 2021-05-16 17:00:28
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/47/2020/03/18/tres-mortes-de-idosos-foram-confirmadas-com-relacao-ao-coronavirus-e-duas-sao-investigadas-1584561884024_v2_615x300.jpg
 ---

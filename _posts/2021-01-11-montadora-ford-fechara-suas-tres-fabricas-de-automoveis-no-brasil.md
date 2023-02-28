@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-11 19:17:19
 pub_date: 2021-01-11 19:17:19
 time_added: 2021-01-12 13:02:43
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2020/05/fordka-7.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

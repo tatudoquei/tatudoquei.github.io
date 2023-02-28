@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-09 23:59:41
 pub_date: 2020-04-09 23:59:41
 time_added: 2020-04-10 05:03:42
-category: 
+categories: []
 tags: []
 image: https://cdn.revistaforum.com.br/wp-content/uploads/2020/04/adonias-correia-santana.png
 ---

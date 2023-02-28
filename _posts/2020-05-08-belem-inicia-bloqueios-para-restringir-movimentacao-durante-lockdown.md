@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-08 15:16:00
 pub_date: 2020-05-08 15:16:00
 time_added: 2020-05-08 22:43:21
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d7/2020/05/08/barreira-em-via-publica-de-belem-durante-lockdown-decorrente-da-pandemia-do-coronavirus-1588968687599_v2_615x300.jpg
 ---

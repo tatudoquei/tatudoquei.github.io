@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-14 12:47:00
 pub_date: 2020-06-14 12:47:00
 time_added: 2020-06-15 06:47:38
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/97/2020/06/14/policial-militar-a-direita-da-imagem-de-oculos-empurrou-reporter-do-uol-que-filmava-discussao-pelas-costas-em-manifestacao-da-avenida-paulista-em-sao-paulo-1592156683562_v2_615x300.jpg
 ---

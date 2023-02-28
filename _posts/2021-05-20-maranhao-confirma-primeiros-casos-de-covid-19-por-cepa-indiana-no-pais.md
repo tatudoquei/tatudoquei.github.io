@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-20 08:44:00
 pub_date: 2021-05-20 08:44:00
 time_added: 2021-05-20 17:05:15
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/ce/2021/05/10/representacao-do-novo-coronavirus-desenvolvida-pela-imperial-college-1620685194404_v2_615x300.jpg
 ---

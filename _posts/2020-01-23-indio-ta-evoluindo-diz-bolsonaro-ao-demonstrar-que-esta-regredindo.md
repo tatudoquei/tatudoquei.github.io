@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-23 22:47:00
 pub_date: 2020-01-23 22:47:00
 time_added: 2020-01-24 08:10:59
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a2/2020/01/23/presidente-jair-bolsonaro-em-transmissao-ao-lado-do-ministro-da-infraestrutura-tarcisio-gomes-1579833785088_v2_615x300.jpg
 ---

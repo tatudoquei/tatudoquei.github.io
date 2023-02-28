@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-04-17 14:42:00
 pub_date: 2022-04-17 14:42:00
 time_added: 2022-04-19 18:10:16
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25479662-cd8-298/FT1086A/760/ministros_riam.png
 ---

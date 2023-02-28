@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-09 20:18:43
 pub_date: 2019-04-09 20:18:43
 time_added: 2019-04-13 06:19:44
-category: 
+categories: []
 tags: []
 image: https://deolhonosruralistas.com.br/wp-content/uploads/2019/04/IMG_20190409_191710_514.jpg
 ---

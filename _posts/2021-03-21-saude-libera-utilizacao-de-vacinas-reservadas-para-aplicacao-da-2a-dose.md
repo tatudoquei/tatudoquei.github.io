@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-21 17:59:00
 pub_date: 2021-03-21 17:59:00
 time_added: 2021-03-27 18:45:51
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/3c/2021/02/17/60-mil-doses-da-vacina-coronavac-seratildeo-utilizadas-durante-o-estudo-1613576633566_v2_750x421.jpg
 ---

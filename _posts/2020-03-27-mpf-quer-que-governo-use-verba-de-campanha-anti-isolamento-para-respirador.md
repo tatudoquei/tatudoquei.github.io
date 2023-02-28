@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-27 15:52:00
 pub_date: 2020-03-27 15:52:00
 time_added: 2020-03-27 21:40:32
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/9d/2020/03/23/presidente-jair-bolsonaro-utiliza-mascara-de-protecao-contra-coronavirus-durante-coletiva-de-imprensa-1584965624463_v2_615x300.jpg
 ---

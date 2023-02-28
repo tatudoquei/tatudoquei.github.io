@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-24 01:42:46
 pub_date: 2020-09-24 01:42:46
 time_added: 2020-09-24 03:42:46
-category: 
+categories: []
 tags: []
 image: https://midias.correiobraziliense.com.br/_midias/jpg/2020/08/22/675x450/1_mca_abr_10071918653-6244135.jpg
 ---

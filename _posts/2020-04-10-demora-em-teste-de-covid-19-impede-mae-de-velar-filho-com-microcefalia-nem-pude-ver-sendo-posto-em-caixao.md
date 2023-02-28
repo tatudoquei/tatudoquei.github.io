@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-10 06:11:00
 pub_date: 2020-04-10 06:11:00
 time_added: 2020-04-11 06:39:31
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b2/2020/04/10/inama-e-arthur-que-nasceu-com-a-sindrome-da-zika-e-morreu-de-pneumonia-aos-tres-anos-de-idade-1586518162392_v2_615x300.jpg
 ---

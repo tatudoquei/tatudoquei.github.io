@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-07 22:04:05
 pub_date: 2019-01-07 22:04:05
 time_added: 2019-12-23 21:19:31
-category: resistimos
+categories: [resistimos]
 tags: [educação]
 image: https://abrilexame.files.wordpress.com/2019/01/velez.gif?w=680&h=453&crop=1
 ---

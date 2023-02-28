@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-27 12:28:40
 pub_date: 2020-02-27 12:28:40
 time_added: 2020-02-27 13:28:40
-category: 
+categories: []
 tags: []
 image: https://1.bp.blogspot.com/-A04fFj2LXE4/Wykh2Pyqr7I/AAAAAAABrSw/eTLjqyIYwZYCSqJsqmyV45cGXtCaEvnqQCPcBGAYYCw/w1200-h630-p-k-no-nu/NOTAS.jpeg
 ---

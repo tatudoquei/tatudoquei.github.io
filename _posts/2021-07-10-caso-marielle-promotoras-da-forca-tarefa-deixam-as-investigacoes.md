@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-10 19:34:00
 pub_date: 2021-07-10 19:34:00
 time_added: 2021-07-25 16:56:00
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25101880-f66-bb4/FT1086A/81701317_RI-Rio-de-Janeiro-RJ-18-03-2019-Caso-MarielleEntrevista-com-as-promotoras-do-Ministerio.jpg
 ---

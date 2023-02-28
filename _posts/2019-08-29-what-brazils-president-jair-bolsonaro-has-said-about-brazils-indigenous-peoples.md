@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-29 03:27:16
 pub_date: 2019-08-29 03:27:16
 time_added: 2019-08-29 05:27:16
-category: 
+categories: []
 tags: []
 image: https://assets.survivalinternational.org/pictures/13259/bolsonaro-quote-on-exterminating-indians_460_landscape.jpg
 ---

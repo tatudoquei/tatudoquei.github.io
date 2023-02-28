@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-04 00:24:08
 pub_date: 2020-03-04 00:24:08
 time_added: 2020-03-07 18:29:03
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2020/03/fernando-de-noronha.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

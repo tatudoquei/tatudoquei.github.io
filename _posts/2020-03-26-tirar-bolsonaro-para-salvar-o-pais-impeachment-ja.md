@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-26 19:32:26
 pub_date: 2020-03-26 19:32:26
 time_added: 2020-03-26 20:32:26
-category: 
+categories: []
 tags: []
 image: https://fernandapsol.com.br/static/c0f851180043fdd061dbd791def630bc/b1395/bolsonaro-bg.jpg
 ---

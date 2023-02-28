@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-23 06:25:11
 pub_date: 2019-09-23 06:25:11
 time_added: 2019-09-24 19:11:42
-category: 
+categories: []
 tags: []
 image: https://brpolitico.com.br/wp-content/uploads/sites/683/2019/09/paulo-guedes-economia.jpg
 ---

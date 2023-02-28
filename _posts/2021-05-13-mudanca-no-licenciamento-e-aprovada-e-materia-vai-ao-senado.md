@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-13 23:03:04
 pub_date: 2021-05-13 23:03:04
 time_added: 2021-05-30 06:46:39
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/05/requerimento.jpg
 ---

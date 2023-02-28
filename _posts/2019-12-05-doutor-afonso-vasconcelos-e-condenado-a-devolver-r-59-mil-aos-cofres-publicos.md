@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-05 21:22:15
 pub_date: 2019-12-05 21:22:15
 time_added: 2019-12-06 17:31:15
-category: 
+categories: []
 tags: []
 image: https://media.sistemampa.com.br/2019/12/avtp.jpg
 ---

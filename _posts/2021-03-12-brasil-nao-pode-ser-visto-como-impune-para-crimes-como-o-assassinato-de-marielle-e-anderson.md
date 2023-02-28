@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-12 19:25:36
 pub_date: 2021-03-12 19:25:36
 time_added: 2021-03-12 20:25:36
-category: 
+categories: []
 tags: []
 image: https://almapreta.com/images/2021/03/coletiva_01.jpg
 ---

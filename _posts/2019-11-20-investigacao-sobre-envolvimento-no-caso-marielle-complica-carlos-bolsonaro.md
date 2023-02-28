@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-20 20:17:00
 pub_date: 2019-11-20 20:17:00
 time_added: 2019-11-29 20:36:28
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/1a/2019/11/20/vereadores-na-camara-municipal-do-rio-de-janeiro-carlos-bolsonaro-psc-e-marielle-franco-psol-nao-se-entendiam-1574295294603_v2_615x300.jpg
 ---

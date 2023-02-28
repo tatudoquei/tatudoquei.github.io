@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-08 15:24:45
 pub_date: 2019-10-08 15:24:45
 time_added: 2019-10-10 02:08:35
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2018/08/boulos-1-e1570548223931.jpg
 ---

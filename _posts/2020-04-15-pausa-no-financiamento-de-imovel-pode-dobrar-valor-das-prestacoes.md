@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-15 20:27:28
 pub_date: 2020-04-15 20:27:28
 time_added: 2020-04-16 13:45:30
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2020/04/caixa-2-1.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-03 04:05:21
 pub_date: 2022-10-03 04:05:21
 time_added: 2022-10-03 00:05:21
-category: 
+categories: []
 tags: []
 image: https://www.redebrasilatual.com.br/wp-content/uploads/2022/09/PauloCamara.jpg
 ---

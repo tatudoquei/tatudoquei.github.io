@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-21 05:50:00
 pub_date: 2019-05-21 05:50:00
 time_added: 2019-05-22 06:31:30
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2019/03/tiroparatras-544x300.jpg
 ---

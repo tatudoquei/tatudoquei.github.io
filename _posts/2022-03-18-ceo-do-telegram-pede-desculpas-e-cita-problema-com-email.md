@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-03-18 23:57:03
 pub_date: 2022-03-18 23:57:03
 time_added: 2022-03-19 07:13:51
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/2016-02-23T120000Z_184396733_D1AESOQWOJAB_RTRMADP_3_TELECOMS-MOBILEWORLD-SECURITY.JPG/alternates/LANDSCAPE_768/2016-02-23T120000Z_184396733_D1AESOQWOJAB_RTRMADP_3_TELECOMS-MOBILEWORLD-SECURITY.JPG
 ---

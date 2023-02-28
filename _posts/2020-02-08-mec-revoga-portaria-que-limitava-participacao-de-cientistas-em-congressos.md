@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-08 15:26:00
 pub_date: 2020-02-08 15:26:00
 time_added: 2020-02-11 23:21:23
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/09/2020/01/29/abraham-weintraub-1580324960730_v2_615x300.jpg
 ---

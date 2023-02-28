@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-10 03:55:12
 pub_date: 2022-10-10 03:55:12
 time_added: 2022-10-10 05:55:12
-category: 
+categories: []
 tags: []
 image: https://revistaladoa.com.br/wp-content/uploads/2017/09/jais_bolsonaro.jpg
 ---

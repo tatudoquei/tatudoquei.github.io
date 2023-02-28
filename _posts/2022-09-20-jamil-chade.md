@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-20 09:23:00
 pub_date: 2022-09-20 09:23:00
 time_added: 2022-10-02 22:11:30
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f2/2022/09/20/jair-bolsonaro-discursa-durante-abertura-da-assembleia-geral-das-nacoes-unidas-em-nova-york-1663684486563_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-05 16:32:13
 pub_date: 2019-12-05 16:32:13
 time_added: 2019-12-08 12:29:21
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2019/12/o-estado-nao-existe-na-terra-indigena-mais-letal-para-os-guardioes-da-floresta-img2.jpg
 ---

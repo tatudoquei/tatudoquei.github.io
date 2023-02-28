@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-16 21:17:13
 pub_date: 2020-04-16 21:17:13
 time_added: 2020-04-17 11:23:59
-category: 
+categories: []
 tags: []
 image: https://extra.globo.com/incoming/24376030-80c-7bb/w976h550-PROP/87865131_ri-rio-de-janeiro-rj-16-04-2020pandemia-de-coronavirusprefeitura-testa-o-drone-falant.jpg
 ---

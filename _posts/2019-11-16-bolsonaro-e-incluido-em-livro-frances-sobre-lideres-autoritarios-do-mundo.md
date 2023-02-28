@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-16 06:49:00
 pub_date: 2019-11-16 06:49:00
 time_added: 2019-11-16 17:23:32
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/138/files/2019/11/autoritaires-615x300.jpg
 ---

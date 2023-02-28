@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-15 20:25:52
 pub_date: 2019-10-15 20:25:52
 time_added: 2019-10-20 12:41:36
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2019/10/luciano-bivar-2.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

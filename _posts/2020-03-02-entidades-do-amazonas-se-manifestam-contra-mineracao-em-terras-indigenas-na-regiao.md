@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-02 15:52:32
 pub_date: 2020-03-02 15:52:32
 time_added: 2020-03-02 20:49:48
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2020/03/CARAJAS-MINERACAO_DANIEL-BELTRA-GREENPEACE-Foto-Daniel-Beltra-Greenpeace.jpg
 ---

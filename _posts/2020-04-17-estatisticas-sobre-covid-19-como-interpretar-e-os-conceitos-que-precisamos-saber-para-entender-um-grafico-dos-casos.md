@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-17 22:10:37
 pub_date: 2020-04-17 22:10:37
 time_added: 2020-04-28 18:28:53
-category: 
+categories: []
 tags: []
 image: https://analisecovid19.files.wordpress.com/2020/04/como-sc3a3o-feitas-as-vacinas-1.png
 ---

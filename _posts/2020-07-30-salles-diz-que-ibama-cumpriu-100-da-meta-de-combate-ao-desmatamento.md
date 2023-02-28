@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-30 14:01:18
 pub_date: 2020-07-30 14:01:18
 time_added: 2020-07-31 21:51:35
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2016/12/24082549/desmatamento2.jpg
 ---

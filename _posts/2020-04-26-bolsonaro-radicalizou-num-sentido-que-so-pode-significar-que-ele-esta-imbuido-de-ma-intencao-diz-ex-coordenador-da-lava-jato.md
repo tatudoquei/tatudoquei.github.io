@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-26 06:48:00
 pub_date: 2020-04-26 06:48:00
 time_added: 2020-04-28 11:41:45
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24394419-080-db6/FT1086A/652/78806148_BRCuritiba-PR-11-09-201853-Lava-JatoCarlos-Fernando-dos-Santos-Lima-Procurado.jpg
 ---

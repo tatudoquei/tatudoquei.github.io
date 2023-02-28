@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-27 09:13:00
 pub_date: 2021-01-27 09:13:00
 time_added: 2021-01-28 13:27:08
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/76/2019/04/25/23abr2019---o-presidente-jair-bolsonaro-e-o-vice-hamilton-mourao-1556210927594_v2_615x300.jpg
 ---

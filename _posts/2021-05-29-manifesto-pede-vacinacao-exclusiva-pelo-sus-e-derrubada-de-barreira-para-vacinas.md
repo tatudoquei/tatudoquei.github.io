@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-29 19:12:31
 pub_date: 2021-05-29 19:12:31
 time_added: 2021-05-29 21:12:31
-category: 
+categories: []
 tags: []
 image: https://d2v21prk53tg5m.cloudfront.net/wp-content/uploads/2021/04/vacina_de_oxford_astrazeneca_2701214155_1.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-08 13:00:00
 pub_date: 2021-06-08 13:00:00
 time_added: 2021-07-03 03:21:12
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/06/facebook-acordo-com-uniao-europeia-aumenta-uso-de-agrotoxicos-diz-pesquisadora-que-deixou-o-brasil.png
 ---

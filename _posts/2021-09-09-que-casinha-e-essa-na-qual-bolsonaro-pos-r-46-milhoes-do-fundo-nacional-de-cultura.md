@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-09 13:20:57
 pub_date: 2021-09-09 13:20:57
 time_added: 2021-09-25 17:59:23
-category: 
+categories: []
 tags: []
 image: https://farofafa.com.br/wp-content/uploads/2020/08/IMG_1894.jpg
 ---

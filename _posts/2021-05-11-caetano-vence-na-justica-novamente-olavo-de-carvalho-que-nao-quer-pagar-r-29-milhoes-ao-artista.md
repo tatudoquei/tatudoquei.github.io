@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-11 13:36:00
 pub_date: 2021-05-11 13:36:00
 time_added: 2021-05-12 18:14:15
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/t4iGNd-QL_jshypyGzoUVkMO7cE=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/06/12/caetano.jpg
 ---

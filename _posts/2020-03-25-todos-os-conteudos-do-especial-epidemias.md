@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-25 18:56:03
 pub_date: 2020-03-25 18:56:03
 time_added: 2020-03-29 20:59:18
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/03/20200324_historia-epidemias-brasil.jpg
 ---

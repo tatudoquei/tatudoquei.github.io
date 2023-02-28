@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-28 02:30:00
 pub_date: 2020-05-28 02:30:00
 time_added: 2020-05-28 18:22:57
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24449442-76d-7d5/FT1086A/652/Sabrina.Ramon-A.jpg
 ---

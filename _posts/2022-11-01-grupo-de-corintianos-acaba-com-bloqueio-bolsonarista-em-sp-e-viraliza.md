@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-01 21:57:00
 pub_date: 2022-11-01 21:57:00
 time_added: 2022-11-04 20:11:05
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/esporte/2f/2022/11/01/grupo-de-torcedores-do-corinthians-acabam-com-bloqueio-bolsonarista-em-sao-paulo-1667352869952_v2_615x300.jpg
 ---

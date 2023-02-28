@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-24 00:34:45
 pub_date: 2022-09-24 00:34:45
 time_added: 2022-09-24 10:07:59
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Bolsonaro-imprensa/alternates/LANDSCAPE_768/Bolsonaro%20imprensa
 ---

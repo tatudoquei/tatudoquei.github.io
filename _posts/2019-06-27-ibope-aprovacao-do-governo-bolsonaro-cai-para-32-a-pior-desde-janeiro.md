@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-27 12:08:00
 pub_date: 2019-06-27 12:08:00
 time_added: 2019-06-29 17:57:40
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/f8/2019/06/18/18jun2018---o-presidente-jair-bolsonaro-durante-cerimonia-de-hasteamento-da-bandeira-nacional-no-palacio-do-planalto-1560863279282_v2_615x300.jpg
 ---

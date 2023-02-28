@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-21 10:20:49
 pub_date: 2019-11-21 10:20:49
 time_added: 2019-11-22 06:40:09
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/ffrdTKMPWAA1rJAnJqQrk8m-k3M=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/q/G/DG5PG6TgSBqVLKx33XHQ/pinochet-afp.jpg
 ---

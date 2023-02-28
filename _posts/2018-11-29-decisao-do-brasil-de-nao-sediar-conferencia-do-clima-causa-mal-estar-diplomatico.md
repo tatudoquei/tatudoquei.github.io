@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-11-29 08:08:00
 pub_date: 2018-11-29 08:08:00
 time_added: 2018-11-30 21:28:55
-category: avisamos
+categories: [avisamos]
 tags: []
 image: http://conteudo.imguol.com.br/c/interacao/facebook/uol-noticias.jpg
 ---

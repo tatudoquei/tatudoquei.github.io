@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-10 13:21:35
 pub_date: 2019-07-10 13:21:35
 time_added: 2020-02-16 15:14:49
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2019/06/bolsonaro.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

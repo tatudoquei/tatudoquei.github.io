@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-08 19:04:00
 pub_date: 2020-07-08 19:04:00
 time_added: 2020-07-09 18:05:46
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/277/files/2020/07/guedes-reuniao-1.jpg
 ---

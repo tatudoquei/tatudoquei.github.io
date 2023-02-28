@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-25 04:29:16
 pub_date: 2020-03-25 04:29:16
 time_added: 2020-03-25 05:29:16
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2020/03/abin-redes.jpg
 ---

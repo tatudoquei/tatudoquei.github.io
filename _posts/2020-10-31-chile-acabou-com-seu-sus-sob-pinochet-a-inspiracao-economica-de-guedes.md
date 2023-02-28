@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-31 03:00:00
 pub_date: 2020-10-31 03:00:00
 time_added: 2020-11-01 00:52:24
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/0f/2018/05/09/o-ditador-chileno-augusto-pinochet-1525899755540_v2_615x300.jpg
 ---

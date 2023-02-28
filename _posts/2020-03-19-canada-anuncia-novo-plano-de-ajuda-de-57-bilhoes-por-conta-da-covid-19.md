@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-19 00:53:00
 pub_date: 2020-03-19 00:53:00
 time_added: 2020-03-28 07:54:31
-category: 
+categories: []
 tags: []
 image: https://i.em.com.br/82TbklftJTkceg7vgeUhE6iCFy4=/600x315/smart/imgsapp.em.com.br/app/noticia_127983242361/2020/03/18/1130265/20200318215625144413e.jpg
 ---

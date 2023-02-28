@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-26 19:11:45
 pub_date: 2020-04-26 19:11:45
 time_added: 2020-04-27 11:15:16
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2020/04/Jair-Bolsonaro-1-1200x630.jpg
 ---

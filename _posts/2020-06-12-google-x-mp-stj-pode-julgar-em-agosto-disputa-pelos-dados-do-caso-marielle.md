@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-12 09:58:00
 pub_date: 2020-06-12 09:58:00
 time_added: 2020-06-12 18:22:03
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/89/2019/11/06/marielle-franco-1573078213698_v2_615x300.jpg
 ---

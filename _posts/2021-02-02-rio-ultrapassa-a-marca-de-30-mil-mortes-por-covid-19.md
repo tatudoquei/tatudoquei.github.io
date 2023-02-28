@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-02 18:32:00
 pub_date: 2021-02-02 18:32:00
 time_added: 2021-02-04 07:14:02
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24866459-85d-5e6/FT1086A/652/91412793_RIRio-de-Janeiro-RJ-31-01-2021Covid-19Apesar-das-recomendacoes-de-distanciamen.jpg
 ---

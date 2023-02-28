@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-03 04:26:04
 pub_date: 2022-10-03 04:26:04
 time_added: 2022-10-03 00:26:04
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/hAP69ENBv_fH8FcT7XbnInJXHEg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/p/5/jZnbItRiaNnoe1jqQEGQ/gravida-agressao.png
 ---

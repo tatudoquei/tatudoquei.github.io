@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-09 12:23:00
 pub_date: 2020-07-09 12:23:00
 time_added: 2020-07-10 10:18:20
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/brasil/24297535-e66-51d/FT1086A/652/87441429_Sao-Paulo-09-03-2020-Vice-Presidente-da-Republica-Hamilton-Mourao-durante-Cerimonia-de.jpg
 ---

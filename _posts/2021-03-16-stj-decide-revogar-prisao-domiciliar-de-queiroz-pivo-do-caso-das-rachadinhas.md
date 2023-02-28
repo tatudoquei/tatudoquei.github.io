@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-16 18:08:00
 pub_date: 2021-03-16 18:08:00
 time_added: 2021-03-21 09:23:03
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24489433-a25-318/FT1086A/queirozi.jpg
 ---

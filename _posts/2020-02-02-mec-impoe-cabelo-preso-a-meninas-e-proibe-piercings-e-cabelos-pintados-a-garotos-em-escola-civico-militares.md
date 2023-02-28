@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-02 23:00:00
 pub_date: 2020-02-02 23:00:00
 time_added: 2020-02-05 19:37:47
-category: 
+categories: []
 tags: []
 image: https://www.opovo.com.br/_midias/jpg/2020/01/17/whatsapp_image_2020_01_17_at_18_22_40-11408857.jpeg
 ---

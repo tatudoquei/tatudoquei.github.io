@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-18 17:38:00
 pub_date: 2021-06-18 17:38:00
 time_added: 2021-07-04 12:06:18
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/26/2021/06/18/a-ministra-damares-alves-a-dir-no-gabinete-da-deputada-estadual-valeria-bolsonaro-na-alesp-assembleia-legislativa-de-sp-na-segunda-14-1624055733782_v2_300x200.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-09 16:32:00
 pub_date: 2019-08-09 16:32:00
 time_added: 2019-08-11 07:24:11
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/interacao/facebook/uol-economia.png
 ---

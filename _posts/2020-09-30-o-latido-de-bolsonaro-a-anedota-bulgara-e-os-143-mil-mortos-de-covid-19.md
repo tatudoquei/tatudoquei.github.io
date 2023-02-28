@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-30 02:08:00
 pub_date: 2020-09-30 02:08:00
 time_added: 2020-09-30 22:34:37
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/60/2020/09/30/bolsonaro-durante-sancao-de-lei-em-defesa-de-caes-e-gatos-1601449612274_v2_615x300.jpg
 ---

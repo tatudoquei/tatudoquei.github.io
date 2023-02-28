@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-23 22:00:00
 pub_date: 2020-06-23 22:00:00
 time_added: 2020-06-24 05:13:49
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/estrangulamento.png/alternates/LANDSCAPE_768/estrangulamento.png
 ---

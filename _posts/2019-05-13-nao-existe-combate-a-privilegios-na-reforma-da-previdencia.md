@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-13 13:01:36
 pub_date: 2019-05-13 13:01:36
 time_added: 2019-05-25 22:19:58
-category: 
+categories: []
 tags: []
 image: https://www.valor.com.br/sites/default/files/imagecache/media_library_big_horizontal/fotoweb/pedroarmengol.jpg
 ---

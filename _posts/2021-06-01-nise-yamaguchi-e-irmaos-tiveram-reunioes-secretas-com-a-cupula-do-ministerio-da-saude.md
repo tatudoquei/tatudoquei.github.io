@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-01 01:45:00
 pub_date: 2021-06-01 01:45:00
 time_added: 2021-06-20 09:53:42
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2021/05/nise-redes.jpg
 ---

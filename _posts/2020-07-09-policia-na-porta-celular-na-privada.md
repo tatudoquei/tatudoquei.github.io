@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-09 16:44:00
 pub_date: 2020-07-09 16:44:00
 time_added: 2020-07-12 18:33:42
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2020/07/privada_redes_08072020.jpg
 ---

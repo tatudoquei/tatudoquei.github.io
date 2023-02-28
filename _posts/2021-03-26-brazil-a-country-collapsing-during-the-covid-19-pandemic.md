@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-26 09:55:34
 pub_date: 2021-03-26 09:55:34
 time_added: 2021-04-24 14:14:03
-category: 
+categories: []
 tags: []
 image: https://blogs.bmj.com/bmj/files/2021/03/coronavirus_brazil_hospital_2.jpg
 ---

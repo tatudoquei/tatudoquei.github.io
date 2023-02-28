@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-29 01:07:41
 pub_date: 2020-05-29 01:07:41
 time_added: 2020-05-29 03:07:41
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2020/05/aras-redes.jpg
 ---

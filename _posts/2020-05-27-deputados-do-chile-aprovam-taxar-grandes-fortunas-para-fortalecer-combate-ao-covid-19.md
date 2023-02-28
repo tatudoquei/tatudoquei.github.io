@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-27 20:07:00
 pub_date: 2020-05-27 20:07:00
 time_added: 2020-05-28 21:28:16
-category: 
+categories: []
 tags: []
 image: https://s3.operamundi.uol.com.br/thumb/1e292c625855e875b8b9ccbc73352bf5_fde3d51e9b996af8471f247b9bb071aa.jpg
 ---

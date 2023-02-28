@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-16 14:34:33
 pub_date: 2020-06-16 14:34:33
 time_added: 2020-06-16 16:34:33
-category: 
+categories: []
 tags: []
 image: https://tvcultura.com.br/upload/tvcultura/noticias/20200616121503_whatsapp-image-2020-06-16-at-12.13.25.jpeg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-18 17:43:00
 pub_date: 2019-05-18 17:43:00
 time_added: 2019-05-26 18:37:10
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23676759-f41-e31/FT1086A/652/anthonysalcito.jpg.png
 ---

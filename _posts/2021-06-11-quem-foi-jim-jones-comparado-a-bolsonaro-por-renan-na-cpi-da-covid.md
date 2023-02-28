@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-11 17:02:00
 pub_date: 2021-06-11 17:02:00
 time_added: 2021-06-13 21:02:58
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/ce/2020/04/08/revista-dos-eua-compara-bolsonaro-a-jim-jones-autor-do-massacre-de-jonestown-1586391198506_v2_80x80.jpg
 ---

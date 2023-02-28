@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-14 12:52:40
 pub_date: 2020-03-14 12:52:40
 time_added: 2020-03-15 00:32:04
-category: 
+categories: []
 tags: []
 image: https://thenypost.files.wordpress.com/2020/03/jair-bolsonaro.jpg?quality=90&strip=all&w=1200
 ---

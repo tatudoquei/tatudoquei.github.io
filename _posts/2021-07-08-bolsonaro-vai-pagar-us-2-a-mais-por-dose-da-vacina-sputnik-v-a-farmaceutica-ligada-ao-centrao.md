@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-08 21:13:00
 pub_date: 2021-07-08 21:13:00
 time_added: 2021-07-25 16:50:43
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2021/07/sputnik-uniao-redes.jpg
 ---

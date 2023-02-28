@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-20 18:45:54
 pub_date: 2019-03-20 18:45:54
 time_added: 2019-12-23 21:19:33
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://medoedelirioembrasilia.files.wordpress.com/2019/03/15530247675c9146ff1cd88_1553024767_3x2_lg.jpg
 ---

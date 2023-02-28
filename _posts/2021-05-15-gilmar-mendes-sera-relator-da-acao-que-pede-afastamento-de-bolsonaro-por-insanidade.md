@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-15 00:16:17
 pub_date: 2021-05-15 00:16:17
 time_added: 2021-05-15 18:36:06
-category: 
+categories: []
 tags: []
 image: https://cdn.revistaforum.com.br/wp-content/uploads/2021/02/bancoimagemfotoaudiencia-ap-459715-e1613471895380.jpg
 ---

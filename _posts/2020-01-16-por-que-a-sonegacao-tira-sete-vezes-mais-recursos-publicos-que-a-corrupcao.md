@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-16 10:20:20
 pub_date: 2020-01-16 10:20:20
 time_added: 2020-03-07 18:28:31
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2020/01/WhatsApp-Image-2020-01-16-at-11.05.39-525x350.jpeg
 ---

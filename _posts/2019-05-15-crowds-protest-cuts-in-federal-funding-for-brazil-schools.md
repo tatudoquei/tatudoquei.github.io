@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-15 03:00:00
 pub_date: 2019-05-15 03:00:00
 time_added: 2019-05-18 08:47:29
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
 ---

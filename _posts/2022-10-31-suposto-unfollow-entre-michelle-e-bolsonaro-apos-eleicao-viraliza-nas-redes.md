@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-31 09:22:00
 pub_date: 2022-10-31 09:22:00
 time_added: 2022-10-31 13:42:06
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/6a/2022/10/17/17out22---bolsonaro-e-michelle-em-evento-catolico-no-ginasio-nilson-nelson-em-brasilia-1666048150923_v2_615x300.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-10 05:09:00
 pub_date: 2019-06-10 05:09:00
 time_added: 2019-06-10 13:53:38
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2019/04/lulafundonegro-615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-29 13:00:36
 pub_date: 2020-06-29 13:00:36
 time_added: 2020-06-29 21:53:10
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2020/06/Design-sem-nome-20-1.jpg?quality=70&strip=info
 ---

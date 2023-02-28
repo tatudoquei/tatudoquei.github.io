@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-02 20:39:00
 pub_date: 2022-12-02 20:39:00
 time_added: 2022-12-18 22:28:04
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/esporte/80/2022/09/20/carro-enfeitado-com-bandeira-do-brasil-para-a-copa-do-mundo-1663681064841_v2_615x300.jpg
 ---

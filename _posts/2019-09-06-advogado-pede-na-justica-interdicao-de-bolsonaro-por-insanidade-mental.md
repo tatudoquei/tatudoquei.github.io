@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-06 20:32:00
 pub_date: 2019-09-06 20:32:00
 time_added: 2019-09-17 16:17:10
-category: 
+categories: []
 tags: []
 image: https://imgsapp.em.com.br/app/noticia_127983242361/2019/09/06/1083211/20190906173654720208e.jpg
 ---

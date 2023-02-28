@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-19 10:41:00
 pub_date: 2020-05-19 10:41:00
 time_added: 2020-05-19 18:55:37
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/galeria/a9/2020/04/02/funcionarios-durante-entrerro-no-cemiterio-da-vila-formosa-na-zona-leste-de-sao-paulo-1585879645186_v2_615x300.jpg
 ---

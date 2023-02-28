@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-03 10:50:00
 pub_date: 2019-12-03 10:50:00
 time_added: 2019-12-06 06:57:37
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/06/2017/01/19/19jan2017---a-maconha-pode-servir-como-remedio-tambem-1484843671726_615x300.jpg
 ---

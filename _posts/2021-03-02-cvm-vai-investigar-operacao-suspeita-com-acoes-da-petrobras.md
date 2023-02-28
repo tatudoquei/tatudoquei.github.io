@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-02 14:34:00
 pub_date: 2021-03-02 14:34:00
 time_added: 2021-03-06 22:08:53
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/-_ukhtaQIp6BVv9MLBVAp6Tr2Mk=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2021/03/02/painel_da_b3.jpg
 ---

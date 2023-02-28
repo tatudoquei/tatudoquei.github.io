@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-20 21:53:00
 pub_date: 2023-01-20 21:53:00
 time_added: 2023-01-23 22:24:28
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/34/2023/01/18/presidente-lula-pt-1674083657927_v2_615x300.jpg
 ---

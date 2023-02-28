@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-16 21:42:33
 pub_date: 2023-01-16 21:42:33
 time_added: 2023-01-18 06:47:24
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Terra-Ind%C3%ADgena4/alternates/LANDSCAPE_768/Terra%20Ind%C3%ADgena
 ---

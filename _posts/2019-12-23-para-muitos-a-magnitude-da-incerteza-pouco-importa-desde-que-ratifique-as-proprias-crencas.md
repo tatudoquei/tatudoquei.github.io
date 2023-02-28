@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-23 21:41:24
 pub_date: 2018-03-10 12:50:00
 time_added: 2019-12-23 21:41:24
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://conteudo.imguol.com.br/blogs/170/files/2017/01/compartilhe_stevens.png
 ---

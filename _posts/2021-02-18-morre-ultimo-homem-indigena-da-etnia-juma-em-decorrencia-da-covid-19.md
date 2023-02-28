@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-18 17:27:00
 pub_date: 2021-02-18 17:27:00
 time_added: 2021-02-24 23:26:49
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/42/2021/02/18/amoim-aruka-juma-ultimo-homem-indigena-da-etnia-juma-morre-em-rondonia-1613668913598_v2_615x300.jpg
 ---

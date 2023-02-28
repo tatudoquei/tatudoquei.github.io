@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-14 19:59:05
 pub_date: 2020-05-14 19:59:05
 time_added: 2020-05-16 19:38:19
-category: avisamos
+categories: [avisamos]
 tags: [meio ambiente]
 image: https://conexaoplaneta.com.br/wp-content/uploads/2020/05/logo-icmbio-conexao-planeta.png
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-31 13:36:00
 pub_date: 2020-03-31 13:36:00
 time_added: 2020-04-01 05:26:12
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2d/2020/03/31/professorzezico-rodrigues-guajajara-foi-encontrado-morto-no-maranhao-1585677478490_v2_300x200.jpg
 ---

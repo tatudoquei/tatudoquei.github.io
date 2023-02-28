@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-11 08:35:00
 pub_date: 2020-02-11 08:35:00
 time_added: 2020-02-12 08:01:02
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/277/files/2020/02/mundo-trump-bolsonaro-615x300.jpg
 ---

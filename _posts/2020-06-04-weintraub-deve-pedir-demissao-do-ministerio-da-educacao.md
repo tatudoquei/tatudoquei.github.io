@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-04 01:09:16
 pub_date: 2020-06-04 01:09:16
 time_added: 2020-06-04 15:05:10
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2020/05/49806625257_c54e956998_o.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

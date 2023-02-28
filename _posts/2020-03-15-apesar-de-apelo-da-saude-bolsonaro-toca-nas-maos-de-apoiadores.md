@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-15 16:58:12
 pub_date: 2020-03-15 16:58:12
 time_added: 2020-03-16 15:28:48
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2020/03/15134440/bolsonaro-protesto.jpg
 ---

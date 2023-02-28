@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-24 18:00:00
 pub_date: 2020-05-24 18:00:00
 time_added: 2020-07-07 06:45:25
-category: 
+categories: []
 tags: []
 image: https://www.telegraph.co.uk/content/dam/news/2020/05/24/TELEMMGLPICT000231726127_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo-overlay
 ---

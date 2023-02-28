@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-20 16:43:45
 pub_date: 2021-03-20 16:43:45
 time_added: 2021-06-05 15:06:55
-category: 
+categories: []
 tags: []
 image: https://cdn.cnn.com/cnnnext/dam/assets/210318045121-brazil-field-hospital-0311-super-tease.jpg
 ---

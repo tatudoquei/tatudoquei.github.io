@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-16 18:56:08
 pub_date: 2020-10-16 18:56:08
 time_added: 2020-10-16 21:02:42
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2020/10/Oeco_Imagem-de-satelite-INPE-Barragem-de-Santo-Antonio-RO.jpeg
 ---

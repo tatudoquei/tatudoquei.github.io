@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-09 18:08:55
 pub_date: 2023-01-09 18:08:55
 time_added: 2023-01-14 14:00:09
-category: 
+categories: []
 tags: []
 image: https://www.rollingstone.com/wp-content/uploads/2023/01/elon-musk-brazil-twitter.jpg?w=1600&h=900&crop=1
 ---

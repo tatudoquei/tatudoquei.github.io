@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-12 23:00:00
 pub_date: 2020-03-12 23:00:00
 time_added: 2020-04-01 05:52:17
-category: 
+categories: []
 tags: []
 image: https://abori.com.br/wp-content/uploads/2020/03/coronavirus-1024x576.jpeg
 ---

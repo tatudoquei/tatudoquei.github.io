@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-21 00:32:27
 pub_date: 2021-08-21 00:32:27
 time_added: 2021-08-20 21:32:27
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2021/08/179_esquina2_redes.jpg
 ---

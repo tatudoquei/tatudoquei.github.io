@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-26 02:30:00
 pub_date: 2020-04-26 02:30:00
 time_added: 2020-04-27 05:10:40
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24394380-8b3-aaf/FT1086A/652/87950274_MATERIA-ESPECIAL-PARA-O-GLOBO-NAO-USAR-SEM-AUTORIZACAO-DA-FOTOGRAFIA-Sao-Paulo-24-04-2020.jpg
 ---

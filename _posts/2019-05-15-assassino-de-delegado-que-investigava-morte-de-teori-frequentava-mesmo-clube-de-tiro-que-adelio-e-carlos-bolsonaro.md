@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-15 00:48:41
 pub_date: 2019-05-15 00:48:41
 time_added: 2019-06-25 05:24:52
-category: 
+categories: []
 tags: []
 image: https://www.diariodocentrodomundo.com.br/wp-content/uploads/2016/03/Teori-Zavascki-STJ-840x577.jpg
 ---

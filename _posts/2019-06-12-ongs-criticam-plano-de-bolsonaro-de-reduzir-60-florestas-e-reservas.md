@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-12 14:44:00
 pub_date: 2019-06-12 14:44:00
 time_added: 2019-06-13 18:59:57
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/29/2019/01/18/parque-nacional-da-serra-da-bocaina-1547824347281_v2_750x421.jpg
 ---

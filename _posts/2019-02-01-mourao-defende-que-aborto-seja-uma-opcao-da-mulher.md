@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-01 06:17:00
 pub_date: 2019-02-01 06:17:00
 time_added: 2019-05-22 06:28:18
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23418865-d20-c27/FT1086A/652/mourao02.jpg
 ---

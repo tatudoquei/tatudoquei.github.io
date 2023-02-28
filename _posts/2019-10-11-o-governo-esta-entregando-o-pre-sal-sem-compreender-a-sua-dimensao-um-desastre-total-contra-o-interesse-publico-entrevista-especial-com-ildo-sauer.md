@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-11 18:34:29
 pub_date: 2019-10-11 18:34:29
 time_added: 2019-10-16 20:14:37
-category: 
+categories: []
 tags: []
 image: https://jornalggn.com.br/sites/default/files/2019/10/o-governo-esta-entregando-o-pre-sal-sem-compreender-a-sua-dimensao-um-desastre-total-contra-o-interesse-publico-entrevista-especial-com-ildo-sauer-11-10-ildo-sauer-foto-gabriela-korossy-camara-dos-deputados.jpg
 ---

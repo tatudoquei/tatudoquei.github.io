@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-16 19:49:00
 pub_date: 2021-08-16 19:49:00
 time_added: 2021-08-20 21:47:18
-category: 
+categories: []
 tags: []
 image: https://viradapsicodelica.blogfolha.uol.com.br/files/2021/08/IbogaGiselleCamargo.jpeg
 ---

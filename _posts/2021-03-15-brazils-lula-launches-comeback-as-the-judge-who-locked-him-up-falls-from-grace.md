@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-15 18:00:00
 pub_date: 2021-03-15 18:00:00
 time_added: 2021-03-27 08:40:01
-category: 
+categories: []
 tags: []
 image: https://theintercept.imgix.net/wp-uploads/sites/1/2021/03/AP20063353485495-lula-silva-annuled-e1615323857586.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800
 ---

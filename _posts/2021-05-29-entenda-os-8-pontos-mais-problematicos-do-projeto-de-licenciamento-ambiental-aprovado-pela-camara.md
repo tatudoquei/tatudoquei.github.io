@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-29 19:11:59
 pub_date: 2021-05-29 19:11:59
 time_added: 2021-05-29 21:11:59
-category: 
+categories: []
 tags: []
 image: https://www.conectas.org/wp-content/uploads/2021/05/ibama.jpg
 ---

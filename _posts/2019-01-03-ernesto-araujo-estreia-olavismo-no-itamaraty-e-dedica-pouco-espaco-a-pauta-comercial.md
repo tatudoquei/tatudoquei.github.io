@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-03 04:52:43
 pub_date: 2019-01-03 04:52:43
 time_added: 2019-01-03 13:53:23
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://ep00.epimg.net/brasil/imagenes/2019/01/02/politica/1546464944_513470_1546470285_rrss_normal.jpg
 ---

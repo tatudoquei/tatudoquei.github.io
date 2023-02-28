@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-30 12:14:00
 pub_date: 2021-12-30 12:14:00
 time_added: 2022-01-08 12:22:57
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25295574-0ee-2a2/FT1086A/760/90474091_Fachada-do-edificio-sede-da-Agencia-Nacional-de-Vigilancia-Sanitaria-Anvisa..jpg
 ---

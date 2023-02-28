@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-14 22:43:00
 pub_date: 2021-01-14 22:43:00
 time_added: 2021-01-15 15:28:12
-category: 
+categories: []
 tags: []
 image: https://hashtag.blogfolha.uol.com.br/files/2021/01/WhatsApp-Image-2021-01-14-at-18.28.15.jpeg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-12 19:13:00
 pub_date: 2019-03-12 19:13:00
 time_added: 2019-12-23 21:21:01
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://imgsapp2.correiobraziliense.com.br/app/noticia_127983242361/2019/03/12/742469/20190312160404116424u.jpg
 ---

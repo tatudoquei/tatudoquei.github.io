@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-09 13:41:49
 pub_date: 2023-01-09 13:41:49
 time_added: 2023-01-14 13:27:18
-category: 
+categories: []
 tags: []
 image: https://brazilian.report/wp-content/uploads/2023/01/manifestacao1_mcamgo_abr_080120231818-2.jpg
 ---

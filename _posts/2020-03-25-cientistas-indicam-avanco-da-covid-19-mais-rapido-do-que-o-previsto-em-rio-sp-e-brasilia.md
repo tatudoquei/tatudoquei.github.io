@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-25 09:18:00
 pub_date: 2020-03-25 09:18:00
 time_added: 2020-03-27 12:39:36
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24327118-c0e-700/FT1086A/652/87616114_RI-Rio-de-Janeiro-RJ-23-03-2020Na-quarentena-do-coronavirus.-Praia-do-Leme-Foto-Rober-1.jpg
 ---

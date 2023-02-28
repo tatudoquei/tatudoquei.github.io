@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-24 16:19:26
 pub_date: 2021-05-24 16:19:26
 time_added: 2021-06-15 22:44:15
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/05/Oeco_Eduardo-Bim-Marcelo-Camargo-Agencia-Brasil.jpg
 ---

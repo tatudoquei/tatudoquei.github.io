@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-01 08:32:24
 pub_date: 2019-07-01 08:32:24
 time_added: 2019-07-01 10:32:24
-category: 
+categories: []
 tags: []
 image: https://revistatrip.uol.com.br/upload/2019/05/5ce2e8aa4fd80/trip282-glenn-social.jpg
 ---

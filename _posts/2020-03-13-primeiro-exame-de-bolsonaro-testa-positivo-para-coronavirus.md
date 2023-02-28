@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-13 23:38:05
 pub_date: 2020-03-13 23:38:05
 time_added: 2020-03-14 00:38:05
-category: 
+categories: []
 tags: []
 image: https://odia.ig.com.br/_midias/jpg/2020/03/13/700x470/1_bolsonaro-16199039.jpg
 ---

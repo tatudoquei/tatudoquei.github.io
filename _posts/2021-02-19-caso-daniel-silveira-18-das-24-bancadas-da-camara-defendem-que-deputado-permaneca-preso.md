@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-19 06:30:00
 pub_date: 2021-02-19 06:30:00
 time_added: 2021-02-20 07:48:37
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24889103-b17-266/FT1086A/652/Daniel-9999999.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-01 13:07:41
 pub_date: 2019-07-01 13:07:41
 time_added: 2019-07-05 05:08:45
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2017/12/dallagnol-igreja.jpg
 ---

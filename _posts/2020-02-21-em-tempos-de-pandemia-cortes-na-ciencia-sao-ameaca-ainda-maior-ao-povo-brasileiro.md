@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-21 11:26:02
 pub_date: 2020-02-21 11:26:02
 time_added: 2020-03-24 20:30:46
-category: 
+categories: []
 tags: []
 image: https://abori.com.br/wp-content/uploads/2020/03/chuttersnap-pgfWIStWIfs-unsplash-1024x684.jpg
 ---

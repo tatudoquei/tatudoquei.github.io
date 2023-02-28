@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-26 05:30:00
 pub_date: 2020-03-26 05:30:00
 time_added: 2020-03-27 21:30:50
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24329136-551-28d/FT1086A/652/ministro-da-economia-paulo-guedes-1583939549553_v2_900x506.jpg
 ---

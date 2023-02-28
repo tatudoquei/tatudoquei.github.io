@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-20 23:52:23
 pub_date: 2021-08-20 23:52:23
 time_added: 2021-08-20 20:52:23
-category: 
+categories: []
 tags: []
 image: https://cultura.uol.com.br/upload/tvcultura/noticias/happens_big/20210729124128_bolsonaro-flickr-planalto-2.png
 ---

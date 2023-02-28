@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-10 14:12:00
 pub_date: 2020-05-10 14:12:00
 time_added: 2020-05-11 11:29:11
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2e/2020/05/10/apesar-dos-numeros-e-das-recomendacoes-para-o-isolamento-social-o-calcadao-de-copacabana-apresentava-intensa-movimentacao-de-pessoas-na-manha-de-hoje-10-1589137851619_v2_615x300.jpg
 ---

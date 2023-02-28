@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-16 21:48:00
 pub_date: 2023-01-16 21:48:00
 time_added: 2023-01-21 10:12:14
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/bd/2023/01/14/10nov2022---o-ex-ministro-da-justica-e-ex-secretario-de-seguranca-publica-do-df-anderson-torres-preso-hoje-pela-pf-1673710111029_v2_615x300.jpg
 ---

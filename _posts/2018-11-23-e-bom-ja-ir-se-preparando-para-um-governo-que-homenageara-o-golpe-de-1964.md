@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-11-23 11:01:10
 pub_date: 2018-11-23 11:01:10
 time_added: 2019-12-23 21:19:31
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://i1.wp.com/www.aagencia.info/wp-content/uploads/2018/11/forcas-armadas-1.jpg?resize=1000%2C600&ssl=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-19 19:28:00
 pub_date: 2020-05-19 19:28:00
 time_added: 2020-05-20 20:55:37
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b1/2020/04/27/27abr2020---jair-bolsonaro-sorri-na-rampa-do-palacio-do-planalto-1588009865087_v2_615x300.jpg
 ---

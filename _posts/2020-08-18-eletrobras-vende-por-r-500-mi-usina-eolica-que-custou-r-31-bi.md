@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-18 04:28:44
 pub_date: 2020-08-18 04:28:44
 time_added: 2020-08-18 06:28:44
-category: 
+categories: []
 tags: []
 image: https://monitormercantil.com.br/assets/site/img/Twitter-600x314.png
 ---

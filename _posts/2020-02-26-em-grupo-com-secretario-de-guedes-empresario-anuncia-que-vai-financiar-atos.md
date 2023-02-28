@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-26 03:50:08
 pub_date: 2020-02-26 03:50:08
 time_added: 2020-02-27 13:55:05
-category: 
+categories: []
 tags: []
 image: https://brpolitico.com.br/wp-content/uploads/sites/683/2020/02/whatsapp-image-2020-02-26-at-112550-1_260220205059.jpeg
 ---

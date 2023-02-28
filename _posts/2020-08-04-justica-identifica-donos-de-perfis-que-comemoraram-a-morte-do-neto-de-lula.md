@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-04 09:20:00
 pub_date: 2020-08-04 09:20:00
 time_added: 2020-08-04 20:44:41
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/77/2020/07/27/ex-presidente-lula-em-entrevista-ao-canal-al-jazeerareproducaoaljazeera-1595889040314_v2_615x300.jpg
 ---

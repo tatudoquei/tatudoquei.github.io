@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-13 17:45:44
 pub_date: 2019-06-13 17:45:44
 time_added: 2019-06-15 09:54:00
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/ylVkMVbgWoVK4UoJcjkfSFsUsco=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2014/12/09/bolsonarorosario.jpg
 ---

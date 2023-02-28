@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-09 23:00:00
 pub_date: 2019-12-09 23:00:00
 time_added: 2019-12-10 20:49:12
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/89099BOa3IPNW45z6-G1hOAKWKw=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/05/10/olavo_2017.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-01 19:12:34
 pub_date: 2021-11-01 19:12:34
 time_added: 2021-11-13 12:37:50
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2020/08/ONYX-LORENZONI-.JPG.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

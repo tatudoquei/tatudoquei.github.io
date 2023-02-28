@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-28 02:00:00
 pub_date: 2020-07-28 02:00:00
 time_added: 2020-07-28 22:12:13
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/25/2020/07/28/projeto-humanae-de-angelica-dass-fotografou-2500-pessoas-para-mostrar-a-pluralidade-de-tons-de-pele-1595937647084_v2_615x300.jpg
 ---

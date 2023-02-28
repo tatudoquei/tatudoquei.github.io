@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-09 15:18:06
 pub_date: 2021-05-09 15:18:06
 time_added: 2021-05-24 08:11:10
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/05/Area-de-floresta-derrubada-e-queimada-e-vista-na-zona-rural-do-municipio-de-Apui-Amazonas2.-Foto-Bruno-Kelly-Amazonia-Real..jpg
 ---

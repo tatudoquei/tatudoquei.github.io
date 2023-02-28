@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-09 17:00:00
 pub_date: 2019-03-09 17:00:00
 time_added: 2019-12-23 21:21:01
-category: refletimos
+categories: [refletimos]
 tags: []
 ---
 

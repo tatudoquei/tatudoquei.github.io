@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-09 20:30:18
 pub_date: 2020-01-09 20:30:18
 time_added: 2020-01-10 08:03:04
-category: 
+categories: []
 tags: []
 image: https://catracalivre.com.br/wp-content/uploads/2020/01/eu-pareco-cientista.jpg
 ---

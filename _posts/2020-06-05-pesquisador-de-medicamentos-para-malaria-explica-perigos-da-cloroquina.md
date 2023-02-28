@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-05 05:27:23
 pub_date: 2020-06-05 05:27:23
 time_added: 2020-06-05 07:27:23
-category: 
+categories: []
 tags: []
 image: https://www.revistaquestaodeciencia.com.br/sites/default/files/styles/facebook/public/2020-06/CHEMISTRY_SQUARE.jpg?itok=PB2Vo7xS
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-14 12:36:44
 pub_date: 2020-03-14 12:36:44
 time_added: 2020-03-15 00:38:12
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2020/03/bebianno-valter-campanato-abr.jpg
 ---

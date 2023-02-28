@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-02 22:00:00
 pub_date: 2020-05-02 22:00:00
 time_added: 2020-05-26 12:18:54
-category: 
+categories: []
 tags: []
 image: https://foreignpolicy.com/wp-content/uploads/2020/05/GettyImages-1210424075.jpg
 ---

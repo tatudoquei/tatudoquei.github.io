@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-21 10:00:00
 pub_date: 2021-04-21 10:00:00
 time_added: 2021-05-16 20:47:07
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/68/2020/05/04/o-ex-ministro-da-justiccedila-e-seguranccedila-puacuteblica-sergio-moro-1588631160758_v2_615x300.jpg
 ---

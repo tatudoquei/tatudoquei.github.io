@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-23 05:15:00
 pub_date: 2019-09-23 05:15:00
 time_added: 2019-09-24 19:12:04
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/84/2019/02/25/reinaldo-azevedo-facebook-1551133234579_956x500.png
 ---

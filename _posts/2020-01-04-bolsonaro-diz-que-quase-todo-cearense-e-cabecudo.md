@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-04 18:39:00
 pub_date: 2020-01-04 18:39:00
 time_added: 2020-01-08 21:01:50
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/59/2020/01/02/jair-bolsonaro-1578006960254_v2_615x300.jpg
 ---

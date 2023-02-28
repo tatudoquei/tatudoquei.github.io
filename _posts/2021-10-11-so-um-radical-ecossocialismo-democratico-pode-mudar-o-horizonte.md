@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-11 22:39:31
 pub_date: 2021-10-11 22:39:31
 time_added: 2021-10-12 18:58:27
-category: 
+categories: []
 tags: []
 image: https://jacobin.com.br/wp-content/uploads/2021/10/2020-09-10t061517z-1924202105-rc2ivi9yw37t-rtrmadp-3-climate-change-global-weather.jpeg
 ---

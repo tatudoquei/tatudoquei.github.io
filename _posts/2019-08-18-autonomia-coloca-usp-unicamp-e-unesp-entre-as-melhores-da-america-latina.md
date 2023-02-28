@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-18 21:21:51
 pub_date: 2019-08-18 21:21:51
 time_added: 2019-08-18 23:21:51
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2019/08/20190814_00_universidades_estaduais_paulistas_800px.jpg
 ---

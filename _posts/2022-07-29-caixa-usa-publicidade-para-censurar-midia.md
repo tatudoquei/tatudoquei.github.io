@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-07-29 18:49:12
 pub_date: 2022-07-29 18:49:12
 time_added: 2022-08-08 21:10:00
-category: 
+categories: []
 tags: []
 image: https://congressoemfoco.uol.com.br/wp-content/uploads/2020/11/WhatsApp-Image-2020-11-09-at-19.32.36.jpeg
 ---

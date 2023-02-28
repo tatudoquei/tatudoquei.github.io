@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-25 15:51:00
 pub_date: 2021-01-25 15:51:00
 time_added: 2021-01-26 19:35:01
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24854359-f13-8e1/FT1086A/652/91337163_RI-Rio-de-Janeiro-RJ-25-01-2021Vacina-de-Oxford-comeca-a-ser-distribuida-para-os-92.jpg
 ---

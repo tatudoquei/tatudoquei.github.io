@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-06 15:22:02
 pub_date: 2023-01-06 15:22:02
 time_added: 2023-01-06 23:34:31
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Arlindo-Chinaglia1/alternates/LANDSCAPE_768/Arlindo%20Chinaglia
 ---

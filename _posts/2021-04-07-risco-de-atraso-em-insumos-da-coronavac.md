@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-07 03:00:15
 pub_date: 2021-04-07 03:00:15
 time_added: 2021-05-16 17:33:41
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/coluna-do-estadao/wp-content/uploads/sites/352/2020/12/vacina_101220203450.jpg
 ---

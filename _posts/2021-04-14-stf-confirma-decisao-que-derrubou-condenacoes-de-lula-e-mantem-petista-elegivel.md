@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-14 01:26:26
 pub_date: 2021-04-14 01:26:26
 time_added: 2021-05-16 20:26:03
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2021/03/ptreuniao_080320212426.jpg
 ---

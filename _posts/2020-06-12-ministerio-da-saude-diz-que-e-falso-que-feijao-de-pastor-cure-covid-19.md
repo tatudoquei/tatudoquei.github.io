@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-12 12:24:00
 pub_date: 2020-06-12 12:24:00
 time_added: 2020-06-12 18:18:56
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d6/2020/05/07/o-pastor-valdemiro-santiago-em-video-no-youtube-1588858537893_v2_615x300.png
 ---

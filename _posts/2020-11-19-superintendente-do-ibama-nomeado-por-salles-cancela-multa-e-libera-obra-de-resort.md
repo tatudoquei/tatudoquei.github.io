@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-11-19 14:00:00
 pub_date: 2020-11-19 14:00:00
 time_added: 2020-11-19 19:54:09
-category: avisamos
+categories: [avisamos]
 tags: [meio ambiente]
 image: https://conteudo.imguol.com.br/c/noticias/7e/2020/11/19/imagem-de-divulgacao-do-tivolo-ecoresort-na-praia-do-forte-ba-1605812312859_v2_615x300.png
 ---

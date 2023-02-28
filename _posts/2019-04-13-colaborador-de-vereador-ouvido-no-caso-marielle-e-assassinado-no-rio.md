@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-13 13:36:00
 pub_date: 2018-04-09 07:43:00
 time_added: 2019-04-13 13:36:00
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/22571413-158-99d/FT1086A/652/alexandre-morto-taquara1.jpg
 ---

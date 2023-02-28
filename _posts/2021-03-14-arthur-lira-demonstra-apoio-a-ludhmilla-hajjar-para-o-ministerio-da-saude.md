@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-14 20:47:42
 pub_date: 2021-03-14 20:47:42
 time_added: 2021-03-21 09:17:35
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/03/ArthurLira-Lira-PresidenciaDaCamara-Candidato-104-scaled-1-1200x630.jpg
 ---

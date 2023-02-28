@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-10 20:14:22
 pub_date: 2020-12-10 20:14:22
 time_added: 2020-12-17 20:53:33
-category: 
+categories: []
 tags: []
 image: https://i1.wp.com/noticiapreta.com.br/wp-content/uploads/2020/12/37pz01tsilgxfmaj43t1n11y0.jpg?fit=1200%2C675&ssl=1
 ---

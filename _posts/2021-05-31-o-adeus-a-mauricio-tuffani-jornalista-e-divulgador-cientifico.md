@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-31 21:48:43
 pub_date: 2021-05-31 21:48:43
 time_added: 2021-06-20 09:53:23
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/05/Oeco2_Tuffani_USP.jpg
 ---

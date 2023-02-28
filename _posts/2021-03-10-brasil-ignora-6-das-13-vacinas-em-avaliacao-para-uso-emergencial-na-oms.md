@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-10 03:33:00
 pub_date: 2021-03-10 03:33:00
 time_added: 2021-07-04 12:36:59
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/4e/2021/03/08/sindicato-de-motoristas-de-app-e-autorizado-pela-justica-a-importar-vacinas-anticovid-1615227665029_v2_615x300.jpg
 ---

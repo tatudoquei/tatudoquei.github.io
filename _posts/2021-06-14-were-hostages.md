@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-14 03:00:00
 pub_date: 2021-06-14 03:00:00
 time_added: 2021-06-19 20:08:53
-category: 
+categories: []
 tags: []
 image: https://www.aljazeera.com/wp-content/uploads/2021/06/2016-04-26T120000Z_187182616_GF10000395302_RTRMADP_3_BRAZIL-ENVIRONMENT-AMAZON.jpg?resize=1200%2C630
 ---

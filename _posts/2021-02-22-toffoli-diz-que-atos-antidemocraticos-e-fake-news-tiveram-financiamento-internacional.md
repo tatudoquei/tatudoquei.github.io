@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-22 13:45:00
 pub_date: 2021-02-22 13:45:00
 time_added: 2021-02-27 17:07:05
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24690509-9ef-937/FT1086A/652/diastoffoli.jpg
 ---

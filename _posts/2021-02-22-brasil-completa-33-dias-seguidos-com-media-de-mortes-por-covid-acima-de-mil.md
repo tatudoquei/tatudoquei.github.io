@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-22 22:20:00
 pub_date: 2021-02-22 22:20:00
 time_added: 2021-02-27 17:07:15
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/3c/2021/02/22/lockdown-na-cidade-de-araraquara-devido-ao-colapso-do-sistema-de-saude-em-decorrencia-da-pandemia-da-covid-19-1614013194573_v2_615x300.jpg
 ---

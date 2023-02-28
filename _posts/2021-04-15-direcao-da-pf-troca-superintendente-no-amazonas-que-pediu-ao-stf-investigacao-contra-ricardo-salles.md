@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-15 11:52:00
 pub_date: 2021-04-15 11:52:00
 time_added: 2021-04-15 19:31:36
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24972464-385-672/FT1086A/Saraiva.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-14 12:43:00
 pub_date: 2020-07-14 12:43:00
 time_added: 2020-07-14 21:46:21
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/eb/2020/05/19/19mai2020---coronavirus-de-mascara-mulheres-passeiam-no-centro-de-porto-alegre-no-rio-grande-do-sul-rs-1589936374630_v2_615x300.jpg
 ---

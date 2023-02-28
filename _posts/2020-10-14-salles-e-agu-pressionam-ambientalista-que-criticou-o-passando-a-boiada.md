@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-14 10:09:00
 pub_date: 2020-10-14 10:09:00
 time_added: 2020-10-14 21:05:14
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/af/2020/09/22/bolsonaro-e-ricardo-salles---sorrisos-1600772019170_v2_615x300.jpg
 ---

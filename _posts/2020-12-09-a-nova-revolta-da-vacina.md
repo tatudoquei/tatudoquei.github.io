@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-09 04:00:00
 pub_date: 2020-12-09 04:00:00
 time_added: 2020-12-09 22:48:32
-category: 
+categories: []
 tags: []
 image: https://ogcss.infoglobo.com.br/9876543210/img/oglobo.jpg
 ---

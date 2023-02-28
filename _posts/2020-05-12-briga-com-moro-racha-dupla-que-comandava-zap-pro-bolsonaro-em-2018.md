@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-12 07:47:00
 pub_date: 2020-05-12 07:47:00
 time_added: 2020-05-12 21:01:10
-category: 
+categories: []
 tags: []
 image: https://saidapeladireita.blogfolha.uol.com.br/files/2020/05/IMG_8180.jpg
 ---

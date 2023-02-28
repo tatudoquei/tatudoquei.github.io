@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-15 11:20:00
 pub_date: 2020-02-15 11:20:00
 time_added: 2020-02-16 00:25:49
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/83/2020/02/09/a-esquerda-presidente-bolsonaro-da-uma-banana-a-jornalistas-a-direita-o-personagem-marco-aurelio-da-uma-banana-ao-brasil-1581252574232_v2_615x300.png
 ---

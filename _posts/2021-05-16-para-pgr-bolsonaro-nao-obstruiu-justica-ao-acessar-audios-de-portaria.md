@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-16 12:30:43
 pub_date: 2021-05-16 12:30:43
 time_added: 2021-05-16 14:30:43
-category: 
+categories: []
 tags: []
 image: https://media.gazetadopovo.com.br/2019/10/29222059/condomiobolso-660x372.png
 ---

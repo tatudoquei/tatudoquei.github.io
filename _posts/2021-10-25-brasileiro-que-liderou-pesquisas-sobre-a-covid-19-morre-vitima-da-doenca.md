@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-25 22:02:00
 pub_date: 2021-10-25 22:02:00
 time_added: 2021-10-26 20:41:29
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b3/2021/10/25/goulart-filho-ufu-1635199107107_v2_615x300.jpg
 ---

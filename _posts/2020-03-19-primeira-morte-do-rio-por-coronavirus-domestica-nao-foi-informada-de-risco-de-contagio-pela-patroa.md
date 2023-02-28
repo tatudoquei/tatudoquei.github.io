@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-19 18:43:02
 pub_date: 2020-03-19 18:43:02
 time_added: 2020-03-19 21:54:52
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2020/03/primeira-morte-do-rio-por-coronavirus-domestica-nao-foi-informada-de-risco-de-contagio-pela-patroa-img1.jpg
 ---

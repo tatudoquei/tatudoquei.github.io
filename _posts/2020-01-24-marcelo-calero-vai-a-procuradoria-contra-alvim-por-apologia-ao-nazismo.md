@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-24 12:25:00
 pub_date: 2020-01-24 12:25:00
 time_added: 2020-01-25 11:03:10
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/83/2020/01/17/deputado-federal-marcelo-calero-cidadania-rj-ex-ministro-da-cultura-do-governo-michel-temer-1579284858896_v2_615x300.jpg
 ---

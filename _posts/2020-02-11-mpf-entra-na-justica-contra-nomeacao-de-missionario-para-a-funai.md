@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-11 14:18:00
 pub_date: 2020-02-11 14:18:00
 time_added: 2020-02-12 07:54:14
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/49/2020/02/05/o-antropologo-missionario-e-teologo-ricardo-lopes-dias-e-o-novo-coordenador-geral-de-indios-isolados-e-de-recente-contato-da-funai-1580921136698_v2_300x200.jpg
 ---

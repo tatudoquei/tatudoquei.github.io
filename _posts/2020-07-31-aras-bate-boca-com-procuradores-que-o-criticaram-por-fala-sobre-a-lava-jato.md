@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-31 16:56:00
 pub_date: 2020-07-31 16:56:00
 time_added: 2020-08-01 07:06:56
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/7b/2020/05/28/augusto-aras-procurador-geral-da-republica-1590674755279_v2_615x300.jpg
 ---

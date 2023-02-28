@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-26 15:08:00
 pub_date: 2019-03-26 15:08:00
 time_added: 2019-03-27 22:07:53
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23539570-338-84b/FT1086A/652/militares-Pablo-Jacob-1.jpg
 ---

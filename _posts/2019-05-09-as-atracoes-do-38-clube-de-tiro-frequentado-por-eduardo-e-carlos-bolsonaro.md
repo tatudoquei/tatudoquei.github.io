@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-09 05:00:00
 pub_date: 2019-05-09 05:00:00
 time_added: 2019-06-25 05:24:40
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/epoca/23652002-9d3-c8f/FT1086A/652/tiro.jpg
 ---

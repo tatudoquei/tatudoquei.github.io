@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-01 09:09:23
 pub_date: 2021-01-01 09:09:23
 time_added: 2021-01-01 10:09:23
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/cerrado2/alternates/LANDSCAPE_768/cerrado
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-20 21:18:05
 pub_date: 2020-03-20 21:18:05
 time_added: 2020-03-22 10:43:49
-category: 
+categories: []
 tags: []
 image: https://www.infomoney.com.br/wp-content/uploads/2019/06/ibirapuera.jpg?fit=900%2C600&quality=75&strip=all
 ---

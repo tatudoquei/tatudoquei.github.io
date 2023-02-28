@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-29 01:00:00
 pub_date: 2020-05-29 01:00:00
 time_added: 2020-06-01 10:00:07
-category: 
+categories: []
 tags: [meio ambiente]
 image: https://ogimg.infoglobo.com.br/epoca/24451846-f54-d18/FT1086A/652/78630228_Sao-Jose-dos-Campos-SP-31-08-2018BrasilChinaBrasil-e-China.jpg
 ---

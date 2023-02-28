@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-06 16:53:00
 pub_date: 2019-02-06 16:53:00
 time_added: 2019-02-07 07:06:21
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://img.buzzfeed.com/buzzfeed-static/static/2019-02/6/9/asset/buzzfeed-prod-web-04/sub-buzz-13529-1549462630-1.png?crop=647:339;0,0
 ---

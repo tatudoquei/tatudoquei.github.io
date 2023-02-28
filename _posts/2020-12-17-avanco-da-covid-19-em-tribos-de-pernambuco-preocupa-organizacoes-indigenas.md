@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-17 23:49:29
 pub_date: 2020-12-17 23:49:29
 time_added: 2020-12-17 20:49:29
-category: 
+categories: []
 tags: []
 image: https://almapreta.com/images/2020/11/foto-xukuru.jpg
 ---

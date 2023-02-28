@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-07 07:30:00
 pub_date: 2021-07-07 07:30:00
 time_added: 2021-07-25 16:47:30
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25094964-2c2-784/FT1086A/92879305_RIORio-de-Janeiro-RJ13-05-2021CORONAVIRUSREAGE-RIOReforma-da-Escola-Municipa.jpg
 ---

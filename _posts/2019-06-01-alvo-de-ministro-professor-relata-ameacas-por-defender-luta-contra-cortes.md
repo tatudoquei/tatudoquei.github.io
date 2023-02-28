@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-01 02:00:00
 pub_date: 2019-06-01 02:00:00
 time_added: 2019-06-01 16:38:56
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/4f/2019/05/15/15maio2019---o-ministro-da-educacao-abraham-weintraub-fala-no-plenario-da-camara-dos-deputados-sobre-cortes-na-educacao-1557948043639_v2_615x300.jpg
 ---

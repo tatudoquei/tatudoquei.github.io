@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-04 10:05:11
 pub_date: 2019-12-04 10:05:11
 time_added: 2019-12-06 06:56:57
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/LvZaJQHD56DaIMGusBUVPggJxGc=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2014/09/19/valedojavari.jpg
 ---

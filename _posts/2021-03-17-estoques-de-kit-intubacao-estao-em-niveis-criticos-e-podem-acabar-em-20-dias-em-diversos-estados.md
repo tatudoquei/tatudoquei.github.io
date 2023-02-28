@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-17 20:22:00
 pub_date: 2021-03-17 20:22:00
 time_added: 2021-03-21 09:26:55
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24930017-0ae-266/FT1086A/92057782_PA-Sao-PauloSP17-03-2021-Aumento-nos-casos-de-Covid-19UTI-do-Hospital-de-Campanha.jpg
 ---

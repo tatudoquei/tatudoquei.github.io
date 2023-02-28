@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-10 13:42:24
 pub_date: 2016-04-01 14:06:11
 time_added: 2019-06-10 13:42:24
-category: 
+categories: []
 tags: []
 image: http://cdn01.justificando.cartacapital.com.br/wp-content/uploads/2016/04/12122557/salahexterna.jpg
 ---

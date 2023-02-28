@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-05 06:45:37
 pub_date: 2019-07-05 06:45:37
 time_added: 2019-07-05 19:16:59
-category: 
+categories: []
 tags: []
 image: https://pedlowski.files.wordpress.com/2019/07/roosevelt.jpg
 ---

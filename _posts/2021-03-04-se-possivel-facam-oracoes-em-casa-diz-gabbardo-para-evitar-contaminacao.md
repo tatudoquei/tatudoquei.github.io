@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-04 18:48:00
 pub_date: 2021-03-04 18:48:00
 time_added: 2021-03-06 22:11:13
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/cc/2020/12/10/joao-gabbardo-dos-reis-secretario-executivo-do-centro-de-contingencia-do-coronavirus-em-sao-paulo-1607635804635_v2_615x300.jpg
 ---

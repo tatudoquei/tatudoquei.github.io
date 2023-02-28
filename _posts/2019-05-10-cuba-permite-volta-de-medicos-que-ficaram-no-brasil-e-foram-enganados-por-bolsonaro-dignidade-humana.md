@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-10 10:35:54
 pub_date: 2019-05-10 10:35:54
 time_added: 2019-05-11 11:38:04
-category: 
+categories: []
 tags: []
 image: https://www.revistaforum.com.br/wp-content/uploads/2016/07/mais-medicos-cubanos.jpeg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-28 05:04:00
 pub_date: 2019-04-28 05:04:00
 time_added: 2019-04-29 18:51:48
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2019/04/Lulaentrevistadois-615x300.jpg
 ---

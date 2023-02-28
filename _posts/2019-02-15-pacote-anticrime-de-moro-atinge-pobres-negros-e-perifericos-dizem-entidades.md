@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-15 22:54:16
 pub_date: 2019-02-15 22:54:16
 time_added: 2019-12-23 21:37:46
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://ponte.org/wp-content/uploads/2019/02/975036-09-09-2015-dsc_2143.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-18 16:00:22
 pub_date: 2021-09-18 16:00:22
 time_added: 2021-09-25 17:37:26
-category: 
+categories: []
 tags: []
 image: https://istoe.com.br/wp-content/uploads/sites/14/2021/06/pasternak.jpg
 ---

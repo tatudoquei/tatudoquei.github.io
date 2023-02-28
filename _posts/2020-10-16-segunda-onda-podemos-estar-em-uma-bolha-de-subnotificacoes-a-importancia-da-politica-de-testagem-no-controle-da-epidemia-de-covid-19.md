@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-16 13:13:07
 pub_date: 2020-10-16 13:13:07
 time_added: 2020-10-21 19:13:01
-category: 
+categories: []
 tags: []
 image: https://redeaanalisecovid.files.wordpress.com/2020/10/issac.png
 ---

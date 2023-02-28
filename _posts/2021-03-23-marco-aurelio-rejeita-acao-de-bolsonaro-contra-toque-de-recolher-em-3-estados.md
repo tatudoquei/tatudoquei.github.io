@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-23 17:00:52
 pub_date: 2021-03-23 17:00:52
 time_added: 2021-03-27 18:55:45
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/03/marco_aurelio_mello_20jun_stf-868x644-1-868x630.jpeg
 ---

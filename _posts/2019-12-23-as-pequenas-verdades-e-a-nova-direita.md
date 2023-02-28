@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-23 21:15:15
 pub_date: 2018-03-12 02:48:28
 time_added: 2019-12-23 21:15:15
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://ehvarzea.files.wordpress.com/2017/09/image_large.jpg
 ---

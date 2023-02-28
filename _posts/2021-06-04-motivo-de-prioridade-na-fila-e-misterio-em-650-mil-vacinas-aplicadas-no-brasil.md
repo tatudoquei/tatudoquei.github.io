@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-04 19:00:27
 pub_date: 2021-06-04 19:00:27
 time_added: 2021-06-13 20:56:08
-category: 
+categories: []
 tags: []
 image: https://www.otempo.com.br/image/contentid/policy:1.2494584:1622847917/Mohd%20RASFAN%20-%20AFP.jpg?f=3x2&w=620&$p$f$w=92352ce
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-08 22:00:00
 pub_date: 2020-04-08 22:00:00
 time_added: 2020-04-10 20:07:01
-category: 
+categories: []
 tags: []
 image: https://www.opovo.com.br/_midias/jpg/2020/04/09/graficodecreto-12378317.jpg
 ---

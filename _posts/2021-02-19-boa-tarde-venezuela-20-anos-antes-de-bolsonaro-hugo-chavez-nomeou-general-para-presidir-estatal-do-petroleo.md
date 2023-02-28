@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-19 23:56:00
 pub_date: 2021-02-19 23:56:00
 time_added: 2021-02-27 17:10:54
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/bdYPAGaiWJNbT6s2Xq1096tOLw0=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2021/02/19/35867900_venezuelas_president_hugo_chavez_speaks_during_a_ceremony_at_the_headquarters_of_the_state.jpg
 ---

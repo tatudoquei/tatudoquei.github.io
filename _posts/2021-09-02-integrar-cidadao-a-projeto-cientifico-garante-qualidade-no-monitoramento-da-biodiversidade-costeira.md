@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-09-02 19:00:49
 pub_date: 2021-09-02 19:00:49
 time_added: 2021-09-26 05:04:53
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/09/Ocenaos2.jpg
 ---

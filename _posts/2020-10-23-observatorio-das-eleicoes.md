@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-23 14:48:00
 pub_date: 2020-10-23 14:48:00
 time_added: 2020-10-25 22:03:22
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a8/2020/10/16/16-out-2020---guilherme-boulos-psol-faz-campanha-na-praca-roosevelt-no-centro-de-sao-paulo-1602875782289_v2_615x300.jpg
 ---

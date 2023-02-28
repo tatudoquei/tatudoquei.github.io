@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-04-22 13:31:00
 pub_date: 2021-04-22 13:31:00
 time_added: 2021-05-22 19:52:08
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24982546-7f4-8d7/FT1086A/fila-vacina.jpg.png
 ---

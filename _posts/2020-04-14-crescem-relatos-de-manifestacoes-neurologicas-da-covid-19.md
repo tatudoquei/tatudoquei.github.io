@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-14 13:50:27
 pub_date: 2020-04-14 13:50:27
 time_added: 2020-04-17 18:59:48
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2017/09/pod_colunistas_octavio_pontes_neto.jpg
 ---

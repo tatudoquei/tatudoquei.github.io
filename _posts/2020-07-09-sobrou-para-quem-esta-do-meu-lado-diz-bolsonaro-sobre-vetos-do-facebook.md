@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-09 18:22:00
 pub_date: 2020-07-09 18:22:00
 time_added: 2020-07-10 04:25:01
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/0d/2020/07/07/presidente-jair-bolsonaro-no-palacio-da-alvorada-em-brasilia-1594150248264_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-22 13:50:19
 pub_date: 2021-05-22 13:50:19
 time_added: 2021-05-22 15:50:19
-category: 
+categories: []
 tags: []
 image: https://agencia.fapesp.br/agencia-novo/imagens/noticia/35923.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-09 18:07:00
 pub_date: 2021-03-09 18:07:00
 time_added: 2021-03-21 09:09:41
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24917086-3c5-a97/FT1086A/Dayane-Pimentel-e-Jair-Bolsonaro.jpg.png
 ---

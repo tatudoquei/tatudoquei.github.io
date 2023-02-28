@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-17 19:15:00
 pub_date: 2021-02-17 19:15:00
 time_added: 2021-02-19 19:29:24
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/98/2021/02/17/5fev2019---o-deputado-federal-daniel-silveira-psl-rj-preso-em-16022021-apos-ataques-a-ministros-do-stf-1613590721206_v2_615x300.jpg
 ---

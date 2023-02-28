@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-13 20:16:21
 pub_date: 2021-02-13 20:16:21
 time_added: 2021-02-13 17:16:21
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Protesto-pelo-impeachment-de-Bolsonaro/alternates/LANDSCAPE_768/Protesto%20pelo%20impeachment%20de%20Bolsonaro
 ---

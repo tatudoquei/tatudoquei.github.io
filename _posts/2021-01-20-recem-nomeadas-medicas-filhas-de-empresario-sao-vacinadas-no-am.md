@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-20 18:17:00
 pub_date: 2021-01-20 18:17:00
 time_added: 2021-01-22 21:48:29
-category: 
+categories: []
 tags: [saúde]
 image: https://conteudo.imguol.com.br/c/noticias/a1/2021/01/20/irmas-lins-comemoram-vacina-contra-covid-19-1611159101166_v2_615x300.jpg
 ---

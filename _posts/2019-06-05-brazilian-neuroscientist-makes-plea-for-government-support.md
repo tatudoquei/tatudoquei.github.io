@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-05 14:49:21
 pub_date: 2019-06-05 14:49:21
 time_added: 2019-06-10 06:25:13
-category: 
+categories: []
 tags: []
 image: https://brazilian.report/wp-content/uploads/2019/06/shutterstock_506025838.jpg
 ---

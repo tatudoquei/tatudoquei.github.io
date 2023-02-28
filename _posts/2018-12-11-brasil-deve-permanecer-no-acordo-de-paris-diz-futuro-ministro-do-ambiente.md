@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-11 11:10:00
 pub_date: 2018-12-11 11:10:00
 time_added: 2019-12-23 21:15:16
-category: recuadas
+categories: [recuadas]
 tags: [meio ambiente]
 image: https://f.i.uol.com.br/fotografia/2018/12/10/15444779305c0edceac4870_1544477930_3x2_rt.jpg
 ---

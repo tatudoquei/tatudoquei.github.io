@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-17 20:33:20
 pub_date: 2020-04-17 20:33:20
 time_added: 2020-04-21 19:55:56
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2020/04/Coronavirus_phase3.jpg
 ---

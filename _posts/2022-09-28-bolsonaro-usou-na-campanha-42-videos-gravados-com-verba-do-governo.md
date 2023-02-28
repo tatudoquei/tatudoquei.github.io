@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-28 21:12:36
 pub_date: 2022-09-28 21:12:36
 time_added: 2022-10-03 00:24:00
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2022/09/bolsonarovideo1.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

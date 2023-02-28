@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-02 16:06:30
 pub_date: 2021-02-02 16:06:30
 time_added: 2021-02-07 23:15:20
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/02/Oeco_Fachada-MMA.jpg
 ---

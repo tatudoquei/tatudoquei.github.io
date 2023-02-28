@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-29 13:00:00
 pub_date: 2021-07-29 13:00:00
 time_added: 2022-10-16 14:55:42
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/07/facebook-a-boiada-invade-a-tela.png
 ---

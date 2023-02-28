@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-12 22:04:00
 pub_date: 2021-01-12 22:04:00
 time_added: 2021-01-13 20:08:39
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e3/2020/11/17/12nov2020---fisioterapeuta-atende-paciente-com-covid-19-na-uti-de-hospital-em-igarape-miri-no-para-1605638753595_v2_615x300.jpg
 ---

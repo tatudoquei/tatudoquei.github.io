@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-07 05:47:00
 pub_date: 2019-03-07 05:47:00
 time_added: 2019-03-08 17:04:41
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://media.boingboing.net/wp-content/uploads/2019/03/bolsonaro.jpg
 ---

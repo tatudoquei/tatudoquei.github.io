@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-21 03:04:00
 pub_date: 2023-01-21 03:04:00
 time_added: 2023-01-21 10:19:54
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/8e/2018/10/11/predio-do-arquivo-nacional-no-rio-de-janeiro-1539311256745_v2_615x300.jpg
 ---

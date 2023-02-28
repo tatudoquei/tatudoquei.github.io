@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-09 19:47:00
 pub_date: 2020-12-09 19:47:00
 time_added: 2020-12-09 23:09:28
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/69/2020/09/17/incendios-no-pantanal-atingiram-grandes-proporcoes-e-ja-consumiram-quase-3-milhoes-de-hectares-do-bioma-no-brasil-1600331905885_v2_615x300.jpg
 ---

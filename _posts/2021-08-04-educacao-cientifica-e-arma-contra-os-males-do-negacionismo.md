@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-04 20:36:23
 pub_date: 2021-08-04 20:36:23
 time_added: 2021-08-08 17:06:30
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/jornal.usp.br/wp-content/uploads/2021/08/20210803_ciencia_valorizacao.jpg?fit=1200%2C630&ssl=1
 ---

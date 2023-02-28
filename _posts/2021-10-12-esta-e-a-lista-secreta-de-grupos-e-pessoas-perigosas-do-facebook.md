@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-12 15:45:00
 pub_date: 2021-10-12 15:45:00
 time_added: 2021-10-17 15:06:06
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2021/10/fb-list-redes.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-13 17:02:00
 pub_date: 2020-01-13 17:02:00
 time_added: 2020-01-14 01:04:46
-category: 
+categories: []
 tags: []
 image: https://hashtag.blogfolha.uol.com.br/files/2020/01/aecio-divulgao.jpg
 ---

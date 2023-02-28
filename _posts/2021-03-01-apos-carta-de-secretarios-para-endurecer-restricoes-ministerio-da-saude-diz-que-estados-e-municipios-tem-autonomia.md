@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-01 22:45:00
 pub_date: 2021-03-01 22:45:00
 time_added: 2021-03-06 22:08:37
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24904861-07f-36e/FT1086A/652/pazuello.jpg
 ---

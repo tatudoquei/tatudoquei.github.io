@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-14 11:00:41
 pub_date: 2020-07-14 11:00:41
 time_added: 2020-07-15 05:13:19
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/e8f8deEWNmRhG2LMMJ8sGRWY93Y=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/t/U/3YuMYDT6ibUh3c7vg3Eg/emalta.png
 ---

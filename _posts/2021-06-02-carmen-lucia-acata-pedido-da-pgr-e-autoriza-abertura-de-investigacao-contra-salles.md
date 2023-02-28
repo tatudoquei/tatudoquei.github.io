@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-02 23:19:19
 pub_date: 2021-06-02 23:19:19
 time_added: 2021-06-20 09:58:27
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/06/Carmen-Lucia.jpg
 ---

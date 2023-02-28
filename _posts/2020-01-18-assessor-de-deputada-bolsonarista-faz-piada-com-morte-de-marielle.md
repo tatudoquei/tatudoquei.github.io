@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-18 06:00:00
 pub_date: 2020-01-18 06:00:00
 time_added: 2020-01-20 15:57:20
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/epoca/guilherme-amado/24197982-8bf-e19/FT1086A/652/evandroaraujo.biakicis2final.png
 ---

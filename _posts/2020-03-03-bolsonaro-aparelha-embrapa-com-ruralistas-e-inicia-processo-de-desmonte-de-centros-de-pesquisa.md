@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-03 11:05:06
 pub_date: 2020-03-03 11:05:06
 time_added: 2020-03-04 11:54:03
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/wp-content/uploads/2019/07/jair-bolsonaro-de-chapeu-640x427.jpg
 ---

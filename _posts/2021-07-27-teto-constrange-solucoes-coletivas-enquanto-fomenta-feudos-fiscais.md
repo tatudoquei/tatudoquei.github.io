@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-27 11:00:00
 pub_date: 2021-07-27 11:00:00
 time_added: 2021-08-20 20:49:20
-category: 
+categories: []
 tags: []
 image: https://s.conjur.com.br/img/b/caricatura-elida-graziane-pinto.png
 ---

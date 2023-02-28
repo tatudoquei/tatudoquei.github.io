@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-23 22:41:45
 pub_date: 2021-03-23 22:41:45
 time_added: 2021-03-27 18:55:36
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/ESlGxtEdO58Mq_0WnVuK__771eo=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2021/T/N/4kfUofRjqRbqiRXzfCig/combate-a-pandemia-de-covid-19150320211064.jpg
 ---

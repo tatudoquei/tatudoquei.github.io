@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-13 16:33:40
 pub_date: 2019-12-13 16:33:40
 time_added: 2019-12-14 11:34:48
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2019/12/07204649/Idio-Guajajara.jpg.pagespeed.ic_.NZrrUCf2Sx.jpg
 ---

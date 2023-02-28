@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-22 19:12:11
 pub_date: 2020-01-22 19:12:11
 time_added: 2020-01-25 09:11:33
-category: 
+categories: []
 tags: []
 image: https://video-images.vice.com/articles/5e275b27617414009514bb13/lede/1579637544616-glenn-greenwald.jpeg?crop=1xw:0.84375xh;center,center&resize=1200:*
 ---

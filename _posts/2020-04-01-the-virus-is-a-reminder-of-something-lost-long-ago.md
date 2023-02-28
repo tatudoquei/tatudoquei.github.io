@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-01 14:25:55
 pub_date: 2020-04-01 14:25:55
 time_added: 2020-04-10 08:19:41
-category: 
+categories: []
 tags: []
 image: https://cdn.theatlantic.com/thumbor/RdxkPjqxHwK5nvYe5DJHRlHLk24=/41x19:1877x975/960x500/media/img/mt/2020/04/Atlantic_clock_edit/original.jpg
 ---

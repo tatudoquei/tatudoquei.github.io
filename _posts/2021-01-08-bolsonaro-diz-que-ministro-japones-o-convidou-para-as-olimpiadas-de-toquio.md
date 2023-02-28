@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-08 23:55:00
 pub_date: 2021-01-08 23:55:00
 time_added: 2021-01-09 08:59:19
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/esporte/1c/2021/01/08/bolsonaro-em-encontro-com-motegi-toshimitsu-ministro-dos-negocios-estrangeiros-do-japao-1610150105081_v2_615x300.jpg
 ---

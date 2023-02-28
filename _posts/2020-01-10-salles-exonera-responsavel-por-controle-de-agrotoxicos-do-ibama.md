@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-10 18:33:00
 pub_date: 2020-01-10 18:33:00
 time_added: 2020-01-11 10:46:16
-category: avisamos
+categories: [avisamos]
 tags: [meio ambiente, saúde]
 image: https://f.i.uol.com.br/fotografia/2019/12/15/15764492365df6b4d463aac_1576449236_3x2_rt.jpg
 ---

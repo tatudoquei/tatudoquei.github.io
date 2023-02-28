@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-31 12:32:34
 pub_date: 2019-08-31 12:32:34
 time_added: 2019-09-02 22:07:56
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/lJyLFMiZLC7NdG6huej0GTc4NXw=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/I/E/0T7PtySkWvf1piimMA7Q/queimada.jpg
 ---

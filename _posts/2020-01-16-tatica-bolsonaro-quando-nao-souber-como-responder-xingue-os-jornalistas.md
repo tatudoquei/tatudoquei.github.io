@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-16 18:58:00
 pub_date: 2020-01-16 18:58:00
 time_added: 2020-01-17 19:50:40
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/6c/2020/01/16/15jan2020---jair-bolsonaro-fala-a-jornalistas-diante-do-palacio-da-alvorada-em-brasilia-1579191797184_v2_615x300.jpg
 ---

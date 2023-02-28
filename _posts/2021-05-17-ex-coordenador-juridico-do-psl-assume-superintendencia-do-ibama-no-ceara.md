@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-17 15:05:51
 pub_date: 2021-05-17 15:05:51
 time_added: 2021-05-30 06:54:12
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/05/Oeco2_deputado-federal-Heitor-Freire-PSL-Foto-Pablo-Valadares_Camara-dos-Deputados.jpg
 ---

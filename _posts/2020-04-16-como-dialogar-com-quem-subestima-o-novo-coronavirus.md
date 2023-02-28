@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-16 02:18:00
 pub_date: 2020-04-16 02:18:00
 time_added: 2020-04-16 19:16:16
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24374393-ff5-60d/FT1086A/652/Como-dialogar-com-quem-subestima-o-novo-coronavirus.jpg
 ---

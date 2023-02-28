@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-06 12:41:03
 pub_date: 2021-08-06 12:41:03
 time_added: 2021-08-20 21:17:55
-category: 
+categories: []
 tags: []
 image: https://iela.ufsc.br/sites/default/files/ti_guarita.jpg
 ---

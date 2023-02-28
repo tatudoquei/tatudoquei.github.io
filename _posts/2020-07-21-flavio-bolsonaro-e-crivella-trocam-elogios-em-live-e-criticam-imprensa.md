@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-21 05:59:00
 pub_date: 2020-07-21 05:59:00
 time_added: 2020-07-22 05:08:59
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/esporte/8b/2020/07/14/flavio-bolsonaro-assina-filiacao-ao-republicanos-de-marcelo-crivella-1594740086191_v2_615x300.jpg
 ---

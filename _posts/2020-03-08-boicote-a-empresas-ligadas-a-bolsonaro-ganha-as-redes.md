@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-08 10:07:39
 pub_date: 2020-03-08 10:07:39
 time_added: 2020-03-09 15:23:56
-category: 
+categories: []
 tags: []
 image: https://static.congressoemfoco.uol.com.br/2020/03/bcg_arquitetura05-novo-1200x630.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-11 14:43:00
 pub_date: 2020-05-11 14:43:00
 time_added: 2020-05-12 12:58:06
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24421334-663-ff7/FT1086A/652/hospitaldecampanhaparquedosatletas.jpg
 ---

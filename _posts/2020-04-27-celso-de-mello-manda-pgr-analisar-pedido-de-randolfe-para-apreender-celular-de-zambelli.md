@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-27 09:57:13
 pub_date: 2020-04-27 09:57:13
 time_added: 2020-04-28 05:01:44
-category: 
+categories: []
 tags: []
 image: https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2020/03/carla-zambelli_170320200438.jpg
 ---

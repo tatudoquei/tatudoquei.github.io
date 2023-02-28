@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-08 12:00:00
 pub_date: 2020-05-08 12:00:00
 time_added: 2020-05-18 13:23:26
-category: 
+categories: []
 tags: []
 image: https://video-images.vice.com/test-uploads/articles/5eb49e78daa802009d5a9ebc/lede/1588895736091-Screen-Shot-2020-05-07-at-75352-PM.png?crop=1xw:0.9942493946731235xh;center,center&resize=1200:*
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-31 11:33:14
 pub_date: 2020-03-31 11:33:14
 time_added: 2020-03-31 21:41:39
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2020/03/einstein.jpeg?quality=70&strip=info&w=640&h=442&crop=1
 ---

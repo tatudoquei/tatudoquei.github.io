@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-06 16:36:00
 pub_date: 2020-02-06 16:36:00
 time_added: 2020-02-07 20:06:32
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/198/files/2020/02/marciaribeirofolhapress-553x300.jpg
 ---

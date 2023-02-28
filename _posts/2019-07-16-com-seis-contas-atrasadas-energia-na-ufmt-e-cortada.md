@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-16 19:12:52
 pub_date: 2019-07-16 19:12:52
 time_added: 2019-07-16 21:12:52
-category: 
+categories: []
 tags: []
 image: http://www.olhardireto.com.br/imgsite/noticias/ufmt-olhar-direto-(1)(1).jpg
 ---

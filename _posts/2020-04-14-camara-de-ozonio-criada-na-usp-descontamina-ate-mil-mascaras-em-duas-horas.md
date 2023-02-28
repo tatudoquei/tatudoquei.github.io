@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-14 14:01:18
 pub_date: 2020-04-14 14:01:18
 time_added: 2020-04-16 16:39:58
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/04/20200414_camera-ozonio.jpg
 ---

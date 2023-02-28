@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-20 12:28:00
 pub_date: 2020-06-20 12:28:00
 time_added: 2020-06-21 17:48:18
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/61/2020/06/18/18jun2020---jair-bolsonaro-e-abraham-weintraub-1592517456047_v2_615x300.png
 ---

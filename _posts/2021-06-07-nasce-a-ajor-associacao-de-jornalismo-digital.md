@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-07 16:14:37
 pub_date: 2021-06-07 16:14:37
 time_added: 2021-07-03 03:20:43
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2021/06/facebook-nasce-a-ajor-associacao-de-jornalismo-digital.png
 ---

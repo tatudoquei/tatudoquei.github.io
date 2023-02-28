@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-29 12:01:33
 pub_date: 2019-10-29 12:01:33
 time_added: 2022-10-22 17:45:02
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2019/10/48149679616-31f7e037d3-o.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

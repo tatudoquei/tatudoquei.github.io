@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-28 19:48:17
 pub_date: 2022-09-28 19:48:17
 time_added: 2022-10-03 00:21:05
-category: 
+categories: []
 tags: []
 image: https://infoamazonia.org/wp-content/uploads/2022/09/GP1SU5A8_-1.jpg
 ---

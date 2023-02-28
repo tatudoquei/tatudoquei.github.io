@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-11 19:41:34
 pub_date: 2020-05-11 19:41:34
 time_added: 2020-05-12 12:57:12
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/2tv_veu1ay_KpXHcqk8I191-M9c=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/9/I/NTA300RuCiUifWlTwYwA/covas-3.jpg
 ---

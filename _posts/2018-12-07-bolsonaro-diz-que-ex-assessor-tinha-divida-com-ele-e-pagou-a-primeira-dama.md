@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-07 18:02:00
 pub_date: 2018-12-07 18:02:00
 time_added: 2018-12-08 15:54:11
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/0e/2018/10/29/28out2018---michele-e-jair-bolsonaro-fazem-pose-apos-votacao-na-eleicao-presidencial-1540813548408_v2_615x300.jpg
 ---

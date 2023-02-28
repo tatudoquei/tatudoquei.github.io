@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-11-25 00:59:00
 pub_date: 2018-11-25 00:59:00
 time_added: 2018-11-25 23:37:10
-category: avisamos
+categories: [avisamos]
 tags: [diplomacia]
 image: https://painel.blogfolha.uol.com.br/files/2018/11/bivar-2.jpg
 ---

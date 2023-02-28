@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-19 20:43:07
 pub_date: 2020-03-19 20:43:07
 time_added: 2020-03-20 21:32:31
-category: 
+categories: []
 tags: []
 image: https://acasadevidro.files.wordpress.com/2020/03/neopentecostais136733.png
 ---

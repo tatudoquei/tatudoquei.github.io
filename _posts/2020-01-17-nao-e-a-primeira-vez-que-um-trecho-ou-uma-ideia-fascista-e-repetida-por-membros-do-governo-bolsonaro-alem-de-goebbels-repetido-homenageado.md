@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-17 15:52:23
 pub_date: 2020-01-17 15:52:23
 time_added: 2020-01-17 16:52:23
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://threadreaderapp.com/images/screenshots/thread/1218117562719985664.jpg
 ---

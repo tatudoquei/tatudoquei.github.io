@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-20 07:08:25
 pub_date: 2017-01-17 03:00:00
 time_added: 2019-06-20 07:08:25
-category: 
+categories: []
 tags: []
 image: http://conteudo.imguol.com.br/2013/03/11/chefe-dinheiro-rico-riqueza-roubo-arrogancia-1363030272198_615x300.jpg
 ---

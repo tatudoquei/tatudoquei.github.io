@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-13 10:50:00
 pub_date: 2020-04-13 10:50:00
 time_added: 2020-04-13 21:28:44
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24218993-a73-cd1/FT1086A/652/x84787637_BSBBrasiliaBrasil25-09-2019A-Comissao-de-Constituicao-e-Justica-do-Senado-pres.jpg.pagespeed.ic.HUX89GjJgz.jpg
 ---

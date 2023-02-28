@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-11-02 16:37:04
 pub_date: 2018-11-02 16:37:04
 time_added: 2019-05-21 19:36:07
-category: 
+categories: []
 tags: []
 image: https://www.valor.com.br/sites/default/files/imagecache/media_library_big_horizontal/fotoweb/fakenews1.jpg
 ---

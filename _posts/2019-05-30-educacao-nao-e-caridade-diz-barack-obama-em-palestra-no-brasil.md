@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-30 16:44:00
 pub_date: 2019-05-30 16:44:00
 time_added: 2019-06-02 05:02:15
-category: 
+categories: []
 tags: []
 image: https://img.r7.com/images/obama-29052019160922543?dimensions=600x315&crop_position=c
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-04 15:30:00
 pub_date: 2020-08-04 15:30:00
 time_added: 2020-08-05 03:12:29
-category: 
+categories: []
 tags: []
 image: https://darwinedeus.blogfolha.uol.com.br/files/2020/07/in-the-land-of-mordor.jpg
 ---

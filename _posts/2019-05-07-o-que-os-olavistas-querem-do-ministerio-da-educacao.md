@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-07 16:25:25
 pub_date: 2019-05-07 16:25:25
 time_added: 2019-05-11 02:41:20
-category: 
+categories: []
 tags: []
 image: https://i2.wp.com/apublica.org/wp-content/uploads/2019/05/imagem-de-capa.jpg?fit=1600%2C893&ssl=1
 ---

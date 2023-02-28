@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-04 02:30:00
 pub_date: 2021-02-04 02:30:00
 time_added: 2021-02-06 12:06:22
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24868486-63c-26f/FT1086A/652/WhatsApp-Image-2021-02-03-at-22.00.47.jpeg.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-05 22:00:05
 pub_date: 2023-01-05 22:00:05
 time_added: 2023-01-06 23:32:42
-category: 
+categories: []
 tags: []
 image: https://oeco.org.br/wp-content/uploads/2023/01/Rui-Costa-scaled.jpg
 ---

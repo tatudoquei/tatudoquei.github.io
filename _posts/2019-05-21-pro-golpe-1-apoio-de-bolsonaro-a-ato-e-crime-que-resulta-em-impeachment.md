@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-21 06:16:00
 pub_date: 2019-05-21 06:16:00
 time_added: 2019-05-22 06:31:06
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2019/03/justicaeconstituicao-615x300.jpg
 ---

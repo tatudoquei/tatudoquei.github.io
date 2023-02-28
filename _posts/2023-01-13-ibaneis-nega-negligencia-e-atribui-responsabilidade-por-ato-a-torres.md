@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-13 15:57:00
 pub_date: 2023-01-13 15:57:00
 time_added: 2023-01-14 14:42:32
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/c3/2023/01/13/ibaneis-rocha-1673639964188_v2_615x300.png
 ---

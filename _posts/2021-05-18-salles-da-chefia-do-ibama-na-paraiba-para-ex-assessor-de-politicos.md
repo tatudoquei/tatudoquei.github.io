@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-18 16:03:42
 pub_date: 2021-05-18 16:03:42
 time_added: 2021-05-30 06:59:34
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/05/Oeco2_Ricardo-Salles_MMA-divulgacao.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-12 22:28:14
 pub_date: 2023-01-12 22:28:14
 time_added: 2023-01-14 09:20:48
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/anderson-torres.jpeg1/alternates/LANDSCAPE_768/anderson%20torres.jpeg
 ---

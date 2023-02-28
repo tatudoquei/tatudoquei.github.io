@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-06-16 01:38:00
 pub_date: 2022-06-16 01:38:00
 time_added: 2022-06-16 04:06:06
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2022/06/capa-facebook-na-ultima-viagem-de-bruno-e-dom-nada-de-aventura-1.png
 ---

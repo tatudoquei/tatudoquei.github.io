@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-02-15 19:26:00
 pub_date: 2019-02-15 19:26:00
 time_added: 2019-02-16 09:21:35
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://painel.blogfolha.uol.com.br/files/2018/11/15398983385bc8fbe25215b_1539898338_3x2_rt.jpg
 ---

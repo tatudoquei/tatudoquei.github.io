@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-16 15:00:00
 pub_date: 2023-02-16 15:00:00
 time_added: 2023-02-18 08:40:06
-category: 
+categories: [avisamos, malditos milicos]
 tags: []
 image: https://apublica.org/wp-content/uploads/2023/02/Capa-Facebook_militares-heleno.png
 ---

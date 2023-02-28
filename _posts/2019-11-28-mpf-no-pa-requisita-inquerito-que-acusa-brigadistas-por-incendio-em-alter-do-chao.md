@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-28 05:54:36
 pub_date: 2019-11-28 05:54:36
 time_added: 2019-11-28 06:54:36
-category: 
+categories: []
 tags: []
 image: http://www.mpf.mp.br/pa/sala-de-imprensa/noticias-pa/mpf-requisita-inquerito-que-acusa-brigadistas-por-incendio-em-alter-do-chao-pa/@@images/2c6baeee-54f1-46ba-96f9-cc8209032bfb.png
 ---

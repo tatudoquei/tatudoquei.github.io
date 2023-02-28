@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-31 23:49:56
 pub_date: 2021-05-31 23:49:56
 time_added: 2021-06-20 09:54:17
-category: recuadas
+categories: [recuadas]
 tags: []
 image: https://imagens.brasil.elpais.com/resizer/HI0tCnbhJD5wQhwjXf1oLAb6-rw=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/HOMI5RWW3NH3LABTYG4KKXS54U.jpg
 ---

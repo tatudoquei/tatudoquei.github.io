@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-29 22:17:39
 pub_date: 2022-10-29 22:17:39
 time_added: 2022-10-30 18:58:14
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2022/06/04194038/Sem-titulo-90.jpg
 ---

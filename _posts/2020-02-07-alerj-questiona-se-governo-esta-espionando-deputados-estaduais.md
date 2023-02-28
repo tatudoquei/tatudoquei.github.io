@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-07 22:46:44
 pub_date: 2020-02-07 22:46:44
 time_added: 2020-02-08 00:00:36
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/ACeebRBzEJUiGhgGQ1mzxc9q3aM=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/Z/j/0sKPsxQLeUk0tz0CzuMA/plenario-da-alerj-dia-da-posse-2.jpg
 ---

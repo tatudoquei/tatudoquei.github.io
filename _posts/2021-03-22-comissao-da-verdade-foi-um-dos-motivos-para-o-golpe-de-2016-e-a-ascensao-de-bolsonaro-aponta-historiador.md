@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-22 18:33:55
 pub_date: 2021-03-22 18:33:55
 time_added: 2021-03-22 23:07:22
-category: 
+categories: []
 tags: []
 image: https://cdn.revistaforum.com.br/wp-content/uploads/2021/03/comissao-nacional-da-verdade-dilma-rousseff.jpg
 ---

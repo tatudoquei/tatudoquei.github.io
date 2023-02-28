@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-28 07:33:00
 pub_date: 2020-01-28 07:33:00
 time_added: 2020-01-30 06:49:02
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/5a/2020/01/27/27jan2020---o-presidente-jair-bolsonaro-participa-de-cafe-da-manha-com-empresarios-indianos-em-nova-delhi-1580131547161_v2_750x421.jpg
 ---

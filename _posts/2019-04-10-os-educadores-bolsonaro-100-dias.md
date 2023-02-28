@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-04-10 00:57:10
 pub_date: 2019-04-10 00:57:10
 time_added: 2019-04-12 21:42:04
-category: 
+categories: []
 tags: []
 image: https://diplomatique.org.br/wp-content/uploads/2019/04/Pal-Cezane-morte-bolsonaro.jpg
 ---

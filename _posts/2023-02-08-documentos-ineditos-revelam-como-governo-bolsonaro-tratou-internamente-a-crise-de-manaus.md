@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-08 22:10:27
 pub_date: 2023-02-08 22:10:27
 time_added: 2023-02-26 18:28:54
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2023/02/Capa_Facebook_Documentos-ineditos-revelam-como-governo-Bolsonaro-tratou-internamente-a-crise-de-Manaus.png
 ---

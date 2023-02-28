@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-29 13:45:12
 pub_date: 2021-07-29 13:45:12
 time_added: 2021-08-20 21:09:49
-category: 
+categories: []
 tags: []
 image: https://guiadoestudante.abril.com.br/wp-content/uploads/sites/4/2021/07/Marcos-Pontes.jpg?quality=100&strip=info&w=680&h=453&crop=1
 ---

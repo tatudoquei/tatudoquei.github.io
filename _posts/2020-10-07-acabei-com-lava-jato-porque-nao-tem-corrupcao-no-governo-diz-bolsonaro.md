@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-07 16:05:00
 pub_date: 2020-10-07 16:05:00
 time_added: 2020-10-08 06:06:27
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/34/2020/09/22/o-presidente-jair-bolsonaro-sem-partido-na-saida-do-palacio-da-alvorada-em-foto-de-arquivo-7012020-1600810741488_v2_615x300.jpg
 ---

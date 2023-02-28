@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-27 18:44:59
 pub_date: 2020-05-27 18:44:59
 time_added: 2020-05-28 18:31:40
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2018/07/20180724_00_jose_souza_martins.jpg
 ---

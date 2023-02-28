@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-25 01:42:02
 pub_date: 2021-11-25 01:42:02
 time_added: 2021-11-25 02:42:02
-category: 
+categories: []
 tags: []
 image: https://agencia.fapesp.br/agencia-novo/imagens/noticia/37385.jpg
 ---

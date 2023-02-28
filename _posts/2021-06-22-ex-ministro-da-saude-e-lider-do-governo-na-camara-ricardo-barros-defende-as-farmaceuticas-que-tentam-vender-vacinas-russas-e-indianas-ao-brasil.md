@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-22 10:30:00
 pub_date: 2021-06-22 10:30:00
 time_added: 2021-07-04 12:36:47
-category: 
+categories: []
 tags: []
 image: https://jconlineimagem.ne10.uol.com.br/imagem/noticia/2018/02/09/normal/56471e03df18e3332ddd164d757b6eb1.jpg
 ---

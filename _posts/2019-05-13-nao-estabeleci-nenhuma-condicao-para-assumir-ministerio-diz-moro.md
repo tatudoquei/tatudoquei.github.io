@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-13 13:12:00
 pub_date: 2019-05-13 13:12:00
 time_added: 2019-05-16 19:16:55
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/4b/2019/05/09/05mai2019-----o-ministro-da-justica-e-seguranca-publica-sergio-moro-participa-da-cerimonia-de-entrega-do-selo-nacional-de-responsabilidade-social-pelo-trabalho-1557416877551_v2_750x421.jpg
 ---

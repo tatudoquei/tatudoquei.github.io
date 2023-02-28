@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-12-24 13:43:00
 pub_date: 2020-12-24 13:43:00
 time_added: 2020-12-24 18:59:44
-category: 
+categories: []
 tags: [meio ambiente]
 image: https://conteudo.imguol.com.br/c/noticias/67/2020/08/12/desmatamento-da-amazonia-em-foto-de-julho-de-2020-da-ong-wwf-e-um-dos-mais-temidos-gatilhos-para-novas-pandemias-no-futuro-1597238898568_v2_615x300.png
 ---

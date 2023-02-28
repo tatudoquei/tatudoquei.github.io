@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-30 15:27:00
 pub_date: 2022-09-30 15:27:00
 time_added: 2022-10-02 23:59:34
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a2/2022/09/30/wellington-macedo-concorre-a-deputado-federal-por-sp-mas-estava-impedido-de-permanecer-no-estado-por-causa-das-medidas-restritivas-1664569647658_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-07 20:02:00
 pub_date: 2020-04-07 20:02:00
 time_added: 2020-04-09 07:35:15
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a1/2019/04/03/escritor-conferencista-ensaista-jornalista-e-filosofo-brasileiro-olavo-de-carvalho-1554304111947_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-25 22:52:00
 pub_date: 2021-10-25 22:52:00
 time_added: 2021-10-31 22:25:31
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25168450-8d2-be1/FT1086A/760/94880361_BrasiliaDF-03-08-2021-Presidente-da-Republica-Jair-Bolsonaro-assina-o-termo-que-da-p.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-20 13:23:00
 pub_date: 2019-01-20 13:23:00
 time_added: 2019-12-23 21:41:25
-category: bandido bom
+categories: [bandido bom, refletimos]
 tags: []
 ---
 

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-25 18:37:59
 pub_date: 2018-08-01 15:23:56
 time_added: 2020-07-25 18:37:59
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/www.geledes.org.br/wp-content/uploads/2018/07/mulheres-negra-al-750x410.jpg?fit=480%2C267&ssl=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-16 03:00:00
 pub_date: 2019-11-16 03:00:00
 time_added: 2019-11-17 21:27:12
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/c2/2019/11/14/sonia-guimaraes-1573770080264_v2_615x300.jpg
 ---

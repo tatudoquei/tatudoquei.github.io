@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-30 20:16:28
 pub_date: 2020-03-30 20:16:28
 time_added: 2020-03-30 22:16:28
-category: 
+categories: []
 tags: []
 image: https://www.socioambiental.org/sites/blog.socioambiental.org/files/styles/twitter-card/public/blogs/rs48933_yanomami_isa-63-lpr.jpg?itok=kLJXMLqH
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-04 18:36:00
 pub_date: 2021-06-04 18:36:00
 time_added: 2021-06-05 17:51:29
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24980279-65b-e72/FT1086A/xdanielsilveira-600x378-1.jpg.pagespeed.ic.rbvm8ZF_mZ-1.jpg
 ---

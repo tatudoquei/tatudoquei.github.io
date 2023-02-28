@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-27 19:19:00
 pub_date: 2021-12-27 19:19:00
 time_added: 2022-01-08 12:24:14
-category: 
+categories: []
 tags: []
 image: https://s.conjur.com.br/img/b/kassio-nunes-marques6.jpeg
 ---

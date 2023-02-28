@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-01 15:00:00
 pub_date: 2020-06-01 15:00:00
 time_added: 2020-06-02 13:48:27
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/b0/2020/06/01/tales-faria-e-rodrigo-maia-no-uol-entrevista-1591038326299_v2_615x300.jpg
 ---

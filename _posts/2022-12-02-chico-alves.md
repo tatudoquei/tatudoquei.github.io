@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-02 10:12:00
 pub_date: 2022-12-02 10:12:00
 time_added: 2022-12-03 22:25:13
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e7/2022/12/02/presidente-jair-bolsonaro-em-cerimonia-de-promocao-de-generais-1669989376905_v2_615x300.png
 ---

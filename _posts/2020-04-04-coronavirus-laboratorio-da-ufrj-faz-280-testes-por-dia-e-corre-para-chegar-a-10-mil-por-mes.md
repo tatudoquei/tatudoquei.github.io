@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-04 02:30:00
 pub_date: 2020-04-04 02:30:00
 time_added: 2020-04-04 15:42:23
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24351072-cbb-3cc/FT1086A/652/UFRJ.jpg
 ---

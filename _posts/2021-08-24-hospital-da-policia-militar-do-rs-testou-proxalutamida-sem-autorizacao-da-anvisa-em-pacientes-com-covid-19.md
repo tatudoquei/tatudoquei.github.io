@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-24 20:15:25
 pub_date: 2021-08-24 20:15:25
 time_added: 2021-09-06 08:26:43
-category: 
+categories: []
 tags: []
 image: https://www.matinaljornalismo.com.br/wp-content/uploads/2021/08/hospital-bm.jpeg
 ---

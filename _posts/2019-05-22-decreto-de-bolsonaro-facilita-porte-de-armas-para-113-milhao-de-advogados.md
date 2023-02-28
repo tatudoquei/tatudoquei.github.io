@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-22 15:21:00
 pub_date: 2019-05-22 15:21:00
 time_added: 2019-05-26 22:48:06
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/61/files/2019/01/bolso-2-615x300.jpg
 ---

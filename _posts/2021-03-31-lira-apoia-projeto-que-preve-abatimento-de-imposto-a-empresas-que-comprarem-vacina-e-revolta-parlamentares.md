@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-31 17:30:00
 pub_date: 2021-03-31 17:30:00
 time_added: 2021-04-01 06:25:27
-category: 
+categories: []
 tags: []
 image: https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-23 13:06:58
 pub_date: 2020-04-23 13:06:58
 time_added: 2020-04-23 15:06:58
-category: 
+categories: []
 tags: []
 image: https://media.gazetadopovo.com.br/2020/01/28145604/290db128-7a44-11e9-bd87-00505697492c-wp-660x372.jpg
 ---

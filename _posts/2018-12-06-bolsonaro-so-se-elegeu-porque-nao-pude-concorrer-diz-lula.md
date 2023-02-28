@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-06 21:21:00
 pub_date: 2018-12-06 21:21:00
 time_added: 2019-12-23 21:15:16
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://www.blogdokennedy.com.br/wp-content/themes/kennedy_2/images/kennedy.jpg
 ---

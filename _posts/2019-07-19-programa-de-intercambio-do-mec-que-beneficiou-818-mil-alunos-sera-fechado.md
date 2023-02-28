@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-19 18:59:29
 pub_date: 2019-07-19 18:59:29
 time_added: 2019-07-20 12:58:04
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2019/07/weintraub-2.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

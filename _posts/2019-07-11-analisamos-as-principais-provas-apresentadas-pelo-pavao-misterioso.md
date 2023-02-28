@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-11 02:24:58
 pub_date: 2019-07-11 02:24:58
 time_added: 2019-07-11 18:52:24
-category: 
+categories: []
 tags: []
 image: http://www.e-farsas.com/wp-content/uploads/pavao.jpg
 ---

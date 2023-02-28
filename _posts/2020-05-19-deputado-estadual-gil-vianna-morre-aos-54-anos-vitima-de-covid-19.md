@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-19 22:05:00
 pub_date: 2020-05-19 22:05:00
 time_added: 2020-05-21 06:23:53
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/75/2020/05/20/deputado-gil-vianna-psl-rj-vitima-do-coronavirus-1589944113708_v2_615x300.jpg
 ---

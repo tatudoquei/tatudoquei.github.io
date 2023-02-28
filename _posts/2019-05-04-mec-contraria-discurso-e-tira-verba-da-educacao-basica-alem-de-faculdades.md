@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-04 14:40:07
 pub_date: 2019-05-04 14:40:07
 time_added: 2019-06-02 05:01:34
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2019/04/mec-ministro-2.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

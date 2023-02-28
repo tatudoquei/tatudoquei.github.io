@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-10-22 09:42:00
 pub_date: 2022-10-22 09:42:00
 time_added: 2022-10-22 18:04:14
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/dd/2022/08/16/andre-janones-foi-o-terceiro-deputado-federal-mais-votado-de-minas-gerais-em-2018-e-apoia-lula-na-atual-eleicao-1660674089676_v2_750x421.jpg
 ---

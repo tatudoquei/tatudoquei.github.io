@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-13 13:53:30
 pub_date: 2021-12-13 13:53:30
 time_added: 2021-12-13 14:53:30
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/10/Jair-Bolsonaro-IvanDuqueMarquez-Colombia-Presidente-CerimoniaDeChegada-PalacioDoPlanalto-131-1200x630.jpg
 ---

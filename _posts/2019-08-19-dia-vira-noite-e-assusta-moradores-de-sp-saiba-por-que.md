@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-19 19:37:03
 pub_date: 2019-08-19 19:37:03
 time_added: 2019-08-19 22:19:33
-category: 
+categories: []
 tags: []
 image: https://img.jovempan.uol.com.br/uploads/2019/08/ecwvcaaxuaelp16-1024x835.jpg
 ---

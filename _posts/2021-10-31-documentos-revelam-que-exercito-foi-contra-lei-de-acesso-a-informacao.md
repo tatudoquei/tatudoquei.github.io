@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-31 06:30:00
 pub_date: 2021-10-31 06:30:00
 time_added: 2021-11-13 12:37:59
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/25258988-001-585/FT1086A/760/95547506_02-10-2021-O-general-Joaquim-Silva-e-Luna-Presidente-da-PetrobrasA0Antonio-Cruz-Agenc.jpg
 ---

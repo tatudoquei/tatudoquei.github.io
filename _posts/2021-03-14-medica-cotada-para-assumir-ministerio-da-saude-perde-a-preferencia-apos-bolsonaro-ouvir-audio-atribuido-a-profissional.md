@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-14 18:26:00
 pub_date: 2021-03-14 18:26:00
 time_added: 2021-03-21 09:17:28
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24476128-22d-2e6/FT1086A/LudhmillaHajjar01.jpeg.jpg
 ---

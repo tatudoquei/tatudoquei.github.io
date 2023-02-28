@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-02-24 04:07:00
 pub_date: 2022-02-24 04:07:00
 time_added: 2022-02-24 06:48:52
-category: 
+categories: []
 tags: []
 image: https://theintercept.com/wp-uploads/sites/1/2022/02/farRight-Selo-The-Intercept-Redes.jpg
 ---

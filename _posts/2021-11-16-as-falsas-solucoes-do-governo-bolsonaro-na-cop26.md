@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-16 00:31:00
 pub_date: 2021-11-16 00:31:00
 time_added: 2021-11-17 00:18:11
-category: 
+categories: []
 tags: []
 image: http://jacobin.com.br/wp-content/uploads/2021/11/joaquim-leite-2.jpeg
 ---

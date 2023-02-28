@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-29 20:05:00
 pub_date: 2020-04-29 20:05:00
 time_added: 2020-04-30 22:17:34
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/3a/2020/04/29/o-presidente-jair-bolsonaro-durante-solenidade-de-posse-de-andre-luiz-de-almeida-mendonca-como-novo-ministro-da-justica-1588201225917_v2_615x300.jpg
 ---

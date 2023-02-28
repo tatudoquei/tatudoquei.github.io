@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-07 18:28:46
 pub_date: 2019-12-07 18:28:46
 time_added: 2019-12-09 07:41:24
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/4XSVf3VwRWfKqbfQ-Qj38PSKaU8=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/jo/g1/f/original/2013/12/16/gado_reserva.jpg
 ---

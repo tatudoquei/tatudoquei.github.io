@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-16 13:48:38
 pub_date: 2019-05-16 13:48:38
 time_added: 2019-05-16 19:14:48
-category: 
+categories: []
 tags: []
 image: https://www.valor.com.br/sites/default/files/imagecache/media_library_big_horizontal/gn/18/09/foto14pol-101-cristi-a7.jpg
 ---

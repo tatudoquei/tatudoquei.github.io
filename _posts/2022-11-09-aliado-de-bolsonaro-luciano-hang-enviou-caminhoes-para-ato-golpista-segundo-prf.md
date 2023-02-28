@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-11-09 19:37:00
 pub_date: 2022-11-09 19:37:00
 time_added: 2022-11-12 14:17:22
-category: 
+categories: []
 tags: []
 image: https://apublica.org/wp-content/uploads/2022/11/Capa_Facebook_Aliado-de-Bolsonaro-Luciano-Hang-enviou-caminhoes-para-ato-golpista-segundo-PRF-1.png
 ---

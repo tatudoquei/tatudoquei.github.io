@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-17 13:34:34
 pub_date: 2020-10-17 13:34:34
 time_added: 2020-10-18 07:57:50
-category: 
+categories: []
 tags: []
 image: https://veja.abril.com.br/wp-content/uploads/2020/09/59577-NARCISO_EM_F__RIAS__NARCISSUS_OFF_DUTY__-_Caetano_Veloso__4_.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

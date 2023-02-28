@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-26 12:17:00
 pub_date: 2020-08-26 12:17:00
 time_added: 2022-10-22 17:59:10
-category: 
+categories: []
 tags: []
 image: https://revistaforum.com.br/u/fotografias/m/2020/8/26/f1280x720-53023_184698_5050.jpg
 ---

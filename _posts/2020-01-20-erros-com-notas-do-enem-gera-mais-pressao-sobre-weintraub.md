@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-20 08:45:45
 pub_date: 2020-01-20 08:45:45
 time_added: 2020-01-20 15:56:58
-category: 
+categories: []
 tags: []
 image: https://abrilexame.files.wordpress.com/2020/01/weintraub.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-17 14:43:00
 pub_date: 2020-01-17 14:43:00
 time_added: 2020-01-17 21:50:58
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/blogs/278/files/2020/01/bolsonarocabelo-615x300.jpg
 ---

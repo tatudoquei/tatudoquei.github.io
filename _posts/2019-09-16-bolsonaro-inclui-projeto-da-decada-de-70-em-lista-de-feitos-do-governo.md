@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-16 23:25:33
 pub_date: 2019-09-16 23:25:33
 time_added: 2019-09-17 16:17:46
-category: 
+categories: []
 tags: []
 image: https://abrilveja.files.wordpress.com/2019/08/48599959112_f30f47601e_o.jpg?quality=70&strip=info&w=680&h=453&crop=1
 ---

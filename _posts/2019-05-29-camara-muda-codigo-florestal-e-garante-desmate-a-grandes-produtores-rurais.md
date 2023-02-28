@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-29 15:53:00
 pub_date: 2019-05-29 15:53:00
 time_added: 2019-06-12 07:36:09
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/35/2017/10/04/vista-de-queimada-em-area-de-cerrado-em-sao-jose-dos-campos-sp-1507140942601_615x300.jpg
 ---

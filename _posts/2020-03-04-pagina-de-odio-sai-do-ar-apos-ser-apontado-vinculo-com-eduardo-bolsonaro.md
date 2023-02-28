@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-04 18:19:00
 pub_date: 2020-03-04 18:19:00
 time_added: 2020-03-05 17:57:16
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d1/2019/09/06/eduardo-bolsonaro-em-viagem-a-washington-onde-se-encontrou-com-trump-1567820636591_v2_615x300.jpg
 ---

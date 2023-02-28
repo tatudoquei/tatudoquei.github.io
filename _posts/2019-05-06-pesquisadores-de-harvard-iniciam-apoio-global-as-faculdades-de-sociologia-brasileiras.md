@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-05-06 19:50:08
 pub_date: 2019-05-06 19:50:08
 time_added: 2019-05-09 22:40:45
-category: 
+categories: []
 tags: []
 image: https://jornalistaslivres.org/wp-content/uploads/2019/05/cursos-online-harvard-1500386218983.jpg
 ---

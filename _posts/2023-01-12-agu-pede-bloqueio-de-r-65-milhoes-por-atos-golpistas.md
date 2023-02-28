@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-12 22:10:23
 pub_date: 2023-01-12 22:10:23
 time_added: 2023-01-14 09:20:34
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/atos-golpistas/alternates/LANDSCAPE_768/atos%20golpistas
 ---

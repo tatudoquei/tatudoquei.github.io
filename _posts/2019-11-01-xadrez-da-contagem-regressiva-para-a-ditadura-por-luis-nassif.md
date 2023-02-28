@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-01 01:00:58
 pub_date: 2019-11-01 01:00:58
 time_added: 2020-04-28 04:28:15
-category: 
+categories: []
 tags: []
 image: https://jornalggn.com.br/sites/default/files/2019/10/condominio.jpg
 ---

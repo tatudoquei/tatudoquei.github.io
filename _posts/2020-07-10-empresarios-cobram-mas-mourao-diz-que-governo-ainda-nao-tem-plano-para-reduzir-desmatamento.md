@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-10 16:13:00
 pub_date: 2020-07-10 16:13:00
 time_added: 2020-07-11 19:55:12
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/economia/24526552-d65-053/FT1086A/652/88777165_Brasilia-DF-10-07-2020-Vice-Presidente-da-Republica-Hamilton-Mourao-em-coletiva-de-imprensa.jpg
 ---

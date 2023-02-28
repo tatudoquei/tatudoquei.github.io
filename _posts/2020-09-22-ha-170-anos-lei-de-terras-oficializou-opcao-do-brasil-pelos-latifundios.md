@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-22 18:57:53
 pub_date: 2020-09-22 18:57:53
 time_added: 2020-09-23 22:27:17
-category: 
+categories: []
 tags: []
 image: https://images03.brasildefato.com.br/55efe611a69986fc974ea8adddc40e49.jpeg
 ---

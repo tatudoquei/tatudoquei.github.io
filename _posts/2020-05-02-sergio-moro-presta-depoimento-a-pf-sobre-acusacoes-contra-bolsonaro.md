@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-02 11:50:00
 pub_date: 2020-05-02 11:50:00
 time_added: 2020-05-02 22:03:23
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/3f/2020/04/25/sergio-moro-anuncia-saida-do-ministerio-da-justica-1587851754052_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-03 22:48:45
 pub_date: 2020-03-03 22:48:45
 time_added: 2020-03-03 23:48:45
-category: 
+categories: []
 tags: []
 image: http://agencia.fapesp.br/agencia-novo/imagens/noticia/32637.jpg
 ---

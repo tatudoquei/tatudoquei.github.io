@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-04 18:40:27
 pub_date: 2020-02-04 18:40:27
 time_added: 2020-02-04 19:40:27
-category: 
+categories: []
 tags: []
 image: https://midias.agazeta.com.br/2019/12/20/interior-do-aviao-poltronas-e-bagageiros-151063.jpg
 ---

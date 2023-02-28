@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-26 21:36:04
 pub_date: 2020-05-26 21:36:04
 time_added: 2020-05-28 05:48:31
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/05/20200526_terrare-e-redonda.jpg
 ---

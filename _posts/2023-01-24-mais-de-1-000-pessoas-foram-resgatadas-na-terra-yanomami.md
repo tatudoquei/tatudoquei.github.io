@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-24 21:42:35
 pub_date: 2023-01-24 21:42:35
 time_added: 2023-01-27 01:18:52
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/yanomami8/alternates/LANDSCAPE_768/yanomami
 ---

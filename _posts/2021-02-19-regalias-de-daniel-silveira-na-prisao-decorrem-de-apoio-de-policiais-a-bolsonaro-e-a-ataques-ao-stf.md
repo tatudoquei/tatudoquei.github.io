@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-19 02:01:52
 pub_date: 2021-02-19 02:01:52
 time_added: 2021-02-19 18:46:05
-category: 
+categories: []
 tags: []
 image: https://blogs.correiobraziliense.com.br/vicente/wp-content/uploads/sites/16/2021/02/DanielSilveira.jpg
 ---

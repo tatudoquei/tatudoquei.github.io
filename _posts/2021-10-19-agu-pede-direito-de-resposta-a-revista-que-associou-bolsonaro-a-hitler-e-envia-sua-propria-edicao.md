@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-10-19 17:54:22
 pub_date: 2021-10-19 17:54:22
 time_added: 2021-10-24 14:57:32
-category: 
+categories: []
 tags: []
 image: https://uploads.metropoles.com/wp-content/uploads/2021/10/19142506/Capa-Bolsonaro.jpg
 ---

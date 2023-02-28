@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-25 17:29:00
 pub_date: 2019-08-25 17:29:00
 time_added: 2019-08-27 06:30:31
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/42/2019/08/25/23ago2019---o-presidente-jair-bolsonaro-psl-participa-das-comemoracoes-do-dia-do-soldado-em-brasilia-1566767362099_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-01-19 16:54:07
 pub_date: 2021-01-19 16:54:07
 time_added: 2021-01-19 13:54:07
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24820588-878-ec9/FT1086A/652/ministro_saude.jpg
 ---

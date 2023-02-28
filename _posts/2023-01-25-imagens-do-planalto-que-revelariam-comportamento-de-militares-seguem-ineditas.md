@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-25 11:00:00
 pub_date: 2023-01-25 11:00:00
 time_added: 2023-01-27 01:20:19
-category: 
+categories: []
 tags: []
 image: https://i0.wp.com/apublica.org/wp-content/uploads/2023/01/Capa_Facebook_Coluna-Rubens_Imagens-do-Planalto-que-revelariam-comportamento-de-militares-seguem-ineditas-1.png?fit=1200%2C630&ssl=1
 ---

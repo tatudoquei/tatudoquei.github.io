@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-15 15:51:00
 pub_date: 2020-04-15 15:51:00
 time_added: 2020-04-16 19:19:59
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24373540-a1d-6ed/FT1086A/652/paulosaldiva.jpg
 ---

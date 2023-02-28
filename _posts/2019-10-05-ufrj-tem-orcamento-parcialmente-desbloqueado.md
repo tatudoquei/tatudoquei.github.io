@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-05 20:21:20
 pub_date: 2019-10-05 20:21:20
 time_added: 2019-10-05 22:21:20
-category: 
+categories: []
 tags: []
 image: https://ufrj.br/sites/default/files/img-noticia/2019/10/ufrjminerva.jpg
 ---

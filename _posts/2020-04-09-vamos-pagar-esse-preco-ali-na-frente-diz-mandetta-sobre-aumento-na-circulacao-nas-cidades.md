@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-09 20:24:00
 pub_date: 2020-04-09 20:24:00
 time_added: 2020-04-10 13:24:20
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24361968-4ce-d7c/FT1086A/652/mandetta-saude.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-02 09:00:15
 pub_date: 2020-06-02 09:00:15
 time_added: 2020-06-02 14:13:55
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2020/06/21/world/31virus-leadership1/31virus-leadership1-facebookJumbo-v3.jpg
 ---

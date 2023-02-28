@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-27 12:04:12
 pub_date: 2021-03-27 12:04:12
 time_added: 2021-03-27 09:04:12
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2021/03/Eduardo-Bim-DESTAQUE.jpg
 ---

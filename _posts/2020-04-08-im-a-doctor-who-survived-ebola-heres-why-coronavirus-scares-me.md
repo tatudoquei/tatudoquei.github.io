@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-08 16:11:39
 pub_date: 2020-04-08 16:11:39
 time_added: 2020-04-12 13:00:36
-category: 
+categories: []
 tags: []
 image: https://api.time.com/wp-content/uploads/2020/04/frontline-workers-craig-spencer-social.jpg?quality=85&w=1200&h=628&crop=1
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-11-23 18:04:00
 pub_date: 2018-11-23 18:04:00
 time_added: 2019-12-23 21:19:31
-category: avisamos
+categories: [avisamos]
 tags: []
 image: http://conteudo.imguol.com.br/c/entretenimento/3c/2018/11/19/vereadora-do-psol-marielle-franco-e-assassinada-no-rio-1542662090683_v2_956x500.jpg
 ---

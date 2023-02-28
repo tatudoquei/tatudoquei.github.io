@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-11-13 21:21:07
 pub_date: 2019-11-13 21:21:07
 time_added: 2020-04-28 04:30:39
-category: 
+categories: []
 tags: []
 image: https://jornalggn.com.br/sites/default/files/2019/11/xadrez-bozo.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-04 20:56:48
 pub_date: 2019-09-04 20:56:48
 time_added: 2019-09-04 22:56:48
-category: 
+categories: []
 tags: []
 image: https://www.acritica.com/uploads/news/image/764829/share_medium_salve_5E228769-E86E-46E8-AB64-6F8F576C15CB.JPG
 ---

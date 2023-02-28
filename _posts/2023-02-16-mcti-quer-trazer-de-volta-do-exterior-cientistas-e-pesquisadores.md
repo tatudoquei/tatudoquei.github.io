@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-02-16 13:36:07
 pub_date: 2023-02-16 13:36:07
 time_added: 2023-02-18 11:43:24
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-16-at-12.04.28-1.jpeg
 ---

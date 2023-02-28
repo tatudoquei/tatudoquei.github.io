@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-20 20:44:00
 pub_date: 2020-04-20 20:44:00
 time_added: 2020-04-21 05:35:08
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d1/2019/11/28/19jun2019jun2019---o-ministro-gilmar-mendes-do-supremo-tribunal-federal-concede-entrevista-ao-uol-1574975502930_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-05-21 13:04:00
 pub_date: 2021-05-21 13:04:00
 time_added: 2021-05-21 20:28:34
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/81/2021/05/21/deputado-jose-medeiros-podemos-mt-e-o-presidente-jair-bolsonaro-1621618573185_v2_615x300.jpg
 ---

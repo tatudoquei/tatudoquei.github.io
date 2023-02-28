@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2023-01-14 07:01:00
 pub_date: 2023-01-14 07:01:00
 time_added: 2023-01-21 10:20:16
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/8d/2023/01/09/8jan2023---golpistas-bolsonaristas-invadem-o-congresso-nacional-em-brasilia-df-1673287244808_v2_615x300.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-08-01 05:00:25
 pub_date: 2020-08-01 05:00:25
 time_added: 2020-08-01 07:00:25
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/1testes.jpg/alternates/LANDSCAPE_768/1testes.jpg
 ---

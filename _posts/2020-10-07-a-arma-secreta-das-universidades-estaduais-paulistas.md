@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-10-07 17:50:16
 pub_date: 2020-10-07 17:50:16
 time_added: 2020-10-07 20:33:23
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/10/20201007_helder-1.jpg
 ---

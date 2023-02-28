@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-07 20:34:28
 pub_date: 2020-04-07 20:34:28
 time_added: 2020-04-08 19:59:40
-category: 
+categories: []
 tags: []
 image: https://jornal.usp.br/wp-content/uploads/2020/04/20200407_00_laboratorio_covid-19.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-29 22:01:00
 pub_date: 2020-04-29 22:01:00
 time_added: 2020-05-01 07:34:10
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24376693-80e-6b1/FT1086A/652/Nelson-Teich.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-25 21:37:00
 pub_date: 2021-03-25 21:37:00
 time_added: 2021-03-27 19:03:36
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/46/2021/03/16/ernesto-araujo-1615934233135_v2_615x300.jpg
 ---

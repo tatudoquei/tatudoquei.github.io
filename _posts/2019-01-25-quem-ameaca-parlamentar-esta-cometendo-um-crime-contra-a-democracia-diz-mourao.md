@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-25 14:33:18
 pub_date: 2019-01-25 14:33:18
 time_added: 2019-12-23 21:37:44
-category: refletimos
+categories: [refletimos]
 tags: []
 image: https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png
 ---

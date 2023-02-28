@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-27 12:04:43
 pub_date: 2020-05-27 12:04:43
 time_added: 2020-05-27 22:06:46
-category: 
+categories: []
 tags: []
 image: https://www.oeco.org.br/wp-content/uploads/2020/05/180611-_-PnP-_-Sao-Joaquim-4.jpg
 ---

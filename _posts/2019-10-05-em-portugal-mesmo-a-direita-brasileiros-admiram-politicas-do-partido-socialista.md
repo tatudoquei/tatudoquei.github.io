@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-05 02:30:00
 pub_date: 2019-10-05 02:30:00
 time_added: 2019-10-06 08:36:28
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23998128-e5c-370/FT1086A/652/imagem-caminhoneiro-brazuca-em-portugal-editada.jpg
 ---

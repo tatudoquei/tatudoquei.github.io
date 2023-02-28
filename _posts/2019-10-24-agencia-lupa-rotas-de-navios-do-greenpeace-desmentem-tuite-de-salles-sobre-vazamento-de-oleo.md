@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-10-24 21:50:43
 pub_date: 2019-10-24 21:50:43
 time_added: 2019-10-26 20:23:09
-category: 
+categories: []
 tags: []
 image: https://piaui.folha.uol.com.br/lupa/wp-content/uploads/2019/10/ricardosalles.jpg
 ---

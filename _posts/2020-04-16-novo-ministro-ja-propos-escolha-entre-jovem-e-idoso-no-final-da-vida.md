@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-16 15:16:00
 pub_date: 2020-04-16 15:16:00
 time_added: 2020-04-17 19:10:06
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/fa/2020/04/16/nelson-teich-o-novo-ministro-da-saude-1587057962510_v2_615x300.jpg
 ---

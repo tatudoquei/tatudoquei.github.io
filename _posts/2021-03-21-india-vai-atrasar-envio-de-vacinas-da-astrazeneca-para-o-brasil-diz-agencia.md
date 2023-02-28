@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-21 16:13:19
 pub_date: 2021-03-21 16:13:19
 time_added: 2021-03-27 18:46:06
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2021/03/vacina-doses-imunizante-seringa-scaled-2-1200x630.jpeg
 ---

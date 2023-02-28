@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-20 16:08:14
 pub_date: 2019-12-20 16:08:14
 time_added: 2019-12-22 00:36:08
-category: 
+categories: []
 tags: []
 image: https://static.poder360.com.br/2019/12/TelegramMoroDallagnol-1200x630.png
 ---

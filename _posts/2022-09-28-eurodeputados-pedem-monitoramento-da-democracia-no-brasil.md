@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-09-28 21:35:16
 pub_date: 2022-09-28 21:35:16
 time_added: 2022-10-03 00:24:03
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/2022-09-28T191351Z_1_LYNXMPEI8R0ZA_RTROPTP_4_BRAZIL-ELECTION-BOLSONARO-RALLY.jpg/alternates/LANDSCAPE_768/2022-09-28T191351Z_1_LYNXMPEI8R0ZA_RTROPTP_4_BRAZIL-ELECTION-BOLSONARO-RALLY.jpg
 ---

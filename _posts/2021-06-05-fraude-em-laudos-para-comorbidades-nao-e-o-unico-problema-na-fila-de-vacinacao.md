@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-05 02:30:00
 pub_date: 2021-06-05 02:30:00
 time_added: 2021-06-05 15:08:08
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/vDMQtHHrGhQIbb61QD938drcTYw=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2021/01/15/vacina_covid_17bQYFS.jpg
 ---

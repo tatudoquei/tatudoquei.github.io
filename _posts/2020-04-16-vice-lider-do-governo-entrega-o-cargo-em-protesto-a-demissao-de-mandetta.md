@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-16 14:40:00
 pub_date: 2020-04-16 14:40:00
 time_added: 2020-04-16 20:54:17
-category: 
+categories: []
 tags: []
 image: https://s2.glbimg.com/1xoohrZn1iXQ-sz8-L5H6bxdwG4=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2020/04/16/lucas_barreto.jpeg
 ---

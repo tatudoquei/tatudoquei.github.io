@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-10 08:00:01
 pub_date: 2019-06-10 08:00:01
 time_added: 2019-06-11 05:47:43
-category: 
+categories: []
 tags: []
 image: https://www.valor.com.br/sites/default/files/imagecache/media_library_big_horizontal/gn/19/06/foto10esp-101-cotas-a12.jpg
 ---

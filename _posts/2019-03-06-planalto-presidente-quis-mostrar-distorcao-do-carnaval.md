@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-06 23:25:57
 pub_date: 2019-03-06 23:25:57
 time_added: 2019-12-23 21:15:17
-category: recuadas
+categories: [recuadas]
 tags: []
 image: http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2019/03/06/2019-03-06T135421Z_1_LYNXNPEF2517V_RTROPTP_4_BRAZIL-GUNS.JPG
 ---

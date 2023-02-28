@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-12-02 19:05:00
 pub_date: 2019-12-02 19:05:00
 time_added: 2020-01-30 07:53:31
-category: 
+categories: []
 tags: []
 image: https://rollingstone.uol.com.br/media/_versions/beatles_ap_dante_mantovani_divulgacao_widelg.jpg
 ---

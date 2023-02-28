@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-03-18 18:38:41
 pub_date: 2019-03-18 18:38:41
 time_added: 2019-03-18 19:38:41
-category: avisamos
+categories: [avisamos]
 tags: []
 image: https://aosfatos.org/static/images/declaracoes-bolsonaro-fb-card.bbfb6f9c6a51.png
 ---

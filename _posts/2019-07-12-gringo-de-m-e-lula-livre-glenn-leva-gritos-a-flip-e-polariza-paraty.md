@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-07-12 19:20:00
 pub_date: 2019-07-12 19:20:00
 time_added: 2019-07-14 06:17:54
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/aa/2019/07/12/12jul2019---protesto-de-apoiadores-de-sergio-moro-contra-a-presenca-do-jornalista-glenn-greenwald-na-flip-em-paraty-rj-1562975545046_v2_750x421.jpg
 ---

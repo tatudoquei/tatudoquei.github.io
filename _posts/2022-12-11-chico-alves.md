@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-11 13:37:00
 pub_date: 2022-12-11 13:37:00
 time_added: 2022-12-18 22:37:23
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/cc/2022/12/08/6dez2022---o-presidente-jair-bolsonaro-durante-cerimonia-de-posse-de-novos-ministros-do-stj-1670538657546_v2_615x300.jpg
 ---

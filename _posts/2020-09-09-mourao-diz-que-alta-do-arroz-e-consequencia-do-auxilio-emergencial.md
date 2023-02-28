@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-09-09 09:25:00
 pub_date: 2020-09-09 09:25:00
 time_added: 2020-09-09 19:23:51
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/2f/2020/07/29/vice-presidente-hamilton-mourao-1596035448419_v2_615x300.jpg
 ---

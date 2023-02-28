@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-07-14 12:59:05
 pub_date: 2020-07-14 12:59:05
 time_added: 2020-07-14 20:57:51
-category: 
+categories: []
 tags: []
 image: http://www.jornaldaciencia.org.br/wp-content/uploads/2020/07/drauzio-e-helena.png
 ---

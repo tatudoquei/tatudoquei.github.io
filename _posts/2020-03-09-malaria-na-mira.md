@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-09 14:23:45
 pub_date: 2020-03-09 14:23:45
 time_added: 2020-03-09 15:23:45
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2019/01/149_vultosdaciencia_redes.jpg
 ---

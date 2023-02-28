@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-02-18 15:50:58
 pub_date: 2021-02-18 15:50:58
 time_added: 2021-02-18 23:16:59
-category: 
+categories: []
 tags: [meio ambiente]
 image: https://imagens.brasil.elpais.com/resizer/Af6598-iBCZFdtx0Rqq9b-4krTU=/1000x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/KFPAFUFRJBBRJNCXHJU5TKJMQY.jpg
 ---

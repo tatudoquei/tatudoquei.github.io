@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-19 19:45:00
 pub_date: 2018-12-19 19:45:00
 time_added: 2019-12-23 21:19:31
-category: resistimos
+categories: [resistimos]
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/81/2018/12/18/bolsonaro-foi-eleito-presidente-com-577-milhoes-de-votos-1545167121881_v2_615x300.jpg
 ---

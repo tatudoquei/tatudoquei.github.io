@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-09 09:02:00
 pub_date: 2020-02-09 09:02:00
 time_added: 2020-02-09 17:23:07
-category: 
+categories: []
 tags: []
 image: https://painel.blogfolha.uol.com.br/files/2018/12/15441168415c095a696d8c0_1544116841_3x2_rt.jpg
 ---

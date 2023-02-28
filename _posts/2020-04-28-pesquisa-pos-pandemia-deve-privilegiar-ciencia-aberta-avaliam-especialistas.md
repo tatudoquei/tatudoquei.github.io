@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-28 11:07:38
 pub_date: 2020-04-28 11:07:38
 time_added: 2020-04-28 11:53:37
-category: 
+categories: []
 tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2017/03/testeira-novas-facilities-ctbe1.jpg
 ---

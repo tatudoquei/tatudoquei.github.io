@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-26 15:46:00
 pub_date: 2020-03-26 15:46:00
 time_added: 2020-03-27 22:25:01
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24330446-37f-381/FT1086A/652/87647794_Inicio-da-montagem-do-hospital-de-campanha-para-auxilio-no-combate-ao-Coronavirus-no-pavilh.jpg
 ---

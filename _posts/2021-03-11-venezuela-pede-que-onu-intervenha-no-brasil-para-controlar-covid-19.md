@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-11 18:00:00
 pub_date: 2021-03-11 18:00:00
 time_added: 2021-03-12 06:42:52
-category: 
+categories: []
 tags: []
 image: https://s3.operamundi.uol.com.br/thumb/2f819926dd1c438ba6d1c516dceff27c_56dcf92b7f006cec27a0e0cbc9df3597.jpg
 ---

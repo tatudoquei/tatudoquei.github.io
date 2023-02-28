@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-06-10 06:16:00
 pub_date: 2021-06-10 06:16:00
 time_added: 2021-07-04 12:36:57
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/e7/2021/06/07/07jun2021---senador-randolfe-rodrigues-rede-ap-e-vice-presidente-da-cpi-da-covid-1623094667244_v2_615x300.jpg
 ---

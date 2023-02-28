@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-04-14 02:00:00
 pub_date: 2020-04-14 02:00:00
 time_added: 2020-04-14 21:26:29
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/25/2020/04/09/presidente-jair-bolsonaro-no-palacio-da-alvorada-1586451818775_v2_615x300.jpg
 ---

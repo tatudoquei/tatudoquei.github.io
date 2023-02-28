@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-27 03:30:00
 pub_date: 2020-01-27 03:30:00
 time_added: 2020-01-30 06:45:48
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24212695-5c4-9cc/FT1086A/652/86669024_EC-Sao-PauloSP24-01-2019Bolsa-FamiliaLeussmirys-Carolina-29-anose-Victor-Va.jpg
 ---

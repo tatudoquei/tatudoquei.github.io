@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-07-08 15:30:00
 pub_date: 2021-07-08 15:30:00
 time_added: 2021-07-25 16:52:02
-category: 
+categories: []
 tags: []
 image: https://www.correio24horas.com.br/fileadmin/_processed_/3/6/csm_olavo_carvalho_divulgacao_0b76db23cc.jpg
 ---

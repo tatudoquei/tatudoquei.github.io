@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-08-12 02:30:15
 pub_date: 2019-08-12 02:30:15
 time_added: 2019-08-14 22:48:31
-category: 
+categories: []
 tags: []
 image: https://static01.nyt.com/images/2019/08/02/world/int-brazil/int-brazil-facebookJumbo.jpg
 ---

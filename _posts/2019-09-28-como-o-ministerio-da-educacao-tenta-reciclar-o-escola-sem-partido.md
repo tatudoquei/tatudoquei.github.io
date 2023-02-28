@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-28 22:00:00
 pub_date: 2019-09-28 22:00:00
 time_added: 2019-10-03 07:46:05
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/Weintraub/ALTERNATES/LANDSCAPE_720/Weintraub
 ---

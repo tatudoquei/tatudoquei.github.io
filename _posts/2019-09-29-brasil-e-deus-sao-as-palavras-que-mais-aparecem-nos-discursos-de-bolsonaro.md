@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-09-29 02:30:00
 pub_date: 2019-09-29 02:30:00
 time_added: 2019-10-03 07:29:26
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/23982247-09b-962/FT1086A/652/header-nuvem.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-03-01 07:30:00
 pub_date: 2021-03-01 07:30:00
 time_added: 2021-03-06 22:51:26
-category: 
+categories: []
 tags: []
 image: https://ogimg.infoglobo.com.br/in/24901936-7eb-d2d/FT1086A/652/91793255_Florianopolis-SC-26-02-2021LotacaoCoronavirusCom-super-lotacao-de-pacientes-com-CO.jpg
 ---

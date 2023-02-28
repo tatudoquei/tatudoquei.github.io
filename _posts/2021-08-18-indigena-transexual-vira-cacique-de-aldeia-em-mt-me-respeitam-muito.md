@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-08-18 08:00:00
 pub_date: 2021-08-18 08:00:00
 time_added: 2021-09-06 08:18:13
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/8b/2021/08/18/indigena-transexual-se-torna-cacique-de-aldeia-em-mato-grosso-1629258668247_v2_615x300.jpg
 ---

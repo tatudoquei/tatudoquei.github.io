@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2018-12-11 05:00:00
 pub_date: 2018-12-11 05:00:00
 time_added: 2022-09-11 10:45:56
-category: avisamos
+categories: [avisamos, malditos milicos]
 tags: []
 image: https://imgsapp2.correiobraziliense.com.br/app/noticia_127983242361/2018/12/11/724473/20181210224146536407i.jpg
 ---

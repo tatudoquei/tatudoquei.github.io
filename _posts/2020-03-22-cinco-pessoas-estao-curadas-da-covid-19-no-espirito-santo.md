@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-03-22 18:06:00
 pub_date: 2020-03-22 18:06:00
 time_added: 2020-03-23 07:54:52
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/d6/2020/03/19/cientistas-trabalham-em-pesquisa-em-busca-de-tratamento-para-o-novo-coronavirus-1584626021135_v2_615x300.jpg
 ---

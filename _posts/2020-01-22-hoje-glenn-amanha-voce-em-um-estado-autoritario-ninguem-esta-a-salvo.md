@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-01-22 07:29:00
 pub_date: 2020-01-22 07:29:00
 time_added: 2020-01-25 12:59:53
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/parceiros/e6/2020/01/21/glenn-greenwald-1579633030630_v2_615x300.jpg
 ---

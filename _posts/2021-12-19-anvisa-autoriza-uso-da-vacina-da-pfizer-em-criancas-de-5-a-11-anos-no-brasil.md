@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-19 09:29:07
 pub_date: 2021-12-19 09:29:07
 time_added: 2021-12-19 10:29:07
-category: 
+categories: []
 tags: []
 image: https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/11/pfizer_criancas_uso_restrito.jpg?w=940
 ---

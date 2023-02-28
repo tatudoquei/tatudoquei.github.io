@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-11-13 15:32:46
 pub_date: 2021-11-13 15:32:46
 time_added: 2021-11-13 12:32:46
-category: 
+categories: []
 tags: []
 image: http://piaui.folha.uol.com.br/wp-content/uploads/2021/11/rosaelira_redes.jpg
 ---

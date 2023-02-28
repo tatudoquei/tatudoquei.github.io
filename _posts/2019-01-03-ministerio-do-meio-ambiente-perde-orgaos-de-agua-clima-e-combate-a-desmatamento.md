@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-01-03 12:35:02
 pub_date: 2019-01-03 12:35:02
 time_added: 2019-01-05 09:44:39
-category: avisamos
+categories: [avisamos]
 tags: []
 image: http://www.diretodaciencia.com/wp-content/uploads/2018/11/1095533-vacpto__25.10.17_12.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-02-04 17:00:00
 pub_date: 2020-02-04 17:00:00
 time_added: 2020-02-04 23:25:23
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/noticias/a1/2020/01/16/fabio-wajngarten-se-aproximou-do-presidente-jair-bolsonaro-ainda-durante-a-campanha-1579200698685_v2_615x300.jpg
 ---

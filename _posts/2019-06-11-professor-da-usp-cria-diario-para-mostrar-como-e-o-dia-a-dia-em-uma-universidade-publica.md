@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2019-06-11 03:52:48
 pub_date: 2019-06-11 03:52:48
 time_added: 2019-06-11 05:52:48
-category: 
+categories: []
 tags: []
 image: http://www.icmc.usp.br/imprensa/4302/professor-da-usp-cria-diario-para-mostrar-como-e-o-dia-a-dia-em-uma-universidade-publica.jpg
 ---

@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2021-12-21 22:17:28
 pub_date: 2021-12-21 22:17:28
 time_added: 2021-12-25 10:26:53
-category: 
+categories: []
 tags: []
 image: http://oeco.org.br/wp-content/uploads/2021/12/Serra-do-Divisor.jpg
 ---

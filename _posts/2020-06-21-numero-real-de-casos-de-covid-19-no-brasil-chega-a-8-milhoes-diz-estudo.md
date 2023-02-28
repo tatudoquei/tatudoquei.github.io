@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-06-21 15:48:22
 pub_date: 2020-06-21 15:48:22
 time_added: 2020-06-21 17:48:22
-category: 
+categories: []
 tags: []
 image: https://exame.com/wp-content/uploads/2020/06/mortes-coronavirus-no-brasil-e1592082853808-1.jpg?quality=70&strip=info
 ---

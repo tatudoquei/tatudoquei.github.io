@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2022-12-02 23:00:00
 pub_date: 2022-12-02 23:00:00
 time_added: 2022-12-18 22:29:16
-category: 
+categories: []
 tags: []
 image: https://ufrj.br/wp-content/uploads/2022/12/Artur-Moes-25-1200x800.jpg
 ---

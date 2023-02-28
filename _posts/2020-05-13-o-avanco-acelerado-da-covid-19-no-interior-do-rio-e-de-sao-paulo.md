@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-13 09:36:10
 pub_date: 2020-05-13 09:36:10
 time_added: 2020-05-13 11:36:10
-category: 
+categories: []
 tags: []
 image: https://www.nexojornal.com.br/incoming/imagens/voltaredonda.jpeg/alternates/LANDSCAPE_768/voltaredonda.jpeg
 ---

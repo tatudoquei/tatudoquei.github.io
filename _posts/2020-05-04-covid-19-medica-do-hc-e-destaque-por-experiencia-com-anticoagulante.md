@@ -7,7 +7,7 @@ author: Tatu D'Oquei
 date: 2020-05-04 12:34:00
 pub_date: 2020-05-04 12:34:00
 time_added: 2020-05-04 21:53:33
-category: 
+categories: []
 tags: []
 image: https://conteudo.imguol.com.br/c/entretenimento/31/2020/05/04/elnara-negri-medica-do-sirio-e-do-hc-1588618390419_v2_615x300.jpg
 ---
